@@ -26,7 +26,7 @@ void main() {
     for (var i = 0; i < ids.length; i++) {
       expect(ids[i], 'zh_${(i + 1).toString().padLeft(2, '0')}');
     }
-    expect(ids.length, greaterThanOrEqualTo(312));
+    expect(ids.length, greaterThanOrEqualTo(391));
   });
 
   test('every lesson teaches something and asks enough questions', () {
