@@ -257,7 +257,7 @@ L7 = lesson(
              examples=[D(BD, BD_E)]),
         card("Activity 3 (Reading, Speaking and Listening): three influential singers",
              "New vocabulary: 钢琴 (gāngqín; Piano). Below are three influential singers on the Chinese music scene: 李宇春 (Lǐ Yǔchūn), 周杰伦 (Zhōu Jiélún), 华晨宇 (Huá Chényǔ); the book prints a photograph for each (not included). A. Form groups of three. Each student selects one singer and reads the description; take notes in the column under the singer’s name. B. Go to the internet and conduct a search on the singer you chose and add the information you find. C. Tell your group members about your singer; the group members listen and take notes in the table. The new word 嘻哈 (xīhā; hip-hop) and 说唱 (shuōchàng; rap) appear in the texts.",
-             examples=[D(z, e) for z, e in SG]),
+             examples=[D(z, e, fixes={"得": "de2"} if "她得了第一名" in z else None) for z, e in SG]),
         card("Activity 4 Optional (Reading, Speaking and Listening): See a show!",
              "年代售票 is a popular site for purchasing tickets for a variety of entertainment and live performances in Taiwan. A. Pair up. Use the links the book gives to watch video clips on how to purchase tickets using the site; Student A takes notes on odd-numbered steps and Student B on even-numbered steps (steps 1 to 10); create step-by-step instructions in the table. B. Pair up. Go to the site and discuss which show you would like to see, including the type of performance, the date, time, price and location. C. Post your plans on Linoit and report to your class. (Videos and websites, not included.)"),
     ],

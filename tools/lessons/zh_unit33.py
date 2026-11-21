@@ -65,7 +65,7 @@ L2 = lesson(
     cards=[
         card("The time word 以前",
              "The adverb 以前 can be used to mean “previously” or “in the past”. As in English, 以前 can begin a sentence when it is used as a general time reference. It can also be placed right after the subject. It may also follow a time word or an action to indicate “before” that particular reference point in time, as in 十点以前 or 睡觉以前. Patterns: General time reference: 以前 + Sentence; Subject + 以前 + Verb + Object. Specific time or action: Time + 以前, …; Verb Phrase + 以前, ….",
-             examples=[D(z, e) for z, e in YQ_PAT] + [D(z, e) for z, e in YQ]),
+             examples=[D(z, e) for z, e in YQ_PAT] + [D(z, e, fixes={"得": "dei3"} if "得" in z else None) for z, e in YQ]),
         card("Activities 1 to 3",
              "Activity 1 (Speaking and Listening). Form groups of three. Using the two sentence patterns 以前… or 现在… and …以前，…, take turns describing six images (not included). Activity 2 (Listening). Listen to the dialog and answer: 1. What did the woman ask about Lao Chen’s wife? 2. How has the woman changed? 3. What does Lao Chen suggest she should do? 4. Was the woman happy in the end? Why didn’t she mention the problem sooner? (Audio, not included.) Activity 3 (Speaking and Listening). A. Using 以前, interview a classmate about their life before DLI and now, and take notes in a table (Name, Life Before DLI, Life Now). B. Based on your notes, report your interview results to the class in Chinese."),
     ],
@@ -106,7 +106,7 @@ L3 = lesson(
              examples=[D(z, e, fixes={"得": "dei3"} if "得" in z else None) for z, e in BAX] + [D(z, e) for z, e in BAE]),
         card("Activity 4 (Reading, Writing and Speaking)",
              "Pair up. Complete the following exchanges with 把, then perform them for the class: 1. A: 先生，请问您要买什么？ B: ___ (拿给我看看). 2. A: 小黄，我的笔记本还在你那儿吗？ B: ___ (给李红了). 3. A: 这是二百五十块。 B: 找您十四块 ___ (拿好). 4. A: 这是二百五十块。 B: 当然，你得 ___ (交给老师). (Exchange 4 repeats exchange 3’s first line in the book, so my fourth is a free one.) My completed exchanges:",
-             examples=[D(z, e) for z, e in BA4]),
+             examples=[D(z, e, fixes={"得": "dei3"} if "得" in z else None) for z, e in BA4]),
         card("Activity 5: Game On! (SMART Board activity)",
              "Divide into teams of three. Each team member rewrites two sentences using the 把 construction. The team that finishes first reads their sentences to the class first, followed by the slower team. The team with the most correct sentences wins; if the teams tie, the faster team wins. Team 1’s sentences were 我送给弟弟一个书包, 弟弟拿走了那本书, 老王卖了他的公寓, 大年做完了作业 (the book prints 做好完了), 他修好了自行车, 上课的时候不要打开手机. My rewrites of Team 1:",
              examples=[D(z, e) for z, e in T1]),

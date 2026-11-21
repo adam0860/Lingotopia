@@ -8,7 +8,7 @@ from pypinyin import Style, pinyin
 from dsl_zh import *
 
 _SYL_T = re.compile(r"^([a-zv]+)([1-5])$")
-_ERHUA_AFTER = set("那哪这点玩花口馅会")
+_ERHUA_AFTER = set("那哪这点玩花口馅会塞空活件孩事块下错边天半")
 _PUNCT_MAP = {"，": ",", "。": ".", "？": "?", "！": "!", "、": ",", "：": ":", "；": ";", "“": '"', "”": '"', "（": "(", "）": ")", "…": "..."}
 _DIGITS = set("零一二三四五六七八九十")
 
@@ -32,8 +32,17 @@ def auto_py(zh, fixes=None):
             p = fixes[idx]
         elif fixes and c in fixes:      # a character as key: every occurrence in the string
             p = fixes[c]
+        elif c == "弹":
+            # tán (play an instrument, bounce) except in the bullet/bomb words, which are dàn
+            _pc = chars[idx - 1] if idx > 0 else ""
+            _nc = chars[idx + 1] if idx + 1 < len(chars) else ""
+            p = "dan4" if (_pc in "子炮导枪炸" or _nc in "药丸壳") else "tan2"
         elif c == "得" and p in ("de2", "dei3", "de5"):
-            p = "de5"                    # the degree complement; say {"得": "dei3"} for 'must' or {"得": "de2"} for 'to get'
+            # the degree complement is de5; a pronoun or adverb right before 得 and a verb after it means 'must' (děi);
+            # say {"得": "de2"} for 'to get' (dé) where this guess is wrong
+            _pc = chars[idx - 1] if idx > 0 else ""
+            _nc = chars[idx + 1] if idx + 1 < len(chars) else ""
+            p = "dei3" if (_pc and _pc in "我你他她们还就都也才先" and _nc and _nc not in "了到过奖分意益罪病，。？！、：；” ") else "de5"
         toks.append([c, p])
     out = []
     for i, (c, p) in enumerate(toks):
@@ -62,7 +71,7 @@ def auto_py(zh, fixes=None):
                 keep = True
             if not keep:
                 p = "yi2" if nxt[1] == 4 else "yi4"
-        if c == "儿" and out and prev_c in _ERHUA_AFTER and p in ("er2", "er5"):
+        if c == "儿" and out and prev_c in _ERHUA_AFTER and p in ("er2", "er5") and not (nxt and nxt[0] in "子童女媳歌科园孙"):
             out[-1] = out[-1] + "r5"
             continue
         out.append(p)

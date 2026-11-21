@@ -17,7 +17,7 @@ def D(zh, en, hl=None, fixes=None):
             j = zh.find(key, j + 1)
     for j, ch in enumerate(zh):  # 地 as the adverbial marker is de5; keep dì in 草地, 当地, 地道, 地址, ...
         if ch == "地" and j > 0:
-            f[j] = "di4" if (zh[j - 1] in "当草土天各山场内本外基实陆特" or (j + 1 < len(zh) and zh[j + 1] in "道址方铁图球区点上下面理")) else "de5"
+            f[j] = "di4" if (zh[max(0, j - 2):j + 1] == "目的地" or zh[j - 1] in "当草土天各山场内本外基实陆特" or (j + 1 < len(zh) and zh[j + 1] in "道址方铁图球区点上下面理")) else "de5"
     f.update(fixes or {})
     return _D0(zh, en, hl, f)
 

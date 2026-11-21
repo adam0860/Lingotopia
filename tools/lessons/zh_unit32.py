@@ -13,7 +13,7 @@ P2 = [
     ("大卫", "我不知道怎么在网上交，听说很麻烦。", "I don’t know how to pay online; I hear it’s very troublesome."),
     ("张文", "不麻烦。只要在银行的网站上注册一下就行了。", "It’s not troublesome. You just register on the bank’s website, and that’s it."),
     ("大卫", "这么简单啊。", "It’s that simple?"),
-    ("张文", "对，不过，你得设一个用户名和密码。", "Yes, but you have to set up a username and a password."),
+    ("张文", "对，不过，你得设一个用户名和密码。", "Yes, but you have to set up a username and a password.", {"得": "dei3"}),
     ("大卫", "除了交费以外，网上银行还有别的服务吗？", "Besides paying fees, does online banking have other services?"),
     ("张文", "有啊。你可以转账，汇款，也可以付信用卡账单。", "Yes. You can transfer funds, remit money, and also pay credit card bills."),
     ("大卫", "网上银行安全吗？", "Is online banking safe?"),
