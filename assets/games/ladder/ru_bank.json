@@ -1,0 +1,5874 @@
+[
+ {
+  "id": "ru_k_t1_01",
+  "tier": 1,
+  "category": "nature",
+  "text": "Сколько ног у собаки?",
+  "translation": "How many legs does a dog have?",
+  "correct": {
+   "text": "Четыре",
+   "translation": "Four"
+  },
+  "distractors": [
+   {
+    "text": "Две",
+    "translation": "Two"
+   },
+   {
+    "text": "Шесть",
+    "translation": "Six"
+   },
+   {
+    "text": "Восемь",
+    "translation": "Eight"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "ног",
+    "en": "legs"
+   }
+  ],
+  "explanation": "У собаки четыре ноги.",
+  "explanationEn": "A dog has four legs."
+ },
+ {
+  "id": "ru_k_t1_02",
+  "tier": 1,
+  "category": "society",
+  "text": "Сколько дней в неделе?",
+  "translation": "How many days are in a week?",
+  "correct": {
+   "text": "Семь",
+   "translation": "Seven"
+  },
+  "distractors": [
+   {
+    "text": "Пять",
+    "translation": "Five"
+   },
+   {
+    "text": "Шесть",
+    "translation": "Six"
+   },
+   {
+    "text": "Десять",
+    "translation": "Ten"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "неделе",
+    "en": "week"
+   }
+  ],
+  "explanation": "В неделе семь дней.",
+  "explanationEn": "There are seven days in a week."
+ },
+ {
+  "id": "ru_k_t1_03",
+  "tier": 1,
+  "category": "geography",
+  "text": "Какой город — столица Франции?",
+  "translation": "Which city is the capital of France?",
+  "correct": {
+   "text": "Париж",
+   "translation": "Paris"
+  },
+  "distractors": [
+   {
+    "text": "Лондон",
+    "translation": "London"
+   },
+   {
+    "text": "Берлин",
+    "translation": "Berlin"
+   },
+   {
+    "text": "Мадрид",
+    "translation": "Madrid"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "столица",
+    "en": "capital city"
+   },
+   {
+    "w": "город",
+    "en": "city"
+   }
+  ],
+  "explanation": "Париж — столица Франции.",
+  "explanationEn": "Paris is the capital of France."
+ },
+ {
+  "id": "ru_k_t1_04",
+  "tier": 1,
+  "category": "food",
+  "text": "Какой фрукт жёлтый и длинный?",
+  "translation": "Which fruit is yellow and long?",
+  "correct": {
+   "text": "Банан",
+   "translation": "Banana"
+  },
+  "distractors": [
+   {
+    "text": "Яблоко",
+    "translation": "Apple"
+   },
+   {
+    "text": "Арбуз",
+    "translation": "Watermelon"
+   },
+   {
+    "text": "Вишня",
+    "translation": "Cherry"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "фрукт",
+    "en": "fruit"
+   },
+   {
+    "w": "длинный",
+    "en": "long"
+   },
+   {
+    "w": "арбуз",
+    "en": "watermelon"
+   },
+   {
+    "w": "вишня",
+    "en": "cherry"
+   },
+   {
+    "w": "жёлтый",
+    "en": "yellow"
+   }
+  ],
+  "explanation": "Банан жёлтый и длинный.",
+  "explanationEn": "A banana is yellow and long."
+ },
+ {
+  "id": "ru_k_t1_05",
+  "tier": 1,
+  "category": "nature",
+  "text": "Какое животное говорит «мяу»?",
+  "translation": "Which animal says \"meow\"?",
+  "correct": {
+   "text": "Кошка",
+   "translation": "Cat"
+  },
+  "distractors": [
+   {
+    "text": "Собака",
+    "translation": "Dog"
+   },
+   {
+    "text": "Корова",
+    "translation": "Cow"
+   },
+   {
+    "text": "Лошадь",
+    "translation": "Horse"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "животное",
+    "en": "animal"
+   },
+   {
+    "w": "корова",
+    "en": "cow"
+   },
+   {
+    "w": "лошадь",
+    "en": "horse"
+   }
+  ],
+  "explanation": "Кошка говорит «мяу».",
+  "explanationEn": "A cat says \"meow\"."
+ },
+ {
+  "id": "ru_k_t1_06",
+  "tier": 1,
+  "category": "science",
+  "text": "На какой планете мы живём?",
+  "translation": "On which planet do we live?",
+  "correct": {
+   "text": "На Земле",
+   "translation": "On Earth"
+  },
+  "distractors": [
+   {
+    "text": "На Марсе",
+    "translation": "On Mars"
+   },
+   {
+    "text": "На Венере",
+    "translation": "On Venus"
+   },
+   {
+    "text": "На Юпитере",
+    "translation": "On Jupiter"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "планете",
+    "en": "planet"
+   },
+   {
+    "w": "Марсе",
+    "en": "Mars"
+   },
+   {
+    "w": "Венере",
+    "en": "Venus"
+   },
+   {
+    "w": "Юпитере",
+    "en": "Jupiter"
+   }
+  ],
+  "explanation": "Мы живём на планете Земля.",
+  "explanationEn": "We live on the planet Earth."
+ },
+ {
+  "id": "ru_k_t1_07",
+  "tier": 1,
+  "category": "society",
+  "text": "Какой цвет на светофоре значит «стой»?",
+  "translation": "Which color on a traffic light means \"stop\"?",
+  "correct": {
+   "text": "Красный",
+   "translation": "Red"
+  },
+  "distractors": [
+   {
+    "text": "Зелёный",
+    "translation": "Green"
+   },
+   {
+    "text": "Жёлтый",
+    "translation": "Yellow"
+   },
+   {
+    "text": "Синий",
+    "translation": "Blue"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "светофоре",
+    "en": "traffic light"
+   },
+   {
+    "w": "значит",
+    "en": "means"
+   },
+   {
+    "w": "стой",
+    "en": "stop (command)"
+   }
+  ],
+  "explanation": "Красный свет значит «стой».",
+  "explanationEn": "A red light means \"stop\"."
+ },
+ {
+  "id": "ru_k_t1_08",
+  "tier": 1,
+  "category": "food",
+  "text": "Что делают из молока?",
+  "translation": "What is made from milk?",
+  "correct": {
+   "text": "Сыр",
+   "translation": "Cheese"
+  },
+  "distractors": [
+   {
+    "text": "Хлеб",
+    "translation": "Bread"
+   },
+   {
+    "text": "Чай",
+    "translation": "Tea"
+   },
+   {
+    "text": "Сок",
+    "translation": "Juice"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "делают",
+    "en": "make"
+   },
+   {
+    "w": "молока",
+    "en": "milk"
+   },
+   {
+    "w": "сыр",
+    "en": "cheese"
+   },
+   {
+    "w": "сок",
+    "en": "juice"
+   }
+  ],
+  "explanation": "Сыр делают из молока.",
+  "explanationEn": "Cheese is made from milk."
+ },
+ {
+  "id": "ru_k_t1_09",
+  "tier": 1,
+  "category": "nature",
+  "text": "Где живёт рыба?",
+  "translation": "Where does a fish live?",
+  "correct": {
+   "text": "В воде",
+   "translation": "In water"
+  },
+  "distractors": [
+   {
+    "text": "В лесу",
+    "translation": "In a forest"
+   },
+   {
+    "text": "В небе",
+    "translation": "In the sky"
+   },
+   {
+    "text": "На дереве",
+    "translation": "On a tree"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "воде",
+    "en": "water"
+   },
+   {
+    "w": "лесу",
+    "en": "forest"
+   },
+   {
+    "w": "небе",
+    "en": "sky"
+   },
+   {
+    "w": "дереве",
+    "en": "tree"
+   }
+  ],
+  "explanation": "Рыба живёт в воде.",
+  "explanationEn": "A fish lives in water."
+ },
+ {
+  "id": "ru_k_t1_10",
+  "tier": 1,
+  "category": "society",
+  "text": "Сколько месяцев в году?",
+  "translation": "How many months are in a year?",
+  "correct": {
+   "text": "Двенадцать",
+   "translation": "Twelve"
+  },
+  "distractors": [
+   {
+    "text": "Шесть",
+    "translation": "Six"
+   },
+   {
+    "text": "Десять",
+    "translation": "Ten"
+   },
+   {
+    "text": "Двадцать",
+    "translation": "Twenty"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "месяцев",
+    "en": "months"
+   },
+   {
+    "w": "году",
+    "en": "year"
+   },
+   {
+    "w": "двадцать",
+    "en": "twenty"
+   },
+   {
+    "w": "двенадцать",
+    "en": "twelve"
+   }
+  ],
+  "explanation": "В году двенадцать месяцев.",
+  "explanationEn": "There are twelve months in a year."
+ },
+ {
+  "id": "ru_k_t1_11",
+  "tier": 1,
+  "category": "geography",
+  "text": "Какая страна самая большая в мире?",
+  "translation": "Which country is the biggest in the world?",
+  "correct": {
+   "text": "Россия",
+   "translation": "Russia"
+  },
+  "distractors": [
+   {
+    "text": "Германия",
+    "translation": "Germany"
+   },
+   {
+    "text": "Франция",
+    "translation": "France"
+   },
+   {
+    "text": "Италия",
+    "translation": "Italy"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "страна",
+    "en": "country"
+   },
+   {
+    "w": "самая",
+    "en": "most / -est (самая большая = the biggest)"
+   },
+   {
+    "w": "мире",
+    "en": "world"
+   }
+  ],
+  "explanation": "Россия — самая большая страна в мире.",
+  "explanationEn": "Russia is the biggest country in the world."
+ },
+ {
+  "id": "ru_k_t1_12",
+  "tier": 1,
+  "category": "health",
+  "text": "Чем мы слышим?",
+  "translation": "What do we hear with?",
+  "correct": {
+   "text": "Ушами",
+   "translation": "With ears"
+  },
+  "distractors": [
+   {
+    "text": "Глазами",
+    "translation": "With eyes"
+   },
+   {
+    "text": "Носом",
+    "translation": "With a nose"
+   },
+   {
+    "text": "Ртом",
+    "translation": "With a mouth"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "слышим",
+    "en": "hear"
+   },
+   {
+    "w": "глазами",
+    "en": "eyes"
+   },
+   {
+    "w": "носом",
+    "en": "nose"
+   },
+   {
+    "w": "ртом",
+    "en": "mouth"
+   },
+   {
+    "w": "ушами",
+    "en": "ears"
+   }
+  ],
+  "explanation": "Мы слышим ушами.",
+  "explanationEn": "We hear with our ears."
+ },
+ {
+  "id": "ru_k_t1_13",
+  "tier": 1,
+  "category": "health",
+  "text": "Чем мы чистим зубы?",
+  "translation": "What do we brush our teeth with?",
+  "correct": {
+   "text": "Зубной щёткой",
+   "translation": "With a toothbrush"
+  },
+  "distractors": [
+   {
+    "text": "Ложкой",
+    "translation": "With a spoon"
+   },
+   {
+    "text": "Ножом",
+    "translation": "With a knife"
+   },
+   {
+    "text": "Ручкой",
+    "translation": "With a pen"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "чистим",
+    "en": "clean / brush"
+   },
+   {
+    "w": "зубы",
+    "en": "teeth"
+   },
+   {
+    "w": "зубной",
+    "en": "tooth (adj.)"
+   },
+   {
+    "w": "щёткой",
+    "en": "brush"
+   },
+   {
+    "w": "ложкой",
+    "en": "spoon"
+   },
+   {
+    "w": "ножом",
+    "en": "knife"
+   },
+   {
+    "w": "ручкой",
+    "en": "pen"
+   }
+  ],
+  "explanation": "Зубы чистят зубной щёткой.",
+  "explanationEn": "Teeth are cleaned with a toothbrush."
+ },
+ {
+  "id": "ru_k_t1_14",
+  "tier": 1,
+  "category": "arts",
+  "text": "На каком инструменте есть клавиши?",
+  "translation": "Which instrument has keys?",
+  "correct": {
+   "text": "На пианино",
+   "translation": "On a piano"
+  },
+  "distractors": [
+   {
+    "text": "На гитаре",
+    "translation": "On a guitar"
+   },
+   {
+    "text": "На скрипке",
+    "translation": "On a violin"
+   },
+   {
+    "text": "На барабане",
+    "translation": "On a drum"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "инструменте",
+    "en": "instrument"
+   },
+   {
+    "w": "клавиши",
+    "en": "keys"
+   },
+   {
+    "w": "скрипке",
+    "en": "violin"
+   },
+   {
+    "w": "барабане",
+    "en": "drum"
+   },
+   {
+    "w": "пианино",
+    "en": "piano"
+   },
+   {
+    "w": "гитаре",
+    "en": "guitar"
+   }
+  ],
+  "explanation": "У пианино есть чёрные и белые клавиши.",
+  "explanationEn": "A piano has black and white keys."
+ },
+ {
+  "id": "ru_k_t1_15",
+  "tier": 1,
+  "category": "sports",
+  "text": "В какой игре есть шайба?",
+  "translation": "In which game is there a puck?",
+  "correct": {
+   "text": "В хоккее",
+   "translation": "In hockey"
+  },
+  "distractors": [
+   {
+    "text": "В футболе",
+    "translation": "In soccer"
+   },
+   {
+    "text": "В теннисе",
+    "translation": "In tennis"
+   },
+   {
+    "text": "В волейболе",
+    "translation": "In volleyball"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "игре",
+    "en": "game"
+   },
+   {
+    "w": "шайба",
+    "en": "puck"
+   },
+   {
+    "w": "хоккее",
+    "en": "hockey"
+   }
+  ],
+  "explanation": "В хоккее играют с шайбой.",
+  "explanationEn": "In hockey, people play with a puck."
+ },
+ {
+  "id": "ru_k_t1_16",
+  "tier": 1,
+  "category": "technology",
+  "text": "Что летает в небе?",
+  "translation": "What flies in the sky?",
+  "correct": {
+   "text": "Самолёт",
+   "translation": "Airplane"
+  },
+  "distractors": [
+   {
+    "text": "Автобус",
+    "translation": "Bus"
+   },
+   {
+    "text": "Лодка",
+    "translation": "Boat"
+   },
+   {
+    "text": "Велосипед",
+    "translation": "Bicycle"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "летает",
+    "en": "flies"
+   },
+   {
+    "w": "небе",
+    "en": "sky"
+   },
+   {
+    "w": "лодка",
+    "en": "boat"
+   },
+   {
+    "w": "велосипед",
+    "en": "bicycle"
+   },
+   {
+    "w": "самолёт",
+    "en": "airplane"
+   }
+  ],
+  "explanation": "Самолёт летает в небе.",
+  "explanationEn": "An airplane flies in the sky."
+ },
+ {
+  "id": "ru_k_t1_17",
+  "tier": 1,
+  "category": "language",
+  "text": "Какая первая буква русского алфавита?",
+  "translation": "What is the first letter of the Russian alphabet?",
+  "correct": {
+   "text": "А",
+   "translation": "A"
+  },
+  "distractors": [
+   {
+    "text": "Б",
+    "translation": "B (Be)"
+   },
+   {
+    "text": "Я",
+    "translation": "Ya"
+   },
+   {
+    "text": "О",
+    "translation": "O"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "буква",
+    "en": "letter"
+   },
+   {
+    "w": "алфавита",
+    "en": "alphabet"
+   },
+   {
+    "w": "первая",
+    "en": "first"
+   },
+   {
+    "w": "русского",
+    "en": "Russian (adj.)"
+   }
+  ],
+  "explanation": "Русский алфавит начинается с буквы «А».",
+  "explanationEn": "The Russian alphabet begins with the letter \"А\"."
+ },
+ {
+  "id": "ru_k_t1_18",
+  "tier": 1,
+  "category": "language",
+  "text": "Как по-русски «book»?",
+  "translation": "How do you say \"book\" in Russian?",
+  "correct": {
+   "text": "Книга",
+   "translation": "Book"
+  },
+  "distractors": [
+   {
+    "text": "Ручка",
+    "translation": "Pen"
+   },
+   {
+    "text": "Стол",
+    "translation": "Table"
+   },
+   {
+    "text": "Окно",
+    "translation": "Window"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "по-русски",
+    "en": "in Russian"
+   },
+   {
+    "w": "ручка",
+    "en": "pen"
+   },
+   {
+    "w": "стол",
+    "en": "table"
+   },
+   {
+    "w": "окно",
+    "en": "window"
+   }
+  ],
+  "explanation": "По-русски «book» — это книга.",
+  "explanationEn": "In Russian, \"book\" is \"книга\"."
+ },
+ {
+  "id": "ru_k_t1_19",
+  "tier": 1,
+  "category": "science",
+  "text": "Как называется замёрзшая вода?",
+  "translation": "What is frozen water called?",
+  "correct": {
+   "text": "Лёд",
+   "translation": "Ice"
+  },
+  "distractors": [
+   {
+    "text": "Пар",
+    "translation": "Steam"
+   },
+   {
+    "text": "Дым",
+    "translation": "Smoke"
+   },
+   {
+    "text": "Песок",
+    "translation": "Sand"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "называется",
+    "en": "is called"
+   },
+   {
+    "w": "замёрзшая",
+    "en": "frozen"
+   },
+   {
+    "w": "лёд",
+    "en": "ice"
+   },
+   {
+    "w": "пар",
+    "en": "steam"
+   },
+   {
+    "w": "дым",
+    "en": "smoke"
+   },
+   {
+    "w": "песок",
+    "en": "sand"
+   }
+  ],
+  "explanation": "Замёрзшая вода — это лёд.",
+  "explanationEn": "Frozen water is ice."
+ },
+ {
+  "id": "ru_k_t1_20",
+  "tier": 1,
+  "category": "food",
+  "text": "Какой овощ оранжевый и длинный?",
+  "translation": "Which vegetable is orange and long?",
+  "correct": {
+   "text": "Морковь",
+   "translation": "Carrot"
+  },
+  "distractors": [
+   {
+    "text": "Картофель",
+    "translation": "Potato"
+   },
+   {
+    "text": "Капуста",
+    "translation": "Cabbage"
+   },
+   {
+    "text": "Огурец",
+    "translation": "Cucumber"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "овощ",
+    "en": "vegetable"
+   },
+   {
+    "w": "картофель",
+    "en": "potato"
+   },
+   {
+    "w": "капуста",
+    "en": "cabbage"
+   },
+   {
+    "w": "огурец",
+    "en": "cucumber"
+   },
+   {
+    "w": "длинный",
+    "en": "long"
+   }
+  ],
+  "explanation": "Морковь оранжевая и длинная.",
+  "explanationEn": "A carrot is orange and long."
+ },
+ {
+  "id": "ru_k_t1_21",
+  "tier": 1,
+  "category": "society",
+  "text": "Как называется мама мамы?",
+  "translation": "What do you call a mother's mother?",
+  "correct": {
+   "text": "Бабушка",
+   "translation": "Grandmother"
+  },
+  "distractors": [
+   {
+    "text": "Тётя",
+    "translation": "Aunt"
+   },
+   {
+    "text": "Сестра",
+    "translation": "Sister"
+   },
+   {
+    "text": "Дочь",
+    "translation": "Daughter"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "тётя",
+    "en": "aunt"
+   },
+   {
+    "w": "дочь",
+    "en": "daughter"
+   },
+   {
+    "w": "называется",
+    "en": "is called"
+   }
+  ],
+  "explanation": "Мама мамы — это бабушка.",
+  "explanationEn": "A mother's mother is a grandmother."
+ },
+ {
+  "id": "ru_k_t1_22",
+  "tier": 1,
+  "category": "nature",
+  "text": "Кто делает мёд?",
+  "translation": "Who makes honey?",
+  "correct": {
+   "text": "Пчела",
+   "translation": "Bee"
+  },
+  "distractors": [
+   {
+    "text": "Муха",
+    "translation": "Fly"
+   },
+   {
+    "text": "Бабочка",
+    "translation": "Butterfly"
+   },
+   {
+    "text": "Комар",
+    "translation": "Mosquito"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "мёд",
+    "en": "honey"
+   },
+   {
+    "w": "муха",
+    "en": "fly"
+   },
+   {
+    "w": "бабочка",
+    "en": "butterfly"
+   },
+   {
+    "w": "комар",
+    "en": "mosquito"
+   }
+  ],
+  "explanation": "Мёд делают пчёлы.",
+  "explanationEn": "Bees make honey."
+ },
+ {
+  "id": "ru_k_t1_23",
+  "tier": 1,
+  "category": "nature",
+  "text": "Какое время года самое холодное?",
+  "translation": "Which season is the coldest?",
+  "correct": {
+   "text": "Зима",
+   "translation": "Winter"
+  },
+  "distractors": [
+   {
+    "text": "Лето",
+    "translation": "Summer"
+   },
+   {
+    "text": "Весна",
+    "translation": "Spring"
+   },
+   {
+    "text": "Осень",
+    "translation": "Autumn"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "холодное",
+    "en": "cold"
+   },
+   {
+    "w": "самое",
+    "en": "most / -est (самое холодное = the coldest)"
+   },
+   {
+    "w": "осень",
+    "en": "autumn"
+   },
+   {
+    "w": "время",
+    "en": "time (время года = season)"
+   }
+  ],
+  "explanation": "Зима — самое холодное время года.",
+  "explanationEn": "Winter is the coldest season of the year."
+ },
+ {
+  "id": "ru_k_t1_24",
+  "tier": 1,
+  "category": "economics",
+  "text": "Чем мы платим в магазине?",
+  "translation": "What do we pay with in a shop?",
+  "correct": {
+   "text": "Деньгами",
+   "translation": "With money"
+  },
+  "distractors": [
+   {
+    "text": "Книгами",
+    "translation": "With books"
+   },
+   {
+    "text": "Водой",
+    "translation": "With water"
+   },
+   {
+    "text": "Песком",
+    "translation": "With sand"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "платим",
+    "en": "pay"
+   },
+   {
+    "w": "магазине",
+    "en": "shop"
+   },
+   {
+    "w": "деньгами",
+    "en": "money"
+   },
+   {
+    "w": "книгами",
+    "en": "books"
+   },
+   {
+    "w": "песком",
+    "en": "sand"
+   }
+  ],
+  "explanation": "В магазине платят деньгами.",
+  "explanationEn": "In a shop, people pay with money."
+ },
+ {
+  "id": "ru_k_t2_01",
+  "tier": 2,
+  "category": "geography",
+  "text": "Какой океан самый большой?",
+  "translation": "Which ocean is the biggest?",
+  "correct": {
+   "text": "Тихий",
+   "translation": "Pacific"
+  },
+  "distractors": [
+   {
+    "text": "Атлантический",
+    "translation": "Atlantic"
+   },
+   {
+    "text": "Индийский",
+    "translation": "Indian"
+   },
+   {
+    "text": "Северный Ледовитый",
+    "translation": "Arctic"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "океан",
+    "en": "ocean"
+   },
+   {
+    "w": "Тихий",
+    "en": "Pacific (lit. quiet, calm)"
+   },
+   {
+    "w": "Ледовитый",
+    "en": "icy (Северный Ледовитый океан = Arctic Ocean)"
+   },
+   {
+    "w": "Индийский",
+    "en": "Indian"
+   }
+  ],
+  "explanation": "Тихий океан больше всех других океанов.",
+  "explanationEn": "The Pacific Ocean is bigger than all other oceans."
+ },
+ {
+  "id": "ru_k_t2_02",
+  "tier": 2,
+  "category": "geography",
+  "text": "Какой город является столицей Италии?",
+  "translation": "Which city is the capital of Italy?",
+  "correct": {
+   "text": "Рим",
+   "translation": "Rome"
+  },
+  "distractors": [
+   {
+    "text": "Милан",
+    "translation": "Milan"
+   },
+   {
+    "text": "Венеция",
+    "translation": "Venice"
+   },
+   {
+    "text": "Неаполь",
+    "translation": "Naples"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "является",
+    "en": "is"
+   },
+   {
+    "w": "столицей",
+    "en": "capital"
+   }
+  ],
+  "explanation": "Рим — столица Италии.",
+  "explanationEn": "Rome is the capital of Italy."
+ },
+ {
+  "id": "ru_k_t2_03",
+  "tier": 2,
+  "category": "science",
+  "text": "Какая планета ближе всего к Солнцу?",
+  "translation": "Which planet is closest to the Sun?",
+  "correct": {
+   "text": "Меркурий",
+   "translation": "Mercury"
+  },
+  "distractors": [
+   {
+    "text": "Венера",
+    "translation": "Venus"
+   },
+   {
+    "text": "Земля",
+    "translation": "Earth"
+   },
+   {
+    "text": "Марс",
+    "translation": "Mars"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "планета",
+    "en": "planet"
+   },
+   {
+    "w": "ближе",
+    "en": "closer"
+   },
+   {
+    "w": "Солнцу",
+    "en": "the Sun (dative)"
+   }
+  ],
+  "explanation": "Меркурий — самая близкая к Солнцу планета.",
+  "explanationEn": "Mercury is the planet closest to the Sun."
+ },
+ {
+  "id": "ru_k_t2_04",
+  "tier": 2,
+  "category": "nature",
+  "text": "Какое животное самое высокое на Земле?",
+  "translation": "Which animal is the tallest on Earth?",
+  "correct": {
+   "text": "Жираф",
+   "translation": "Giraffe"
+  },
+  "distractors": [
+   {
+    "text": "Слон",
+    "translation": "Elephant"
+   },
+   {
+    "text": "Верблюд",
+    "translation": "Camel"
+   },
+   {
+    "text": "Лошадь",
+    "translation": "Horse"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "высокое",
+    "en": "tall"
+   },
+   {
+    "w": "Жираф",
+    "en": "giraffe"
+   },
+   {
+    "w": "Слон",
+    "en": "elephant"
+   },
+   {
+    "w": "Верблюд",
+    "en": "camel"
+   },
+   {
+    "w": "Лошадь",
+    "en": "horse"
+   }
+  ],
+  "explanation": "Жираф выше всех других животных, у него длинная шея.",
+  "explanationEn": "The giraffe is taller than all other animals; it has a long neck."
+ },
+ {
+  "id": "ru_k_t2_05",
+  "tier": 2,
+  "category": "geography",
+  "text": "В какой стране находятся пирамиды Гизы?",
+  "translation": "In which country are the Giza pyramids located?",
+  "correct": {
+   "text": "Египет",
+   "translation": "Egypt"
+  },
+  "distractors": [
+   {
+    "text": "Греция",
+    "translation": "Greece"
+   },
+   {
+    "text": "Мексика",
+    "translation": "Mexico"
+   },
+   {
+    "text": "Индия",
+    "translation": "India"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "стране",
+    "en": "country (prepositional)"
+   },
+   {
+    "w": "находятся",
+    "en": "are located"
+   },
+   {
+    "w": "пирамиды",
+    "en": "pyramids"
+   },
+   {
+    "w": "Гизы",
+    "en": "Giza"
+   }
+  ],
+  "explanation": "Пирамиды Гизы стоят недалеко от Каира.",
+  "explanationEn": "The Giza pyramids stand near Cairo."
+ },
+ {
+  "id": "ru_k_t2_06",
+  "tier": 2,
+  "category": "nature",
+  "text": "Какое красивое явление можно увидеть в небе после дождя, когда светит солнце?",
+  "translation": "What beautiful phenomenon can you see in the sky after rain when the sun is shining?",
+  "correct": {
+   "text": "Радуга",
+   "translation": "A rainbow"
+  },
+  "distractors": [
+   {
+    "text": "Гроза",
+    "translation": "A thunderstorm"
+   },
+   {
+    "text": "Метель",
+    "translation": "A snowstorm"
+   },
+   {
+    "text": "Снегопад",
+    "translation": "A snowfall"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "явление",
+    "en": "phenomenon"
+   },
+   {
+    "w": "светит",
+    "en": "shines"
+   },
+   {
+    "w": "радуга",
+    "en": "rainbow"
+   },
+   {
+    "w": "гроза",
+    "en": "thunderstorm"
+   },
+   {
+    "w": "метель",
+    "en": "snowstorm"
+   },
+   {
+    "w": "снегопад",
+    "en": "snowfall"
+   }
+  ],
+  "explanation": "Радуга появляется, когда солнце освещает капли дождя.",
+  "explanationEn": "A rainbow appears when the sun lights up raindrops."
+ },
+ {
+  "id": "ru_k_t2_07",
+  "tier": 2,
+  "category": "health",
+  "text": "Какой орган качает кровь по телу?",
+  "translation": "Which organ pumps blood around the body?",
+  "correct": {
+   "text": "Сердце",
+   "translation": "Heart"
+  },
+  "distractors": [
+   {
+    "text": "Лёгкие",
+    "translation": "Lungs"
+   },
+   {
+    "text": "Печень",
+    "translation": "Liver"
+   },
+   {
+    "text": "Желудок",
+    "translation": "Stomach"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "орган",
+    "en": "organ"
+   },
+   {
+    "w": "качает",
+    "en": "pumps"
+   },
+   {
+    "w": "кровь",
+    "en": "blood"
+   },
+   {
+    "w": "телу",
+    "en": "body (dative)"
+   },
+   {
+    "w": "Лёгкие",
+    "en": "lungs"
+   },
+   {
+    "w": "Печень",
+    "en": "liver"
+   },
+   {
+    "w": "Желудок",
+    "en": "stomach"
+   }
+  ],
+  "explanation": "Сердце качает кровь по всему телу.",
+  "explanationEn": "The heart pumps blood around the whole body."
+ },
+ {
+  "id": "ru_k_t2_08",
+  "tier": 2,
+  "category": "health",
+  "text": "Какой витамин организм получает от солнца?",
+  "translation": "Which vitamin does the body get from the sun?",
+  "correct": {
+   "text": "Витамин D",
+   "translation": "Vitamin D"
+  },
+  "distractors": [
+   {
+    "text": "Витамин C",
+    "translation": "Vitamin C"
+   },
+   {
+    "text": "Витамин A",
+    "translation": "Vitamin A"
+   },
+   {
+    "text": "Витамин B",
+    "translation": "Vitamin B"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "витамин",
+    "en": "vitamin"
+   },
+   {
+    "w": "организм",
+    "en": "body, organism"
+   },
+   {
+    "w": "получает",
+    "en": "gets"
+   }
+  ],
+  "explanation": "На солнце кожа сама делает витамин D.",
+  "explanationEn": "In the sun, the skin makes vitamin D by itself."
+ },
+ {
+  "id": "ru_k_t2_09",
+  "tier": 2,
+  "category": "food",
+  "text": "Из чего делают изюм?",
+  "translation": "What are raisins made from?",
+  "correct": {
+   "text": "Из винограда",
+   "translation": "From grapes"
+  },
+  "distractors": [
+   {
+    "text": "Из слив",
+    "translation": "From plums"
+   },
+   {
+    "text": "Из яблок",
+    "translation": "From apples"
+   },
+   {
+    "text": "Из вишен",
+    "translation": "From cherries"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "изюм",
+    "en": "raisins"
+   },
+   {
+    "w": "винограда",
+    "en": "grapes (genitive)"
+   },
+   {
+    "w": "слив",
+    "en": "plums"
+   },
+   {
+    "w": "яблок",
+    "en": "apples"
+   },
+   {
+    "w": "вишен",
+    "en": "cherries"
+   }
+  ],
+  "explanation": "Изюм — это сушёный виноград.",
+  "explanationEn": "Raisins are dried grapes."
+ },
+ {
+  "id": "ru_k_t2_10",
+  "tier": 2,
+  "category": "food",
+  "text": "Какой сладкий продукт делают пчёлы?",
+  "translation": "Which sweet product do bees make?",
+  "correct": {
+   "text": "Мёд",
+   "translation": "Honey"
+  },
+  "distractors": [
+   {
+    "text": "Сахар",
+    "translation": "Sugar"
+   },
+   {
+    "text": "Варенье",
+    "translation": "Jam"
+   },
+   {
+    "text": "Шоколад",
+    "translation": "Chocolate"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "сладкий",
+    "en": "sweet"
+   },
+   {
+    "w": "продукт",
+    "en": "product"
+   },
+   {
+    "w": "делают",
+    "en": "make"
+   },
+   {
+    "w": "пчёлы",
+    "en": "bees"
+   },
+   {
+    "w": "Варенье",
+    "en": "jam"
+   },
+   {
+    "w": "Мёд",
+    "en": "honey"
+   }
+  ],
+  "explanation": "Пчёлы делают мёд из нектара цветов.",
+  "explanationEn": "Bees make honey from the nectar of flowers."
+ },
+ {
+  "id": "ru_k_t2_11",
+  "tier": 2,
+  "category": "history",
+  "text": "Кто первым из людей полетел в космос?",
+  "translation": "Who was the first human to fly into space?",
+  "correct": {
+   "text": "Юрий Гагарин",
+   "translation": "Yuri Gagarin"
+  },
+  "distractors": [
+   {
+    "text": "Нил Армстронг",
+    "translation": "Neil Armstrong"
+   },
+   {
+    "text": "Герман Титов",
+    "translation": "Gherman Titov"
+   },
+   {
+    "text": "Алексей Леонов",
+    "translation": "Alexei Leonov"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "первым",
+    "en": "first"
+   },
+   {
+    "w": "людей",
+    "en": "people (genitive)"
+   },
+   {
+    "w": "полетел",
+    "en": "flew"
+   },
+   {
+    "w": "космос",
+    "en": "space"
+   }
+  ],
+  "explanation": "Юрий Гагарин полетел в космос 12 апреля 1961 года.",
+  "explanationEn": "Yuri Gagarin flew into space on 12 April 1961."
+ },
+ {
+  "id": "ru_k_t2_12",
+  "tier": 2,
+  "category": "arts",
+  "text": "Кто нарисовал картину «Мона Лиза»?",
+  "translation": "Who painted the \"Mona Lisa\"?",
+  "correct": {
+   "text": "Леонардо да Винчи",
+   "translation": "Leonardo da Vinci"
+  },
+  "distractors": [
+   {
+    "text": "Пабло Пикассо",
+    "translation": "Pablo Picasso"
+   },
+   {
+    "text": "Винсент Ван Гог",
+    "translation": "Vincent van Gogh"
+   },
+   {
+    "text": "Клод Моне",
+    "translation": "Claude Monet"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "нарисовал",
+    "en": "painted, drew"
+   },
+   {
+    "w": "картину",
+    "en": "painting (accusative)"
+   }
+  ],
+  "explanation": "«Мону Лизу» написал итальянский художник Леонардо да Винчи.",
+  "explanationEn": "The Italian artist Leonardo da Vinci painted the Mona Lisa."
+ },
+ {
+  "id": "ru_k_t2_13",
+  "tier": 2,
+  "category": "arts",
+  "text": "Какой композитор написал балет «Лебединое озеро»?",
+  "translation": "Which composer wrote the ballet \"Swan Lake\"?",
+  "correct": {
+   "text": "Пётр Чайковский",
+   "translation": "Pyotr Tchaikovsky"
+  },
+  "distractors": [
+   {
+    "text": "Вольфганг Амадей Моцарт",
+    "translation": "Wolfgang Amadeus Mozart"
+   },
+   {
+    "text": "Людвиг ван Бетховен",
+    "translation": "Ludwig van Beethoven"
+   },
+   {
+    "text": "Иоганн Себастьян Бах",
+    "translation": "Johann Sebastian Bach"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "композитор",
+    "en": "composer"
+   },
+   {
+    "w": "балет",
+    "en": "ballet"
+   },
+   {
+    "w": "лебединое",
+    "en": "swan (adj.)"
+   },
+   {
+    "w": "озеро",
+    "en": "lake"
+   }
+  ],
+  "explanation": "Пётр Чайковский сочинил музыку к балету «Лебединое озеро».",
+  "explanationEn": "Pyotr Tchaikovsky composed the music for the ballet Swan Lake."
+ },
+ {
+  "id": "ru_k_t2_14",
+  "tier": 2,
+  "category": "literature",
+  "text": "Кто написал «Сказку о рыбаке и рыбке»?",
+  "translation": "Who wrote \"The Tale of the Fisherman and the Fish\"?",
+  "correct": {
+   "text": "Александр Пушкин",
+   "translation": "Alexander Pushkin"
+  },
+  "distractors": [
+   {
+    "text": "Лев Толстой",
+    "translation": "Leo Tolstoy"
+   },
+   {
+    "text": "Антон Чехов",
+    "translation": "Anton Chekhov"
+   },
+   {
+    "text": "Михаил Лермонтов",
+    "translation": "Mikhail Lermontov"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "сказку",
+    "en": "fairy tale"
+   },
+   {
+    "w": "рыбаке",
+    "en": "fisherman"
+   },
+   {
+    "w": "рыбке",
+    "en": "little fish"
+   }
+  ],
+  "explanation": "Эту сказку написал великий русский поэт Александр Пушкин.",
+  "explanationEn": "The great Russian poet Alexander Pushkin wrote this fairy tale."
+ },
+ {
+  "id": "ru_k_t2_15",
+  "tier": 2,
+  "category": "sports",
+  "text": "Сколько футболистов одной команды играет на поле?",
+  "translation": "How many soccer players from one team are on the field?",
+  "correct": {
+   "text": "Одиннадцать",
+   "translation": "Eleven"
+  },
+  "distractors": [
+   {
+    "text": "Девять",
+    "translation": "Nine"
+   },
+   {
+    "text": "Двенадцать",
+    "translation": "Twelve"
+   },
+   {
+    "text": "Пятнадцать",
+    "translation": "Fifteen"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "футболистов",
+    "en": "football (soccer) players"
+   },
+   {
+    "w": "команды",
+    "en": "of a team"
+   },
+   {
+    "w": "поле",
+    "en": "field, pitch"
+   }
+  ],
+  "explanation": "В футболе в каждой команде на поле одиннадцать игроков.",
+  "explanationEn": "In soccer each team has eleven players on the field."
+ },
+ {
+  "id": "ru_k_t2_16",
+  "tier": 2,
+  "category": "sports",
+  "text": "Как часто проходят летние Олимпийские игры?",
+  "translation": "How often are the Summer Olympic Games held?",
+  "correct": {
+   "text": "Раз в четыре года",
+   "translation": "Once every four years"
+  },
+  "distractors": [
+   {
+    "text": "Каждый год",
+    "translation": "Every year"
+   },
+   {
+    "text": "Раз в два года",
+    "translation": "Once every two years"
+   },
+   {
+    "text": "Раз в десять лет",
+    "translation": "Once every ten years"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "проходят",
+    "en": "take place"
+   },
+   {
+    "w": "летние",
+    "en": "summer (adj.)"
+   },
+   {
+    "w": "Олимпийские",
+    "en": "Olympic"
+   },
+   {
+    "w": "игры",
+    "en": "games"
+   }
+  ],
+  "explanation": "Летние Олимпийские игры проходят каждые четыре года.",
+  "explanationEn": "The Summer Olympic Games take place every four years."
+ },
+ {
+  "id": "ru_k_t2_17",
+  "tier": 2,
+  "category": "technology",
+  "text": "Какое компьютерное устройство двигают по столу, чтобы перемещать курсор на экране?",
+  "translation": "Which computer device do you move across the table in order to move the cursor on the screen?",
+  "correct": {
+   "text": "Мышь",
+   "translation": "Mouse"
+  },
+  "distractors": [
+   {
+    "text": "Клавиатура",
+    "translation": "Keyboard"
+   },
+   {
+    "text": "Монитор",
+    "translation": "Monitor"
+   },
+   {
+    "text": "Принтер",
+    "translation": "Printer"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "компьютерное",
+    "en": "computer (adj.)"
+   },
+   {
+    "w": "устройство",
+    "en": "device"
+   },
+   {
+    "w": "двигают",
+    "en": "move (something)"
+   },
+   {
+    "w": "столу",
+    "en": "table (dative)"
+   },
+   {
+    "w": "чтобы",
+    "en": "in order to"
+   },
+   {
+    "w": "перемещать",
+    "en": "to move (something)"
+   },
+   {
+    "w": "курсор",
+    "en": "cursor"
+   },
+   {
+    "w": "экране",
+    "en": "screen (prepositional)"
+   },
+   {
+    "w": "Мышь",
+    "en": "mouse"
+   },
+   {
+    "w": "Клавиатура",
+    "en": "keyboard"
+   },
+   {
+    "w": "Принтер",
+    "en": "printer"
+   }
+  ],
+  "explanation": "Мышь двигают по столу, и курсор движется на экране.",
+  "explanationEn": "You move the mouse on the table, and the cursor moves on the screen."
+ },
+ {
+  "id": "ru_k_t2_18",
+  "tier": 2,
+  "category": "society",
+  "text": "Кто тушит пожар?",
+  "translation": "Who puts out a fire?",
+  "correct": {
+   "text": "Пожарный",
+   "translation": "Firefighter"
+  },
+  "distractors": [
+   {
+    "text": "Врач",
+    "translation": "Doctor"
+   },
+   {
+    "text": "Учитель",
+    "translation": "Teacher"
+   },
+   {
+    "text": "Повар",
+    "translation": "Cook"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "тушит",
+    "en": "puts out"
+   },
+   {
+    "w": "пожар",
+    "en": "fire (blaze)"
+   },
+   {
+    "w": "Пожарный",
+    "en": "firefighter"
+   },
+   {
+    "w": "Повар",
+    "en": "cook"
+   }
+  ],
+  "explanation": "Пожарный тушит огонь водой.",
+  "explanationEn": "A firefighter puts out fire with water."
+ },
+ {
+  "id": "ru_k_t2_19",
+  "tier": 2,
+  "category": "politics",
+  "text": "Что делают люди на выборах?",
+  "translation": "What do people do at elections?",
+  "correct": {
+   "text": "Голосуют",
+   "translation": "Vote"
+  },
+  "distractors": [
+   {
+    "text": "Платят налоги",
+    "translation": "Pay taxes"
+   },
+   {
+    "text": "Сдают экзамены",
+    "translation": "Take exams"
+   },
+   {
+    "text": "Покупают билеты",
+    "translation": "Buy tickets"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "выборах",
+    "en": "elections (prepositional)"
+   },
+   {
+    "w": "Голосуют",
+    "en": "vote"
+   },
+   {
+    "w": "Платят",
+    "en": "pay"
+   },
+   {
+    "w": "налоги",
+    "en": "taxes"
+   },
+   {
+    "w": "Сдают",
+    "en": "take (an exam)"
+   },
+   {
+    "w": "экзамены",
+    "en": "exams"
+   },
+   {
+    "w": "Покупают",
+    "en": "buy"
+   },
+   {
+    "w": "билеты",
+    "en": "tickets"
+   }
+  ],
+  "explanation": "На выборах люди голосуют за кандидата.",
+  "explanationEn": "At elections people vote for a candidate."
+ },
+ {
+  "id": "ru_k_t2_20",
+  "tier": 2,
+  "category": "economics",
+  "text": "Как называются деньги, которые человек получает за работу?",
+  "translation": "What is the money a person gets for work called?",
+  "correct": {
+   "text": "Зарплата",
+   "translation": "Salary"
+  },
+  "distractors": [
+   {
+    "text": "Налог",
+    "translation": "Tax"
+   },
+   {
+    "text": "Цена",
+    "translation": "Price"
+   },
+   {
+    "text": "Долг",
+    "translation": "Debt"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "называются",
+    "en": "are called"
+   },
+   {
+    "w": "получает",
+    "en": "gets"
+   },
+   {
+    "w": "Налог",
+    "en": "tax"
+   },
+   {
+    "w": "Цена",
+    "en": "price"
+   },
+   {
+    "w": "Долг",
+    "en": "debt"
+   },
+   {
+    "w": "Зарплата",
+    "en": "salary, wages"
+   }
+  ],
+  "explanation": "Зарплата — это деньги, которые платят за работу.",
+  "explanationEn": "A salary is the money paid for work."
+ },
+ {
+  "id": "ru_k_t2_21",
+  "tier": 2,
+  "category": "language",
+  "text": "Сколько букв в русском алфавите?",
+  "translation": "How many letters are in the Russian alphabet?",
+  "correct": {
+   "text": "33",
+   "translation": "33"
+  },
+  "distractors": [
+   {
+    "text": "26",
+    "translation": "26"
+   },
+   {
+    "text": "30",
+    "translation": "30"
+   },
+   {
+    "text": "36",
+    "translation": "36"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "букв",
+    "en": "letters (genitive plural)"
+   },
+   {
+    "w": "алфавите",
+    "en": "alphabet (prepositional)"
+   }
+  ],
+  "explanation": "В русском алфавите тридцать три буквы.",
+  "explanationEn": "The Russian alphabet has thirty-three letters."
+ },
+ {
+  "id": "ru_k_t2_22",
+  "tier": 2,
+  "category": "nature",
+  "text": "Какое из этих животных живёт в Арктике?",
+  "translation": "Which of these animals lives in the Arctic?",
+  "correct": {
+   "text": "Белый медведь",
+   "translation": "Polar bear"
+  },
+  "distractors": [
+   {
+    "text": "Пингвин",
+    "translation": "Penguin"
+   },
+   {
+    "text": "Тигр",
+    "translation": "Tiger"
+   },
+   {
+    "text": "Жираф",
+    "translation": "Giraffe"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "живёт",
+    "en": "lives"
+   },
+   {
+    "w": "Арктике",
+    "en": "the Arctic"
+   },
+   {
+    "w": "медведь",
+    "en": "bear"
+   },
+   {
+    "w": "Пингвин",
+    "en": "penguin"
+   }
+  ],
+  "explanation": "Белый медведь живёт на севере, в холодной Арктике.",
+  "explanationEn": "The polar bear lives in the north, in the cold Arctic."
+ },
+ {
+  "id": "ru_k_t2_23",
+  "tier": 2,
+  "category": "geography",
+  "text": "Какая гора в мире самая высокая над уровнем моря?",
+  "translation": "Which mountain in the world is the highest above sea level?",
+  "correct": {
+   "text": "Эверест",
+   "translation": "Everest"
+  },
+  "distractors": [
+   {
+    "text": "Эльбрус",
+    "translation": "Elbrus"
+   },
+   {
+    "text": "Монблан",
+    "translation": "Mont Blanc"
+   },
+   {
+    "text": "Килиманджаро",
+    "translation": "Kilimanjaro"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "гора",
+    "en": "mountain"
+   },
+   {
+    "w": "самая",
+    "en": "most (superlative)"
+   },
+   {
+    "w": "над",
+    "en": "above"
+   },
+   {
+    "w": "уровнем",
+    "en": "level"
+   },
+   {
+    "w": "моря",
+    "en": "of the sea"
+   },
+   {
+    "w": "высокая",
+    "en": "high, tall"
+   },
+   {
+    "w": "мире",
+    "en": "world (prepositional)"
+   }
+  ],
+  "explanation": "Эверест выше восьми километров над уровнем моря.",
+  "explanationEn": "Everest is more than eight kilometres above sea level."
+ },
+ {
+  "id": "ru_k_t2_24",
+  "tier": 2,
+  "category": "science",
+  "text": "Какой газ нужен людям для дыхания?",
+  "translation": "Which gas do people need for breathing?",
+  "correct": {
+   "text": "Кислород",
+   "translation": "Oxygen"
+  },
+  "distractors": [
+   {
+    "text": "Водород",
+    "translation": "Hydrogen"
+   },
+   {
+    "text": "Гелий",
+    "translation": "Helium"
+   },
+   {
+    "text": "Углекислый газ",
+    "translation": "Carbon dioxide"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "газ",
+    "en": "gas"
+   },
+   {
+    "w": "нужен",
+    "en": "needed"
+   },
+   {
+    "w": "людям",
+    "en": "people (dative)"
+   },
+   {
+    "w": "дыхания",
+    "en": "breathing (genitive)"
+   },
+   {
+    "w": "Водород",
+    "en": "hydrogen"
+   },
+   {
+    "w": "Гелий",
+    "en": "helium"
+   },
+   {
+    "w": "Углекислый",
+    "en": "carbon-dioxide (adj.; Углекислый газ = carbon dioxide)"
+   },
+   {
+    "w": "Кислород",
+    "en": "oxygen"
+   }
+  ],
+  "explanation": "Люди дышат воздухом, и им нужен кислород.",
+  "explanationEn": "People breathe air, and they need oxygen."
+ },
+ {
+  "id": "ru_k_t3_01",
+  "tier": 3,
+  "category": "politics",
+  "text": "Что такое конституция?",
+  "translation": "What is a constitution?",
+  "correct": {
+   "text": "Основной закон государства",
+   "translation": "The fundamental law of a state"
+  },
+  "distractors": [
+   {
+    "text": "Список членов правительства",
+    "translation": "A list of government members"
+   },
+   {
+    "text": "Договор между двумя странами",
+    "translation": "A treaty between two countries"
+   },
+   {
+    "text": "Результаты выборов",
+    "translation": "Election results"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "конституция",
+    "en": "constitution"
+   },
+   {
+    "w": "основной",
+    "en": "fundamental"
+   },
+   {
+    "w": "договор",
+    "en": "treaty"
+   },
+   {
+    "w": "выборов",
+    "en": "of elections"
+   },
+   {
+    "w": "правительства",
+    "en": "of the government"
+   },
+   {
+    "w": "членов",
+    "en": "of members"
+   },
+   {
+    "w": "список",
+    "en": "list"
+   },
+   {
+    "w": "результаты",
+    "en": "results"
+   },
+   {
+    "w": "государства",
+    "en": "of the state"
+   }
+  ],
+  "explanation": "Конституция — главный закон страны, и другие законы не должны ей противоречить.",
+  "explanationEn": "The constitution is the country's main law, and other laws must not contradict it."
+ },
+ {
+  "id": "ru_k_t3_02",
+  "tier": 3,
+  "category": "science",
+  "text": "Какой химический символ у золота?",
+  "translation": "What is the chemical symbol of gold?",
+  "correct": {
+   "text": "Au",
+   "translation": "Au"
+  },
+  "distractors": [
+   {
+    "text": "Ag",
+    "translation": "Ag (silver)"
+   },
+   {
+    "text": "Fe",
+    "translation": "Fe (iron)"
+   },
+   {
+    "text": "Zn",
+    "translation": "Zn (zinc)"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "химический",
+    "en": "chemical"
+   },
+   {
+    "w": "символ",
+    "en": "symbol"
+   },
+   {
+    "w": "золота",
+    "en": "of gold"
+   }
+  ],
+  "explanation": "Au происходит от латинского слова aurum, которое значит «золото».",
+  "explanationEn": "Au comes from the Latin word aurum, which means gold."
+ },
+ {
+  "id": "ru_k_t3_03",
+  "tier": 3,
+  "category": "history",
+  "text": "В каком году началась Вторая мировая война?",
+  "translation": "In what year did the Second World War begin?",
+  "correct": {
+   "text": "1939",
+   "translation": "1939"
+  },
+  "distractors": [
+   {
+    "text": "1914",
+    "translation": "1914"
+   },
+   {
+    "text": "1929",
+    "translation": "1929"
+   },
+   {
+    "text": "1945",
+    "translation": "1945"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "началась",
+    "en": "began"
+   },
+   {
+    "w": "мировая",
+    "en": "world (adj.)"
+   }
+  ],
+  "explanation": "Война началась 1 сентября 1939 года с нападения Германии на Польшу.",
+  "explanationEn": "The war began on 1 September 1939 with Germany's attack on Poland."
+ },
+ {
+  "id": "ru_k_t3_04",
+  "tier": 3,
+  "category": "geography",
+  "text": "Какая самая длинная река в Европе?",
+  "translation": "What is the longest river in Europe?",
+  "correct": {
+   "text": "Волга",
+   "translation": "Volga"
+  },
+  "distractors": [
+   {
+    "text": "Дунай",
+    "translation": "Danube"
+   },
+   {
+    "text": "Рейн",
+    "translation": "Rhine"
+   },
+   {
+    "text": "Днепр",
+    "translation": "Dnieper"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "длинная",
+    "en": "long"
+   }
+  ],
+  "explanation": "Волга протекает по России и впадает в Каспийское море; её длина — около 3500 километров.",
+  "explanationEn": "The Volga flows through Russia into the Caspian Sea; it is about 3,500 kilometres long."
+ },
+ {
+  "id": "ru_k_t3_05",
+  "tier": 3,
+  "category": "literature",
+  "text": "Кто написал роман в стихах «Евгений Онегин»?",
+  "translation": "Who wrote the novel in verse \"Eugene Onegin\"?",
+  "correct": {
+   "text": "Александр Пушкин",
+   "translation": "Alexander Pushkin"
+  },
+  "distractors": [
+   {
+    "text": "Михаил Лермонтов",
+    "translation": "Mikhail Lermontov"
+   },
+   {
+    "text": "Николай Гоголь",
+    "translation": "Nikolai Gogol"
+   },
+   {
+    "text": "Николай Некрасов",
+    "translation": "Nikolai Nekrasov"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "роман",
+    "en": "novel"
+   },
+   {
+    "w": "стихах",
+    "en": "verse"
+   }
+  ],
+  "explanation": "Пушкин писал этот роман в стихах с 1823 по 1831 год.",
+  "explanationEn": "Pushkin wrote this novel in verse from 1823 to 1831."
+ },
+ {
+  "id": "ru_k_t3_06",
+  "tier": 3,
+  "category": "nature",
+  "text": "Как называют животных, которые кормят детёнышей молоком?",
+  "translation": "What are animals that feed their young with milk called?",
+  "correct": {
+   "text": "Млекопитающие",
+   "translation": "Mammals"
+  },
+  "distractors": [
+   {
+    "text": "Земноводные",
+    "translation": "Amphibians"
+   },
+   {
+    "text": "Пресмыкающиеся",
+    "translation": "Reptiles"
+   },
+   {
+    "text": "Насекомые",
+    "translation": "Insects"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "кормят",
+    "en": "feed"
+   },
+   {
+    "w": "детёнышей",
+    "en": "young (offspring)"
+   },
+   {
+    "w": "земноводные",
+    "en": "amphibians"
+   },
+   {
+    "w": "пресмыкающиеся",
+    "en": "reptiles"
+   },
+   {
+    "w": "насекомые",
+    "en": "insects"
+   },
+   {
+    "w": "называют",
+    "en": "call, name"
+   },
+   {
+    "w": "молоком",
+    "en": "milk (instr.)"
+   }
+  ],
+  "explanation": "Млекопитающие выкармливают своих детёнышей молоком, например кошки, собаки и киты.",
+  "explanationEn": "Mammals feed their young with milk, for example cats, dogs and whales."
+ },
+ {
+  "id": "ru_k_t3_07",
+  "tier": 3,
+  "category": "politics",
+  "text": "Что такое парламент?",
+  "translation": "What is a parliament?",
+  "correct": {
+   "text": "Орган, который принимает законы",
+   "translation": "A body that passes laws"
+  },
+  "distractors": [
+   {
+    "text": "Суд, который наказывает преступников",
+    "translation": "A court that punishes criminals"
+   },
+   {
+    "text": "Армия, которая защищает страну",
+    "translation": "An army that defends the country"
+   },
+   {
+    "text": "Банк, который печатает деньги",
+    "translation": "A bank that prints money"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "парламент",
+    "en": "parliament"
+   },
+   {
+    "w": "орган",
+    "en": "body"
+   },
+   {
+    "w": "принимает",
+    "en": "passes, adopts"
+   },
+   {
+    "w": "суд",
+    "en": "court"
+   },
+   {
+    "w": "наказывает",
+    "en": "punishes"
+   },
+   {
+    "w": "преступников",
+    "en": "criminals"
+   },
+   {
+    "w": "защищает",
+    "en": "defends"
+   },
+   {
+    "w": "печатает",
+    "en": "prints"
+   }
+  ],
+  "explanation": "Парламент — орган, где депутаты обсуждают и принимают законы.",
+  "explanationEn": "Parliament is a body where deputies discuss and pass laws."
+ },
+ {
+  "id": "ru_k_t3_08",
+  "tier": 3,
+  "category": "science",
+  "text": "Какой газ растения поглощают при фотосинтезе?",
+  "translation": "Which gas do plants absorb during photosynthesis?",
+  "correct": {
+   "text": "Углекислый газ",
+   "translation": "Carbon dioxide"
+  },
+  "distractors": [
+   {
+    "text": "Кислород",
+    "translation": "Oxygen"
+   },
+   {
+    "text": "Азот",
+    "translation": "Nitrogen"
+   },
+   {
+    "text": "Водород",
+    "translation": "Hydrogen"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "поглощают",
+    "en": "absorb"
+   },
+   {
+    "w": "фотосинтезе",
+    "en": "photosynthesis"
+   },
+   {
+    "w": "кислород",
+    "en": "oxygen"
+   },
+   {
+    "w": "азот",
+    "en": "nitrogen"
+   },
+   {
+    "w": "водород",
+    "en": "hydrogen"
+   },
+   {
+    "w": "углекислый",
+    "en": "carbon dioxide (углекислый газ = carbon dioxide)"
+   },
+   {
+    "w": "газ",
+    "en": "gas"
+   },
+   {
+    "w": "растения",
+    "en": "plants"
+   }
+  ],
+  "explanation": "Растения берут из воздуха углекислый газ и выделяют кислород.",
+  "explanationEn": "Plants take carbon dioxide from the air and release oxygen."
+ },
+ {
+  "id": "ru_k_t3_09",
+  "tier": 3,
+  "category": "history",
+  "text": "В каком году Юрий Гагарин полетел в космос?",
+  "translation": "In what year did Yuri Gagarin fly into space?",
+  "correct": {
+   "text": "1961",
+   "translation": "1961"
+  },
+  "distractors": [
+   {
+    "text": "1957",
+    "translation": "1957"
+   },
+   {
+    "text": "1969",
+    "translation": "1969"
+   },
+   {
+    "text": "1975",
+    "translation": "1975"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "полетел",
+    "en": "flew"
+   },
+   {
+    "w": "космос",
+    "en": "space"
+   }
+  ],
+  "explanation": "Гагарин совершил первый в истории полёт человека в космос 12 апреля 1961 года.",
+  "explanationEn": "Gagarin made the first human spaceflight in history on 12 April 1961."
+ },
+ {
+  "id": "ru_k_t3_10",
+  "tier": 3,
+  "category": "geography",
+  "text": "Какое озеро является самым глубоким в мире?",
+  "translation": "Which lake is the deepest in the world?",
+  "correct": {
+   "text": "Байкал",
+   "translation": "Baikal"
+  },
+  "distractors": [
+   {
+    "text": "Ладожское",
+    "translation": "Ladoga"
+   },
+   {
+    "text": "Виктория",
+    "translation": "Victoria"
+   },
+   {
+    "text": "Верхнее",
+    "translation": "Superior"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "является",
+    "en": "is"
+   },
+   {
+    "w": "самым",
+    "en": "the most"
+   },
+   {
+    "w": "глубоким",
+    "en": "deep"
+   },
+   {
+    "w": "озеро",
+    "en": "lake"
+   },
+   {
+    "w": "Верхнее",
+    "en": "Superior (lit. upper)"
+   }
+  ],
+  "explanation": "Максимальная глубина Байкала — более полутора километров.",
+  "explanationEn": "Baikal's maximum depth is more than one and a half kilometres."
+ },
+ {
+  "id": "ru_k_t3_11",
+  "tier": 3,
+  "category": "literature",
+  "text": "Кто написал пьесу «Ромео и Джульетта»?",
+  "translation": "Who wrote the play \"Romeo and Juliet\"?",
+  "correct": {
+   "text": "Уильям Шекспир",
+   "translation": "William Shakespeare"
+  },
+  "distractors": [
+   {
+    "text": "Чарльз Диккенс",
+    "translation": "Charles Dickens"
+   },
+   {
+    "text": "Иоганн Гёте",
+    "translation": "Johann Goethe"
+   },
+   {
+    "text": "Жан-Батист Мольер",
+    "translation": "Jean-Baptiste Molière"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "пьесу",
+    "en": "play (drama)"
+   }
+  ],
+  "explanation": "Шекспир — великий английский драматург, автор этой трагедии.",
+  "explanationEn": "Shakespeare is a great English playwright, the author of this tragedy."
+ },
+ {
+  "id": "ru_k_t3_12",
+  "tier": 3,
+  "category": "arts",
+  "text": "Кто написал картину «Чёрный квадрат»?",
+  "translation": "Who painted the painting “Black Square”?",
+  "correct": {
+   "text": "Казимир Малевич",
+   "translation": "Kazimir Malevich"
+  },
+  "distractors": [
+   {
+    "text": "Василий Кандинский",
+    "translation": "Wassily Kandinsky"
+   },
+   {
+    "text": "Марк Шагал",
+    "translation": "Marc Chagall"
+   },
+   {
+    "text": "Илья Репин",
+    "translation": "Ilya Repin"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "написал",
+    "en": "painted (lit. wrote)"
+   },
+   {
+    "w": "картину",
+    "en": "painting"
+   },
+   {
+    "w": "квадрат",
+    "en": "square"
+   }
+  ],
+  "explanation": "Казимир Малевич создал «Чёрный квадрат» в 1915 году.",
+  "explanationEn": "Kazimir Malevich created “Black Square” in 1915."
+ },
+ {
+  "id": "ru_k_t3_13",
+  "tier": 3,
+  "category": "politics",
+  "text": "Что такое референдум?",
+  "translation": "What is a referendum?",
+  "correct": {
+   "text": "Всенародное голосование по важному вопросу",
+   "translation": "A nationwide vote on an important issue"
+  },
+  "distractors": [
+   {
+    "text": "Встреча глав двух государств",
+    "translation": "A meeting of two heads of state"
+   },
+   {
+    "text": "Заседание парламента",
+    "translation": "A session of parliament"
+   },
+   {
+    "text": "Перепись населения",
+    "translation": "A population census"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "референдум",
+    "en": "referendum"
+   },
+   {
+    "w": "всенародное",
+    "en": "nationwide"
+   },
+   {
+    "w": "голосование",
+    "en": "voting"
+   },
+   {
+    "w": "вопросу",
+    "en": "issue, question"
+   },
+   {
+    "w": "глав",
+    "en": "heads, leaders"
+   },
+   {
+    "w": "заседание",
+    "en": "session"
+   },
+   {
+    "w": "перепись",
+    "en": "census"
+   },
+   {
+    "w": "населения",
+    "en": "of the population"
+   },
+   {
+    "w": "государств",
+    "en": "of states"
+   },
+   {
+    "w": "встреча",
+    "en": "meeting"
+   }
+  ],
+  "explanation": "На референдуме граждане голосуют по важному вопросу.",
+  "explanationEn": "In a referendum citizens vote on an important issue."
+ },
+ {
+  "id": "ru_k_t3_14",
+  "tier": 3,
+  "category": "science",
+  "text": "Что измеряют в вольтах?",
+  "translation": "What is measured in volts?",
+  "correct": {
+   "text": "Электрическое напряжение",
+   "translation": "Electric voltage"
+  },
+  "distractors": [
+   {
+    "text": "Силу тока",
+    "translation": "The strength of electric current"
+   },
+   {
+    "text": "Мощность",
+    "translation": "Power"
+   },
+   {
+    "text": "Давление",
+    "translation": "Pressure"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "измеряют",
+    "en": "measure"
+   },
+   {
+    "w": "вольтах",
+    "en": "volts"
+   },
+   {
+    "w": "силу",
+    "en": "strength, force"
+   },
+   {
+    "w": "тока",
+    "en": "of current"
+   },
+   {
+    "w": "мощность",
+    "en": "power"
+   },
+   {
+    "w": "давление",
+    "en": "pressure"
+   },
+   {
+    "w": "электрическое",
+    "en": "electric"
+   },
+   {
+    "w": "напряжение",
+    "en": "voltage"
+   }
+  ],
+  "explanation": "Вольт — единица электрического напряжения, названная в честь Алессандро Вольты.",
+  "explanationEn": "The volt is a unit of electric voltage, named after Alessandro Volta."
+ },
+ {
+  "id": "ru_k_t3_15",
+  "tier": 3,
+  "category": "history",
+  "text": "Какое событие произошло в России в 1917 году?",
+  "translation": "What event took place in Russia in 1917?",
+  "correct": {
+   "text": "Революция",
+   "translation": "Revolution"
+  },
+  "distractors": [
+   {
+    "text": "Отмена крепостного права",
+    "translation": "Abolition of serfdom"
+   },
+   {
+    "text": "Война с Наполеоном",
+    "translation": "War with Napoleon"
+   },
+   {
+    "text": "Основание Санкт-Петербурга",
+    "translation": "Founding of Saint Petersburg"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "событие",
+    "en": "event"
+   },
+   {
+    "w": "произошло",
+    "en": "took place"
+   },
+   {
+    "w": "отмена",
+    "en": "abolition"
+   },
+   {
+    "w": "крепостного",
+    "en": "serf-, of serfdom"
+   },
+   {
+    "w": "основание",
+    "en": "founding"
+   },
+   {
+    "w": "права",
+    "en": "of the right, law"
+   }
+  ],
+  "explanation": "В 1917 году в России произошли Февральская и Октябрьская революции.",
+  "explanationEn": "In 1917 the February and October revolutions took place in Russia."
+ },
+ {
+  "id": "ru_k_t3_16",
+  "tier": 3,
+  "category": "geography",
+  "text": "Какое море отделяет Европу от Африки?",
+  "translation": "Which sea separates Europe from Africa?",
+  "correct": {
+   "text": "Средиземное море",
+   "translation": "The Mediterranean Sea"
+  },
+  "distractors": [
+   {
+    "text": "Балтийское море",
+    "translation": "The Baltic Sea"
+   },
+   {
+    "text": "Чёрное море",
+    "translation": "The Black Sea"
+   },
+   {
+    "text": "Красное море",
+    "translation": "The Red Sea"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "отделяет",
+    "en": "separates"
+   },
+   {
+    "w": "балтийское",
+    "en": "Baltic"
+   },
+   {
+    "w": "средиземное",
+    "en": "Mediterranean"
+   }
+  ],
+  "explanation": "Средиземное море лежит между южной Европой и северной Африкой.",
+  "explanationEn": "The Mediterranean Sea lies between southern Europe and northern Africa."
+ },
+ {
+  "id": "ru_k_t3_17",
+  "tier": 3,
+  "category": "nature",
+  "text": "Какое животное самое крупное на Земле?",
+  "translation": "Which animal is the largest on Earth?",
+  "correct": {
+   "text": "Синий кит",
+   "translation": "The blue whale"
+  },
+  "distractors": [
+   {
+    "text": "Африканский слон",
+    "translation": "The African elephant"
+   },
+   {
+    "text": "Кашалот",
+    "translation": "The sperm whale"
+   },
+   {
+    "text": "Белая акула",
+    "translation": "The great white shark"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "крупное",
+    "en": "large, big"
+   },
+   {
+    "w": "кашалот",
+    "en": "sperm whale"
+   },
+   {
+    "w": "акула",
+    "en": "shark"
+   }
+  ],
+  "explanation": "Синий кит бывает длиной до 30 метров и тяжелее любого другого животного.",
+  "explanationEn": "The blue whale can reach 30 metres in length and is heavier than any other animal."
+ },
+ {
+  "id": "ru_k_t3_18",
+  "tier": 3,
+  "category": "technology",
+  "text": "Что используют как топливо на атомных электростанциях?",
+  "translation": "What is used as fuel at nuclear power plants?",
+  "correct": {
+   "text": "Уран",
+   "translation": "Uranium"
+  },
+  "distractors": [
+   {
+    "text": "Уголь",
+    "translation": "Coal"
+   },
+   {
+    "text": "Нефть",
+    "translation": "Oil"
+   },
+   {
+    "text": "Природный газ",
+    "translation": "Natural gas"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "топливо",
+    "en": "fuel"
+   },
+   {
+    "w": "атомных",
+    "en": "nuclear"
+   },
+   {
+    "w": "электростанциях",
+    "en": "power plants"
+   },
+   {
+    "w": "уголь",
+    "en": "coal"
+   },
+   {
+    "w": "нефть",
+    "en": "crude oil"
+   },
+   {
+    "w": "природный",
+    "en": "natural"
+   }
+  ],
+  "explanation": "Атомные станции получают энергию из урана.",
+  "explanationEn": "Nuclear power plants get their energy from uranium."
+ },
+ {
+  "id": "ru_k_t3_19",
+  "tier": 3,
+  "category": "sports",
+  "text": "Сколько игроков одной команды одновременно находится на площадке в классическом волейболе?",
+  "translation": "How many players of one team are on the court at the same time in classic (indoor) volleyball?",
+  "correct": {
+   "text": "Шесть",
+   "translation": "Six"
+  },
+  "distractors": [
+   {
+    "text": "Пять",
+    "translation": "Five"
+   },
+   {
+    "text": "Семь",
+    "translation": "Seven"
+   },
+   {
+    "text": "Одиннадцать",
+    "translation": "Eleven"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "игроков",
+    "en": "players"
+   },
+   {
+    "w": "одновременно",
+    "en": "at the same time"
+   },
+   {
+    "w": "площадке",
+    "en": "court"
+   },
+   {
+    "w": "классическом",
+    "en": "classic, standard"
+   }
+  ],
+  "explanation": "В классическом волейболе на площадке от каждой команды играют шесть человек.",
+  "explanationEn": "In classic volleyball, six players from each team play on the court."
+ },
+ {
+  "id": "ru_k_t3_20",
+  "tier": 3,
+  "category": "economics",
+  "text": "Что такое налог?",
+  "translation": "What is a tax?",
+  "correct": {
+   "text": "Обязательный платёж государству",
+   "translation": "A mandatory payment to the state"
+  },
+  "distractors": [
+   {
+    "text": "Кредит в банке",
+    "translation": "A bank loan"
+   },
+   {
+    "text": "Зарплата рабочего",
+    "translation": "A worker's salary"
+   },
+   {
+    "text": "Цена товара в магазине",
+    "translation": "The price of goods in a shop"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "налог",
+    "en": "tax"
+   },
+   {
+    "w": "обязательный",
+    "en": "mandatory"
+   },
+   {
+    "w": "платёж",
+    "en": "payment"
+   },
+   {
+    "w": "кредит",
+    "en": "loan"
+   },
+   {
+    "w": "зарплата",
+    "en": "salary"
+   },
+   {
+    "w": "рабочего",
+    "en": "worker's"
+   },
+   {
+    "w": "товара",
+    "en": "of a product"
+   },
+   {
+    "w": "государству",
+    "en": "to the state"
+   }
+  ],
+  "explanation": "Граждане и компании платят налоги, и государство тратит эти деньги на общие нужды.",
+  "explanationEn": "Citizens and companies pay taxes, and the state spends this money on common needs."
+ },
+ {
+  "id": "ru_k_t3_21",
+  "tier": 3,
+  "category": "society",
+  "text": "Какой документ подтверждает личность человека?",
+  "translation": "Which document confirms a person's identity?",
+  "correct": {
+   "text": "Паспорт",
+   "translation": "Passport"
+  },
+  "distractors": [
+   {
+    "text": "Диплом",
+    "translation": "Diploma"
+   },
+   {
+    "text": "Чек",
+    "translation": "Receipt"
+   },
+   {
+    "text": "Рецепт",
+    "translation": "Prescription"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "подтверждает",
+    "en": "confirms"
+   },
+   {
+    "w": "личность",
+    "en": "identity"
+   },
+   {
+    "w": "диплом",
+    "en": "diploma"
+   },
+   {
+    "w": "чек",
+    "en": "receipt"
+   },
+   {
+    "w": "рецепт",
+    "en": "prescription"
+   }
+  ],
+  "explanation": "В паспорте записаны имя, дата рождения и другие данные человека.",
+  "explanationEn": "A passport records a person's name, date of birth and other data."
+ },
+ {
+  "id": "ru_k_t3_22",
+  "tier": 3,
+  "category": "language",
+  "text": "Сколько падежей в школьной грамматике русского языка?",
+  "translation": "How many cases are there in the school grammar of the Russian language?",
+  "correct": {
+   "text": "Шесть",
+   "translation": "Six"
+  },
+  "distractors": [
+   {
+    "text": "Четыре",
+    "translation": "Four"
+   },
+   {
+    "text": "Пять",
+    "translation": "Five"
+   },
+   {
+    "text": "Семь",
+    "translation": "Seven"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "падежей",
+    "en": "cases"
+   },
+   {
+    "w": "школьной",
+    "en": "school (adj.)"
+   },
+   {
+    "w": "грамматике",
+    "en": "grammar"
+   }
+  ],
+  "explanation": "В школьной грамматике шесть падежей: от именительного до предложного.",
+  "explanationEn": "In school grammar there are six cases, from nominative to prepositional."
+ },
+ {
+  "id": "ru_k_t3_23",
+  "tier": 3,
+  "category": "food",
+  "text": "Кто такой вегетарианец?",
+  "translation": "Who is a vegetarian?",
+  "correct": {
+   "text": "Человек, который не ест мясо",
+   "translation": "A person who does not eat meat"
+  },
+  "distractors": [
+   {
+    "text": "Человек, который не ест сладкое",
+    "translation": "A person who does not eat sweets"
+   },
+   {
+    "text": "Человек, который не ест овощи",
+    "translation": "A person who does not eat vegetables"
+   },
+   {
+    "text": "Человек, который не ест хлеб",
+    "translation": "A person who does not eat bread"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "вегетарианец",
+    "en": "vegetarian"
+   },
+   {
+    "w": "мясо",
+    "en": "meat"
+   },
+   {
+    "w": "сладкое",
+    "en": "sweets"
+   },
+   {
+    "w": "овощи",
+    "en": "vegetables"
+   }
+  ],
+  "explanation": "Вегетарианцы питаются растительной пищей и не едят мясо.",
+  "explanationEn": "Vegetarians eat plant-based food and do not eat meat."
+ },
+ {
+  "id": "ru_k_t3_24",
+  "tier": 3,
+  "category": "health",
+  "text": "Какой орган человека образует мочу?",
+  "translation": "Which human organ produces urine?",
+  "correct": {
+   "text": "Почка",
+   "translation": "The kidney"
+  },
+  "distractors": [
+   {
+    "text": "Печень",
+    "translation": "The liver"
+   },
+   {
+    "text": "Сердце",
+    "translation": "The heart"
+   },
+   {
+    "text": "Желудок",
+    "translation": "The stomach"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "орган",
+    "en": "organ"
+   },
+   {
+    "w": "образует",
+    "en": "forms, produces"
+   },
+   {
+    "w": "мочу",
+    "en": "urine"
+   },
+   {
+    "w": "почка",
+    "en": "kidney"
+   },
+   {
+    "w": "печень",
+    "en": "liver"
+   },
+   {
+    "w": "желудок",
+    "en": "stomach"
+   }
+  ],
+  "explanation": "Мочу образуют почки: они фильтруют кровь.",
+  "explanationEn": "Urine is produced by the kidneys, which filter the blood."
+ },
+ {
+  "id": "ru_k_t4_01",
+  "tier": 4,
+  "category": "politics",
+  "text": "Как называется форма правления, при которой монарх управляет страной, но его власть ограничена конституцией?",
+  "translation": "What is the form of government in which a monarch rules the country but his power is limited by a constitution?",
+  "correct": {
+   "text": "Конституционная монархия",
+   "translation": "Constitutional monarchy"
+  },
+  "distractors": [
+   {
+    "text": "Абсолютная монархия",
+    "translation": "Absolute monarchy"
+   },
+   {
+    "text": "Президентская республика",
+    "translation": "Presidential republic"
+   },
+   {
+    "text": "Теократия",
+    "translation": "Theocracy"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "правления",
+    "en": "of government"
+   },
+   {
+    "w": "монарх",
+    "en": "monarch"
+   },
+   {
+    "w": "ограничена",
+    "en": "is limited"
+   },
+   {
+    "w": "конституцией",
+    "en": "by a constitution"
+   },
+   {
+    "w": "абсолютная",
+    "en": "absolute"
+   },
+   {
+    "w": "теократия",
+    "en": "theocracy"
+   }
+  ],
+  "explanation": "В такой монархии власть монарха ограничена конституцией и законами.",
+  "explanationEn": "In such a monarchy, the monarch's power is limited by the constitution and laws."
+ },
+ {
+  "id": "ru_k_t4_02",
+  "tier": 4,
+  "category": "politics",
+  "text": "Какая международная организация была создана в 1945 году для поддержания мира и безопасности?",
+  "translation": "Which international organization was created in 1945 to maintain peace and security?",
+  "correct": {
+   "text": "ООН",
+   "translation": "The UN"
+  },
+  "distractors": [
+   {
+    "text": "НАТО",
+    "translation": "NATO"
+   },
+   {
+    "text": "Лига Наций",
+    "translation": "League of Nations"
+   },
+   {
+    "text": "Европейский союз",
+    "translation": "European Union"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "создана",
+    "en": "created, established"
+   },
+   {
+    "w": "поддержания",
+    "en": "maintaining"
+   },
+   {
+    "w": "безопасности",
+    "en": "security"
+   },
+   {
+    "w": "лига",
+    "en": "league"
+   },
+   {
+    "w": "наций",
+    "en": "of nations"
+   }
+  ],
+  "explanation": "ООН основали после Второй мировой войны, чтобы сохранять мир между странами.",
+  "explanationEn": "The UN was founded after the Second World War to preserve peace between countries."
+ },
+ {
+  "id": "ru_k_t4_03",
+  "tier": 4,
+  "category": "politics",
+  "text": "Как называется форма государственного устройства, при которой государство состоит из самоуправляющихся частей — штатов, земель или республик?",
+  "translation": "What is the form of state structure in which the state consists of self-governing parts such as states, lands or republics?",
+  "correct": {
+   "text": "Федерация",
+   "translation": "Federation"
+  },
+  "distractors": [
+   {
+    "text": "Унитарное государство",
+    "translation": "Unitary state"
+   },
+   {
+    "text": "Протекторат",
+    "translation": "Protectorate"
+   },
+   {
+    "text": "Диктатура",
+    "translation": "Dictatorship"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "устройства",
+    "en": "of structure, organization"
+   },
+   {
+    "w": "состоит",
+    "en": "consists"
+   },
+   {
+    "w": "самоуправляющихся",
+    "en": "self-governing"
+   },
+   {
+    "w": "штатов",
+    "en": "of states (U.S.-style)"
+   },
+   {
+    "w": "земель",
+    "en": "of lands (federal states)"
+   },
+   {
+    "w": "федерация",
+    "en": "federation"
+   },
+   {
+    "w": "унитарное",
+    "en": "unitary"
+   },
+   {
+    "w": "протекторат",
+    "en": "protectorate"
+   },
+   {
+    "w": "диктатура",
+    "en": "dictatorship"
+   }
+  ],
+  "explanation": "В федерации части государства, например штаты или земли, имеют собственные органы власти.",
+  "explanationEn": "In a federation, the parts of the state, such as states or lands, have their own governing bodies."
+ },
+ {
+  "id": "ru_k_t4_04",
+  "tier": 4,
+  "category": "economics",
+  "text": "Как называется устойчивый рост общего уровня цен, при котором деньги теряют покупательную способность?",
+  "translation": "What is a sustained rise in the general price level, in which money loses purchasing power, called?",
+  "correct": {
+   "text": "Инфляция",
+   "translation": "Inflation"
+  },
+  "distractors": [
+   {
+    "text": "Дефляция",
+    "translation": "Deflation"
+   },
+   {
+    "text": "Девальвация",
+    "translation": "Devaluation"
+   },
+   {
+    "text": "Рецессия",
+    "translation": "Recession"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "устойчивый",
+    "en": "sustained"
+   },
+   {
+    "w": "уровня",
+    "en": "of the level"
+   },
+   {
+    "w": "покупательную",
+    "en": "purchasing"
+   },
+   {
+    "w": "способность",
+    "en": "ability, power"
+   },
+   {
+    "w": "дефляция",
+    "en": "deflation"
+   },
+   {
+    "w": "девальвация",
+    "en": "devaluation"
+   },
+   {
+    "w": "рецессия",
+    "en": "recession"
+   },
+   {
+    "w": "теряют",
+    "en": "lose"
+   }
+  ],
+  "explanation": "При инфляции цены растут, и на ту же сумму можно купить меньше.",
+  "explanationEn": "In inflation prices rise, and the same sum buys less."
+ },
+ {
+  "id": "ru_k_t4_05",
+  "tier": 4,
+  "category": "economics",
+  "text": "Что измеряет валовой внутренний продукт (ВВП) страны?",
+  "translation": "What does a country's gross domestic product (GDP) measure?",
+  "correct": {
+   "text": "Стоимость всех товаров и услуг, произведённых за год",
+   "translation": "The value of all goods and services produced in a year"
+  },
+  "distractors": [
+   {
+    "text": "Разницу между экспортом и импортом",
+    "translation": "The difference between exports and imports"
+   },
+   {
+    "text": "Размер государственного бюджета",
+    "translation": "The size of the state budget"
+   },
+   {
+    "text": "Среднюю зарплату в стране",
+    "translation": "The average salary in the country"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "измеряет",
+    "en": "measures"
+   },
+   {
+    "w": "валовой",
+    "en": "gross"
+   },
+   {
+    "w": "внутренний",
+    "en": "domestic"
+   },
+   {
+    "w": "стоимость",
+    "en": "value"
+   },
+   {
+    "w": "произведённых",
+    "en": "produced"
+   },
+   {
+    "w": "разницу",
+    "en": "difference"
+   },
+   {
+    "w": "экспортом",
+    "en": "exports"
+   },
+   {
+    "w": "импортом",
+    "en": "imports"
+   },
+   {
+    "w": "бюджета",
+    "en": "budget"
+   },
+   {
+    "w": "товаров",
+    "en": "goods"
+   },
+   {
+    "w": "услуг",
+    "en": "services"
+   }
+  ],
+  "explanation": "ВВП — это общая стоимость товаров и услуг, созданных в стране за год.",
+  "explanationEn": "GDP is the total value of goods and services created in a country in a year."
+ },
+ {
+  "id": "ru_k_t4_06",
+  "tier": 4,
+  "category": "economics",
+  "text": "Как называется ситуация на рынке, при которой один продавец полностью контролирует предложение товара?",
+  "translation": "What is the market situation in which a single seller fully controls the supply of a product?",
+  "correct": {
+   "text": "Монополия",
+   "translation": "Monopoly"
+  },
+  "distractors": [
+   {
+    "text": "Олигополия",
+    "translation": "Oligopoly"
+   },
+   {
+    "text": "Конкуренция",
+    "translation": "Competition"
+   },
+   {
+    "text": "Дефицит",
+    "translation": "Shortage"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "продавец",
+    "en": "seller"
+   },
+   {
+    "w": "контролирует",
+    "en": "controls"
+   },
+   {
+    "w": "предложение",
+    "en": "supply"
+   },
+   {
+    "w": "олигополия",
+    "en": "oligopoly"
+   },
+   {
+    "w": "конкуренция",
+    "en": "competition"
+   },
+   {
+    "w": "дефицит",
+    "en": "shortage"
+   }
+  ],
+  "explanation": "Монополия — это когда один продавец контролирует весь рынок товара.",
+  "explanationEn": "A monopoly is when a single seller controls the whole market for a product."
+ },
+ {
+  "id": "ru_k_t4_07",
+  "tier": 4,
+  "category": "science",
+  "text": "Как называется процесс синтеза молекулы РНК на матрице ДНК?",
+  "translation": "What is the process of synthesizing an RNA molecule on a DNA template called?",
+  "correct": {
+   "text": "Транскрипция",
+   "translation": "Transcription"
+  },
+  "distractors": [
+   {
+    "text": "Трансляция",
+    "translation": "Translation (protein synthesis)"
+   },
+   {
+    "text": "Репликация",
+    "translation": "Replication"
+   },
+   {
+    "text": "Рекомбинация",
+    "translation": "Recombination"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "синтеза",
+    "en": "of synthesis"
+   },
+   {
+    "w": "молекулы",
+    "en": "of a molecule"
+   },
+   {
+    "w": "матрице",
+    "en": "template"
+   },
+   {
+    "w": "транскрипция",
+    "en": "transcription"
+   },
+   {
+    "w": "трансляция",
+    "en": "translation (protein synthesis from RNA)"
+   },
+   {
+    "w": "репликация",
+    "en": "replication (copying of DNA)"
+   },
+   {
+    "w": "рекомбинация",
+    "en": "recombination"
+   }
+  ],
+  "explanation": "При транскрипции по последовательности ДНК строится молекула РНК.",
+  "explanationEn": "In transcription, an RNA molecule is built following the DNA sequence."
+ },
+ {
+  "id": "ru_k_t4_08",
+  "tier": 4,
+  "category": "science",
+  "text": "Что утверждает специальная теория относительности о скорости света в вакууме?",
+  "translation": "What does the special theory of relativity state about the speed of light in a vacuum?",
+  "correct": {
+   "text": "Она одинакова для всех инерциальных наблюдателей",
+   "translation": "It is the same for all inertial observers"
+  },
+  "distractors": [
+   {
+    "text": "Она зависит от скорости источника",
+    "translation": "It depends on the speed of the source"
+   },
+   {
+    "text": "Она бесконечно велика",
+    "translation": "It is infinitely large"
+   },
+   {
+    "text": "Она медленно уменьшается со временем",
+    "translation": "It slowly decreases over time"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "утверждает",
+    "en": "states, claims"
+   },
+   {
+    "w": "специальная",
+    "en": "special"
+   },
+   {
+    "w": "относительности",
+    "en": "of relativity"
+   },
+   {
+    "w": "вакууме",
+    "en": "vacuum"
+   },
+   {
+    "w": "наблюдателей",
+    "en": "observers"
+   },
+   {
+    "w": "инерциальных",
+    "en": "inertial"
+   },
+   {
+    "w": "источника",
+    "en": "of the source"
+   },
+   {
+    "w": "бесконечно",
+    "en": "infinitely"
+   },
+   {
+    "w": "одинакова",
+    "en": "is the same, equal"
+   }
+  ],
+  "explanation": "Скорость света в вакууме одинакова для всех инерциальных наблюдателей и не зависит от движения источника.",
+  "explanationEn": "The speed of light in a vacuum is the same for all inertial observers and does not depend on the motion of the source."
+ },
+ {
+  "id": "ru_k_t4_09",
+  "tier": 4,
+  "category": "science",
+  "text": "Какой процесс является основным источником энергии Солнца?",
+  "translation": "Which process is the main source of the Sun's energy?",
+  "correct": {
+   "text": "Слияние ядер водорода в гелий",
+   "translation": "Fusion of hydrogen nuclei into helium"
+  },
+  "distractors": [
+   {
+    "text": "Деление ядер урана",
+    "translation": "Fission of uranium nuclei"
+   },
+   {
+    "text": "Горение угля и газа",
+    "translation": "Burning of coal and gas"
+   },
+   {
+    "text": "Радиоактивный распад тяжёлых элементов",
+    "translation": "Radioactive decay of heavy elements"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "основным",
+    "en": "main"
+   },
+   {
+    "w": "источником",
+    "en": "source"
+   },
+   {
+    "w": "энергии",
+    "en": "of energy"
+   },
+   {
+    "w": "Солнца",
+    "en": "of the Sun"
+   },
+   {
+    "w": "слияние",
+    "en": "fusion, merging"
+   },
+   {
+    "w": "ядер",
+    "en": "of nuclei"
+   },
+   {
+    "w": "водорода",
+    "en": "of hydrogen"
+   },
+   {
+    "w": "гелий",
+    "en": "helium"
+   },
+   {
+    "w": "деление",
+    "en": "fission, division"
+   },
+   {
+    "w": "урана",
+    "en": "of uranium"
+   },
+   {
+    "w": "горение",
+    "en": "burning"
+   },
+   {
+    "w": "угля",
+    "en": "of coal"
+   },
+   {
+    "w": "газа",
+    "en": "of gas"
+   },
+   {
+    "w": "радиоактивный",
+    "en": "radioactive"
+   },
+   {
+    "w": "распад",
+    "en": "decay"
+   },
+   {
+    "w": "тяжёлых",
+    "en": "heavy"
+   },
+   {
+    "w": "элементов",
+    "en": "of elements"
+   }
+  ],
+  "explanation": "В центре Солнца ядра водорода сливаются в ядра гелия, и выделяется огромная энергия.",
+  "explanationEn": "In the center of the Sun, hydrogen nuclei fuse into helium nuclei, releasing enormous energy."
+ },
+ {
+  "id": "ru_k_t4_10",
+  "tier": 4,
+  "category": "science",
+  "text": "В каком органоиде клетки происходит клеточное дыхание и образуется основная часть АТФ?",
+  "translation": "In which cell organelle does cellular respiration occur and most of the ATP get produced?",
+  "correct": {
+   "text": "В митохондриях",
+   "translation": "In mitochondria"
+  },
+  "distractors": [
+   {
+    "text": "В рибосомах",
+    "translation": "In ribosomes"
+   },
+   {
+    "text": "В лизосомах",
+    "translation": "In lysosomes"
+   },
+   {
+    "text": "В ядре",
+    "translation": "In the nucleus"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "органоиде",
+    "en": "organelle"
+   },
+   {
+    "w": "клеточное",
+    "en": "cellular"
+   },
+   {
+    "w": "дыхание",
+    "en": "respiration"
+   },
+   {
+    "w": "образуется",
+    "en": "is formed"
+   },
+   {
+    "w": "рибосомах",
+    "en": "ribosomes"
+   },
+   {
+    "w": "лизосомах",
+    "en": "lysosomes"
+   },
+   {
+    "w": "митохондриях",
+    "en": "mitochondria"
+   }
+  ],
+  "explanation": "Митохондрии называют «энергетическими станциями» клетки: там вырабатывается АТФ.",
+  "explanationEn": "Mitochondria are called the cell's \"power stations\": ATP is produced there."
+ },
+ {
+  "id": "ru_k_t4_11",
+  "tier": 4,
+  "category": "history",
+  "text": "В каком году в России отменили крепостное право?",
+  "translation": "In what year was serfdom abolished in Russia?",
+  "correct": {
+   "text": "1861",
+   "translation": "1861"
+  },
+  "distractors": [
+   {
+    "text": "1825",
+    "translation": "1825"
+   },
+   {
+    "text": "1881",
+    "translation": "1881"
+   },
+   {
+    "text": "1905",
+    "translation": "1905"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "крепостное",
+    "en": "serf- (крепостное право = serfdom)"
+   },
+   {
+    "w": "отменили",
+    "en": "abolished"
+   },
+   {
+    "w": "право",
+    "en": "right, law"
+   }
+  ],
+  "explanation": "Манифест Александра II 1861 года освободил крестьян от крепостной зависимости.",
+  "explanationEn": "Alexander II's 1861 manifesto freed the peasants from serfdom."
+ },
+ {
+  "id": "ru_k_t4_12",
+  "tier": 4,
+  "category": "history",
+  "text": "Какая битва в 1815 году положила конец правлению Наполеона?",
+  "translation": "Which battle in 1815 put an end to Napoleon's rule?",
+  "correct": {
+   "text": "Ватерлоо",
+   "translation": "Waterloo"
+  },
+  "distractors": [
+   {
+    "text": "Бородино",
+    "translation": "Borodino"
+   },
+   {
+    "text": "Аустерлиц",
+    "translation": "Austerlitz"
+   },
+   {
+    "text": "Лейпциг",
+    "translation": "Leipzig"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "положила",
+    "en": "put (an end)"
+   },
+   {
+    "w": "правлению",
+    "en": "rule, reign"
+   }
+  ],
+  "explanation": "После поражения при Ватерлоо Наполеон лишился власти и был сослан на остров Святой Елены.",
+  "explanationEn": "After the defeat at Waterloo, Napoleon lost power and was exiled to the island of Saint Helena."
+ },
+ {
+  "id": "ru_k_t4_13",
+  "tier": 4,
+  "category": "history",
+  "text": "Какое событие началось во Франции в 1789 году?",
+  "translation": "What event began in France in 1789?",
+  "correct": {
+   "text": "Великая французская революция",
+   "translation": "The French Revolution"
+  },
+  "distractors": [
+   {
+    "text": "Столетняя война",
+    "translation": "The Hundred Years' War"
+   },
+   {
+    "text": "Парижская коммуна",
+    "translation": "The Paris Commune"
+   },
+   {
+    "text": "Франко-прусская война",
+    "translation": "The Franco-Prussian War"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "событие",
+    "en": "event"
+   },
+   {
+    "w": "столетняя",
+    "en": "hundred-year"
+   },
+   {
+    "w": "коммуна",
+    "en": "commune"
+   },
+   {
+    "w": "франко-прусская",
+    "en": "Franco-Prussian"
+   }
+  ],
+  "explanation": "В 1789 году взятие Бастилии стало началом Великой французской революции.",
+  "explanationEn": "In 1789 the storming of the Bastille marked the start of the French Revolution."
+ },
+ {
+  "id": "ru_k_t4_14",
+  "tier": 4,
+  "category": "history",
+  "text": "В каком году Пётр I основал Санкт-Петербург?",
+  "translation": "In what year did Peter I found Saint Petersburg?",
+  "correct": {
+   "text": "1703",
+   "translation": "1703"
+  },
+  "distractors": [
+   {
+    "text": "1613",
+    "translation": "1613"
+   },
+   {
+    "text": "1721",
+    "translation": "1721"
+   },
+   {
+    "text": "1762",
+    "translation": "1762"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "основал",
+    "en": "founded"
+   }
+  ],
+  "explanation": "Пётр I заложил Петропавловскую крепость на Неве в 1703 году.",
+  "explanationEn": "Peter I laid the foundation of the Peter and Paul Fortress on the Neva in 1703."
+ },
+ {
+  "id": "ru_k_t4_15",
+  "tier": 4,
+  "category": "literature",
+  "text": "Кто написал роман «Мастер и Маргарита»?",
+  "translation": "Who wrote the novel \"The Master and Margarita\"?",
+  "correct": {
+   "text": "Михаил Булгаков",
+   "translation": "Mikhail Bulgakov"
+  },
+  "distractors": [
+   {
+    "text": "Борис Пастернак",
+    "translation": "Boris Pasternak"
+   },
+   {
+    "text": "Михаил Шолохов",
+    "translation": "Mikhail Sholokhov"
+   },
+   {
+    "text": "Владимир Набоков",
+    "translation": "Vladimir Nabokov"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "роман",
+    "en": "novel"
+   }
+  ],
+  "explanation": "Роман написал Михаил Булгаков; опубликовали его только после смерти автора.",
+  "explanationEn": "Mikhail Bulgakov wrote the novel; it was published only after the author's death."
+ },
+ {
+  "id": "ru_k_t4_16",
+  "tier": 4,
+  "category": "literature",
+  "text": "Кто автор антиутопии «1984»?",
+  "translation": "Who is the author of the dystopia \"1984\"?",
+  "correct": {
+   "text": "Джордж Оруэлл",
+   "translation": "George Orwell"
+  },
+  "distractors": [
+   {
+    "text": "Олдос Хаксли",
+    "translation": "Aldous Huxley"
+   },
+   {
+    "text": "Рэй Брэдбери",
+    "translation": "Ray Bradbury"
+   },
+   {
+    "text": "Франц Кафка",
+    "translation": "Franz Kafka"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "антиутопии",
+    "en": "of a dystopia"
+   }
+  ],
+  "explanation": "Роман-антиутопию «1984» написал британский писатель Джордж Оруэлл.",
+  "explanationEn": "The dystopian novel \"1984\" was written by the British writer George Orwell."
+ },
+ {
+  "id": "ru_k_t4_17",
+  "tier": 4,
+  "category": "arts",
+  "text": "Какой композитор написал оперу «Евгений Онегин»?",
+  "translation": "Which composer wrote the opera \"Eugene Onegin\"?",
+  "correct": {
+   "text": "Пётр Чайковский",
+   "translation": "Pyotr Tchaikovsky"
+  },
+  "distractors": [
+   {
+    "text": "Николай Римский-Корсаков",
+    "translation": "Nikolai Rimsky-Korsakov"
+   },
+   {
+    "text": "Модест Мусоргский",
+    "translation": "Modest Mussorgsky"
+   },
+   {
+    "text": "Михаил Глинка",
+    "translation": "Mikhail Glinka"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "композитор",
+    "en": "composer"
+   },
+   {
+    "w": "оперу",
+    "en": "opera"
+   }
+  ],
+  "explanation": "Чайковский сочинил оперу по роману в стихах Александра Пушкина.",
+  "explanationEn": "Tchaikovsky composed the opera based on Alexander Pushkin's novel in verse."
+ },
+ {
+  "id": "ru_k_t4_18",
+  "tier": 4,
+  "category": "geography",
+  "text": "Какой пролив отделяет Европу от Африки на западе Средиземного моря?",
+  "translation": "Which strait separates Europe from Africa in the west of the Mediterranean Sea?",
+  "correct": {
+   "text": "Гибралтарский пролив",
+   "translation": "The Strait of Gibraltar"
+  },
+  "distractors": [
+   {
+    "text": "Босфор",
+    "translation": "The Bosphorus"
+   },
+   {
+    "text": "Ла-Манш",
+    "translation": "The English Channel"
+   },
+   {
+    "text": "Берингов пролив",
+    "translation": "The Bering Strait"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "пролив",
+    "en": "strait"
+   },
+   {
+    "w": "отделяет",
+    "en": "separates"
+   },
+   {
+    "w": "средиземного",
+    "en": "Mediterranean"
+   },
+   {
+    "w": "ла-манш",
+    "en": "English Channel"
+   }
+  ],
+  "explanation": "Через Гибралтарский пролив Средиземное море соединяется с Атлантическим океаном.",
+  "explanationEn": "Through the Strait of Gibraltar the Mediterranean Sea connects to the Atlantic Ocean."
+ },
+ {
+  "id": "ru_k_t4_19",
+  "tier": 4,
+  "category": "technology",
+  "text": "Как называется система счисления, в которой используются только цифры 0 и 1?",
+  "translation": "What is the number system that uses only the digits 0 and 1 called?",
+  "correct": {
+   "text": "Двоичная",
+   "translation": "Binary"
+  },
+  "distractors": [
+   {
+    "text": "Десятичная",
+    "translation": "Decimal"
+   },
+   {
+    "text": "Восьмеричная",
+    "translation": "Octal"
+   },
+   {
+    "text": "Шестнадцатеричная",
+    "translation": "Hexadecimal"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "счисления",
+    "en": "of numeration"
+   },
+   {
+    "w": "используются",
+    "en": "are used"
+   },
+   {
+    "w": "десятичная",
+    "en": "decimal"
+   },
+   {
+    "w": "восьмеричная",
+    "en": "octal"
+   },
+   {
+    "w": "шестнадцатеричная",
+    "en": "hexadecimal"
+   },
+   {
+    "w": "двоичная",
+    "en": "binary"
+   }
+  ],
+  "explanation": "В двоичной системе любое число записывают только нулями и единицами.",
+  "explanationEn": "In the binary system any number is written using only zeros and ones."
+ },
+ {
+  "id": "ru_k_t4_20",
+  "tier": 4,
+  "category": "language",
+  "text": "Какая письменность лежит в основе современного русского алфавита?",
+  "translation": "Which writing system underlies the modern Russian alphabet?",
+  "correct": {
+   "text": "Кириллица",
+   "translation": "Cyrillic"
+  },
+  "distractors": [
+   {
+    "text": "Латиница",
+    "translation": "Latin script"
+   },
+   {
+    "text": "Глаголица",
+    "translation": "Glagolitic"
+   },
+   {
+    "text": "Иероглифы",
+    "translation": "Hieroglyphs"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "письменность",
+    "en": "writing system"
+   },
+   {
+    "w": "лежит",
+    "en": "lies"
+   },
+   {
+    "w": "основе",
+    "en": "basis, foundation"
+   },
+   {
+    "w": "латиница",
+    "en": "Latin script"
+   },
+   {
+    "w": "глаголица",
+    "en": "Glagolitic"
+   },
+   {
+    "w": "иероглифы",
+    "en": "hieroglyphs"
+   }
+  ],
+  "explanation": "Современный русский алфавит произошёл от старой кириллицы.",
+  "explanationEn": "The modern Russian alphabet descends from the old Cyrillic script."
+ },
+ {
+  "id": "ru_k_t4_21",
+  "tier": 4,
+  "category": "health",
+  "text": "Какой орган человека вырабатывает желчь, необходимую для переваривания жиров?",
+  "translation": "Which human organ produces the bile needed for digesting fats?",
+  "correct": {
+   "text": "Печень",
+   "translation": "The liver"
+  },
+  "distractors": [
+   {
+    "text": "Поджелудочная железа",
+    "translation": "The pancreas"
+   },
+   {
+    "text": "Желудок",
+    "translation": "The stomach"
+   },
+   {
+    "text": "Селезёнка",
+    "translation": "The spleen"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "орган",
+    "en": "organ"
+   },
+   {
+    "w": "вырабатывает",
+    "en": "produces"
+   },
+   {
+    "w": "желчь",
+    "en": "bile"
+   },
+   {
+    "w": "необходимую",
+    "en": "necessary"
+   },
+   {
+    "w": "переваривания",
+    "en": "of digestion"
+   },
+   {
+    "w": "жиров",
+    "en": "of fats"
+   },
+   {
+    "w": "поджелудочная",
+    "en": "pancreatic (lit. under-stomach)"
+   },
+   {
+    "w": "железа",
+    "en": "gland"
+   },
+   {
+    "w": "селезёнка",
+    "en": "spleen"
+   },
+   {
+    "w": "желудок",
+    "en": "stomach"
+   }
+  ],
+  "explanation": "Печень вырабатывает желчь, которая помогает расщеплять жиры.",
+  "explanationEn": "The liver produces bile, which helps break down fats."
+ },
+ {
+  "id": "ru_k_t4_22",
+  "tier": 4,
+  "category": "nature",
+  "text": "Как называется длительное взаимовыгодное сожительство организмов разных видов?",
+  "translation": "What is a long-term, mutually beneficial coexistence of organisms of different species called?",
+  "correct": {
+   "text": "Симбиоз",
+   "translation": "Symbiosis"
+  },
+  "distractors": [
+   {
+    "text": "Хищничество",
+    "translation": "Predation"
+   },
+   {
+    "text": "Конкуренция",
+    "translation": "Competition"
+   },
+   {
+    "text": "Сукцессия",
+    "translation": "Succession"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "длительное",
+    "en": "long-term"
+   },
+   {
+    "w": "взаимовыгодное",
+    "en": "mutually beneficial"
+   },
+   {
+    "w": "сожительство",
+    "en": "coexistence"
+   },
+   {
+    "w": "видов",
+    "en": "of species"
+   },
+   {
+    "w": "хищничество",
+    "en": "predation"
+   },
+   {
+    "w": "конкуренция",
+    "en": "competition"
+   },
+   {
+    "w": "сукцессия",
+    "en": "ecological succession"
+   },
+   {
+    "w": "организмов",
+    "en": "of organisms"
+   }
+  ],
+  "explanation": "В симбиозе оба организма получают пользу, как гриб и водоросль в лишайнике.",
+  "explanationEn": "In symbiosis both organisms benefit, like the fungus and alga in a lichen."
+ },
+ {
+  "id": "ru_k_t4_23",
+  "tier": 4,
+  "category": "society",
+  "text": "Как называется процесс, в котором человек усваивает нормы, ценности и правила общества?",
+  "translation": "What is the process in which a person absorbs the norms, values and rules of society called?",
+  "correct": {
+   "text": "Социализация",
+   "translation": "Socialization"
+  },
+  "distractors": [
+   {
+    "text": "Глобализация",
+    "translation": "Globalization"
+   },
+   {
+    "text": "Урбанизация",
+    "translation": "Urbanization"
+   },
+   {
+    "text": "Миграция",
+    "translation": "Migration"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "усваивает",
+    "en": "absorbs, learns"
+   },
+   {
+    "w": "нормы",
+    "en": "norms"
+   },
+   {
+    "w": "ценности",
+    "en": "values"
+   },
+   {
+    "w": "глобализация",
+    "en": "globalization"
+   },
+   {
+    "w": "урбанизация",
+    "en": "urbanization"
+   },
+   {
+    "w": "миграция",
+    "en": "migration"
+   }
+  ],
+  "explanation": "В процессе социализации человек становится полноправным членом общества.",
+  "explanationEn": "Through socialization a person becomes a full member of society."
+ },
+ {
+  "id": "ru_k_t4_24",
+  "tier": 4,
+  "category": "sports",
+  "text": "Какая страна принимала первый чемпионат мира по футболу в 1930 году?",
+  "translation": "Which country hosted the first football World Cup in 1930?",
+  "correct": {
+   "text": "Уругвай",
+   "translation": "Uruguay"
+  },
+  "distractors": [
+   {
+    "text": "Бразилия",
+    "translation": "Brazil"
+   },
+   {
+    "text": "Италия",
+    "translation": "Italy"
+   },
+   {
+    "text": "Англия",
+    "translation": "England"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "принимала",
+    "en": "hosted"
+   },
+   {
+    "w": "чемпионат",
+    "en": "championship"
+   }
+  ],
+  "explanation": "Первый чемпионат мира по футболу прошёл в Уругвае, и сборная этой страны стала чемпионом.",
+  "explanationEn": "The first football World Cup was held in Uruguay, and that country's team became champions."
+ },
+ {
+  "id": "ru_k_t5_01",
+  "tier": 5,
+  "category": "politics",
+  "text": "Какой французский мыслитель обосновал принцип разделения властей в трактате «О духе законов»?",
+  "translation": "Which French thinker substantiated the principle of separation of powers in the treatise \"The Spirit of the Laws\"?",
+  "correct": {
+   "text": "Шарль Монтескьё",
+   "translation": "Charles Montesquieu"
+  },
+  "distractors": [
+   {
+    "text": "Жан-Жак Руссо",
+    "translation": "Jean-Jacques Rousseau"
+   },
+   {
+    "text": "Вольтер",
+    "translation": "Voltaire"
+   },
+   {
+    "text": "Дени Дидро",
+    "translation": "Denis Diderot"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "мыслитель",
+    "en": "thinker"
+   },
+   {
+    "w": "обосновал",
+    "en": "substantiated"
+   },
+   {
+    "w": "разделения",
+    "en": "of separation"
+   },
+   {
+    "w": "властей",
+    "en": "of powers"
+   },
+   {
+    "w": "трактате",
+    "en": "treatise"
+   },
+   {
+    "w": "духе",
+    "en": "spirit"
+   },
+   {
+    "w": "законов",
+    "en": "of laws"
+   }
+  ],
+  "explanation": "Монтескьё в 1748 году предложил разделить власть на три ветви.",
+  "explanationEn": "In 1748 Montesquieu proposed dividing power into three branches."
+ },
+ {
+  "id": "ru_k_t5_02",
+  "tier": 5,
+  "category": "politics",
+  "text": "Как называется полная независимость государства во внутренних и внешних делах?",
+  "translation": "What is the full independence of a state in its internal and external affairs called?",
+  "correct": {
+   "text": "Суверенитет",
+   "translation": "Sovereignty"
+  },
+  "distractors": [
+   {
+    "text": "Автономия",
+    "translation": "Autonomy"
+   },
+   {
+    "text": "Протекторат",
+    "translation": "Protectorate"
+   },
+   {
+    "text": "Федерация",
+    "translation": "Federation"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "независимость",
+    "en": "independence"
+   },
+   {
+    "w": "внутренних",
+    "en": "internal"
+   },
+   {
+    "w": "внешних",
+    "en": "external"
+   },
+   {
+    "w": "делах",
+    "en": "affairs"
+   },
+   {
+    "w": "автономия",
+    "en": "partial self-rule"
+   },
+   {
+    "w": "протекторат",
+    "en": "protected state"
+   }
+  ],
+  "explanation": "Суверенитет означает верховную власть государства на своей территории и независимость от других государств.",
+  "explanationEn": "Sovereignty means the supreme authority of a state on its territory and independence from other states."
+ },
+ {
+  "id": "ru_k_t5_03",
+  "tier": 5,
+  "category": "politics",
+  "text": "Какой международный документ 1997 года обязал развитые страны сократить выбросы парниковых газов?",
+  "translation": "Which international document of 1997 obliged developed countries to reduce greenhouse gas emissions?",
+  "correct": {
+   "text": "Киотский протокол",
+   "translation": "The Kyoto Protocol"
+  },
+  "distractors": [
+   {
+    "text": "Парижское соглашение",
+    "translation": "The Paris Agreement"
+   },
+   {
+    "text": "Монреальский протокол",
+    "translation": "The Montreal Protocol"
+   },
+   {
+    "text": "Женевская конвенция",
+    "translation": "The Geneva Convention"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "обязал",
+    "en": "obliged"
+   },
+   {
+    "w": "развитые",
+    "en": "developed"
+   },
+   {
+    "w": "сократить",
+    "en": "to reduce"
+   },
+   {
+    "w": "выбросы",
+    "en": "emissions"
+   },
+   {
+    "w": "парниковых",
+    "en": "greenhouse"
+   },
+   {
+    "w": "газов",
+    "en": "of gases"
+   },
+   {
+    "w": "соглашение",
+    "en": "agreement"
+   },
+   {
+    "w": "протокол",
+    "en": "protocol"
+   },
+   {
+    "w": "Киотский",
+    "en": "of Kyoto"
+   }
+  ],
+  "explanation": "Киотский протокол был принят в 1997 году и ограничивал выбросы развитых стран.",
+  "explanationEn": "The Kyoto Protocol was adopted in 1997 and limited the emissions of developed countries."
+ },
+ {
+  "id": "ru_k_t5_04",
+  "tier": 5,
+  "category": "science",
+  "text": "Какая физическая величина служит мерой беспорядка в термодинамической системе?",
+  "translation": "Which physical quantity serves as a measure of disorder in a thermodynamic system?",
+  "correct": {
+   "text": "Энтропия",
+   "translation": "Entropy"
+  },
+  "distractors": [
+   {
+    "text": "Энтальпия",
+    "translation": "Enthalpy"
+   },
+   {
+    "text": "Давление",
+    "translation": "Pressure"
+   },
+   {
+    "text": "Теплоёмкость",
+    "translation": "Heat capacity"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "величина",
+    "en": "quantity"
+   },
+   {
+    "w": "служит",
+    "en": "serves as"
+   },
+   {
+    "w": "мерой",
+    "en": "measure"
+   },
+   {
+    "w": "беспорядка",
+    "en": "of disorder"
+   },
+   {
+    "w": "термодинамической",
+    "en": "thermodynamic"
+   },
+   {
+    "w": "энтальпия",
+    "en": "enthalpy"
+   },
+   {
+    "w": "давление",
+    "en": "pressure"
+   },
+   {
+    "w": "теплоёмкость",
+    "en": "heat capacity"
+   }
+  ],
+  "explanation": "Чем больше беспорядок в системе, тем выше её энтропия.",
+  "explanationEn": "The greater the disorder in a system, the higher its entropy."
+ },
+ {
+  "id": "ru_k_t5_05",
+  "tier": 5,
+  "category": "science",
+  "text": "Какой принцип квантовой механики запрещает одновременно точно определить координату и импульс частицы?",
+  "translation": "Which principle of quantum mechanics forbids determining a particle's position and momentum exactly at the same time?",
+  "correct": {
+   "text": "Принцип неопределённости",
+   "translation": "The uncertainty principle"
+  },
+  "distractors": [
+   {
+    "text": "Принцип Паули",
+    "translation": "The Pauli exclusion principle"
+   },
+   {
+    "text": "Принцип суперпозиции",
+    "translation": "The superposition principle"
+   },
+   {
+    "text": "Принцип относительности",
+    "translation": "The principle of relativity"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "квантовой",
+    "en": "quantum"
+   },
+   {
+    "w": "запрещает",
+    "en": "forbids"
+   },
+   {
+    "w": "одновременно",
+    "en": "simultaneously"
+   },
+   {
+    "w": "определить",
+    "en": "to determine"
+   },
+   {
+    "w": "координату",
+    "en": "position"
+   },
+   {
+    "w": "импульс",
+    "en": "momentum"
+   },
+   {
+    "w": "частицы",
+    "en": "of a particle"
+   },
+   {
+    "w": "суперпозиции",
+    "en": "of superposition"
+   },
+   {
+    "w": "относительности",
+    "en": "of relativity"
+   }
+  ],
+  "explanation": "Гейзенберг показал, что координату и импульс частицы нельзя измерить одновременно точно.",
+  "explanationEn": "Heisenberg showed that a particle's position and momentum cannot both be measured exactly at once."
+ },
+ {
+  "id": "ru_k_t5_06",
+  "tier": 5,
+  "category": "science",
+  "text": "Какая молекула переносит информацию о структуре белка от ДНК к рибосомам?",
+  "translation": "Which molecule carries information about a protein's structure from DNA to the ribosomes?",
+  "correct": {
+   "text": "Матричная РНК",
+   "translation": "Messenger RNA"
+  },
+  "distractors": [
+   {
+    "text": "Транспортная РНК",
+    "translation": "Transfer RNA"
+   },
+   {
+    "text": "Рибосомная РНК",
+    "translation": "Ribosomal RNA"
+   },
+   {
+    "text": "Митохондриальная ДНК",
+    "translation": "Mitochondrial DNA"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "переносит",
+    "en": "carries"
+   },
+   {
+    "w": "белка",
+    "en": "of a protein"
+   },
+   {
+    "w": "рибосомам",
+    "en": "to ribosomes"
+   },
+   {
+    "w": "транспортная",
+    "en": "transfer"
+   },
+   {
+    "w": "структуре",
+    "en": "structure"
+   },
+   {
+    "w": "Матричная",
+    "en": "messenger (lit. template-based)"
+   },
+   {
+    "w": "Рибосомная",
+    "en": "ribosomal"
+   },
+   {
+    "w": "Митохондриальная",
+    "en": "mitochondrial"
+   }
+  ],
+  "explanation": "Матричная РНК копирует участок ДНК и доставляет его к рибосомам.",
+  "explanationEn": "Messenger RNA copies a section of DNA and delivers it to the ribosomes."
+ },
+ {
+  "id": "ru_k_t5_07",
+  "tier": 5,
+  "category": "history",
+  "text": "В каком году английские бароны вынудили короля Иоанна подписать Великую хартию вольностей?",
+  "translation": "In what year did the English barons force King John to sign the Magna Carta?",
+  "correct": {
+   "text": "1215",
+   "translation": "1215"
+  },
+  "distractors": [
+   {
+    "text": "1066",
+    "translation": "1066"
+   },
+   {
+    "text": "1348",
+    "translation": "1348"
+   },
+   {
+    "text": "1485",
+    "translation": "1485"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "бароны",
+    "en": "barons"
+   },
+   {
+    "w": "вынудили",
+    "en": "forced"
+   },
+   {
+    "w": "короля",
+    "en": "king"
+   },
+   {
+    "w": "Иоанна",
+    "en": "John"
+   },
+   {
+    "w": "подписать",
+    "en": "to sign"
+   },
+   {
+    "w": "хартию",
+    "en": "charter"
+   },
+   {
+    "w": "вольностей",
+    "en": "of liberties"
+   }
+  ],
+  "explanation": "Хартия 1215 года ограничила власть английского короля.",
+  "explanationEn": "The charter of 1215 limited the power of the English king."
+ },
+ {
+  "id": "ru_k_t5_08",
+  "tier": 5,
+  "category": "history",
+  "text": "Какую войну завершил Вестфальский мир 1648 года?",
+  "translation": "Which war did the Peace of Westphalia of 1648 end?",
+  "correct": {
+   "text": "Тридцатилетнюю войну",
+   "translation": "The Thirty Years' War"
+  },
+  "distractors": [
+   {
+    "text": "Столетнюю войну",
+    "translation": "The Hundred Years' War"
+   },
+   {
+    "text": "Семилетнюю войну",
+    "translation": "The Seven Years' War"
+   },
+   {
+    "text": "Северную войну",
+    "translation": "The Great Northern War"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "завершил",
+    "en": "ended"
+   },
+   {
+    "w": "Вестфальский",
+    "en": "of Westphalia"
+   },
+   {
+    "w": "мир",
+    "en": "peace treaty"
+   },
+   {
+    "w": "Тридцатилетнюю",
+    "en": "Thirty Years'"
+   },
+   {
+    "w": "Столетнюю",
+    "en": "Hundred Years'"
+   },
+   {
+    "w": "Семилетнюю",
+    "en": "Seven Years'"
+   },
+   {
+    "w": "Северную",
+    "en": "Northern"
+   }
+  ],
+  "explanation": "Вестфальский мир положил конец войне, которая шла в Европе с 1618 года.",
+  "explanationEn": "The Peace of Westphalia ended the war that had been going on in Europe since 1618."
+ },
+ {
+  "id": "ru_k_t5_09",
+  "tier": 5,
+  "category": "history",
+  "text": "Кто в 1547 году первым венчался на царство как царь всея Руси?",
+  "translation": "Who in 1547 was the first to be crowned as tsar of all Rus?",
+  "correct": {
+   "text": "Иван IV Грозный",
+   "translation": "Ivan IV the Terrible"
+  },
+  "distractors": [
+   {
+    "text": "Борис Годунов",
+    "translation": "Boris Godunov"
+   },
+   {
+    "text": "Алексей Михайлович",
+    "translation": "Alexei Mikhailovich"
+   },
+   {
+    "text": "Василий III",
+    "translation": "Vasily III"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "венчался",
+    "en": "was crowned"
+   },
+   {
+    "w": "царство",
+    "en": "tsardom"
+   },
+   {
+    "w": "всея",
+    "en": "of all"
+   }
+  ],
+  "explanation": "Иван IV венчался на царство в 1547 году и принял титул царя.",
+  "explanationEn": "Ivan IV was crowned in 1547 and took the title of tsar."
+ },
+ {
+  "id": "ru_k_t5_10",
+  "tier": 5,
+  "category": "literature",
+  "text": "Каким стихотворным размером написан роман «Евгений Онегин»?",
+  "translation": "In what poetic metre is the novel \"Eugene Onegin\" written?",
+  "correct": {
+   "text": "Четырёхстопным ямбом",
+   "translation": "Iambic tetrameter"
+  },
+  "distractors": [
+   {
+    "text": "Четырёхстопным хореем",
+    "translation": "Trochaic tetrameter"
+   },
+   {
+    "text": "Трёхстопным дактилем",
+    "translation": "Dactylic trimeter"
+   },
+   {
+    "text": "Пятистопным анапестом",
+    "translation": "Anapestic pentameter"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "стихотворным",
+    "en": "poetic"
+   },
+   {
+    "w": "размером",
+    "en": "metre"
+   },
+   {
+    "w": "хореем",
+    "en": "trochee"
+   },
+   {
+    "w": "дактилем",
+    "en": "dactyl"
+   },
+   {
+    "w": "анапестом",
+    "en": "anapest"
+   },
+   {
+    "w": "Четырёхстопным",
+    "en": "four-foot (tetra-)"
+   },
+   {
+    "w": "ямбом",
+    "en": "iamb (iambic foot)"
+   },
+   {
+    "w": "Трёхстопным",
+    "en": "three-foot (tri-)"
+   },
+   {
+    "w": "Пятистопным",
+    "en": "five-foot (penta-)"
+   }
+  ],
+  "explanation": "Пушкин написал «Евгения Онегина» четырёхстопным ямбом, используя особую онегинскую строфу.",
+  "explanationEn": "Pushkin wrote Eugene Onegin in iambic tetrameter, using a special Onegin stanza."
+ },
+ {
+  "id": "ru_k_t5_11",
+  "tier": 5,
+  "category": "literature",
+  "text": "Какой писатель в 1933 году стал первым русским лауреатом Нобелевской премии по литературе?",
+  "translation": "Which writer became the first Russian laureate of the Nobel Prize in Literature in 1933?",
+  "correct": {
+   "text": "Иван Бунин",
+   "translation": "Ivan Bunin"
+  },
+  "distractors": [
+   {
+    "text": "Максим Горький",
+    "translation": "Maxim Gorky"
+   },
+   {
+    "text": "Владимир Набоков",
+    "translation": "Vladimir Nabokov"
+   },
+   {
+    "text": "Борис Пастернак",
+    "translation": "Boris Pasternak"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "лауреатом",
+    "en": "laureate"
+   },
+   {
+    "w": "премии",
+    "en": "of the prize"
+   }
+  ],
+  "explanation": "Бунин получил премию в 1933 году, когда жил в эмиграции во Франции.",
+  "explanationEn": "Bunin received the prize in 1933, when he was living in exile in France."
+ },
+ {
+  "id": "ru_k_t5_12",
+  "tier": 5,
+  "category": "language",
+  "text": "Как называется грамматическая категория глагола, различающая законченное и незаконченное действие?",
+  "translation": "What is the grammatical category of the verb that distinguishes a completed from an uncompleted action called?",
+  "correct": {
+   "text": "Вид",
+   "translation": "Aspect"
+  },
+  "distractors": [
+   {
+    "text": "Залог",
+    "translation": "Voice"
+   },
+   {
+    "text": "Наклонение",
+    "translation": "Mood"
+   },
+   {
+    "text": "Время",
+    "translation": "Tense"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "различающая",
+    "en": "distinguishing"
+   },
+   {
+    "w": "законченное",
+    "en": "completed"
+   },
+   {
+    "w": "незаконченное",
+    "en": "uncompleted"
+   },
+   {
+    "w": "залог",
+    "en": "grammatical voice"
+   },
+   {
+    "w": "наклонение",
+    "en": "grammatical mood"
+   }
+  ],
+  "explanation": "Вид показывает, закончено ли действие: например, «читал» и «прочитал».",
+  "explanationEn": "Aspect shows whether the action is finished: for example, \"was reading\" and \"read through\"."
+ },
+ {
+  "id": "ru_k_t5_13",
+  "tier": 5,
+  "category": "language",
+  "text": "Какое из этих слов пришло в русский язык из тюркских языков?",
+  "translation": "Which of these words came into Russian from the Turkic languages?",
+  "correct": {
+   "text": "Карандаш",
+   "translation": "Pencil"
+  },
+  "distractors": [
+   {
+    "text": "Окно",
+    "translation": "Window"
+   },
+   {
+    "text": "Молоко",
+    "translation": "Milk"
+   },
+   {
+    "text": "Река",
+    "translation": "River"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "пришло",
+    "en": "came"
+   },
+   {
+    "w": "тюркских",
+    "en": "Turkic"
+   }
+  ],
+  "explanation": "Слово «карандаш» восходит к тюркскому выражению «чёрный камень».",
+  "explanationEn": "The word \"karandash\" goes back to a Turkic phrase meaning \"black stone\"."
+ },
+ {
+  "id": "ru_k_t5_14",
+  "tier": 5,
+  "category": "geography",
+  "text": "Какой пролив соединяет Северный Ледовитый океан с Тихим и разделяет Чукотку и Аляску?",
+  "translation": "Which strait connects the Arctic Ocean with the Pacific and separates Chukotka and Alaska?",
+  "correct": {
+   "text": "Берингов пролив",
+   "translation": "The Bering Strait"
+  },
+  "distractors": [
+   {
+    "text": "Гибралтарский пролив",
+    "translation": "The Strait of Gibraltar"
+   },
+   {
+    "text": "Магелланов пролив",
+    "translation": "The Strait of Magellan"
+   },
+   {
+    "text": "Босфорский пролив",
+    "translation": "The Bosphorus Strait"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "пролив",
+    "en": "strait"
+   },
+   {
+    "w": "соединяет",
+    "en": "connects"
+   },
+   {
+    "w": "Ледовитый",
+    "en": "icy (Arctic)"
+   },
+   {
+    "w": "Тихим",
+    "en": "Pacific (lit. quiet)"
+   },
+   {
+    "w": "разделяет",
+    "en": "separates"
+   },
+   {
+    "w": "Чукотку",
+    "en": "Chukotka"
+   },
+   {
+    "w": "Магелланов",
+    "en": "of Magellan"
+   },
+   {
+    "w": "Босфорский",
+    "en": "of the Bosphorus"
+   }
+  ],
+  "explanation": "Берингов пролив соединяет Северный Ледовитый и Тихий океаны и лежит между Евразией и Северной Америкой.",
+  "explanationEn": "The Bering Strait connects the Arctic and Pacific Oceans and lies between Eurasia and North America."
+ },
+ {
+  "id": "ru_k_t5_15",
+  "tier": 5,
+  "category": "economics",
+  "text": "Как называется сочетание экономического застоя и высокой инфляции?",
+  "translation": "What is the combination of economic stagnation and high inflation called?",
+  "correct": {
+   "text": "Стагфляция",
+   "translation": "Stagflation"
+  },
+  "distractors": [
+   {
+    "text": "Дефляция",
+    "translation": "Deflation"
+   },
+   {
+    "text": "Девальвация",
+    "translation": "Devaluation"
+   },
+   {
+    "text": "Рецессия",
+    "translation": "Recession"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "сочетание",
+    "en": "combination"
+   },
+   {
+    "w": "застоя",
+    "en": "of stagnation"
+   },
+   {
+    "w": "девальвация",
+    "en": "currency devaluation"
+   }
+  ],
+  "explanation": "Слово «стагфляция» объединяет слова «стагнация» и «инфляция».",
+  "explanationEn": "The word \"stagflation\" combines the words \"stagnation\" and \"inflation\"."
+ },
+ {
+  "id": "ru_k_t5_16",
+  "tier": 5,
+  "category": "economics",
+  "text": "Кто автор труда «Исследование о природе и причинах богатства народов»?",
+  "translation": "Who is the author of the work \"An Inquiry into the Nature and Causes of the Wealth of Nations\"?",
+  "correct": {
+   "text": "Адам Смит",
+   "translation": "Adam Smith"
+  },
+  "distractors": [
+   {
+    "text": "Давид Рикардо",
+    "translation": "David Ricardo"
+   },
+   {
+    "text": "Карл Маркс",
+    "translation": "Karl Marx"
+   },
+   {
+    "text": "Джон Мейнард Кейнс",
+    "translation": "John Maynard Keynes"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "труда",
+    "en": "work, treatise"
+   },
+   {
+    "w": "исследование",
+    "en": "inquiry, study"
+   },
+   {
+    "w": "причинах",
+    "en": "causes"
+   },
+   {
+    "w": "богатства",
+    "en": "of wealth"
+   },
+   {
+    "w": "народов",
+    "en": "of nations"
+   }
+  ],
+  "explanation": "Адам Смит опубликовал этот труд в 1776 году, и он стал основой классической экономики.",
+  "explanationEn": "Adam Smith published this work in 1776, and it became the foundation of classical economics."
+ },
+ {
+  "id": "ru_k_t5_17",
+  "tier": 5,
+  "category": "arts",
+  "text": "Кто сочинил оперу «Борис Годунов» по одноимённой трагедии Пушкина?",
+  "translation": "Who composed the opera \"Boris Godunov\" based on Pushkin's tragedy of the same name?",
+  "correct": {
+   "text": "Модест Мусоргский",
+   "translation": "Modest Mussorgsky"
+  },
+  "distractors": [
+   {
+    "text": "Пётр Чайковский",
+    "translation": "Pyotr Tchaikovsky"
+   },
+   {
+    "text": "Сергей Рахманинов",
+    "translation": "Sergei Rachmaninoff"
+   },
+   {
+    "text": "Александр Бородин",
+    "translation": "Alexander Borodin"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "сочинил",
+    "en": "composed"
+   },
+   {
+    "w": "одноимённой",
+    "en": "of the same name"
+   }
+  ],
+  "explanation": "Премьера оперы Мусоргского состоялась в Петербурге в 1874 году.",
+  "explanationEn": "The premiere of Mussorgsky's opera took place in St Petersburg in 1874."
+ },
+ {
+  "id": "ru_k_t5_18",
+  "tier": 5,
+  "category": "arts",
+  "text": "Какой испанский художник написал картину «Герника» в 1937 году?",
+  "translation": "Which Spanish artist painted the picture \"Guernica\" in 1937?",
+  "correct": {
+   "text": "Пабло Пикассо",
+   "translation": "Pablo Picasso"
+  },
+  "distractors": [
+   {
+    "text": "Сальвадор Дали",
+    "translation": "Salvador Dalí"
+   },
+   {
+    "text": "Франсиско Гойя",
+    "translation": "Francisco Goya"
+   },
+   {
+    "text": "Жоан Миро",
+    "translation": "Joan Miró"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "художник",
+    "en": "painter, artist"
+   },
+   {
+    "w": "картину",
+    "en": "painting"
+   },
+   {
+    "w": "Герника",
+    "en": "Guernica (a town)"
+   }
+  ],
+  "explanation": "Пикассо создал «Гернику» в ответ на бомбардировку баскского города.",
+  "explanationEn": "Picasso created Guernica in response to the bombing of a Basque town."
+ },
+ {
+  "id": "ru_k_t5_19",
+  "tier": 5,
+  "category": "technology",
+  "text": "Кто составил первую опубликованную программу для аналитической машины Бэббиджа?",
+  "translation": "Who wrote the first published program for Babbage's Analytical Engine?",
+  "correct": {
+   "text": "Ада Лавлейс",
+   "translation": "Ada Lovelace"
+  },
+  "distractors": [
+   {
+    "text": "Грейс Хоппер",
+    "translation": "Grace Hopper"
+   },
+   {
+    "text": "Алан Тьюринг",
+    "translation": "Alan Turing"
+   },
+   {
+    "text": "Джон фон Нейман",
+    "translation": "John von Neumann"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "составил",
+    "en": "wrote, compiled"
+   },
+   {
+    "w": "опубликованную",
+    "en": "published"
+   },
+   {
+    "w": "аналитической",
+    "en": "analytical"
+   },
+   {
+    "w": "машины",
+    "en": "of the machine"
+   },
+   {
+    "w": "Бэббиджа",
+    "en": "Babbage's"
+   }
+  ],
+  "explanation": "Ада Лавлейс описала алгоритм для машины Бэббиджа в своих примечаниях 1843 года.",
+  "explanationEn": "Ada Lovelace described an algorithm for Babbage's machine in her notes of 1843."
+ },
+ {
+  "id": "ru_k_t5_20",
+  "tier": 5,
+  "category": "science",
+  "text": "Какой российский математик доказал гипотезу Пуанкаре?",
+  "translation": "Which Russian mathematician proved the Poincaré conjecture?",
+  "correct": {
+   "text": "Григорий Перельман",
+   "translation": "Grigori Perelman"
+  },
+  "distractors": [
+   {
+    "text": "Андрей Колмогоров",
+    "translation": "Andrey Kolmogorov"
+   },
+   {
+    "text": "Николай Лобачевский",
+    "translation": "Nikolai Lobachevsky"
+   },
+   {
+    "text": "Софья Ковалевская",
+    "translation": "Sofya Kovalevskaya"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "российский",
+    "en": "Russian (of Russia)"
+   },
+   {
+    "w": "математик",
+    "en": "mathematician"
+   },
+   {
+    "w": "доказал",
+    "en": "proved"
+   },
+   {
+    "w": "гипотезу",
+    "en": "conjecture, hypothesis"
+   }
+  ],
+  "explanation": "Григорий Перельман опубликовал доказательство гипотезы Пуанкаре в 2002–2003 годах.",
+  "explanationEn": "Grigori Perelman published his proof of the Poincaré conjecture in 2002–2003."
+ },
+ {
+  "id": "ru_k_t5_21",
+  "tier": 5,
+  "category": "sports",
+  "text": "Как называется заключительная стадия шахматной партии, когда на доске осталось мало фигур?",
+  "translation": "What is the final stage of a chess game, when few pieces remain on the board, called?",
+  "correct": {
+   "text": "Эндшпиль",
+   "translation": "Endgame"
+  },
+  "distractors": [
+   {
+    "text": "Дебют",
+    "translation": "Opening"
+   },
+   {
+    "text": "Миттельшпиль",
+    "translation": "Middlegame"
+   },
+   {
+    "text": "Гамбит",
+    "translation": "Gambit"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "заключительная",
+    "en": "final"
+   },
+   {
+    "w": "стадия",
+    "en": "stage"
+   },
+   {
+    "w": "партии",
+    "en": "of the game"
+   },
+   {
+    "w": "доске",
+    "en": "board"
+   },
+   {
+    "w": "осталось",
+    "en": "remained"
+   },
+   {
+    "w": "фигур",
+    "en": "pieces"
+   }
+  ],
+  "explanation": "В эндшпиле на доске мало фигур, и часто решает точный расчёт.",
+  "explanationEn": "In the endgame there are few pieces on the board, and precise calculation often decides."
+ },
+ {
+  "id": "ru_k_t5_22",
+  "tier": 5,
+  "category": "society",
+  "text": "Какой французский философ ввёл в науку термин «социология»?",
+  "translation": "Which French philosopher introduced the term \"sociology\" into science?",
+  "correct": {
+   "text": "Огюст Конт",
+   "translation": "Auguste Comte"
+  },
+  "distractors": [
+   {
+    "text": "Эмиль Дюркгейм",
+    "translation": "Émile Durkheim"
+   },
+   {
+    "text": "Алексис де Токвиль",
+    "translation": "Alexis de Tocqueville"
+   },
+   {
+    "text": "Анри де Сен-Симон",
+    "translation": "Henri de Saint-Simon"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "ввёл",
+    "en": "introduced"
+   },
+   {
+    "w": "термин",
+    "en": "term"
+   }
+  ],
+  "explanation": "Огюст Конт предложил слово «социология» в XIX веке.",
+  "explanationEn": "Auguste Comte proposed the word \"sociology\" in the nineteenth century."
+ },
+ {
+  "id": "ru_k_t5_23",
+  "tier": 5,
+  "category": "health",
+  "text": "Недостаток какого витамина вызывает цингу?",
+  "translation": "A deficiency of which vitamin causes scurvy?",
+  "correct": {
+   "text": "Витамина C",
+   "translation": "Vitamin C"
+  },
+  "distractors": [
+   {
+    "text": "Витамина A",
+    "translation": "Vitamin A"
+   },
+   {
+    "text": "Витамина D",
+    "translation": "Vitamin D"
+   },
+   {
+    "text": "Витамина B12",
+    "translation": "Vitamin B12"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "недостаток",
+    "en": "deficiency"
+   },
+   {
+    "w": "вызывает",
+    "en": "causes"
+   },
+   {
+    "w": "цингу",
+    "en": "scurvy"
+   }
+  ],
+  "explanation": "Витамин C нужен для образования коллагена, без него развивается цинга.",
+  "explanationEn": "Vitamin C is needed to form collagen; without it scurvy develops."
+ },
+ {
+  "id": "ru_k_t5_24",
+  "tier": 5,
+  "category": "food",
+  "text": "Какая пряность изготавливается из высушенных рылец цветков крокуса?",
+  "translation": "Which spice is made from the dried stigmas of crocus flowers?",
+  "correct": {
+   "text": "Шафран",
+   "translation": "Saffron"
+  },
+  "distractors": [
+   {
+    "text": "Куркума",
+    "translation": "Turmeric"
+   },
+   {
+    "text": "Корица",
+    "translation": "Cinnamon"
+   },
+   {
+    "text": "Ваниль",
+    "translation": "Vanilla"
+   }
+  ],
+  "glossary": [
+   {
+    "w": "пряность",
+    "en": "spice"
+   },
+   {
+    "w": "изготавливается",
+    "en": "is made"
+   },
+   {
+    "w": "высушенных",
+    "en": "dried"
+   },
+   {
+    "w": "рылец",
+    "en": "stigmas"
+   },
+   {
+    "w": "цветков",
+    "en": "of flowers"
+   },
+   {
+    "w": "куркума",
+    "en": "turmeric"
+   },
+   {
+    "w": "корица",
+    "en": "cinnamon"
+   }
+  ],
+  "explanation": "Шафран делают из рылец цветков крокуса посевного.",
+  "explanationEn": "Saffron is made from the stigmas of the saffron crocus flowers."
+ }
+]

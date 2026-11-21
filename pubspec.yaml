@@ -1,0 +1,85 @@
+name: lingotopia
+description: Lingotopia — explore, learn, play. A cross-platform language learning app.
+publish_to: "none"
+version: 1.46.0+69
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State
+  provider: ^6.1.2
+
+  # Storage — sqflite runs natively on Android/iOS; the ffi variant plus
+  # sqlite3_flutter_libs covers Windows, macOS and Linux with the same API.
+  sqflite: ^2.3.3
+  sqflite_common_ffi: ^2.3.3
+  sqlite3_flutter_libs: ^0.5.24
+  path: ^1.9.0
+  path_provider: ^2.1.3
+  shared_preferences: ^2.2.3
+
+  # Audio
+  # audioplayers has a first-party Windows backend; just_audio does not
+  # (it supports Android/iOS/macOS/web only), which left Windows silent.
+  audioplayers: ^6.1.0
+  flutter_tts: ^4.0.2
+
+  # Networking / hashing for the TTS cache
+  http: ^1.2.1
+  crypto: ^3.0.3
+
+  # App icon that follows the language you studied last: dart:ffi into user32 on
+  # Windows (ffi), activity-alias switching on Android.
+  ffi: ^2.1.2
+  flutter_dynamic_icon_plus: ^1.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/decks/
+    - assets/icon/win/
+    - assets/games/ladder/
+    - assets/logo/
+    - assets/lessons/
+    - assets/military/
+    - assets/readings/
+    - assets/sfx/
+    - assets/writing/
+  # Fonts are OPTIONAL and commented out by default so the project builds on a
+  # clean checkout. Flutter treats a declared-but-missing font file as a hard
+  # error, not a warning, so leaving these active without the .ttf files means
+  # "Failed to build asset bundle".
+  #
+  # To enable: download Fraunces and Work Sans from Google Fonts, take the
+  # STATIC .ttf files (the download's `static/` subfolder — the top-level file
+  # is a variable font with a name like `Fraunces[SOFT,WONK,opsz,wght].ttf`
+  # and will not match these paths), rename them as below, drop them in
+  # assets/fonts/, then uncomment.
+  #
+  # Both are SIL Open Font License, so bundling them is fine.
+  #
+  # fonts:
+  #   - family: Fraunces
+  #     fonts:
+  #       - asset: assets/fonts/Fraunces-SemiBold.ttf
+  #         weight: 600
+  #       - asset: assets/fonts/Fraunces-Bold.ttf
+  #         weight: 700
+  #   - family: WorkSans
+  #     fonts:
+  #       - asset: assets/fonts/WorkSans-Regular.ttf
+  #         weight: 400
+  #       - asset: assets/fonts/WorkSans-Medium.ttf
+  #         weight: 500
+  #       - asset: assets/fonts/WorkSans-SemiBold.ttf
+  #         weight: 600

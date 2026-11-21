@@ -1,0 +1,1142 @@
+{
+ "_comment": "Hand edits for ranks 5001-10000 of the Spanish deck (tools/extend_deck_spanish.py). Keys are lemmas. {\"drop\": true} removes a lemma from the extension; {\"gloss\": \"...\", \"pos\": \"n\", \"posName\": \"noun\"} replaces the automatic gloss/POS (and bypasses the vulgar / form-of filters); {\"keep\": true} exempts a lemma from the proper-noun-homograph and English-loanword guards. Only the extension (ranks 5001+) is affected; the first 5,000 cards are never touched.",
+ "un": {
+  "gloss": "a, an (indefinite article); one (before a masculine noun)",
+  "pos": "det",
+  "posName": "article"
+ },
+ "se": {
+  "gloss": "oneself, himself, herself, themselves, each other (reflexive pronoun); also marks the passive and impersonal 'one'",
+  "pos": "pron",
+  "posName": "pron"
+ },
+ "le": {
+  "gloss": "to him, to her, to it, to you (formal): indirect object pronoun",
+  "pos": "pron",
+  "posName": "pron"
+ },
+ "tan": {
+  "gloss": "so, such; as (tan ... como = as ... as)",
+  "pos": "adv",
+  "posName": "adv"
+ },
+ "nosotros": {
+  "gloss": "we (masculine or mixed group); us (after a preposition)",
+  "pos": "pron",
+  "posName": "pron"
+ },
+ "nos": {
+  "gloss": "us, to us; ourselves (object pronoun)",
+  "pos": "pron",
+  "posName": "pron",
+  "add": true
+ },
+ "os": {
+  "gloss": "you, to you (informal plural, mostly Spain); yourselves",
+  "pos": "pron",
+  "posName": "pron"
+ },
+ "vosotros": {
+  "gloss": "you (informal plural, mostly Spain)",
+  "pos": "pron",
+  "posName": "pron"
+ },
+ "san": {
+  "gloss": "saint (before most masculine names)",
+  "pos": "adj",
+  "posName": "adj"
+ },
+ "demás": {
+  "gloss": "the rest, the others (usually 'los demás'); other",
+  "pos": "pron",
+  "posName": "pron"
+ },
+ "contigo": {
+  "gloss": "with you (informal singular)",
+  "pos": "pron",
+  "posName": "pron"
+ },
+ "ciento": {
+  "gloss": "hundred (ciento uno = 101); percent in 'por ciento'",
+  "pos": "num",
+  "posName": "num"
+ },
+ "cien": {
+  "gloss": "one hundred (100); cien before a noun",
+  "pos": "num",
+  "posName": "num"
+ },
+ "filipino": {
+  "gloss": "Filipino; a Filipino man",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "mail": {
+  "gloss": "email, e-mail (Latin America)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "habano": {
+  "gloss": "Havana cigar; of Havana",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "éste": {
+  "drop": true
+ },
+ "aquél": {
+  "drop": true
+ },
+ "ése": {
+  "drop": true
+ },
+ "guion": {
+  "drop": true
+ },
+ "adios": {
+  "drop": true
+ },
+ "cuan": {
+  "drop": true
+ },
+ "record": {
+  "drop": true
+ },
+ "adónde": {
+  "drop": true
+ },
+ "jorge": {
+  "drop": true
+ },
+ "martín": {
+  "drop": true
+ },
+ "castro": {
+  "drop": true
+ },
+ "salvador": {
+  "drop": true
+ },
+ "californio": {
+  "drop": true
+ },
+ "ciar": {
+  "drop": true
+ },
+ "mariano": {
+  "drop": true
+ },
+ "gil": {
+  "drop": true
+ },
+ "pinche": {
+  "drop": true
+ },
+ "ortega": {
+  "drop": true
+ },
+ "patricio": {
+  "drop": true
+ },
+ "eleno": {
+  "drop": true
+ },
+ "bla": {
+  "drop": true
+ },
+ "camilo": {
+  "drop": true
+ },
+ "quintana": {
+  "drop": true
+ },
+ "catalina": {
+  "drop": true
+ },
+ "molinar": {
+  "drop": true
+ },
+ "sarmiento": {
+  "drop": true
+ },
+ "lola": {
+  "drop": true
+ },
+ "nintendo": {
+  "drop": true
+ },
+ "piñera": {
+  "drop": true
+ },
+ "malvino": {
+  "drop": true
+ },
+ "petro": {
+  "drop": true
+ },
+ "mónico": {
+  "drop": true
+ },
+ "lucio": {
+  "drop": true
+ },
+ "vendo": {
+  "drop": true
+ },
+ "saca": {
+  "drop": true
+ },
+ "canso": {
+  "drop": true
+ },
+ "semi": {
+  "drop": true
+ },
+ "sucre": {
+  "drop": true
+ },
+ "moisés": {
+  "drop": true
+ },
+ "napoleón": {
+  "drop": true
+ },
+ "palermo": {
+  "drop": true
+ },
+ "tabasco": {
+  "drop": true
+ },
+ "pascual": {
+  "drop": true
+ },
+ "jerónimo": {
+  "drop": true
+ },
+ "lulo": {
+  "drop": true
+ },
+ "machado": {
+  "drop": true
+ },
+ "carrillo": {
+  "drop": true
+ },
+ "judas": {
+  "drop": true
+ },
+ "buda": {
+  "drop": true
+ },
+ "pancho": {
+  "drop": true
+ },
+ "pisa": {
+  "drop": true
+ },
+ "nova": {
+  "drop": true
+ },
+ "avellaneda": {
+  "drop": true
+ },
+ "faso": {
+  "drop": true
+ },
+ "madame": {
+  "drop": true
+ },
+ "noto": {
+  "drop": true
+ },
+ "photoshop": {
+  "drop": true
+ },
+ "seo": {
+  "drop": true
+ },
+ "rob": {
+  "drop": true
+ },
+ "villar": {
+  "drop": true
+ },
+ "nava": {
+  "drop": true
+ },
+ "sabino": {
+  "drop": true
+ },
+ "carrasco": {
+  "drop": true
+ },
+ "linar": {
+  "drop": true
+ },
+ "porq": {
+  "drop": true
+ },
+ "sip": {
+  "drop": true
+ },
+ "newton": {
+  "drop": true
+ },
+ "ami": {
+  "drop": true
+ },
+ "indie": {
+  "drop": true
+ },
+ "tas": {
+  "drop": true
+ },
+ "facundo": {
+  "drop": true
+ },
+ "jura": {
+  "drop": true
+ },
+ "mouse": {
+  "drop": true
+ },
+ "tumblr": {
+  "drop": true
+ },
+ "mod": {
+  "drop": true
+ },
+ "bonus": {
+  "drop": true
+ },
+ "borbón": {
+  "drop": true
+ },
+ "colimar": {
+  "drop": true
+ },
+ "ayo": {
+  "drop": true
+ },
+ "ale": {
+  "drop": true
+ },
+ "artiga": {
+  "drop": true
+ },
+ "kirchnerismo": {
+  "drop": true
+ },
+ "pegada": {
+  "drop": true
+ },
+ "tac": {
+  "drop": true
+ },
+ "rafa": {
+  "drop": true
+ },
+ "wea": {
+  "drop": true
+ },
+ "ace": {
+  "drop": true
+ },
+ "solano": {
+  "drop": true
+ },
+ "carmelo": {
+  "drop": true
+ },
+ "iguala": {
+  "drop": true
+ },
+ "otero": {
+  "drop": true
+ },
+ "mae": {
+  "drop": true
+ },
+ "chapo": {
+  "drop": true
+ },
+ "chamo": {
+  "drop": true
+ },
+ "espartar": {
+  "drop": true
+ },
+ "garrido": {
+  "drop": true
+ },
+ "obregón": {
+  "drop": true
+ },
+ "ora": {
+  "drop": true
+ },
+ "saltillo": {
+  "drop": true
+ },
+ "henar": {
+  "drop": true
+ },
+ "dong": {
+  "drop": true
+ },
+ "isa": {
+  "drop": true
+ },
+ "tri": {
+  "drop": true
+ },
+ "tai": {
+  "drop": true
+ },
+ "chin": {
+  "drop": true
+ },
+ "pela": {
+  "drop": true
+ },
+ "maxi": {
+  "drop": true
+ },
+ "roda": {
+  "drop": true
+ },
+ "pachuco": {
+  "drop": true
+ },
+ "sancho": {
+  "drop": true
+ },
+ "cha": {
+  "drop": true
+ },
+ "mam": {
+  "drop": true
+ },
+ "estrada": {
+  "drop": true
+ },
+ "gaza": {
+  "drop": true
+ },
+ "llegue": {
+  "drop": true
+ },
+ "pego": {
+  "drop": true
+ },
+ "leu": {
+  "drop": true
+ },
+ "was": {
+  "drop": true
+ },
+ "mía": {
+  "drop": true
+ },
+ "quita": {
+  "drop": true
+ },
+ "enseñado": {
+  "drop": true
+ },
+ "violado": {
+  "drop": true
+ },
+ "quilombo": {
+  "drop": true
+ },
+ "mear": {
+  "drop": true
+ },
+ "cojón": {
+  "drop": true
+ },
+ "pete": {
+  "drop": true
+ },
+ "pelotudez": {
+  "drop": true
+ },
+ "boludez": {
+  "drop": true
+ },
+ "pajero": {
+  "drop": true
+ },
+ "culero": {
+  "drop": true
+ },
+ "orgasmo": {
+  "drop": true
+ },
+ "pedófilo": {
+  "drop": true
+ },
+ "cachondo": {
+  "drop": true
+ },
+ "prostituto": {
+  "drop": true
+ },
+ "chota": {
+  "drop": true
+ },
+ "chile": {
+  "keep": true
+ },
+ "lima": {
+  "keep": true
+ },
+ "papa": {
+  "keep": true,
+  "gloss": "pope; (Latin America) potato"
+ },
+ "ecuador": {
+  "keep": true
+ },
+ "caribe": {
+  "keep": true
+ },
+ "cuenca": {
+  "keep": true
+ },
+ "biblia": {
+  "keep": true
+ },
+ "señorita": {
+  "keep": true
+ },
+ "bestia": {
+  "keep": true
+ },
+ "anfitrión": {
+  "keep": true
+ },
+ "cordillera": {
+  "keep": true
+ },
+ "ara": {
+  "keep": true
+ },
+ "flora": {
+  "keep": true
+ },
+ "caca": {
+  "keep": true
+ },
+ "honda": {
+  "keep": true
+ },
+ "renacimiento": {
+  "keep": true
+ },
+ "mercurio": {
+  "keep": true
+ },
+ "aurora": {
+  "keep": true
+ },
+ "atlas": {
+  "keep": true
+ },
+ "cantón": {
+  "keep": true
+ },
+ "prieto": {
+  "keep": true
+ },
+ "sacramento": {
+  "keep": true
+ },
+ "esmeralda": {
+  "keep": true
+ },
+ "apocalipsis": {
+  "keep": true
+ },
+ "confluencia": {
+  "keep": true
+ },
+ "tequila": {
+  "keep": true
+ },
+ "génesis": {
+  "keep": true
+ },
+ "inquisición": {
+  "keep": true
+ },
+ "acuario": {
+  "keep": true
+ },
+ "remo": {
+  "keep": true
+ },
+ "mesías": {
+  "keep": true
+ },
+ "jacinto": {
+  "keep": true
+ },
+ "olivar": {
+  "keep": true
+ },
+ "éxodo": {
+  "keep": true
+ },
+ "tajo": {
+  "keep": true
+ },
+ "granada": {
+  "keep": true
+ },
+ "ébola": {
+  "keep": true
+ },
+ "ensenada": {
+  "keep": true
+ },
+ "labrador": {
+  "keep": true
+ },
+ "titán": {
+  "keep": true
+ },
+ "loa": {
+  "keep": true
+ },
+ "catar": {
+  "keep": true
+ },
+ "bengala": {
+  "keep": true
+ },
+ "lira": {
+  "keep": true
+ },
+ "ártico": {
+  "keep": true
+ },
+ "panteón": {
+  "keep": true
+ },
+ "todopoderoso": {
+  "keep": true
+ },
+ "fulano": {
+  "keep": true
+ },
+ "capitolio": {
+  "keep": true
+ },
+ "durazno": {
+  "keep": true
+ },
+ "perico": {
+  "drop": true
+ },
+ "cuaresma": {
+  "keep": true
+ },
+ "diana": {
+  "keep": true
+ },
+ "ginebra": {
+  "keep": true
+ },
+ "magdalena": {
+  "keep": true
+ },
+ "belén": {
+  "keep": true
+ },
+ "benjamín": {
+  "keep": true
+ },
+ "holocausto": {
+  "keep": true
+ },
+ "encarnación": {
+  "keep": true
+ },
+ "bondi": {
+  "keep": true
+ },
+ "damasco": {
+  "keep": true
+ },
+ "malta": {
+  "keep": true
+ },
+ "oporto": {
+  "keep": true
+ },
+ "macedonia": {
+  "keep": true
+ },
+ "jerez": {
+  "drop": true
+ },
+ "zapata": {
+  "drop": true
+ },
+ "once": {
+  "keep": true
+ },
+ "linear": {
+  "keep": true
+ },
+ "chance": {
+  "keep": true
+ },
+ "test": {
+  "keep": true
+ },
+ "ticket": {
+  "keep": true
+ },
+ "bit": {
+  "keep": true
+ },
+ "led": {
+  "keep": true
+ },
+ "stock": {
+  "keep": true
+ },
+ "show": {
+  "keep": true
+ },
+ "lo": {
+  "gloss": "it, him, you (formal) (direct object pronoun); the (neuter article: lo bueno = the good thing)",
+  "pos": "pron",
+  "posName": "pron",
+  "add": true
+ },
+ "la": {
+  "gloss": "the (feminine singular article); her, it, you (formal) (direct object pronoun)",
+  "pos": "det",
+  "posName": "article",
+  "add": true
+ },
+ "los": {
+  "gloss": "the (masculine plural article); them, you (formal plural) (direct object pronoun)",
+  "pos": "det",
+  "posName": "article",
+  "add": true
+ },
+ "las": {
+  "gloss": "the (feminine plural article); them, you (formal plural) (direct object pronoun)",
+  "pos": "det",
+  "posName": "article",
+  "add": true
+ },
+ "me": {
+  "gloss": "me, to me; myself (object pronoun)",
+  "pos": "pron",
+  "posName": "pron",
+  "add": true
+ },
+ "te": {
+  "gloss": "you, to you; yourself (informal singular object pronoun)",
+  "pos": "pron",
+  "posName": "pron",
+  "add": true
+ },
+ "les": {
+  "gloss": "to them, to you (formal plural): indirect object pronoun",
+  "pos": "pron",
+  "posName": "pron",
+  "add": true
+ },
+ "ti": {
+  "gloss": "you (informal singular, after a preposition: para ti)",
+  "pos": "pron",
+  "posName": "pron"
+ },
+ "mí": {
+  "gloss": "me (after a preposition: para mí)",
+  "pos": "pron",
+  "posName": "pron"
+ },
+ "vos": {
+  "gloss": "you (informal singular, used instead of tú in Argentina, Uruguay and Central America)",
+  "pos": "pron",
+  "posName": "pron"
+ },
+ "tele": {
+  "gloss": "TV, telly (colloquial)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "pyme": {
+  "gloss": "small or medium-sized business (SME)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "primer": {
+  "gloss": "first (used before a masculine singular noun: el primer día)",
+  "pos": "adj",
+  "posName": "adj"
+ },
+ "cualquier": {
+  "gloss": "any, whatever (used before a noun)",
+  "pos": "det",
+  "posName": "det"
+ },
+ "algún": {
+  "gloss": "some, any (used before a masculine singular noun)",
+  "pos": "det",
+  "posName": "det"
+ },
+ "ningún": {
+  "gloss": "no, not any (used before a masculine singular noun)",
+  "pos": "det",
+  "posName": "det"
+ },
+ "peli": {
+  "gloss": "film, movie (colloquial)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "profe": {
+  "gloss": "teacher (colloquial)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "ella": {
+  "gloss": "she, her (subject pronoun; also after a preposition)",
+  "pos": "pron",
+  "posName": "pron",
+  "add": true
+ },
+ "ellos": {
+  "gloss": "they, them (masculine or mixed group)",
+  "pos": "pron",
+  "posName": "pron",
+  "add": true
+ },
+ "ellas": {
+  "gloss": "they, them (feminine group)",
+  "pos": "pron",
+  "posName": "pron",
+  "add": true
+ },
+ "ustedes": {
+  "gloss": "you (plural; formal in Spain, the normal plural 'you' in Latin America)",
+  "pos": "pron",
+  "posName": "pron",
+  "add": true
+ },
+ "esto": {
+  "gloss": "this (neuter demonstrative pronoun: this thing, this matter)",
+  "pos": "pron",
+  "posName": "pron",
+  "add": true
+ },
+ "eso": {
+  "gloss": "that (neuter demonstrative pronoun: that thing, that matter)",
+  "pos": "pron",
+  "posName": "pron",
+  "add": true
+ },
+ "aquello": {
+  "gloss": "that (neuter pronoun for something far away: that thing over there)",
+  "pos": "pron",
+  "posName": "pron",
+  "add": true
+ },
+ "ello": {
+  "gloss": "it (neuter pronoun, formal or literary)",
+  "pos": "pron",
+  "posName": "pron",
+  "add": true
+ },
+ "eta": {
+  "drop": true
+ },
+ "ferrari": {
+  "drop": true
+ },
+ "islam": {
+  "keep": true
+ },
+ "mapuche": {
+  "keep": true
+ },
+ "inca": {
+  "keep": true
+ },
+ "quechua": {
+  "keep": true
+ },
+ "guaraní": {
+  "keep": true
+ },
+ "panista": {
+  "drop": true
+ },
+ "paraguaya": {
+  "drop": true
+ },
+ "cora": {
+  "drop": true
+ },
+ "emiliano": {
+  "drop": true
+ },
+ "bodi": {
+  "drop": true
+ },
+ "tá": {
+  "drop": true
+ },
+ "jeje": {
+  "drop": true
+ },
+ "barbie": {
+  "drop": true
+ },
+ "suicidar": {
+  "drop": true
+ },
+ "masturbar": {
+  "drop": true
+ },
+ "erección": {
+  "drop": true
+ },
+ "orgía": {
+  "drop": true
+ },
+ "pokémon": {
+  "drop": true
+ },
+ "beatle": {
+  "drop": true
+ },
+ "casanova": {
+  "drop": true
+ },
+ "cápita": {
+  "drop": true
+ },
+ "zacateco": {
+  "drop": true
+ },
+ "efe": {
+  "drop": true
+ },
+ "heleno": {
+  "drop": true
+ },
+ "complutense": {
+  "drop": true
+ },
+ "angelino": {
+  "drop": true
+ },
+ "josefino": {
+  "drop": true
+ },
+ "dominico": {
+  "drop": true
+ },
+ "agustino": {
+  "drop": true
+ },
+ "paulino": {
+  "drop": true
+ },
+ "juliano": {
+  "drop": true
+ },
+ "florentino": {
+  "drop": true
+ },
+ "youtuber": {
+  "gloss": "YouTuber (someone who makes videos for YouTube)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "bañado": {
+  "drop": true
+ },
+ "inducido": {
+  "drop": true
+ },
+ "heredado": {
+  "drop": true
+ },
+ "patrocinado": {
+  "drop": true
+ },
+ "cholo": {
+  "drop": true
+ },
+ "mamado": {
+  "drop": true
+ },
+ "lechuga": {
+  "drop": true
+ },
+ "bolo": {
+  "drop": true
+ },
+ "mara": {
+  "drop": true
+ },
+ "colado": {
+  "drop": true
+ },
+ "chivo": {
+  "drop": true
+ },
+ "ene": {
+  "drop": true
+ },
+ "compuesta": {
+  "drop": true
+ },
+ "calda": {
+  "drop": true
+ },
+ "chingo": {
+  "drop": true
+ },
+ "intestino": {
+  "gloss": "intestine",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "devenir": {
+  "gloss": "to become; to happen",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "crespo": {
+  "gloss": "frizzy, curly",
+  "pos": "adj",
+  "posName": "adj"
+ },
+ "intermediario": {
+  "gloss": "intermediary; middleman",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "violeta": {
+  "gloss": "violet (colour); purple; violet (plant)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "polar": {
+  "gloss": "polar",
+  "pos": "adj",
+  "posName": "adj"
+ },
+ "reptil": {
+  "gloss": "reptile",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "ucranio": {
+  "gloss": "Ukrainian",
+  "pos": "adj",
+  "posName": "adj"
+ },
+ "accesorio": {
+  "gloss": "accessory",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "emisor": {
+  "gloss": "transmitter, emitter; sender",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "inciso": {
+  "gloss": "subsection (of a law); aside, passing comment",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "kirchnerista": {
+  "gloss": "Kirchnerist (of or supporting Néstor and Cristina Kirchner)",
+  "pos": "adj",
+  "posName": "adj"
+ },
+ "milanesa": {
+  "gloss": "breaded cutlet (thin slice of meat, breaded and fried)"
+ },
+ "rotonda": {
+  "gloss": "roundabout, traffic circle; rotunda"
+ },
+ "mestizo": {
+  "gloss": "person of mixed European and Indigenous descent; mestizo"
+ },
+ "ataúd": {
+  "gloss": "coffin, casket"
+ },
+ "rocío": {
+  "gloss": "dew; light shower, sprinkle"
+ },
+ "elevador": {
+  "gloss": "elevator, lift; forklift"
+ },
+ "cáscara": {
+  "gloss": "peel, rind, shell; bark"
+ },
+ "gama": {
+  "gloss": "range, spectrum; color scale"
+ },
+ "basurero": {
+  "gloss": "garbage collector; dump, landfill; (Latin America) trash can"
+ },
+ "trepar": {
+  "gloss": "to climb, to clamber up"
+ },
+ "gitano": {
+  "gloss": "Romani, Gypsy",
+  "pos": "adj",
+  "posName": "adj"
+ },
+ "estipular": {
+  "gloss": "to stipulate",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "acontecer": {
+  "gloss": "to happen, to take place",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "comestible": {
+  "gloss": "edible; (in the plural) groceries, food",
+  "pos": "adj",
+  "posName": "adj"
+ },
+ "coeficiente": {
+  "gloss": "coefficient",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "complacer": {
+  "gloss": "to please, to satisfy; (reflexive) to take pleasure"
+ },
+ "insinuar": {
+  "gloss": "to insinuate, to hint"
+ },
+ "conferir": {
+  "gloss": "to bestow, to confer"
+ },
+ "descontar": {
+  "gloss": "to discount; to deduct"
+ },
+ "quejarse": {
+  "drop": true
+ }
+}

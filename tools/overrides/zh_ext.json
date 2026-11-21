@@ -1,0 +1,381 @@
+{
+ "_comment": "Hand edits for ranks 5001-10000 of the Mandarin deck (tools/extend_deck_chinese.py). _drop removes a word from the extension (proper-noun homographs, sexual / abusive / rude vocabulary, Internet slang, nonstandard variants of base-deck words); _keep exempts a word from the compositional-fragment rules (noun+locative, verb+complement); _add forces a word in; any other key overrides gloss / reading / pos / posName. Only ranks 5001+ are affected; the first 5,000 cards are never touched.",
+ "_drop": [
+  "卡拉",
+  "三星",
+  "方正",
+  "金刚",
+  "摩尔",
+  "圣母",
+  "波特",
+  "小米",
+  "贝克",
+  "拉拉",
+  "宝马",
+  "京都",
+  "豆瓣",
+  "联通",
+  "成龙",
+  "牛顿",
+  "布鲁斯",
+  "法兰",
+  "拉丁",
+  "狗屁",
+  "狗屎",
+  "放屁",
+  "拉屎",
+  "撒尿",
+  "屁眼",
+  "蛋蛋",
+  "咪咪",
+  "老二",
+  "小弟弟",
+  "操蛋",
+  "性生活",
+  "调教",
+  "勾引",
+  "出轨",
+  "外遇",
+  "交配",
+  "性骚扰",
+  "色狼",
+  "精子",
+  "子宫",
+  "月经",
+  "胸罩",
+  "丝袜",
+  "臀部",
+  "强暴",
+  "凌辱",
+  "人渣",
+  "滚蛋",
+  "扯淡",
+  "蠢货",
+  "偷拍",
+  "老娘",
+  "约会炮",
+  "好象",
+  "神马",
+  "要死",
+  "咱俩",
+  "恶梦",
+  "帐号",
+  "帐户",
+  "过份",
+  "太后",
+  "脏话",
+  "幢",
+  "矣",
+  "当做",
+  "雇用",
+  "桔子",
+  "机率",
+  "辞典",
+  "绯闻",
+  "脱光",
+  "赤裸",
+  "下流",
+  "网路",
+  "警局",
+  "阿拉",
+  "过得",
+  "要说",
+  "总能",
+  "大话骰",
+  "雪梨",
+  "弱智",
+  "瞎子",
+  "物语",
+  "想见",
+  "把门",
+  "东东"
+ ],
+ "_keep": [
+  "命中",
+  "日出",
+  "老外",
+  "部下",
+  "折中",
+  "海里",
+  "红外",
+  "而后",
+  "花边",
+  "号外",
+  "偏旁",
+  "根底",
+  "高下",
+  "交错",
+  "轮回",
+  "满满",
+  "不住",
+  "行进",
+  "大错",
+  "常住"
+ ],
+ "_add": [
+  "国庆节",
+  "中秋节",
+  "元旦",
+  "除夕",
+  "礼拜天",
+  "华语",
+  "华裔",
+  "佛教",
+  "道教",
+  "天主教",
+  "伊斯兰教",
+  "穆斯林",
+  "俄语",
+  "西班牙语",
+  "阿拉伯语"
+ ],
+ "小鸟": {
+  "gloss": "small bird; young bird; hatchling"
+ },
+ "粉色": {
+  "gloss": "pink"
+ },
+ "烟花": {
+  "gloss": "fireworks"
+ },
+ "走私": {
+  "gloss": "to smuggle"
+ },
+ "帝王": {
+  "gloss": "emperor; monarch"
+ },
+ "百科": {
+  "gloss": "encyclopedic; all branches of knowledge"
+ },
+ "不爽": {
+  "gloss": "unhappy; out of sorts; in a bad mood"
+ },
+ "甜心": {
+  "gloss": "sweetheart; sweetie"
+ },
+ "怪兽": {
+  "gloss": "monster; mythical beast"
+ },
+ "水流": {
+  "gloss": "stream; current of water"
+ },
+ "外壳": {
+  "gloss": "outer shell; casing; cover"
+ },
+ "游艇": {
+  "gloss": "yacht"
+ },
+ "顶部": {
+  "gloss": "top; topmost part; apex"
+ },
+ "逃离": {
+  "gloss": "to escape; to flee"
+ },
+ "呼叫": {
+  "gloss": "to call; to shout; (telecom) to page"
+ },
+ "校对": {
+  "gloss": "to proofread; to check against a standard; proofreader"
+ },
+ "身后": {
+  "gloss": "behind; after one's death"
+ },
+ "行径": {
+  "gloss": "conduct; behavior (usually bad)"
+ },
+ "终端": {
+  "gloss": "terminal; end point"
+ },
+ "狗狗": {
+  "reading": "gǒu gou",
+  "gloss": "dog; doggie"
+ },
+ "壳": {
+  "reading": "ké",
+  "gloss": "shell; husk; casing"
+ },
+ "国庆节": {
+  "reading": "guó qìng jié",
+  "gloss": "National Day (1 October)"
+ },
+ "中秋节": {
+  "reading": "zhōng qiū jié",
+  "gloss": "Mid-Autumn Festival"
+ },
+ "元旦": {
+  "reading": "yuán dàn",
+  "gloss": "New Year's Day"
+ },
+ "除夕": {
+  "reading": "chú xī",
+  "gloss": "New Year's Eve (of the lunar calendar)"
+ },
+ "礼拜天": {
+  "reading": "lǐ bài tiān",
+  "gloss": "Sunday"
+ },
+ "华语": {
+  "reading": "huá yǔ",
+  "gloss": "Chinese language"
+ },
+ "华裔": {
+  "reading": "huá yì",
+  "gloss": "ethnic Chinese; person of Chinese descent"
+ },
+ "佛教": {
+  "reading": "fó jiào",
+  "gloss": "Buddhism"
+ },
+ "道教": {
+  "reading": "dào jiào",
+  "gloss": "Taoism; Daoism"
+ },
+ "天主教": {
+  "reading": "tiān zhǔ jiào",
+  "gloss": "Catholicism; Catholic Church"
+ },
+ "伊斯兰教": {
+  "reading": "yī sī lán jiào",
+  "gloss": "Islam"
+ },
+ "穆斯林": {
+  "reading": "mù sī lín",
+  "gloss": "Muslim"
+ },
+ "俄语": {
+  "reading": "é yǔ",
+  "gloss": "Russian (language)"
+ },
+ "西班牙语": {
+  "reading": "xī bān yá yǔ",
+  "gloss": "Spanish (language)"
+ },
+ "阿拉伯语": {
+  "reading": "ā lā bó yǔ",
+  "gloss": "Arabic (language)"
+ },
+ "大都": {
+  "reading": "dà dōu",
+  "gloss": "for the most part; mostly; on the whole",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "南极": {
+  "gloss": "the South Pole; Antarctic"
+ },
+ "知己": {
+  "gloss": "close friend; confidant; intimate",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "坐标": {
+  "pos": "n",
+  "posName": "noun"
+ },
+ "征": {
+  "gloss": "to go on a long journey or campaign; expedition; to levy (taxes)"
+ },
+ "被窝": {
+  "gloss": "bedding; quilt rolled around the sleeper"
+ },
+ "库存": {
+  "gloss": "stock; inventory; reserves"
+ },
+ "颗粒": {
+  "gloss": "granule; particle; grain"
+ },
+ "双语": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "不顾": {
+  "pos": "v",
+  "posName": "verb"
+ },
+ "登场": {
+  "pos": "v",
+  "posName": "verb"
+ },
+ "大便": {
+  "pos": "v",
+  "posName": "verb"
+ },
+ "到场": {
+  "pos": "v",
+  "posName": "verb"
+ },
+ "哄": {
+  "readings": [
+   "hǒng",
+   "hōng"
+  ]
+ },
+ "率": {
+  "readings": [
+   "lǜ",
+   "shuài"
+  ],
+  "pos": "n",
+  "posName": "noun"
+ },
+ "圣人": {
+  "gloss": "sage; saint; holy man"
+ },
+ "碉堡": {
+  "gloss": "pillbox; blockhouse; bunker"
+ },
+ "霸道": {
+  "gloss": "overbearing; domineering; despotic",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "盆": {
+  "gloss": "basin; bowl; flower pot (MW: 个 gè)"
+ },
+ "娘娘": {
+  "gloss": "empress; queen; imperial concubine"
+ },
+ "前门": {
+  "gloss": "front door; main entrance"
+ },
+ "八卦": {
+  "gloss": "gossip; gossipy; the eight trigrams (of the I Ching)"
+ },
+ "萝卜": {
+  "gloss": "radish; daikon (MW: 个 gè, 根 gēn)"
+ },
+ "简体": {
+  "gloss": "simplified Chinese characters"
+ },
+ "时分": {
+  "gloss": "time of day; moment; hour"
+ },
+ "上山": {
+  "gloss": "to go uphill; to climb a mountain"
+ },
+ "博文": {
+  "gloss": "blog post; blog article",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "几岁": {
+  "gloss": "how old? (asked of a child)"
+ },
+ "钉": {
+  "readings": [
+   "dīng",
+   "dìng"
+  ],
+  "pos": "n",
+  "posName": "noun"
+ },
+ "笑脸": {
+  "gloss": "smiling face; smile; smiley (MW: 副 fù)"
+ },
+ "机车": {
+  "gloss": "locomotive; train engine"
+ },
+ "坏蛋": {
+  "gloss": "scoundrel; rascal; bad egg"
+ }
+}

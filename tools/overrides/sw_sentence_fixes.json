@@ -1,0 +1,1743 @@
+{
+ "drop": [
+  [
+   "na",
+   "Inapitia vipigwa kumi na viwili."
+  ],
+  [
+   "kwa",
+   "Kupigana kwa haki yako."
+  ],
+  [
+   "hiyo",
+   "Bora usingekwenda hapo."
+  ],
+  [
+   "kuwa",
+   "Wewe ni nani?"
+  ],
+  [
+   "kuwa",
+   "Nyinyi ni waalimu."
+  ],
+  [
+   "ake",
+   "Millie anasoma kitabu chake."
+  ],
+  [
+   "kusema",
+   "Millie atatusema ukweli."
+  ],
+  [
+   "mtu",
+   "Wewe si mtu."
+  ],
+  [
+   "katikati",
+   "Teknolojia imeshindwa kupunguza mzozo kati ya mwanadamu na maumbile."
+  ],
+  [
+   "ote",
+   "Yeye hana rafiki ye yote."
+  ],
+  [
+   "ote",
+   "Je, kuna sababu yo yote?"
+  ],
+  [
+   "sana",
+   "Millie ni mzuri sana."
+  ],
+  [
+   "hali",
+   "Millie hali tufaha."
+  ],
+  [
+   "kuambia",
+   "Sijui niambie nini..."
+  ],
+  [
+   "kwenda",
+   "Millie anakwenda shule."
+  ],
+  [
+   "kupiga",
+   "Inapitia vipigwa kumi na viwili."
+  ],
+  [
+   "kushinda",
+   "Teknolojia imeshindwa kupunguza mzozo kati ya mwanadamu na maumbile."
+  ],
+  [
+   "kula",
+   "Millie anakula mkate."
+  ],
+  [
+   "kupitia",
+   "Inapitia vipigwa kumi na viwili."
+  ],
+  [
+   "jua",
+   "Mwanamke anataka kujua ukweli."
+  ],
+  [
+   "jua",
+   "Ninajua kuwa alikuwa wa ajabu."
+  ],
+  [
+   "kawaida",
+   "Uvumi huo ukawa mali ya kawaida."
+  ],
+  [
+   "kitu",
+   "Kazi yake nini kitu hiki?"
+  ],
+  [
+   "kukua",
+   "Ijapokuwa nitakaa nyumbani peke yangu, sitakwenda mahali popote siku ya leo."
+  ],
+  [
+   "kuzungumza",
+   "Jorge azungumza lugha nne."
+  ],
+  [
+   "nne",
+   "Jorge azungumza lugha nne."
+  ],
+  [
+   "haki",
+   "Kupigana kwa haki yako."
+  ],
+  [
+   "nini",
+   "Sijui niambie nini..."
+  ],
+  [
+   "mwili",
+   "Ninapenda mwili wako."
+  ],
+  [
+   "sita",
+   "Mtawala ali wana wasita."
+  ],
+  [
+   "dola",
+   "Mhalifu alimuibia mpangishaji nyumba dola mia elfu kisha akakimbia."
+  ],
+  [
+   "kulia",
+   "Maktaba ni upande wa kulia."
+  ],
+  [
+   "si",
+   "Melanie si mpigaramli."
+  ],
+  [
+   "kupenda",
+   "Ninapenda mwili wako."
+  ],
+  [
+   "kupinga",
+   "Nimetosha na umaskini wako wa kupinga sayansi."
+  ],
+  [
+   "saa",
+   "Wote tuliangalia saa yake."
+  ],
+  [
+   "kuandika",
+   "Emily aliandika sentensi."
+  ],
+  [
+   "kuthibitisha",
+   "Kwa mshangao, kelele kubwa imethibitishwa kuwa inaathiri hisia za kusikia."
+  ],
+  [
+   "maji",
+   "Millie ananywa maji."
+  ],
+  [
+   "maji",
+   "Millie hanywi maji."
+  ],
+  [
+   "leo",
+   "Ijapokuwa nitakaa nyumbani peke yangu, sitakwenda mahali popote siku ya leo."
+  ],
+  [
+   "kanisa",
+   "Pua anaimba kanisani."
+  ],
+  [
+   "kanisa",
+   "Pua aliimba kanisani."
+  ],
+  [
+   "kitabu",
+   "Millie ana kitabu."
+  ],
+  [
+   "kutosha",
+   "Nimetosha na umaskini wako wa kupinga sayansi."
+  ],
+  [
+   "jicho",
+   "Millie ana macho mazuri."
+  ],
+  [
+   "mbwa",
+   "Millie ana mbwa."
+  ],
+  [
+   "mbwa",
+   "Mbwa mwitu hutanga katika msitu."
+  ],
+  [
+   "bidhaa",
+   "Bidhaa hii mpya yetu ni pigo kubwa kwa kampuni yetu pinzani."
+  ],
+  [
+   "maziwa",
+   "Rafiki yangu hatumii maziwa."
+  ],
+  [
+   "kuathiri",
+   "Kwa mshangao, kelele kubwa imethibitishwa kuwa inaathiri hisia za kusikia."
+  ],
+  [
+   "kukaa",
+   "Ulivunja meza uliyekuwa ukikaa."
+  ],
+  [
+   "elfu",
+   "Mhalifu alimuibia mpangishaji nyumba dola mia elfu kisha akakimbia."
+  ],
+  [
+   "paka",
+   "Hii paka ni yangu."
+  ],
+  [
+   "paka",
+   "Millie ana paka."
+  ],
+  [
+   "kushuhudia",
+   "Wewe mwenyewe utashuhudia."
+  ],
+  [
+   "pua",
+   "Pua anaimba kanisani."
+  ],
+  [
+   "pua",
+   "Pua aliimba kanisani."
+  ],
+  [
+   "rafiki",
+   "Rafiki yangu anatumia sukari."
+  ],
+  [
+   "wazo",
+   "Mawazo ya kijani yasiyokamili yanalala hoi."
+  ],
+  [
+   "kisha",
+   "Mhalifu alimuibia mpangishaji nyumba dola mia elfu kisha akakimbia."
+  ],
+  [
+   "kusoma",
+   "Millie anasoma kitabu chake."
+  ],
+  [
+   "hisia",
+   "Kwa mshangao, kelele kubwa imethibitishwa kuwa inaathiri hisia za kusikia."
+  ],
+  [
+   "kusafiri",
+   "Tlaloc anapenda kusafiri."
+  ],
+  [
+   "mali",
+   "Uvumi huo ukawa mali ya kawaida."
+  ],
+  [
+   "kuelea",
+   "Kule watu wanaelewa."
+  ],
+  [
+   "tisa",
+   "Ni saa tisa."
+  ],
+  [
+   "sayansi",
+   "Nimetosha na umaskini wako wa kupinga sayansi."
+  ],
+  [
+   "kunywa",
+   "Usinywe maji yaliyo bilaurini!"
+  ],
+  [
+   "mguu",
+   "Ouch! Mguu wangu!"
+  ],
+  [
+   "muziki",
+   "Melanie anapenda muziki."
+  ],
+  [
+   "muziki",
+   "Millie anasikiliza muziki."
+  ],
+  [
+   "ndizi",
+   "Millie anakula ndizi."
+  ],
+  [
+   "wimbo",
+   "Tuliimba nyimbo kwa kwaya."
+  ],
+  [
+   "kusikiliza",
+   "Millie anasikiliza muziki."
+  ],
+  [
+   "kupigana",
+   "Kupigana kwa haki yako."
+  ],
+  [
+   "tufaha",
+   "Millie anakula tufaha."
+  ],
+  [
+   "tufaha",
+   "Millie hali tufaha."
+  ],
+  [
+   "kufunza",
+   "Millie anajifunza Kiswahili."
+  ],
+  [
+   "uvumi",
+   "Uvumi huo ukawa mali ya kawaida."
+  ],
+  [
+   "kikomo",
+   "Sentensi hizi zote zinahitaji kikomo."
+  ],
+  [
+   "umaskini",
+   "Nimetosha na umaskini wako wa kupinga sayansi."
+  ],
+  [
+   "meza",
+   "Ulivunja meza uliyekuwa ukikaa."
+  ],
+  [
+   "kelele",
+   "Kwa mshangao, kelele kubwa imethibitishwa kuwa inaathiri hisia za kusikia."
+  ],
+  [
+   "kuimba",
+   "Pua anaimba kanisani."
+  ],
+  [
+   "kuporomoka",
+   "Mawimbi yalikuwa yakiporomoka ufukweni; ilikuwa inapendeza macho."
+  ],
+  [
+   "mtawala",
+   "Mtawala ali wana wasita."
+  ],
+  [
+   "mkate",
+   "Mwanamume anakula mkate."
+  ],
+  [
+   "njaa",
+   "Millie ana njaa."
+  ],
+  [
+   "kiko",
+   "Vitabu viko wapi?"
+  ],
+  [
+   "kuchukia",
+   "Watendeeni mema wanaowachukia."
+  ],
+  [
+   "moshi",
+   "Sina budi nikimbilie gari la moshi."
+  ],
+  [
+   "chokoleti",
+   "Millie anapenda chokoleti."
+  ],
+  [
+   "kuletea",
+   "Tafadhali, niletee matunda."
+  ],
+  [
+   "kiswahili",
+   "Millie anajifunza Kiswahili."
+  ],
+  [
+   "bluu",
+   "Millie ana macho ya bluu."
+  ],
+  [
+   "kijani",
+   "Millie ana macho ya kijani."
+  ],
+  [
+   "kijani",
+   "Mawazo ya kijani yasiyokamili yanalala hoi."
+  ],
+  [
+   "mshangao",
+   "Kwa mshangao, kelele kubwa imethibitishwa kuwa inaathiri hisia za kusikia."
+  ],
+  [
+   "uvuvi",
+   "Ninataka kwenda uvuvi."
+  ],
+  [
+   "kughani",
+   "Utakaa muda ghani?"
+  ],
+  [
+   "tanga",
+   "Mbwa mwitu hutanga katika msitu."
+  ],
+  [
+   "vitamin",
+   "Wanajua maana ya vitamin ni nini."
+  ],
+  [
+   "sentensi",
+   "Emily aliandika sentensi."
+  ],
+  [
+   "hoi",
+   "Mawazo ya kijani yasiyokamili yanalala hoi."
+  ],
+  [
+   "kuchemka",
+   "Anachemka mayai jikoni."
+  ],
+  [
+   "a",
+   "Nimetosha na umaskini wako wa kupinga sayansi."
+  ],
+  [
+   "na",
+   "Nimetosha na umaskini wako wa kupinga sayansi."
+  ],
+  [
+   "kwa",
+   "Kwa mshangao, kelele kubwa imethibitishwa kuwa inaathiri hisia za kusikia."
+  ],
+  [
+   "kuwa",
+   "Millie ni mzuri sana."
+  ],
+  [
+   "kuwa",
+   "Jambo, jina lako ni nani?"
+  ],
+  [
+   "katika",
+   "Ninaenda safari."
+  ],
+  [
+   "hii",
+   "Hii paka ni yangu."
+  ],
+  [
+   "moja",
+   "Tafadhali rudisha seti moja kwetu na saini yako."
+  ],
+  [
+   "kuwa na",
+   "Millie ana macho ya kijani."
+  ],
+  [
+   "kuwa na",
+   "Millie ana macho mazuri."
+  ],
+  [
+   "kubwa",
+   "Kwa mshangao, kelele kubwa imethibitishwa kuwa inaathiri hisia za kusikia."
+  ],
+  [
+   "siku",
+   "Sitakwenda mahali popote leo."
+  ],
+  [
+   "ote",
+   "Yeye hana jamaa yeyote."
+  ],
+  [
+   "ote",
+   "Sitaki ndizi zo zote."
+  ],
+  [
+   "wili",
+   "Inapitia vipigwa kumi na viwili."
+  ],
+  [
+   "kuona",
+   "Hatukuona michezo yoyote."
+  ],
+  [
+   "kula",
+   "Mawazo ya kijani yasiyokamili yanalala hoi."
+  ],
+  [
+   "jua",
+   "Sijui niambie nini..."
+  ],
+  [
+   "jua",
+   "Je, unajua mwanamke huyu?"
+  ],
+  [
+   "angu",
+   "Ouch! Mguu wangu!"
+  ],
+  [
+   "kitu",
+   "Yanipasa kukuambia kitu."
+  ],
+  [
+   "ako",
+   "Kupigana kwa haki yako."
+  ],
+  [
+   "ako",
+   "Ninapenda mwili wako."
+  ],
+  [
+   "kampuni",
+   "Bidhaa hii mpya yetu ni pigo kubwa kwa kampuni yetu pinzani."
+  ],
+  [
+   "kupunguza",
+   "Teknolojia imeshindwa kupunguza mzozo kati ya mwanadamu na maumbile."
+  ],
+  [
+   "bwana",
+   "Kwaheri bwana, asante!"
+  ],
+  [
+   "kupoteza",
+   "Nilipoteza funguo zangu njiani kuelekea nyumbani."
+  ],
+  [
+   "si",
+   "Wewe si mtu."
+  ],
+  [
+   "kupenda",
+   "Melanie anapenda muziki."
+  ],
+  [
+   "kupenda",
+   "Millie anapenda chokoleti."
+  ],
+  [
+   "ambukizi",
+   "Mtoto ana ambukizi dogo sikioni."
+  ],
+  [
+   "kuomba",
+   "Omba Mungu uitembelee nchi hiyo siku moja."
+  ],
+  [
+   "wewe",
+   "Je, uko nyumbani?"
+  ],
+  [
+   "ninyi",
+   "Nyinyi ni nani?"
+  ],
+  [
+   "ninyi",
+   "Nyinyi ni watoto."
+  ],
+  [
+   "kweli",
+   "Nilistaajabu niliposikia kuwa kweli watu hawali mboga za majani."
+  ],
+  [
+   "kitabu",
+   "Millie anasoma kitabu chake."
+  ],
+  [
+   "saini",
+   "Tafadhali rudisha seti moja kwetu na saini yako."
+  ],
+  [
+   "jicho",
+   "Millie ana macho ya bluu."
+  ],
+  [
+   "jiji",
+   "Jiji liliharibiwa na nguvu ya kikatili ya asili."
+  ],
+  [
+   "farasi",
+   "Farasi si mweupe."
+  ],
+  [
+   "uchungu",
+   "Nilihisi uchungu mkubwa mguuni."
+  ],
+  [
+   "kusikia",
+   "Kwa mshangao, kelele kubwa imethibitishwa kuwa inaathiri hisia za kusikia."
+  ],
+  [
+   "kusafiri",
+   "Unieleze habari zote za safari uliyosafiri."
+  ],
+  [
+   "kumi",
+   "Inapitia vipigwa kumi na viwili."
+  ],
+  [
+   "kuisha",
+   "Yeye amekwisha kunywa pombe."
+  ],
+  [
+   "lugha",
+   "Jorge azungumza lugha nne."
+  ],
+  [
+   "mia",
+   "Mhalifu alimwibia mwenye nyumba dola laki moja kisha akakimbia."
+  ],
+  [
+   "kunywa",
+   "Millie ananywa maji."
+  ],
+  [
+   "kunywa",
+   "Millie hanywi maji."
+  ],
+  [
+   "kusemekana",
+   "Kwa nini inasemekana mwalimu mpya anakuja?"
+  ],
+  [
+   "kao",
+   "Kao letu ni dogo lakini tunalipenda."
+  ],
+  [
+   "chaguo",
+   "Una chaguo gani kwa chakula cha jioni?"
+  ],
+  [
+   "mboga",
+   "Nilistaajabu niliposikia kuwa kweli watu hawali mboga za majani."
+  ],
+  [
+   "kurudisha",
+   "Tafadhali rudisha seti moja kwetu na saini yako."
+  ],
+  [
+   "peke",
+   "Sitakwenda mahali popote leo."
+  ],
+  [
+   "shirikisho",
+   "Kaka yangu anachezea timu ya shirikisho hilo."
+  ],
+  [
+   "hukumu",
+   "Waamuzi walitoa hukumu yao baada ya mchezo."
+  ],
+  [
+   "kuaminika",
+   "Habari hii haiaminiki, kwa sababu hakuna anayeijua."
+  ],
+  [
+   "dhana",
+   "Mwalimu alitueleza dhana ya hesabu hii."
+  ],
+  [
+   "kufungia",
+   "Tafadhali nifungie mlango nikishatoka."
+  ],
+  [
+   "mjanja",
+   "Usimwamini mjanja yule bila kuuliza."
+  ],
+  [
+   "mchana",
+   "Hujambo, bwana? Habari gani za mchana?"
+  ],
+  [
+   "kutwaa",
+   "Twaa kitabu hiki ukisome nyumbani."
+  ],
+  [
+   "pumzi",
+   "Nipe pumzi kidogo, nimechoka."
+  ],
+  [
+   "kuhimiza",
+   "Mwalimu anatuhimiza kusoma kila siku."
+  ],
+  [
+   "kukimbilia",
+   "Sina budi nikimbilie gari la moshi."
+  ],
+  [
+   "baa",
+   "Muungano wa wanafunzi unasimamia baa katika chuo."
+  ],
+  [
+   "kusherehekea",
+   "Tunasherehekea siku ya kuzaliwa ya dada leo."
+  ],
+  [
+   "kuzika",
+   "Mbwa alizika mfupa bustanini."
+  ],
+  [
+   "vocha",
+   "Una vocha ya kunipa?"
+  ],
+  [
+   "ufuko",
+   "Mawimbi yalikuwa yakiporomoka ufukweni; ilikuwa inapendeza macho."
+  ],
+  [
+   "ufuko",
+   "Watoto wanacheza kwenye ufuko wa bahari."
+  ],
+  [
+   "pigo",
+   "Bidhaa hii mpya yetu ni pigo kubwa kwa kampuni yetu pinzani."
+  ],
+  [
+   "mkate",
+   "Millie anakula mkate."
+  ],
+  [
+   "mshipa",
+   "Daktari alipima mshipa wa mkono wangu."
+  ],
+  [
+   "ukanda",
+   "Funga ukanda wa kiti kabla ya safari."
+  ],
+  [
+   "mwanadamu",
+   "Teknolojia imeshindwa kupunguza mzozo kati ya mwanadamu na maumbile."
+  ],
+  [
+   "kuimba",
+   "Pua aliimba kanisani."
+  ],
+  [
+   "kuadhimisha",
+   "Familia yetu iliadhimisha siku ya kuzaliwa ya bibi."
+  ],
+  [
+   "kuchoka",
+   "Wanaume huwa wamechoka warudipo kutoka kazini."
+  ],
+  [
+   "kuharakisha",
+   "Tuharakishe, basi litaondoka hivi punde."
+  ],
+  [
+   "msitu",
+   "Mbwa mwitu hutanga katika msitu."
+  ],
+  [
+   "kutusi",
+   "Mwalimu alituambia tusimtuse mwenzetu."
+  ],
+  [
+   "kuwaza",
+   "Ninawaza kuhusu safari ya kesho."
+  ],
+  [
+   "uchovu",
+   "Una uchovu kwa sababu ya kazi nyingi?"
+  ],
+  [
+   "katili",
+   "Jiji liliharibiwa na nguvu ya kikatili ya asili."
+  ],
+  [
+   "trilioni",
+   "Mwili wa binadamu una seli matrilioni."
+  ],
+  [
+   "kulipiza",
+   "Dereva alinilipiza nauli kubwa kuliko kawaida."
+  ],
+  [
+   "ono",
+   "Kila mtu ana ono lake kuhusu jambo hili."
+  ],
+  [
+   "kuletea",
+   "Tafadhali, niletee uji."
+  ],
+  [
+   "kususia",
+   "Wanafunzi wengi walisusia chakula cha shuleni."
+  ],
+  [
+   "mfugo",
+   "Kuku ni mfugo mdogo anayefaa nyumbani."
+  ],
+  [
+   "kichocheo",
+   "Mama alinipa kichocheo cha keki."
+  ],
+  [
+   "kushtua",
+   "Sauti ya radi ilinishtua usiku."
+  ],
+  [
+   "sivyo",
+   "Mambo sivyo ulivyoambiwa."
+  ],
+  [
+   "kufufuka",
+   "Mguu wake ulifufuka baada ya kuumia."
+  ],
+  [
+   "kufufuka",
+   "Unga utafufuka tukiuacha jikoni kwa saa moja."
+  ],
+  [
+   "kufyatulia",
+   "Askari alifyatulia shabaha risasi mazoezini."
+  ],
+  [
+   "kufyatulia",
+   "Wanajeshi wanajifunza kufyatulia shabaha risasi kwa uangalifu."
+  ],
+  [
+   "tafadhali",
+   "Tafadhali, niletee matunda."
+  ],
+  [
+   "kijiografia",
+   "Kijiografia, nchi hii ina milima mingi?"
+  ],
+  [
+   "lindi",
+   "Tusikaribie lindi hilo, ni refu."
+  ],
+  [
+   "mbabe",
+   "Watoto wanamwona mwanariadha huyo kama mbabe."
+  ],
+  [
+   "tamanio",
+   "Tamanio langu ni kuwa daktari siku moja."
+  ],
+  [
+   "itifaki",
+   "Kampuni mbili zimekubaliana kwenye itifaki mpya ya kazi."
+  ],
+  [
+   "seti",
+   "Tafadhali rudisha seti moja kwetu na saini yako."
+  ],
+  [
+   "kutaga",
+   "Kuku hutaga mayai mengi asubuhi?"
+  ],
+  [
+   "uboho",
+   "Daktari alieleza kuhusu uboho wa mifupa darasani."
+  ],
+  [
+   "huria",
+   "Kaka alijiunga na chuo kikuu huria mwaka jana."
+  ],
+  [
+   "kimakusudi",
+   "Alifanya kitendo hiki cha kijinga kwa makusudi."
+  ],
+  [
+   "utupu",
+   "Kulikuwa na utupu ndani ya sanduku."
+  ],
+  [
+   "kubahatika",
+   "Hukubahatika kumwona daktari jana?"
+  ],
+  [
+   "kundoa",
+   "Fundi alikundoa mshono mbaya akaushona upya."
+  ],
+  [
+   "mahaba",
+   "Mahaba ni tongo."
+  ],
+  [
+   "kiungwana",
+   "Wageni walivutiwa na kiungwana cha mwenyeji wao."
+  ],
+  [
+   "choyo",
+   "Choyo chake kilimfanya apoteze marafiki."
+  ],
+  [
+   "rehema",
+   "Mama ana rehema kwa kila mtu anayeomba msaada."
+  ],
+  [
+   "kiajemi",
+   "Mwalimu wetu anafundisha Kiajemi chuoni."
+  ],
+  [
+   "mwali",
+   "Wali wengi walikusanyika nyumbani kwa bibi."
+  ],
+  [
+   "spoti",
+   "Je, unafanya spoti gani shuleni?"
+  ],
+  [
+   "unyakuzi",
+   "Polisi wanachunguza tukio la unyakuzi."
+  ],
+  [
+   "uumbaji",
+   "Uumbaji wa tovuti hii ulichukua wiki mbili."
+  ],
+  [
+   "yayo",
+   "Nipe maembe yayo mawili, tafadhali."
+  ],
+  [
+   "yayo",
+   "Mayai yayo yamepikwa leo?"
+  ],
+  [
+   "kaligrafia",
+   "Kaligrafia ni sanaa ya kuandika kwa mkono kwa uzuri."
+  ],
+  [
+   "kinasa",
+   "Mwindaji aliweka kinasa msituni."
+  ],
+  [
+   "kinasa",
+   "Panya mdogo alinaswa kwenye kinasa."
+  ],
+  [
+   "zinki",
+   "Zinki ni chuma kinachotumika kuezeka."
+  ],
+  [
+   "kuwa na",
+   "Millie ana kitabu."
+  ],
+  [
+   "kula",
+   "Millie anakula tufaha."
+  ],
+  [
+   "kupenda",
+   "Tlaloc anapenda kusafiri."
+  ],
+  [
+   "kuomba",
+   "Naomba maji, tafadhali."
+  ],
+  [
+   "saini",
+   "Tafadhali weka saini yako hapa."
+  ],
+  [
+   "uchungu",
+   "Dawa hii ina uchungu sana."
+  ],
+  [
+   "kuisha",
+   "Sukari imeisha, tununue nyingine."
+  ],
+  [
+   "kusemekana",
+   "Inasemekana kwamba mvua itanyesha kesho."
+  ],
+  [
+   "shirikisho",
+   "Shirikisho la mpira wa miguu lilitangaza ratiba mpya."
+  ],
+  [
+   "kutwaa",
+   "Timu yetu ilitwaa kombe mwaka jana."
+  ],
+  [
+   "baa",
+   "Kuna baa moja karibu na kituo cha basi."
+  ],
+  [
+   "pigo",
+   "Kupoteza kazi ilikuwa pigo kubwa kwetu."
+  ],
+  [
+   "ukanda",
+   "Baba alivaa ukanda mweusi kiunoni."
+  ],
+  [
+   "mwanadamu",
+   "Kila mwanadamu anahitaji maji na chakula."
+  ],
+  [
+   "kuchoka",
+   "Nimechoka sana baada ya kazi ya leo."
+  ],
+  [
+   "uchovu",
+   "Uchovu ulinifanya nilale mapema."
+  ],
+  [
+   "ono",
+   "Ono lake kuhusu jambo hili ni tofauti na langu."
+  ],
+  [
+   "kususia",
+   "Wateja walisusia duka hilo kwa wiki moja."
+  ],
+  [
+   "mfugo",
+   "Mifugo yetu inakunywa maji mtoni."
+  ],
+  [
+   "kushtua",
+   "Sauti kubwa ilinishtua usiku."
+  ],
+  [
+   "kufufuka",
+   "Mguu wangu ulianza kufufuka baada ya kuumwa na nyuki."
+  ],
+  [
+   "bongo",
+   "Mchezo huu unalipa bongo mazoezi mazuri."
+  ],
+  [
+   "uboho",
+   "Daktari alieleza kwamba uboho uko ndani ya mfupa."
+  ],
+  [
+   "huria",
+   "Dada yangu anasoma katika chuo kikuu huria."
+  ],
+  [
+   "utupu",
+   "Nilipofungua sanduku, nilikuta utupu ndani."
+  ],
+  [
+   "ufunuo",
+   "Waumini wanaamini ufunuo wa neno la Mungu."
+  ],
+  [
+   "yayo",
+   "Tafadhali nipe maembe yayo."
+  ],
+  [
+   "yayo",
+   "Madirisha yayo yamefungwa kwa sababu ya baridi."
+  ],
+  [
+   "wewe",
+   "Wewe si mtu."
+  ],
+  [
+   "kuisha",
+   "Sukari imeisha, nenda dukani ukanunue."
+  ],
+  [
+   "kusemekana",
+   "Inasemekana kwamba mvua kubwa itanyesha kesho."
+  ],
+  [
+   "hukumu",
+   "Hakimu alisoma hukumu mahakamani asubuhi."
+  ],
+  [
+   "kuhimiza",
+   "Mwalimu wetu anatuhimiza kusoma kila siku."
+  ],
+  [
+   "uchovu",
+   "Uchovu ulinifanya nilale mapema jana usiku."
+  ],
+  [
+   "trilioni",
+   "Mwalimu aliuliza trilioni moja ina sufuri ngapi."
+  ],
+  [
+   "ono",
+   "Kila mtu ana ono lake kuhusu suala hili."
+  ],
+  [
+   "utupu",
+   "Alihisi utupu moyoni baada ya rafiki yake kuhama."
+  ],
+  [
+   "zinki",
+   "Paa la nyumba yetu limetengenezwa kwa zinki."
+  ]
+ ],
+ "fix": {
+  "Fedha zake ni katika benki.": {
+   "text": "Fedha zake ziko katika benki.",
+   "translation": "His money is in the bank."
+  },
+  "Ni kazi yake.": {
+   "translation": "It is his job."
+  },
+  "Kama angekaa nyumbani, asingepata taabu.": {
+   "translation": "If he had stayed at home, he would not have got into trouble."
+  },
+  "Ningependa kuamini mambo mazuri tu juu yake, lakini tabia yake ni mbaya kabisa.": {
+   "translation": "I'd like to believe only good things about her, but her behaviour is really bad."
+  },
+  "Sitaki watu wo wote.": {
+   "text": "Simtaki mtu yeyote.",
+   "translation": "I don't want anybody."
+  },
+  "Alifanya kitendo hiki cha kijinga kimakusudi.": {
+   "translation": "She did this foolish thing deliberately.",
+   "text": "Alifanya kitendo hiki cha kijinga kwa makusudi."
+  },
+  "Je, mna njaa?": {
+   "translation": "Are you (pl.) hungry?"
+  },
+  "Usipokula chakula cha majani huwezi kupata vitamin.": {
+   "text": "Usipokula mboga za majani, huwezi kupata vitamini.",
+   "translation": "If you don't eat leafy vegetables, you can't get vitamins."
+  },
+  "Walitaja maeneo mawili maarufu ya watalii ambayo hatujawahi kuyatembelea.": {
+   "translation": "They mentioned two famous tourist spots that we have never visited."
+  },
+  "Sasa, nenda kapumzike. Kazi inaweza kungoja.": {
+   "translation": "Now go and rest. The work can wait."
+  },
+  "Je, kuna sababu yo yote?": {
+   "text": "Je, kuna sababu yoyote?",
+   "translation": "Is there any reason?"
+  },
+  "Ndiyo, kuna sababu kubwa mbili.": {
+   "translation": "Yes, there are two major reasons."
+  },
+  "Gari yao si jizuri.": {
+   "text": "Gari lao si zuri.",
+   "translation": "Their car is not good."
+  },
+  "Utakaa muda ghani?": {
+   "text": "Utakaa kwa muda gani?",
+   "translation": "For how long will you stay?"
+  },
+  "Kazi yake nini kitu hiki?": {
+   "text": "Kazi ya kitu hiki ni nini?",
+   "translation": "What is the function of this thing?"
+  },
+  "Je, kuna mashine ya kufulia nyumbani?": {
+   "translation": "Is there a washing machine at home?"
+  },
+  "Mfalme alikuwa maarufu kwa sababu ya kasri lake kuu.": {
+   "translation": "The king was famous for his grand palace."
+  },
+  "Wao ni mbaya.": {
+   "text": "Wao ni wabaya.",
+   "translation": "They are bad."
+  },
+  "Mtu ni mwenye nguvu.": {
+   "text": "Mtu huyu ni mwenye nguvu.",
+   "translation": "The person is strong."
+  },
+  "Habari za nyumbani?": {
+   "translation": "How are things at home?"
+  },
+  "Hatukuona watoto wo wote.": {
+   "text": "Hatukuona watoto wowote.",
+   "translation": "We did not see any children."
+  },
+  "Hatukuona michezo yo yote.": {
+   "text": "Hatukuona michezo yoyote.",
+   "translation": "We did not see any games."
+  },
+  "Yeye ni ndani ya nyumba hii.": {
+   "text": "Yeye yuko ndani ya nyumba hii.",
+   "translation": "He is inside this house."
+  },
+  "Je, wewe ni nyumbani?": {
+   "text": "Je, uko nyumbani?",
+   "translation": "Are you at home?"
+  },
+  "Alitupa mpira nje ya uwanja.": {
+   "translation": "He threw the ball out of the field."
+  },
+  "Ninataka kuwa mchezaji.": {
+   "translation": "I want to be a player."
+  },
+  "Angalikuwa na nafasi angalikwenda.": {
+   "translation": "If he had had the chance, he would have gone.",
+   "text": "Angekuwa na nafasi, angeenda."
+  },
+  "Mambo niliyosema yalimkasirisha na akaondoka ghafla.": {
+   "translation": "What I said made him angry and he suddenly left."
+  },
+  "Lugha zina maneno magumu.": {
+   "translation": "Languages have difficult words."
+  },
+  "Mtawala ali wana wasita.": {
+   "text": "Mtawala alikuwa na wana sita.",
+   "translation": "The ruler had six sons."
+  },
+  "Watu wawili wanaweza kucheza mchezo huo.": {
+   "translation": "Two people can play that game."
+  },
+  "Yeye hana rafiki ye yote.": {
+   "text": "Yeye hana rafiki yeyote.",
+   "translation": "He doesn't have any friends."
+  },
+  "Tizama hii picha.": {
+   "text": "Tazama picha hii.",
+   "translation": "Look at this picture."
+  },
+  "Rafiki yangu hapendi sukari.": {
+   "translation": "My friend doesn't like sugar."
+  },
+  "Muungano wa wanafunzi inasimamia baa katika chuo.": {
+   "text": "Muungano wa wanafunzi unasimamia baa katika chuo.",
+   "translation": "The students' union runs a bar on campus."
+  },
+  "Wanaume wakakwenda kazini.": {
+   "text": "Wanaume walikwenda kazini.",
+   "translation": "The men went to work."
+  },
+  "Ndege ni mwekundu.": {
+   "text": "Ndege ni nyekundu.",
+   "translation": "The bird is red."
+  },
+  "Baba yangu alisema hapana.": {
+   "translation": "My father said no."
+  },
+  "Je, una wasiwasi?": {
+   "translation": "Are you worried?"
+  },
+  "Wanajua maana ya vitamin ni nini.": {
+   "text": "Wanajua maana ya vitamini ni nini."
+  },
+  "Nilistaajabu niliposikia kuwa kweli watu hawali mboga za majani.": {
+   "translation": "I was surprised to hear that people really don't eat leafy vegetables."
+  },
+  "Wote tuliangalia saa yake.": {
+   "text": "Sote tuliangalia saa yake.",
+   "translation": "We all looked at his watch."
+  },
+  "Kwenda kwa teksi hotelini.": {
+   "text": "Nenda hotelini kwa teksi.",
+   "translation": "Go to the hotel by taxi."
+  },
+  "Sitaki maziwa yo yote.": {
+   "text": "Sitaki maziwa yoyote.",
+   "translation": "I don't want any milk."
+  },
+  "Ninaenda katika safari.": {
+   "text": "Ninaenda safari.",
+   "translation": "I'm going on a trip."
+  },
+  "Je! Hamu yako ya kukula imebadilika?": {
+   "text": "Je, hamu yako ya kula imebadilika?",
+   "translation": "Has your appetite changed?"
+  },
+  "Farasi hii ni mweupe.": {
+   "text": "Farasi huyu ni mweupe.",
+   "translation": "This horse is white."
+  },
+  "Kwaheri bwana. Safiri salama!": {
+   "translation": "Goodbye, sir. Have a safe trip!"
+  },
+  "Ulivunja meza uliyekuwa ukikaa.": {
+   "text": "Ulivunja meza uliyokuwa ukiikalia.",
+   "translation": "You broke the table you were sitting on."
+  },
+  "Yeye amekwisha kunywa pombe.": {
+   "translation": "He has already drunk alcohol."
+  },
+  "Habari za asubuhi?": {
+   "translation": "Good morning! (a greeting, literally 'news of the morning')"
+  },
+  "Ninajua kuwa alikuwa wa ajabu.": {
+   "translation": "I know that he/she was strange."
+  },
+  "Yeye hana jamaa ye yote.": {
+   "text": "Yeye hana jamaa yeyote.",
+   "translation": "He does not have any relatives at all."
+  },
+  "Habari za mchana?": {
+   "translation": "Good afternoon! (lit. news of the day)"
+  },
+  "Hujambo, bwana? Habari gani za mchana?": {
+   "translation": "How are you, sir? How is the afternoon going?"
+  },
+  "Sina budi nikimbilie gari la moshi.": {
+   "translation": "I have no choice but to run for the train."
+  },
+  "Usinywe maji yaliyo bilaurini!": {
+   "translation": "Do not drink the water in the glass!"
+  },
+  "Farasi hii si mweupe.": {
+   "text": "Farasi huyu si mweupe.",
+   "translation": "This horse is not white."
+  },
+  "Maonyesho yalipokelewa kwa shangwe.": {
+   "translation": "The shows were received with cheers."
+  },
+  "Je, ana kompyuta npya?": {
+   "text": "Je, ana kompyuta mpya?"
+  },
+  "Maktaba ni upande wa kulia.": {
+   "text": "Maktaba iko upande wa kulia."
+  },
+  "Ijapokuwa nitakaa nyumbani peke yangu, sitakwenda mahali popote siku ya leo.": {
+   "text": "Sitakwenda mahali popote leo.",
+   "translation": "I will not go anywhere today."
+  },
+  "Je, unataka uji?": {
+   "translation": "Do you want porridge?"
+  },
+  "Nini uraia wako?": {
+   "text": "Uraia wako ni upi?",
+   "translation": "What is your nationality?"
+  },
+  "Kwa heri ya kuonana!": {
+   "translation": "Goodbye, until we meet again!"
+  },
+  "Mhalifu alimuibia mpangishaji nyumba dola mia elfu kisha akakimbia.": {
+   "text": "Mhalifu alimwibia mwenye nyumba dola laki moja kisha akakimbia.",
+   "translation": "The criminal stole a hundred thousand dollars from the landlord and ran away."
+  },
+  "Tuliimba nyimbo kwa kwaya.": {
+   "translation": "We sang songs as a choir."
+  },
+  "Kule watu wanaelewa.": {
+   "translation": "The people there understand."
+  },
+  "Mtu huyu ni mwenye nguvu.": {
+   "translation": "This person is strong."
+  },
+  "Tulipitia sokoni kununua mboga njiani.": {
+   "translation": "We stopped by the market to buy vegetables on the way."
+  },
+  "Kaka yangu ni mrefu kuliko baba.": {
+   "translation": "My brother is taller than dad."
+  },
+  "Daktari alisema virusi vinasababisha homa hii.": {
+   "translation": "The doctor said viruses cause this fever."
+  },
+  "Sentensi hizi zote zinahitaji kikomo.": {
+   "text": "Sentensi hizi zote zinahitaji nukta mwishoni.",
+   "translation": "All of these sentences need a full stop at the end."
+  },
+  "Unieleze habari zote za safari uliyosafiri.": {
+   "text": "Nieleze habari zote za safari yako.",
+   "translation": "Tell me all about your trip."
+  },
+  "Kwani unaenda wapi mapema hivi?": {
+   "translation": "So where are you going so early?"
+  },
+  "Unaweza kunielezea njia ya kwenda kituoni?": {
+   "translation": "Can you explain to me the way to the station?"
+  },
+  "Kalamu changu ni mpya.": {
+   "text": "Kalamu yangu ni mpya.",
+   "translation": "My pen is new."
+  },
+  "Biashara ya nje ya nchi inategemea kabisa bandari hii.": {
+   "translation": "Foreign trade depends entirely on this port."
+  },
+  "Mtu anataka kujua ukweli.": {
+   "translation": "Someone wants to know the truth."
+  },
+  "Anachemka mayai jikoni.": {
+   "text": "Anachemsha mayai jikoni.",
+   "translation": "She's boiling eggs in the kitchen."
+  },
+  "Mtoto alilala begani mwa baba.": {
+   "text": "Mtoto alilala begani kwa baba.",
+   "translation": "The child slept on his father's shoulder."
+  },
+  "Tulimtakia dada safari njema kesho.": {
+   "text": "Tutamtakia dada safari njema kesho.",
+   "translation": "We will wish our sister a good journey tomorrow."
+  },
+  "Sitaki ndizi zo zote.": {
+   "text": "Sitaki ndizi zozote."
+  },
+  "Kaka yangu ana mtoto wa kiume.": {
+   "translation": "My brother has a son."
+  },
+  "Kiti hiki kimevunjika, kaa kile pale.": {
+   "text": "Kiti hiki kimevunjika, kaa kwenye kile pale."
+  },
+  "Mama ana roho nzuri sana.": {
+   "translation": "Mum has a very kind heart."
+  },
+  "Nyumba hii ina ukubwa unaotosha familia yetu.": {
+   "translation": "This house is big enough for our family."
+  },
+  "Unavalia nini kwenye harusi ya dada?": {
+   "text": "Utavalia nini kwenye harusi ya dada yako?",
+   "translation": "What will you wear to your sister's wedding?"
+  },
+  "Nitateka maji kwa ndoo.": {
+   "translation": "I will draw water with a bucket."
+  },
+  "Paka alikimbia kumfuata panya.": {
+   "translation": "The cat ran after the rat."
+  },
+  "Daktari alitoa agizo la dawa mpya.": {
+   "translation": "The doctor prescribed a new medicine."
+  },
+  "Mama aliweka kitambaa kwenye paji la mgonjwa.": {
+   "text": "Mama aliweka kitambaa kwenye paji la uso la mgonjwa.",
+   "translation": "Mother put a cloth on the patient's forehead."
+  },
+  "Nataka kusafiri hadi Senegal siku moja.": {
+   "text": "Nataka kusafiri kwenda Senegal siku moja.",
+   "translation": "I want to travel to Senegal one day."
+  },
+  "Kitongoji chetu kina duka moja tu.": {
+   "translation": "Our neighbourhood has only one shop."
+  },
+  "Mama alienda sokoni kwa ajili ya ununuzi wa mboga.": {
+   "translation": "Mum went to the market to shop for vegetables."
+  },
+  "Alikata tikiti vipande vidogo.": {
+   "text": "Alikata tikiti maji vipande vidogo."
+  },
+  "Kupona kwake ilikuwa kama muujiza.": {
+   "text": "Kupona kwake kulikuwa kama muujiza."
+  },
+  "Mimi nimechoka, na wewe kadhalika?": {
+   "translation": "I am tired, and you too?"
+  },
+  "Tafadhali usinichelewesha, nina haraka sana.": {
+   "text": "Tafadhali usinicheleweshe, nina haraka sana."
+  },
+  "Nipe bisibisi, nifunge kabati.": {
+   "translation": "Give me a screwdriver so I can fasten the cupboard."
+  },
+  "Tumia busara kabla ya kujibu.": {
+   "translation": "Use good judgement before you answer."
+  },
+  "Faini ya kuchelewesha kitabu maktabani ni shilingi ngapi?": {
+   "text": "Faini ya kuchelewa kurudisha kitabu maktabani ni shilingi ngapi?"
+  },
+  "Tulihisi msukosuko mkubwa ndani ya ndege.": {
+   "translation": "We felt strong turbulence inside the plane."
+  },
+  "Mjenzi alitupa kadirio la gharama za nyumba.": {
+   "text": "Mjenzi alitupatia kadirio la gharama za nyumba.",
+   "translation": "The builder gave us an estimate of the cost of the house."
+  },
+  "Funga mkanda wako ndani ya gari.": {
+   "translation": "Fasten your seat belt in the car."
+  },
+  "Hiyo ilikuwa utani tu, usikasirike.": {
+   "text": "Huo ulikuwa utani tu, usikasirike.",
+   "translation": "That was just a joke, don't be angry."
+  },
+  "Kaka yangu alisoma Jordan kwa mwaka mmoja.": {
+   "text": "Kaka yangu alisoma nchini Jordan kwa mwaka mmoja.",
+   "translation": "My brother studied in Jordan for a year."
+  },
+  "Wimbo huo mpya umevuma sana mitandaoni.": {
+   "translation": "That new song has become very popular online."
+  },
+  "Uzinduzi wa shule mpya utafanyika Jumamosi.": {
+   "translation": "The opening of the new school will take place on Saturday."
+  },
+  "Usiziba njia, watu wanataka kupita.": {
+   "text": "Usizibe njia, watu wanataka kupita."
+  },
+  "Mama alipewa nyadhifa mpya ofisini mwaka huu.": {
+   "translation": "Mama was given new positions at the office this year."
+  },
+  "Mwalimu alituonyesha asidi maabara.": {
+   "text": "Mwalimu alituonyesha asidi maabarani."
+  },
+  "Pole kwa kazi nyingi leo.": {
+   "text": "Pole na kazi nyingi leo.",
+   "translation": "Sorry you have so much work today."
+  },
+  "Kwaheri bwana, asante!": {
+   "translation": "Goodbye, sir, and thanks!"
+  },
+  "Nusura tuchelewe kufika uwanja wa ndege.": {
+   "translation": "We were nearly late getting to the airport."
+  },
+  "Uzuri wa mtu ni tabia yake.": {
+   "translation": "A person's beauty lies in their character."
+  },
+  "Daktari aliniambia nile wanga kidogo.": {
+   "translation": "The doctor told me to eat only a little starch."
+  },
+  "Watoto hupenda kudadisi kila kitu.": {
+   "translation": "Children like to be inquisitive about everything."
+  },
+  "Wadudu wanahujumu mazao shambani kwetu.": {
+   "translation": "Insects are attacking the crops on our farm."
+  },
+  "Mchungaji alimwombea mgonjwa ili pepo atoke.": {
+   "text": "Mchungaji alimwombea mgonjwa ili pepo litoke.",
+   "translation": "The pastor prayed for the sick person so that the evil spirit would leave."
+  },
+  "Yeye ni rafiki yangu wa rika langu.": {
+   "text": "Yeye ni rafiki wa rika langu.",
+   "translation": "He is a friend of my own age."
+  },
+  "Bibi alimchezesha mtoto kwa wimbo.": {
+   "translation": "Grandmother entertained the baby with a song."
+  },
+  "Katika filamu, kibaraka alifuata amri za bosi wake.": {
+   "translation": "In the film, the stooge followed his boss's orders."
+  },
+  "Mchezo huu unaipa bongo mazoezi mazuri.": {
+   "text": "Mchezo huu unalipa bongo mazoezi mazuri."
+  },
+  "Maji ya mvua yamejaa kwenye lindi barabarani.": {
+   "translation": "Rainwater has filled the pit by the road."
+  },
+  "Dada alipaka nukato kabla ya kutoka.": {
+   "text": "Dada alipaka manukato kabla ya kutoka."
+  },
+  "Nukato hii ina harufu nzuri ya maua.": {
+   "text": "Manukato haya yana harufu nzuri ya maua.",
+   "translation": "This perfume has a lovely floral scent."
+  },
+  "Duka hili linauza vito vizuri.": {
+   "translation": "This shop sells beautiful jewellery."
+  },
+  "Mbwa alibweka alipomwona mvamizi.": {
+   "translation": "The dog barked when it saw the intruder."
+  },
+  "Wakulima wengi watafaidi kutokana na mvua hii.": {
+   "text": "Mvua hii itawafaidi wakulima wengi.",
+   "translation": "This rain will benefit many farmers."
+  },
+  "Nitafaidi nini nikikaa nyumbani?": {
+   "text": "Itanifaidi nini nikikaa nyumbani?",
+   "translation": "What will I gain if I stay at home?"
+  },
+  "Nilipopata mafua, nilijifukiza kwa mvuke wa maji moto.": {
+   "translation": "When I had a cold, I inhaled steam from hot water."
+  },
+  "Bibi hujifukiza kila anapokuwa na kikohozi.": {
+   "translation": "Grandmother inhales steam whenever she has a cough."
+  },
+  "Mwalimu alitumia kipaza sauti darasani.": {
+   "translation": "The teacher used a microphone in the classroom."
+  },
+  "Tafadhali nipe kipaza sauti ili wote wanisikie.": {
+   "translation": "Please give me the microphone so that everyone can hear me."
+  },
+  "Alikaa pembezo ya uwanja akitazama mchezo.": {
+   "text": "Alikaa pembezoni mwa uwanja akitazama mchezo.",
+   "translation": "He sat at the edge of the field watching the game."
+  },
+  "Hodi! Naweza kuingia?": {
+   "translation": "Hello! May I come in?"
+  },
+  "Kitabu hicho kinaeleza ushirikina wa watu wa zamani.": {
+   "translation": "That book describes the superstitious beliefs of people long ago."
+  },
+  "Mwalimu mkuu atashugulikia tatizo hili kesho.": {
+   "text": "Mwalimu mkuu atashughulikia tatizo hili kesho."
+  },
+  "Nani atashugulikia wageni wetu jioni?": {
+   "text": "Nani atashughulikia wageni wetu jioni?"
+  },
+  "Shule yetu inahitaji uboreshaji wa vyoo.": {
+   "translation": "Our school needs its toilets improved."
+  },
+  "Ni ulazima kuvaa kofia hapa kazini.": {
+   "translation": "It is a requirement to wear a hat here at work."
+  },
+  "Mbwa mwitu hutanga katika msitu.": {
+   "text": "Mbwa mwitu hutangatanga katika msitu.",
+   "translation": "Wolves wander about in the forest."
+  },
+  "Unaweza kukisi bei ya gari hili?": {
+   "text": "Unaweza kukisia bei ya gari hili?"
+  },
+  "Nilikisi kwamba mvua ingenyesha jioni.": {
+   "text": "Nilikisia kwamba mvua ingenyesha jioni."
+  },
+  "Shati langu lina mpasuko mkononi.": {
+   "text": "Shati langu lina mpasuko kwenye mkono."
+  },
+  "Mwalimu wa historia alieleza maana ya kusulubu.": {
+   "translation": "The history teacher explained what it means to crucify."
+  },
+  "Bidhaa hii mpya yetu ni pigo kubwa kwa kampuni yetu pinzani.": {
+   "text": "Bidhaa hii mpya yetu ni pigo kubwa kwa kampuni pinzani.",
+   "translation": "This new product of ours is a big blow to the rival company."
+  },
+  "Mimi kibinfasi sipendi kahawa chungu.": {
+   "text": "Mimi kibinafsi sipendi kahawa chungu."
+  },
+  "Mkurugenzi alizungumza na kila mfanyakazi kibinfasi.": {
+   "text": "Mkurugenzi alizungumza na kila mfanyakazi kibinafsi."
+  },
+  "Hawezi kumlazimisha mtoto kimabavu.": {
+   "translation": "He cannot compel a child by force."
+  },
+  "Teremsha mizigo kutoka kwenye gari, tafadhali.": {
+   "translation": "Unload the luggage from the car, please."
+  },
+  "Baada ya mvua, tuliona upinde angani.": {
+   "text": "Baada ya mvua, tuliona upinde wa mvua angani.",
+   "translation": "After the rain, we saw a rainbow in the sky."
+  },
+  "Tafadhali soma vipengee vyote vya mkataba.": {
+   "translation": "Please read all the clauses of the contract."
+  },
+  "Waumini wanaamini ufunuo kutoka kwa Mungu.": {
+   "translation": "Believers believe in revelation from God."
+  },
+  "Simu hii inagarimu shilingi elfu hamsini.": {
+   "text": "Simu hii inagharimu shilingi elfu hamsini.",
+   "translation": "This phone costs fifty thousand shillings."
+  },
+  "Safari hii itagarimu kiasi gani?": {
+   "text": "Safari hii itagharimu kiasi gani?",
+   "translation": "How much will this trip cost?"
+  },
+  "Unapenda mishikaki ya kuku au ya nyama?": {
+   "translation": "Do you like chicken kebabs or meat kebabs?"
+  },
+  "Mwalimu wetu si mbaguzi, anawapenda watoto wote.": {
+   "translation": "Our teacher is not prejudiced; he loves all the children."
+  },
+  "Mbwa huyo ana kichaa, msimkaribie.": {
+   "translation": "That dog is rabid, do not go near it."
+  },
+  "Mwalimu anafundisha kivitendo, si kwa maneno tu.": {
+   "translation": "The teacher teaches in a practical way, not only with words."
+  },
+  "Globu ni ramani ya dunia yenye umbo la duara.": {
+   "translation": "A globe is a map of the world in a round shape."
+  },
+  "Mtoto huyu ndiye tegemeo la familia yetu.": {
+   "translation": "This child is the mainstay of our family."
+  },
+  "Elimu itakufaida maishani.": {
+   "text": "Elimu itakufaidi maishani."
+  },
+  "Dawa hii haikumfaida mgonjwa.": {
+   "text": "Dawa hii haikumfaidi mgonjwa."
+  },
+  "Mama aliivisha ndizi kwa kuzifunika majani.": {
+   "text": "Mama aliivisha ndizi kwa kuzifunika kwa majani."
+  },
+  "Usinikanganye, nilikuwa nahesabu pesa.": {
+   "text": "Usinikanganye, nilikuwa nikihesabu pesa.",
+   "translation": "Don't confuse me, I was counting money."
+  },
+  "Ufukara ulimlazimu kuacha shule.": {
+   "text": "Ufukara ulimlazimisha kuacha shule."
+  },
+  "Wanafunzi walilumbana darasani kuhusu mchezo.": {
+   "translation": "The students argued in class about the game."
+  },
+  "Kaka yangu ni mtanashati kila mara.": {
+   "translation": "My brother is always smartly turned out."
+  },
+  "Mkristu huenda kanisani Jumapili.": {
+   "text": "Mkristo huenda kanisani Jumapili."
+  },
+  "Wakristu wengi huadhimisha Krismasi pamoja na familia.": {
+   "text": "Wakristo wengi huadhimisha Krismasi pamoja na familia."
+  },
+  "Wanafunzi waligawika makundi mawili.": {
+   "text": "Wanafunzi waligawika katika makundi mawili."
+  },
+  "Wanafunzi walijadili ubabe katika jamii.": {
+   "translation": "The students discussed male dominance in society."
+  },
+  "Usimchokoze mbwa huyo, ataweza kukuuma.": {
+   "text": "Usimchokoze mbwa huyo, anaweza kukuuma.",
+   "translation": "Don't provoke that dog, it might bite you."
+  },
+  "Wasanifu wa majengo hufanya kazi na wahandisi.": {
+   "translation": "Architects work together with engineers."
+  },
+  "Mzeituni hukua vizuri penye jua nyingi.": {
+   "text": "Mzeituni hukua vizuri penye jua jingi."
+  },
+  "Dada alikausha sidiria yake jua.": {
+   "text": "Dada alikausha sidiria yake juani.",
+   "translation": "My sister dried her bra in the sun."
+  },
+  "Utandawazi umeleta simu kila kijiji.": {
+   "text": "Utandawazi umeleta simu katika kila kijiji.",
+   "translation": "Globalization has brought phones to every village."
+  },
+  "Piga simu uite ambulensi!": {
+   "translation": "Phone for an ambulance!"
+  },
+  "Wafanyakazi walipakia sukari bohari.": {
+   "text": "Wafanyakazi walipakia sukari kwenye bohari.",
+   "translation": "The workers loaded sugar at the warehouse."
+  },
+  "Mwanawake yule ni mwalimu wetu.": {
+   "text": "Mwanamke yule ni mwalimu wetu.",
+   "translation": "That woman is our teacher."
+  },
+  "Mtoto alipakwa poda baada ya kuoga.": {
+   "translation": "Powder was put on the baby after the bath."
+  },
+  "Barabara hii itapanuka mwaka ujao.": {
+   "translation": "This road will become wider next year."
+  },
+  "Mtoto alizamisha mpira ndani ya maji.": {
+   "translation": "The child submerged the ball in the water."
+  },
+  "Mama alimwambia kijana asiwe mhuni mitaani.": {
+   "translation": "Mother told the young man not to be a hooligan on the streets."
+  },
+  "Yeye ni sahibu yangu tangu utotoni.": {
+   "text": "Yeye ni sahibu wangu tangu utotoni."
+  },
+  "Nini chanzo cha upotovu wa vijana wengi siku hizi?": {
+   "translation": "What is the cause of the moral decline of many young people these days?"
+  },
+  "Mbwa wetu ana utitiri mwilini.": {
+   "translation": "Our dog has mites on its body."
+  },
+  "Utitiri uliwauma watoto usiku.": {
+   "translation": "The tiny biting insects bit the children at night."
+  },
+  "Nyinyi ni waalimu.": {
+   "text": "Ninyi ni walimu.",
+   "translation": "You (pl.) are teachers."
+  },
+  "Mwandishi alitumia kinasa sauti kurekodi mahojiano.": {
+   "text": "Mwandishi wa habari alitumia kinasa sauti kurekodi mahojiano.",
+   "translation": "The reporter used a voice recorder to record the interview."
+  },
+  "Tumia bongo yako kutatua tatizo hili.": {
+   "text": "Tumia bongo lako kutatua tatizo hili.",
+   "translation": "Use your brain to solve this problem."
+  }
+ }
+}

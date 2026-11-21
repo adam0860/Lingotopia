@@ -1,0 +1,358 @@
+{
+ "_comment": "Hand-corrections applied by lemma after automatic generation. Only lemmas already present in the deck are honoured, so an override can never add a card or shift a rank (card ids and review history are rank-based). Pronoun case-forms are written by hand because Wiktionary hangs the whole pronoun paradigm off one entry and the automatic lookup resolves them all to вы.",
+ "это": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "this, that, it (neuter demonstrative)"
+ },
+ "тот": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "that, that one"
+ },
+ "он": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "he, it"
+ },
+ "мы": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "we"
+ },
+ "вы": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "you (plural or formal)"
+ },
+ "они": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "they"
+ },
+ "её": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "her, hers, its (possessive); her (accusative/genitive of она)"
+ },
+ "их": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "their, theirs (possessive); them (accusative/genitive of они)"
+ },
+ "да": {
+  "pos": "part",
+  "posName": "particle",
+  "gloss": "yes; (emphatic) indeed, well; (colloquial) and, but; let (да будет свет = let there be light)"
+ },
+ "того": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "that, of that (genitive/accusative of тот): для того, чтобы = in order to"
+ },
+ "том": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "that (prepositional of тот): в том доме = in that house; о том, что = about the fact that. Also a noun: volume (of a book)"
+ },
+ "всё": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "all, everything, the whole (neuter of весь); (adverb) all the time, still; that's all"
+ },
+ "клуб": {
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "club (a society, or a nightclub); also: a cloud or puff (of smoke, dust)"
+ },
+ "тебя": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "you (informal; genitive/accusative of ты)"
+ },
+ "тебе": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "to you (informal; dative/prepositional of ты)"
+ },
+ "тобой": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "by/with you (informal; instrumental of ты)"
+ },
+ "вас": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "you (plural or formal; genitive/accusative/prepositional of вы)"
+ },
+ "вам": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "to you (plural or formal; dative of вы)"
+ },
+ "вами": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "by/with you (plural or formal; instrumental of вы)"
+ },
+ "нас": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "us (genitive/accusative/prepositional of мы)"
+ },
+ "нам": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "to us (dative of мы)"
+ },
+ "нами": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "by/with us (instrumental of мы)"
+ },
+ "ему": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "to him, to it (dative of он)"
+ },
+ "нему": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "to him, to it (dative of он, after a preposition): к нему = to him"
+ },
+ "него": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "him, it (genitive/accusative of он, after a preposition): у него = he has; для него = for him"
+ },
+ "нём": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "him, it (prepositional of он): о нём = about him"
+ },
+ "нем": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "him, it (prepositional of он): о нём = about him. Written without ё; also нем = mute"
+ },
+ "им": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "to them (dative of они); by/with him, it (instrumental of он)"
+ },
+ "ним": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "by/with him, it (instrumental of он): с ним = with him; to them (dative of они after a preposition): к ним = to them"
+ },
+ "ими": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "by/with them (instrumental of они)"
+ },
+ "них": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "them (genitive/accusative/prepositional of они, after a preposition): у них = they have; о них = about them"
+ },
+ "ей": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "to her (dative of она); by/with her (instrumental of она)"
+ },
+ "ней": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "her (after a preposition): с ней = with her; о ней = about her"
+ },
+ "неё": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "her (genitive/accusative of она, after a preposition): у неё = she has; для неё = for her"
+ },
+ "нее": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "her (genitive/accusative of она, after a preposition): у неё = she has. Written without ё"
+ },
+ "чём": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "what (prepositional of что): о чём = about what"
+ },
+ "его": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "his, its (possessive); him, it (accusative/genitive of он)"
+ },
+ "ее": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "her, hers (possessive); her (accusative/genitive of она). Same word as её, written without ё"
+ },
+ "тому": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "to that (dative of тот): тому назад = ago"
+ },
+ "тем": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "by/with that (instrumental of тот); in set phrases: тем не менее = nevertheless, тем более = all the more"
+ },
+ "тома": {
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "volumes (plural of том); of a volume (genitive singular)"
+ },
+ "всему": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "to all, to everything (dative of весь/всё)"
+ },
+ "всём": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "all, everything (prepositional of весь/всё): во всём = in everything"
+ },
+ "само": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "itself (neuter of сам): само собой разумеется = it goes without saying"
+ },
+ "самое": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "the very, the most (neuter of самый): самое главное = the main thing; also: itself (neuter of сам)"
+ },
+ "самом": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "the very; self (prepositional of самый/сам): в самом деле = in fact, really"
+ },
+ "что": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "what; that (conjunction); which"
+ },
+ "то": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "that (neuter of тот); then, in если … то … (if … then …)"
+ },
+ "чем": {
+  "pos": "conj",
+  "posName": "conjunction",
+  "gloss": "than; instead of, rather than; by/with what (instrumental of что)"
+ },
+ "было": {
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "was; there was (neuter past of быть); also a particle: almost, was about to (я было пошёл = I was about to go)"
+ },
+ "были": {
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "were; there were (plural past of быть)"
+ },
+ "селе": {
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "village (prepositional of село): в селе = in the village"
+ },
+ "моем": {
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "in my (prepositional of мой): в моём доме = in my house; also: we wash (present tense of мыть)"
+ },
+ "дам": {
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "I will give (future of дать); also: of ladies (genitive plural of дама)"
+ },
+ "виду": {
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "view, sight (in set phrases): иметь в виду = to mean, to have in mind; ввиду = in view of"
+ },
+ "чтоб": {
+  "pos": "conj",
+  "posName": "conjunction",
+  "gloss": "so that, in order to (colloquial short form of чтобы)"
+ },
+ "ребят": {
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "guys, kids, lads (genitive plural of ребята)"
+ },
+ "домик": {
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "little house, cottage (diminutive of дом)"
+ },
+ "сможешь": {
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "you will be able to (future of смочь, the perfective of мочь)"
+ },
+ "придётся": {
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "it will be necessary, you will have to (future of прийтись): мне придётся = I will have to"
+ },
+ "жди": {
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "wait! (imperative of ждать)"
+ },
+ "актриса": {
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "actress"
+ },
+ "принцесса": {
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "princess"
+ },
+ "лена": {
+  "pos": "n",
+  "posName": "proper noun",
+  "gloss": "Lena (a female given name)"
+ },
+ "яна": {
+  "pos": "n",
+  "posName": "proper noun",
+  "gloss": "Yana (a female given name)"
+ },
+ "ростов": {
+  "pos": "n",
+  "posName": "proper noun",
+  "gloss": "Rostov (a city in Russia)"
+ },
+ "обл": {
+  "pos": "",
+  "posName": "abbreviation",
+  "gloss": "abbreviation of область: oblast, region"
+ },
+ "хватить": {
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to be enough, to suffice (хватит! = that's enough!); (colloquial) to grab, to snatch"
+ },
+ "вор": {
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "thief; (obsolete) traitor, outlaw"
+ },
+ "литва": {
+  "pos": "n",
+  "posName": "proper noun",
+  "gloss": "Lithuania"
+ },
+ "рождество": {
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "Christmas; (dated) birth, nativity"
+ }
+}

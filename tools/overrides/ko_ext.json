@@ -1,0 +1,3615 @@
+{
+  "_comment": "Hand edits for tools/extend_deck_korean.py (ranks 5001+ only). _drop removes a lemma; _add forces a lemma in with the given gloss/pos/posName (used for one-syllable words, which the extender otherwise rejects, and for words the dictionaries gloss badly); every other key overrides gloss / pos / posName / reading for that lemma.",
+  "_drop": [
+    "만하다",
+    "트럼프",
+    "아이폰",
+    "안드로이드",
+    "거시기",
+    "저게",
+    "야하다",
+    "아니야",
+    "표하다",
+    "아니하다",
+    "대가리",
+    "정자",
+    "인천공항",
+    "그렇지",
+    "동해",
+    "처먹다",
+    "장님",
+    "웨스턴",
+    "유태인",
+    "포켓몬",
+    "주한",
+    "영남",
+    "레알",
+    "서울시",
+    "치루다",
+    "강북",
+    "벙어리",
+    "콜린",
+    "불알",
+    "시방",
+    "국세청",
+    "바디",
+    "그제서야",
+    "헌데",
+    "천안",
+    "용인",
+    "쪽팔리다",
+    "월남",
+    "바울",
+    "세종대왕",
+    "문경"
+  ],
+  "_add": {
+    "일": {
+      "gloss": "work; matter, thing to do; day (of the month)",
+      "pos": "n",
+      "posName": "noun"
+    },
+    "년": {
+      "gloss": "year",
+      "pos": "n",
+      "posName": "bound noun"
+    },
+    "딸": {
+      "gloss": "daughter",
+      "pos": "n",
+      "posName": "noun"
+    },
+    "쪽": {
+      "gloss": "side, direction; page",
+      "pos": "n",
+      "posName": "noun"
+    },
+    "씨": {
+      "gloss": "Mr., Ms. (polite title after a name)",
+      "pos": "n",
+      "posName": "bound noun"
+    },
+    "각": {
+      "gloss": "each, every",
+      "pos": "det",
+      "posName": "determiner"
+    },
+    "및": {
+      "gloss": "and; as well as",
+      "pos": "conj",
+      "posName": "conjunction"
+    },
+    "외": {
+      "gloss": "other than, besides; outside",
+      "pos": "n",
+      "posName": "noun"
+    },
+    "건": {
+      "gloss": "matter, case, item",
+      "pos": "n",
+      "posName": "bound noun"
+    },
+    "암": {
+      "gloss": "cancer",
+      "pos": "n",
+      "posName": "noun"
+    },
+    "덜": {
+      "gloss": "less; not as much",
+      "pos": "adv",
+      "posName": "adverb"
+    },
+    "쥐": {
+      "gloss": "mouse, rat",
+      "pos": "n",
+      "posName": "noun"
+    },
+    "뼈": {
+      "gloss": "bone",
+      "pos": "n",
+      "posName": "noun"
+    },
+    "풀": {
+      "gloss": "grass; glue, paste",
+      "pos": "n",
+      "posName": "noun"
+    },
+    "질": {
+      "gloss": "quality",
+      "pos": "n",
+      "posName": "noun"
+    },
+    "금": {
+      "gloss": "gold; Friday (short for 금요일)",
+      "pos": "n",
+      "posName": "noun"
+    },
+    "종": {
+      "gloss": "kind, type; species; bell",
+      "pos": "n",
+      "posName": "noun"
+    },
+    "맨": {
+      "gloss": "the very; bare",
+      "pos": "det",
+      "posName": "determiner"
+    },
+    "현": {
+      "gloss": "current, present",
+      "pos": "det",
+      "posName": "determiner"
+    },
+    "탓": {
+      "gloss": "fault, blame; cause (of something bad)",
+      "pos": "n",
+      "posName": "bound noun"
+    },
+    "곡": {
+      "gloss": "song, piece of music",
+      "pos": "n",
+      "posName": "noun"
+    },
+    "꽤": {
+      "gloss": "fairly, quite, rather",
+      "pos": "adv",
+      "posName": "adverb"
+    },
+    "즉": {
+      "gloss": "that is, namely, in other words",
+      "pos": "adv",
+      "posName": "adverb"
+    },
+    "온": {
+      "gloss": "all, whole, entire",
+      "pos": "det",
+      "posName": "determiner"
+    },
+    "채": {
+      "gloss": "as it is, in the state of (bound noun)",
+      "pos": "n",
+      "posName": "bound noun"
+    },
+    "정": {
+      "gloss": "affection, attachment, feeling of closeness",
+      "pos": "n",
+      "posName": "noun"
+    },
+    "데": {
+      "gloss": "place; case, circumstance (bound noun)",
+      "pos": "n",
+      "posName": "bound noun"
+    },
+    "듯": {
+      "gloss": "as if, like; seemingly (bound noun)",
+      "pos": "n",
+      "posName": "bound noun"
+    },
+    "댐": {
+      "gloss": "dam",
+      "pos": "n",
+      "posName": "noun"
+    },
+    "늪": {
+      "gloss": "swamp, marsh",
+      "pos": "n",
+      "posName": "noun"
+    },
+    "덫": {
+      "gloss": "trap, snare",
+      "pos": "n",
+      "posName": "noun"
+    },
+    "넋": {
+      "gloss": "soul, spirit",
+      "pos": "n",
+      "posName": "noun"
+    },
+    "쇠": {
+      "gloss": "iron; metal",
+      "pos": "n",
+      "posName": "noun"
+    },
+    "뿔": {
+      "gloss": "horn, antler",
+      "pos": "n",
+      "posName": "noun"
+    },
+    "벼": {
+      "gloss": "rice plant",
+      "pos": "n",
+      "posName": "noun"
+    }
+  },
+  "끝내": {
+    "gloss": "finally, in the end; (with a negative) never",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "진행되다": {
+    "gloss": "to proceed; to be in progress"
+  },
+  "이러하다": {
+    "gloss": "to be like this; to be so"
+  },
+  "그러하다": {
+    "gloss": "to be like that; to be so"
+  },
+  "놓이다": {
+    "gloss": "to be placed; to be put (down)"
+  },
+  "인정하다": {
+    "gloss": "to acknowledge, to recognize; to admit"
+  },
+  "개발하다": {
+    "gloss": "to develop; to exploit"
+  },
+  "형님": {
+    "gloss": "older brother (respectful); wife's older brother"
+  },
+  "만족하다": {
+    "gloss": "to be satisfied, content"
+  },
+  "공개하다": {
+    "gloss": "to make public; to open to the public"
+  },
+  "불구하다": {
+    "gloss": "to disregard; (불구하고) in spite of"
+  },
+  "뒤지다": {
+    "gloss": "to rummage through; to fall behind"
+  },
+  "터뜨리다": {
+    "gloss": "to burst, to let burst; to burst out (laughing, crying)"
+  },
+  "구성되다": {
+    "gloss": "to be composed of, made up of"
+  },
+  "증가하다": {
+    "gloss": "to increase, to grow"
+  },
+  "농촌": {
+    "gloss": "farming village; countryside"
+  },
+  "판단하다": {
+    "gloss": "to judge; to decide"
+  },
+  "쏟아지다": {
+    "gloss": "to pour down; to spill out"
+  },
+  "더하다": {
+    "gloss": "to add; to be even more",
+    "pos": "v",
+    "posName": "verb"
+  },
+  "앞두다": {
+    "gloss": "to have (something) ahead; to be on the eve of"
+  },
+  "주어지다": {
+    "gloss": "to be given; to be provided"
+  },
+  "찍히다": {
+    "gloss": "to be photographed; to be stamped"
+  },
+  "세로": {
+    "gloss": "vertical direction; length"
+  },
+  "엉뚱하다": {
+    "gloss": "to be unexpected, outlandish; to be absurd"
+  },
+  "넘어서다": {
+    "gloss": "to go beyond, to exceed; to cross over"
+  },
+  "성공적": {
+    "gloss": "successful"
+  },
+  "이뤄지다": {
+    "gloss": "to be achieved, to come true; to be made up of"
+  },
+  "보람": {
+    "gloss": "worth, reward (of effort); sense of fulfillment"
+  },
+  "이사장": {
+    "gloss": "chairman (of a board of directors)"
+  },
+  "덧붙이다": {
+    "gloss": "to add on, to append"
+  },
+  "담그다": {
+    "gloss": "to soak, to immerse; to pickle (kimchi)"
+  },
+  "상당하다": {
+    "gloss": "to be considerable; to be equivalent to"
+  },
+  "사실상": {
+    "gloss": "in fact, de facto; virtually"
+  },
+  "일대": {
+    "gloss": "whole area, vicinity"
+  },
+  "무용": {
+    "gloss": "dance; uselessness"
+  },
+  "헛소리": {
+    "gloss": "nonsense, baloney"
+  },
+  "국기": {
+    "gloss": "national flag; national sport"
+  },
+  "개성": {
+    "gloss": "individuality, personality, character"
+  },
+  "컬러": {
+    "gloss": "color"
+  },
+  "조르다": {
+    "gloss": "to pester, to nag; to tighten, to strangle"
+  },
+  "운행": {
+    "gloss": "operation (of a vehicle, service); movement"
+  },
+  "끊어지다": {
+    "gloss": "to be cut off, to snap; to come to an end"
+  },
+  "대규모": {
+    "gloss": "large scale"
+  },
+  "동경": {
+    "gloss": "yearning, longing"
+  },
+  "장난하다": {
+    "gloss": "to play around; to joke"
+  },
+  "요인": {
+    "gloss": "factor, main cause"
+  },
+  "봉지": {
+    "gloss": "bag, pouch"
+  },
+  "대응하다": {
+    "gloss": "to respond to, to cope with; to correspond to"
+  },
+  "익히다": {
+    "gloss": "to cook thoroughly; to master, to get used to"
+  },
+  "수명": {
+    "gloss": "lifespan"
+  },
+  "날아오다": {
+    "gloss": "to come flying; to fly over (toward here)"
+  },
+  "색상": {
+    "gloss": "color, hue"
+  },
+  "전후": {
+    "gloss": "before and after; postwar"
+  },
+  "본격적": {
+    "gloss": "full-scale, in earnest"
+  },
+  "유사하다": {
+    "gloss": "to be similar, alike"
+  },
+  "연기하다": {
+    "gloss": "to postpone, to put off; to perform (act)"
+  },
+  "꾸리다": {
+    "gloss": "to pack, to bundle; to run (a household)"
+  },
+  "송이": {
+    "gloss": "bunch, cluster (of flowers, grapes)"
+  },
+  "횟수": {
+    "gloss": "number of times, frequency"
+  },
+  "튀어나오다": {
+    "gloss": "to jump out, to pop out; to protrude"
+  },
+  "비중": {
+    "gloss": "proportion, weight; specific gravity"
+  },
+  "직접적": {
+    "gloss": "direct, immediate"
+  },
+  "현실적": {
+    "gloss": "realistic; practical"
+  },
+  "명의": {
+    "gloss": "name (on a document); title (of ownership)"
+  },
+  "추진하다": {
+    "gloss": "to push forward, to promote"
+  },
+  "고소하다": {
+    "gloss": "to sue, to file a complaint"
+  },
+  "위주": {
+    "gloss": "focus, main emphasis; (위주로) centered on"
+  },
+  "커뮤니티": {
+    "gloss": "community"
+  },
+  "강화하다": {
+    "gloss": "to strengthen, to reinforce"
+  },
+  "재우다": {
+    "gloss": "to put to sleep; to let stay overnight"
+  },
+  "여고생": {
+    "gloss": "high school girl"
+  },
+  "상당": {
+    "gloss": "considerable; equivalent to"
+  },
+  "선전": {
+    "gloss": "propaganda; advertising"
+  },
+  "지대": {
+    "gloss": "region, zone, area"
+  },
+  "착각하다": {
+    "gloss": "to be mistaken; to misjudge"
+  },
+  "기울이다": {
+    "gloss": "to tilt, to lean; to devote (attention)"
+  },
+  "그간": {
+    "gloss": "meantime, the while"
+  },
+  "밥맛": {
+    "gloss": "appetite; taste of cooked rice"
+  },
+  "높아지다": {
+    "gloss": "to become higher; to rise"
+  },
+  "인수": {
+    "gloss": "takeover, acquisition; handover"
+  },
+  "도심": {
+    "gloss": "city center, downtown"
+  },
+  "상당수": {
+    "gloss": "a considerable number"
+  },
+  "가꾸다": {
+    "gloss": "to cultivate, to tend; to groom"
+  },
+  "물가": {
+    "gloss": "prices (cost of living); water's edge"
+  },
+  "장애인": {
+    "gloss": "person with a disability"
+  },
+  "근본적": {
+    "gloss": "fundamental, basic"
+  },
+  "왼발": {
+    "gloss": "left foot"
+  },
+  "효율적": {
+    "gloss": "efficient"
+  },
+  "쫓겨나다": {
+    "gloss": "to be kicked out, to be driven away"
+  },
+  "따지다": {
+    "gloss": "to question, to press for answers; to weigh up"
+  },
+  "이중": {
+    "gloss": "double, dual"
+  },
+  "흥분하다": {
+    "gloss": "to get excited; to get worked up"
+  },
+  "가치관": {
+    "gloss": "values, sense of values"
+  },
+  "발표되다": {
+    "gloss": "to be announced; to be published"
+  },
+  "실천": {
+    "gloss": "practice, putting into practice"
+  },
+  "장기간": {
+    "gloss": "long period"
+  },
+  "달려들다": {
+    "gloss": "to rush at, to pounce on"
+  },
+  "다지다": {
+    "gloss": "to firm up, to strengthen; to mince"
+  },
+  "진보": {
+    "gloss": "progress; progressive (politics)"
+  },
+  "일시적": {
+    "gloss": "temporary"
+  },
+  "지시하다": {
+    "gloss": "to instruct, to direct"
+  },
+  "방면": {
+    "gloss": "direction, area; field"
+  },
+  "신설": {
+    "gloss": "new establishment, newly set up"
+  },
+  "맞은편": {
+    "gloss": "opposite side"
+  },
+  "대처하다": {
+    "gloss": "to deal with, to cope with"
+  },
+  "아이디": {
+    "gloss": "ID, username"
+  },
+  "급격히": {
+    "gloss": "rapidly, suddenly"
+  },
+  "손잡다": {
+    "gloss": "to hold hands; to join hands"
+  },
+  "연하다": {
+    "gloss": "to be tender, soft; to be light (of color)"
+  },
+  "공정": {
+    "gloss": "fairness; process (of production)"
+  },
+  "맛보다": {
+    "gloss": "to taste, to try"
+  },
+  "매출": {
+    "gloss": "sales, revenue"
+  },
+  "속상하다": {
+    "gloss": "to be upset, distressed"
+  },
+  "교양": {
+    "gloss": "culture, refinement; liberal education"
+  },
+  "묶이다": {
+    "gloss": "to be tied, bound"
+  },
+  "산속": {
+    "gloss": "in the mountains, deep in the mountains"
+  },
+  "년도": {
+    "gloss": "year (fiscal, academic)"
+  },
+  "결승": {
+    "gloss": "final (of a competition)"
+  },
+  "의지하다": {
+    "gloss": "to rely on, to depend on; to lean on"
+  },
+  "올려놓다": {
+    "gloss": "to put up, to place on top"
+  },
+  "수상자": {
+    "gloss": "award winner"
+  },
+  "밝혀내다": {
+    "gloss": "to find out, to uncover"
+  },
+  "삼키다": {
+    "gloss": "to swallow; to hold back (emotion)"
+  },
+  "띠다": {
+    "gloss": "to take on, to have (a color, quality); to carry"
+  },
+  "깨우다": {
+    "gloss": "to wake (someone) up"
+  },
+  "임기": {
+    "gloss": "term of office"
+  },
+  "들어서다": {
+    "gloss": "to enter, to step in; to set in"
+  },
+  "안주": {
+    "gloss": "food eaten with alcohol; settling (in a place)"
+  },
+  "시중": {
+    "gloss": "the market, the public (as in 시중에); waiting on"
+  },
+  "초보": {
+    "gloss": "beginner; first step"
+  },
+  "감상하다": {
+    "gloss": "to appreciate (art, music); to enjoy"
+  },
+  "가만있다": {
+    "gloss": "to stay still; to keep quiet"
+  },
+  "명령어": {
+    "gloss": "command (computing); command word"
+  },
+  "학점": {
+    "gloss": "academic credit"
+  },
+  "들려오다": {
+    "gloss": "to be heard (coming from afar)"
+  },
+  "급여": {
+    "gloss": "pay, salary; benefits"
+  },
+  "억울하다": {
+    "gloss": "to feel wronged, to feel unfairly treated"
+  },
+  "제사": {
+    "gloss": "ancestral memorial rite"
+  },
+  "중계": {
+    "gloss": "relay; live broadcast"
+  },
+  "근거하다": {
+    "gloss": "to be based on"
+  },
+  "전세": {
+    "gloss": "jeonse (deposit-based rental system); charter"
+  },
+  "반발": {
+    "gloss": "backlash, resistance"
+  },
+  "짖다": {
+    "gloss": "to bark; to howl"
+  },
+  "전주": {
+    "gloss": "previous week; utility pole"
+  },
+  "개개인": {
+    "gloss": "each individual"
+  },
+  "설레다": {
+    "gloss": "to be excited, fluttery; to be thrilled"
+  },
+  "나물": {
+    "gloss": "seasoned wild greens, vegetables"
+  },
+  "극복": {
+    "gloss": "overcoming"
+  },
+  "넘어오다": {
+    "gloss": "to come over, to cross over"
+  },
+  "전문적": {
+    "gloss": "specialized, professional"
+  },
+  "월세": {
+    "gloss": "monthly rent"
+  },
+  "공연장": {
+    "gloss": "performance venue, theater"
+  },
+  "예선": {
+    "gloss": "preliminary round"
+  },
+  "이곳저곳": {
+    "gloss": "here and there"
+  },
+  "자가용": {
+    "gloss": "private car; privately owned"
+  },
+  "무리하다": {
+    "gloss": "to overdo it; to be unreasonable"
+  },
+  "오피스텔": {
+    "gloss": "officetel (studio apartment)"
+  },
+  "이념": {
+    "gloss": "ideology; ideal"
+  },
+  "중부": {
+    "gloss": "central region"
+  },
+  "진행자": {
+    "gloss": "host, MC; anchor"
+  },
+  "반기다": {
+    "gloss": "to welcome, to greet warmly",
+    "pos": "v",
+    "posName": "verb"
+  },
+  "받침": {
+    "gloss": "support, base; final consonant (batchim)"
+  },
+  "와이파이": {
+    "gloss": "Wi-Fi"
+  },
+  "섭씨": {
+    "gloss": "Celsius"
+  },
+  "여대생": {
+    "gloss": "female college student"
+  },
+  "많아지다": {
+    "gloss": "to increase, to become more numerous"
+  },
+  "후보자": {
+    "gloss": "candidate"
+  },
+  "학회": {
+    "gloss": "academic society, conference"
+  },
+  "꼽히다": {
+    "gloss": "to be counted, to be ranked among"
+  },
+  "앉히다": {
+    "gloss": "to seat; to make (someone) sit"
+  },
+  "전형적": {
+    "gloss": "typical"
+  },
+  "엉터리": {
+    "gloss": "nonsense, sloppy work; fake"
+  },
+  "추구하다": {
+    "gloss": "to pursue, to seek"
+  },
+  "영문": {
+    "gloss": "English text; reason, circumstances"
+  },
+  "관람": {
+    "gloss": "viewing (a show, exhibit)"
+  },
+  "정기적": {
+    "gloss": "regular, periodic"
+  },
+  "넘겨주다": {
+    "gloss": "to hand over"
+  },
+  "발행": {
+    "gloss": "issue, publication"
+  },
+  "독하다": {
+    "gloss": "to be strong, potent; to be harsh"
+  },
+  "만만하다": {
+    "gloss": "to be easy to deal with, to be a pushover"
+  },
+  "절대적": {
+    "gloss": "absolute"
+  },
+  "타고나다": {
+    "gloss": "to be born with, to be innate"
+  },
+  "실행하다": {
+    "gloss": "to carry out, to execute"
+  },
+  "빼앗기다": {
+    "gloss": "to have (something) taken away"
+  },
+  "향후": {
+    "gloss": "from now on, in the future"
+  },
+  "조개": {
+    "gloss": "clam, shellfish"
+  },
+  "앵커": {
+    "gloss": "anchor (news)"
+  },
+  "탤런트": {
+    "gloss": "TV actor, TV actress"
+  },
+  "도서": {
+    "gloss": "books, publications; islands"
+  },
+  "예정되다": {
+    "gloss": "to be scheduled, planned"
+  },
+  "차림": {
+    "gloss": "outfit, attire; spread (of food)"
+  },
+  "입사": {
+    "gloss": "joining a company"
+  },
+  "법령": {
+    "gloss": "laws and regulations"
+  },
+  "이달": {
+    "gloss": "this month"
+  },
+  "시내버스": {
+    "gloss": "city bus"
+  },
+  "구절": {
+    "gloss": "phrase, passage, verse"
+  },
+  "말기": {
+    "gloss": "final stage, last period; terminal (illness)"
+  },
+  "살림": {
+    "gloss": "housekeeping, household; livelihood"
+  },
+  "관계없이": {
+    "gloss": "regardless"
+  },
+  "단편": {
+    "gloss": "short story; fragment"
+  },
+  "체계적": {
+    "gloss": "systematic"
+  },
+  "두어": {
+    "gloss": "a couple of, two or so"
+  },
+  "정규": {
+    "gloss": "regular, standard (e.g., a regular course)"
+  },
+  "지껄이다": {
+    "gloss": "to babble, to chatter"
+  },
+  "늘어지다": {
+    "gloss": "to sag, to droop; to stretch out"
+  },
+  "국산": {
+    "gloss": "domestic product, made in Korea"
+  },
+  "육상": {
+    "gloss": "land; track and field"
+  },
+  "특유": {
+    "gloss": "peculiar, characteristic"
+  },
+  "학술": {
+    "gloss": "scholarship, academic study"
+  },
+  "천지": {
+    "gloss": "heaven and earth; the world"
+  },
+  "분리되다": {
+    "gloss": "to be separated"
+  },
+  "읽히다": {
+    "gloss": "to be read; to have (someone) read"
+  },
+  "가져다주다": {
+    "gloss": "to bring (to someone)"
+  },
+  "별다르다": {
+    "gloss": "to be special, different"
+  },
+  "종교적": {
+    "gloss": "religious"
+  },
+  "국내외": {
+    "gloss": "domestic and foreign"
+  },
+  "다녀가다": {
+    "gloss": "to drop by, to visit briefly"
+  },
+  "사립": {
+    "gloss": "private (school, institution)"
+  },
+  "전국적": {
+    "gloss": "nationwide"
+  },
+  "앞날": {
+    "gloss": "future, days ahead"
+  },
+  "향상되다": {
+    "gloss": "to improve, to be enhanced"
+  },
+  "다정하다": {
+    "gloss": "to be affectionate, warm"
+  },
+  "당선": {
+    "gloss": "winning an election"
+  },
+  "평상시": {
+    "gloss": "normal times, usual times"
+  },
+  "어긋나다": {
+    "gloss": "to go wrong, to be at odds; to miss each other"
+  },
+  "차마": {
+    "gloss": "(with a negative) cannot bring oneself to"
+  },
+  "결과적": {
+    "gloss": "resulting, consequent"
+  },
+  "찾아다니다": {
+    "gloss": "to go around looking for, to seek out"
+  },
+  "몰려오다": {
+    "gloss": "to come in crowds, to swarm in"
+  },
+  "주체": {
+    "gloss": "main agent, subject"
+  },
+  "골고루": {
+    "gloss": "evenly, equally"
+  },
+  "단골": {
+    "gloss": "regular customer; regular (shop, place)"
+  },
+  "힘겹다": {
+    "gloss": "to be tough, to be hard to bear"
+  },
+  "의도적": {
+    "gloss": "intentional, deliberate"
+  },
+  "봉사하다": {
+    "gloss": "to serve; to volunteer"
+  },
+  "정성": {
+    "gloss": "devotion, sincerity, utmost effort"
+  },
+  "이상적": {
+    "gloss": "ideal"
+  },
+  "교내": {
+    "gloss": "on campus, within the school"
+  },
+  "자취": {
+    "gloss": "trace, mark; living on one's own"
+  },
+  "발등": {
+    "gloss": "top of the foot, instep"
+  },
+  "반역자": {
+    "gloss": "traitor, rebel"
+  },
+  "시청률": {
+    "gloss": "viewership rating, ratings"
+  },
+  "확산되다": {
+    "gloss": "to spread"
+  },
+  "소문나다": {
+    "gloss": "to become widely known, to be rumored"
+  },
+  "헷갈리다": {
+    "gloss": "to be confused, to get mixed up"
+  },
+  "메우다": {
+    "gloss": "to fill (in), to plug; to fill up"
+  },
+  "구호": {
+    "gloss": "relief (aid); slogan"
+  },
+  "해소": {
+    "gloss": "relief, resolution (of a problem)"
+  },
+  "인간적": {
+    "gloss": "human; humane"
+  },
+  "사업자": {
+    "gloss": "business owner, operator"
+  },
+  "고시": {
+    "gloss": "state exam (civil service, bar); public notice"
+  },
+  "고지": {
+    "gloss": "highland, high ground; notification"
+  },
+  "구축하다": {
+    "gloss": "to build, to construct"
+  },
+  "쓸데없이": {
+    "gloss": "uselessly, needlessly"
+  },
+  "올라타다": {
+    "gloss": "to get on, to climb onto"
+  },
+  "안팎": {
+    "gloss": "inside and outside; about, around (a number)"
+  },
+  "기원전": {
+    "gloss": "B.C., before the common era"
+  },
+  "어린이날": {
+    "gloss": "Children's Day (May 5)"
+  },
+  "졸리다": {
+    "gloss": "to feel sleepy"
+  },
+  "공연하다": {
+    "gloss": "to perform (on stage)"
+  },
+  "삼가다": {
+    "gloss": "to refrain from; to be careful about"
+  },
+  "어쩌다가": {
+    "gloss": "by chance; once in a while"
+  },
+  "두르다": {
+    "gloss": "to wrap around, to put on; to surround"
+  },
+  "유독": {
+    "gloss": "especially, particularly; toxic"
+  },
+  "부류": {
+    "gloss": "type, category"
+  },
+  "바가지": {
+    "gloss": "gourd dipper; rip-off price"
+  },
+  "고인": {
+    "gloss": "the deceased"
+  },
+  "공적": {
+    "gloss": "public, official; meritorious deed"
+  },
+  "다양성": {
+    "gloss": "diversity"
+  },
+  "늘어놓다": {
+    "gloss": "to spread out, to lay out; to go on and on about"
+  },
+  "특급": {
+    "gloss": "express (train); special class"
+  },
+  "일상적": {
+    "gloss": "everyday, routine"
+  },
+  "일회용": {
+    "gloss": "disposable, single-use"
+  },
+  "사단": {
+    "gloss": "(military) division"
+  },
+  "문득": {
+    "gloss": "suddenly, all of a sudden (of a thought)",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "임하다": {
+    "gloss": "to attend; to face, to deal with"
+  },
+  "육체적": {
+    "gloss": "physical, bodily"
+  },
+  "차남": {
+    "gloss": "second son"
+  },
+  "거들다": {
+    "gloss": "to help out, to lend a hand"
+  },
+  "제정": {
+    "gloss": "enactment, establishment (of a law)"
+  },
+  "깊숙이": {
+    "gloss": "deeply, far inside"
+  },
+  "가슴속": {
+    "gloss": "in one's heart, deep inside"
+  },
+  "실감": {
+    "gloss": "realization, sense of reality"
+  },
+  "떨치다": {
+    "gloss": "to shake off; to make (a name) famous"
+  },
+  "위험성": {
+    "gloss": "riskiness, danger"
+  },
+  "급속히": {
+    "gloss": "rapidly"
+  },
+  "달리기": {
+    "gloss": "running; a race"
+  },
+  "연출하다": {
+    "gloss": "to direct (a play, film); to stage"
+  },
+  "준비물": {
+    "gloss": "things to prepare, required items"
+  },
+  "이해관계": {
+    "gloss": "interests, stake"
+  },
+  "당사자": {
+    "gloss": "the person concerned; party (to a case)"
+  },
+  "자질": {
+    "gloss": "qualities, aptitude"
+  },
+  "음식물": {
+    "gloss": "food, food items"
+  },
+  "내려지다": {
+    "gloss": "to be handed down (a decision); to be lowered"
+  },
+  "모집하다": {
+    "gloss": "to recruit; to collect"
+  },
+  "뒷산": {
+    "gloss": "hill behind the house or village"
+  },
+  "계열": {
+    "gloss": "affiliation, line; series"
+  },
+  "까불다": {
+    "gloss": "to act cheeky, to fool around"
+  },
+  "옷차림": {
+    "gloss": "attire, outfit"
+  },
+  "차장": {
+    "gloss": "deputy head; (bus, train) conductor"
+  },
+  "가로막다": {
+    "gloss": "to block, to obstruct; to interrupt"
+  },
+  "좁히다": {
+    "gloss": "to narrow, to reduce (a gap)"
+  },
+  "고가": {
+    "gloss": "high price; overpass"
+  },
+  "실현되다": {
+    "gloss": "to be realized, to come true"
+  },
+  "듯하다": {
+    "gloss": "to seem, to look like (auxiliary)"
+  },
+  "멍멍": {
+    "gloss": "woof woof (a dog's bark)"
+  },
+  "간직하다": {
+    "gloss": "to keep, to cherish"
+  },
+  "배출": {
+    "gloss": "discharge, emission; producing (graduates)"
+  },
+  "으응": {
+    "gloss": "uh-huh (informal yes)"
+  },
+  "출퇴근": {
+    "gloss": "commuting (to and from work)"
+  },
+  "재학": {
+    "gloss": "being enrolled (in school)"
+  },
+  "못지않다": {
+    "gloss": "to be no less than, to be just as good as"
+  },
+  "오락": {
+    "gloss": "entertainment, amusement"
+  },
+  "반성하다": {
+    "gloss": "to reflect on oneself, to repent"
+  },
+  "동문": {
+    "gloss": "alumnus (of the same school)"
+  },
+  "정리되다": {
+    "gloss": "to be organized, tidied up"
+  },
+  "표기": {
+    "gloss": "notation, spelling, writing (in a script)"
+  },
+  "일환": {
+    "gloss": "part (of a larger effort), link"
+  },
+  "공약": {
+    "gloss": "pledge, campaign promise"
+  },
+  "새우다": {
+    "gloss": "to stay up all night"
+  },
+  "배려": {
+    "gloss": "consideration, thoughtfulness"
+  },
+  "감수성": {
+    "gloss": "sensitivity, sensibility"
+  },
+  "협약": {
+    "gloss": "agreement, convention (treaty)"
+  },
+  "배신자": {
+    "gloss": "traitor, betrayer"
+  },
+  "갖가지": {
+    "gloss": "all kinds of"
+  },
+  "내역": {
+    "gloss": "details, breakdown (of expenses)"
+  },
+  "한심하다": {
+    "gloss": "to be pathetic, deplorable"
+  },
+  "농도": {
+    "gloss": "concentration, density"
+  },
+  "체하다": {
+    "gloss": "to pretend; to have indigestion"
+  },
+  "올라서다": {
+    "gloss": "to step up onto, to climb up"
+  },
+  "정신없이": {
+    "gloss": "frantically, in a daze; without thinking"
+  },
+  "개편": {
+    "gloss": "reorganization, restructuring"
+  },
+  "기원하다": {
+    "gloss": "to pray for, to wish; to originate"
+  },
+  "딱지": {
+    "gloss": "scab; paper card (children's game); ticket (fine)"
+  },
+  "파장": {
+    "gloss": "wavelength; ripple effect"
+  },
+  "실태": {
+    "gloss": "actual state, real situation"
+  },
+  "신종": {
+    "gloss": "new type, new variety"
+  },
+  "성자": {
+    "gloss": "saint; God the Son"
+  },
+  "아쉬움": {
+    "gloss": "regret, disappointment"
+  },
+  "유치": {
+    "gloss": "attracting (investment, events)"
+  },
+  "심의": {
+    "gloss": "deliberation, review"
+  },
+  "거르다": {
+    "gloss": "to skip (a meal); to filter, to strain"
+  },
+  "고수": {
+    "gloss": "expert, master; cilantro"
+  },
+  "흥행": {
+    "gloss": "box-office performance; commercial run"
+  },
+  "유서": {
+    "gloss": "note left before death; will"
+  },
+  "탈락": {
+    "gloss": "elimination, dropping out"
+  },
+  "학사": {
+    "gloss": "bachelor's degree"
+  },
+  "서기": {
+    "gloss": "A.D. (Christian era); clerk"
+  },
+  "선의": {
+    "gloss": "good faith, goodwill"
+  },
+  "관문": {
+    "gloss": "gateway, checkpoint"
+  },
+  "날뛰다": {
+    "gloss": "to run wild, to rampage; to leap about"
+  },
+  "수습": {
+    "gloss": "managing, getting under control; probation (trainee)"
+  },
+  "개봉하다": {
+    "gloss": "to release (a film); to open (a seal)"
+  },
+  "거래소": {
+    "gloss": "(stock) exchange"
+  },
+  "낱말": {
+    "gloss": "word"
+  },
+  "손뼉": {
+    "gloss": "palm; (손뼉을 치다) to clap"
+  },
+  "재배": {
+    "gloss": "cultivation, growing"
+  },
+  "파기": {
+    "gloss": "annulment, cancellation; breaking (a contract)"
+  },
+  "사거리": {
+    "gloss": "four-way intersection"
+  },
+  "개신교": {
+    "gloss": "Protestantism"
+  },
+  "비행장": {
+    "gloss": "airfield"
+  },
+  "미세": {
+    "gloss": "minute, fine (tiny)"
+  },
+  "송편": {
+    "gloss": "songpyeon (half-moon rice cake)"
+  },
+  "하프": {
+    "gloss": "harp; half"
+  },
+  "무명": {
+    "gloss": "obscurity; anonymous"
+  },
+  "산불": {
+    "gloss": "wildfire, forest fire"
+  },
+  "개수": {
+    "gloss": "count, number (of items)"
+  },
+  "진영": {
+    "gloss": "camp, side (political); barracks"
+  },
+  "무너뜨리다": {
+    "gloss": "to knock down, to demolish; to destroy"
+  },
+  "일손": {
+    "gloss": "workers, labor; work to be done"
+  },
+  "공통적": {
+    "gloss": "common, shared"
+  },
+  "독창적": {
+    "gloss": "original, creative"
+  },
+  "임의": {
+    "gloss": "arbitrary, random; discretionary"
+  },
+  "피고인": {
+    "gloss": "defendant, the accused"
+  },
+  "방침": {
+    "gloss": "policy, course of action"
+  },
+  "돌려보내다": {
+    "gloss": "to send back"
+  },
+  "하나씩": {
+    "gloss": "one by one, one each",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "집중적": {
+    "gloss": "intensive, concentrated"
+  },
+  "총선": {
+    "gloss": "general election"
+  },
+  "획득": {
+    "gloss": "acquisition, obtaining"
+  },
+  "출발점": {
+    "gloss": "starting point"
+  },
+  "선하다": {
+    "gloss": "to be vivid (in memory); to be good, kind"
+  },
+  "원형": {
+    "gloss": "circle shape; original form, prototype"
+  },
+  "수립": {
+    "gloss": "establishment, formulation (of a plan, government)"
+  },
+  "전문직": {
+    "gloss": "professional occupation"
+  },
+  "위상": {
+    "gloss": "standing, status; phase"
+  },
+  "물질적": {
+    "gloss": "material, physical"
+  },
+  "형식적": {
+    "gloss": "formal, perfunctory"
+  },
+  "감염되다": {
+    "gloss": "to be infected"
+  },
+  "단원": {
+    "gloss": "unit (of a textbook); member (of a group)"
+  },
+  "시간대": {
+    "gloss": "time period; time zone"
+  },
+  "필연적": {
+    "gloss": "inevitable, necessary"
+  },
+  "대강": {
+    "gloss": "roughly, more or less; outline",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "문제되다": {
+    "gloss": "to become a problem, to be at issue"
+  },
+  "신문지": {
+    "gloss": "newsprint, newspaper (paper)"
+  },
+  "타오르다": {
+    "gloss": "to blaze, to burn up"
+  },
+  "해소하다": {
+    "gloss": "to resolve, to relieve (stress); to dissolve"
+  },
+  "굳히다": {
+    "gloss": "to harden; to firm up"
+  },
+  "고함": {
+    "gloss": "shout, yell"
+  },
+  "몸속": {
+    "gloss": "inside the body"
+  },
+  "주주": {
+    "gloss": "shareholder"
+  },
+  "상장": {
+    "gloss": "stock listing; award certificate"
+  },
+  "내뱉다": {
+    "gloss": "to spit out; to blurt out"
+  },
+  "똑똑히": {
+    "gloss": "clearly, distinctly"
+  },
+  "기초적": {
+    "gloss": "basic, fundamental"
+  },
+  "설정하다": {
+    "gloss": "to set up, to establish"
+  },
+  "비리": {
+    "gloss": "corruption, wrongdoing"
+  },
+  "엇갈리다": {
+    "gloss": "to cross paths, to miss each other; to be divided (opinions)"
+  },
+  "소극적": {
+    "gloss": "passive, negative"
+  },
+  "산하": {
+    "gloss": "under the control of, affiliated; mountains and rivers"
+  },
+  "지지율": {
+    "gloss": "approval rating"
+  },
+  "원주민": {
+    "gloss": "native, indigenous people"
+  },
+  "별개": {
+    "gloss": "separate matter, distinct"
+  },
+  "중점": {
+    "gloss": "focus, emphasis"
+  },
+  "수용": {
+    "gloss": "acceptance; accommodation (of people)"
+  },
+  "땅속": {
+    "gloss": "underground"
+  },
+  "초조하다": {
+    "gloss": "to be anxious, on edge"
+  },
+  "끌어들이다": {
+    "gloss": "to draw in, to attract; to involve"
+  },
+  "야단": {
+    "gloss": "fuss, uproar; scolding"
+  },
+  "주최": {
+    "gloss": "hosting, organizing (an event)"
+  },
+  "간접적": {
+    "gloss": "indirect"
+  },
+  "체결하다": {
+    "gloss": "to conclude (a contract, treaty)"
+  },
+  "행정부": {
+    "gloss": "executive branch"
+  },
+  "수술하다": {
+    "gloss": "to perform surgery"
+  },
+  "지연": {
+    "gloss": "delay"
+  },
+  "행보": {
+    "gloss": "step, course of action; walk"
+  },
+  "기술적": {
+    "gloss": "technical"
+  },
+  "경위": {
+    "gloss": "course of events, circumstances"
+  },
+  "군수": {
+    "gloss": "military supplies; county head"
+  },
+  "새소리": {
+    "gloss": "birdsong"
+  },
+  "선진": {
+    "gloss": "advanced, developed"
+  },
+  "발길": {
+    "gloss": "footsteps, step; kick"
+  },
+  "상대편": {
+    "gloss": "the other side, opponent"
+  },
+  "국민적": {
+    "gloss": "national, popular"
+  },
+  "엉망진창": {
+    "gloss": "a total mess"
+  },
+  "정착": {
+    "gloss": "settling down, taking root"
+  },
+  "관측": {
+    "gloss": "observation (of natural phenomena); forecast"
+  },
+  "스프링": {
+    "gloss": "spring (coil); spring (season)"
+  },
+  "이치": {
+    "gloss": "principle, reason, logic"
+  },
+  "제한되다": {
+    "gloss": "to be limited, restricted"
+  },
+  "관계되다": {
+    "gloss": "to be related to, to concern"
+  },
+  "묘하다": {
+    "gloss": "to be strange, odd; to be subtle"
+  },
+  "밀어붙이다": {
+    "gloss": "to push through, to push hard; to bulldoze"
+  },
+  "과실": {
+    "gloss": "fault, negligence; fruit"
+  },
+  "동화책": {
+    "gloss": "storybook, fairy-tale book"
+  },
+  "이력": {
+    "gloss": "career history, background"
+  },
+  "제치다": {
+    "gloss": "to get past, to beat; to set aside"
+  },
+  "희미하다": {
+    "gloss": "to be faint, dim",
+    "pos": "adj",
+    "posName": "adjective"
+  },
+  "압축": {
+    "gloss": "compression"
+  },
+  "원정": {
+    "gloss": "expedition; away (game)"
+  },
+  "풀려나다": {
+    "gloss": "to be released, freed"
+  },
+  "수동적": {
+    "gloss": "passive"
+  },
+  "완료되다": {
+    "gloss": "to be completed"
+  },
+  "집착하다": {
+    "gloss": "to be obsessed with, to cling to"
+  },
+  "복음": {
+    "gloss": "gospel; good news"
+  },
+  "출현하다": {
+    "gloss": "to appear, to emerge"
+  },
+  "태양광": {
+    "gloss": "solar light, solar power"
+  },
+  "치수": {
+    "gloss": "size, measurements"
+  },
+  "저하": {
+    "gloss": "decline, deterioration"
+  },
+  "써먹다": {
+    "gloss": "to make use of, to put to use"
+  },
+  "검토하다": {
+    "gloss": "to review, to examine"
+  },
+  "교단": {
+    "gloss": "podium; religious order"
+  },
+  "복귀하다": {
+    "gloss": "to return, to be restored"
+  },
+  "성도": {
+    "gloss": "(Christian) believer, saint"
+  },
+  "호출하다": {
+    "gloss": "to call, to summon"
+  },
+  "날아다니다": {
+    "gloss": "to fly around"
+  },
+  "도전하다": {
+    "gloss": "to challenge; to attempt"
+  },
+  "창립": {
+    "gloss": "founding (of an organization)"
+  },
+  "원서": {
+    "gloss": "application form; original text"
+  },
+  "수용하다": {
+    "gloss": "to accept; to accommodate"
+  },
+  "청문회": {
+    "gloss": "public hearing"
+  },
+  "생성하다": {
+    "gloss": "to generate, to create"
+  },
+  "능동적": {
+    "gloss": "active, proactive"
+  },
+  "임원": {
+    "gloss": "executive, officer (of a company)"
+  },
+  "들이대다": {
+    "gloss": "to thrust (something) at; to push up close"
+  },
+  "건립": {
+    "gloss": "construction, erecting (a building, monument)"
+  },
+  "곧잘": {
+    "gloss": "quite well; often"
+  },
+  "자발적": {
+    "gloss": "voluntary, spontaneous"
+  },
+  "연기되다": {
+    "gloss": "to be postponed"
+  },
+  "수장": {
+    "gloss": "head, chief (of an organization)"
+  },
+  "소지": {
+    "gloss": "possession, carrying (of an item)"
+  },
+  "불러오다": {
+    "gloss": "to call in, to bring over; to load (data)"
+  },
+  "사무직": {
+    "gloss": "office work, white-collar job"
+  },
+  "해보다": {
+    "gloss": "to try (doing)"
+  },
+  "채권": {
+    "gloss": "bond; claim (credit)"
+  },
+  "주지사": {
+    "gloss": "governor (of a state)"
+  },
+  "언론사": {
+    "gloss": "media company, news organization"
+  },
+  "헤치다": {
+    "gloss": "to push aside, to make one's way through"
+  },
+  "건설되다": {
+    "gloss": "to be built"
+  },
+  "프리미엄": {
+    "gloss": "premium"
+  },
+  "학업": {
+    "gloss": "studies, schoolwork"
+  },
+  "하락": {
+    "gloss": "decline, fall (in price, rank)"
+  },
+  "적어지다": {
+    "gloss": "to decrease, to become less"
+  },
+  "명확히": {
+    "gloss": "clearly, precisely"
+  },
+  "관여하다": {
+    "gloss": "to be involved in, to have a hand in"
+  },
+  "경호": {
+    "gloss": "bodyguarding, security escort"
+  },
+  "우승자": {
+    "gloss": "champion, winner"
+  },
+  "번거롭다": {
+    "gloss": "to be troublesome, cumbersome"
+  },
+  "기성": {
+    "gloss": "ready-made; established"
+  },
+  "얽히다": {
+    "gloss": "to be entangled, tangled up"
+  },
+  "상단": {
+    "gloss": "upper part, top"
+  },
+  "지부": {
+    "gloss": "branch, local chapter"
+  },
+  "중복": {
+    "gloss": "duplication, overlap"
+  },
+  "비참하다": {
+    "gloss": "to be miserable, wretched"
+  },
+  "호소하다": {
+    "gloss": "to appeal to; to complain of"
+  },
+  "들어주다": {
+    "gloss": "to listen to; to grant (a request)"
+  },
+  "동감": {
+    "gloss": "agreement, sharing the same feeling"
+  },
+  "상승하다": {
+    "gloss": "to rise, to go up"
+  },
+  "험하다": {
+    "gloss": "to be rugged, rough; to be harsh"
+  },
+  "값싸다": {
+    "gloss": "to be cheap"
+  },
+  "불안감": {
+    "gloss": "feeling of anxiety, unease"
+  },
+  "합법적": {
+    "gloss": "legal, lawful"
+  },
+  "열중하다": {
+    "gloss": "to be absorbed in, to be engrossed in"
+  },
+  "보내오다": {
+    "gloss": "to send (here), to send over"
+  },
+  "무더위": {
+    "gloss": "sultry heat, hot and humid weather"
+  },
+  "피디": {
+    "gloss": "PD, producer/director"
+  },
+  "제도적": {
+    "gloss": "institutional"
+  },
+  "전문점": {
+    "gloss": "specialty store"
+  },
+  "불가능": {
+    "gloss": "impossibility"
+  },
+  "총재": {
+    "gloss": "governor, president (of a central bank, party)"
+  },
+  "눈감다": {
+    "gloss": "to close one's eyes; to overlook"
+  },
+  "그리로": {
+    "gloss": "that way, to there"
+  },
+  "도입하다": {
+    "gloss": "to introduce, to adopt"
+  },
+  "망가뜨리다": {
+    "gloss": "to break, to ruin"
+  },
+  "후방": {
+    "gloss": "rear; the back"
+  },
+  "유도하다": {
+    "gloss": "to induce, to lead"
+  },
+  "자사": {
+    "gloss": "one's own company"
+  },
+  "더욱더": {
+    "gloss": "even more, more and more"
+  },
+  "폐기물": {
+    "gloss": "waste, discarded materials"
+  },
+  "빼먹다": {
+    "gloss": "to skip, to leave out"
+  },
+  "내쫓다": {
+    "gloss": "to drive out, to chase away"
+  },
+  "접속하다": {
+    "gloss": "to connect, to log in"
+  },
+  "국제선": {
+    "gloss": "international flight, route"
+  },
+  "출범": {
+    "gloss": "launch (of an organization)"
+  },
+  "설계하다": {
+    "gloss": "to design, to plan"
+  },
+  "끌어당기다": {
+    "gloss": "to pull toward, to draw in"
+  },
+  "대폭": {
+    "gloss": "greatly, sharply (of change)"
+  },
+  "주행": {
+    "gloss": "driving, running (of a vehicle)"
+  },
+  "은총": {
+    "gloss": "grace, divine favor"
+  },
+  "총괄": {
+    "gloss": "overall management; summary"
+  },
+  "파헤치다": {
+    "gloss": "to dig up; to uncover"
+  },
+  "해수": {
+    "gloss": "seawater; cough"
+  },
+  "인도하다": {
+    "gloss": "to lead, to guide; to hand over"
+  },
+  "청장": {
+    "gloss": "head of an agency"
+  },
+  "병기": {
+    "gloss": "weapon; writing side by side"
+  },
+  "사무총장": {
+    "gloss": "secretary-general"
+  },
+  "무상": {
+    "gloss": "free of charge; impermanence"
+  },
+  "사회자": {
+    "gloss": "host, MC, moderator"
+  },
+  "저버리다": {
+    "gloss": "to betray, to abandon"
+  },
+  "부당하다": {
+    "gloss": "to be unfair, unjust"
+  },
+  "발사하다": {
+    "gloss": "to launch, to fire"
+  },
+  "얼핏": {
+    "gloss": "at a glance, briefly"
+  },
+  "주력": {
+    "gloss": "main force; main focus"
+  },
+  "유치하다": {
+    "gloss": "to be childish, immature; to attract (investment)"
+  },
+  "지질": {
+    "gloss": "geology; lipid"
+  },
+  "얽매이다": {
+    "gloss": "to be bound, to be tied down"
+  },
+  "훈훈하다": {
+    "gloss": "to be pleasantly warm; to be heartwarming"
+  },
+  "공감하다": {
+    "gloss": "to sympathize, to empathize"
+  },
+  "옹호": {
+    "gloss": "advocacy, defense, support"
+  },
+  "취득": {
+    "gloss": "acquisition"
+  },
+  "쓰리다": {
+    "gloss": "to sting, to smart"
+  },
+  "수정하다": {
+    "gloss": "to correct, to modify"
+  },
+  "길목": {
+    "gloss": "pass, chokepoint; street corner"
+  },
+  "맞춤": {
+    "gloss": "custom-made, tailored"
+  },
+  "출입국": {
+    "gloss": "entering and leaving a country, immigration"
+  },
+  "성립하다": {
+    "gloss": "to be established, to hold true"
+  },
+  "여군": {
+    "gloss": "female soldier"
+  },
+  "시외": {
+    "gloss": "outside the city, suburbs"
+  },
+  "생태": {
+    "gloss": "ecology; ecological state"
+  },
+  "저항하다": {
+    "gloss": "to resist"
+  },
+  "차세대": {
+    "gloss": "next generation"
+  },
+  "중재": {
+    "gloss": "mediation, arbitration"
+  },
+  "거느리다": {
+    "gloss": "to lead, to have under one's command; to be accompanied by"
+  },
+  "몰아내다": {
+    "gloss": "to drive out, to expel"
+  },
+  "명예훼손": {
+    "gloss": "defamation"
+  },
+  "항암": {
+    "gloss": "anticancer"
+  },
+  "통째": {
+    "gloss": "the whole thing, as a whole"
+  },
+  "하이브리드": {
+    "gloss": "hybrid"
+  },
+  "증권사": {
+    "gloss": "securities company, brokerage"
+  },
+  "소화기": {
+    "gloss": "fire extinguisher; digestive organ"
+  },
+  "구이": {
+    "gloss": "grilled dish, roast"
+  },
+  "거점": {
+    "gloss": "base, stronghold"
+  },
+  "내세우다": {
+    "gloss": "to put forward, to advocate; to nominate"
+  },
+  "릴리스": {
+    "gloss": "release (of software)"
+  },
+  "정렬": {
+    "gloss": "alignment; sorting"
+  },
+  "출현": {
+    "gloss": "appearance, emergence"
+  },
+  "폐기": {
+    "gloss": "disposal, discarding; abolition"
+  },
+  "외관": {
+    "gloss": "appearance, exterior"
+  },
+  "재정적": {
+    "gloss": "financial"
+  },
+  "면제": {
+    "gloss": "exemption"
+  },
+  "정의롭다": {
+    "gloss": "to be just, righteous"
+  },
+  "주역": {
+    "gloss": "leading role, main player"
+  },
+  "직면하다": {
+    "gloss": "to face, to confront"
+  },
+  "인디언": {
+    "gloss": "Native American"
+  },
+  "오일": {
+    "gloss": "oil"
+  },
+  "지자체": {
+    "gloss": "local government (autonomous body)"
+  },
+  "지독하다": {
+    "gloss": "to be vicious, severe, nasty"
+  },
+  "기상청": {
+    "gloss": "meteorological agency"
+  },
+  "사회생활": {
+    "gloss": "social life"
+  },
+  "협의회": {
+    "gloss": "council, conference"
+  },
+  "쫓아가다": {
+    "gloss": "to chase, to follow after"
+  },
+  "물자": {
+    "gloss": "goods, supplies, materials"
+  },
+  "전액": {
+    "gloss": "full amount"
+  },
+  "조작하다": {
+    "gloss": "to manipulate, to operate; to fabricate"
+  },
+  "따스하다": {
+    "gloss": "to be warm"
+  },
+  "번쩍": {
+    "gloss": "with a flash; suddenly lifting",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "수위": {
+    "gloss": "water level; guard, janitor"
+  },
+  "스탠드": {
+    "gloss": "desk lamp; grandstand"
+  },
+  "가히": {
+    "gloss": "rightly, truly, fairly",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "확립하다": {
+    "gloss": "to establish"
+  },
+  "서브": {
+    "gloss": "serve (in sports)"
+  },
+  "사로잡히다": {
+    "gloss": "to be captured; to be obsessed with"
+  },
+  "충전기": {
+    "gloss": "charger"
+  },
+  "패하다": {
+    "gloss": "to lose, to be defeated"
+  },
+  "잡수다": {
+    "gloss": "to eat (honorific)"
+  },
+  "기세": {
+    "gloss": "vigor, momentum, spirit"
+  },
+  "실상": {
+    "gloss": "reality, actual situation"
+  },
+  "클라이언트": {
+    "gloss": "client"
+  },
+  "고양": {
+    "gloss": "uplifting, raising (of spirits)"
+  },
+  "간사": {
+    "gloss": "slyness; executive secretary"
+  },
+  "구단": {
+    "gloss": "sports club, team organization"
+  },
+  "하순": {
+    "gloss": "last ten days of a month"
+  },
+  "제어하다": {
+    "gloss": "to control, to restrain"
+  },
+  "불안정하다": {
+    "gloss": "to be unstable"
+  },
+  "예고하다": {
+    "gloss": "to announce in advance, to warn"
+  },
+  "거래하다": {
+    "gloss": "to trade, to do business"
+  },
+  "공격적": {
+    "gloss": "aggressive, offensive"
+  },
+  "연주자": {
+    "gloss": "performer, player (of an instrument)"
+  },
+  "전당": {
+    "gloss": "grand hall, palace"
+  },
+  "유저": {
+    "gloss": "user"
+  },
+  "소행": {
+    "gloss": "doing, deed (usually bad)"
+  },
+  "폐렴": {
+    "gloss": "pneumonia"
+  },
+  "두들기다": {
+    "gloss": "to beat, to pound"
+  },
+  "벌거벗다": {
+    "gloss": "to strip naked, to be naked"
+  },
+  "선행": {
+    "gloss": "good deed; going first, preceding"
+  },
+  "필사적": {
+    "gloss": "desperate, frantic"
+  },
+  "보태다": {
+    "gloss": "to add to, to supplement"
+  },
+  "원룸": {
+    "gloss": "studio apartment"
+  },
+  "짓밟다": {
+    "gloss": "to trample"
+  },
+  "대항하다": {
+    "gloss": "to stand against, to resist"
+  },
+  "전시장": {
+    "gloss": "exhibition hall"
+  },
+  "분하다": {
+    "gloss": "to be resentful, vexed"
+  },
+  "유세": {
+    "gloss": "election campaigning"
+  },
+  "구조물": {
+    "gloss": "structure"
+  },
+  "울부짖다": {
+    "gloss": "to howl, to wail"
+  },
+  "후원자": {
+    "gloss": "patron, supporter"
+  },
+  "무관심": {
+    "gloss": "indifference"
+  },
+  "중심부": {
+    "gloss": "center, core"
+  },
+  "보조금": {
+    "gloss": "subsidy, grant"
+  },
+  "허수아비": {
+    "gloss": "scarecrow; puppet"
+  },
+  "살인죄": {
+    "gloss": "murder (crime)"
+  },
+  "질적": {
+    "gloss": "qualitative"
+  },
+  "뱃속": {
+    "gloss": "belly, inside the stomach; womb"
+  },
+  "누명": {
+    "gloss": "false accusation"
+  },
+  "위태롭다": {
+    "gloss": "to be precarious, in danger"
+  },
+  "일가": {
+    "gloss": "family, household; school (of thought)"
+  },
+  "연계": {
+    "gloss": "link, connection"
+  },
+  "집단적": {
+    "gloss": "collective"
+  },
+  "설득력": {
+    "gloss": "persuasiveness"
+  },
+  "대거": {
+    "gloss": "in large numbers, en masse",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "물러가다": {
+    "gloss": "to retreat, to withdraw"
+  },
+  "든든하다": {
+    "gloss": "to be sturdy; to be reassuring"
+  },
+  "분산": {
+    "gloss": "dispersion, distribution"
+  },
+  "대표이사": {
+    "gloss": "CEO, representative director"
+  },
+  "취소되다": {
+    "gloss": "to be cancelled"
+  },
+  "알아채다": {
+    "gloss": "to notice, to catch on"
+  },
+  "에러": {
+    "gloss": "error"
+  },
+  "걸맞다": {
+    "gloss": "to be suitable, fitting"
+  },
+  "개설": {
+    "gloss": "establishment, setting up; outline"
+  },
+  "관료": {
+    "gloss": "bureaucrat, official"
+  },
+  "경선": {
+    "gloss": "primary election; contest"
+  },
+  "헐다": {
+    "gloss": "to tear down; to be worn out"
+  },
+  "반환": {
+    "gloss": "return, restitution"
+  },
+  "사상자": {
+    "gloss": "casualties"
+  },
+  "케어": {
+    "gloss": "care"
+  },
+  "비꼬다": {
+    "gloss": "to be sarcastic, to mock"
+  },
+  "야옹": {
+    "gloss": "meow",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "막판": {
+    "gloss": "final stage, the last moment"
+  },
+  "막대하다": {
+    "gloss": "to be enormous, vast"
+  },
+  "비바람": {
+    "gloss": "wind and rain"
+  },
+  "교시": {
+    "gloss": "class period"
+  },
+  "덮치다": {
+    "gloss": "to pounce on; to hit (of a disaster)"
+  },
+  "컨텐츠": {
+    "gloss": "content(s)"
+  },
+  "그제야": {
+    "gloss": "only then, not until then",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "콘솔": {
+    "gloss": "console"
+  },
+  "현직": {
+    "gloss": "current post; incumbent"
+  },
+  "유료": {
+    "gloss": "paid, fee-charging"
+  },
+  "교감": {
+    "gloss": "vice principal; rapport, communion"
+  },
+  "고스란히": {
+    "gloss": "intact, in full",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "도무지": {
+    "gloss": "at all, (not) in the least",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "자유자재": {
+    "gloss": "freely, at will"
+  },
+  "기술력": {
+    "gloss": "technological capability"
+  },
+  "생리": {
+    "gloss": "physiology; menstruation"
+  },
+  "일동": {
+    "gloss": "everyone, all (of a group)"
+  },
+  "유래": {
+    "gloss": "origin, derivation"
+  },
+  "의거": {
+    "gloss": "basis; righteous uprising"
+  },
+  "훑다": {
+    "gloss": "to strip off; to skim through"
+  },
+  "피의자": {
+    "gloss": "suspect (in a criminal case)"
+  },
+  "자각": {
+    "gloss": "awareness, realization"
+  },
+  "경연": {
+    "gloss": "contest, competition"
+  },
+  "급식": {
+    "gloss": "school meals; provision of meals"
+  },
+  "체크하다": {
+    "gloss": "to check"
+  },
+  "벼슬": {
+    "gloss": "government post; comb (of a rooster)"
+  },
+  "크리스천": {
+    "gloss": "Christian"
+  },
+  "표창": {
+    "gloss": "commendation, citation; throwing star"
+  },
+  "기부하다": {
+    "gloss": "to donate"
+  },
+  "식별": {
+    "gloss": "identification, distinction"
+  },
+  "기하다": {
+    "gloss": "to aim for, to make sure of"
+  },
+  "우려하다": {
+    "gloss": "to be concerned, to worry"
+  },
+  "또다시": {
+    "gloss": "again, once more",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "매스컴": {
+    "gloss": "mass media"
+  },
+  "유족": {
+    "gloss": "bereaved family"
+  },
+  "봉쇄하다": {
+    "gloss": "to blockade, to seal off"
+  },
+  "겁내다": {
+    "gloss": "to be afraid, to fear"
+  },
+  "극단적": {
+    "gloss": "extreme"
+  },
+  "괴로워하다": {
+    "gloss": "to suffer, to be distressed"
+  },
+  "국사": {
+    "gloss": "national history; affairs of state"
+  },
+  "대역": {
+    "gloss": "stand-in, body double; frequency band"
+  },
+  "정교하다": {
+    "gloss": "to be elaborate, intricate"
+  },
+  "통신사": {
+    "gloss": "news agency; telecom company"
+  },
+  "끌어올리다": {
+    "gloss": "to pull up, to raise"
+  },
+  "철수하다": {
+    "gloss": "to withdraw, to pull out"
+  },
+  "엄숙하다": {
+    "gloss": "to be solemn, grave"
+  },
+  "전무": {
+    "gloss": "total absence; executive director"
+  },
+  "호칭": {
+    "gloss": "title, form of address"
+  },
+  "두근두근": {
+    "gloss": "pit-a-pat (of a heartbeat)",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "명목": {
+    "gloss": "pretext, nominal; name"
+  },
+  "통일하다": {
+    "gloss": "to unify"
+  },
+  "육성": {
+    "gloss": "fostering, nurturing, training"
+  },
+  "주치의": {
+    "gloss": "attending physician"
+  },
+  "압도적": {
+    "gloss": "overwhelming"
+  },
+  "재개": {
+    "gloss": "resumption"
+  },
+  "채택": {
+    "gloss": "adoption"
+  },
+  "치열하다": {
+    "gloss": "to be fierce, intense"
+  },
+  "채점": {
+    "gloss": "grading, scoring"
+  },
+  "마왕": {
+    "gloss": "demon king"
+  },
+  "매각": {
+    "gloss": "sale, disposal"
+  },
+  "채택하다": {
+    "gloss": "to adopt"
+  },
+  "마렵다": {
+    "gloss": "to feel the urge to relieve oneself"
+  },
+  "출입구": {
+    "gloss": "entrance, doorway"
+  },
+  "통보": {
+    "gloss": "notice, notification"
+  },
+  "거주지": {
+    "gloss": "place of residence"
+  },
+  "잠금": {
+    "gloss": "lock, locking"
+  },
+  "플랜": {
+    "gloss": "plan"
+  },
+  "기수": {
+    "gloss": "rider, jockey; class (cohort); cardinal number"
+  },
+  "인지하다": {
+    "gloss": "to perceive, to recognize"
+  },
+  "교육비": {
+    "gloss": "education expenses"
+  },
+  "당당히": {
+    "gloss": "confidently, proudly",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "중지하다": {
+    "gloss": "to stop, to suspend"
+  },
+  "시공": {
+    "gloss": "construction work; space-time"
+  },
+  "자회사": {
+    "gloss": "subsidiary"
+  },
+  "행세": {
+    "gloss": "posing as, acting like"
+  },
+  "스크립트": {
+    "gloss": "script"
+  },
+  "변호하다": {
+    "gloss": "to defend (in court)"
+  },
+  "운용": {
+    "gloss": "operation, management (of funds)"
+  },
+  "완료하다": {
+    "gloss": "to complete"
+  },
+  "시세": {
+    "gloss": "market price"
+  },
+  "염두": {
+    "gloss": "mind, thought (as in the idiom \"to keep in mind\")"
+  },
+  "주재": {
+    "gloss": "stationing (abroad); presiding over"
+  },
+  "극한": {
+    "gloss": "extreme, limit"
+  },
+  "생산량": {
+    "gloss": "production volume"
+  },
+  "아부": {
+    "gloss": "flattery"
+  },
+  "변화시키다": {
+    "gloss": "to change, to transform"
+  },
+  "상영": {
+    "gloss": "screening (of a film)"
+  },
+  "원로": {
+    "gloss": "elder, veteran"
+  },
+  "밀어내다": {
+    "gloss": "to push out, to shove"
+  },
+  "횃불": {
+    "gloss": "torch"
+  },
+  "에잇": {
+    "gloss": "damn, geez"
+  },
+  "예제": {
+    "gloss": "example, practice problem"
+  },
+  "절실히": {
+    "gloss": "keenly, desperately",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "친위대": {
+    "gloss": "royal guard, bodyguard unit"
+  },
+  "입성": {
+    "gloss": "entering (a city, a place)"
+  },
+  "배스": {
+    "gloss": "bass (fish)"
+  },
+  "피리": {
+    "gloss": "pipe, flute"
+  },
+  "먹방": {
+    "gloss": "mukbang (eating broadcast)"
+  },
+  "약초": {
+    "gloss": "medicinal herb"
+  },
+  "도발": {
+    "gloss": "provocation"
+  },
+  "기혼": {
+    "gloss": "married (status)"
+  },
+  "생활환경": {
+    "gloss": "living environment"
+  },
+  "치솟다": {
+    "gloss": "to soar, to shoot up"
+  },
+  "산물": {
+    "gloss": "product, result"
+  },
+  "화력": {
+    "gloss": "firepower; heating power"
+  },
+  "소요": {
+    "gloss": "time required; commotion"
+  },
+  "구형": {
+    "gloss": "old model; prosecutor's sentencing request"
+  },
+  "인수하다": {
+    "gloss": "to take over, to acquire"
+  },
+  "빠짐없이": {
+    "gloss": "without omission, completely",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "역사학": {
+    "gloss": "the study of history"
+  },
+  "여분": {
+    "gloss": "surplus, extra"
+  },
+  "향상시키다": {
+    "gloss": "to improve, to enhance"
+  },
+  "슬그머니": {
+    "gloss": "stealthily, quietly",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "노후": {
+    "gloss": "old age, later life; aging (of facilities)"
+  },
+  "부진": {
+    "gloss": "slump, poor performance"
+  },
+  "미지": {
+    "gloss": "the unknown"
+  },
+  "궁지": {
+    "gloss": "tight spot, predicament"
+  },
+  "형량": {
+    "gloss": "sentence (length of punishment)"
+  },
+  "측근": {
+    "gloss": "close aide, associate"
+  },
+  "불신": {
+    "gloss": "distrust"
+  },
+  "상가": {
+    "gloss": "shopping district, shops; house of mourning"
+  },
+  "다시금": {
+    "gloss": "once again",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "총체적": {
+    "gloss": "overall, comprehensive"
+  },
+  "섬세하다": {
+    "gloss": "to be delicate, subtle"
+  },
+  "운항": {
+    "gloss": "navigation, flight operation (of ships, planes)"
+  },
+  "임대료": {
+    "gloss": "rent (fee)"
+  },
+  "배제하다": {
+    "gloss": "to exclude, to rule out"
+  },
+  "장부": {
+    "gloss": "ledger, account book"
+  },
+  "신조": {
+    "gloss": "creed, belief"
+  },
+  "귀가하다": {
+    "gloss": "to return home"
+  },
+  "분류하다": {
+    "gloss": "to classify, to categorize"
+  },
+  "퍼붓다": {
+    "gloss": "to pour down; to shower (with)"
+  },
+  "얼간이": {
+    "gloss": "fool, dimwit"
+  },
+  "휘말리다": {
+    "gloss": "to be caught up in, to be swept into"
+  },
+  "본보기": {
+    "gloss": "example, model"
+  },
+  "맞히다": {
+    "gloss": "to hit (a target); to guess correctly"
+  },
+  "스케치": {
+    "gloss": "sketch"
+  },
+  "파내다": {
+    "gloss": "to dig out, to excavate"
+  },
+  "재건": {
+    "gloss": "reconstruction, rebuilding"
+  },
+  "조립": {
+    "gloss": "assembly"
+  },
+  "진화하다": {
+    "gloss": "to evolve"
+  },
+  "애착": {
+    "gloss": "attachment, fondness"
+  },
+  "교직": {
+    "gloss": "teaching profession"
+  },
+  "직책": {
+    "gloss": "duty, post, position"
+  },
+  "트릭": {
+    "gloss": "trick"
+  },
+  "공용": {
+    "gloss": "shared use; public use"
+  },
+  "촉진": {
+    "gloss": "promotion, acceleration"
+  },
+  "정관": {
+    "gloss": "articles of incorporation, bylaws"
+  },
+  "어마어마하다": {
+    "gloss": "to be huge, tremendous"
+  },
+  "보험료": {
+    "gloss": "insurance premium"
+  },
+  "물량": {
+    "gloss": "quantity, volume (of goods)"
+  },
+  "선포하다": {
+    "gloss": "to proclaim, to declare"
+  },
+  "당선되다": {
+    "gloss": "to be elected"
+  },
+  "드나들다": {
+    "gloss": "to go in and out, to frequent"
+  },
+  "사이클": {
+    "gloss": "cycle"
+  },
+  "잘살다": {
+    "gloss": "to live well, to be well-off"
+  },
+  "일쑤": {
+    "gloss": "common occurrence, habit"
+  },
+  "출간": {
+    "gloss": "publication"
+  },
+  "폐쇄하다": {
+    "gloss": "to close down, to shut"
+  },
+  "마땅히": {
+    "gloss": "properly, by rights",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "호환": {
+    "gloss": "compatibility; interchange"
+  },
+  "급성": {
+    "gloss": "acute (of a disease)"
+  },
+  "연상하다": {
+    "gloss": "to associate (with), to be reminded of"
+  },
+  "장사꾼": {
+    "gloss": "merchant, trader"
+  },
+  "그깟": {
+    "gloss": "such a trivial, that petty"
+  },
+  "무관하다": {
+    "gloss": "to be unrelated"
+  },
+  "올려다보다": {
+    "gloss": "to look up at"
+  },
+  "폭력적": {
+    "gloss": "violent"
+  },
+  "연산": {
+    "gloss": "calculation, operation (math)"
+  },
+  "주임": {
+    "gloss": "head, chief (of a department)"
+  },
+  "신축": {
+    "gloss": "new construction; expansion and contraction"
+  },
+  "유의하다": {
+    "gloss": "to pay attention to, to take note of"
+  },
+  "여태껏": {
+    "gloss": "until now, so far",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "접어들다": {
+    "gloss": "to enter (a period, stage); to turn into (an alley)"
+  },
+  "줄기세포": {
+    "gloss": "stem cell"
+  },
+  "소량": {
+    "gloss": "small quantity"
+  },
+  "압박하다": {
+    "gloss": "to pressure, to press"
+  },
+  "업자": {
+    "gloss": "dealer, businessperson (in a trade)"
+  },
+  "반짝반짝": {
+    "gloss": "twinkling, sparkling",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "매개": {
+    "gloss": "mediation; medium, vector"
+  },
+  "따오다": {
+    "gloss": "to quote, to borrow (text)"
+  },
+  "점령하다": {
+    "gloss": "to occupy, to capture"
+  },
+  "선사": {
+    "gloss": "prehistory; Zen master"
+  },
+  "게재": {
+    "gloss": "publication (in a periodical)"
+  },
+  "기미": {
+    "gloss": "sign, hint, indication"
+  },
+  "주인님": {
+    "gloss": "master (honorific)"
+  },
+  "일회용품": {
+    "gloss": "disposable product"
+  },
+  "훈련하다": {
+    "gloss": "to train, to drill"
+  },
+  "착오": {
+    "gloss": "mistake, error"
+  },
+  "가속": {
+    "gloss": "acceleration"
+  },
+  "해독": {
+    "gloss": "decoding; detoxification"
+  },
+  "뿌리치다": {
+    "gloss": "to shake off, to brush off"
+  },
+  "껍데기": {
+    "gloss": "shell, husk"
+  },
+  "경계선": {
+    "gloss": "borderline"
+  },
+  "열정적": {
+    "gloss": "passionate"
+  },
+  "재무": {
+    "gloss": "finance, financial affairs"
+  },
+  "돋보이다": {
+    "gloss": "to stand out, to look impressive"
+  },
+  "문양": {
+    "gloss": "pattern, design"
+  },
+  "정시": {
+    "gloss": "exact hour, on time"
+  },
+  "연재": {
+    "gloss": "serialization"
+  },
+  "서열": {
+    "gloss": "ranking, hierarchy"
+  },
+  "품종": {
+    "gloss": "breed, variety"
+  },
+  "실크": {
+    "gloss": "silk"
+  },
+  "전통문화": {
+    "gloss": "traditional culture"
+  },
+  "균열": {
+    "gloss": "crack, fissure; rift"
+  },
+  "지도부": {
+    "gloss": "leadership, leaders"
+  },
+  "소동": {
+    "gloss": "commotion, uproar"
+  },
+  "추하다": {
+    "gloss": "to be ugly, unsightly"
+  },
+  "물려주다": {
+    "gloss": "to hand down, to bequeath"
+  },
+  "잡음": {
+    "gloss": "noise, static; discord"
+  },
+  "동반": {
+    "gloss": "accompaniment, being together"
+  },
+  "비공개": {
+    "gloss": "private, closed (not open to the public)"
+  },
+  "소감": {
+    "gloss": "impressions, thoughts (on an experience)"
+  },
+  "소관": {
+    "gloss": "jurisdiction, responsibility"
+  },
+  "하이라이트": {
+    "gloss": "highlight"
+  },
+  "대부": {
+    "gloss": "godfather; loan (lending)"
+  },
+  "통틀다": {
+    "gloss": "to sum up, to lump together"
+  },
+  "피치": {
+    "gloss": "pitch"
+  },
+  "되돌아가다": {
+    "gloss": "to go back, to return"
+  },
+  "초자연적": {
+    "gloss": "supernatural"
+  },
+  "미련": {
+    "gloss": "lingering attachment; foolishness"
+  },
+  "동반하다": {
+    "gloss": "to accompany"
+  },
+  "화합": {
+    "gloss": "harmony, concord"
+  },
+  "단축": {
+    "gloss": "shortening, reduction"
+  },
+  "빗방울": {
+    "gloss": "raindrop"
+  },
+  "스코어": {
+    "gloss": "score"
+  },
+  "동정심": {
+    "gloss": "sympathy, compassion"
+  },
+  "구동": {
+    "gloss": "drive, operation (of machinery)"
+  },
+  "안건": {
+    "gloss": "agenda item, matter"
+  },
+  "민심": {
+    "gloss": "public sentiment"
+  },
+  "의외": {
+    "gloss": "unexpectedness, surprise"
+  },
+  "산지": {
+    "gloss": "producing region; mountainous area"
+  },
+  "일전": {
+    "gloss": "the other day; a battle"
+  },
+  "성화": {
+    "gloss": "annoyance, nagging; Olympic torch"
+  },
+  "절실하다": {
+    "gloss": "to be earnest, pressing"
+  },
+  "연루되다": {
+    "gloss": "to be implicated, involved"
+  },
+  "허가하다": {
+    "gloss": "to permit, to authorize"
+  },
+  "큰길": {
+    "gloss": "main street, highway"
+  },
+  "보상금": {
+    "gloss": "compensation money"
+  },
+  "얻어먹다": {
+    "gloss": "to get a free meal; to be treated to food"
+  },
+  "기관지": {
+    "gloss": "bronchial tube"
+  },
+  "초창기": {
+    "gloss": "early days, early period"
+  },
+  "상주": {
+    "gloss": "permanent residence; chief mourner"
+  },
+  "달라붙다": {
+    "gloss": "to stick to, to cling to"
+  },
+  "산모": {
+    "gloss": "expectant or new mother"
+  },
+  "여생": {
+    "gloss": "the rest of one's life"
+  },
+  "금리": {
+    "gloss": "interest rate"
+  },
+  "쩔쩔매다": {
+    "gloss": "to be flustered, at a loss"
+  },
+  "이왕": {
+    "gloss": "already; anyway (since it is so)",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "밀수": {
+    "gloss": "smuggling"
+  },
+  "냉정하다": {
+    "gloss": "to be cold, cool-headed"
+  },
+  "침투하다": {
+    "gloss": "to infiltrate, to permeate"
+  },
+  "부활하다": {
+    "gloss": "to be resurrected, to revive"
+  },
+  "정신병원": {
+    "gloss": "psychiatric hospital"
+  },
+  "순종": {
+    "gloss": "obedience; purebred"
+  },
+  "오로라": {
+    "gloss": "aurora"
+  },
+  "촉구하다": {
+    "gloss": "to urge, to call for"
+  },
+  "따라다니다": {
+    "gloss": "to follow around, to tag along"
+  },
+  "행태": {
+    "gloss": "behavior, conduct"
+  },
+  "냉방": {
+    "gloss": "air conditioning; unheated room"
+  },
+  "한낮": {
+    "gloss": "midday, noon"
+  },
+  "신뢰도": {
+    "gloss": "reliability, trustworthiness"
+  },
+  "맞대다": {
+    "gloss": "to put together, to touch (face to face)"
+  },
+  "과잉": {
+    "gloss": "excess, surplus"
+  },
+  "뭉개다": {
+    "gloss": "to crush, to squash; to procrastinate"
+  },
+  "인맥": {
+    "gloss": "connections, personal network"
+  },
+  "증진": {
+    "gloss": "promotion, improvement"
+  },
+  "깨어지다": {
+    "gloss": "to be broken, shattered"
+  },
+  "지휘하다": {
+    "gloss": "to command, to conduct"
+  },
+  "사용법": {
+    "gloss": "how to use, instructions"
+  },
+  "임명하다": {
+    "gloss": "to appoint"
+  },
+  "다량": {
+    "gloss": "large quantity"
+  },
+  "수험생": {
+    "gloss": "exam candidate, test taker"
+  },
+  "삽입하다": {
+    "gloss": "to insert"
+  },
+  "냉각": {
+    "gloss": "cooling"
+  },
+  "면모": {
+    "gloss": "aspect, appearance, trait"
+  },
+  "구도": {
+    "gloss": "composition, structure; quest for truth"
+  },
+  "기껏": {
+    "gloss": "at most, with all one's effort",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "여론조사": {
+    "gloss": "opinion poll"
+  },
+  "전단지": {
+    "gloss": "flyer, leaflet"
+  },
+  "강화되다": {
+    "gloss": "to be strengthened"
+  },
+  "카피": {
+    "gloss": "copy"
+  },
+  "제멋대로": {
+    "gloss": "as one pleases, arbitrarily",
+    "pos": "adv",
+    "posName": "adverb"
+  },
+  "재발": {
+    "gloss": "recurrence, relapse"
+  },
+  "각오하다": {
+    "gloss": "to be prepared, to resolve"
+  },
+  "활약하다": {
+    "gloss": "to be active, to play an active role"
+  },
+  "적임자": {
+    "gloss": "suitable person"
+  },
+  "빼돌리다": {
+    "gloss": "to divert, to siphon off; to sneak away"
+  },
+  "소유주": {
+    "gloss": "owner"
+  },
+  "정적": {
+    "gloss": "silence, stillness; political rival"
+  },
+  "정착하다": {
+    "gloss": "to settle down"
+  },
+  "의아하다": {
+    "gloss": "to be puzzled, doubtful"
+  },
+  "고물": {
+    "gloss": "junk, scrap"
+  },
+  "통풍": {
+    "gloss": "ventilation; gout"
+  },
+  "궁리": {
+    "gloss": "pondering, thinking over"
+  },
+  "거래처": {
+    "gloss": "business partner, client"
+  },
+  "편집기": {
+    "gloss": "editor (software)"
+  },
+  "친지": {
+    "gloss": "relatives and friends"
+  },
+  "분사": {
+    "gloss": "participle; spin-off subsidiary"
+  },
+  "응시": {
+    "gloss": "taking (an exam); gaze"
+  },
+  "멀미": {
+    "gloss": "motion sickness"
+  },
+  "이맘때": {
+    "gloss": "around this (that) time of year"
+  },
+  "복무하다": {
+    "gloss": "to serve (in the military)"
+  },
+  "메뚜기": {
+    "gloss": "grasshopper, locust"
+  },
+  "성행위": {
+    "gloss": "sexual activity"
+  },
+  "싱어": {
+    "gloss": "singer"
+  },
+  "잔류": {
+    "gloss": "remaining, staying behind"
+  },
+  "엄니": {
+    "gloss": "tusk, fang"
+  },
+  "방사": {
+    "gloss": "radiation, emission"
+  },
+  "미제": {
+    "gloss": "unsolved; American-made"
+  },
+  "유한": {
+    "gloss": "finite, limited"
+  },
+  "개막": {
+    "gloss": "opening (of a show, event)"
+  },
+  "호주머니": {
+    "gloss": "pocket"
+  },
+  "장가": {
+    "gloss": "marriage (of a man)"
+  },
+  "사리": {
+    "gloss": "reason, sense; Buddhist relics"
+  },
+  "축사": {
+    "gloss": "livestock shed; congratulatory speech"
+  },
+  "몰카": {
+    "gloss": "hidden camera (prank)"
+  },
+  "성실": {
+    "gloss": "sincerity, diligence"
+  },
+  "수목": {
+    "gloss": "trees"
+  },
+  "화법": {
+    "gloss": "way of speaking; (painting) technique"
+  },
+  "견적": {
+    "gloss": "estimate, quotation"
+  },
+  "나뭇잎": {
+    "reading": "namunnip"
+  },
+  "꽃잎": {
+    "reading": "kkonnip"
+  },
+  "한여름": {
+    "reading": "hannyeoreum"
+  },
+  "수학여행": {
+    "reading": "suhangnyeohaeng"
+  },
+  "식용유": {
+    "reading": "sigyongnyu"
+  },
+  "휘발유": {
+    "reading": "hwiballyu"
+  },
+  "지하철역": {
+    "reading": "jihacheollyeok"
+  },
+  "집안일": {
+    "reading": "jibannil"
+  },
+  "알약": {
+    "reading": "allyak"
+  },
+  "피임약": {
+    "reading": "piimnyak"
+  },
+  "발열": {
+    "reading": "ballyeol"
+  },
+  "징역": {
+    "reading": "jingnyeok"
+  },
+  "일일이": {
+    "reading": "illiri"
+  },
+  "일일": {
+    "reading": "illil"
+  },
+  "관절염": {
+    "reading": "gwanjeollyeom"
+  },
+  "귀걸이": {
+    "gloss": "earring"
+  },
+  "한류": {
+    "gloss": "Korean Wave; cold current"
+  },
+  "백업": {
+    "gloss": "backup"
+  },
+  "디스크": {
+    "gloss": "disk, disc; slipped disc"
+  },
+  "인조": {
+    "gloss": "man-made, artificial"
+  },
+  "_drop_sent": [
+    "오늘 운이 좋은 이 어부는 오징어를 무려 열 마리 잡았다.",
+    "위대한 령도자 김정일 대원수님께서는 다음과 같이 말씀하시였다.",
+    "사회주의 조선의 힘을 재웠다!",
+    "늙다리 미치광이를 반드시 불로 다스릴것이다.",
+    "발기를 하게 되면 음경이 커지고 딱딱하게 된다.",
+    "갑자기 똥이 마렵다.",
+    "당내의 반동 분자를 일소해야 한다.",
+    "그는 왕명을 받들고 오랑캐를 토벌하러 북으로 갔다.",
+    "하나님 외에 다른 신은 없습니다. 무함마드는 그분의 사도입니다.",
+    "그는 언제나 이러쿵저러쿵 고시랑거리기만 한다.",
+    "풀솜 같은 구름 속으로 숨바꼭질을 하는 달을 보며 소희는 고향을 떠올렸다.",
+    "다음 진술서는 그러한 주장을 해하지 않는다.",
+    "그녀의 눈은 마치 암노루의 눈을 닮았다.",
+    "그 까닭이 무엇인고?",
+    "인간의 정신과 반대되는 개념으로, 객관적으로 존재하는 실체.",
+    "공간의 일부를 차지하고 질량을 갖는 요소.",
+    "남에게 자기 딸을 일컫는 말.",
+    "그 집안의 아버지와 딸은 서로 다른 기치관을 고집한다.",
+    "눈이 감겨요.",
+    "군인은 상대방을 쏘기 위해서 화기를 사용한다.",
+    "타이루거 열차 사고 희생자분들을 애도하며 삼가 고인의 명복을 빕니다."
+  ],
+  "저리다": {
+    "gloss": "to be numb, to tingle; to ache"
+  },
+  "불어오다": {
+    "gloss": "to blow (toward), to come blowing"
+  },
+  "회복하다": {
+    "gloss": "to recover, to regain; to recuperate"
+  },
+  "권하다": {
+    "gloss": "to recommend, to suggest; to offer"
+  },
+  "근원": {
+    "gloss": "root, source, origin"
+  },
+  "기울다": {
+    "gloss": "to tilt, to lean; to decline"
+  },
+  "꼬다": {
+    "gloss": "to twist, to braid; to squirm"
+  },
+  "밀접하다": {
+    "gloss": "to be close, intimate, closely related"
+  },
+  "슈트": {
+    "gloss": "suit (clothing)"
+  },
+  "받들다": {
+    "gloss": "to respect, to serve; to obey"
+  },
+  "꼭두각시": {
+    "gloss": "puppet, marionette"
+  },
+  "방출": {
+    "gloss": "release, emission; dismissal (of a player)"
+  },
+  "옅다": {
+    "gloss": "to be shallow, pale, light"
+  },
+  "소비에트": {
+    "gloss": "Soviet"
+  },
+  "뼈대": {
+    "gloss": "skeleton, frame"
+  },
+  "운반": {
+    "gloss": "transport, carrying"
+  },
+  "억지": {
+    "gloss": "stubbornness, unreasonable insistence"
+  },
+  "뒹굴다": {
+    "gloss": "to roll about, to lounge around"
+  },
+  "배치하다": {
+    "gloss": "to post, to station; to arrange"
+  },
+  "손아귀": {
+    "gloss": "grip, grasp, clutches"
+  },
+  "조폭": {
+    "gloss": "gangster, organized-crime gang"
+  },
+  "삼겹살": {
+    "gloss": "samgyeopsal, grilled pork belly"
+  },
+  "주무르다": {
+    "gloss": "to knead, to massage; to fumble with"
+  },
+  "산화": {
+    "gloss": "oxidation"
+  },
+  "무시무시하다": {
+    "gloss": "to be terrifying, frightful"
+  },
+  "조교": {
+    "gloss": "teaching assistant; drill instructor"
+  },
+  "남녀노소": {
+    "gloss": "men and women, old and young; everyone"
+  },
+  "적법하다": {
+    "gloss": "to be lawful, legitimate"
+  },
+  "멸망하다": {
+    "gloss": "to perish, to be destroyed"
+  },
+  "역대급": {
+    "gloss": "all-time record level, unprecedented scale"
+  },
+  "장막": {
+    "gloss": "curtain, veil; tent"
+  },
+  "심해": {
+    "gloss": "deep sea"
+  },
+  "강단": {
+    "gloss": "resolve, tenacity; lecture platform"
+  },
+  "수식": {
+    "gloss": "mathematical expression, formula; modification (grammar)"
+  },
+  "머리통": {
+    "gloss": "head, skull (informal)"
+  },
+  "막걸리": {
+    "gloss": "makgeolli (Korean rice wine)"
+  },
+  "개나리": {
+    "gloss": "forsythia"
+  },
+  "메기": {
+    "gloss": "catfish"
+  },
+  "수달": {
+    "gloss": "otter"
+  },
+  "재규어": {
+    "gloss": "jaguar"
+  },
+  "완구": {
+    "gloss": "toy"
+  },
+  "체질": {
+    "gloss": "constitution (physical makeup)"
+  },
+  "학자": {
+    "gloss": "scholar"
+  },
+  "이어지다": {
+    "gloss": "to continue; to be connected"
+  },
+  "보름": {
+    "gloss": "fifteen days; the 15th day of the lunar month"
+  },
+  "부풀다": {
+    "gloss": "to swell, to rise (as bread)"
+  },
+  "애프터": {
+    "gloss": "follow-up date (after a blind date)"
+  },
+  "코로나": {
+    "gloss": "coronavirus; corona"
+  },
+  "양주": {
+    "gloss": "Western liquor"
+  },
+  "사쿠라": {
+    "gloss": "cherry blossoms (Japanese sakura)"
+  },
+  "집사람": {
+    "gloss": "wife (humble)"
+  },
+  "특사": {
+    "gloss": "special envoy"
+  },
+  "용하다": {
+    "gloss": "to be skilled, remarkable"
+  },
+  "모처럼": {
+    "gloss": "after a long while, for once"
+  },
+  "중도": {
+    "gloss": "middle-of-the-road, moderate; halfway"
+  },
+  "탈북자": {
+    "gloss": "North Korean defector"
+  },
+  "김치찌개": {
+    "gloss": "kimchi stew"
+  },
+  "한문": {
+    "gloss": "Classical Chinese"
+  },
+  "씨름": {
+    "gloss": "ssireum (Korean wrestling); struggle"
+  },
+  "보리": {
+    "gloss": "barley"
+  },
+  "우리말": {
+    "gloss": "the Korean language (as used by Koreans)"
+  },
+  "조선인": {
+    "gloss": "Korean person (Joseon-era term)"
+  },
+  "한인": {
+    "gloss": "Korean person (esp. overseas)"
+  },
+  "도사": {
+    "gloss": "Taoist hermit; expert, adept"
+  },
+  "갈라지다": {
+    "gloss": "to split, to crack; (of a voice) to crack"
+  },
+  "발전되다": {
+    "gloss": "to develop, to advance; to be generated (electricity)"
+  },
+  "굴러가다": {
+    "gloss": "to roll along; to run, to function"
+  },
+  "면하다": {
+    "gloss": "to avoid, to escape; to face"
+  },
+  "사로잡다": {
+    "gloss": "to capture; to captivate"
+  },
+  "헤아리다": {
+    "gloss": "to consider, to gauge; to count"
+  },
+  "유적": {
+    "gloss": "historic site, ruins"
+  },
+  "구간": {
+    "gloss": "section (of a road, route); interval"
+  },
+  "울음소리": {
+    "gloss": "cry, crying sound"
+  },
+  "넉넉하다": {
+    "gloss": "to be plentiful, ample; to be well-off"
+  },
+  "무디다": {
+    "gloss": "to be dull, blunt"
+  },
+  "찌푸리다": {
+    "gloss": "to frown, to scowl; to become cloudy"
+  },
+  "똥개": {
+    "gloss": "mutt, mongrel dog"
+  },
+  "시조": {
+    "gloss": "sijo (Korean verse form); founder"
+  },
+  "대타": {
+    "gloss": "pinch hitter; substitute"
+  },
+  "명곡": {
+    "gloss": "famous song, great piece of music"
+  },
+  "늘어서다": {
+    "gloss": "to line up, to stand in a row"
+  },
+  "후유증": {
+    "gloss": "aftereffects, sequelae; aftermath"
+  },
+  "계층": {
+    "gloss": "class, stratum (of society)"
+  },
+  "햇볕": {
+    "gloss": "sunshine, sunlight"
+  },
+  "입시": {
+    "gloss": "entrance exam"
+  },
+  "유아": {
+    "gloss": "infant, young child"
+  },
+  "도적": {
+    "gloss": "bandit, thief"
+  }
+}

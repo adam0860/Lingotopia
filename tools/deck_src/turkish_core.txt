@@ -1,0 +1,321 @@
+# Lingotopia — Turkish core vocabulary source
+#
+# Format (pipe-delimited, one entry per line):
+#   lemma | pos | english gloss | sentence_tr | sentence_en [ | sentence2_tr | sentence2_en ]
+#
+# Ordering here is the PEDAGOGICAL frequency order (lemma-level). The build
+# script additionally attaches the OpenSubtitles surface-form corpus rank where
+# one exists, for reference — see tools/build_deck.py and README.md for why the
+# two differ.
+#
+# pos codes: n=noun adj=adjective v=verb adv=adverb pron=pronoun
+#            num=numeral part=particle conj=conjunction post=postposition
+#            interj=interjection
+
+# ---- core function words -------------------------------------------------
+bir|num|one; a, an|Bir bardak su lütfen.|One glass of water, please.|Bu bir kitap.|This is a book.
+bu|pron|this|Bu çok güzel.|This is very beautiful.|Bu ev bizim.|This house is ours.
+şu|pron|that (nearby)|Şu adamı tanıyor musun?|Do you know that man?
+o|pron|he, she, it; that|O benim kardeşim.|He is my brother.|O gün çok yağmur yağdı.|It rained a lot that day.
+ne|pron|what|Ne yapıyorsun?|What are you doing?|Bu ne demek?|What does this mean?
+ve|conj|and|Anne ve baba evde.|Mom and dad are at home.
+için|post|for; in order to|Bu senin için.|This is for you.|Öğrenmek için çalışıyorum.|I study in order to learn.
+çok|adv|very; a lot|Çok teşekkür ederim.|Thank you very much.|Bugün çok yoruldum.|I got very tired today.
+ama|conj|but|İstiyorum ama param yok.|I want it but I have no money.
+evet|interj|yes|Evet, anladım.|Yes, I understood.
+hayır|interj|no|Hayır, istemiyorum.|No, I don't want to.
+var|part|there is, exists|Masada bir kitap var.|There is a book on the table.|Sorun var mı?|Is there a problem?
+yok|part|there isn't|Hiç param yok.|I have no money at all.
+değil|part|not (with nouns and adjectives)|Bu doğru değil.|This is not true.
+şey|n|thing|Bir şey söyleyeceğim.|I'm going to say something.
+daha|adv|more; yet|Daha fazla istiyorum.|I want more.|Daha gelmedi.|He hasn't come yet.
+ben|pron|I|Ben Türkçe öğreniyorum.|I am learning Turkish.
+sen|pron|you (singular, informal)|Sen nerelisin?|Where are you from?
+biz|pron|we|Biz her gün çalışırız.|We work every day.
+siz|pron|you (plural or formal)|Siz nasılsınız?|How are you?
+onlar|pron|they|Onlar yarın geliyor.|They are coming tomorrow.
+kadar|post|as much as; until|Akşama kadar buradayım.|I'm here until evening.|Senin kadar hızlı koşamam.|I can't run as fast as you.
+gibi|post|like, as|Kardeşin gibi konuşuyorsun.|You talk like your brother.
+ile|post|with; by|Arkadaşımla sinemaya gittim.|I went to the cinema with my friend.
+de|part|also, too|Ben de geliyorum.|I'm coming too.
+hiç|adv|never; at all|Hiç et yemem.|I never eat meat.
+her|adj|every|Her sabah koşuyorum.|I run every morning.
+bazen|adv|sometimes|Bazen çok yorgun oluyorum.|Sometimes I get very tired.
+hep|adv|always|Hep aynı şeyi söylüyorsun.|You always say the same thing.
+belki|adv|maybe|Belki yarın görüşürüz.|Maybe we'll see each other tomorrow.
+tabii|adv|of course|Tabii ki yardım ederim.|Of course I'll help.
+gerçekten|adv|really|Gerçekten çok güzel.|It's really beautiful.
+tekrar|adv|again|Lütfen tekrar söyle.|Please say it again.
+birlikte|adv|together|Birlikte yemek yiyelim.|Let's eat together.
+yalnız|adv|alone; only|Evde yalnız kaldım.|I stayed home alone.
+başka|adj|other, another|Başka bir soru var mı?|Is there another question?
+aynı|adj|same|Aynı okula gidiyoruz.|We go to the same school.
+bütün|adj|all, whole|Bütün gün çalıştım.|I worked all day.
+biraz|adv|a little|Biraz Türkçe biliyorum.|I know a little Turkish.
+az|adv|few, little|Çok az uyudum.|I slept very little.
+sonra|adv|after, later|Yemekten sonra konuşuruz.|We'll talk after the meal.
+önce|adv|before, ago|Bir yıl önce buraya taşındım.|I moved here a year ago.
+şimdi|adv|now|Şimdi çıkmam gerek.|I need to leave now.
+hemen|adv|immediately|Hemen geliyorum.|I'm coming right away.
+artık|adv|from now on; anymore|Artık sigara içmiyorum.|I don't smoke anymore.
+hâlâ|adv|still|Hâlâ bekliyorum.|I'm still waiting.
+
+# ---- question words ------------------------------------------------------
+nasıl|pron|how|Nasılsın?|How are you?|Bu nasıl çalışıyor?|How does this work?
+neden|pron|why|Neden geç kaldın?|Why were you late?
+niçin|pron|why, what for|Niçin gelmedin?|Why didn't you come?
+nerede|pron|where|Nerede oturuyorsun?|Where do you live?
+nereye|pron|(to) where|Nereye gidiyorsun?|Where are you going?
+nereden|pron|from where|Nereden geliyorsun?|Where are you coming from?
+ne zaman|pron|when|Ne zaman geliyorsun?|When are you coming?
+kim|pron|who|Kim geldi?|Who came?
+hangi|adj|which|Hangi kitabı istiyorsun?|Which book do you want?
+kaç|pron|how many, how much|Kaç yaşındasın?|How old are you?|Bu kaç lira?|How much is this?
+
+# ---- essential verbs -----------------------------------------------------
+olmak|v|to be, to become; to happen|Doktor olmak istiyorum.|I want to become a doctor.|Ne oldu?|What happened?
+yapmak|v|to do, to make|Ne yapıyorsun?|What are you doing?|Kahvaltı yaptım.|I had breakfast.
+etmek|v|to do (light verb)|Sana yardım edeyim.|Let me help you.|Teşekkür ederim.|Thank you.
+gitmek|v|to go|Okula gidiyorum.|I'm going to school.|Dün sinemaya gittik.|We went to the cinema yesterday.
+gelmek|v|to come|Yarın bize gel.|Come to our place tomorrow.|Otobüs geliyor.|The bus is coming.
+bilmek|v|to know|Onu tanımıyorum, bilmiyorum.|I don't know him.|Türkçe biliyor musun?|Do you know Turkish?
+istemek|v|to want|Bir kahve istiyorum.|I want a coffee.|Ne istiyorsun?|What do you want?
+görmek|v|to see|Seni görmek güzeldi.|It was good to see you.|Onu dün gördüm.|I saw him yesterday.
+vermek|v|to give|Bana kitabı ver.|Give me the book.|Bir karar vermem gerek.|I need to make a decision.
+almak|v|to take; to buy; to receive|Bu ekmeği aldım.|I bought this bread.|Mektubunu aldım.|I received your letter.
+söylemek|v|to say, to tell|Bana gerçeği söyle.|Tell me the truth.|Ne söyledi?|What did he say?
+demek|v|to say; to mean|Bu ne demek?|What does this mean?|"Evet" dedi.|He said "yes."
+bakmak|v|to look; to look after|Pencereden dışarı baktım.|I looked out the window.|Çocuğa bakıyorum.|I'm looking after the child.
+konuşmak|v|to speak, to talk|Yavaş konuşur musun?|Could you speak slowly?|Onunla konuştum.|I talked with him.
+anlamak|v|to understand|Anlamadım, tekrar eder misiniz?|I didn't understand, could you repeat?
+düşünmek|v|to think|Ne düşünüyorsun?|What do you think?|Seni düşünüyorum.|I'm thinking about you.
+sevmek|v|to love, to like|Türk kahvesini severim.|I like Turkish coffee.|Seni seviyorum.|I love you.
+yemek|v|to eat|Akşam ne yiyeceğiz?|What will we eat tonight?
+içmek|v|to drink; to smoke|Her sabah çay içerim.|I drink tea every morning.
+uyumak|v|to sleep|Dün gece iyi uyudum.|I slept well last night.
+kalkmak|v|to get up; to depart|Sabah yedide kalkarım.|I get up at seven in the morning.
+oturmak|v|to sit; to live, reside|İstanbul'da oturuyorum.|I live in Istanbul.|Lütfen oturun.|Please sit down.
+çalışmak|v|to work; to study|Bir bankada çalışıyorum.|I work at a bank.|Sınava çalışıyorum.|I'm studying for the exam.
+beklemek|v|to wait; to expect|Beni bekle.|Wait for me.|Yarım saat bekledim.|I waited half an hour.
+bulmak|v|to find|Anahtarımı bulamıyorum.|I can't find my key.
+kalmak|v|to stay, to remain|Bir hafta İzmir'de kaldım.|I stayed in Izmir for a week.
+çıkmak|v|to go out; to come out|Dışarı çıkalım mı?|Shall we go out?
+girmek|v|to enter|İçeri girebilir miyim?|May I come in?
+başlamak|v|to start, to begin|Ders saat dokuzda başlıyor.|The class starts at nine.
+bitmek|v|to end, to finish, to run out|Film bitti.|The film ended.|Şekerimiz bitti.|We've run out of sugar.
+açmak|v|to open; to turn on|Pencereyi açar mısın?|Would you open the window?
+kapatmak|v|to close; to turn off|Kapıyı kapat lütfen.|Close the door, please.
+okumak|v|to read; to study (a subject)|Her gece kitap okurum.|I read a book every night.
+yazmak|v|to write|Bana bir mektup yaz.|Write me a letter.
+dinlemek|v|to listen|Müzik dinlemeyi severim.|I like listening to music.
+duymak|v|to hear|Seni duyamıyorum.|I can't hear you.
+sormak|v|to ask|Bir soru sorabilir miyim?|May I ask a question?
+öğrenmek|v|to learn|Türkçe öğreniyorum.|I'm learning Turkish.
+öğretmek|v|to teach|Bana Türkçe öğretir misin?|Will you teach me Turkish?
+sevinmek|v|to be glad|Geldiğine çok sevindim.|I'm very glad you came.
+unutmak|v|to forget|Adını unuttum.|I forgot your name.
+hatırlamak|v|to remember|Seni hatırlıyorum.|I remember you.
+göstermek|v|to show|Bana yolu gösterir misin?|Would you show me the way?
+getirmek|v|to bring|Bir bardak su getirir misin?|Would you bring a glass of water?
+götürmek|v|to take (somewhere)|Seni havalimanına götüreyim.|Let me take you to the airport.
+koymak|v|to put|Kitabı masaya koydum.|I put the book on the table.
+kullanmak|v|to use|Bu kelimeyi nasıl kullanırım?|How do I use this word?
+yaşamak|v|to live|Ankara'da yaşıyorum.|I live in Ankara.
+ölmek|v|to die|Kedisi geçen yıl öldü.|His cat died last year.
+satmak|v|to sell|Arabasını sattı.|He sold his car.
+ödemek|v|to pay|Hesabı ödeyeceğim.|I'll pay the bill.
+yürümek|v|to walk|Eve kadar yürüdüm.|I walked all the way home.
+koşmak|v|to run|Her sabah parkta koşarım.|I run in the park every morning.
+sürmek|v|to drive; to last|Yolculuk üç saat sürdü.|The journey lasted three hours.
+binmek|v|to get on, to ride|Otobüse bindim.|I got on the bus.
+inmek|v|to get off; to go down|Burada iniyorum.|I'm getting off here.
+durmak|v|to stop; to stand|Araba durdu.|The car stopped.
+denemek|v|to try|Bir kez daha deneyelim.|Let's try one more time.
+yardım etmek|v|to help|Bana yardım eder misin?|Will you help me?
+inanmak|v|to believe|Sana inanıyorum.|I believe you.
+tanımak|v|to know (a person)|Onu iyi tanıyorum.|I know him well.
+kazanmak|v|to win; to earn|Maçı kazandık.|We won the match.
+kaybetmek|v|to lose|Cüzdanımı kaybettim.|I lost my wallet.
+seçmek|v|to choose|Birini seçmelisin.|You have to choose one.
+sevmemek|v|to dislike|Soğuk havayı sevmem.|I don't like cold weather.
+
+# ---- people --------------------------------------------------------------
+insan|n|human being, person|İnsanlar çok değişti.|People have changed a lot.
+kişi|n|person (counted)|Üç kişiyiz.|There are three of us.
+adam|n|man|O adam kim?|Who is that man?
+kadın|n|woman|Kadın çok nazikti.|The woman was very kind.
+çocuk|n|child|Çocuklar bahçede oynuyor.|The children are playing in the garden.
+kız|n|girl; daughter|Kızım sekiz yaşında.|My daughter is eight years old.
+oğlan|n|boy|Oğlan topu attı.|The boy threw the ball.
+arkadaş|n|friend|En iyi arkadaşımla buluştum.|I met my best friend.
+aile|n|family|Ailem İzmir'de yaşıyor.|My family lives in Izmir.
+anne|n|mother|Annem çok iyi yemek yapar.|My mother cooks very well.
+baba|n|father|Babam öğretmen.|My father is a teacher.
+kardeş|n|sibling; younger brother or sister|İki kardeşim var.|I have two siblings.
+abla|n|older sister|Ablam doktor.|My older sister is a doctor.
+ağabey|n|older brother|Ağabeyim Almanya'da çalışıyor.|My older brother works in Germany.
+oğul|n|son|Oğlu üniversiteye gidiyor.|His son goes to university.
+eş|n|spouse, partner|Eşim yarın geliyor.|My spouse is coming tomorrow.
+komşu|n|neighbour|Komşumuz çok gürültücü.|Our neighbour is very noisy.
+öğretmen|n|teacher|Öğretmenimiz çok sabırlı.|Our teacher is very patient.
+öğrenci|n|student|Ben bir öğrenciyim.|I am a student.
+doktor|n|doctor|Doktora gitmem gerek.|I need to go to the doctor.
+
+# ---- everyday nouns ------------------------------------------------------
+ev|n|house, home|Evde kimse yok.|There's nobody at home.
+oda|n|room|Odam çok küçük.|My room is very small.
+kapı|n|door|Kapı açık.|The door is open.
+pencere|n|window|Pencereyi kapatır mısın?|Would you close the window?
+masa|n|table|Masada bir bardak var.|There is a glass on the table.
+sandalye|n|chair|Bu sandalye rahat.|This chair is comfortable.
+yatak|n|bed|Yatak çok yumuşak.|The bed is very soft.
+mutfak|n|kitchen|Annem mutfakta.|My mother is in the kitchen.
+araba|n|car|Arabam bozuldu.|My car broke down.
+yol|n|road, way|Bu yol nereye gidiyor?|Where does this road go?
+şehir|n|city|İstanbul büyük bir şehir.|Istanbul is a big city.
+ülke|n|country|Hangi ülkeden geliyorsun?|Which country are you from?
+dünya|n|world|Dünya çok büyük.|The world is very big.
+yer|n|place; ground|Güzel bir yer biliyorum.|I know a nice place.
+sokak|n|street|Sokakta oynuyorlar.|They are playing in the street.
+dükkân|n|shop|Dükkân saat sekizde açılıyor.|The shop opens at eight.
+pazar|n|market; Sunday|Pazardan sebze aldım.|I bought vegetables from the market.
+okul|n|school|Okul evime yakın.|The school is near my house.
+hastane|n|hospital|Hastane şehir merkezinde.|The hospital is in the city centre.
+iş|n|work, job|İşim çok yoğun.|My work is very busy.
+para|n|money|Yeterli param yok.|I don't have enough money.
+kitap|n|book|Bu kitabı okudun mu?|Have you read this book?
+kalem|n|pen, pencil|Kalemini ödünç alabilir miyim?|May I borrow your pen?
+kâğıt|n|paper|Bir kâğıt ve kalem lazım.|I need paper and a pen.
+telefon|n|telephone|Telefonum şarjda.|My phone is charging.
+dil|n|language; tongue|Kaç dil biliyorsun?|How many languages do you know?
+kelime|n|word|Bu kelimeyi bilmiyorum.|I don't know this word.
+söz|n|word; promise|Sana söz veriyorum.|I promise you.
+ad|n|name|Adın ne?|What's your name?
+soru|n|question|Bir sorum var.|I have a question.
+cevap|n|answer|Cevabı biliyorum.|I know the answer.
+sorun|n|problem|Bir sorun mu var?|Is there a problem?
+
+# ---- food and drink ------------------------------------------------------
+su|n|water|Bir bardak su alabilir miyim?|May I have a glass of water?
+ekmek|n|bread|Fırından ekmek aldım.|I bought bread from the bakery.
+çay|n|tea|Çayı şekerli mi içersin?|Do you take your tea with sugar?
+kahve|n|coffee|Sabahları kahve içerim.|I drink coffee in the mornings.
+süt|n|milk|Buzdolabında süt var.|There is milk in the fridge.
+et|n|meat|Et yemiyorum.|I don't eat meat.
+balık|n|fish|Akşam balık yedik.|We ate fish in the evening.
+peynir|n|cheese|Kahvaltıda peynir severim.|I like cheese at breakfast.
+yumurta|n|egg|İki yumurta pişirdim.|I cooked two eggs.
+meyve|n|fruit|Her gün meyve yerim.|I eat fruit every day.
+sebze|n|vegetable|Sebzeleri yıkadım.|I washed the vegetables.
+elma|n|apple|Bu elma çok tatlı.|This apple is very sweet.
+şeker|n|sugar; candy|Çayıma şeker koymam.|I don't put sugar in my tea.
+tuz|n|salt|Yemek tuzsuz olmuş.|The food turned out unsalted.
+yemek|n|food; meal|Yemek hazır.|The food is ready.
+kahvaltı|n|breakfast|Kahvaltı yaptın mı?|Did you have breakfast?
+
+# ---- time ----------------------------------------------------------------
+zaman|n|time|Zamanım yok.|I don't have time.
+gün|n|day|Güzel bir gündü.|It was a nice day.
+gece|n|night|Gece geç yattım.|I went to bed late at night.
+sabah|n|morning|Sabah erken kalktım.|I got up early in the morning.
+öğle|n|noon|Öğlen buluşalım.|Let's meet at noon.
+akşam|n|evening|Akşam sinemaya gidiyoruz.|We're going to the cinema in the evening.
+hafta|n|week|Gelecek hafta tatildeyim.|I'm on holiday next week.
+ay|n|month; moon|Bu ay çok çalıştım.|I worked a lot this month.
+yıl|n|year|Üç yıldır burada yaşıyorum.|I've been living here for three years.
+saat|n|hour; clock, watch|Saat kaç?|What time is it?
+dakika|n|minute|Beş dakika bekle.|Wait five minutes.
+bugün|adv|today|Bugün hava çok güzel.|The weather is very nice today.
+yarın|adv|tomorrow|Yarın görüşürüz.|See you tomorrow.
+dün|adv|yesterday|Dün seni aradım.|I called you yesterday.
+
+# ---- adjectives ----------------------------------------------------------
+iyi|adj|good, well|Kendimi iyi hissediyorum.|I feel good.
+kötü|adj|bad|Hava çok kötü.|The weather is very bad.
+büyük|adj|big, large|Büyük bir hata yaptım.|I made a big mistake.
+küçük|adj|small|Küçük bir köyde büyüdüm.|I grew up in a small village.
+yeni|adj|new|Yeni bir telefon aldım.|I bought a new phone.
+eski|adj|old (of things)|Bu ev çok eski.|This house is very old.
+genç|adj|young|Çok genç görünüyorsun.|You look very young.
+yaşlı|adj|old (of people)|Yaşlı adam bankta oturuyordu.|The old man was sitting on the bench.
+uzun|adj|long, tall|Uzun bir yolculuktu.|It was a long journey.
+kısa|adj|short|Saçını kısa kestirdi.|She had her hair cut short.
+güzel|adj|beautiful, nice|Ne güzel bir manzara!|What a beautiful view!
+çirkin|adj|ugly|Bina çok çirkin.|The building is very ugly.
+kolay|adj|easy|Türkçe zor değil, kolay.|Turkish isn't hard, it's easy.
+zor|adj|hard, difficult|Bu soru çok zor.|This question is very hard.
+hızlı|adj|fast|Çok hızlı konuşuyorsun.|You're speaking very fast.
+yavaş|adj|slow|Lütfen yavaş konuş.|Please speak slowly.
+sıcak|adj|hot, warm|Çay çok sıcak.|The tea is very hot.
+soğuk|adj|cold|Bugün hava soğuk.|The weather is cold today.
+doğru|adj|correct, true; straight|Cevabın doğru.|Your answer is correct.
+yanlış|adj|wrong|Yanlış otobüse bindim.|I got on the wrong bus.
+mutlu|adj|happy|Seni gördüğüme mutlu oldum.|I was happy to see you.
+üzgün|adj|sad, sorry|Çok üzgünüm.|I'm very sorry.
+yorgun|adj|tired|Bugün çok yorgunum.|I'm very tired today.
+aç|adj|hungry|Çok açım.|I'm very hungry.
+tok|adj|full (not hungry)|Teşekkürler, tokum.|Thanks, I'm full.
+hasta|adj|sick, ill|Dün hastaydım.|I was sick yesterday.
+zengin|adj|rich|Zengin olmak istemiyorum.|I don't want to be rich.
+fakir|adj|poor|Fakir bir ailede büyüdü.|He grew up in a poor family.
+temiz|adj|clean|Oda çok temiz.|The room is very clean.
+kirli|adj|dirty|Ellerin kirli.|Your hands are dirty.
+kolay gelsin|interj|may it go easy (said to someone working)|Kolay gelsin!|Have an easy time of it!
+önemli|adj|important|Bu çok önemli.|This is very important.
+hazır|adj|ready|Hazır mısın?|Are you ready?
+açık|adj|open; light (colour); clear|Dükkân hâlâ açık.|The shop is still open.
+kapalı|adj|closed|Müze pazartesi kapalı.|The museum is closed on Monday.
+boş|adj|empty; free (unoccupied)|Bardak boş.|The glass is empty.
+dolu|adj|full|Otobüs çok dolu.|The bus is very full.
+
+# ---- colours -------------------------------------------------------------
+renk|n|colour|En sevdiğin renk ne?|What's your favourite colour?
+beyaz|adj|white|Beyaz bir gömlek giydi.|He wore a white shirt.
+siyah|adj|black|Siyah çanta benim.|The black bag is mine.
+kırmızı|adj|red|Kırmızı elmayı ver.|Give me the red apple.
+mavi|adj|blue|Gökyüzü çok mavi.|The sky is very blue.
+yeşil|adj|green|Yeşil çay içiyorum.|I'm drinking green tea.
+sarı|adj|yellow|Sarı bir araba gördüm.|I saw a yellow car.
+
+# ---- numbers -------------------------------------------------------------
+iki|num|two|İki kardeşim var.|I have two siblings.
+üç|num|three|Üç gün kaldım.|I stayed three days.
+dört|num|four|Dört kişilik bir masa lütfen.|A table for four, please.
+beş|num|five|Beş dakika sonra geliyorum.|I'm coming in five minutes.
+altı|num|six|Saat altıda buluşalım.|Let's meet at six.
+yedi|num|seven|Haftada yedi gün var.|There are seven days in a week.
+sekiz|num|eight|Sekiz yaşındaydım.|I was eight years old.
+dokuz|num|nine|Dokuz numara ayakkabı giyiyorum.|I wear size nine shoes.
+on|num|ten|On lira verdim.|I gave ten lira.
+yüz|num|hundred|Yüz kişi geldi.|A hundred people came.
+bin|num|thousand|Bin yıl önce burada bir şehir vardı.|A thousand years ago there was a city here.
+
+# ---- body ----------------------------------------------------------------
+el|n|hand|Ellerini yıka.|Wash your hands.
+ayak|n|foot|Ayağım ağrıyor.|My foot hurts.
+göz|n|eye|Gözlerin çok güzel.|Your eyes are very beautiful.
+kulak|n|ear|Kulağıma bir şey fısıldadı.|He whispered something in my ear.
+baş|n|head; beginning|Başım ağrıyor.|I have a headache.
+kalp|n|heart|Kalbim hızlı atıyor.|My heart is beating fast.
+can|n|life, soul; dear|Canım çok sıkılıyor.|I'm very bored.
+
+# ---- abstract ------------------------------------------------------------
+hayat|n|life|Hayat kısa.|Life is short.
+aşk|n|love (romantic)|Bu bir aşk hikâyesi.|This is a love story.
+sevgi|n|love, affection|Sevgiyle büyüdü.|He grew up with love.
+umut|n|hope|Hâlâ umudum var.|I still have hope.
+korku|n|fear|Korkum geçti.|My fear passed.
+fikir|n|idea, opinion|İyi bir fikir!|That's a good idea!
+sebep|n|reason|Bunun bir sebebi var.|There is a reason for this.
+yardım|n|help|Yardımına ihtiyacım var.|I need your help.
+
+# ---- greetings and politeness --------------------------------------------
+merhaba|interj|hello|Merhaba, nasılsın?|Hello, how are you?
+günaydın|interj|good morning|Günaydın! İyi uyudun mu?|Good morning! Did you sleep well?
+teşekkür|n|thanks|Teşekkür ederim.|Thank you.
+lütfen|adv|please|Lütfen bana yardım et.|Please help me.
+özür|n|apology|Özür dilerim, geç kaldım.|I'm sorry, I'm late.
+tamam|interj|okay, all right|Tamam, anlaştık.|Okay, we agree.
+efendim|interj|pardon?; yes? (polite response)|Efendim? Duyamadım.|Pardon? I couldn't hear.
+hoş geldiniz|interj|welcome|Hoş geldiniz, buyurun.|Welcome, please come in.
+görüşürüz|interj|see you|Görüşürüz, kendine iyi bak.|See you, take care.

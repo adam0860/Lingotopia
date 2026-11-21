@@ -1,0 +1,5451 @@
+{
+ "_comment": "Original example sentences written for words Tatoeba does not cover (Claude-authored, machine-checked with spaCy, then reviewed by independent passes; not native-reviewed).",
+ "cioè": [
+  {
+   "text": "Arrivo alle otto, cioè tra un'ora.",
+   "translation": "I'll arrive at eight, that is, in an hour."
+  }
+ ],
+ "insomma": [
+  {
+   "text": "Insomma, ti è piaciuto il film oppure no?",
+   "translation": "So, did you like the movie or not?"
+  },
+  {
+   "text": "Come stai? Insomma, potrebbe andare meglio.",
+   "translation": "How are you? So-so, it could be better."
+  }
+ ],
+ "oddio": [
+  {
+   "text": "Oddio, ho dimenticato le chiavi a casa!",
+   "translation": "Oh my God, I left my keys at home!"
+  }
+ ],
+ "anzi": [
+  {
+   "text": "Non mi disturbi, anzi, mi fa piacere.",
+   "translation": "You're not bothering me, on the contrary, I'm glad."
+  },
+  {
+   "text": "Mi piace questa città, anzi, la adoro.",
+   "translation": "I like this city, or rather, I love it."
+  }
+ ],
+ "bomba": [
+  {
+   "text": "Ieri una bomba d'acqua ha allagato la strada.",
+   "translation": "Yesterday a sudden downpour flooded the street."
+  }
+ ],
+ "figurare": [
+  {
+   "text": "Figurati, nessun problema, torna quando vuoi!",
+   "translation": "Not at all, no problem, come back whenever you like!"
+  },
+  {
+   "text": "Mi figuro la scena: tutti in fila sotto la pioggia.",
+   "translation": "I can picture the scene: everyone in line in the rain."
+  }
+ ],
+ "formazione": [
+  {
+   "text": "Questa azienda offre una buona formazione ai giovani.",
+   "translation": "This company offers good training to young people."
+  },
+  {
+   "text": "Qual è la formazione della squadra per domani?",
+   "translation": "What is the team's lineup for tomorrow?"
+  }
+ ],
+ "fugare": [
+  {
+   "text": "Le sue parole hanno fugato tutti i miei dubbi.",
+   "translation": "His words dispelled all my doubts."
+  },
+  {
+   "text": "Un po' di chiarezza può fugare la paura.",
+   "translation": "A little clarity can dispel fear."
+  }
+ ],
+ "intanto": [
+  {
+   "text": "Tu prepara la tavola, intanto io cucino.",
+   "translation": "You set the table, meanwhile I'll cook."
+  }
+ ],
+ "procuratore": [
+  {
+   "text": "Il procuratore ha parlato con i giornalisti.",
+   "translation": "The prosecutor spoke with the journalists."
+  },
+  {
+   "text": "Il calciatore ha chiamato il suo procuratore.",
+   "translation": "The footballer called his agent."
+  }
+ ],
+ "tenente": [
+  {
+   "text": "Il tenente ha dato l'ordine di partire.",
+   "translation": "The lieutenant gave the order to leave."
+  }
+ ],
+ "clinico": [
+  {
+   "text": "Il medico ha fatto un esame clinico completo.",
+   "translation": "The doctor did a complete clinical exam."
+  },
+  {
+   "text": "Abbiamo un quadro clinico molto chiaro.",
+   "translation": "We have a very clear clinical picture."
+  }
+ ],
+ "compreso": [
+  {
+   "text": "Il prezzo è compreso di colazione?",
+   "translation": "Is breakfast included in the price?"
+  },
+  {
+   "text": "Pago cento euro, servizio compreso.",
+   "translation": "I'm paying a hundred euros, service included."
+  }
+ ],
+ "incarico": [
+  {
+   "text": "Ho un nuovo incarico in ufficio da lunedì.",
+   "translation": "I have a new assignment at the office starting Monday."
+  },
+  {
+   "text": "Chi ti ha dato questo incarico?",
+   "translation": "Who gave you this task?"
+  }
+ ],
+ "protagonista": [
+  {
+   "text": "La protagonista del film è una giovane cuoca.",
+   "translation": "The main character of the film is a young cook."
+  },
+  {
+   "text": "Chi è il protagonista di questo libro?",
+   "translation": "Who is the protagonist of this book?"
+  }
+ ],
+ "testimonianza": [
+  {
+   "text": "La sua testimonianza è stata molto utile.",
+   "translation": "His testimony was very useful."
+  },
+  {
+   "text": "Questa foto è una testimonianza della nostra vecchia casa.",
+   "translation": "This photo is a record of our old house."
+  }
+ ],
+ "vice": [
+  {
+   "text": "Il vice del direttore risponde alle email.",
+   "translation": "The director's deputy answers the emails."
+  }
+ ],
+ "concorrere": [
+  {
+   "text": "Molti fattori concorrono al successo di un progetto.",
+   "translation": "Many factors contribute to a project's success."
+  },
+  {
+   "text": "Vuoi concorrere per il premio di quest'anno?",
+   "translation": "Do you want to compete for this year's prize?"
+  }
+ ],
+ "onere": [
+  {
+   "text": "Gli oneri della casa sono a carico del proprietario.",
+   "translation": "The costs of the house are the owner's responsibility."
+  },
+  {
+   "text": "Pagare tutto da solo è un onere troppo pesante.",
+   "translation": "Paying for everything alone is too heavy a burden."
+  }
+ ],
+ "ehm": [
+  {
+   "text": "Ehm, scusa, potresti ripetere la domanda?",
+   "translation": "Um, sorry, could you repeat the question?"
+  },
+  {
+   "text": "Ehm, non so cosa dire.",
+   "translation": "Er, I don't know what to say."
+  }
+ ],
+ "trasmissione": [
+  {
+   "text": "Questa sera guardo la mia trasmissione preferita.",
+   "translation": "Tonight I'm watching my favorite show."
+  }
+ ],
+ "convenire": [
+  {
+   "text": "Con questo freddo conviene portare una giacca.",
+   "translation": "With this cold, it's best to bring a jacket."
+  },
+  {
+   "text": "Ti conviene prenotare il treno in anticipo.",
+   "translation": "You'd do well to book the train in advance."
+  }
+ ],
+ "condanna": [
+  {
+   "text": "Il giudice ha letto la condanna in aula.",
+   "translation": "The judge read the sentence in court."
+  }
+ ],
+ "plastico": [
+  {
+   "text": "Il museo ha un plastico della città antica.",
+   "translation": "The museum has a scale model of the ancient city."
+  }
+ ],
+ "appellare": [
+  {
+   "text": "Mi appello al tuo buon senso: aspettiamo un po'.",
+   "translation": "I appeal to your common sense: let's wait a bit."
+  }
+ ],
+ "scontro": [
+  {
+   "text": "Lo scontro tra due auto ha bloccato la strada.",
+   "translation": "The collision between two cars blocked the road."
+  }
+ ],
+ "ispettore": [
+  {
+   "text": "L'ispettore controlla la cucina del ristorante ogni anno.",
+   "translation": "The inspector checks the restaurant's kitchen every year."
+  }
+ ],
+ "puntata": [
+  {
+   "text": "Stasera guardiamo l'ultima puntata della serie.",
+   "translation": "Tonight we're watching the last episode of the series."
+  },
+  {
+   "text": "Domenica facciamo una puntata al mare.",
+   "translation": "On Sunday we're taking a quick trip to the sea."
+  }
+ ],
+ "posteriore": [
+  {
+   "text": "Il bambino siede sul sedile posteriore.",
+   "translation": "The child sits on the back seat."
+  }
+ ],
+ "statale": [
+  {
+   "text": "Mia sorella studia in una scuola statale.",
+   "translation": "My sister studies at a state school."
+  }
+ ],
+ "trasferimento": [
+  {
+   "text": "Il mio trasferimento a Milano è previsto per marzo.",
+   "translation": "My move to Milan is planned for March."
+  }
+ ],
+ "stop": [
+  {
+   "text": "Fermati allo stop prima di girare a destra.",
+   "translation": "Stop at the stop sign before turning right."
+  }
+ ],
+ "decennio": [
+  {
+   "text": "Questo quartiere è cambiato molto nell'ultimo decennio.",
+   "translation": "This neighborhood has changed a lot in the last decade."
+  }
+ ],
+ "editore": [
+  {
+   "text": "L'editore ha scelto la copertina del libro.",
+   "translation": "The publisher chose the book's cover."
+  }
+ ],
+ "giunta": [
+  {
+   "text": "La giunta comunale si riunisce domani mattina.",
+   "translation": "The city council meets tomorrow morning."
+  },
+  {
+   "text": "La giunta ha approvato i lavori nel parco.",
+   "translation": "The council approved the work in the park."
+  }
+ ],
+ "esclusivo": [
+  {
+   "text": "Questo è un club esclusivo, non puoi entrare.",
+   "translation": "This is an exclusive club, you can't get in."
+  }
+ ],
+ "mail": [
+  {
+   "text": "Ti ho mandato una mail ieri sera.",
+   "translation": "I sent you an email last night."
+  },
+  {
+   "text": "Hai letto la mail del direttore?",
+   "translation": "Have you read the director's email?"
+  }
+ ],
+ "comunale": [
+  {
+   "text": "La biblioteca comunale è aperta fino alle sei.",
+   "translation": "The municipal library is open until six."
+  },
+  {
+   "text": "Dov'è l'ufficio comunale?",
+   "translation": "Where is the town hall office?"
+  }
+ ],
+ "fondato": [
+  {
+   "text": "Il tuo timore non è fondato.",
+   "translation": "Your fear is not well-founded."
+  }
+ ],
+ "comandare": [
+  {
+   "text": "In questa casa comanda mia nonna.",
+   "translation": "In this house, my grandmother is in charge."
+  }
+ ],
+ "spettare": [
+  {
+   "text": "A te spetta la decisione finale.",
+   "translation": "The final decision is up to you."
+  }
+ ],
+ "componente": [
+  {
+   "text": "Ogni componente della squadra deve arrivare in orario.",
+   "translation": "Every member of the team must arrive on time."
+  }
+ ],
+ "istituzione": [
+  {
+   "text": "La scuola è un'istituzione molto importante.",
+   "translation": "The school is a very important institution."
+  }
+ ],
+ "fondazione": [
+  {
+   "text": "Mia zia lavora per una fondazione che aiuta i bambini.",
+   "translation": "My aunt works for a foundation that helps children."
+  },
+  {
+   "text": "Quando è stata la fondazione della città?",
+   "translation": "When was the founding of the city?"
+  }
+ ],
+ "piattaforma": [
+  {
+   "text": "Il treno parte dalla piattaforma numero tre.",
+   "translation": "The train leaves from platform number three."
+  },
+  {
+   "text": "Usi questa piattaforma per i tuoi corsi online?",
+   "translation": "Do you use this platform for your online courses?"
+  }
+ ],
+ "figurato": [
+  {
+   "text": "Dicevo in senso figurato, non alla lettera.",
+   "translation": "I meant it in a figurative sense, not literally."
+  },
+  {
+   "text": "Questa parola qui ha un significato figurato.",
+   "translation": "This word has a figurative meaning here."
+  }
+ ],
+ "disciplinare": [
+  {
+   "text": "Una legge nuova disciplina l'uso delle biciclette in città.",
+   "translation": "A new law regulates the use of bicycles in the city."
+  },
+  {
+   "text": "È difficile disciplinare un cane così vivace.",
+   "translation": "It's hard to discipline such a lively dog."
+  }
+ ],
+ "formulare": [
+  {
+   "text": "Non so come formulare bene la domanda.",
+   "translation": "I don't know how to phrase the question well."
+  }
+ ],
+ "furbo": [
+  {
+   "text": "Il mio gatto è molto furbo e apre le porte.",
+   "translation": "My cat is very clever and opens doors."
+  }
+ ],
+ "regolamento": [
+  {
+   "text": "Il regolamento della piscina vieta di correre.",
+   "translation": "The pool rules forbid running."
+  }
+ ],
+ "liso": [
+  {
+   "text": "Questa giacca è molto lisa sui gomiti.",
+   "translation": "This jacket is very worn at the elbows."
+  },
+  {
+   "text": "Perché non butti via quei jeans lisi?",
+   "translation": "Why don't you throw away those threadbare jeans?"
+  }
+ ],
+ "cosiddetto": [
+  {
+   "text": "Il cosiddetto esperto non sapeva rispondere.",
+   "translation": "The so-called expert didn't know how to answer."
+  }
+ ],
+ "consulente": [
+  {
+   "text": "Domani incontro un consulente per il mio lavoro.",
+   "translation": "Tomorrow I'm meeting a consultant about my job."
+  }
+ ],
+ "figliolo": [
+  {
+   "text": "Vieni qui, figliolo, ti aiuto io.",
+   "translation": "Come here, my boy, I'll help you."
+  },
+  {
+   "text": "Non ti preoccupare, figliolo, andrà tutto bene.",
+   "translation": "Don't worry, son, everything will be fine."
+  }
+ ],
+ "ricettare": [
+  {
+   "text": "La polizia ha fermato un uomo che ricettava telefoni rubati.",
+   "translation": "The police stopped a man who was fencing stolen phones."
+  },
+  {
+   "text": "Ricettare merce rubata è un reato.",
+   "translation": "Receiving stolen goods is a crime."
+  }
+ ],
+ "protocollo": [
+  {
+   "text": "Dobbiamo rispettare il protocollo di sicurezza.",
+   "translation": "We have to follow the safety protocol."
+  },
+  {
+   "text": "Il medico segue sempre lo stesso protocollo?",
+   "translation": "Does the doctor always follow the same protocol?"
+  }
+ ],
+ "ritiro": [
+  {
+   "text": "Il ritiro dei bagagli è al piano terra.",
+   "translation": "Baggage collection is on the ground floor."
+  },
+  {
+   "text": "A che ora è il ritiro del pacco?",
+   "translation": "What time is the package pick-up?"
+  }
+ ],
+ "mafia": [
+  {
+   "text": "Ieri sera abbiamo visto un film sulla mafia.",
+   "translation": "Last night we watched a movie about the Mafia."
+  }
+ ],
+ "elettore": [
+  {
+   "text": "Ogni elettore deve portare un documento.",
+   "translation": "Every voter must bring an ID."
+  },
+  {
+   "text": "Sei un elettore di questa città?",
+   "translation": "Are you a voter in this city?"
+  }
+ ],
+ "cavaliere": [
+  {
+   "text": "Il cavaliere è salito sul cavallo bianco.",
+   "translation": "The knight climbed onto the white horse."
+  }
+ ],
+ "sceriffo": [
+  {
+   "text": "Nel film, lo sceriffo arriva sempre in ritardo.",
+   "translation": "In the movie, the sheriff always arrives late."
+  }
+ ],
+ "percentuale": [
+  {
+   "text": "Qual è la percentuale di studenti che passa l'esame?",
+   "translation": "What percentage of students pass the exam?"
+  }
+ ],
+ "pubblicazione": [
+  {
+   "text": "La pubblicazione del libro è prevista per giugno.",
+   "translation": "The publication of the book is planned for June."
+  }
+ ],
+ "duca": [
+  {
+   "text": "Il duca viveva in un grande castello.",
+   "translation": "The duke lived in a big castle."
+  }
+ ],
+ "eccellenza": [
+  {
+   "text": "Questo ristorante è un'eccellenza della nostra zona.",
+   "translation": "This restaurant is a point of excellence in our area."
+  },
+  {
+   "text": "Cerchiamo sempre l'eccellenza nel nostro lavoro.",
+   "translation": "We always strive for excellence in our work."
+  }
+ ],
+ "mestiere": [
+  {
+   "text": "Mio nonno faceva il falegname, un mestiere difficile.",
+   "translation": "My grandfather was a carpenter, a difficult trade."
+  }
+ ],
+ "affinché": [
+  {
+   "text": "Parlo piano affinché tutti capiscano.",
+   "translation": "I speak slowly so that everyone understands."
+  }
+ ],
+ "stregare": [
+  {
+   "text": "Nella fiaba, la strega vuole stregare il principe.",
+   "translation": "In the fairy tale, the witch wants to bewitch the prince."
+  },
+  {
+   "text": "Questa canzone mi ha stregato.",
+   "translation": "This song has enchanted me."
+  }
+ ],
+ "geniale": [
+  {
+   "text": "Che idea geniale, grazie mille!",
+   "translation": "What a brilliant idea, thanks a lot!"
+  }
+ ],
+ "patrimonio": [
+  {
+   "text": "Questa chiesa fa parte del patrimonio della città.",
+   "translation": "This church is part of the city's heritage."
+  }
+ ],
+ "dolcezza": [
+  {
+   "text": "Mi piace la dolcezza di questa torta.",
+   "translation": "I like the sweetness of this cake."
+  },
+  {
+   "text": "Parla ai bambini con grande dolcezza.",
+   "translation": "She speaks to the children with great gentleness."
+  }
+ ],
+ "sessione": [
+  {
+   "text": "La sessione d'esami inizia a giugno.",
+   "translation": "The exam session starts in June."
+  },
+  {
+   "text": "Stasera ho una sessione di allenamento alle sei.",
+   "translation": "Tonight I have a training session at six."
+  }
+ ],
+ "stabilito": [
+  {
+   "text": "Arriviamo all'ora stabilita.",
+   "translation": "We'll arrive at the agreed time."
+  }
+ ],
+ "udienza": [
+  {
+   "text": "L'udienza è fissata per lunedì mattina.",
+   "translation": "The hearing is set for Monday morning."
+  }
+ ],
+ "pertanto": [
+  {
+   "text": "Il treno è in ritardo, pertanto arriveremo dopo le nove.",
+   "translation": "The train is late, so we will arrive after nine."
+  }
+ ],
+ "omaggio": [
+  {
+   "text": "Con l'acquisto riceve un omaggio.",
+   "translation": "With your purchase you get a free gift."
+  }
+ ],
+ "telecamera": [
+  {
+   "text": "C'è una telecamera davanti al negozio.",
+   "translation": "There is a camera in front of the shop."
+  },
+  {
+   "text": "Ho comprato una telecamera nuova per le vacanze.",
+   "translation": "I bought a new video camera for the holidays."
+  }
+ ],
+ "maestà": [
+  {
+   "text": "Il re entrò nella sala con grande maestà.",
+   "translation": "The king entered the hall with great majesty."
+  },
+  {
+   "text": "La maestà della montagna ci lasciò senza parole.",
+   "translation": "The majesty of the mountain left us speechless."
+  }
+ ],
+ "precisare": [
+  {
+   "text": "Può precisare l'orario della riunione?",
+   "translation": "Could you specify the time of the meeting?"
+  }
+ ],
+ "tattico": [
+  {
+   "text": "Il nostro allenatore ha cambiato lo schema tattico.",
+   "translation": "Our coach changed the tactical formation."
+  },
+  {
+   "text": "Quel giocatore ha una mente molto tattica.",
+   "translation": "That player has a very tactical mind."
+  }
+ ],
+ "operatore": [
+  {
+   "text": "L'operatore ha ripreso tutta la partita.",
+   "translation": "The camera operator filmed the whole match."
+  }
+ ],
+ "eventuale": [
+  {
+   "text": "Per eventuali problemi, chiamami pure.",
+   "translation": "If any problems come up, just call me."
+  },
+  {
+   "text": "Controlla l'eventuale ritardo del treno.",
+   "translation": "Check for any possible delay of the train."
+  }
+ ],
+ "distribuzione": [
+  {
+   "text": "La distribuzione dei pacchi inizia alle otto.",
+   "translation": "The delivery of the packages starts at eight."
+  }
+ ],
+ "rottura": [
+  {
+   "text": "La rottura della lavatrice ci ha rovinato la giornata.",
+   "translation": "The breakdown of the washing machine ruined our day."
+  }
+ ],
+ "regime": [
+  {
+   "text": "Il medico mi ha consigliato un regime senza zuccheri.",
+   "translation": "The doctor recommended a sugar-free diet."
+  }
+ ],
+ "business": [
+  {
+   "text": "Mio zio ha un business di biciclette.",
+   "translation": "My uncle has a bicycle business."
+  },
+  {
+   "text": "Il business online va molto bene.",
+   "translation": "Online business is going very well."
+  }
+ ],
+ "indovino": [
+  {
+   "text": "L'indovino disse che avrei viaggiato molto.",
+   "translation": "The fortune-teller said I would travel a lot."
+  },
+  {
+   "text": "Secondo te, un indovino può conoscere il futuro?",
+   "translation": "Do you think a fortune-teller can know the future?"
+  }
+ ],
+ "coach": [
+  {
+   "text": "Il mio coach mi aiuta a correre meglio.",
+   "translation": "My coach helps me run better."
+  }
+ ],
+ "leva": [
+  {
+   "text": "Usa una leva per sollevare la pietra.",
+   "translation": "Use a lever to lift the stone."
+  },
+  {
+   "text": "Mio nonno ha fatto la leva a diciotto anni.",
+   "translation": "My grandfather was called up for military service at eighteen."
+  }
+ ],
+ "comunicato": [
+  {
+   "text": "Il comune ha pubblicato un comunicato sulla neve.",
+   "translation": "The town hall published a statement about the snow."
+  },
+  {
+   "text": "Hai letto il comunicato dell'azienda?",
+   "translation": "Did you read the company's press release?"
+  }
+ ],
+ "addetto": [
+  {
+   "text": "Chiedi all'addetto alla reception.",
+   "translation": "Ask the receptionist."
+  }
+ ],
+ "chat": [
+  {
+   "text": "Ti scrivo in chat più tardi.",
+   "translation": "I'll message you in the chat later."
+  }
+ ],
+ "giudiziario": [
+  {
+   "text": "Mio cugino lavora in un ufficio giudiziario.",
+   "translation": "My cousin works in a judicial office."
+  },
+  {
+   "text": "Il sistema giudiziario è spesso molto lento.",
+   "translation": "The judicial system is often very slow."
+  }
+ ],
+ "tutelare": [
+  {
+   "text": "Dobbiamo tutelare l'ambiente.",
+   "translation": "We must protect the environment."
+  },
+  {
+   "text": "Questa legge serve a tutelare i consumatori.",
+   "translation": "This law is meant to protect consumers."
+  }
+ ],
+ "live": [
+  {
+   "text": "Stasera c'è un concerto live in piazza.",
+   "translation": "Tonight there's a live concert in the square."
+  },
+  {
+   "text": "Guardiamo la partita live o in differita?",
+   "translation": "Shall we watch the match live or recorded?"
+  }
+ ],
+ "ebbene": [
+  {
+   "text": "Ebbene, che cosa hai deciso?",
+   "translation": "Well then, what have you decided?"
+  },
+  {
+   "text": "Ebbene, ho deciso di restare a casa.",
+   "translation": "Well, I've decided to stay home."
+  }
+ ],
+ "cardinale": [
+  {
+   "text": "I punti cardinali sono quattro.",
+   "translation": "There are four cardinal points."
+  },
+  {
+   "text": "La bussola indica il nord, un punto cardinale.",
+   "translation": "The compass points north, a cardinal direction."
+  }
+ ],
+ "decreto": [
+  {
+   "text": "Il sindaco ha firmato un decreto sulla pulizia delle strade.",
+   "translation": "The mayor signed a decree on street cleaning."
+  },
+  {
+   "text": "Il decreto è stato pubblicato ieri.",
+   "translation": "The decree was published yesterday."
+  }
+ ],
+ "missile": [
+  {
+   "text": "Il bambino costruisce un missile di cartone.",
+   "translation": "The child is building a cardboard rocket."
+  }
+ ],
+ "spirituale": [
+  {
+   "text": "Dopo il viaggio ho sentito una pace spirituale.",
+   "translation": "After the trip I felt a spiritual peace."
+  }
+ ],
+ "getto": [
+  {
+   "text": "Un getto d'acqua mi ha bagnato la camicia.",
+   "translation": "A jet of water soaked my shirt."
+  },
+  {
+   "text": "Il getto della doccia è troppo forte.",
+   "translation": "The spray from the shower is too strong."
+  }
+ ],
+ "ambientale": [
+  {
+   "text": "Riciclare aiuta a ridurre l'inquinamento ambientale.",
+   "translation": "Recycling helps reduce environmental pollution."
+  }
+ ],
+ "pazzesco": [
+  {
+   "text": "Il panorama da qui è pazzesco!",
+   "translation": "The view from here is incredible!"
+  },
+  {
+   "text": "Che caldo pazzesco oggi!",
+   "translation": "It's crazy hot today!"
+  }
+ ],
+ "ente": [
+  {
+   "text": "L'ente del turismo offre mappe gratuite.",
+   "translation": "The tourism board offers free maps."
+  },
+  {
+   "text": "Devi presentare la domanda a un ente pubblico.",
+   "translation": "You have to submit the application to a public agency."
+  }
+ ],
+ "boom": [
+  {
+   "text": "Dopo l'estate c'è stato un boom di turisti.",
+   "translation": "After the summer there was a boom in tourists."
+  },
+  {
+   "text": "Il boom dei telefoni ha cambiato la nostra vita.",
+   "translation": "The phone boom has changed our lives."
+  }
+ ],
+ "preparazione": [
+  {
+   "text": "La preparazione della cena richiede un'ora.",
+   "translation": "Preparing dinner takes an hour."
+  },
+  {
+   "text": "Per l'esame serve una buona preparazione.",
+   "translation": "You need good preparation for the exam."
+  }
+ ],
+ "alloggio": [
+  {
+   "text": "Abbiamo prenotato l'alloggio vicino al mare.",
+   "translation": "We booked accommodation near the sea."
+  }
+ ],
+ "secondario": [
+  {
+   "text": "Questo è solo un problema secondario.",
+   "translation": "This is only a secondary problem."
+  }
+ ],
+ "facoltà": [
+  {
+   "text": "Mia sorella frequenta la facoltà di medicina.",
+   "translation": "My sister attends the faculty of medicine."
+  }
+ ],
+ "amministrativo": [
+  {
+   "text": "Lavoro in un ufficio amministrativo.",
+   "translation": "I work in an administrative office."
+  }
+ ],
+ "rilevare": [
+  {
+   "text": "Il sensore rileva ogni movimento nella stanza.",
+   "translation": "The sensor detects every movement in the room."
+  }
+ ],
+ "pretendere": [
+  {
+   "text": "Non puoi pretendere troppo da un bambino.",
+   "translation": "You can't expect too much from a child."
+  }
+ ],
+ "imprenditore": [
+  {
+   "text": "Mio zio è un imprenditore di successo.",
+   "translation": "My uncle is a successful entrepreneur."
+  },
+  {
+   "text": "L'imprenditore ha aperto tre negozi in città.",
+   "translation": "The entrepreneur opened three shops in the city."
+  }
+ ],
+ "gang": [
+  {
+   "text": "Nel film c'è una gang di motociclisti.",
+   "translation": "In the movie there is a gang of bikers."
+  }
+ ],
+ "boss": [
+  {
+   "text": "Il mio boss mi ha dato il giorno libero.",
+   "translation": "My boss gave me the day off."
+  },
+  {
+   "text": "Chi è il boss di questa squadra?",
+   "translation": "Who is the boss of this team?"
+  }
+ ],
+ "azzardare": [
+  {
+   "text": "Non voglio azzardare una risposta.",
+   "translation": "I don't want to venture an answer."
+  }
+ ],
+ "giurato": [
+  {
+   "text": "Il giurato ascolta con molta attenzione.",
+   "translation": "The juror listens very carefully."
+  },
+  {
+   "text": "Sei stato scelto come giurato?",
+   "translation": "Were you chosen as a juror?"
+  }
+ ],
+ "attentato": [
+  {
+   "text": "Il telegiornale parla di un attentato.",
+   "translation": "The news is talking about an attack."
+  },
+  {
+   "text": "La città ricorda le vittime dell'attentato.",
+   "translation": "The city remembers the victims of the attack."
+  }
+ ],
+ "collegio": [
+  {
+   "text": "Da ragazzo ha vissuto in un collegio.",
+   "translation": "As a boy he lived in a boarding school."
+  }
+ ],
+ "audio": [
+  {
+   "text": "L'audio del video non funziona.",
+   "translation": "The audio of the video isn't working."
+  }
+ ],
+ "corriere": [
+  {
+   "text": "Il corriere consegna il pacco domani mattina.",
+   "translation": "The courier will deliver the package tomorrow morning."
+  }
+ ],
+ "nucleo": [
+  {
+   "text": "In casa vive un nucleo familiare di quattro persone.",
+   "translation": "A family unit of four people lives in the house."
+  }
+ ],
+ "barriera": [
+  {
+   "text": "La barriera è chiusa, dobbiamo aspettare.",
+   "translation": "The gate is closed, we have to wait."
+  }
+ ],
+ "imputato": [
+  {
+   "text": "L'imputato risponde con calma alle domande.",
+   "translation": "The defendant answers the questions calmly."
+  }
+ ],
+ "ambito": [
+  {
+   "text": "Mia sorella lavora in ambito sanitario.",
+   "translation": "My sister works in the healthcare field."
+  }
+ ],
+ "sospensione": [
+  {
+   "text": "La sospensione delle lezioni dura due giorni.",
+   "translation": "The suspension of classes lasts two days."
+  }
+ ],
+ "filmato": [
+  {
+   "text": "Ho guardato il filmato del matrimonio.",
+   "translation": "I watched the footage of the wedding."
+  },
+  {
+   "text": "Puoi mandarmi il filmato della festa?",
+   "translation": "Can you send me the video clip of the party?"
+  }
+ ],
+ "adozione": [
+  {
+   "text": "L'adozione di un cane è una bella scelta.",
+   "translation": "Adopting a dog is a good choice."
+  },
+  {
+   "text": "Hanno iniziato le pratiche per l'adozione.",
+   "translation": "They started the paperwork for the adoption."
+  }
+ ],
+ "clandestino": [
+  {
+   "text": "Hanno organizzato un concerto clandestino.",
+   "translation": "They organized an underground concert."
+  }
+ ],
+ "margine": [
+  {
+   "text": "Scrivi una nota a margine della pagina.",
+   "translation": "Write a note in the margin of the page."
+  },
+  {
+   "text": "C'è poco margine di errore.",
+   "translation": "There is little margin for error."
+  }
+ ],
+ "mister": [
+  {
+   "text": "Il mister ha cambiato la formazione.",
+   "translation": "The coach changed the lineup."
+  }
+ ],
+ "combinato": [
+  {
+   "text": "Il risultato combinato dei due test è buono.",
+   "translation": "The combined result of the two tests is good."
+  },
+  {
+   "text": "Dicono che la partita fosse combinata.",
+   "translation": "They say the match was fixed."
+  }
+ ],
+ "esclusivamente": [
+  {
+   "text": "Questo posto è riservato esclusivamente ai clienti.",
+   "translation": "This place is reserved exclusively for customers."
+  }
+ ],
+ "collettivo": [
+  {
+   "text": "Abbiamo preso una decisione collettiva.",
+   "translation": "We made a collective decision."
+  },
+  {
+   "text": "È stato un lavoro collettivo, non solo mio.",
+   "translation": "It was a joint effort, not just mine."
+  }
+ ],
+ "manifesto": [
+  {
+   "text": "Ho visto un manifesto del concerto in stazione.",
+   "translation": "I saw a poster for the concert at the station."
+  },
+  {
+   "text": "Puoi attaccare il manifesto al muro?",
+   "translation": "Can you stick the poster on the wall?"
+  }
+ ],
+ "rivoluzionario": [
+  {
+   "text": "Hanno inventato un telefono rivoluzionario.",
+   "translation": "They invented a revolutionary phone."
+  },
+  {
+   "text": "È un'idea davvero rivoluzionaria per la scuola.",
+   "translation": "It's a truly revolutionary idea for schools."
+  }
+ ],
+ "picco": [
+  {
+   "text": "Il picco del caldo arriva a luglio.",
+   "translation": "The peak of the heat comes in July."
+  },
+  {
+   "text": "Sul picco più alto c'è ancora la neve.",
+   "translation": "There is still snow on the highest peak."
+  }
+ ],
+ "sottoposto": [
+  {
+   "text": "Il paziente è sottoposto a controlli regolari.",
+   "translation": "The patient is subjected to regular checkups."
+  }
+ ],
+ "esplosivo": [
+  {
+   "text": "Ha un carattere esplosivo, ma è buono.",
+   "translation": "He has an explosive temper, but he's kind."
+  },
+  {
+   "text": "Il film ha un finale esplosivo.",
+   "translation": "The movie has an explosive ending."
+  }
+ ],
+ "modalità": [
+  {
+   "text": "Scegli la modalità di pagamento.",
+   "translation": "Choose the payment method."
+  },
+  {
+   "text": "Attiva la modalità aereo prima di partire.",
+   "translation": "Turn on airplane mode before you leave."
+  }
+ ],
+ "sfondo": [
+  {
+   "text": "Ho cambiato lo sfondo del telefono.",
+   "translation": "I changed my phone's background."
+  },
+  {
+   "text": "Sullo sfondo si vedono le montagne.",
+   "translation": "You can see the mountains in the background."
+  }
+ ],
+ "trasformazione": [
+  {
+   "text": "La trasformazione del quartiere è stata rapida.",
+   "translation": "The transformation of the neighborhood was fast."
+  },
+  {
+   "text": "Hai visto la trasformazione della cucina?",
+   "translation": "Have you seen the transformation of the kitchen?"
+  }
+ ],
+ "chance": [
+  {
+   "text": "Dagli una seconda chance, ti prego.",
+   "translation": "Give him a second chance, please."
+  },
+  {
+   "text": "Questo lavoro è una grande chance per me.",
+   "translation": "This job is a great opportunity for me."
+  }
+ ],
+ "assemblea": [
+  {
+   "text": "Domani sera c'è l'assemblea dei genitori.",
+   "translation": "Tomorrow evening there is the parents' meeting."
+  }
+ ],
+ "sequestrare": [
+  {
+   "text": "La polizia ha sequestrato merce falsa al mercato.",
+   "translation": "The police seized fake goods at the market."
+  },
+  {
+   "text": "Possono sequestrare i prodotti senza etichetta?",
+   "translation": "Can they confiscate products without a label?"
+  }
+ ],
+ "dinamico": [
+  {
+   "text": "Cerchiamo una persona giovane e dinamica.",
+   "translation": "We are looking for a young, dynamic person."
+  }
+ ],
+ "salvezza": [
+  {
+   "text": "I marinai hanno trovato salvezza su un'isola.",
+   "translation": "The sailors found safety on an island."
+  },
+  {
+   "text": "La nostra squadra lotta per la salvezza.",
+   "translation": "Our team is fighting to avoid relegation."
+  }
+ ],
+ "radiazione": [
+  {
+   "text": "Il sole emette una radiazione molto forte.",
+   "translation": "The sun gives off very strong radiation."
+  },
+  {
+   "text": "La radiazione ultravioletta danneggia la pelle.",
+   "translation": "Ultraviolet radiation damages the skin."
+  }
+ ],
+ "rituale": [
+  {
+   "text": "Il caffè al mattino è il mio rituale.",
+   "translation": "Coffee in the morning is my ritual."
+  }
+ ],
+ "assai": [
+  {
+   "text": "Questo libro è assai interessante.",
+   "translation": "This book is very interesting."
+  },
+  {
+   "text": "Oggi mangio assai poco.",
+   "translation": "Today I'm eating quite little."
+  }
+ ],
+ "ferrare": [
+  {
+   "text": "Il maniscalco ferra il cavallo ogni due mesi.",
+   "translation": "The farrier shoes the horse every two months."
+  },
+  {
+   "text": "Quando ferrate i cavalli?",
+   "translation": "When do you shoe the horses?"
+  }
+ ],
+ "federazione": [
+  {
+   "text": "Mio padre lavora per la federazione di nuoto.",
+   "translation": "My father works for the swimming federation."
+  },
+  {
+   "text": "Le due società formano una nuova federazione.",
+   "translation": "The two clubs are forming a new federation."
+  }
+ ],
+ "titolare": [
+  {
+   "text": "Il titolare del bar mi conosce bene.",
+   "translation": "The owner of the bar knows me well."
+  },
+  {
+   "text": "Oggi Giulia gioca come titolare?",
+   "translation": "Is Giulia playing as a starter today?"
+  }
+ ],
+ "manovra": [
+  {
+   "text": "Il camion ha fatto una manovra difficile.",
+   "translation": "The truck made a difficult maneuver."
+  }
+ ],
+ "olivo": [
+  {
+   "text": "Nel giardino abbiamo un vecchio olivo.",
+   "translation": "In the garden we have an old olive tree."
+  },
+  {
+   "text": "Quanti anni ha quest'olivo?",
+   "translation": "How old is this olive tree?"
+  }
+ ],
+ "riscontro": [
+  {
+   "text": "Attendo un tuo riscontro entro domani.",
+   "translation": "I'm waiting for your reply by tomorrow."
+  },
+  {
+   "text": "Non ho ancora avuto riscontro dal medico.",
+   "translation": "I still haven't heard back from the doctor."
+  }
+ ],
+ "presunto": [
+  {
+   "text": "Il presunto proprietario non si è presentato.",
+   "translation": "The alleged owner did not show up."
+  }
+ ],
+ "ricostruzione": [
+  {
+   "text": "La ricostruzione del ponte è durata due anni.",
+   "translation": "The reconstruction of the bridge took two years."
+  },
+  {
+   "text": "Ti piace la ricostruzione della casa romana?",
+   "translation": "Do you like the reconstruction of the Roman house?"
+  }
+ ],
+ "sindrome": [
+  {
+   "text": "Il medico parla di una sindrome rara.",
+   "translation": "The doctor is talking about a rare syndrome."
+  },
+  {
+   "text": "La sindrome influenzale passa in pochi giorni.",
+   "translation": "The flu syndrome goes away in a few days."
+  }
+ ],
+ "addestramento": [
+  {
+   "text": "L'addestramento del cane dura alcuni mesi.",
+   "translation": "The dog's training lasts a few months."
+  }
+ ],
+ "palo": [
+  {
+   "text": "Il pallone ha colpito il palo.",
+   "translation": "The ball hit the goalpost."
+  },
+  {
+   "text": "Lega la pianta a un palo di legno.",
+   "translation": "Tie the plant to a wooden stake."
+  }
+ ],
+ "eccitare": [
+  {
+   "text": "La musica eccita molto i bambini.",
+   "translation": "The music gets the children very excited."
+  },
+  {
+   "text": "Il caffè ti eccita troppo la sera?",
+   "translation": "Does coffee get you too wired in the evening?"
+  }
+ ],
+ "frattura": [
+  {
+   "text": "Il medico dice che la frattura guarirà presto.",
+   "translation": "The doctor says the fracture will heal soon."
+  }
+ ],
+ "indire": [
+  {
+   "text": "Il preside ha indetto una riunione per domani.",
+   "translation": "The principal has called a meeting for tomorrow."
+  },
+  {
+   "text": "Vogliamo indire un concorso di disegno a scuola.",
+   "translation": "We want to hold a drawing competition at school."
+  }
+ ],
+ "fusione": [
+  {
+   "text": "La fusione tra le due aziende è stata annunciata ieri.",
+   "translation": "The merger between the two companies was announced yesterday."
+  },
+  {
+   "text": "Con il caldo, la fusione del ghiaccio è veloce.",
+   "translation": "With the heat, the melting of the ice is quick."
+  }
+ ],
+ "lesione": [
+  {
+   "text": "Il calciatore ha una lesione al ginocchio.",
+   "translation": "The soccer player has an injury to his knee."
+  }
+ ],
+ "invasione": [
+  {
+   "text": "In cucina c'è un'invasione di formiche.",
+   "translation": "There is an invasion of ants in the kitchen."
+  }
+ ],
+ "telefilm": [
+  {
+   "text": "Stasera guardiamo un telefilm sul divano?",
+   "translation": "Shall we watch a TV series on the couch tonight?"
+  },
+  {
+   "text": "Questo telefilm mi piace molto.",
+   "translation": "I like this TV series a lot."
+  }
+ ],
+ "rientro": [
+  {
+   "text": "Il rientro dalle vacanze è sempre difficile.",
+   "translation": "Coming back from vacation is always hard."
+  },
+  {
+   "text": "A che ora è il tuo rientro a casa?",
+   "translation": "What time do you get back home?"
+  }
+ ],
+ "chirurgia": [
+  {
+   "text": "Mia zia lavora nel reparto di chirurgia.",
+   "translation": "My aunt works in the surgery department."
+  }
+ ],
+ "rilascio": [
+  {
+   "text": "Il rilascio del passaporto richiede due settimane.",
+   "translation": "The issuing of the passport takes two weeks."
+  },
+  {
+   "text": "Quando c'è il rilascio dei documenti?",
+   "translation": "When are the documents issued?"
+  }
+ ],
+ "lotto": [
+  {
+   "text": "Hanno comprato un lotto di terreno vicino al lago.",
+   "translation": "They bought a plot of land near the lake."
+  }
+ ],
+ "giustificare": [
+  {
+   "text": "Come giustifichi questo ritardo?",
+   "translation": "How do you justify this delay?"
+  },
+  {
+   "text": "Niente può giustificare un comportamento così.",
+   "translation": "Nothing can justify behavior like that."
+  }
+ ],
+ "assalto": [
+  {
+   "text": "I clienti hanno preso d'assalto il negozio.",
+   "translation": "The customers stormed the shop."
+  },
+  {
+   "text": "Dopo la partita c'è stato un assalto al buffet.",
+   "translation": "After the game there was a rush on the buffet."
+  }
+ ],
+ "gemma": [
+  {
+   "text": "In primavera ogni ramo ha una gemma.",
+   "translation": "In spring every branch has a bud."
+  }
+ ],
+ "bacino": [
+  {
+   "text": "Il bacino del fiume è molto grande.",
+   "translation": "The river basin is very large."
+  },
+  {
+   "text": "Le barche sono ferme nel bacino del porto.",
+   "translation": "The boats are docked in the harbor basin."
+  }
+ ],
+ "ione": [
+  {
+   "text": "Un ione ha una carica elettrica.",
+   "translation": "An ion has an electric charge."
+  },
+  {
+   "text": "In chimica studiamo gli ioni del sale.",
+   "translation": "In chemistry we study the ions of salt."
+  }
+ ],
+ "concessione": [
+  {
+   "text": "Il comune ha dato la concessione per il bar.",
+   "translation": "The town has granted the license for the bar."
+  },
+  {
+   "text": "Ho fatto una concessione ai bambini: un gelato.",
+   "translation": "I made a concession to the kids: an ice cream."
+  }
+ ],
+ "improntare": [
+  {
+   "text": "L'incontro è stato improntato alla cordialità.",
+   "translation": "The meeting was marked by friendliness."
+  },
+  {
+   "text": "Vogliamo improntare il lavoro alla chiarezza.",
+   "translation": "We want to base our work on clarity."
+  }
+ ],
+ "drone": [
+  {
+   "text": "Il drone vola sopra il lago.",
+   "translation": "The drone is flying over the lake."
+  },
+  {
+   "text": "Hai comprato un drone per fare foto?",
+   "translation": "Did you buy a drone to take photos?"
+  }
+ ],
+ "collaboratore": [
+  {
+   "text": "Il mio collaboratore è molto preciso.",
+   "translation": "My assistant is very precise."
+  },
+  {
+   "text": "Cerchiamo un collaboratore per il negozio.",
+   "translation": "We are looking for a freelancer for the shop."
+  }
+ ],
+ "individuale": [
+  {
+   "text": "Vorrei una camera individuale, per favore.",
+   "translation": "I'd like a single room, please."
+  }
+ ],
+ "diffusione": [
+  {
+   "text": "La diffusione di internet è stata molto rapida.",
+   "translation": "The spread of the internet was very fast."
+  },
+  {
+   "text": "Come possiamo fermare la diffusione dell'influenza?",
+   "translation": "How can we stop the spread of the flu?"
+  }
+ ],
+ "barone": [
+  {
+   "text": "Il barone viveva in un castello sulla collina.",
+   "translation": "The baron lived in a castle on the hill."
+  },
+  {
+   "text": "All'università i baroni decidono chi assumere.",
+   "translation": "At the university, the bigwigs decide who gets hired."
+  }
+ ],
+ "provinciale": [
+  {
+   "text": "Vivo in una piccola città provinciale.",
+   "translation": "I live in a small provincial town."
+  },
+  {
+   "text": "Prendiamo la strada provinciale, è più tranquilla.",
+   "translation": "Let's take the provincial road, it's quieter."
+  }
+ ],
+ "eccome": [
+  {
+   "text": "Ti è piaciuto il film? Eccome!",
+   "translation": "Did you like the movie? And how!"
+  },
+  {
+   "text": "Se ho voglia di andare al mare? Eccome!",
+   "translation": "Do I feel like going to the beach? You bet!"
+  }
+ ],
+ "segnalazione": [
+  {
+   "text": "Grazie per la segnalazione, controlliamo subito.",
+   "translation": "Thanks for the report, we'll check right away."
+  },
+  {
+   "text": "Ho fatto una segnalazione al comune per la buca in strada.",
+   "translation": "I reported the pothole in the road to the city council."
+  }
+ ],
+ "tregua": [
+  {
+   "text": "Dopo giorni di pioggia, oggi c'è una tregua.",
+   "translation": "After days of rain, today there's a respite."
+  },
+  {
+   "text": "I due fratelli hanno fatto tregua per il compleanno della nonna.",
+   "translation": "The two brothers called a truce for their grandmother's birthday."
+  }
+ ],
+ "spot": [
+  {
+   "text": "Quello spot in TV mi fa sempre ridere.",
+   "translation": "That commercial on TV always makes me laugh."
+  }
+ ],
+ "bandito": [
+  {
+   "text": "Nel film il bandito scappa a cavallo.",
+   "translation": "In the movie the bandit escapes on horseback."
+  }
+ ],
+ "postare": [
+  {
+   "text": "Ho postato una foto delle vacanze.",
+   "translation": "I posted a photo from our vacation."
+  },
+  {
+   "text": "Puoi postare il link nel gruppo?",
+   "translation": "Can you post the link in the group?"
+  }
+ ],
+ "aspirare": [
+  {
+   "text": "Aspiro a diventare medico, come mia madre.",
+   "translation": "I aspire to become a doctor, like my mother."
+  }
+ ],
+ "ricercatore": [
+  {
+   "text": "Mio fratello è ricercatore in un laboratorio di biologia.",
+   "translation": "My brother is a researcher in a biology lab."
+  },
+  {
+   "text": "Il ricercatore spiega i risultati agli studenti.",
+   "translation": "The researcher explains the results to the students."
+  }
+ ],
+ "esecutivo": [
+  {
+   "text": "Domani ho un incontro con il direttore esecutivo.",
+   "translation": "Tomorrow I have a meeting with the executive director."
+  },
+  {
+   "text": "Il comitato esecutivo si riunisce ogni lunedì.",
+   "translation": "The executive committee meets every Monday."
+  }
+ ],
+ "abitazione": [
+  {
+   "text": "La sua abitazione è vicino al parco.",
+   "translation": "His residence is near the park."
+  }
+ ],
+ "requisito": [
+  {
+   "text": "Parlare inglese è un requisito per questo lavoro.",
+   "translation": "Speaking English is a requirement for this job."
+  },
+  {
+   "text": "Hai tutti i requisiti per partecipare?",
+   "translation": "Do you meet all the requirements to take part?"
+  }
+ ],
+ "rapimento": [
+  {
+   "text": "Il film racconta il rapimento di un cane.",
+   "translation": "The movie tells the story of a dog's abduction."
+  }
+ ],
+ "procedimento": [
+  {
+   "text": "Il procedimento è semplice: basta seguire le istruzioni.",
+   "translation": "The procedure is simple: just follow the instructions."
+  }
+ ],
+ "vicepresidente": [
+  {
+   "text": "Il vicepresidente apre la riunione alle nove.",
+   "translation": "The vice president opens the meeting at nine."
+  },
+  {
+   "text": "Giulia è la nuova vicepresidente dell'azienda.",
+   "translation": "Giulia is the company's new vice president."
+  }
+ ],
+ "ossia": [
+  {
+   "text": "Arrivo alle otto, ossia tra un'ora.",
+   "translation": "I'll arrive at eight, that is, in an hour."
+  },
+  {
+   "text": "Ci vediamo sabato, ossia dopodomani.",
+   "translation": "See you on Saturday, in other words the day after tomorrow."
+  }
+ ],
+ "cauzione": [
+  {
+   "text": "Per l'appartamento ho pagato una cauzione di due mesi.",
+   "translation": "For the apartment I paid a two-month deposit."
+  }
+ ],
+ "compenso": [
+  {
+   "text": "Il compenso per questo lavoro è giusto.",
+   "translation": "The payment for this job is fair."
+  },
+  {
+   "text": "Quale compenso chiede il fotografo per la festa?",
+   "translation": "What fee is the photographer asking for the party?"
+  }
+ ],
+ "collaterale": [
+  {
+   "text": "Questa medicina ha qualche effetto collaterale.",
+   "translation": "This medicine has some side effects."
+  }
+ ],
+ "grandezza": [
+  {
+   "text": "Ho misurato la grandezza del tavolo prima di comprarlo.",
+   "translation": "I measured the size of the table before buying it."
+  }
+ ],
+ "dote": [
+  {
+   "text": "La pazienza è una dote rara.",
+   "translation": "Patience is a rare quality."
+  },
+  {
+   "text": "Mia figlia ha la dote di far ridere tutti.",
+   "translation": "My daughter has a gift for making everyone laugh."
+  }
+ ],
+ "calibro": [
+  {
+   "text": "Un giocatore di questo calibro non si trova facilmente.",
+   "translation": "A player of this caliber isn't easy to find."
+  },
+  {
+   "text": "Hai un calibro per misurare il diametro del tubo?",
+   "translation": "Do you have a caliper to measure the diameter of the pipe?"
+  }
+ ],
+ "piazzare": [
+  {
+   "text": "Dove piazziamo la televisione?",
+   "translation": "Where shall we put the television?"
+  },
+  {
+   "text": "Piazza il divano vicino alla finestra.",
+   "translation": "Put the sofa next to the window."
+  }
+ ],
+ "filtro": [
+  {
+   "text": "Devo cambiare il filtro dell'acqua.",
+   "translation": "I have to change the water filter."
+  },
+  {
+   "text": "Questa foto ha un filtro bellissimo.",
+   "translation": "This photo has a beautiful filter."
+  }
+ ],
+ "organico": [
+  {
+   "text": "I rifiuti organici vanno nel bidone marrone.",
+   "translation": "Organic waste goes in the brown bin."
+  }
+ ],
+ "separazione": [
+  {
+   "text": "La separazione tra lavoro e vita privata è importante.",
+   "translation": "The separation between work and private life is important."
+  }
+ ],
+ "documentazione": [
+  {
+   "text": "Porta tutta la documentazione in ufficio entro lunedì.",
+   "translation": "Bring all the documentation to the office by Monday."
+  }
+ ],
+ "risoluzione": [
+  {
+   "text": "Che risoluzione ha lo schermo del tuo telefono?",
+   "translation": "What resolution does your phone screen have?"
+  }
+ ],
+ "residuo": [
+  {
+   "text": "Sul vetro è rimasto un residuo di colla.",
+   "translation": "A residue of glue was left on the glass."
+  },
+  {
+   "text": "Pulisci bene i residui di sapone dal lavandino.",
+   "translation": "Clean the soap residue off the sink well."
+  }
+ ],
+ "fascicolare": [
+  {
+   "text": "Devo fascicolare questi documenti entro venerdì.",
+   "translation": "I have to collate and file these documents by Friday."
+  },
+  {
+   "text": "Puoi fascicolare le fatture per mese?",
+   "translation": "Can you file the invoices by month?"
+  }
+ ],
+ "velo": [
+  {
+   "text": "Un velo di nebbia copriva la valle.",
+   "translation": "A veil of fog covered the valley."
+  }
+ ],
+ "gigantesco": [
+  {
+   "text": "Nel parco abbiamo visto un albero gigantesco.",
+   "translation": "In the park we saw a gigantic tree."
+  }
+ ],
+ "incaricato": [
+  {
+   "text": "Sono stata incaricata di organizzare la festa.",
+   "translation": "I've been put in charge of organizing the party."
+  }
+ ],
+ "cranio": [
+  {
+   "text": "Il casco protegge il cranio in caso di caduta.",
+   "translation": "The helmet protects the skull in case of a fall."
+  },
+  {
+   "text": "Il medico ha controllato il cranio con una radiografia.",
+   "translation": "The doctor checked the skull with an X-ray."
+  }
+ ],
+ "investitore": [
+  {
+   "text": "Un investitore ha comprato la vecchia fabbrica.",
+   "translation": "An investor bought the old factory."
+  },
+  {
+   "text": "Cerchiamo un investitore per il nostro negozio online.",
+   "translation": "We are looking for an investor for our online shop."
+  }
+ ],
+ "sensore": [
+  {
+   "text": "Il sensore della porta non funziona più.",
+   "translation": "The door sensor no longer works."
+  },
+  {
+   "text": "Questo sensore misura la temperatura della stanza.",
+   "translation": "This sensor measures the room temperature."
+  }
+ ],
+ "performance": [
+  {
+   "text": "La performance della squadra è stata ottima.",
+   "translation": "The team's performance was excellent."
+  },
+  {
+   "text": "Come giudichi la tua performance all'esame?",
+   "translation": "How do you rate your performance on the exam?"
+  }
+ ],
+ "garantito": [
+  {
+   "text": "Il divertimento è garantito, vieni anche tu!",
+   "translation": "Fun is guaranteed, come along too!"
+  }
+ ],
+ "ira": [
+  {
+   "text": "Quando ha visto il graffio, è esploso d'ira.",
+   "translation": "When he saw the scratch, he exploded with anger."
+  }
+ ],
+ "ricorso": [
+  {
+   "text": "Ho fatto ricorso contro la multa.",
+   "translation": "I filed an appeal against the fine."
+  }
+ ],
+ "inganno": [
+  {
+   "text": "Quell'offerta così bella era solo un inganno.",
+   "translation": "That great offer was just a trick."
+  }
+ ],
+ "approfondire": [
+  {
+   "text": "Domani approfondiamo questo argomento insieme.",
+   "translation": "Tomorrow we'll go into this topic in more depth together."
+  }
+ ],
+ "disperazione": [
+  {
+   "text": "Ho perso le chiavi e sono nella disperazione.",
+   "translation": "I lost my keys and I'm in despair."
+  }
+ ],
+ "impianto": [
+  {
+   "text": "Hanno controllato l'impianto di riscaldamento prima dell'inverno.",
+   "translation": "They checked the heating system before winter."
+  }
+ ],
+ "libretto": [
+  {
+   "text": "Il libretto delle istruzioni è nel cassetto.",
+   "translation": "The instruction booklet is in the drawer."
+  },
+  {
+   "text": "Mia madre firma il libretto dei voti di mio figlio.",
+   "translation": "My mother signs my son's school record book."
+  }
+ ],
+ "misero": [
+  {
+   "text": "Vive in una casa misera ai margini della città.",
+   "translation": "He lives in a wretched house on the edge of the city."
+  },
+  {
+   "text": "Per questo lavoro ricevo un misero stipendio.",
+   "translation": "I get a paltry salary for this job."
+  }
+ ],
+ "grillo": [
+  {
+   "text": "Di notte in giardino si sente cantare un grillo.",
+   "translation": "At night you can hear a cricket singing in the garden."
+  },
+  {
+   "text": "Gli è venuto il grillo di partire per il mare.",
+   "translation": "He got a sudden whim to leave for the seaside."
+  }
+ ],
+ "sostenitore": [
+  {
+   "text": "Mio padre è un grande sostenitore della squadra locale.",
+   "translation": "My father is a big supporter of the local team."
+  }
+ ],
+ "spaccare": [
+  {
+   "text": "Mio nonno spacca la legna ogni autunno.",
+   "translation": "My grandfather chops wood every autumn."
+  },
+  {
+   "text": "Attento, quel colpo può spaccare il vetro!",
+   "translation": "Careful, that blow could smash the glass!"
+  }
+ ],
+ "ginnastico": [
+  {
+   "text": "Domani ho l'allenamento ginnastico dopo la scuola.",
+   "translation": "Tomorrow I have gymnastics training after school."
+  },
+  {
+   "text": "La palestra ha un nuovo attrezzo ginnastico.",
+   "translation": "The gym has a new piece of gymnastic equipment."
+  }
+ ],
+ "elevare": [
+  {
+   "text": "Devi elevare un po' il tavolo con dei libri.",
+   "translation": "You need to raise the table a little with some books."
+  },
+  {
+   "text": "Possiamo elevare il livello della lezione?",
+   "translation": "Can we raise the level of the lesson?"
+  }
+ ],
+ "spacco": [
+  {
+   "text": "C'è uno spacco nel muro vicino alla finestra.",
+   "translation": "There is a crack in the wall near the window."
+  },
+  {
+   "text": "La gonna ha uno spacco sul lato.",
+   "translation": "The skirt has a slit on the side."
+  }
+ ],
+ "virtuale": [
+  {
+   "text": "Oggi la riunione è virtuale, non in ufficio.",
+   "translation": "Today the meeting is virtual, not at the office."
+  },
+  {
+   "text": "Hai già provato la realtà virtuale?",
+   "translation": "Have you tried virtual reality yet?"
+  }
+ ],
+ "ritrovo": [
+  {
+   "text": "Questo bar è il ritrovo preferito dei miei amici.",
+   "translation": "This bar is my friends' favorite hangout."
+  }
+ ],
+ "avanzata": [
+  {
+   "text": "Per via della neve, l'avanzata dell'esercito è stata lenta.",
+   "translation": "Because of the snow, the army's advance was slow."
+  }
+ ],
+ "opportuno": [
+  {
+   "text": "Non è il momento opportuno per parlarne.",
+   "translation": "This isn't the right time to talk about it."
+  },
+  {
+   "text": "Ritieni opportuno chiamare il medico?",
+   "translation": "Do you think it's appropriate to call the doctor?"
+  }
+ ],
+ "riscatto": [
+  {
+   "text": "Dopo anni di fatica, per lui è arrivato il riscatto.",
+   "translation": "After years of hard work, redemption has come for him."
+  }
+ ],
+ "fornitore": [
+  {
+   "text": "Il nostro fornitore consegna il pane ogni mattina.",
+   "translation": "Our supplier delivers bread every morning."
+  }
+ ],
+ "realizzazione": [
+  {
+   "text": "La realizzazione del progetto richiede sei mesi.",
+   "translation": "Making the project takes six months."
+  }
+ ],
+ "strategico": [
+  {
+   "text": "Il negozio è in un punto strategico del centro.",
+   "translation": "The shop is in a strategic spot in the center."
+  },
+  {
+   "text": "È stata una scelta strategica, non un caso.",
+   "translation": "It was a strategic choice, not an accident."
+  }
+ ],
+ "netto": [
+  {
+   "text": "Quanto guadagni al mese al netto delle tasse?",
+   "translation": "How much do you earn per month after taxes?"
+  }
+ ],
+ "clan": [
+  {
+   "text": "Il nostro clan di amici si trova ogni sabato.",
+   "translation": "Our close-knit group of friends meets every Saturday."
+  },
+  {
+   "text": "A Natale tutto il clan si riunisce a casa della nonna.",
+   "translation": "At Christmas the whole clan gathers at Grandma's house."
+  }
+ ],
+ "contabile": [
+  {
+   "text": "Il contabile prepara le fatture alla fine del mese.",
+   "translation": "The accountant prepares the invoices at the end of the month."
+  }
+ ],
+ "soglia": [
+  {
+   "text": "Il gatto aspetta sulla soglia di casa.",
+   "translation": "The cat is waiting on the doorstep of the house."
+  }
+ ],
+ "accoglienza": [
+  {
+   "text": "Grazie per la calorosa accoglienza in casa vostra.",
+   "translation": "Thank you for the warm welcome in your home."
+  }
+ ],
+ "carabiniere": [
+  {
+   "text": "Un carabiniere mi ha spiegato la strada per la stazione.",
+   "translation": "A carabiniere explained the way to the station to me."
+  },
+  {
+   "text": "Mio zio fa il carabiniere da vent'anni.",
+   "translation": "My uncle has been a carabiniere for twenty years."
+  }
+ ],
+ "operato": [
+  {
+   "text": "Tutti lodano l'operato del nuovo direttore.",
+   "translation": "Everyone praises the new director's work."
+  }
+ ],
+ "proiezione": [
+  {
+   "text": "La proiezione del film inizia alle otto.",
+   "translation": "The screening of the film starts at eight."
+  }
+ ],
+ "settimanale": [
+  {
+   "text": "Ogni lunedì abbiamo la riunione settimanale.",
+   "translation": "Every Monday we have the weekly meeting."
+  }
+ ],
+ "cattura": [
+  {
+   "text": "La cattura del gatto scappato è stata difficile.",
+   "translation": "Catching the escaped cat was difficult."
+  },
+  {
+   "text": "Questa fotocamera permette la cattura di immagini ad alta qualità.",
+   "translation": "This camera allows the capture of high-quality images."
+  }
+ ],
+ "deposizione": [
+  {
+   "text": "Il testimone ha letto la sua deposizione in tribunale.",
+   "translation": "The witness read his testimony in court."
+  },
+  {
+   "text": "La deposizione di Giulia è stata molto chiara.",
+   "translation": "Giulia's testimony was very clear."
+  }
+ ],
+ "magistrato": [
+  {
+   "text": "Il magistrato ha ascoltato tutti con attenzione.",
+   "translation": "The magistrate listened to everyone carefully."
+  }
+ ],
+ "sanità": [
+  {
+   "text": "La sanità pubblica è molto importante per tutti.",
+   "translation": "Public healthcare is very important for everyone."
+  },
+  {
+   "text": "Mia sorella lavora nella sanità da molti anni.",
+   "translation": "My sister has worked in healthcare for many years."
+  }
+ ],
+ "collocare": [
+  {
+   "text": "Dove vuoi collocare il divano?",
+   "translation": "Where do you want to put the sofa?"
+  },
+  {
+   "text": "Ho collocato i libri sullo scaffale più alto.",
+   "translation": "I put the books on the top shelf."
+  }
+ ],
+ "chip": [
+  {
+   "text": "Il mio cane ha un chip sotto la pelle.",
+   "translation": "My dog has a chip under its skin."
+  },
+  {
+   "text": "Questo telefono ha un chip nuovo e veloce.",
+   "translation": "This phone has a new, fast chip."
+  }
+ ],
+ "toscano": [
+  {
+   "text": "Mi piace molto il pane toscano.",
+   "translation": "I really like Tuscan bread."
+  },
+  {
+   "text": "Mia nonna cucina una zuppa toscana buonissima.",
+   "translation": "My grandmother makes a delicious Tuscan soup."
+  }
+ ],
+ "boh": [
+  {
+   "text": "Che cosa mangiamo stasera? Boh!",
+   "translation": "What are we eating tonight? No idea!"
+  }
+ ],
+ "prelevare": [
+  {
+   "text": "Devo prelevare dei soldi al bancomat.",
+   "translation": "I need to withdraw some money at the ATM."
+  },
+  {
+   "text": "L'infermiera deve prelevare un campione di sangue.",
+   "translation": "The nurse has to take a blood sample."
+  }
+ ],
+ "combattente": [
+  {
+   "text": "Il pugile è un combattente molto coraggioso.",
+   "translation": "The boxer is a very brave fighter."
+  }
+ ],
+ "variabile": [
+  {
+   "text": "Domani il tempo sarà variabile, con sole e nuvole.",
+   "translation": "Tomorrow the weather will be changeable, with sun and clouds."
+  }
+ ],
+ "status": [
+  {
+   "text": "Alcune persone comprano auto costose per mostrare il loro status.",
+   "translation": "Some people buy expensive cars to show off their status."
+  }
+ ],
+ "salare": [
+  {
+   "text": "Non dimenticare di salare l'acqua della pasta.",
+   "translation": "Don't forget to salt the pasta water."
+  }
+ ],
+ "abbandono": [
+  {
+   "text": "L'abbandono degli animali è un grave problema.",
+   "translation": "The abandonment of animals is a serious problem."
+  }
+ ],
+ "ego": [
+  {
+   "text": "Mio fratello ha un ego davvero enorme.",
+   "translation": "My brother has a really huge ego."
+  },
+  {
+   "text": "Non farti guidare dall'ego quando lavori in squadra.",
+   "translation": "Don't let your ego guide you when you work in a team."
+  }
+ ],
+ "condizionare": [
+  {
+   "text": "Il tuo umore può condizionare tutta la giornata.",
+   "translation": "Your mood can affect the whole day."
+  },
+  {
+   "text": "Non voglio condizionare la tua scelta.",
+   "translation": "I don't want to influence your choice."
+  }
+ ],
+ "borghese": [
+  {
+   "text": "Il poliziotto era in borghese, senza uniforme.",
+   "translation": "The police officer was in plain clothes, without a uniform."
+  },
+  {
+   "text": "Vivono in una casa borghese in centro.",
+   "translation": "They live in a middle-class house downtown."
+  }
+ ],
+ "pattugliare": [
+  {
+   "text": "La polizia pattuglia il quartiere di notte.",
+   "translation": "The police patrol the neighborhood at night."
+  },
+  {
+   "text": "Due agenti pattugliavano la spiaggia con calma.",
+   "translation": "Two officers were calmly patrolling the beach."
+  }
+ ],
+ "sponsor": [
+  {
+   "text": "La squadra ha un nuovo sponsor quest'anno.",
+   "translation": "The team has a new sponsor this year."
+  }
+ ],
+ "datore": [
+  {
+   "text": "Il mio datore di lavoro è molto gentile.",
+   "translation": "My employer is very kind."
+  }
+ ],
+ "psicopatico": [
+  {
+   "text": "Il cattivo del film è completamente psicopatico.",
+   "translation": "The villain in the movie is completely psychopathic."
+  }
+ ],
+ "rivelazione": [
+  {
+   "text": "Che rivelazione! Non lo sapevo proprio.",
+   "translation": "What a revelation! I really didn't know that."
+  },
+  {
+   "text": "La rivelazione del segreto ha sorpreso tutti.",
+   "translation": "The revelation of the secret surprised everyone."
+  }
+ ],
+ "laterale": [
+  {
+   "text": "Entra dalla porta laterale, quella principale è chiusa.",
+   "translation": "Come in through the side door; the main one is closed."
+  }
+ ],
+ "console": [
+  {
+   "text": "Ho comprato una console nuova per Natale.",
+   "translation": "I bought a new console for Christmas."
+  },
+  {
+   "text": "Giochi spesso con la console?",
+   "translation": "Do you often play on the console?"
+  }
+ ],
+ "menu": [
+  {
+   "text": "Possiamo vedere il menu, per favore?",
+   "translation": "Could we see the menu, please?"
+  }
+ ],
+ "concepire": [
+  {
+   "text": "L'architetto ha concepito un progetto molto semplice.",
+   "translation": "The architect devised a very simple plan."
+  }
+ ],
+ "raffinare": [
+  {
+   "text": "Questa fabbrica raffina lo zucchero.",
+   "translation": "This factory refines sugar."
+  },
+  {
+   "text": "Con gli anni ha raffinato il suo gusto per la musica.",
+   "translation": "Over the years he has refined his taste in music."
+  }
+ ],
+ "funebre": [
+  {
+   "text": "Il corteo funebre passava lentamente per la strada.",
+   "translation": "The funeral procession was slowly going down the street."
+  }
+ ],
+ "lino": [
+  {
+   "text": "D'estate porto volentieri camicie di lino.",
+   "translation": "In summer I gladly wear linen shirts."
+  }
+ ],
+ "espansione": [
+  {
+   "text": "L'azienda è in piena espansione.",
+   "translation": "The company is in full expansion."
+  },
+  {
+   "text": "L'espansione della città è molto rapida.",
+   "translation": "The expansion of the city is very fast."
+  }
+ ],
+ "riabilitazione": [
+  {
+   "text": "Dopo l'incidente, fa riabilitazione ogni giorno.",
+   "translation": "After the accident, he does rehabilitation every day."
+  }
+ ],
+ "rilievo": [
+  {
+   "text": "Questo è un dettaglio di poco rilievo.",
+   "translation": "This is a detail of little importance."
+  }
+ ],
+ "indipendentemente": [
+  {
+   "text": "Esco a correre indipendentemente dal tempo che fa.",
+   "translation": "I go out running regardless of the weather."
+  }
+ ],
+ "anomalia": [
+  {
+   "text": "Il medico ha trovato un'anomalia nelle analisi.",
+   "translation": "The doctor found an abnormality in the tests."
+  }
+ ],
+ "scatenato": [
+  {
+   "text": "I bambini sono scatenati oggi!",
+   "translation": "The kids are wild today!"
+  },
+  {
+   "text": "Al concerto il pubblico era scatenato.",
+   "translation": "At the concert the crowd was going wild."
+  }
+ ],
+ "napoletano": [
+  {
+   "text": "Mi piace il caffè napoletano.",
+   "translation": "I like Neapolitan coffee."
+  }
+ ],
+ "spostamento": [
+  {
+   "text": "Il traffico rallenta ogni spostamento in città.",
+   "translation": "Traffic slows down every move around the city."
+  },
+  {
+   "text": "Per lavoro faccio molti spostamenti in treno.",
+   "translation": "For work I do a lot of travelling by train."
+  }
+ ],
+ "sorvegliare": [
+  {
+   "text": "Puoi sorvegliare i bambini mentre cucino?",
+   "translation": "Can you keep an eye on the kids while I cook?"
+  }
+ ],
+ "mutuo": [
+  {
+   "text": "Abbiamo chiesto un mutuo per comprare casa.",
+   "translation": "We applied for a mortgage to buy a house."
+  },
+  {
+   "text": "Quanto paghi ogni mese per il mutuo?",
+   "translation": "How much do you pay each month for the mortgage?"
+  }
+ ],
+ "discesa": [
+  {
+   "text": "In bici la discesa è veloce e divertente.",
+   "translation": "On a bike the downhill stretch is fast and fun."
+  },
+  {
+   "text": "Attenzione, la discesa è molto ripida!",
+   "translation": "Careful, the slope is very steep!"
+  }
+ ],
+ "succhiare": [
+  {
+   "text": "Il bambino succhia il latte dal biberon.",
+   "translation": "The baby sucks milk from the bottle."
+  },
+  {
+   "text": "Non succhiare la cannuccia così forte!",
+   "translation": "Don't suck on the straw so hard!"
+  }
+ ],
+ "seguace": [
+  {
+   "text": "Il cantante ha migliaia di seguaci online.",
+   "translation": "The singer has thousands of followers online."
+  }
+ ],
+ "metallico": [
+  {
+   "text": "Questa pentola ha un rumore metallico.",
+   "translation": "This pot makes a metallic noise."
+  }
+ ],
+ "coinvolgimento": [
+  {
+   "text": "Il tuo coinvolgimento nel progetto è molto importante.",
+   "translation": "Your involvement in the project is very important."
+  }
+ ],
+ "trapianto": [
+  {
+   "text": "Il trapianto dei pomodori si fa in primavera.",
+   "translation": "The transplanting of the tomatoes is done in spring."
+  }
+ ],
+ "ristretto": [
+  {
+   "text": "Per me un caffè ristretto, grazie.",
+   "translation": "A ristretto for me, please."
+  },
+  {
+   "text": "Il nostro appartamento ha uno spazio molto ristretto.",
+   "translation": "Our apartment has very limited space."
+  }
+ ],
+ "informatore": [
+  {
+   "text": "Il giornalista protegge sempre il suo informatore.",
+   "translation": "The journalist always protects his informant."
+  },
+  {
+   "text": "Chi è l'informatore che ti ha avvisato?",
+   "translation": "Who is the informant who warned you?"
+  }
+ ],
+ "emendamento": [
+  {
+   "text": "Abbiamo proposto un emendamento al regolamento della scuola.",
+   "translation": "We proposed an amendment to the school rules."
+  },
+  {
+   "text": "L'assemblea ha approvato l'emendamento ieri sera.",
+   "translation": "The assembly approved the amendment last night."
+  }
+ ],
+ "convento": [
+  {
+   "text": "Il vecchio convento si trova sulla collina.",
+   "translation": "The old convent stands on the hill."
+  }
+ ],
+ "consulenza": [
+  {
+   "text": "Ho chiesto una consulenza a un avvocato.",
+   "translation": "I asked a lawyer for advice."
+  },
+  {
+   "text": "La consulenza è gratuita per i nuovi clienti?",
+   "translation": "Is the consultation free for new customers?"
+  }
+ ],
+ "rotella": [
+  {
+   "text": "La sedia ha una rotella rotta.",
+   "translation": "The chair has a broken caster."
+  }
+ ],
+ "marchese": [
+  {
+   "text": "Il marchese abitava in un grande palazzo.",
+   "translation": "The marquis lived in a big palace."
+  },
+  {
+   "text": "Perché il marchese ha invitato tutto il paese?",
+   "translation": "Why did the marquis invite the whole village?"
+  }
+ ],
+ "ammiraglio": [
+  {
+   "text": "L'ammiraglio guardava il mare dalla nave.",
+   "translation": "The admiral was looking at the sea from the ship."
+  }
+ ],
+ "spettro": [
+  {
+   "text": "Secondo la leggenda, uno spettro vive nel castello.",
+   "translation": "According to the legend, a ghost lives in the castle."
+  },
+  {
+   "text": "La scuola offre un ampio spettro di corsi.",
+   "translation": "The school offers a wide range of courses."
+  }
+ ],
+ "parametro": [
+  {
+   "text": "Quale parametro devo cambiare nelle impostazioni?",
+   "translation": "Which parameter do I have to change in the settings?"
+  },
+  {
+   "text": "Il prezzo è un parametro importante per noi.",
+   "translation": "Price is an important parameter for us."
+  }
+ ],
+ "consumatore": [
+  {
+   "text": "Il consumatore ha diritto a un prodotto sicuro.",
+   "translation": "The consumer has the right to a safe product."
+  },
+  {
+   "text": "I consumatori preferiscono i negozi con prezzi bassi.",
+   "translation": "Consumers prefer shops with low prices."
+  }
+ ],
+ "migrante": [
+  {
+   "text": "Molti migranti cercano lavoro in un altro paese.",
+   "translation": "Many migrants look for work in another country."
+  }
+ ],
+ "mafioso": [
+  {
+   "text": "Ieri sera abbiamo visto un film su un mafioso siciliano.",
+   "translation": "Last night we watched a film about a Sicilian mobster."
+  },
+  {
+   "text": "Nel romanzo il mafioso vive in una grande villa.",
+   "translation": "In the novel the mobster lives in a big villa."
+  }
+ ],
+ "box": [
+  {
+   "text": "Parcheggio sempre la macchina nel box.",
+   "translation": "I always park the car in the garage."
+  }
+ ],
+ "solidarietà": [
+  {
+   "text": "I vicini hanno mostrato molta solidarietà dopo l'incendio.",
+   "translation": "The neighbours showed a lot of solidarity after the fire."
+  }
+ ],
+ "tifoso": [
+  {
+   "text": "Mio fratello è un tifoso della squadra della città.",
+   "translation": "My brother is a fan of the city's team."
+  },
+  {
+   "text": "I tifosi cantano durante tutta la partita.",
+   "translation": "The fans sing throughout the whole match."
+  }
+ ],
+ "partorire": [
+  {
+   "text": "Mia sorella ha partorito un bel maschietto ieri.",
+   "translation": "My sister gave birth to a lovely baby boy yesterday."
+  }
+ ],
+ "convenzione": [
+  {
+   "text": "La palestra ha una convenzione con la mia azienda.",
+   "translation": "The gym has an agreement with my company."
+  },
+  {
+   "text": "Quest'anno la convenzione sui fumetti si tiene a Milano.",
+   "translation": "This year the comics convention is held in Milan."
+  }
+ ],
+ "localizzare": [
+  {
+   "text": "Il telefono aiuta a localizzare la tua posizione sulla mappa.",
+   "translation": "The phone helps pinpoint your position on the map."
+  }
+ ],
+ "ritirata": [
+  {
+   "text": "Quando ha cominciato a piovere, i turisti hanno battuto in ritirata.",
+   "translation": "When it started to rain, the tourists beat a retreat."
+  }
+ ],
+ "cast": [
+  {
+   "text": "Il cast del film è davvero bravo.",
+   "translation": "The cast of the film is really good."
+  },
+  {
+   "text": "Chi fa parte del cast della nuova serie?",
+   "translation": "Who is part of the cast of the new series?"
+  }
+ ],
+ "domicilio": [
+  {
+   "text": "Scrivi qui il tuo domicilio, per favore.",
+   "translation": "Write your home address here, please."
+  }
+ ],
+ "neo": [
+  {
+   "text": "Ho un piccolo neo sulla guancia sinistra.",
+   "translation": "I have a small mole on my left cheek."
+  },
+  {
+   "text": "Il dottore controlla ogni neo con attenzione.",
+   "translation": "The doctor checks every mole carefully."
+  }
+ ],
+ "pasquale": [
+  {
+   "text": "Quest'anno il pranzo pasquale è dai nonni.",
+   "translation": "This year the Easter lunch is at my grandparents'."
+  },
+  {
+   "text": "Dove passate le vacanze pasquali?",
+   "translation": "Where are you spending the Easter holidays?"
+  }
+ ],
+ "celesta": [
+  {
+   "text": "La celesta ha un suono dolce e delicato.",
+   "translation": "The celesta has a sweet, delicate sound."
+  },
+  {
+   "text": "Chi suona la celesta nell'orchestra?",
+   "translation": "Who plays the celesta in the orchestra?"
+  }
+ ],
+ "supporre": [
+  {
+   "text": "Possiamo supporre che domani piova ancora?",
+   "translation": "Can we assume it will rain again tomorrow?"
+  }
+ ],
+ "civico": [
+  {
+   "text": "Il museo civico è aperto fino alle sei.",
+   "translation": "The municipal museum is open until six."
+  }
+ ],
+ "prescrizione": [
+  {
+   "text": "Il medico mi ha dato una prescrizione per le medicine.",
+   "translation": "The doctor gave me a prescription for the medicine."
+  }
+ ],
+ "caserma": [
+  {
+   "text": "La caserma dei pompieri è vicino alla scuola.",
+   "translation": "The fire station is near the school."
+  },
+  {
+   "text": "Mio fratello dorme in caserma durante la settimana.",
+   "translation": "My brother sleeps in the barracks during the week."
+  }
+ ],
+ "donatore": [
+  {
+   "text": "Mio zio è un donatore di sangue.",
+   "translation": "My uncle is a blood donor."
+  }
+ ],
+ "evidenza": [
+  {
+   "text": "Metti in evidenza le parole importanti con il giallo.",
+   "translation": "Highlight the important words in yellow."
+  },
+  {
+   "text": "Il professore ha messo in evidenza i nostri errori.",
+   "translation": "The teacher pointed out our mistakes."
+  }
+ ],
+ "sceneggiatura": [
+  {
+   "text": "Sto scrivendo la sceneggiatura di un film.",
+   "translation": "I'm writing the screenplay for a film."
+  }
+ ],
+ "indagato": [
+  {
+   "text": "L'indagato ha risposto a tutte le domande.",
+   "translation": "The suspect answered all the questions."
+  }
+ ],
+ "discendente": [
+  {
+   "text": "Giulia è una discendente di una famiglia di pescatori.",
+   "translation": "Giulia is a descendant of a family of fishermen."
+  }
+ ],
+ "maggiormente": [
+  {
+   "text": "Questo problema mi preoccupa maggiormente.",
+   "translation": "This problem worries me the most."
+  }
+ ],
+ "eccetera": [
+  {
+   "text": "Compro pane, latte, uova, eccetera.",
+   "translation": "I'm buying bread, milk, eggs, and so on."
+  },
+  {
+   "text": "Hai preso la carta, le penne, eccetera?",
+   "translation": "Did you get the paper, the pens, and so on?"
+  }
+ ],
+ "mah": [
+  {
+   "text": "Mah, non lo so proprio.",
+   "translation": "Well, I really don't know."
+  },
+  {
+   "text": "Ti è piaciuto il film? Mah, così così.",
+   "translation": "Did you like the movie? Eh, so-so."
+  }
+ ],
+ "baia": [
+  {
+   "text": "Le barche aspettano tranquille nella baia.",
+   "translation": "The boats are waiting quietly in the bay."
+  }
+ ],
+ "sonoro": [
+  {
+   "text": "Mi piace molto la colonna sonora di questo film.",
+   "translation": "I really like the soundtrack of this film."
+  }
+ ],
+ "melissa": [
+  {
+   "text": "Bevo una tisana alla melissa prima di dormire.",
+   "translation": "I drink a lemon balm tea before going to sleep."
+  },
+  {
+   "text": "In giardino abbiamo menta, basilico e melissa.",
+   "translation": "In the garden we have mint, basil and lemon balm."
+  }
+ ],
+ "anziché": [
+  {
+   "text": "Prendiamo il treno anziché la macchina.",
+   "translation": "Let's take the train instead of the car."
+  },
+  {
+   "text": "Anziché lamentarti, aiutami!",
+   "translation": "Rather than complaining, help me!"
+  }
+ ],
+ "israeliano": [
+  {
+   "text": "Ho un collega israeliano molto simpatico.",
+   "translation": "I have a very nice Israeli colleague."
+  }
+ ],
+ "ordinanza": [
+  {
+   "text": "Il sindaco ha firmato un'ordinanza contro il rumore notturno.",
+   "translation": "The mayor signed an ordinance against nighttime noise."
+  },
+  {
+   "text": "Secondo l'ordinanza, non si può parcheggiare qui.",
+   "translation": "According to the by-law, you can't park here."
+  }
+ ],
+ "round": [
+  {
+   "text": "Il pugile ha vinto il terzo round.",
+   "translation": "The boxer won the third round."
+  },
+  {
+   "text": "Dopo il primo round, sono tutti stanchi.",
+   "translation": "After the first round, everyone is tired."
+  }
+ ],
+ "assunzione": [
+  {
+   "text": "L'azienda ha annunciato nuove assunzioni.",
+   "translation": "The company has announced new hires."
+  },
+  {
+   "text": "L'assunzione di vitamine fa bene d'inverno.",
+   "translation": "Taking vitamins is good in winter."
+  }
+ ],
+ "imperiale": [
+  {
+   "text": "Il palazzo imperiale è molto antico.",
+   "translation": "The imperial palace is very old."
+  }
+ ],
+ "sparata": [
+  {
+   "text": "Non credere alle sue sparate sul lavoro.",
+   "translation": "Don't believe his tall tales about work."
+  },
+  {
+   "text": "Che sparata hai fatto davanti a tutti!",
+   "translation": "What an outburst you made in front of everyone!"
+  }
+ ],
+ "direttiva": [
+  {
+   "text": "Il capo ha dato una nuova direttiva a tutti.",
+   "translation": "The boss gave everyone a new directive."
+  },
+  {
+   "text": "Segui le direttive del medico.",
+   "translation": "Follow the doctor's instructions."
+  }
+ ],
+ "senno": [
+  {
+   "text": "Con il senno di poi, avrei scelto un altro lavoro.",
+   "translation": "With hindsight, I would have chosen another job."
+  }
+ ],
+ "postazione": [
+  {
+   "text": "Ogni postazione ha un computer e una sedia.",
+   "translation": "Every workstation has a computer and a chair."
+  },
+  {
+   "text": "Scusi, questa postazione è libera?",
+   "translation": "Excuse me, is this workstation free?"
+  }
+ ],
+ "audizione": [
+  {
+   "text": "Domani ho un'audizione per il coro della scuola.",
+   "translation": "Tomorrow I have an audition for the school choir."
+  },
+  {
+   "text": "L'audizione è durata solo dieci minuti.",
+   "translation": "The audition lasted only ten minutes."
+  }
+ ],
+ "navale": [
+  {
+   "text": "Mio nonno lavorava in un cantiere navale.",
+   "translation": "My grandfather worked in a shipyard."
+  },
+  {
+   "text": "Il museo navale è vicino al porto.",
+   "translation": "The naval museum is near the port."
+  }
+ ],
+ "entità": [
+  {
+   "text": "Non conosciamo ancora l'entità dei danni.",
+   "translation": "We don't yet know the extent of the damage."
+  }
+ ],
+ "perla": [
+  {
+   "text": "Mia nonna porta sempre una collana di perle.",
+   "translation": "My grandmother always wears a pearl necklace."
+  }
+ ],
+ "rene": [
+  {
+   "text": "Il dottore dice che il tuo rene funziona bene.",
+   "translation": "The doctor says your kidney is working well."
+  }
+ ],
+ "decimo": [
+  {
+   "text": "Oggi è il decimo giorno di pioggia.",
+   "translation": "Today is the tenth day of rain."
+  }
+ ],
+ "montato": [
+  {
+   "text": "Mi piace il caffè con la panna montata.",
+   "translation": "I like coffee with whipped cream."
+  }
+ ],
+ "occidente": [
+  {
+   "text": "Il sole tramonta a occidente.",
+   "translation": "The sun sets in the west."
+  },
+  {
+   "text": "Oggi il vento viene da occidente.",
+   "translation": "Today the wind is coming from the west."
+  }
+ ],
+ "risonanza": [
+  {
+   "text": "In questa grande sala il suono ha una forte risonanza.",
+   "translation": "In this big hall the sound has a strong resonance."
+  },
+  {
+   "text": "Il medico mi ha prescritto una risonanza magnetica.",
+   "translation": "The doctor prescribed me an MRI scan."
+  }
+ ],
+ "emissione": [
+  {
+   "text": "La posta ha annunciato l'emissione di un nuovo francobollo.",
+   "translation": "The post office has announced the issue of a new stamp."
+  },
+  {
+   "text": "L'emissione di fumo dalla fabbrica preoccupa i vicini.",
+   "translation": "The smoke emission from the factory worries the neighbors."
+  }
+ ],
+ "referendum": [
+  {
+   "text": "Domenica c'è un referendum sul nuovo parco.",
+   "translation": "On Sunday there is a referendum on the new park."
+  },
+  {
+   "text": "Hai votato al referendum del nostro paese?",
+   "translation": "Did you vote in our town's referendum?"
+  }
+ ],
+ "settare": [
+  {
+   "text": "Ho settato la sveglia alle sette.",
+   "translation": "I set the alarm for seven."
+  },
+  {
+   "text": "Puoi settare il telefono in italiano?",
+   "translation": "Can you set the phone to Italian?"
+  }
+ ],
+ "osservatore": [
+  {
+   "text": "Un buon osservatore nota ogni piccolo dettaglio.",
+   "translation": "A good observer notices every small detail."
+  }
+ ],
+ "stabilimento": [
+  {
+   "text": "Mio padre lavora in uno stabilimento di scarpe.",
+   "translation": "My father works in a shoe factory."
+  },
+  {
+   "text": "Domani andiamo allo stabilimento balneare con gli amici.",
+   "translation": "Tomorrow we're going to the beach club with friends."
+  }
+ ],
+ "caratterizzare": [
+  {
+   "text": "La pasta fresca caratterizza la cucina di questa regione.",
+   "translation": "Fresh pasta is typical of this region's cooking."
+  }
+ ],
+ "riproduzione": [
+  {
+   "text": "La riproduzione di questo quadro costa poco.",
+   "translation": "The reproduction of this painting costs very little."
+  },
+  {
+   "text": "La riproduzione del video si ferma di continuo.",
+   "translation": "The video playback keeps stopping."
+  }
+ ],
+ "affido": [
+  {
+   "text": "La famiglia ha accolto un bambino in affido.",
+   "translation": "The family took in a child in foster care."
+  },
+  {
+   "text": "I nonni hanno chiesto l'affido dei nipoti.",
+   "translation": "The grandparents asked for custody of their grandchildren."
+  }
+ ],
+ "invio": [
+  {
+   "text": "Premi invio per continuare.",
+   "translation": "Press Enter to continue."
+  }
+ ],
+ "lisciare": [
+  {
+   "text": "Liscio il gatto mentre dorme.",
+   "translation": "I pet the cat while it sleeps."
+  },
+  {
+   "text": "Ha lisciato la gonna con le mani.",
+   "translation": "She smoothed her skirt with her hands."
+  }
+ ],
+ "distrettuale": [
+  {
+   "text": "La biblioteca distrettuale apre alle nove.",
+   "translation": "The district library opens at nine."
+  },
+  {
+   "text": "Domani c'è una riunione distrettuale in comune.",
+   "translation": "Tomorrow there is a district meeting at city hall."
+  }
+ ],
+ "vegetale": [
+  {
+   "text": "Preferisco il latte vegetale.",
+   "translation": "I prefer plant-based milk."
+  },
+  {
+   "text": "Questa crema è di origine vegetale, vero?",
+   "translation": "This cream is of plant origin, right?"
+  }
+ ],
+ "ingaggiare": [
+  {
+   "text": "La squadra ha ingaggiato un nuovo portiere.",
+   "translation": "The team signed a new goalkeeper."
+  }
+ ],
+ "dimorare": [
+  {
+   "text": "Dimoro in questa città da molti anni.",
+   "translation": "I have resided in this city for many years."
+  },
+  {
+   "text": "Dove dimorate durante l'estate?",
+   "translation": "Where do you reside during the summer?"
+  }
+ ],
+ "integrazione": [
+  {
+   "text": "L'integrazione dei nuovi studenti è molto importante.",
+   "translation": "The integration of new students is very important."
+  },
+  {
+   "text": "D'inverno prendo un'integrazione di vitamine.",
+   "translation": "In winter I take a vitamin supplement."
+  }
+ ],
+ "raduno": [
+  {
+   "text": "Domani c'è un raduno di auto d'epoca.",
+   "translation": "Tomorrow there is a vintage car meet-up."
+  },
+  {
+   "text": "Il raduno è alle nove davanti alla scuola.",
+   "translation": "The gathering is at nine in front of the school."
+  }
+ ],
+ "motto": [
+  {
+   "text": "Il motto della nostra scuola è molto semplice.",
+   "translation": "Our school's motto is very simple."
+  }
+ ],
+ "sigillo": [
+  {
+   "text": "Il documento ha il sigillo del comune.",
+   "translation": "The document bears the city's seal."
+  },
+  {
+   "text": "Rompi il sigillo e apri la busta.",
+   "translation": "Break the seal and open the envelope."
+  }
+ ],
+ "schiacciato": [
+  {
+   "text": "Il panino è tutto schiacciato nello zaino.",
+   "translation": "The sandwich is all squashed in the backpack."
+  }
+ ],
+ "slogan": [
+  {
+   "text": "Questo slogan è facile da ricordare.",
+   "translation": "This slogan is easy to remember."
+  }
+ ],
+ "redazione": [
+  {
+   "text": "La redazione del giornale è al terzo piano.",
+   "translation": "The newspaper's editorial office is on the third floor."
+  },
+  {
+   "text": "La redazione della tesi mi ha preso un mese.",
+   "translation": "Writing up my thesis took me a month."
+  }
+ ],
+ "preventivo": [
+  {
+   "text": "Ho chiesto un preventivo all'idraulico.",
+   "translation": "I asked the plumber for an estimate."
+  }
+ ],
+ "tributo": [
+  {
+   "text": "Il concerto è un tributo al grande cantante.",
+   "translation": "The concert is a tribute to the great singer."
+  },
+  {
+   "text": "Ogni cittadino deve pagare un tributo allo Stato.",
+   "translation": "Every citizen has to pay a tax to the State."
+  }
+ ],
+ "spaccio": [
+  {
+   "text": "Compriamo le scarpe allo spaccio aziendale.",
+   "translation": "We buy shoes at the company outlet."
+  },
+  {
+   "text": "Lo spaccio della fabbrica vende a prezzi bassi.",
+   "translation": "The factory outlet sells at low prices."
+  }
+ ],
+ "confezione": [
+  {
+   "text": "Questa confezione contiene sei yogurt.",
+   "translation": "This pack contains six yogurts."
+  }
+ ],
+ "condominio": [
+  {
+   "text": "Abitiamo in un condominio vicino alla stazione.",
+   "translation": "We live in an apartment building near the station."
+  },
+  {
+   "text": "Le spese del condominio sono aumentate quest'anno.",
+   "translation": "The building's shared costs have gone up this year."
+  }
+ ],
+ "acquisire": [
+  {
+   "text": "Ha acquisito molta esperienza in questi anni.",
+   "translation": "She has gained a lot of experience over these years."
+  }
+ ],
+ "mediante": [
+  {
+   "text": "Si può pagare mediante carta di credito.",
+   "translation": "You can pay by credit card."
+  },
+  {
+   "text": "Prenota il biglietto mediante il sito.",
+   "translation": "Book the ticket through the website."
+  }
+ ],
+ "accostare": [
+  {
+   "text": "Accosta la sedia al tavolo, per favore.",
+   "translation": "Please pull the chair up to the table."
+  },
+  {
+   "text": "L'autista ha accostato per farci scendere.",
+   "translation": "The driver pulled over to let us out."
+  }
+ ],
+ "rinuncia": [
+  {
+   "text": "La sua rinuncia ci ha sorpresi tutti.",
+   "translation": "His giving up surprised us all."
+  },
+  {
+   "text": "Dopo la rinuncia al viaggio, abbiamo risparmiato.",
+   "translation": "After giving up the trip, we saved money."
+  }
+ ],
+ "colla": [
+  {
+   "text": "Mi serve la colla per incollare la carta.",
+   "translation": "I need glue to stick the paper."
+  }
+ ],
+ "movente": [
+  {
+   "text": "La polizia cerca il movente del furto.",
+   "translation": "The police are looking for the motive for the theft."
+  }
+ ],
+ "medesimo": [
+  {
+   "text": "Abbiamo avuto la medesima idea.",
+   "translation": "We had the very same idea."
+  },
+  {
+   "text": "Ci siamo incontrati nel medesimo posto di ieri.",
+   "translation": "We met in the same place as yesterday."
+  }
+ ],
+ "perimetro": [
+  {
+   "text": "Camminiamo lungo il perimetro del parco.",
+   "translation": "We walk along the perimeter of the park."
+  },
+  {
+   "text": "Quanto misura il perimetro del campo?",
+   "translation": "How long is the perimeter of the field?"
+  }
+ ],
+ "sella": [
+  {
+   "text": "Mi fa male la sella della bici.",
+   "translation": "My bike saddle hurts."
+  }
+ ],
+ "comma": [
+  {
+   "text": "Leggi il comma due dell'articolo.",
+   "translation": "Read subsection two of the article."
+  },
+  {
+   "text": "Questo comma della legge non è chiaro.",
+   "translation": "This subsection of the law is not clear."
+  }
+ ],
+ "precedere": [
+  {
+   "text": "La lettera A precede la B nell'alfabeto.",
+   "translation": "The letter A comes before B in the alphabet."
+  }
+ ],
+ "molestia": [
+  {
+   "text": "Il rumore dei lavori è una vera molestia.",
+   "translation": "The noise from the construction work is a real nuisance."
+  }
+ ],
+ "tronco": [
+  {
+   "text": "Ci siamo seduti sul tronco di un albero caduto.",
+   "translation": "We sat on the trunk of a fallen tree."
+  }
+ ],
+ "atteso": [
+  {
+   "text": "Il momento tanto atteso è finalmente arrivato.",
+   "translation": "The long-awaited moment has finally arrived."
+  },
+  {
+   "text": "Il risultato è stato meglio di quello atteso.",
+   "translation": "The result was better than expected."
+  }
+ ],
+ "giurisdizione": [
+  {
+   "text": "Questo caso non rientra nella giurisdizione del nostro tribunale.",
+   "translation": "This case does not fall under our court's jurisdiction."
+  }
+ ],
+ "legislativo": [
+  {
+   "text": "Il processo legislativo richiede molto tempo.",
+   "translation": "The legislative process takes a lot of time."
+  }
+ ],
+ "preferenza": [
+  {
+   "text": "Hai una preferenza per il vino rosso o bianco?",
+   "translation": "Do you have a preference for red or white wine?"
+  },
+  {
+   "text": "Non ho preferenze, scegli tu il ristorante.",
+   "translation": "I have no preference, you choose the restaurant."
+  }
+ ],
+ "profetare": [
+  {
+   "text": "Nessuno può profetare come andrà la partita.",
+   "translation": "Nobody can predict how the match will go."
+  },
+  {
+   "text": "Mia nonna profetava sempre un inverno molto freddo.",
+   "translation": "My grandmother always predicted a very cold winter."
+  }
+ ],
+ "arrogare": [
+  {
+   "text": "Non devi arrogarti il diritto di decidere per tutti.",
+   "translation": "You must not assume the right to decide for everyone."
+  },
+  {
+   "text": "Si è arrogato il merito del nostro lavoro.",
+   "translation": "He took the credit for our work."
+  }
+ ],
+ "sostituzione": [
+  {
+   "text": "La sostituzione della batteria costa poco.",
+   "translation": "Replacing the battery doesn't cost much."
+  },
+  {
+   "text": "Nella partita ci sono state tre sostituzioni.",
+   "translation": "There were three substitutions in the match."
+  }
+ ],
+ "sostanzialmente": [
+  {
+   "text": "Siamo sostanzialmente d'accordo su tutto.",
+   "translation": "We basically agree on everything."
+  },
+  {
+   "text": "Il piano è rimasto sostanzialmente lo stesso?",
+   "translation": "Has the plan stayed essentially the same?"
+  }
+ ],
+ "ignoto": [
+  {
+   "text": "Ho ricevuto una chiamata da un numero ignoto.",
+   "translation": "I got a call from an unknown number."
+  }
+ ],
+ "patologia": [
+  {
+   "text": "Il medico ha parlato di una patologia rara.",
+   "translation": "The doctor spoke about a rare disorder."
+  },
+  {
+   "text": "Quali sono le patologie più comuni in inverno?",
+   "translation": "What are the most common illnesses in winter?"
+  }
+ ],
+ "intelligence": [
+  {
+   "text": "Nel film, un agente dell'intelligence salva la città.",
+   "translation": "In the movie, an intelligence agent saves the city."
+  },
+  {
+   "text": "L'intelligence del paese segue il caso da mesi.",
+   "translation": "The country's intelligence service has followed the case for months."
+  }
+ ],
+ "vincolo": [
+  {
+   "text": "Tra fratelli c'è un vincolo molto forte.",
+   "translation": "There is a very strong bond between brothers."
+  },
+  {
+   "text": "Questo contratto non ha vincoli di orario.",
+   "translation": "This contract has no restrictions on working hours."
+  }
+ ],
+ "incisione": [
+  {
+   "text": "Il dottore ha fatto una piccola incisione sul braccio.",
+   "translation": "The doctor made a small incision on the arm."
+  },
+  {
+   "text": "Sull'anello c'è un'incisione con la nostra data.",
+   "translation": "There is an engraving with our date on the ring."
+  }
+ ],
+ "ispezione": [
+  {
+   "text": "Domani c'è l'ispezione in cucina.",
+   "translation": "Tomorrow there is the inspection in the kitchen."
+  }
+ ],
+ "straccio": [
+  {
+   "text": "Passa lo straccio sul pavimento, per favore.",
+   "translation": "Please run the mop cloth over the floor."
+  }
+ ],
+ "facciata": [
+  {
+   "text": "La facciata della chiesa è molto antica.",
+   "translation": "The facade of the church is very old."
+  },
+  {
+   "text": "Dobbiamo ridipingere la facciata del palazzo?",
+   "translation": "Do we have to repaint the facade of the building?"
+  }
+ ],
+ "estensione": [
+  {
+   "text": "Questo parco ha un'estensione di molti chilometri.",
+   "translation": "This park extends over many kilometres."
+  }
+ ],
+ "simulazione": [
+  {
+   "text": "Domani facciamo una simulazione dell'esame.",
+   "translation": "Tomorrow we're doing a mock run of the exam."
+  }
+ ],
+ "clausola": [
+  {
+   "text": "Leggi bene ogni clausola prima di firmare.",
+   "translation": "Read each clause carefully before you sign."
+  },
+  {
+   "text": "Nel contratto c'è una clausola sulle ferie.",
+   "translation": "There is a clause about holidays in the contract."
+  }
+ ],
+ "località": [
+  {
+   "text": "Questa è una località di mare molto tranquilla.",
+   "translation": "This is a very quiet seaside resort."
+  }
+ ],
+ "stupefacente": [
+  {
+   "text": "Dalla cima si vede un panorama stupefacente.",
+   "translation": "From the top you can see an amazing view."
+  }
+ ],
+ "fazione": [
+  {
+   "text": "La classe si è divisa in due fazioni.",
+   "translation": "The class split into two factions."
+  },
+  {
+   "text": "Di quale fazione fai parte tu?",
+   "translation": "Which faction are you part of?"
+  }
+ ],
+ "audace": [
+  {
+   "text": "Ha fatto una scelta audace e ha cambiato lavoro.",
+   "translation": "She made a bold choice and changed jobs."
+  },
+  {
+   "text": "Ti piace il suo stile così audace?",
+   "translation": "Do you like his daring style?"
+  }
+ ],
+ "cascare": [
+  {
+   "text": "Attento, il bicchiere sta per cascare dal tavolo!",
+   "translation": "Careful, the glass is about to fall off the table!"
+  }
+ ],
+ "convivere": [
+  {
+   "text": "Il mio gatto convive bene con il cane.",
+   "translation": "My cat gets along well living with the dog."
+  }
+ ],
+ "montaggio": [
+  {
+   "text": "Il montaggio del mobile ha richiesto due ore.",
+   "translation": "Assembling the piece of furniture took two hours."
+  }
+ ],
+ "autonomia": [
+  {
+   "text": "Questa batteria ha un'autonomia di dieci ore.",
+   "translation": "This battery lasts ten hours."
+  },
+  {
+   "text": "Vuoi più autonomia nel tuo lavoro?",
+   "translation": "Do you want more autonomy in your job?"
+  }
+ ],
+ "reggimento": [
+  {
+   "text": "Mio nonno faceva parte di un reggimento di montagna.",
+   "translation": "My grandfather was part of a mountain regiment."
+  },
+  {
+   "text": "Il reggimento è partito all'alba.",
+   "translation": "The regiment left at dawn."
+  }
+ ],
+ "fornitura": [
+  {
+   "text": "La fornitura di gas è stata interrotta stamattina.",
+   "translation": "The gas supply was cut off this morning."
+  },
+  {
+   "text": "Quando arriva la prossima fornitura di frutta?",
+   "translation": "When does the next supply of fruit arrive?"
+  }
+ ],
+ "giuridico": [
+  {
+   "text": "Mia sorella studia consulenza giuridica all'università.",
+   "translation": "My sister studies legal consulting at university."
+  },
+  {
+   "text": "Hai bisogno di un aiuto giuridico?",
+   "translation": "Do you need legal help?"
+  }
+ ],
+ "atterraggio": [
+  {
+   "text": "L'atterraggio a Roma è previsto alle nove.",
+   "translation": "Landing in Rome is scheduled for nine."
+  }
+ ],
+ "amatoriale": [
+  {
+   "text": "Gioco in una squadra di calcio amatoriale.",
+   "translation": "I play on an amateur football team."
+  },
+  {
+   "text": "È un video amatoriale, ma è molto bello.",
+   "translation": "It's an amateur video, but it's very nice."
+  }
+ ],
+ "glorioso": [
+  {
+   "text": "La nostra squadra ha un passato glorioso.",
+   "translation": "Our team has a glorious past."
+  },
+  {
+   "text": "Fu una giornata gloriosa per tutta la città.",
+   "translation": "It was a glorious day for the whole city."
+  }
+ ],
+ "carrello": [
+  {
+   "text": "Metto il latte e il pane nel carrello.",
+   "translation": "I put the milk and bread in the cart."
+  }
+ ],
+ "tassare": [
+  {
+   "text": "Vogliono tassare le auto più inquinanti.",
+   "translation": "They want to tax the most polluting cars."
+  },
+  {
+   "text": "Perché tassano anche i regali di valore?",
+   "translation": "Why do they tax valuable gifts too?"
+  }
+ ],
+ "ribellione": [
+  {
+   "text": "A quattordici anni ho avuto la mia ribellione.",
+   "translation": "At fourteen I had my rebellion."
+  },
+  {
+   "text": "La ribellione dei lavoratori è finita senza problemi.",
+   "translation": "The workers' revolt ended without trouble."
+  }
+ ],
+ "sensibilità": [
+  {
+   "text": "Ha una grande sensibilità per la musica.",
+   "translation": "She has a great sensitivity to music."
+  },
+  {
+   "text": "Hai molta sensibilità: ti importa degli altri.",
+   "translation": "You are very sensitive: you care about others."
+  }
+ ],
+ "troll": [
+  {
+   "text": "Nella fiaba, il troll vive sotto un ponte.",
+   "translation": "In the fairy tale, the troll lives under a bridge."
+  },
+  {
+   "text": "Non rispondere a quel troll, vuole solo litigare.",
+   "translation": "Don't answer that troll, he just wants to fight."
+  }
+ ],
+ "amoroso": [
+  {
+   "text": "Mi ha scritto una lettera molto amorosa.",
+   "translation": "He wrote me a very loving letter."
+  }
+ ],
+ "sportello": [
+  {
+   "text": "Lo sportello della banca apre alle otto e mezza.",
+   "translation": "The bank counter opens at half past eight."
+  }
+ ],
+ "tuttora": [
+  {
+   "text": "Abito tuttora con i miei genitori.",
+   "translation": "I still live with my parents."
+  },
+  {
+   "text": "Il negozio è tuttora chiuso per lavori.",
+   "translation": "The shop is still closed for renovations."
+  }
+ ],
+ "dossier": [
+  {
+   "text": "Ho preparato un dossier sul nuovo progetto.",
+   "translation": "I prepared a dossier on the new project."
+  }
+ ],
+ "match": [
+  {
+   "text": "Il match di tennis è durato tre ore.",
+   "translation": "The tennis match lasted three hours."
+  },
+  {
+   "text": "Guardi il match con noi stasera?",
+   "translation": "Are you watching the match with us tonight?"
+  }
+ ],
+ "orlare": [
+  {
+   "text": "Devo orlare i pantaloni, sono troppo lunghi.",
+   "translation": "I have to hem the trousers, they are too long."
+  },
+  {
+   "text": "Mia nonna sa orlare le tende a mano.",
+   "translation": "My grandmother knows how to hem curtains by hand."
+  }
+ ],
+ "stalla": [
+  {
+   "text": "Le mucche dormono nella stalla.",
+   "translation": "The cows sleep in the cowshed."
+  },
+  {
+   "text": "Al mattino il contadino pulisce la stalla.",
+   "translation": "In the morning the farmer cleans the stable."
+  }
+ ],
+ "analista": [
+  {
+   "text": "Mio zio lavora come analista in una banca.",
+   "translation": "My uncle works as an analyst at a bank."
+  },
+  {
+   "text": "La mia amica va da un'analista ogni settimana.",
+   "translation": "My friend sees a psychoanalyst every week."
+  }
+ ],
+ "comparsa": [
+  {
+   "text": "Ha fatto la comparsa in un film d'azione.",
+   "translation": "He was an extra in an action movie."
+  }
+ ],
+ "accessibile": [
+  {
+   "text": "Questo museo è accessibile a tutti.",
+   "translation": "This museum is accessible to everyone."
+  }
+ ],
+ "arenare": [
+  {
+   "text": "La barca si è arenata vicino alla riva.",
+   "translation": "The boat ran aground near the shore."
+  },
+  {
+   "text": "Il progetto si è arenato per mancanza di soldi.",
+   "translation": "The project stalled because of a lack of money."
+  }
+ ],
+ "assaggio": [
+  {
+   "text": "Posso avere un assaggio del tuo dolce?",
+   "translation": "Can I have a taste of your dessert?"
+  }
+ ],
+ "celebrazione": [
+  {
+   "text": "La celebrazione del compleanno è domani a casa mia.",
+   "translation": "The birthday celebration is tomorrow at my house."
+  }
+ ],
+ "esercitazione": [
+  {
+   "text": "Domani a scuola c'è un'esercitazione antincendio.",
+   "translation": "Tomorrow at school there is a fire drill."
+  }
+ ],
+ "innumerevole": [
+  {
+   "text": "Stasera ci sono innumerevoli stelle nel cielo.",
+   "translation": "Tonight there are countless stars in the sky."
+  }
+ ],
+ "water": [
+  {
+   "text": "Il water in bagno è rotto.",
+   "translation": "The toilet in the bathroom is broken."
+  },
+  {
+   "text": "Puoi pulire il water, per favore?",
+   "translation": "Can you clean the toilet, please?"
+  }
+ ],
+ "baracca": [
+  {
+   "text": "Vicino al fiume c'è una vecchia baracca.",
+   "translation": "There is an old shack near the river."
+  },
+  {
+   "text": "Questa macchina è una baracca, si ferma sempre.",
+   "translation": "This car is a heap of junk, it always stops."
+  }
+ ],
+ "ormone": [
+  {
+   "text": "Questo ormone regola il sonno.",
+   "translation": "This hormone regulates sleep."
+  }
+ ],
+ "capacitare": [
+  {
+   "text": "Non mi capacito di come sia successo.",
+   "translation": "I can't understand how it happened."
+  },
+  {
+   "text": "Alla fine si è capacitata che doveva cambiare lavoro.",
+   "translation": "In the end she came to terms with having to change jobs."
+  }
+ ],
+ "territoriale": [
+  {
+   "text": "Il mio gatto è molto territoriale con gli estranei.",
+   "translation": "My cat is very territorial with strangers."
+  }
+ ],
+ "confidenza": [
+  {
+   "text": "Ti faccio una confidenza: non mi piace il caffè.",
+   "translation": "Let me tell you a secret: I don't like coffee."
+  }
+ ],
+ "stellare": [
+  {
+   "text": "In montagna il cielo stellare è bellissimo.",
+   "translation": "In the mountains the starry sky is beautiful."
+  },
+  {
+   "text": "La luce stellare arriva da molto lontano.",
+   "translation": "Starlight comes from very far away."
+  }
+ ],
+ "incassare": [
+  {
+   "text": "Oggi il negozio ha incassato molti soldi.",
+   "translation": "Today the shop took in a lot of money."
+  }
+ ],
+ "difensivo": [
+  {
+   "text": "La squadra gioca in modo molto difensivo.",
+   "translation": "The team plays in a very defensive way."
+  },
+  {
+   "text": "Lei ha uno stile di guida difensivo?",
+   "translation": "Do you have a defensive driving style?"
+  }
+ ],
+ "accessorio": [
+  {
+   "text": "Questa borsa è un bell'accessorio per l'estate.",
+   "translation": "This bag is a nice accessory for the summer."
+  },
+  {
+   "text": "L'auto ha molti accessori utili.",
+   "translation": "The car has many useful accessories."
+  }
+ ],
+ "reggia": [
+  {
+   "text": "Domenica visitiamo la reggia con la scuola.",
+   "translation": "On Sunday we are visiting the royal palace with the school."
+  }
+ ],
+ "mozione": [
+  {
+   "text": "L'assemblea del condominio ha approvato la mozione.",
+   "translation": "The building's residents' meeting approved the motion."
+  }
+ ],
+ "assedio": [
+  {
+   "text": "Il castello resistette all'assedio per mesi.",
+   "translation": "The castle withstood the siege for months."
+  }
+ ],
+ "istanza": [
+  {
+   "text": "Ho presentato un'istanza al comune per il permesso.",
+   "translation": "I submitted a petition to the town hall for the permit."
+  }
+ ],
+ "maresciallo": [
+  {
+   "text": "Il maresciallo comanda la stazione dei carabinieri del paese.",
+   "translation": "The warrant officer commands the village's carabinieri station."
+  },
+  {
+   "text": "Chiedi al maresciallo dove si trova l'ufficio.",
+   "translation": "Ask the warrant officer where the office is."
+  }
+ ],
+ "armatura": [
+  {
+   "text": "Il cavaliere indossava un'armatura pesante.",
+   "translation": "The knight wore heavy armor."
+  },
+  {
+   "text": "Hai visto l'armatura nel museo?",
+   "translation": "Did you see the suit of armor in the museum?"
+  }
+ ],
+ "soccorrere": [
+  {
+   "text": "Dobbiamo soccorrere subito chi si sente male.",
+   "translation": "We must help right away anyone who feels ill."
+  }
+ ],
+ "schifezza": [
+  {
+   "text": "Questa minestra è una schifezza!",
+   "translation": "This soup is disgusting!"
+  },
+  {
+   "text": "Non mangiare quella schifezza, ti fa male.",
+   "translation": "Don't eat that junk, it's bad for you."
+  }
+ ],
+ "detenzione": [
+  {
+   "text": "La detenzione di armi richiede una licenza.",
+   "translation": "Possession of weapons requires a license."
+  },
+  {
+   "text": "È vietata la detenzione di fuochi d'artificio.",
+   "translation": "Holding fireworks is forbidden."
+  }
+ ],
+ "editoriale": [
+  {
+   "text": "Lavoro nel settore editoriale da molti anni.",
+   "translation": "I have worked in the publishing sector for many years."
+  },
+  {
+   "text": "Abbiamo una nuova idea editoriale per il giornale.",
+   "translation": "We have a new editorial idea for the newspaper."
+  }
+ ],
+ "frontale": [
+  {
+   "text": "Questa lavatrice ha l'apertura frontale.",
+   "translation": "This washing machine has a front opening."
+  }
+ ],
+ "frazione": [
+  {
+   "text": "Abito in una piccola frazione di montagna.",
+   "translation": "I live in a small mountain hamlet."
+  }
+ ],
+ "trionfo": [
+  {
+   "text": "La festa è stata un vero trionfo.",
+   "translation": "The party was a real triumph."
+  }
+ ],
+ "fanciulla": [
+  {
+   "text": "La fanciulla camminava da sola nel bosco.",
+   "translation": "The girl was walking alone in the woods."
+  },
+  {
+   "text": "Nella favola, la fanciulla trova una chiave d'oro.",
+   "translation": "In the fairy tale, the maiden finds a golden key."
+  }
+ ],
+ "stand": [
+  {
+   "text": "Lo stand del formaggio è vicino all'entrata.",
+   "translation": "The cheese stand is near the entrance."
+  },
+  {
+   "text": "Visitiamo gli stand della fiera?",
+   "translation": "Shall we visit the booths at the fair?"
+  }
+ ],
+ "penetrare": [
+  {
+   "text": "L'acqua penetra nelle scarpe e ho i piedi bagnati.",
+   "translation": "Water is getting into my shoes and my feet are wet."
+  }
+ ],
+ "sottoporre": [
+  {
+   "text": "Domani devo sottoporre il progetto al direttore.",
+   "translation": "Tomorrow I have to submit the project to the director."
+  }
+ ],
+ "muscolare": [
+  {
+   "text": "Dopo la corsa ho un dolore muscolare alla gamba.",
+   "translation": "After the run I have a muscle pain in my leg."
+  }
+ ],
+ "qualora": [
+  {
+   "text": "Qualora tu abbia dubbi, chiamami pure.",
+   "translation": "In case you have any doubts, just call me."
+  },
+  {
+   "text": "Qualora piova, la festa si farà in casa.",
+   "translation": "If it should rain, the party will be held indoors."
+  }
+ ],
+ "carnevale": [
+  {
+   "text": "A carnevale i bambini si vestono con costumi colorati.",
+   "translation": "At carnival, children dress up in colorful costumes."
+  }
+ ],
+ "banchetto": [
+  {
+   "text": "Dopo il matrimonio c'è stato un grande banchetto.",
+   "translation": "After the wedding there was a big banquet."
+  }
+ ],
+ "ricavare": [
+  {
+   "text": "Dal latte si ricava il formaggio.",
+   "translation": "Cheese is made from milk."
+  },
+  {
+   "text": "Quanto hai ricavato dalla vendita della bici?",
+   "translation": "How much did you get from selling the bike?"
+  }
+ ],
+ "proporzione": [
+  {
+   "text": "Mescola acqua e farina nella giusta proporzione.",
+   "translation": "Mix water and flour in the right proportion."
+  }
+ ],
+ "fiorentino": [
+  {
+   "text": "A Firenze abbiamo mangiato una bistecca alla fiorentina.",
+   "translation": "In Florence we ate a Florentine-style steak."
+  },
+  {
+   "text": "Il mio amico è fiorentino e parla con un accento particolare.",
+   "translation": "My friend is from Florence and speaks with a distinctive accent."
+  }
+ ],
+ "alt": [
+  {
+   "text": "Alt! Non puoi passare di qui.",
+   "translation": "Stop! You can't go through here."
+  }
+ ],
+ "attivista": [
+  {
+   "text": "Giulia è un'attivista e pulisce il parco ogni sabato.",
+   "translation": "Giulia is an activist and cleans the park every Saturday."
+  }
+ ],
+ "scheda": [
+  {
+   "text": "Compila la scheda con i tuoi dati, per favore.",
+   "translation": "Please fill out the form with your details."
+  }
+ ],
+ "portavoce": [
+  {
+   "text": "La portavoce dell'azienda ha parlato ai giornalisti.",
+   "translation": "The company spokesperson spoke to the journalists."
+  }
+ ],
+ "marmo": [
+  {
+   "text": "Il pavimento della cucina è di marmo.",
+   "translation": "The kitchen floor is made of marble."
+  }
+ ],
+ "precedentemente": [
+  {
+   "text": "Ho lavorato precedentemente in un negozio di scarpe.",
+   "translation": "I previously worked in a shoe shop."
+  },
+  {
+   "text": "Come detto precedentemente, la riunione è domani.",
+   "translation": "As previously mentioned, the meeting is tomorrow."
+  }
+ ],
+ "riporto": [
+  {
+   "text": "Il riporto dell'anno scorso è ancora nel bilancio.",
+   "translation": "Last year's carried-forward amount is still in the budget."
+  },
+  {
+   "text": "Quel signore si pettina con il riporto.",
+   "translation": "That man wears his hair in a comb-over."
+  }
+ ],
+ "integrare": [
+  {
+   "text": "Integro la mia dieta con molta frutta.",
+   "translation": "I supplement my diet with plenty of fruit."
+  }
+ ],
+ "vibrazione": [
+  {
+   "text": "Sento la vibrazione del telefono sul tavolo.",
+   "translation": "I can feel my phone vibrating on the table."
+  },
+  {
+   "text": "La vibrazione della lavatrice è molto forte.",
+   "translation": "The vibration of the washing machine is very strong."
+  }
+ ],
+ "matrimoniale": [
+  {
+   "text": "Vorrei una camera matrimoniale per due notti, per favore.",
+   "translation": "I would like a double room for two nights, please."
+  },
+  {
+   "text": "Abbiamo comprato un letto matrimoniale nuovo.",
+   "translation": "We bought a new double bed."
+  }
+ ],
+ "rigore": [
+  {
+   "text": "L'arbitro ha fischiato un rigore a nostro favore.",
+   "translation": "The referee awarded us a penalty."
+  },
+  {
+   "text": "La professoressa corregge i compiti con molto rigore.",
+   "translation": "The teacher grades homework with great strictness."
+  }
+ ],
+ "sussidio": [
+  {
+   "text": "Questo sussidio aiuta le famiglie con pochi soldi.",
+   "translation": "This benefit helps families with little money."
+  },
+  {
+   "text": "Ha ricevuto un sussidio per pagare l'affitto.",
+   "translation": "He received an allowance to pay the rent."
+  }
+ ],
+ "giubbotto": [
+  {
+   "text": "Fa freddo, metti il giubbotto.",
+   "translation": "It's cold, put your jacket on."
+  }
+ ],
+ "polizza": [
+  {
+   "text": "Ho una polizza assicurativa per la casa.",
+   "translation": "I have an insurance policy for the house."
+  },
+  {
+   "text": "Quanto costa la polizza della macchina?",
+   "translation": "How much does the car insurance policy cost?"
+  }
+ ],
+ "conseguire": [
+  {
+   "text": "Ha conseguito la laurea a giugno.",
+   "translation": "She earned her degree in June."
+  }
+ ],
+ "azionista": [
+  {
+   "text": "Ogni azionista riceve una parte dei guadagni.",
+   "translation": "Every shareholder gets a part of the profits."
+  },
+  {
+   "text": "L'azienda ha scritto a tutti gli azionisti.",
+   "translation": "The company wrote to all its shareholders."
+  }
+ ],
+ "conservazione": [
+  {
+   "text": "Il frigorifero aiuta la conservazione del cibo.",
+   "translation": "The fridge helps with food preservation."
+  },
+  {
+   "text": "La conservazione dei libri antichi richiede molta cura.",
+   "translation": "The preservation of old books takes a lot of care."
+  }
+ ],
+ "battaglione": [
+  {
+   "text": "Il battaglione ha marciato per tutta la mattina.",
+   "translation": "The battalion marched all morning."
+  },
+  {
+   "text": "Un battaglione di soldati ha aiutato dopo l'alluvione.",
+   "translation": "A battalion of soldiers helped after the flood."
+  }
+ ],
+ "apparizione": [
+  {
+   "text": "La sua apparizione in televisione ha sorpreso tutti.",
+   "translation": "His appearance on television surprised everyone."
+  }
+ ],
+ "profugo": [
+  {
+   "text": "Il profugo ha trovato una casa e un lavoro nuovo.",
+   "translation": "The refugee found a new home and a new job."
+  }
+ ],
+ "leggendario": [
+  {
+   "text": "Quel calciatore è leggendario nella mia città.",
+   "translation": "That footballer is legendary in my city."
+  },
+  {
+   "text": "Abbiamo visitato un castello leggendario in montagna.",
+   "translation": "We visited a legendary castle in the mountains."
+  }
+ ],
+ "costruttore": [
+  {
+   "text": "Il costruttore finirà la casa entro l'estate.",
+   "translation": "The builder will finish the house by summer."
+  },
+  {
+   "text": "Questo costruttore di auto è molto famoso.",
+   "translation": "This car manufacturer is very famous."
+  }
+ ],
+ "satellitare": [
+  {
+   "text": "In macchina uso un navigatore satellitare.",
+   "translation": "In the car I use a satellite navigation system."
+  },
+  {
+   "text": "In montagna abbiamo una connessione satellitare.",
+   "translation": "In the mountains we have a satellite connection."
+  }
+ ],
+ "cannone": [
+  {
+   "text": "Al museo c'è un grande cannone antico.",
+   "translation": "At the museum there is a big old cannon."
+  }
+ ],
+ "generico": [
+  {
+   "text": "La tua risposta è troppo generica.",
+   "translation": "Your answer is too vague."
+  }
+ ],
+ "schierare": [
+  {
+   "text": "L'allenatore schiera la squadra in campo.",
+   "translation": "The coach fields the team on the pitch."
+  },
+  {
+   "text": "Perché non schieri subito i tuoi migliori giocatori?",
+   "translation": "Why don't you line up your best players right away?"
+  }
+ ],
+ "acquirente": [
+  {
+   "text": "L'acquirente ha pagato la casa in contanti.",
+   "translation": "The buyer paid for the house in cash."
+  },
+  {
+   "text": "Cerchiamo un acquirente per la nostra vecchia macchina.",
+   "translation": "We are looking for a buyer for our old car."
+  }
+ ],
+ "interferenza": [
+  {
+   "text": "C'è un'interferenza sulla linea e non ti sento.",
+   "translation": "There is interference on the line and I can't hear you."
+  },
+  {
+   "text": "La radio fa rumore per un'interferenza.",
+   "translation": "The radio is noisy because of interference."
+  }
+ ],
+ "anticipato": [
+  {
+   "text": "Per questa offerta devi fare un pagamento anticipato.",
+   "translation": "For this offer you have to make an advance payment."
+  }
+ ],
+ "vigilare": [
+  {
+   "text": "La nonna vigila sui bambini mentre giocano.",
+   "translation": "Grandma keeps watch over the children while they play."
+  },
+  {
+   "text": "Chi vigilerà sull'esame di domani?",
+   "translation": "Who will supervise tomorrow's exam?"
+  }
+ ],
+ "oculare": [
+  {
+   "text": "Il testimone oculare ha raccontato tutto alla polizia.",
+   "translation": "The eyewitness told the police everything."
+  }
+ ],
+ "macchinario": [
+  {
+   "text": "In fabbrica hanno comprato un nuovo macchinario.",
+   "translation": "At the factory they bought new machinery."
+  },
+  {
+   "text": "Il macchinario è fermo da stamattina.",
+   "translation": "The machinery has been stopped since this morning."
+  }
+ ],
+ "strage": [
+  {
+   "text": "Ogni estate c'è una strage di zanzare nel giardino.",
+   "translation": "Every summer there is a slaughter of mosquitoes in the garden."
+  }
+ ],
+ "acquisizione": [
+  {
+   "text": "L'acquisizione dell'azienda è stata annunciata ieri.",
+   "translation": "The acquisition of the company was announced yesterday."
+  },
+  {
+   "text": "Lo studio aiuta l'acquisizione di nuove parole.",
+   "translation": "Studying helps the acquisition of new words."
+  }
+ ],
+ "aggressore": [
+  {
+   "text": "La polizia ha fermato l'aggressore vicino alla stazione.",
+   "translation": "The police stopped the attacker near the station."
+  }
+ ],
+ "preoccupante": [
+  {
+   "text": "La situazione è davvero preoccupante.",
+   "translation": "The situation is really worrying."
+  },
+  {
+   "text": "Hai visto le notizie preoccupanti di oggi?",
+   "translation": "Did you see today's worrying news?"
+  }
+ ],
+ "signoria": [
+  {
+   "text": "A Firenze la Signoria governava la città.",
+   "translation": "In Florence the Signoria governed the city."
+  },
+  {
+   "text": "Nel Medioevo molte città italiane erano rette da una signoria.",
+   "translation": "In the Middle Ages many Italian cities were ruled by a signoria."
+  }
+ ],
+ "cornice": [
+  {
+   "text": "Ho comprato una cornice per la foto di famiglia.",
+   "translation": "I bought a frame for the family photo."
+  },
+  {
+   "text": "Il lago è la cornice perfetta per la festa.",
+   "translation": "The lake is the perfect setting for the party."
+  }
+ ],
+ "incidere": [
+  {
+   "text": "Il costo dell'affitto incide molto sul mio stipendio.",
+   "translation": "The cost of rent has a big impact on my salary."
+  }
+ ],
+ "milanese": [
+  {
+   "text": "Mi piace molto il risotto milanese.",
+   "translation": "I really like Milanese risotto."
+  },
+  {
+   "text": "Mia zia è milanese e vive in centro.",
+   "translation": "My aunt is from Milan and lives downtown."
+  }
+ ],
+ "cilindro": [
+  {
+   "text": "Il mago ha tirato fuori un coniglio dal cilindro.",
+   "translation": "The magician pulled a rabbit out of the top hat."
+  }
+ ],
+ "soda": [
+  {
+   "text": "Vorrei un bicchiere di soda con il limone.",
+   "translation": "I'd like a glass of soda water with lemon."
+  }
+ ],
+ "successione": [
+  {
+   "text": "Ho imparato la successione dei numeri a memoria.",
+   "translation": "I learned the sequence of the numbers by heart."
+  }
+ ],
+ "intercettare": [
+  {
+   "text": "Il portiere riesce a intercettare il pallone.",
+   "translation": "The goalkeeper manages to intercept the ball."
+  },
+  {
+   "text": "Credi che qualcuno possa intercettare le nostre telefonate?",
+   "translation": "Do you think someone could tap our phone calls?"
+  }
+ ],
+ "alterare": [
+  {
+   "text": "Il caldo può alterare il sapore del latte.",
+   "translation": "Heat can alter the taste of milk."
+  },
+  {
+   "text": "Non alterare i dati della ricerca.",
+   "translation": "Don't tamper with the research data."
+  }
+ ],
+ "mitico": [
+  {
+   "text": "Il drago è una creatura mitica.",
+   "translation": "The dragon is a mythical creature."
+  },
+  {
+   "text": "Che serata mitica, grazie a tutti!",
+   "translation": "What an awesome evening, thanks everyone!"
+  }
+ ],
+ "avviato": [
+  {
+   "text": "Mio padre ha un negozio ben avviato in centro.",
+   "translation": "My father has a well-established shop downtown."
+  }
+ ],
+ "singolare": [
+  {
+   "text": "Che storia singolare, non l'avevo mai sentita.",
+   "translation": "What an unusual story, I had never heard it."
+  }
+ ],
+ "ove": [
+  {
+   "text": "Resta ove sei, arrivo subito.",
+   "translation": "Stay where you are, I'm coming right away."
+  },
+  {
+   "text": "Ove possibile, scegli sempre il treno.",
+   "translation": "Where possible, always choose the train."
+  }
+ ],
+ "statuto": [
+  {
+   "text": "Lo statuto della società è molto chiaro.",
+   "translation": "The company's articles of association are very clear."
+  },
+  {
+   "text": "Hai letto lo statuto del nostro club?",
+   "translation": "Have you read the charter of our club?"
+  }
+ ],
+ "giustamente": [
+  {
+   "text": "Giustamente, ha chiesto scusa a tutti.",
+   "translation": "Rightly so, he apologized to everyone."
+  },
+  {
+   "text": "Hai risposto giustamente alla domanda.",
+   "translation": "You answered the question correctly."
+  }
+ ],
+ "radunare": [
+  {
+   "text": "La maestra raduna i bambini nel cortile.",
+   "translation": "The teacher gathers the children in the courtyard."
+  }
+ ],
+ "sistemazione": [
+  {
+   "text": "La sistemazione in albergo è molto comoda.",
+   "translation": "The hotel accommodation is very comfortable."
+  },
+  {
+   "text": "Che ne pensi della nuova sistemazione dei mobili?",
+   "translation": "What do you think of the new arrangement of the furniture?"
+  }
+ ],
+ "eliminazione": [
+  {
+   "text": "L'eliminazione della squadra ha deluso i tifosi.",
+   "translation": "The team's elimination disappointed the fans."
+  },
+  {
+   "text": "Per la salute serve l'eliminazione dello zucchero.",
+   "translation": "For your health you need to eliminate sugar."
+  }
+ ],
+ "normativa": [
+  {
+   "text": "La nuova normativa sulla sicurezza entra in vigore domani.",
+   "translation": "The new safety regulations come into force tomorrow."
+  },
+  {
+   "text": "Conosci la normativa per viaggiare con un cane?",
+   "translation": "Do you know the rules for travelling with a dog?"
+  }
+ ],
+ "infernale": [
+  {
+   "text": "Oggi fa un caldo infernale.",
+   "translation": "Today it is infernally hot."
+  }
+ ],
+ "stabilità": [
+  {
+   "text": "Un lavoro fisso dà stabilità alla famiglia.",
+   "translation": "A steady job gives stability to the family."
+  }
+ ],
+ "convenzionale": [
+  {
+   "text": "Preferisco un lavoro convenzionale, con orari fissi.",
+   "translation": "I prefer a conventional job with fixed hours."
+  },
+  {
+   "text": "Questo non è un metodo molto convenzionale, vero?",
+   "translation": "This isn't a very conventional method, is it?"
+  }
+ ],
+ "stampo": [
+  {
+   "text": "Faccio la torta con uno stampo rotondo.",
+   "translation": "I make the cake with a round mould."
+  },
+  {
+   "text": "Il nonno è un uomo di vecchio stampo.",
+   "translation": "Grandpa is a man of the old school."
+  }
+ ],
+ "flora": [
+  {
+   "text": "La flora di questa montagna è molto ricca.",
+   "translation": "The flora of this mountain is very rich."
+  },
+  {
+   "text": "Studiamo la flora e la fauna del lago.",
+   "translation": "We are studying the flora and fauna of the lake."
+  }
+ ],
+ "scoppio": [
+  {
+   "text": "Abbiamo sentito uno scoppio improvviso in strada.",
+   "translation": "We heard a sudden bang in the street."
+  }
+ ],
+ "ricevimento": [
+  {
+   "text": "Il professore ha ricevimento il martedì mattina.",
+   "translation": "The professor has office hours on Tuesday morning."
+  }
+ ],
+ "farmaceutico": [
+  {
+   "text": "Mia sorella lavora in un'azienda farmaceutica.",
+   "translation": "My sister works at a pharmaceutical company."
+  },
+  {
+   "text": "Il settore farmaceutico cerca nuovi tecnici di laboratorio.",
+   "translation": "The pharmaceutical sector is looking for new lab technicians."
+  }
+ ],
+ "infrastruttura": [
+  {
+   "text": "La città ha bisogno di una nuova infrastruttura per i trasporti.",
+   "translation": "The city needs a new transport infrastructure."
+  },
+  {
+   "text": "Senza un'infrastruttura moderna, internet qui è molto lento.",
+   "translation": "Without modern infrastructure, the internet here is very slow."
+  }
+ ],
+ "riassunto": [
+  {
+   "text": "Domani devo consegnare il riassunto del libro.",
+   "translation": "Tomorrow I have to hand in the summary of the book."
+  },
+  {
+   "text": "Puoi farmi un riassunto della riunione di ieri?",
+   "translation": "Can you give me a recap of yesterday's meeting?"
+  }
+ ],
+ "contorno": [
+  {
+   "text": "Come contorno prendo le patate al forno.",
+   "translation": "For my side dish I'll have roasted potatoes."
+  },
+  {
+   "text": "Il pittore ha disegnato prima il contorno della montagna.",
+   "translation": "The painter first drew the outline of the mountain."
+  }
+ ],
+ "rotazione": [
+  {
+   "text": "La rotazione della Terra dura un giorno.",
+   "translation": "The Earth's rotation takes one day."
+  },
+  {
+   "text": "Al lavoro facciamo una rotazione dei turni ogni settimana.",
+   "translation": "At work we rotate the shifts every week."
+  }
+ ],
+ "perlomeno": [
+  {
+   "text": "Chiamami perlomeno una volta alla settimana!",
+   "translation": "Call me at least once a week!"
+  }
+ ],
+ "veglia": [
+  {
+   "text": "Era in uno stato tra la veglia e il sonno.",
+   "translation": "He was in a state between wakefulness and sleep."
+  }
+ ],
+ "devastante": [
+  {
+   "text": "La tempesta di ieri notte è stata devastante.",
+   "translation": "Last night's storm was devastating."
+  }
+ ],
+ "capriccio": [
+  {
+   "text": "Il bambino ha fatto un capriccio perché voleva il gelato.",
+   "translation": "The child threw a tantrum because he wanted ice cream."
+  }
+ ],
+ "cancelliere": [
+  {
+   "text": "Il cancelliere del tribunale ha scritto tutto nel verbale.",
+   "translation": "The court clerk wrote everything down in the record."
+  }
+ ],
+ "acquisito": [
+  {
+   "text": "Ha un accento acquisito dopo anni passati all'estero.",
+   "translation": "He has an acquired accent after years spent abroad."
+  }
+ ],
+ "variante": [
+  {
+   "text": "Questa ricetta ha una variante senza latte.",
+   "translation": "This recipe has a milk-free variant."
+  }
+ ],
+ "reggiseno": [
+  {
+   "text": "Ho comprato un reggiseno sportivo in un negozio del centro.",
+   "translation": "I bought a sports bra at a shop downtown."
+  }
+ ],
+ "appalto": [
+  {
+   "text": "L'azienda ha vinto l'appalto per costruire la scuola.",
+   "translation": "The company won the contract to build the school."
+  },
+  {
+   "text": "Chi ha ottenuto l'appalto per la mensa?",
+   "translation": "Who got the tender for the canteen?"
+  }
+ ],
+ "peraltro": [
+  {
+   "text": "Il film è lungo e peraltro anche un po' noioso.",
+   "translation": "The film is long and, besides, a bit boring too."
+  },
+  {
+   "text": "Non ho tempo, e peraltro non mi va.",
+   "translation": "I don't have time, and anyway I don't feel like it."
+  }
+ ],
+ "tutore": [
+  {
+   "text": "Il tutore del ragazzo ha firmato il documento.",
+   "translation": "The boy's legal guardian signed the document."
+  },
+  {
+   "text": "Il professore è stato il mio tutore durante la tesi.",
+   "translation": "The professor was my tutor during my thesis."
+  }
+ ],
+ "licenziamento": [
+  {
+   "text": "Il licenziamento è stato una brutta sorpresa per tutti.",
+   "translation": "The dismissal was a nasty surprise for everyone."
+  },
+  {
+   "text": "Dopo il licenziamento, cerca un nuovo lavoro ogni giorno.",
+   "translation": "After being laid off, he looks for a new job every day."
+  }
+ ],
+ "chinare": [
+  {
+   "text": "Il bambino chinò la testa e non disse niente.",
+   "translation": "The child lowered his head and said nothing."
+  }
+ ],
+ "reattore": [
+  {
+   "text": "Il reattore dell'aereo fa un rumore fortissimo.",
+   "translation": "The plane's jet engine makes a very loud noise."
+  },
+  {
+   "text": "In quella centrale c'è un reattore nucleare molto vecchio.",
+   "translation": "There is a very old nuclear reactor in that plant."
+  }
+ ],
+ "anteprima": [
+  {
+   "text": "Ho visto l'anteprima del nuovo film ieri sera.",
+   "translation": "I saw the preview of the new film last night."
+  },
+  {
+   "text": "Clicca sull'anteprima per aprire la foto.",
+   "translation": "Click on the thumbnail to open the photo."
+  }
+ ],
+ "rispettivo": [
+  {
+   "text": "I due fratelli sono tornati nelle rispettive camere.",
+   "translation": "The two brothers went back to their respective rooms."
+  }
+ ],
+ "ricadere": [
+  {
+   "text": "Se non stai attento, ricadi nello stesso errore.",
+   "translation": "If you're not careful, you'll fall into the same mistake again."
+  },
+  {
+   "text": "Le spese ricadono sempre sulla stessa famiglia.",
+   "translation": "The costs always fall on the same family."
+  }
+ ],
+ "bottino": [
+  {
+   "text": "I pirati dividevano il bottino sulla spiaggia.",
+   "translation": "The pirates divided the loot on the beach."
+  }
+ ],
+ "eleganza": [
+  {
+   "text": "Si veste sempre con molta eleganza.",
+   "translation": "She always dresses with great elegance."
+  }
+ ],
+ "presumibilmente": [
+  {
+   "text": "Il treno arriverà presumibilmente verso le otto.",
+   "translation": "The train will presumably arrive around eight."
+  }
+ ],
+ "lavanderia": [
+  {
+   "text": "Porto le coperte in lavanderia perché sono troppo grandi.",
+   "translation": "I'm taking the blankets to the laundromat because they're too big."
+  }
+ ],
+ "complessivo": [
+  {
+   "text": "Il costo complessivo del viaggio è molto alto.",
+   "translation": "The total cost of the trip is very high."
+  },
+  {
+   "text": "Qual è il tuo giudizio complessivo sul corso?",
+   "translation": "What is your overall opinion of the course?"
+  }
+ ],
+ "reclutare": [
+  {
+   "text": "L'azienda vuole reclutare dieci nuovi studenti.",
+   "translation": "The company wants to recruit ten new students."
+  },
+  {
+   "text": "Stanno reclutando volontari per pulire il parco.",
+   "translation": "They are recruiting volunteers to clean the park."
+  }
+ ],
+ "coalizione": [
+  {
+   "text": "Varie associazioni hanno formato una coalizione per pulire il fiume.",
+   "translation": "Several associations formed a coalition to clean up the river."
+  },
+  {
+   "text": "Questa coalizione di aziende aiuta i piccoli negozi del quartiere.",
+   "translation": "This coalition of companies helps the neighborhood's small shops."
+  }
+ ],
+ "granato": [
+  {
+   "text": "Mia nonna porta sempre un anello con un granato.",
+   "translation": "My grandmother always wears a ring with a garnet."
+  },
+  {
+   "text": "Mi piace il granato di questo vestito.",
+   "translation": "I like the dark red of this dress."
+  }
+ ],
+ "astronave": [
+  {
+   "text": "Nel film l'astronave atterra su un pianeta rosso.",
+   "translation": "In the film the spaceship lands on a red planet."
+  },
+  {
+   "text": "Da piccolo volevo pilotare un'astronave.",
+   "translation": "As a kid I wanted to pilot a spaceship."
+  }
+ ],
+ "inciso": [
+  {
+   "text": "Per inciso, domani non c'è lezione.",
+   "translation": "By the way, there is no class tomorrow."
+  },
+  {
+   "text": "Apro un inciso: la cena è alle otto, non alle nove.",
+   "translation": "Let me make an aside: dinner is at eight, not nine."
+  }
+ ],
+ "cullare": [
+  {
+   "text": "La mamma culla il bambino finché si addormenta.",
+   "translation": "The mother rocks the baby until he falls asleep."
+  }
+ ],
+ "vigilanza": [
+  {
+   "text": "Il negozio ha un sistema di vigilanza di notte.",
+   "translation": "The shop has a surveillance system at night."
+  },
+  {
+   "text": "In piscina i bambini hanno bisogno di vigilanza costante.",
+   "translation": "At the pool, children need constant supervision."
+  }
+ ],
+ "indigeno": [
+  {
+   "text": "In questo parco vivono molte piante indigene.",
+   "translation": "Many native plants grow in this park."
+  }
+ ],
+ "stoffa": [
+  {
+   "text": "Questa stoffa è morbida e costa poco.",
+   "translation": "This fabric is soft and cheap."
+  }
+ ],
+ "giochetto": [
+  {
+   "text": "Mio nonno conosce un giochetto con le carte.",
+   "translation": "My grandfather knows a little card trick."
+  },
+  {
+   "text": "Non è un problema, per lui è un giochetto!",
+   "translation": "It's no problem, it's child's play for him!"
+  }
+ ],
+ "deposito": [
+  {
+   "text": "Lasciamo le valigie nel deposito della stazione.",
+   "translation": "We leave the suitcases in the station's storage room."
+  }
+ ],
+ "predatore": [
+  {
+   "text": "Il leone è un grande predatore.",
+   "translation": "The lion is a great predator."
+  }
+ ],
+ "sottoscritto": [
+  {
+   "text": "Il sottoscritto dichiara di essere maggiorenne.",
+   "translation": "The undersigned declares to be of age."
+  },
+  {
+   "text": "Il contratto è sottoscritto da entrambi.",
+   "translation": "The contract is signed by both of them."
+  }
+ ],
+ "accettazione": [
+  {
+   "text": "L'accettazione dell'hotel è aperta tutto il giorno.",
+   "translation": "The hotel reception desk is open all day."
+  },
+  {
+   "text": "Ho firmato l'accettazione del contratto.",
+   "translation": "I signed the acceptance of the contract."
+  }
+ ],
+ "evasione": [
+  {
+   "text": "L'evasione fiscale è un reato.",
+   "translation": "Tax evasion is a crime."
+  },
+  {
+   "text": "Per me leggere è una forma di evasione.",
+   "translation": "For me, reading is a form of escapism."
+  }
+ ],
+ "pugnale": [
+  {
+   "text": "Nel museo c'è un pugnale molto antico.",
+   "translation": "There is a very old dagger in the museum."
+  }
+ ],
+ "travaglio": [
+  {
+   "text": "Il travaglio è durato dieci ore.",
+   "translation": "The labour lasted ten hours."
+  },
+  {
+   "text": "Dopo tanto travaglio, ha trovato un nuovo lavoro.",
+   "translation": "After so much hardship, he found a new job."
+  }
+ ],
+ "intercettazione": [
+  {
+   "text": "La polizia ha ascoltato un'intercettazione telefonica.",
+   "translation": "The police listened to a phone wiretap."
+  },
+  {
+   "text": "L'intercettazione del pallone ha fermato l'attacco.",
+   "translation": "The interception of the ball stopped the attack."
+  }
+ ],
+ "finanziaria": [
+  {
+   "text": "Ha chiesto un prestito a una finanziaria.",
+   "translation": "He asked a finance company for a loan."
+  }
+ ],
+ "sindacale": [
+  {
+   "text": "Domani c'è una riunione sindacale in fabbrica.",
+   "translation": "Tomorrow there is a union meeting at the factory."
+  },
+  {
+   "text": "Hai parlato con il rappresentante sindacale?",
+   "translation": "Did you talk to the union representative?"
+  }
+ ],
+ "facciale": [
+  {
+   "text": "Ogni sera uso una crema facciale.",
+   "translation": "Every evening I use a face cream."
+  }
+ ],
+ "trasparenza": [
+  {
+   "text": "In un'azienda la trasparenza è molto importante.",
+   "translation": "Transparency is very important in a company."
+  },
+  {
+   "text": "Questo vetro ha una trasparenza perfetta.",
+   "translation": "This glass is perfectly transparent."
+  }
+ ],
+ "intermediario": [
+  {
+   "text": "Ho trovato casa tramite un intermediario.",
+   "translation": "I found a house through an intermediary."
+  },
+  {
+   "text": "Non vogliamo intermediari, preferiamo trattare direttamente.",
+   "translation": "We don't want middlemen, we prefer to deal directly."
+  }
+ ],
+ "edilizia": [
+  {
+   "text": "Mio zio lavora nell'edilizia da vent'anni.",
+   "translation": "My uncle has worked in construction for twenty years."
+  },
+  {
+   "text": "Il settore dell'edilizia cerca nuovi operai.",
+   "translation": "The building industry is looking for new workers."
+  }
+ ],
+ "spacciare": [
+  {
+   "text": "Spacciava il vino economico per un vino di marca.",
+   "translation": "He passed off the cheap wine as a brand-name wine."
+  },
+  {
+   "text": "Cerca di spacciarsi per un esperto, ma non lo è.",
+   "translation": "He tries to pass himself off as an expert, but he isn't."
+  }
+ ],
+ "provenienza": [
+  {
+   "text": "Qual è la provenienza di questo formaggio?",
+   "translation": "Where does this cheese come from?"
+  },
+  {
+   "text": "I turisti sono di provenienza molto diversa.",
+   "translation": "The tourists come from very different places."
+  }
+ ],
+ "bingo": [
+  {
+   "text": "Mia nonna gioca a bingo ogni sabato.",
+   "translation": "My grandmother plays bingo every Saturday."
+  }
+ ],
+ "beta": [
+  {
+   "text": "Sto provando la versione beta del programma.",
+   "translation": "I'm trying out the beta version of the program."
+  },
+  {
+   "text": "La beta è la seconda lettera dell'alfabeto greco.",
+   "translation": "Beta is the second letter of the Greek alphabet."
+  }
+ ],
+ "pallottola": [
+  {
+   "text": "Hanno trovato una pallottola nel muro della vecchia casa.",
+   "translation": "They found a bullet in the wall of the old house."
+  },
+  {
+   "text": "Il poliziotto ha contato le pallottole nella scatola.",
+   "translation": "The policeman counted the bullets in the box."
+  }
+ ],
+ "molteplice": [
+  {
+   "text": "Il problema ha molteplici cause.",
+   "translation": "The problem has many different causes."
+  },
+  {
+   "text": "Questo strumento ha un uso molteplice.",
+   "translation": "This tool has multiple uses."
+  }
+ ],
+ "pasticcio": [
+  {
+   "text": "Che pasticcio, ho rovesciato il caffè sul tavolo!",
+   "translation": "What a mess, I spilled the coffee on the table!"
+  },
+  {
+   "text": "La nonna prepara un pasticcio di verdure.",
+   "translation": "Grandma is making a baked vegetable dish."
+  }
+ ],
+ "saggiare": [
+  {
+   "text": "Il professore vuole saggiare la nostra preparazione.",
+   "translation": "The teacher wants to test how well prepared we are."
+  },
+  {
+   "text": "Prima di decidere, vorrei saggiare il parere dei colleghi.",
+   "translation": "Before deciding, I'd like to sound out my colleagues' opinion."
+  }
+ ],
+ "tematico": [
+  {
+   "text": "Domenica andiamo in un parco tematico.",
+   "translation": "On Sunday we're going to a theme park."
+  },
+  {
+   "text": "Il museo ha una mostra tematica sul mare.",
+   "translation": "The museum has a themed exhibition about the sea."
+  }
+ ],
+ "esibire": [
+  {
+   "text": "Alla frontiera devi esibire il passaporto.",
+   "translation": "At the border you have to show your passport."
+  }
+ ],
+ "strutturale": [
+  {
+   "text": "L'edificio ha un problema strutturale.",
+   "translation": "The building has a structural problem."
+  },
+  {
+   "text": "Servono lavori strutturali sul vecchio ponte.",
+   "translation": "Structural work is needed on the old bridge."
+  }
+ ],
+ "sfilata": [
+  {
+   "text": "Domani vado a vedere una sfilata di moda.",
+   "translation": "Tomorrow I'm going to see a fashion show."
+  }
+ ],
+ "esaltare": [
+  {
+   "text": "Quella canzone mi esalta sempre.",
+   "translation": "That song always thrills me."
+  },
+  {
+   "text": "Il film esalta il coraggio dei pompieri.",
+   "translation": "The film praises the firefighters' courage."
+  }
+ ],
+ "esponente": [
+  {
+   "text": "In matematica, l'esponente indica la potenza.",
+   "translation": "In maths, the exponent indicates the power."
+  },
+  {
+   "text": "È uno dei principali esponenti della musica italiana.",
+   "translation": "He is one of the leading figures of Italian music."
+  }
+ ],
+ "efficienza": [
+  {
+   "text": "Questa lavatrice ha una buona efficienza energetica.",
+   "translation": "This washing machine has good energy efficiency."
+  },
+  {
+   "text": "Lavorare con efficienza fa risparmiare tempo.",
+   "translation": "Working efficiently saves time."
+  }
+ ],
+ "ristrutturazione": [
+  {
+   "text": "La ristrutturazione della cucina costa molto.",
+   "translation": "Renovating the kitchen costs a lot."
+  }
+ ],
+ "analogo": [
+  {
+   "text": "Ieri ho avuto un problema analogo.",
+   "translation": "Yesterday I had a similar problem."
+  }
+ ],
+ "dorare": [
+  {
+   "text": "Fai dorare la cipolla in un po' d'olio.",
+   "translation": "Brown the onion in a little oil."
+  }
+ ],
+ "feccia": [
+  {
+   "text": "Sul fondo della bottiglia c'è un po' di feccia.",
+   "translation": "There is a bit of sediment at the bottom of the bottle."
+  },
+  {
+   "text": "Non trattarli come la feccia della società.",
+   "translation": "Don't treat them like the scum of society."
+  }
+ ],
+ "censura": [
+  {
+   "text": "Il film ha subito la censura per una scena.",
+   "translation": "The film was censored because of one scene."
+  }
+ ],
+ "coinquilino": [
+  {
+   "text": "Il mio coinquilino cucina molto bene.",
+   "translation": "My flatmate cooks very well."
+  },
+  {
+   "text": "Cerchiamo un nuovo coinquilino per febbraio.",
+   "translation": "We're looking for a new housemate for February."
+  }
+ ],
+ "revocare": [
+  {
+   "text": "Il comune ha revocato il permesso.",
+   "translation": "The council revoked the permit."
+  }
+ ],
+ "rispettivamente": [
+  {
+   "text": "Ho due fratelli di otto e dieci anni, rispettivamente.",
+   "translation": "I have two brothers, aged eight and ten respectively."
+  }
+ ],
+ "panoramico": [
+  {
+   "text": "Dalla terrazza c'è una vista panoramica sul lago.",
+   "translation": "From the terrace there is a panoramic view of the lake."
+  }
+ ],
+ "stimolante": [
+  {
+   "text": "È un lavoro stimolante e mai noioso.",
+   "translation": "It's a stimulating job and never boring."
+  }
+ ],
+ "torrente": [
+  {
+   "text": "Dopo la pioggia il torrente è pieno d'acqua.",
+   "translation": "After the rain the stream is full of water."
+  }
+ ],
+ "rimozione": [
+  {
+   "text": "La rimozione della neve è già iniziata.",
+   "translation": "The snow removal has already begun."
+  },
+  {
+   "text": "Quanto costa la rimozione di un'auto?",
+   "translation": "How much does it cost to have a car towed?"
+  }
+ ],
+ "mentalità": [
+  {
+   "text": "Mia nonna ha una mentalità molto aperta.",
+   "translation": "My grandmother has a very open mindset."
+  }
+ ],
+ "prestigioso": [
+  {
+   "text": "Mia sorella lavora in un'azienda prestigiosa.",
+   "translation": "My sister works at a prestigious company."
+  }
+ ],
+ "espulsione": [
+  {
+   "text": "Dopo l'espulsione, la squadra gioca in dieci.",
+   "translation": "After the sending-off, the team plays with ten men."
+  },
+  {
+   "text": "L'arbitro ha deciso l'espulsione del portiere.",
+   "translation": "The referee decided to send off the goalkeeper."
+  }
+ ],
+ "rettore": [
+  {
+   "text": "Oggi il rettore parla agli studenti.",
+   "translation": "Today the rector speaks to the students."
+  },
+  {
+   "text": "Dov'è l'ufficio del rettore dell'università?",
+   "translation": "Where is the university rector's office?"
+  }
+ ],
+ "suddetto": [
+  {
+   "text": "Il suddetto documento è già pronto.",
+   "translation": "The above-mentioned document is already ready."
+  },
+  {
+   "text": "Le suddette regole valgono per tutti.",
+   "translation": "The above-mentioned rules apply to everyone."
+  }
+ ],
+ "derby": [
+  {
+   "text": "Domenica c'è il derby della città.",
+   "translation": "On Sunday there's the city derby."
+  },
+  {
+   "text": "Hai visto il derby ieri sera?",
+   "translation": "Did you watch the derby last night?"
+  }
+ ],
+ "reality": [
+  {
+   "text": "Mia madre guarda un reality ogni sera.",
+   "translation": "My mother watches a reality show every evening."
+  },
+  {
+   "text": "Quel reality è davvero noioso.",
+   "translation": "That reality show is really boring."
+  }
+ ],
+ "nova": [
+  {
+   "text": "Stanotte gli astronomi hanno visto una nova nel cielo.",
+   "translation": "Tonight the astronomers saw a nova in the sky."
+  },
+  {
+   "text": "Una nova brilla per pochi giorni e poi si spegne.",
+   "translation": "A nova shines for a few days and then fades."
+  }
+ ],
+ "intuizione": [
+  {
+   "text": "Ho avuto un'intuizione: la chiave è in macchina.",
+   "translation": "I had a hunch: the key is in the car."
+  }
+ ],
+ "divo": [
+  {
+   "text": "Stasera il divo del cinema arriva in città.",
+   "translation": "Tonight the movie star is arriving in town."
+  },
+  {
+   "text": "Tutti vogliono una foto con il divo.",
+   "translation": "Everyone wants a photo with the star."
+  }
+ ],
+ "avvio": [
+  {
+   "text": "L'avvio del computer è molto lento.",
+   "translation": "The computer's startup is very slow."
+  },
+  {
+   "text": "Domani è l'avvio del nuovo corso.",
+   "translation": "Tomorrow is the start of the new course."
+  }
+ ],
+ "parentesi": [
+  {
+   "text": "Scrivi la risposta tra parentesi.",
+   "translation": "Write the answer in brackets."
+  }
+ ],
+ "notaio": [
+  {
+   "text": "Domani andiamo dal notaio per la casa.",
+   "translation": "Tomorrow we're going to the notary about the house."
+  },
+  {
+   "text": "Il notaio legge il contratto ad alta voce.",
+   "translation": "The notary reads the contract aloud."
+  }
+ ],
+ "cooperativa": [
+  {
+   "text": "Mio zio lavora in una cooperativa agricola.",
+   "translation": "My uncle works in an agricultural cooperative."
+  }
+ ],
+ "funzionamento": [
+  {
+   "text": "Non capisco il funzionamento di questa macchina.",
+   "translation": "I don't understand how this machine works."
+  }
+ ],
+ "governante": [
+  {
+   "text": "La governante pulisce la casa ogni mattina.",
+   "translation": "The housekeeper cleans the house every morning."
+  },
+  {
+   "text": "Cerchiamo una governante per la villa.",
+   "translation": "We're looking for a housekeeper for the villa."
+  }
+ ],
+ "animazione": [
+  {
+   "text": "La sera l'animazione dell'hotel è molto divertente.",
+   "translation": "In the evening the hotel's entertainment is a lot of fun."
+  },
+  {
+   "text": "Ti piacciono i film di animazione?",
+   "translation": "Do you like animated films?"
+  }
+ ],
+ "prestigio": [
+  {
+   "text": "Questa università ha molto prestigio.",
+   "translation": "This university has a lot of prestige."
+  }
+ ],
+ "invocare": [
+  {
+   "text": "Il bambino perso invocava aiuto.",
+   "translation": "The lost child was calling out for help."
+  }
+ ],
+ "ricognizione": [
+  {
+   "text": "Prima di partire facciamo una ricognizione del percorso.",
+   "translation": "Before leaving, we do a reconnaissance of the route."
+  }
+ ],
+ "sigla": [
+  {
+   "text": "Canto sempre la sigla del mio cartone preferito.",
+   "translation": "I always sing the theme tune of my favorite cartoon."
+  },
+  {
+   "text": "Qual è la sigla di questa associazione?",
+   "translation": "What is the acronym of this association?"
+  }
+ ],
+ "istituzionale": [
+  {
+   "text": "Il sito istituzionale ha tutte le informazioni.",
+   "translation": "The official website has all the information."
+  },
+  {
+   "text": "Ha un ruolo istituzionale molto importante.",
+   "translation": "He has a very important institutional role."
+  }
+ ],
+ "umiliazione": [
+  {
+   "text": "Perdere così è stata una vera umiliazione.",
+   "translation": "Losing like that was a real humiliation."
+  }
+ ],
+ "caporale": [
+  {
+   "text": "Il caporale dà gli ordini ai soldati.",
+   "translation": "The corporal gives orders to the soldiers."
+  },
+  {
+   "text": "Mio nonno era caporale nell'esercito.",
+   "translation": "My grandfather was a corporal in the army."
+  }
+ ],
+ "diametro": [
+  {
+   "text": "Il diametro del tavolo è di due metri.",
+   "translation": "The diameter of the table is two meters."
+  }
+ ],
+ "rassegna": [
+  {
+   "text": "Questa settimana c'è una rassegna di cinema.",
+   "translation": "This week there's a film festival."
+  },
+  {
+   "text": "Ogni mattina leggo la rassegna stampa.",
+   "translation": "Every morning I read the press review."
+  }
+ ],
+ "pilastro": [
+  {
+   "text": "La famiglia è il pilastro della sua vita.",
+   "translation": "Family is the mainstay of his life."
+  }
+ ],
+ "puramente": [
+  {
+   "text": "È stato puramente un caso.",
+   "translation": "It was purely a coincidence."
+  }
+ ],
+ "oltretutto": [
+  {
+   "text": "Non ho fame e, oltretutto, è tardi.",
+   "translation": "I'm not hungry and, on top of that, it's late."
+  }
+ ],
+ "verificare": [
+  {
+   "text": "Prima di partire, verifica che la porta sia chiusa.",
+   "translation": "Before leaving, check that the door is locked."
+  }
+ ],
+ "modificare": [
+  {
+   "text": "Puoi modificare il file prima di inviarlo?",
+   "translation": "Can you edit the file before sending it?"
+  }
+ ],
+ "efficace": [
+  {
+   "text": "Questa medicina è molto efficace contro il mal di testa.",
+   "translation": "This medicine is very effective against headaches."
+  },
+  {
+   "text": "Conosci un metodo efficace per studiare?",
+   "translation": "Do you know an effective way to study?"
+  }
+ ],
+ "significativo": [
+  {
+   "text": "Hai fatto un progresso molto significativo.",
+   "translation": "You've made very significant progress."
+  },
+  {
+   "text": "Quel regalo è piccolo ma significativo per me.",
+   "translation": "That gift is small but meaningful to me."
+  }
+ ],
+ "certificato": [
+  {
+   "text": "Mi serve un certificato medico per la scuola.",
+   "translation": "I need a medical certificate for school."
+  },
+  {
+   "text": "Dove posso ritirare il certificato?",
+   "translation": "Where can I pick up the certificate?"
+  }
+ ],
+ "sfigato": [
+  {
+   "text": "Che giornata: sono stato proprio sfigato oggi!",
+   "translation": "What a day: I was really unlucky today!"
+  },
+  {
+   "text": "Si sente sfigato perché non è stato invitato.",
+   "translation": "He feels like a loser because he wasn't invited."
+  }
+ ],
+ "verifica": [
+  {
+   "text": "Domani abbiamo la verifica di matematica.",
+   "translation": "Tomorrow we have the math test."
+  }
+ ],
+ "qualificato": [
+  {
+   "text": "Cerchiamo un idraulico qualificato per la nostra casa.",
+   "translation": "We are looking for a qualified plumber for our house."
+  },
+  {
+   "text": "Sei abbastanza qualificato per questo lavoro?",
+   "translation": "Are you qualified enough for this job?"
+  }
+ ],
+ "uva": [
+  {
+   "text": "Mi piace mangiare l'uva dopo cena.",
+   "translation": "I like eating grapes after dinner."
+  }
+ ],
+ "identificazione": [
+  {
+   "text": "All'ingresso serve un documento per l'identificazione.",
+   "translation": "At the entrance you need a document for identification."
+  },
+  {
+   "text": "L'identificazione del problema è stata molto rapida.",
+   "translation": "The identification of the problem was very quick."
+  }
+ ],
+ "classificare": [
+  {
+   "text": "Il professore ci chiede di classificare gli animali.",
+   "translation": "The teacher asks us to classify the animals."
+  },
+  {
+   "text": "Possiamo classificare questi libri per autore?",
+   "translation": "Can we sort these books by author?"
+  }
+ ],
+ "trafficante": [
+  {
+   "text": "La polizia ha fermato un trafficante di auto rubate.",
+   "translation": "The police stopped a trafficker in stolen cars."
+  },
+  {
+   "text": "Quel trafficante vendeva anche opere d'arte false.",
+   "translation": "That trafficker also sold fake works of art."
+  }
+ ],
+ "sacrificare": [
+  {
+   "text": "Ho sacrificato il fine settimana per studiare.",
+   "translation": "I gave up my weekend to study."
+  }
+ ],
+ "insignificante": [
+  {
+   "text": "È un dettaglio insignificante, non preoccuparti.",
+   "translation": "It's an insignificant detail, don't worry."
+  },
+  {
+   "text": "Il prezzo è insignificante rispetto al valore.",
+   "translation": "The price is insignificant compared to the value."
+  }
+ ],
+ "terrificante": [
+  {
+   "text": "Il film era davvero terrificante.",
+   "translation": "The movie was really terrifying."
+  },
+  {
+   "text": "Di notte abbiamo sentito un rumore terrificante.",
+   "translation": "At night we heard a terrifying noise."
+  }
+ ],
+ "specificare": [
+  {
+   "text": "Puoi specificare l'ora dell'appuntamento?",
+   "translation": "Can you specify the time of the appointment?"
+  },
+  {
+   "text": "Devo specificare il mio indirizzo nel modulo.",
+   "translation": "I have to state my address on the form."
+  }
+ ],
+ "giustificazione": [
+  {
+   "text": "Domani porto la giustificazione per l'assenza.",
+   "translation": "Tomorrow I'll bring the note explaining my absence."
+  },
+  {
+   "text": "Non c'è nessuna giustificazione per questo ritardo.",
+   "translation": "There is no excuse for this delay."
+  }
+ ],
+ "efficacia": [
+  {
+   "text": "Questa medicina ha una grande efficacia.",
+   "translation": "This medicine is very effective."
+  },
+  {
+   "text": "Nessuno dubita dell'efficacia di questo metodo.",
+   "translation": "Nobody doubts the effectiveness of this method."
+  }
+ ]
+}

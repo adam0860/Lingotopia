@@ -1,0 +1,7373 @@
+{
+"_accept": [
+"abjadi",
+"adesi",
+"adia",
+"advansi",
+"aikoni",
+"aiskrimu",
+"akraba",
+"alamu",
+"aljebra",
+"andalio",
+"antonimu",
+"aprikoti",
+"aproni",
+"arbuni",
+"asa",
+"asteaste",
+"athira",
+"badamu",
+"bahashishi",
+"barubaru",
+"bawasiri",
+"bereti",
+"bikari",
+"botania",
+"braketi",
+"buli",
+"bumbuazi",
+"bwanaarusi",
+"chajio",
+"chechevu",
+"cheko",
+"cheleo",
+"chenza",
+"chepeo",
+"cheri",
+"churusi",
+"dalasini",
+"dhau",
+"dioksidi",
+"dobi",
+"doli",
+"ensaiklopidia",
+"etimolojia",
+"falaki",
+"fanusi",
+"faradhi",
+"fasiki",
+"fasiri",
+"fleti",
+"fomyula",
+"fonetiki",
+"foni",
+"fonimu",
+"fuo",
+"futikamba",
+"galaksi",
+"gamu",
+"gidamu",
+"gilasi",
+"gilotini",
+"glukosi",
+"gluu",
+"gramafoni",
+"hadubini",
+"haibridi",
+"halahala",
+"hamali",
+"hambaga",
+"hatibu",
+"himila",
+"homonimu",
+"husuni",
+"ikirari",
+"ikisiri",
+"imla",
+"iodini",
+"istiwai",
+"jahara",
+"jasadi",
+"jemu",
+"jimbi",
+"jiometri",
+"kaakaa",
+"kaango",
+"kabureta",
+"kafeni",
+"kafuri",
+"kaharabu",
+"kalisiamu",
+"kesha",
+"keshia",
+"kiali",
+"kiandarua",
+"kibogoyo",
+"kibole",
+"kichokonoo",
+"kidadisi",
+"kidahizo",
+"kidubini",
+"kifunguakinywa",
+"kifunguamimba",
+"kifyonzavumbi",
+"kigasha",
+"kigawanyo",
+"kihisishi",
+"kihusishi",
+"kiima",
+"kikoromeo",
+"kikunawingu",
+"kikwi",
+"kilimi",
+"kinasasauti",
+"kinena",
+"kinyaa",
+"kiogeo",
+"kipunguzo",
+"kitone",
+"klachi",
+"klorofili",
+"koala",
+"kombania",
+"komunyo",
+"kondrati",
+"koni",
+"kontinenti",
+"kotiledoni",
+"kuahiri",
+"kuajabia",
+"kuambatisha",
+"kuchafya",
+"kuchocha",
+"kuchokoa",
+"kudakiza",
+"kudhuku",
+"kuegama",
+"kufaini",
+"kufasili",
+"kufunguliwa",
+"kuhaini",
+"kuinuka",
+"kujiandaa",
+"kujidhihirisha",
+"kujificha",
+"kujilinda",
+"kujinyima",
+"kujinyonga",
+"kujinyosha",
+"kujisaidia",
+"kukinza",
+"kukirihi",
+"kukisi",
+"kukoboa",
+"kukopoa",
+"kunjo",
+"kunyapa",
+"kunyenga",
+"kupapa",
+"kupauka",
+"kupofuka",
+"kurefuka",
+"kurejesta",
+"kusahili",
+"kusanifisha",
+"kusaumu",
+"kusharifu",
+"kushufu",
+"kusitawi",
+"kustahabu",
+"kutahini",
+"kutanadhari",
+"kutetema",
+"kutukia",
+"kuuzulu",
+"kuvumbika",
+"kuvunda",
+"kuzibua",
+"kuzoeza",
+"kuzoza",
+"lipu",
+"litografia",
+"liwali",
+"maakuli",
+"machapwi",
+"maghufira",
+"mahabubu",
+"majilio",
+"majisifu",
+"marhamu",
+"matembele",
+"mbahili",
+"mbilingani",
+"mbung'o",
+"mchemraba",
+"memba",
+"merikebu",
+"mfagiaji",
+"mfeministi",
+"mghani",
+"mgwisho",
+"mhazili",
+"mjengaji",
+"mkanada",
+"mkanju",
+"mkoromo",
+"mlimau",
+"mlindaji",
+"mmonaki",
+"mnanasi",
+"mnyanya",
+"mnyapara",
+"mnyimi",
+"mofimu",
+"mofolojia",
+"motaboti",
+"mpamba",
+"mpikaji",
+"mrengu",
+"msengenyaji",
+"mstafeli",
+"mtahini",
+"mtajiri",
+"mtalaka",
+"mtangawizi",
+"mtepe",
+"mtepetevu",
+"mtori",
+"mwaasi",
+"mwadhini",
+"mwanabenki",
+"mwanaisimu",
+"mwanasarufi",
+"mwigaji",
+"nadama",
+"nathari",
+"nili",
+"nira",
+"nyotamkia",
+"nyuni",
+"oili",
+"papasi",
+"parafujo",
+"parishi",
+"patashika",
+"pembemraba",
+"pembenyingi",
+"petali",
+"pishori",
+"piza",
+"pojo",
+"randa",
+"refari",
+"riksho",
+"ruya",
+"sabmarini",
+"sapatu",
+"sarabi",
+"sataranji",
+"satini",
+"semantiki",
+"shahamu",
+"shiti",
+"sifongo",
+"silinda",
+"sinonimu",
+"sintaksia",
+"sitaha",
+"spageti",
+"springi",
+"stovu",
+"stroberi",
+"takilifu",
+"talasimu",
+"tapureta",
+"tashbihi",
+"tashihisi",
+"tauni",
+"thaura",
+"themometa",
+"tijara",
+"tumbuizo",
+"uajenti",
+"uanahewa",
+"uanamaji",
+"ubaba",
+"ubainifu",
+"ubichi",
+"ubivu",
+"ubwabwa",
+"ucha",
+"uchaji",
+"uchekaji",
+"uchongezi",
+"udhalili",
+"uduvi",
+"uhasidi",
+"uigaji",
+"ujane",
+"ukafu",
+"ukamili",
+"ukao",
+"ukarani",
+"ukemi",
+"ukigo",
+"ukoko",
+"ukope",
+"ukunde",
+"ukunjufu",
+"ukurutu",
+"ulimbo",
+"ulingano",
+"umama",
+"unajimu",
+"unyamavu",
+"unyasi",
+"uoza",
+"upaji",
+"upara",
+"upenu",
+"upevu",
+"uporo",
+"usahibu",
+"ushoni",
+"ushukuru",
+"usumaku",
+"utanzu",
+"utegemeano",
+"utengemano",
+"uto",
+"utuvu",
+"uwingu",
+"uwivu",
+"uzuiliaji",
+"uzuizi",
+"veli",
+"wiski",
+"yakuti",
+"yamini",
+"yunifomu",
+"zakati",
+"zilizala",
+"zimamu",
+"zoloto"
+],
+"_comment": "Hand edits for tools/extend_deck_swahili.py (ranks 5,001+). Per lemma: drop / gloss / pos / posName / sentences. _add: corpus-attested words no dictionary lists.",
+"_add": [
+{
+"lemma": "mahali",
+"pos": "n",
+"posName": "noun (pa- class)",
+"gloss": "place; location"
+},
+{
+"lemma": "umasikini",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "poverty"
+},
+{
+"lemma": "masikini",
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "poor person; poor"
+},
+{
+"lemma": "mbadala",
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "alternative; substitute"
+},
+{
+"lemma": "ushirika",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "membership; fellowship; cooperative"
+},
+{
+"lemma": "fikra",
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "thought; idea"
+},
+{
+"lemma": "maonesho",
+"pos": "n",
+"posName": "noun (ma- class, plural only)",
+"gloss": "exhibition; show"
+},
+{
+"lemma": "radio",
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "radio"
+},
+{
+"lemma": "internet",
+"pos": "n",
+"posName": "noun (n- class)",
+"gloss": "the internet"
+},
+{
+"lemma": "blog",
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "blog"
+},
+{
+"lemma": "corona",
+"pos": "n",
+"posName": "noun (n- class)",
+"gloss": "coronavirus; COVID-19"
+},
+{
+"lemma": "marathon",
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "marathon"
+},
+{
+"lemma": "promosheni",
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "promotion (marketing)"
+},
+{
+"lemma": "droo",
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "draw (of a lottery or tournament)"
+},
+{
+"lemma": "kampasi",
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "campus"
+},
+{
+"lemma": "kipeperushi",
+"pos": "n",
+"posName": "noun (ki-/vi- class, pl. vipeperushi)",
+"gloss": "leaflet; flyer",
+"plural": "vipeperushi"
+},
+{
+"lemma": "duru",
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "sphere; circle (e.g. political circles)"
+},
+{
+"lemma": "uwezeshaji",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "empowerment; enabling"
+},
+{
+"lemma": "uenezi",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "spreading; propagation"
+},
+{
+"lemma": "utakatishaji",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "laundering (of money)"
+},
+{
+"lemma": "muhanga",
+"pos": "n",
+"posName": "noun (m-/wa- class, pl. wahanga)",
+"gloss": "victim; survivor",
+"plural": "wahanga"
+},
+{
+"lemma": "mtoano",
+"pos": "n",
+"posName": "noun (m-/mi- class, pl. mitoano)",
+"gloss": "elimination; knockout round",
+"plural": "mitoano"
+},
+{
+"lemma": "uokozi",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "rescue"
+},
+{
+"lemma": "shirikishi",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "participatory; inclusive"
+},
+{
+"lemma": "elekezi",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "guiding; directive"
+},
+{
+"lemma": "futari",
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "meal to break the Ramadan fast"
+},
+{
+"lemma": "sitisho",
+"pos": "n",
+"posName": "noun (ji-/ma- class, pl. masitisho)",
+"gloss": "suspension; cessation; halt",
+"plural": "masitisho"
+},
+{
+"lemma": "ukamataji",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "arresting; arrest"
+},
+{
+"lemma": "kada",
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "cadre; category; grade"
+},
+{
+"lemma": "kandamizi",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "oppressive"
+},
+{
+"lemma": "shada",
+"pos": "n",
+"posName": "noun (ji-/ma- class, pl. mashada)",
+"gloss": "bouquet; wreath; bunch (of flowers)",
+"plural": "mashada"
+},
+{
+"lemma": "diaspora",
+"pos": "n",
+"posName": "noun (n- class)",
+"gloss": "diaspora"
+},
+{
+"lemma": "-teule",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "chosen; select"
+},
+{
+"lemma": "upembuzi",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "investigation; study"
+},
+{
+"lemma": "ulingo",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "arena; ring; stage"
+},
+{
+"lemma": "mhafidhina",
+"pos": "n",
+"posName": "noun (m-/wa- class, pl. wahafidhina)",
+"gloss": "conservative",
+"plural": "wahafidhina"
+},
+{
+"lemma": "foramu",
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "forum"
+},
+{
+"lemma": "mashirikiano",
+"pos": "n",
+"posName": "noun (ma- class, plural only)",
+"gloss": "cooperation; collaboration"
+},
+{
+"lemma": "uzamivu",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "doctoral studies; doctorate"
+},
+{
+"lemma": "kifisadi",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "corrupt; in a corrupt way"
+},
+{
+"lemma": "shehia",
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "ward (local government area in Zanzibar)"
+},
+{
+"lemma": "kipingamizi",
+"pos": "n",
+"posName": "noun (ki-/vi- class, pl. vipingamizi)",
+"gloss": "obstacle; hindrance",
+"plural": "vipingamizi"
+},
+{
+"lemma": "faranga",
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "franc (currency)"
+},
+{
+"lemma": "uanahabari",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "journalism"
+},
+{
+"lemma": "ukimbizi",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "refugee status; exile"
+},
+{
+"lemma": "mtangamano",
+"pos": "n",
+"posName": "noun (m-/mi- class, pl. mitangamano)",
+"gloss": "integration",
+"plural": "mitangamano"
+},
+{
+"lemma": "fahirisi",
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "index"
+},
+{
+"lemma": "kificho",
+"pos": "n",
+"posName": "noun (ki-/vi- class)",
+"gloss": "secrecy; concealment"
+},
+{
+"lemma": "dhumuni",
+"pos": "n",
+"posName": "noun (ji-/ma- class, pl. madhumuni)",
+"gloss": "purpose; aim",
+"plural": "madhumuni"
+},
+{
+"lemma": "ruksa",
+"pos": "n",
+"posName": "noun (n- class)",
+"gloss": "permission; leave"
+},
+{
+"lemma": "kidijiti",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "digital; digitally"
+},
+{
+"lemma": "kimapinduzi",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "revolutionary; in a revolutionary way"
+},
+{
+"lemma": "ukazi",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "residence; dwelling"
+},
+{
+"lemma": "unusu",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "half"
+},
+{
+"lemma": "uwanachama",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "membership"
+},
+{
+"lemma": "utayarishaji",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "preparation; production"
+},
+{
+"lemma": "uchangishaji",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "fundraising"
+},
+{
+"lemma": "uwenyekiti",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "chairmanship"
+},
+{
+"lemma": "ukandarasi",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "contracting; contract work"
+},
+{
+"lemma": "mwezeshaji",
+"pos": "n",
+"posName": "noun (m-/wa- class, pl. wawezeshaji)",
+"gloss": "facilitator; enabler",
+"plural": "wawezeshaji"
+},
+{
+"lemma": "mlipuaji",
+"pos": "n",
+"posName": "noun (m-/wa- class, pl. walipuaji)",
+"gloss": "bomber; one who detonates",
+"plural": "walipuaji"
+},
+{
+"lemma": "kishujaa",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "heroic; heroically"
+},
+{
+"lemma": "kibepari",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "capitalist; in a capitalist way"
+},
+{
+"lemma": "kiulinzi",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "defensive; to do with protection"
+},
+{
+"lemma": "kimichezo",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "sporting; to do with sports"
+},
+{
+"lemma": "mkusanyaji",
+"pos": "n",
+"posName": "noun (m-/wa- class, pl. wakusanyaji)",
+"gloss": "collector",
+"plural": "wakusanyaji"
+},
+{
+"lemma": "mgunduzi",
+"pos": "n",
+"posName": "noun (m-/wa- class, pl. wagunduzi)",
+"gloss": "discoverer; inventor",
+"plural": "wagunduzi"
+},
+{
+"lemma": "kijembe",
+"pos": "n",
+"posName": "noun (ki-/vi- class, pl. vijembe)",
+"gloss": "taunt; jibe",
+"plural": "vijembe"
+},
+{
+"lemma": "tikitimaji",
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "watermelon"
+},
+{
+"lemma": "uvungu",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "space underneath (e.g. under a bed)"
+},
+{
+"lemma": "vamizi",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "invasive"
+},
+{
+"lemma": "utoshelevu",
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "sufficiency; self-sufficiency"
+},
+{
+"lemma": "kiuatilifu",
+"pos": "n",
+"posName": "noun (ki-/vi- class, pl. viuatilifu)",
+"gloss": "pesticide",
+"plural": "viuatilifu"
+},
+{
+"lemma": "kijamii",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "social; socially"
+},
+{
+"lemma": "kiislamu",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "Islamic; in an Islamic way"
+},
+{
+"lemma": "kiafrika",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "African; in an African way"
+},
+{
+"lemma": "kimarekani",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "American; in an American way"
+},
+{
+"lemma": "kielektroniki",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "electronic; electronically"
+},
+{
+"lemma": "kiutendaji",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "executive; operational; in terms of performance"
+},
+{
+"lemma": "kibenki",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "banking; to do with banks"
+},
+{
+"lemma": "kibaguzi",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "discriminatory; racist"
+},
+{
+"lemma": "kikomunisti",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "communist"
+},
+{
+"lemma": "kiteknolojia",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "technological; technologically"
+},
+{
+"lemma": "kiutamaduni",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "cultural; culturally"
+},
+{
+"lemma": "kimtandao",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "online; to do with networks"
+},
+{
+"lemma": "kinidhamu",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "disciplinary; in a disciplined way"
+},
+{
+"lemma": "kikoloni",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "colonial"
+},
+{
+"lemma": "kidikteta",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "dictatorial"
+},
+{
+"lemma": "kisera",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "to do with policy"
+},
+{
+"lemma": "kimagharibi",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "western"
+},
+{
+"lemma": "ujao",
+"pos": "adj",
+"posName": "adjective",
+"gloss": "next; coming (of a future time)"
+}
+],
+"kia": {
+"drop": true
+},
+"wengi": {
+"drop": true
+},
+"nyingi": {
+"drop": true
+},
+"mengi": {
+"drop": true
+},
+"mingi": {
+"drop": true
+},
+"vingi": {
+"drop": true
+},
+"-andishi": {
+"drop": true
+},
+"-ali": {
+"drop": true
+},
+"kile": {
+"drop": true
+},
+"-kiwa": {
+"drop": true
+},
+"-ingereza": {
+"drop": true
+},
+"-chunguzi": {
+"drop": true
+},
+"china": {
+"drop": true
+},
+"mbeya": {
+"drop": true
+},
+"kianzo": {
+"drop": true
+},
+"mwao": {
+"drop": true
+},
+"mrisho": {
+"drop": true
+},
+"pemba": {
+"drop": true
+},
+"kiwili": {
+"drop": true
+},
+"chao": {
+"drop": true
+},
+"miongo": {
+"drop": true
+},
+"kipi": {
+"drop": true
+},
+"mwinyi": {
+"drop": true
+},
+"mawe": {
+"drop": true
+},
+"hindi": {
+"drop": true
+},
+"vema": {
+"drop": true
+},
+"unguja": {
+"drop": true
+},
+"mwima": {
+"drop": true
+},
+"kusiri": {
+"drop": true
+},
+"mlele": {
+"drop": true
+},
+"ramadhani": {
+"drop": true
+},
+"kristo": {
+"drop": true
+},
+"kubali": {
+"drop": true
+},
+"-babe": {
+"drop": true
+},
+"papo": {
+"drop": true
+},
+"juba": {
+"drop": true
+},
+"-isimu": {
+"drop": true
+},
+"jisimu": {
+"drop": true
+},
+"maambukizo": {
+"drop": true
+},
+"bakari": {
+"drop": true
+},
+"sabasaba": {
+"drop": true
+},
+"pembezoni": {
+"drop": true
+},
+"visivyo": {
+"drop": true
+},
+"mbinguni": {
+"drop": true
+},
+"teka": {
+"drop": true
+},
+"laika": {
+"drop": true
+},
+"nyie": {
+"drop": true
+},
+"mbezi": {
+"drop": true
+},
+"kupia": {
+"drop": true
+},
+"gawio": {
+"drop": true
+},
+"fika": {
+"drop": true
+},
+"fua": {
+"drop": true
+},
+"karia": {
+"drop": true
+},
+"weupe": {
+"drop": true
+},
+"chirwa": {
+"drop": true
+},
+"allah": {
+"drop": true
+},
+"adamu": {
+"drop": true
+},
+"zaha": {
+"drop": true
+},
+"shaaban": {
+"drop": true
+},
+"rajabu": {
+"drop": true
+},
+"kurai": {
+"drop": true
+},
+"mavunde": {
+"drop": true
+},
+"kutotoa": {
+"drop": true
+},
+"kizito": {
+"drop": true
+},
+"shoo": {
+"drop": true
+},
+"mbeleni": {
+"drop": true
+},
+"kaburu": {
+"drop": true
+},
+"serena": {
+"drop": true
+},
+"kuala": {
+"drop": true
+},
+"nyange": {
+"drop": true
+},
+"chenge": {
+"drop": true
+},
+"kiwe": {
+"drop": true
+},
+"fatuma": {
+"drop": true
+},
+"kimiani": {
+"drop": true
+},
+"tanu": {
+"drop": true
+},
+"-kakamavu": {
+"drop": true
+},
+"shaibu": {
+"drop": true
+},
+"-nyerezi": {
+"drop": true
+},
+"bano": {
+"drop": true
+},
+"matiko": {
+"drop": true
+},
+"mcha": {
+"drop": true
+},
+"bunju": {
+"drop": true
+},
+"kongoro": {
+"drop": true
+},
+"kuvaana": {
+"drop": true
+},
+"mbulu": {
+"drop": true
+},
+"-shinda": {
+"drop": true
+},
+"kuwia": {
+"drop": true
+},
+"mlandege": {
+"drop": true
+},
+"alhaji": {
+"drop": true
+},
+"njoo": {
+"drop": true
+},
+"sumbwi": {
+"drop": true
+},
+"gama": {
+"drop": true
+},
+"machungwa": {
+"drop": true
+},
+"pote": {
+"drop": true
+},
+"kuuka": {
+"drop": true
+},
+"-shinde": {
+"drop": true
+},
+"songosongo": {
+"drop": true
+},
+"-rafi": {
+"drop": true
+},
+"kano": {
+"drop": true
+},
+"-nata": {
+"drop": true
+},
+"asanteni": {
+"drop": true
+},
+"karua": {
+"drop": true
+},
+"-koko": {
+"drop": true
+},
+"taarabu": {
+"drop": true
+},
+"bandiko": {
+"drop": true
+},
+"mkata": {
+"drop": true
+},
+"kisoshalisti": {
+"drop": true
+},
+"kugua": {
+"drop": true
+},
+"kaunda": {
+"drop": true
+},
+"mkabala": {
+"drop": true
+},
+"anuai": {
+"drop": true
+},
+"azali": {
+"drop": true
+},
+"kati": {
+"pos": "n",
+"posName": "noun (n- class)",
+"gloss": "middle; centre (kati ya = between)"
+},
+"ambapo": {
+"pos": "pron",
+"posName": "pronoun",
+"gloss": "where; when; whereas (relative)",
+"sentences": [
+{
+"text": "Ni mji ambapo wazazi wangu wanaishi.",
+"translation": "It is the town where my parents live."
+}
+]
+},
+"ambako": {
+"pos": "pron",
+"posName": "pronoun",
+"gloss": "where; to which place (relative)",
+"sentences": [
+{
+"text": "Hospitali ambako alizaliwa iko Mombasa.",
+"translation": "The hospital where he was born is in Mombasa."
+}
+]
+},
+"kuni": {
+"pos": "n",
+"posName": "noun (n- class, plural only)",
+"gloss": "firewood",
+"sentences": [
+{
+"text": "Mama anatafuta kuni msituni.",
+"translation": "Mother is looking for firewood in the forest."
+}
+]
+},
+"umivu": {
+"pos": "n",
+"posName": "noun (u- class, pl. maumivu)",
+"gloss": "pain; ache"
+},
+"muswada": {
+"pos": "n",
+"posName": "noun (m-/mi- class, pl. miswada)",
+"gloss": "manuscript; draft; bill (in parliament)"
+},
+"mkongwe": {
+"pos": "n",
+"posName": "noun (m-/wa- class, pl. wakongwe)",
+"gloss": "elder; old person",
+"sentences": [
+{
+"text": "Mkongwe wa kijiji hutoa ushauri.",
+"translation": "The village elder gives advice."
+}
+]
+},
+"mwoga": {
+"pos": "n",
+"posName": "noun (m-/wa- class, pl. waoga)",
+"gloss": "coward",
+"sentences": [
+{
+"text": "Mwoga hakwenda msituni usiku.",
+"translation": "The coward did not go to the forest at night."
+}
+]
+},
+"mwerevu": {
+"pos": "n",
+"posName": "noun (m-/wa- class, pl. waerevu)",
+"gloss": "clever person"
+},
+"toka": {
+"pos": "post",
+"posName": "preposition",
+"gloss": "from; since",
+"sentences": [
+{
+"text": "Ninaishi hapa toka mwaka jana.",
+"translation": "I have lived here since last year."
+}
+]
+},
+"hapo": {
+"gloss": "there (near you or just mentioned); then"
+},
+"pale": {
+"gloss": "there (over there, not far)",
+"sentences": [
+{
+"text": "Weka kikapu pale.",
+"translation": "Put the basket there."
+}
+]
+},
+"kule": {
+"gloss": "there (far away)"
+},
+"mkiwa": {
+"gloss": "orphan; lonely person; loner",
+"sentences": [
+{
+"text": "Mkiwa huyo alilelewa na shangazi yake.",
+"translation": "That orphan was raised by his aunt."
+}
+]
+},
+"kupambana": {
+"gloss": "to confront; to clash; to compete",
+"sentences": [
+{
+"text": "Madaktari wanapambana na ugonjwa huo.",
+"translation": "The doctors are fighting that disease."
+}
+]
+},
+"kutumika": {
+"gloss": "to be used; to be in use",
+"sentences": [
+{
+"text": "Chumba hiki hutumika kama ofisi.",
+"translation": "This room is used as an office."
+}
+]
+},
+"kukosa": {
+"gloss": "to lack; to miss; to fail to get; to make a mistake",
+"sentences": [
+{
+"text": "Nilikosa basi la asubuhi.",
+"translation": "I missed the morning bus."
+}
+]
+},
+"kuunga": {
+"gloss": "to join; to support; to add seasoning",
+"sentences": [
+{
+"text": "Wananchi wengi waliunga mkono mpango huo.",
+"translation": "Many citizens supported the plan."
+}
+]
+},
+"-fadhili": {
+"gloss": "kind; benevolent"
+},
+"pembeni": {
+"gloss": "at the side; aside; on the edge",
+"sentences": [
+{
+"text": "Simama pembeni ya barabara.",
+"translation": "Stand at the side of the road."
+}
+]
+},
+"kulalamikia": {
+"gloss": "to complain about; to complain to"
+},
+"kadiri": {
+"gloss": "to the extent of; according to",
+"sentences": [
+{
+"text": "Kadiri siku zinavyopita, hali inaboreka.",
+"translation": "As the days go by, the situation improves."
+}
+]
+},
+"kusawazisha": {
+"gloss": "to level; to equalize; to balance",
+"sentences": [
+{
+"text": "Timu yetu ilisawazisha dakika ya mwisho.",
+"translation": "Our team equalised in the last minute."
+}
+]
+},
+"kujikinga": {
+"gloss": "to protect oneself; to defend oneself",
+"sentences": [
+{
+"text": "Tunapaswa kujikinga na malaria.",
+"translation": "We should protect ourselves from malaria."
+}
+]
+},
+"kukatika": {
+"gloss": "to break; to snap; to be cut off",
+"sentences": [
+{
+"text": "Umeme ulikatika usiku.",
+"translation": "The electricity went out at night."
+}
+]
+},
+"-potevu": {
+"gloss": "depraved; corrupt; lost"
+},
+"-levi": {
+"gloss": "drunk; intoxicated",
+"sentences": [
+{
+"text": "Mtu mlevi alipita barabarani.",
+"translation": "A drunk man passed along the road."
+}
+]
+},
+"kupaa": {
+"gloss": "to soar; to fly up; to ascend",
+"sentences": [
+{
+"text": "Ndege ilipaa angani.",
+"translation": "The plane soared into the sky."
+}
+]
+},
+"kuagana": {
+"gloss": "to say goodbye; to make an agreement",
+"sentences": [
+{
+"text": "Tuliagana kwa furaha.",
+"translation": "We said goodbye happily."
+}
+]
+},
+"kujikimu": {
+"gloss": "to support oneself; to make ends meet",
+"sentences": [
+{
+"text": "Anauza mboga ili ajikimu.",
+"translation": "He sells vegetables to support himself."
+}
+]
+},
+"kupinduliwa": {
+"gloss": "to be overthrown",
+"drop": true
+},
+"hitilafu": {
+"gloss": "fault; malfunction; discrepancy",
+"sentences": [
+{
+"text": "Kuna hitilafu kwenye mashine.",
+"translation": "There is a fault in the machine."
+}
+]
+},
+"kitani": {
+"gloss": "linen; flax"
+},
+"dume": {
+"gloss": "male (of animals); brave man",
+"sentences": [
+{
+"text": "Dume la ng'ombe lilikimbia.",
+"translation": "The bull ran away."
+}
+]
+},
+"-onevu": {
+"gloss": "oppressive; tyrannical"
+},
+"kiunga": {
+"gloss": "suburb; outskirts"
+},
+"mwako": {
+"gloss": "flame; blaze; burning"
+},
+"udaku": {
+"gloss": "gossip; sensational talk",
+"sentences": [
+{
+"text": "Gazeti hilo huandika udaku.",
+"translation": "That newspaper writes gossip."
+}
+]
+},
+"kugharimia": {
+"gloss": "to cost; to finance; to pay for",
+"sentences": [
+{
+"text": "Serikali itagharimia mradi huo.",
+"translation": "The government will fund that project."
+}
+]
+},
+"mufti": {
+"gloss": "mufti (Islamic legal scholar)"
+},
+"-lalamishi": {
+"gloss": "complaining; grumbling"
+},
+"kuganda": {
+"gloss": "to coagulate; to freeze; to set",
+"sentences": [
+{
+"text": "Maziwa yaliganda kwenye friji.",
+"translation": "The milk froze in the fridge."
+}
+]
+},
+"marejeo": {
+"gloss": "references; bibliography",
+"sentences": [
+{
+"text": "Marejeo yameorodheshwa mwishoni.",
+"translation": "The references are listed at the end."
+}
+]
+},
+"kuima": {
+"gloss": "to stand; to stand still; to stop",
+"sentences": [
+{
+"text": "Basi liliima mbele ya shule.",
+"translation": "The bus stopped in front of the school."
+}
+]
+},
+"mpigaji": {
+"gloss": "one who hits; striker",
+"sentences": [
+{
+"text": "Mpigaji wa ngoma alichoka.",
+"translation": "The drummer got tired."
+}
+]
+},
+"kupaka": {
+"gloss": "to apply; to smear; to paint",
+"sentences": [
+{
+"text": "Alipaka rangi ukuta.",
+"translation": "He painted the wall."
+}
+]
+},
+"mtawa": {
+"gloss": "nun; monk; hermit",
+"sentences": [
+{
+"text": "Mtawa huyo anaishi kanisani.",
+"translation": "That nun lives at the church."
+}
+]
+},
+"kwama": {
+"gloss": "to get stuck; to jam",
+"sentences": [
+{
+"text": "Gari lilikwama matopeni.",
+"translation": "The car got stuck in the mud."
+}
+]
+},
+"amali": {
+"gloss": "deed; action; good works",
+"sentences": [
+{
+"text": "Amali njema huleta baraka.",
+"translation": "Good deeds bring blessings."
+}
+]
+},
+"kingo": {
+"gloss": "edge; rim; threshold",
+"drop": true
+},
+"kurudishia": {
+"gloss": "to give back to; to return to"
+},
+"kanda": {
+"gloss": "zone; region; cassette tape",
+"sentences": [
+{
+"text": "Kanda hii hupata mvua nyingi.",
+"translation": "This region gets a lot of rain."
+}
+]
+},
+"kujengeka": {
+"gloss": "to be well built"
+},
+"kutandika": {
+"gloss": "to spread out; to make (a bed)"
+},
+"kuchanga": {
+"gloss": "to mix; to contribute (money)"
+},
+"mkupuo": {
+"gloss": "lump sum; one go (kwa mkupuo = all at once)"
+},
+"taarab": {
+"gloss": "taarab (a musical genre of the Swahili coast)"
+},
+"kukurupuka": {
+"gloss": "to rush; to act hastily"
+},
+"kukopa": {
+"gloss": "to borrow; to take on credit"
+},
+"kuhaha": {
+"gloss": "to gulp; to eat greedily"
+},
+"mkosaji": {
+"gloss": "wrongdoer; culprit; offender"
+},
+"kudiriki": {
+"gloss": "to manage; to be able; to dare"
+},
+"tusi": {
+"gloss": "insult; abuse",
+"sentences": [
+{
+"text": "Alimtolea tusi hadharani.",
+"translation": "He insulted him in public."
+}
+]
+},
+"mcheza": {
+"gloss": "player; dancer; performer"
+},
+"nanenane": {
+"gloss": "Farmers' Day (8 August)"
+},
+"mjuba": {
+"drop": true
+},
+"mkandaa": {
+"drop": true
+},
+"mtondoo": {
+"drop": true
+},
+"mwangati": {
+"drop": true
+},
+"msinga": {
+"drop": true
+},
+"ndeme": {
+"drop": true
+},
+"timbe": {
+"drop": true
+},
+"pazi": {
+"drop": true
+},
+"tombola": {
+"drop": true
+},
+"pishi": {
+"drop": true
+},
+"mzambarau": {
+"drop": true
+},
+"msongano": {
+"drop": true
+},
+"mwambi": {
+"drop": true
+},
+"werevu": {
+"gloss": "intelligence; cleverness; shrewdness; cunning"
+},
+"kusingizia": {
+"gloss": "to slander; to insinuate; to defame"
+},
+"ushupavu": {
+"gloss": "firmness; obstinacy; courage"
+},
+"kirungu": {
+"gloss": "club; cudgel; baton"
+},
+"mpekuzi": {
+"gloss": "snoop; inquisitive or prying person"
+},
+"kunasua": {
+"gloss": "to free from a trap; to unhook"
+},
+"kapera": {
+"gloss": "bachelor; unmarried man"
+},
+"-geugeu": {
+"gloss": "changeable; fickle; unstable"
+},
+"uvuguvugu": {
+"gloss": "lukewarmness; ferment"
+},
+"mbadhirifu": {
+"gloss": "extravagant or wasteful person; embezzler"
+},
+"utukutu": {
+"gloss": "mischievousness; naughtiness; mischief"
+},
+"ulalamishi": {
+"gloss": "complaining; discontent"
+},
+"kuonjesha": {
+"gloss": "to give a taste of; to offer to taste"
+},
+"mmbea": {
+"gloss": "gossip; tell-tale"
+},
+"kusengenya": {
+"gloss": "to backbite; to badmouth; to slander"
+},
+"kuhimidi": {
+"gloss": "to praise; to thank; to extol"
+},
+"kupukutisha": {
+"gloss": "to shed; to make fall off"
+},
+"kushonana": {
+"gloss": "to be packed full; to be congested"
+},
+"kuumbua": {
+"gloss": "to expose; to shame someone; to degrade"
+},
+"kuwamba": {
+"gloss": "to overlay; to stretch over; to be overcast"
+},
+"mshtaki": {
+"gloss": "accuser; plaintiff"
+},
+"pumbao": {
+"gloss": "astonishment; amazement"
+},
+"rahimu": {
+"gloss": "merciful; kind; gentle"
+},
+"tanbihi": {
+"gloss": "footnote; note; notice"
+},
+"usani": {
+"gloss": "metalwork; smithing"
+},
+"utungo": {
+"gloss": "composition; literary composition"
+},
+"mbung'o": {
+"gloss": "tsetse fly",
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"kujinyima": {
+"gloss": "to deny oneself; to abstain"
+},
+"unyamavu": {
+"gloss": "quietness; silence"
+},
+"dobi": {
+"gloss": "washerman; launderer"
+},
+"ubichi": {
+"gloss": "rawness; freshness; immaturity"
+},
+"kuambatisha": {
+"gloss": "to attach; to append"
+},
+"kurefuka": {
+"gloss": "to become longer; to grow tall"
+},
+"kuzibua": {
+"gloss": "to unblock; to unclog"
+},
+"kuzi": {
+"gloss": "water jug"
+},
+"maamuzi": {
+"drop": true
+},
+"akina": {
+"drop": true
+},
+"jumuia": {
+"drop": true
+},
+"mnaa": {
+"drop": true
+},
+"mfunguo": {
+"drop": true
+},
+"kukisi": {
+"drop": true
+},
+"kugaragaza": {
+"gloss": "to roll over; to make roll"
+},
+"jando": {
+"gloss": "circumcision rites (initiation)"
+},
+"nina": {
+"drop": true
+},
+"gawa": {
+"drop": true
+},
+"mbwawa": {
+"drop": true
+},
+"njemba": {
+"drop": true
+},
+"protestanti": {
+"drop": true
+},
+"ruba": {
+"drop": true
+},
+"sansuri": {
+"drop": true
+},
+"tandu": {
+"drop": true
+},
+"tetere": {
+"drop": true
+},
+"yahe": {
+"drop": true
+},
+"mahabubu": {
+"drop": true
+},
+"mola": {
+"drop": true
+},
+"mukhtari": {
+"drop": true
+},
+"kebehi": {
+"drop": true
+},
+"farao": {
+"drop": true
+},
+"klabu": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"sentences": [
+{
+"text": "Yeye ni mwanachama wa klabu ya mpira.",
+"translation": "He is a member of the football club."
+}
+]
+},
+"faru": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"flamingo": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"nyau": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"senene": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"kumbikumbi": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"mbawala": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"mbango": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"mbungu": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"ndume": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "male (of animals); strong man"
+},
+"ngedere": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"ngorombwe": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"ngumbi": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"nyegere": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "honey badger; ratel"
+},
+"nyenje": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"nyigu": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"perege": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"nyuni": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"papasi": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"koni": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"akraba": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"mofolojia": {
+"pos": "n",
+"posName": "noun (n- class)"
+},
+"keshia": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"thaura": {
+"pos": "n",
+"posName": "noun (n- class)"
+},
+"balagha": {
+"pos": "n",
+"posName": "noun (n- class)"
+},
+"dinosau": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"dragoni": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"kangaruu": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"makanika": {
+"pos": "n",
+"posName": "noun (n- class, same plural)"
+},
+"ukope": {
+"pos": "n",
+"posName": "noun (u- class)"
+},
+"mwaasi": {
+"pos": "n",
+"posName": "noun (m-/wa- class, pl. waasi)"
+},
+"mshoni": {
+"pos": "n",
+"posName": "noun (m-/wa- class, pl. washoni)"
+},
+"mwani": {
+"pos": "n",
+"posName": "noun (m-/mi- class)",
+"sentences": [
+{
+"text": "Wakulima wanakuza mwani pwani.",
+"translation": "Farmers grow seaweed on the coast."
+}
+],
+"gloss": "seaweed"
+},
+"maua": {
+"drop": true
+},
+"majeruhi": {
+"drop": true,
+"pos": "n",
+"posName": "noun (ma- class, plural only)",
+"gloss": "injured people; casualties"
+},
+"wenzi": {
+"drop": true
+},
+"nyayo": {
+"drop": true
+},
+"matu": {
+"drop": true
+},
+"mtiriri": {
+"drop": true
+},
+"mtomo": {
+"drop": true
+},
+"ndonya": {
+"drop": true
+},
+"mngoni": {
+"drop": true
+},
+"msamburu": {
+"drop": true
+},
+"mturkana": {
+"drop": true
+},
+"mxhosa": {
+"drop": true
+},
+"shakiri": {
+"drop": true
+},
+"uhenga": {
+"drop": true
+},
+"zaatari": {
+"drop": true
+},
+"isitoshe": {
+"gloss": "furthermore; on top of that"
+},
+"tashwishi": {
+"gloss": "uncertainty; doubt"
+},
+"utundu": {
+"gloss": "mischief; naughtiness"
+},
+"mdoya": {
+"gloss": "sponger; scrounger"
+},
+"jemadari": {
+"gloss": "commander; military officer"
+},
+"ijara": {
+"gloss": "rent; hire; fee; wages"
+},
+"bahashishi": {
+"gloss": "tip; gratuity; baksheesh"
+},
+"mlingano": {
+"gloss": "balance; equality; symmetry"
+},
+"ujuaji": {
+"gloss": "impertinence; cheekiness"
+},
+"ujuvi": {
+"gloss": "precociousness; cleverness"
+},
+"kukinai": {
+"gloss": "to be fed up; to be satiated"
+},
+"kulewesha": {
+"gloss": "to intoxicate; to make drunk"
+},
+"kuropoka": {
+"gloss": "to talk nonsense; to blurt out; to blab"
+},
+"udhalili": {
+"gloss": "humiliation; disgrace; lowliness"
+},
+"mnyimi": {
+"gloss": "stingy person; miser"
+},
+"utiriri": {
+"gloss": "dripping; constant flow (of people, things)"
+},
+"nyaraka": {
+"gloss": "documents; records; archives",
+"sentences": [
+{
+"text": "Nyaraka zote ziko tayari.",
+"translation": "All the documents are ready."
+}
+]
+},
+"mujarabu": {
+"pos": "adj",
+"posName": "adjective",
+"gloss": "effective; proven"
+},
+"machapwi": {
+"pos": "n",
+"posName": "noun (ma- class, plural only)"
+},
+"muridi": {
+"drop": true
+},
+"kuruhusiwa": {
+"drop": true
+},
+"kuamriwa": {
+"drop": true
+},
+"kufunguliwa": {
+"drop": true
+},
+"kutubu": {
+"drop": true
+},
+"kupaki": {
+"drop": true
+},
+"kufikiri": {
+"drop": true
+},
+"kutaraji": {
+"drop": true
+},
+"kutaraja": {
+"drop": true
+},
+"kufidi": {
+"drop": true
+},
+"kukusudi": {
+"drop": true
+},
+"kuhofu": {
+"drop": true
+},
+"mwuguzi": {
+"drop": true
+},
+"mwuzaji": {
+"drop": true
+},
+"kamata": {
+"drop": true
+},
+"mbalimbali": {
+"sentences": [
+{
+"text": "Duka hili linauza bidhaa mbalimbali.",
+"translation": "This shop sells various goods."
+}
+]
+},
+"kijamii": {
+"sentences": [
+{
+"text": "Anapenda kutumia mitandao ya kijamii.",
+"translation": "He likes using social media."
+}
+]
+},
+"zungumzo": {
+"sentences": [
+{
+"text": "Zungumzo letu lilikuwa refu.",
+"translation": "Our discussion was long."
+}
+]
+},
+"elezo": {
+"sentences": [
+{
+"text": "Elezo hilo lilikuwa fupi lakini wazi.",
+"translation": "That explanation was short but clear."
+}
+]
+},
+"kijiji": {
+"sentences": [
+{
+"text": "Kijiji chetu kiko karibu na mto.",
+"translation": "Our village is near the river."
+}
+]
+},
+"kuripoti": {
+"sentences": [
+{
+"text": "Mwandishi aliripoti habari hizo jana.",
+"translation": "The journalist reported that news yesterday."
+}
+]
+},
+"fanikio": {
+"sentences": [
+{
+"text": "Fanikio hili ni kubwa kwa shule yetu.",
+"translation": "This achievement is big for our school."
+}
+]
+},
+"kujibu": {
+"sentences": [
+{
+"text": "Mwalimu alijibu swali langu vizuri.",
+"translation": "The teacher answered my question well."
+}
+]
+},
+"shindano": {
+"sentences": [
+{
+"text": "Shindano la kuimba litafanyika kesho.",
+"translation": "The singing competition will take place tomorrow."
+}
+]
+},
+"kubaki": {
+"sentences": [
+{
+"text": "Alibaki nyumbani wakati sisi tuliondoka.",
+"translation": "He stayed home while we left."
+}
+]
+},
+"mtaalamu": {
+"sentences": [
+{
+"text": "Mtaalamu wa kilimo atakuja kesho.",
+"translation": "The agricultural expert will come tomorrow."
+}
+]
+},
+"kiwanja": {
+"sentences": [
+{
+"text": "Alinunua kiwanja karibu na barabara.",
+"translation": "He bought a plot near the road."
+}
+],
+"gloss": "plot (of land); open field; compound"
+},
+"corona": {
+"sentences": [
+{
+"text": "Ugonjwa wa corona ulienea duniani kote.",
+"translation": "The corona disease spread across the world."
+}
+]
+},
+"maalumu": {
+"sentences": [
+{
+"text": "Tuna wageni maalumu leo.",
+"translation": "We have special guests today."
+}
+]
+},
+"tumaini": {
+"sentences": [
+{
+"text": "Nina tumaini kubwa kwa mwaka ujao.",
+"translation": "I have great hope for next year."
+}
+],
+"gloss": "hope; expectation"
+},
+"daraka": {
+"sentences": [
+{
+"text": "Ana daraka kubwa kazini.",
+"translation": "He has a big responsibility at work."
+}
+],
+"gloss": "responsibility; duty"
+},
+"kikundi": {
+"sentences": [
+{
+"text": "Kikundi cha vijana kinasafisha mtaa.",
+"translation": "A group of young people is cleaning the neighbourhood."
+}
+],
+"gloss": "group"
+},
+"ujao": {
+"sentences": [
+{
+"text": "Uchaguzi ujao utafanyika Oktoba.",
+"translation": "The next election will be held in October."
+}
+]
+},
+"pwani": {
+"sentences": [
+{
+"text": "Tulienda pwani Jumapili.",
+"translation": "We went to the coast on Sunday."
+}
+]
+},
+"kata": {
+"sentences": [
+{
+"text": "Kata hii ina shule tatu.",
+"translation": "This ward has three schools."
+}
+],
+"gloss": "ward (local administrative area)"
+},
+"pande": {
+"sentences": [
+{
+"text": "Nipe pande la mkate.",
+"translation": "Give me a chunk of bread."
+}
+]
+},
+"hifadhi": {
+"sentences": [
+{
+"text": "Hifadhi ya taifa ina wanyama wengi.",
+"translation": "The national park has many animals."
+}
+],
+"gloss": "reserve; sanctuary; protection"
+},
+"namba": {
+"sentences": [
+{
+"text": "Nipe namba yako ya simu.",
+"translation": "Give me your phone number."
+}
+]
+},
+"kulazimika": {
+"sentences": [
+{
+"text": "Nililazimika kuondoka mapema.",
+"translation": "I was obliged to leave early."
+}
+],
+"gloss": "to be obliged; to be compelled"
+},
+"anga": {
+"sentences": [
+{
+"text": "Anga ni safi leo.",
+"translation": "The sky is clear today."
+}
+],
+"gloss": "sky; atmosphere"
+},
+"kusaini": {
+"sentences": [
+{
+"text": "Mkurugenzi alisaini mkataba jana.",
+"translation": "The director signed the contract yesterday."
+}
+],
+"gloss": "to sign"
+},
+"mahusiano": {
+"sentences": [
+{
+"text": "Mahusiano yao ni mazuri.",
+"translation": "Their relationship is good."
+}
+]
+},
+"kubadili": {
+"sentences": [
+{
+"text": "Nataka kubadili nguo zangu.",
+"translation": "I want to change my clothes."
+}
+]
+},
+"kiislamu": {
+"sentences": [
+{
+"text": "Wanaadhimisha sikukuu ya Kiislamu.",
+"translation": "They are celebrating an Islamic holiday."
+}
+]
+},
+"makali": {
+"sentences": [
+{
+"text": "Kisu hiki kina makali.",
+"translation": "This knife has a sharp edge."
+}
+]
+},
+"ushirika": {
+"sentences": [
+{
+"text": "Ushirika wa wakulima ulianzishwa mwaka huu.",
+"translation": "The farmers' cooperative was founded this year."
+}
+]
+},
+"kilomita": {
+"sentences": [
+{
+"text": "Shule iko kilomita tano kutoka hapa.",
+"translation": "The school is five kilometres from here."
+}
+]
+},
+"mbadala": {
+"sentences": [
+{
+"text": "Tunatafuta chanzo mbadala cha nishati.",
+"translation": "We are looking for an alternative source of energy."
+}
+]
+},
+"rekebisho": {
+"sentences": [
+{
+"text": "Rekebisho hilo litaanza wiki ijayo.",
+"translation": "That amendment will start next week."
+}
+]
+},
+"kitisho": {
+"sentences": [
+{
+"text": "Moto huo ulikuwa kitisho kwa kijiji.",
+"translation": "The fire was a threat to the village."
+}
+]
+},
+"maonesho": {
+"sentences": [
+{
+"text": "Maonesho ya biashara yanaanza leo.",
+"translation": "The trade fair starts today."
+}
+]
+},
+"utaratibu": {
+"sentences": [
+{
+"text": "Fuata utaratibu huu ili upate cheti.",
+"translation": "Follow this procedure to get a certificate."
+}
+]
+},
+"mhusika": {
+"sentences": [
+{
+"text": "Mhusika mkuu katika hadithi ni msichana.",
+"translation": "The main character in the story is a girl."
+}
+]
+},
+"hesabu": {
+"sentences": [
+{
+"text": "Mwalimu anafundisha hesabu darasani.",
+"translation": "The teacher teaches maths in the classroom."
+}
+]
+},
+"tamshi": {
+"sentences": [
+{
+"text": "Tamshi lake ni zuri.",
+"translation": "His pronunciation is good."
+}
+]
+},
+"chozi": {
+"sentences": [
+{
+"text": "Chozi lilitiririka shavuni mwake.",
+"translation": "A tear ran down his cheek."
+}
+]
+},
+"radio": {
+"sentences": [
+{
+"text": "Baba husikiliza radio kila asubuhi.",
+"translation": "Father listens to the radio every morning."
+}
+]
+},
+"hisa": {
+"sentences": [
+{
+"text": "Alinunua hisa katika kampuni hiyo.",
+"translation": "He bought shares in that company."
+}
+],
+"gloss": "share; stock"
+},
+"kiafrika": {
+"sentences": [
+{
+"text": "Wanavaa mavazi ya Kiafrika.",
+"translation": "They wear African clothes."
+}
+]
+},
+"shauri": {
+"sentences": [
+{
+"text": "Nimepata shauri zuri kutoka kwa mwalimu.",
+"translation": "I got good advice from the teacher."
+}
+]
+},
+"blog": {
+"sentences": [
+{
+"text": "Anaandika blog kuhusu chakula.",
+"translation": "She writes a blog about food."
+}
+]
+},
+"sikukuu": {
+"sentences": [
+{
+"text": "Sikukuu ya Krismasi huadhimishwa Desemba.",
+"translation": "The Christmas holiday is celebrated in December."
+}
+]
+},
+"kutathmini": {
+"sentences": [
+{
+"text": "Tunapaswa kutathmini matokeo.",
+"translation": "We must assess the results."
+}
+]
+},
+"kuimarika": {
+"sentences": [
+{
+"text": "Uchumi unaimarika polepole.",
+"translation": "The economy is gradually getting stronger."
+}
+]
+},
+"-pana": {
+"sentences": [
+{
+"text": "Mto huu ni mpana sana.",
+"translation": "This river is very wide."
+}
+]
+},
+"salamu": {
+"sentences": [
+{
+"text": "Nitumie salamu kwa familia yako.",
+"translation": "Send my greetings to your family."
+}
+]
+},
+"kusudi": {
+"sentences": [
+{
+"text": "Alifanya hivyo kwa kusudi.",
+"translation": "He did it on purpose."
+}
+]
+},
+"umasikini": {
+"sentences": [
+{
+"text": "Umasikini ni changamoto kubwa.",
+"translation": "Poverty is a big challenge."
+}
+]
+},
+"mstaafu": {
+"sentences": [
+{
+"text": "Mstaafu huyo hulima shamba lake.",
+"translation": "That retiree farms his field."
+}
+]
+},
+"fikra": {
+"sentences": [
+{
+"text": "Fikra zake ni za kipekee.",
+"translation": "His thoughts are unique."
+}
+]
+},
+"kikanda": {
+"sentences": [
+{
+"text": "Mkutano wa kikanda utafanyika Arusha.",
+"translation": "The regional meeting will be held in Arusha."
+}
+],
+"gloss": "region; zone"
+},
+"semina": {
+"sentences": [
+{
+"text": "Semina itaanza saa tatu asubuhi.",
+"translation": "The seminar will begin at nine in the morning."
+}
+]
+},
+"jumba": {
+"sentences": [
+{
+"text": "Jumba hili la kifalme ni la zamani.",
+"translation": "This royal palace is old."
+}
+]
+},
+"chanya": {
+"sentences": [
+{
+"text": "Matokeo ni chanya.",
+"translation": "The results are positive."
+}
+]
+},
+"-jasiri": {
+"sentences": [
+{
+"text": "Askari mjasiri aliokoa watoto.",
+"translation": "A brave soldier saved the children."
+}
+]
+},
+"enzi": {
+"sentences": [
+{
+"text": "Enzi za mababu hazikuwa na simu.",
+"translation": "In the days of our ancestors there were no phones."
+}
+],
+"gloss": "era; age; rule"
+},
+"kigogo": {
+"sentences": [
+{
+"text": "Kigogo huyo alikamatwa jana.",
+"translation": "That bigwig was arrested yesterday."
+}
+]
+},
+"mgahawa": {
+"sentences": [
+{
+"text": "Tulikula chakula cha mchana mgahawani.",
+"translation": "We had lunch at the restaurant."
+}
+]
+},
+"msajili": {
+"sentences": [
+{
+"text": "Msajili wa vyuo alifika ofisini.",
+"translation": "The registrar of colleges arrived at the office."
+}
+]
+},
+"kinga": {
+"sentences": [
+{
+"text": "Chanjo hutoa kinga dhidi ya magonjwa.",
+"translation": "Vaccines give protection against diseases."
+}
+],
+"gloss": "protection; prevention; immunity"
+},
+"uhakiki": {
+"sentences": [
+{
+"text": "Uhakiki wa vitabu umekamilika.",
+"translation": "The review of the books is complete."
+}
+]
+},
+"kipa": {
+"sentences": [
+{
+"text": "Kipa alizuia mpira mzuri.",
+"translation": "The goalkeeper stopped a good shot."
+}
+]
+},
+"sala": {
+"sentences": [
+{
+"text": "Waumini hufanya sala asubuhi.",
+"translation": "Believers say their prayers in the morning."
+}
+]
+},
+"kusita": {
+"sentences": [
+{
+"text": "Usisite kuniuliza swali.",
+"translation": "Do not hesitate to ask me a question."
+}
+]
+},
+"udhamini": {
+"sentences": [
+{
+"text": "Kampuni ilitoa udhamini wa mashindano.",
+"translation": "The company gave sponsorship for the competition."
+}
+]
+},
+"ibara": {
+"sentences": [
+{
+"text": "Ibara ya kwanza inaeleza lengo.",
+"translation": "The first article explains the aim."
+}
+]
+},
+"ukomo": {
+"sentences": [
+{
+"text": "Mkataba una ukomo wa miaka mitano.",
+"translation": "The contract has a limit of five years."
+}
+]
+},
+"marathon": {
+"sentences": [
+{
+"text": "Alishinda marathon ya mwaka huu.",
+"translation": "He won this year's marathon."
+}
+]
+},
+"laki": {
+"sentences": [
+{
+"text": "Gari hilo linagharimu laki tano.",
+"translation": "That car costs five hundred thousand."
+}
+]
+},
+"kaa": {
+"sentences": [
+{
+"text": "Tulipika kaa kwa nazi.",
+"translation": "We cooked crab in coconut."
+}
+]
+},
+"mratibu": {
+"sentences": [
+{
+"text": "Mratibu wa mradi atasema kesho.",
+"translation": "The project coordinator will speak tomorrow."
+}
+]
+},
+"ualimu": {
+"sentences": [
+{
+"text": "Ualimu ni kazi ngumu lakini nzuri.",
+"translation": "Teaching is a hard but good profession."
+}
+]
+},
+"internet": {
+"sentences": [
+{
+"text": "Nyumbani kwetu hakuna internet.",
+"translation": "There is no internet at our home."
+}
+]
+},
+"uratibu": {
+"sentences": [
+{
+"text": "Uratibu wa kazi ni muhimu.",
+"translation": "Coordination of work is important."
+}
+]
+},
+"taka": {
+"sentences": [
+{
+"text": "Tupa taka kwenye pipa.",
+"translation": "Throw the rubbish in the bin."
+}
+]
+},
+"fahamu": {
+"sentences": [
+{
+"text": "Alipoteza fahamu baada ya ajali.",
+"translation": "He lost consciousness after the accident."
+}
+]
+},
+"kuoa": {
+"sentences": [
+{
+"text": "Anataka kuoa mwaka ujao.",
+"translation": "He wants to marry next year."
+}
+]
+},
+"amana": {
+"sentences": [
+{
+"text": "Aliweka amana benki.",
+"translation": "He put a deposit in the bank."
+}
+]
+},
+"padri": {
+"sentences": [
+{
+"text": "Padri alisoma sala kanisani.",
+"translation": "The priest read a prayer in church."
+}
+]
+},
+"ijapokuwa": {
+"sentences": [
+{
+"text": "Ijapokuwa alikuwa mgonjwa, alifika kazini.",
+"translation": "Although he was sick, he came to work."
+}
+]
+},
+"kiza": {
+"sentences": [
+{
+"text": "Kiza kilitanda usiku.",
+"translation": "Darkness spread over the night."
+}
+]
+},
+"kejeli": {
+"sentences": [
+{
+"text": "Alizungumza kwa kejeli.",
+"translation": "He spoke sarcastically."
+}
+]
+},
+"kifurushi": {
+"sentences": [
+{
+"text": "Nimepokea kifurushi kutoka posta.",
+"translation": "I received a package from the post office."
+}
+]
+},
+"risiti": {
+"sentences": [
+{
+"text": "Naomba risiti, tafadhali.",
+"translation": "May I have a receipt, please."
+}
+]
+},
+"ujangili": {
+"sentences": [
+{
+"text": "Ujangili unaangamiza tembo.",
+"translation": "Poaching is wiping out elephants."
+}
+]
+},
+"mshabiki": {
+"sentences": [
+{
+"text": "Mshabiki wa mpira alifurahi sana.",
+"translation": "The football fan was very happy."
+}
+]
+},
+"panga": {
+"sentences": [
+{
+"text": "Alikata kuni kwa panga.",
+"translation": "He cut firewood with a machete."
+}
+]
+},
+"ufukwe": {
+"sentences": [
+{
+"text": "Watoto wanacheza ufukweni.",
+"translation": "The children are playing on the beach."
+}
+]
+},
+"kustahiki": {
+"sentences": [
+{
+"text": "Anastahiki tuzo hiyo.",
+"translation": "He deserves that prize."
+}
+]
+},
+"hundi": {
+"sentences": [
+{
+"text": "Aliweka sadaka kwenye hundi.",
+"translation": "He put an offering in the collection box."
+}
+],
+"gloss": "collection box; draft (cheque)"
+},
+"masikini": {
+"sentences": [
+{
+"text": "Masikini huyo anahitaji msaada.",
+"translation": "That poor man needs help."
+}
+]
+},
+"balaa": {
+"sentences": [
+{
+"text": "Mafuriko yalileta balaa kubwa.",
+"translation": "The floods brought a great calamity."
+}
+]
+},
+"maongezi": {
+"sentences": [
+{
+"text": "Maongezi yao yalikuwa marefu.",
+"translation": "Their conversation was long."
+}
+]
+},
+"kupasuka": {
+"sentences": [
+{
+"text": "Tairi lilipasuka barabarani.",
+"translation": "The tyre burst on the road."
+}
+]
+},
+"pasipoti": {
+"sentences": [
+{
+"text": "Ninahitaji pasipoti ili nisafiri.",
+"translation": "I need a passport to travel."
+}
+]
+},
+"wepesi": {
+"sentences": [
+{
+"text": "Anatembea kwa wepesi.",
+"translation": "He walks with ease."
+}
+]
+},
+"imam": {
+"sentences": [
+{
+"text": "Imam aliongoza sala msikitini.",
+"translation": "The imam led the prayer in the mosque."
+}
+]
+},
+"walakini": {
+"sentences": [
+{
+"text": "Nilimwita, walakini hakusikia.",
+"translation": "I called him, but he did not hear."
+}
+]
+},
+"skuli": {
+"sentences": [
+{
+"text": "Watoto wanakwenda skuli kila siku.",
+"translation": "The children go to school every day."
+}
+]
+},
+"haramia": {
+"sentences": [
+{
+"text": "Haramia alishikwa na polisi.",
+"translation": "The pirate was caught by the police."
+}
+]
+},
+"shada": {
+"sentences": [
+{
+"text": "Alimpa shada la maua.",
+"translation": "He gave her a bouquet of flowers."
+}
+]
+},
+"futari": {
+"sentences": [
+{
+"text": "Tulikula futari pamoja jana.",
+"translation": "We ate the iftar meal together yesterday."
+}
+]
+},
+"tunu": {
+"sentences": [
+{
+"text": "Urafiki ni tunu.",
+"translation": "Friendship is a treasure."
+}
+]
+},
+"kuzima": {
+"sentences": [
+{
+"text": "Alizima moto haraka.",
+"translation": "He put out the fire quickly."
+}
+]
+},
+"-pofu": {
+"sentences": [
+{
+"text": "Mzee mpofu anatembea na fimbo.",
+"translation": "The blind old man walks with a stick."
+}
+]
+},
+"kiporo": {
+"sentences": [
+{
+"text": "Tulikula kiporo asubuhi.",
+"translation": "We ate leftovers in the morning."
+}
+]
+},
+"gogo": {
+"sentences": [
+{
+"text": "Gogo hili ni zito.",
+"translation": "This log is heavy."
+}
+]
+},
+"uzima": {
+"sentences": [
+{
+"text": "Uzima ni bora kuliko mali.",
+"translation": "Health is better than wealth."
+}
+]
+},
+"mkemia": {
+"sentences": [
+{
+"text": "Mkemia alichanganya dawa.",
+"translation": "The chemist mixed the medicine."
+}
+]
+},
+"kilima": {
+"sentences": [
+{
+"text": "Nyumba yetu iko juu ya kilima.",
+"translation": "Our house is on top of the hill."
+}
+]
+},
+"anasa": {
+"sentences": [
+{
+"text": "Anapenda maisha ya anasa.",
+"translation": "He likes a life of luxury."
+}
+]
+},
+"-kaidi": {
+"sentences": [
+{
+"text": "Mtoto mkaidi hasikii wazee.",
+"translation": "A stubborn child does not listen to elders."
+}
+]
+},
+"poa": {
+"sentences": [
+{
+"text": "Poa, tutaonana kesho.",
+"translation": "Okay, we will see each other tomorrow."
+}
+]
+},
+"kubusu": {
+"sentences": [
+{
+"text": "Alimbusu mtoto wake.",
+"translation": "She kissed her child."
+}
+]
+},
+"egesho": {
+"sentences": [
+{
+"text": "Egesho la magari liko nyuma.",
+"translation": "The car park is at the back."
+}
+]
+},
+"tsunami": {
+"sentences": [
+{
+"text": "Tsunami ilipiga pwani.",
+"translation": "A tsunami struck the coast."
+}
+]
+},
+"mchanganuo": {
+"sentences": [
+{
+"text": "Mchanganuo wa gharama umetolewa.",
+"translation": "The breakdown of costs has been provided."
+}
+]
+},
+"kipingamizi": {
+"sentences": [
+{
+"text": "Hakuna kipingamizi kwa mpango huu.",
+"translation": "There is no obstacle to this plan."
+}
+]
+},
+"fitina": {
+"sentences": [
+{
+"text": "Fitina hutenganisha ndugu.",
+"translation": "Quarrelling separates relatives."
+}
+]
+},
+"kuanika": {
+"sentences": [
+{
+"text": "Mama anaanika nguo juani.",
+"translation": "Mother is hanging clothes out to dry in the sun."
+}
+]
+},
+"wasifu": {
+"sentences": [
+{
+"text": "Wasifu wake unaonyesha uzoefu mkubwa.",
+"translation": "His profile shows great experience."
+}
+],
+"gloss": "biography; profile"
+},
+"ulingo": {
+"sentences": [
+{
+"text": "Mwanamieleka aliingia ulingoni.",
+"translation": "The wrestler entered the ring."
+}
+]
+},
+"mgawo": {
+"sentences": [
+{
+"text": "Kila mtu alipata mgawo wake.",
+"translation": "Everyone got his share."
+}
+]
+},
+"kitambo": {
+"sentences": [
+{
+"text": "Nilimwona kwa kitambo kidogo.",
+"translation": "I saw him for a short while."
+}
+]
+},
+"mshindo": {
+"sentences": [
+{
+"text": "Tulisikia mshindo mkubwa.",
+"translation": "We heard a loud bang."
+}
+]
+},
+"kulilia": {
+"sentences": [
+{
+"text": "Mtoto analilia mama yake.",
+"translation": "The child is crying for his mother."
+}
+]
+},
+"-vivu": {
+"sentences": [
+{
+"text": "Mtu mvivu hafanikiwi.",
+"translation": "A lazy person does not succeed."
+}
+]
+},
+"-karimu": {
+"sentences": [
+{
+"text": "Mwenyeji wetu ni mkarimu sana.",
+"translation": "Our host is very generous."
+}
+]
+},
+"-rembo": {
+"sentences": [
+{
+"text": "Msichana mrembo alifika.",
+"translation": "A beautiful girl arrived."
+}
+]
+},
+"-gomvi": {
+"sentences": [
+{
+"text": "Jirani yetu ni mgomvi.",
+"translation": "Our neighbour is quarrelsome."
+}
+]
+},
+"-janja": {
+"sentences": [
+{
+"text": "Mbweha ni mnyama mjanja.",
+"translation": "The fox is a cunning animal."
+}
+]
+},
+"-sanifu": {
+"sentences": [
+{
+"text": "Anasema Kiswahili sanifu.",
+"translation": "He speaks standard Swahili."
+}
+]
+},
+"mtulivu": {
+"sentences": [
+{
+"text": "Mwalimu wetu ni mtulivu.",
+"translation": "Our teacher is calm."
+}
+]
+},
+"mvumilivu": {
+"sentences": [
+{
+"text": "Mama ni mvumilivu sana.",
+"translation": "Mother is very patient."
+}
+]
+},
+"mwangalifu": {
+"sentences": [
+{
+"text": "Dereva mwangalifu huepuka ajali.",
+"translation": "A careful driver avoids accidents."
+}
+]
+},
+"mwovu": {
+"sentences": [
+{
+"text": "Mtu mwovu hupata adhabu.",
+"translation": "An evil person gets punished."
+}
+]
+},
+"mhisani": {
+"sentences": [
+{
+"text": "Mhisani alitoa vitabu kwa shule.",
+"translation": "The benefactor donated books to the school."
+}
+]
+},
+"mhimili": {
+"sentences": [
+{
+"text": "Mhimili wa nyumba ulianguka.",
+"translation": "The beam of the house fell."
+}
+]
+},
+"musuli": {
+"sentences": [
+{
+"text": "Ana musuli mkubwa mkononi.",
+"translation": "He has a big muscle in his arm."
+}
+]
+},
+"kipeperushi": {
+"sentences": [
+{
+"text": "Walisambaza kipeperushi mtaani.",
+"translation": "They distributed a leaflet in the neighbourhood."
+}
+]
+},
+"kiteknolojia": {
+"sentences": [
+{
+"text": "Tunahitaji maendeleo ya kiteknolojia.",
+"translation": "We need technological development."
+}
+]
+},
+"kikoloni": {
+"sentences": [
+{
+"text": "Utawala wa kikoloni ulimalizika.",
+"translation": "Colonial rule came to an end."
+}
+]
+},
+"kimarekani": {
+"sentences": [
+{
+"text": "Anaimba kwa lafudhi ya Kimarekani.",
+"translation": "He sings with an American accent."
+}
+]
+},
+"kielektroniki": {
+"sentences": [
+{
+"text": "Barua pepe ni ujumbe wa kielektroniki.",
+"translation": "Email is an electronic message."
+}
+]
+},
+"utakatishaji": {
+"sentences": [
+{
+"text": "Utakatishaji wa fedha ni kosa.",
+"translation": "Money laundering is an offence."
+}
+]
+},
+"uokozi": {
+"sentences": [
+{
+"text": "Timu ya uokozi ilifika haraka.",
+"translation": "The rescue team arrived quickly."
+}
+]
+},
+"foramu": {
+"sentences": [
+{
+"text": "Foramu ya vijana itafanyika wiki ijayo.",
+"translation": "The youth forum will be held next week."
+}
+]
+},
+"droo": {
+"sentences": [
+{
+"text": "Droo ya kombe itafanyika kesho.",
+"translation": "The cup draw will take place tomorrow."
+}
+]
+},
+"megawati": {
+"sentences": [
+{
+"text": "Kituo kinazalisha megawati mia.",
+"translation": "The station produces a hundred megawatts."
+}
+]
+},
+"promosheni": {
+"sentences": [
+{
+"text": "Duka lina promosheni mwezi huu.",
+"translation": "The shop has a promotion this month."
+}
+]
+},
+"stashahada": {
+"sentences": [
+{
+"text": "Alipata stashahada ya ualimu.",
+"translation": "He got a diploma in teaching."
+}
+]
+},
+"kuposti": {
+"sentences": [
+{
+"text": "Nenda kuposti barua hii.",
+"translation": "Go and post this letter."
+}
+]
+},
+"kurudiana": {
+"sentences": [
+{
+"text": "Walirudiana baada ya ugomvi.",
+"translation": "They reconciled after the quarrel."
+}
+]
+},
+"kupwa": {
+"sentences": [
+{
+"text": "Maji ya bahari hupwa jioni.",
+"translation": "The sea water ebbs in the evening."
+}
+]
+},
+"kubangua": {
+"sentences": [
+{
+"text": "Mama anabangua karanga.",
+"translation": "Mother is shelling groundnuts."
+}
+]
+},
+"sepetu": {
+"sentences": [
+{
+"text": "Alichimba shimo kwa sepetu.",
+"translation": "He dug a hole with a shovel."
+}
+]
+},
+"ugenini": {
+"sentences": [
+{
+"text": "Anaishi ugenini kwa miaka mingi.",
+"translation": "He has lived abroad for many years."
+}
+]
+},
+"sitisho": {
+"sentences": [
+{
+"text": "Sitisho la mapigano lilitangazwa.",
+"translation": "A ceasefire was announced."
+}
+]
+},
+"tunzo": {
+"sentences": [
+{
+"text": "Alipokea tunzo ya heshima.",
+"translation": "He received an honorary award."
+}
+]
+},
+"mtoano": {
+"sentences": [
+{
+"text": "Mechi ya mtoano itachezwa kesho.",
+"translation": "The knockout match will be played tomorrow."
+}
+]
+},
+"bunda": {
+"sentences": [
+{
+"text": "Alibeba bunda la nguo.",
+"translation": "He carried a bundle of clothes."
+}
+]
+},
+"utepe": {
+"sentences": [
+{
+"text": "Alifunga zawadi kwa utepe.",
+"translation": "She tied the gift with a ribbon."
+}
+]
+},
+"ovyo": {
+"sentences": [
+{
+"text": "Usitupe taka ovyo.",
+"translation": "Do not throw rubbish about carelessly."
+}
+]
+},
+"shirikishi": {
+"sentences": [
+{
+"text": "Mpango huu ni shirikishi.",
+"translation": "This plan is inclusive."
+}
+]
+},
+"unyonge": {
+"pos": "n",
+"posName": "noun (u- class)"
+},
+"mlibya": {
+"gloss": "Libyan person"
+},
+"mshelisheli": {
+"gloss": "Seychellois person"
+},
+"mkanada": {
+"gloss": "Canadian person"
+},
+"mwitalia": {
+"gloss": "Italian person"
+},
+"kita": {
+"gloss": "war; battle"
+},
+"kufasili": {
+"gloss": "to explain the meaning of; to define; to interpret"
+},
+"mlembe": {
+"drop": true
+},
+"mmiminiko": {
+"drop": true
+},
+"vuvuzela": {
+"drop": true
+},
+"hamadi": {
+"drop": true
+},
+"zuhura": {
+"drop": true
+},
+"kinzani": {
+"drop": true
+},
+"kuinukia": {
+"drop": true
+},
+"mkulo": {
+"drop": true
+},
+"mdachi": {
+"drop": true
+},
+"uchakachuaji": {
+"drop": true
+},
+"-bantu": {
+"drop": true
+},
+"kupua": {
+"drop": true
+},
+"pozi": {
+"drop": true
+},
+"beberu": {
+"drop": true
+},
+"erio": {
+"drop": true
+},
+"kuonelea": {
+"drop": true
+},
+"-lizi": {
+"drop": true
+},
+"jumbo": {
+"drop": true
+},
+"kibantu": {
+"drop": true
+},
+"zuzu": {
+"drop": true
+},
+"ima": {
+"drop": true
+},
+"sipo": {
+"drop": true
+},
+"-anika": {
+"drop": true
+},
+"madadi": {
+"drop": true
+},
+"msukuma": {
+"drop": true
+},
+"kusimba": {
+"drop": true
+},
+"mpambe": {
+"drop": true
+},
+"kucharuka": {
+"drop": true
+},
+"bura": {
+"drop": true
+},
+"-shenzi": {
+"drop": true
+},
+"mshenzi": {
+"drop": true
+},
+"kutengea": {
+"drop": true
+},
+"kukomoa": {
+"drop": true
+},
+"-mbi": {
+"drop": true
+},
+"kwacha": {
+"drop": true
+},
+"msira": {
+"drop": true
+},
+"zaka": {
+"drop": true
+},
+"mbungo": {
+"drop": true
+},
+"mtaturu": {
+"drop": true
+},
+"shamu": {
+"drop": true
+},
+"tako": {
+"drop": true
+},
+"mshinde": {
+"drop": true
+},
+"mle": {
+"drop": true
+},
+"gruneti": {
+"drop": true
+},
+"-kakasi": {
+"drop": true
+},
+"nusra": {
+"drop": true
+},
+"chege": {
+"drop": true
+},
+"demu": {
+"drop": true
+},
+"usu": {
+"drop": true
+},
+"mango": {
+"drop": true
+},
+"bono": {
+"drop": true
+},
+"ushei": {
+"drop": true
+},
+"konyagi": {
+"drop": true
+},
+"kusuta": {
+"drop": true
+},
+"kunasibu": {
+"drop": true
+},
+"mfunga": {
+"drop": true
+},
+"maro": {
+"drop": true
+},
+"-tukutu": {
+"drop": true
+},
+"aisee": {
+"drop": true
+},
+"manyanga": {
+"drop": true
+},
+"banki": {
+"drop": true
+},
+"mkunde": {
+"drop": true
+},
+"mpoto": {
+"drop": true
+},
+"mshikaji": {
+"drop": true
+},
+"mchembe": {
+"drop": true
+},
+"weni": {
+"drop": true
+},
+"pentekoste": {
+"drop": true
+},
+"mrembe": {
+"drop": true
+},
+"bombo": {
+"drop": true
+},
+"punye": {
+"drop": true
+},
+"machinjioni": {
+"drop": true
+},
+"kole": {
+"drop": true
+},
+"kamani": {
+"drop": true
+},
+"-kabidhi": {
+"drop": true
+},
+"mrungi": {
+"drop": true
+},
+"tumbi": {
+"drop": true
+},
+"-suni": {
+"drop": true
+},
+"windo": {
+"drop": true
+},
+"uhondo": {
+"drop": true
+},
+"kiva": {
+"drop": true
+},
+"jamali": {
+"drop": true
+},
+"mraa": {
+"drop": true
+},
+"bebe": {
+"drop": true
+},
+"shura": {
+"drop": true
+},
+"kimasomaso": {
+"drop": true
+},
+"kijinga": {
+"drop": true
+},
+"dakawa": {
+"drop": true
+},
+"kishoka": {
+"drop": true
+},
+"ndi": {
+"drop": true
+},
+"potovu": {
+"drop": true
+},
+"ange": {
+"drop": true
+},
+"kukeketa": {
+"drop": true
+},
+"kitope": {
+"drop": true
+},
+"sini": {
+"drop": true
+},
+"taibu": {
+"drop": true
+},
+"uledi": {
+"drop": true
+},
+"muhtasi": {
+"drop": true
+},
+"nduli": {
+"drop": true
+},
+"ujaji": {
+"drop": true
+},
+"dole": {
+"drop": true
+},
+"ngole": {
+"drop": true
+},
+"mvunja": {
+"drop": true
+},
+"ghazi": {
+"drop": true
+},
+"kuawa": {
+"drop": true
+},
+"kimalagasi": {
+"drop": true
+},
+"kiada": {
+"drop": true
+},
+"msondo": {
+"drop": true
+},
+"songoro": {
+"drop": true
+},
+"dege": {
+"drop": true
+},
+"hero": {
+"drop": true
+},
+"kwajili": {
+"drop": true
+},
+"mli": {
+"drop": true
+},
+"nungu": {
+"drop": true
+},
+"-bwete": {
+"drop": true
+},
+"tingatinga": {
+"drop": true
+},
+"kijiwe": {
+"drop": true
+},
+"dude": {
+"drop": true
+},
+"tongo": {
+"drop": true
+},
+"dungu": {
+"drop": true
+},
+"dhamiri": {
+"gloss": "conscience"
+},
+"mtemi": {
+"gloss": "chief; ruler"
+},
+"zege": {
+"gloss": "concrete"
+},
+"kwelikweli": {
+"gloss": "really; for real"
+},
+"dhamani": {
+"gloss": "value; worth"
+},
+"uingiaji": {
+"gloss": "entry; entering; penetration"
+},
+"taruma": {
+"gloss": "rib (of a boat); railway sleeper"
+},
+"suna": {
+"gloss": "sunna (practice of the Prophet)"
+},
+"kutungua": {
+"gloss": "to take down something hung up (esp. fruit); to shoot down"
+},
+"kufilisi": {
+"gloss": "to bankrupt; to liquidate"
+},
+"kungu": {
+"gloss": "tropical almond (fruit)"
+},
+"muungwana": {
+"gloss": "gentleman; freeborn person; cultured person"
+},
+"kudahili": {
+"gloss": "to admit; to enrol"
+},
+"thawabu": {
+"gloss": "spiritual reward; merit"
+},
+"dhabihu": {
+"gloss": "sacrifice; offering"
+},
+"shoto": {
+"gloss": "left hand"
+},
+"tari": {
+"gloss": "tambourine; drum"
+},
+"ingizo": {
+"gloss": "entry; input"
+},
+"bughudha": {
+"gloss": "annoyance; distraction; disturbance"
+},
+"nundu": {
+"gloss": "hump"
+},
+"kuuma": {
+"gloss": "to bite; to hurt; to ache"
+},
+"kupamba": {
+"gloss": "to decorate; to adorn"
+},
+"masihara": {
+"gloss": "jokes; teasing; fun"
+},
+"dominika": {
+"gloss": "Sunday (church usage)"
+},
+"maombezi": {
+"gloss": "intercession; prayers for others"
+},
+"-timilifu": {
+"gloss": "perfect; complete"
+},
+"kuboronga": {
+"gloss": "to spoil; to mess up"
+},
+"kuchuma": {
+"gloss": "to pick (fruit); to earn"
+},
+"shuruti": {
+"gloss": "by force; compulsorily"
+},
+"joka": {
+"gloss": "snake; serpent"
+},
+"kusua": {
+"gloss": "to rinse (the mouth)"
+},
+"biti": {
+"gloss": "beat (music)"
+},
+"-linganifu": {
+"gloss": "equal; corresponding"
+},
+"kucheki": {
+"gloss": "to check"
+},
+"kusadifu": {
+"gloss": "to coincide; to happen by chance"
+},
+"kwata": {
+"gloss": "military drill; parade"
+},
+"kifuko": {
+"gloss": "small bag; pouch"
+},
+"noma": {
+"gloss": "difficulty; trouble"
+},
+"tahariri": {
+"gloss": "editorial"
+},
+"mithali": {
+"gloss": "example; model"
+},
+"maulidi": {
+"gloss": "Mawlid (celebration of the Prophet's birthday)"
+},
+"kuweweseka": {
+"gloss": "to talk in one's sleep; to be delirious"
+},
+"mlozi": {
+"gloss": "almond tree"
+},
+"kuadhiri": {
+"gloss": "to disgrace; to humiliate"
+},
+"papara": {
+"gloss": "hastily; in a rush"
+},
+"utenzi": {
+"gloss": "epic poem"
+},
+"kuhusudu": {
+"gloss": "to envy; to be jealous of"
+},
+"uchekeshaji": {
+"gloss": "comedy; comedic performance"
+},
+"kusisimka": {
+"gloss": "to tingle; to shiver with excitement"
+},
+"mkabidhi": {
+"gloss": "trustee; administrator"
+},
+"dharuba": {
+"gloss": "squall; gale"
+},
+"hidaya": {
+"gloss": "gift; (religious) guidance"
+},
+"kuchakaza": {
+"gloss": "to wear out; to make shabby"
+},
+"kufikirisha": {
+"gloss": "to make someone think"
+},
+"mchepuo": {
+"gloss": "bias; stream; track"
+},
+"kukasimu": {
+"gloss": "to delegate; to apportion"
+},
+"kibibi": {
+"gloss": "young lady; madam"
+},
+"kunyanzi": {
+"gloss": "wrinkle; crease"
+},
+"kuchenga": {
+"gloss": "to dodge; to feint"
+},
+"sanda": {
+"gloss": "shroud (burial cloth)"
+},
+"kapu": {
+"pos": "n",
+"posName": "noun (ji-/ma- class, pl. makapu)",
+"gloss": "large basket"
+},
+"vifijo": {
+"pos": "n",
+"posName": "noun (vi- class, plural only)",
+"gloss": "cheers; ululation; shouts of joy"
+},
+"astashahada": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "certificate"
+},
+"uzuiaji": {
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "prevention; obstruction"
+},
+"ualbino": {
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "albinism"
+},
+"kijivu": {
+"pos": "adj",
+"posName": "adjective",
+"gloss": "grey; gray"
+},
+"torati": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "the Torah"
+},
+"zaburi": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "psalm"
+},
+"azizi": {
+"pos": "adj",
+"posName": "adjective",
+"gloss": "dear; precious"
+},
+"kituruki": {
+"pos": "n",
+"posName": "noun (ki- class, language name)",
+"gloss": "the Turkish language"
+},
+"utatu": {
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "trinity"
+},
+"marijani": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "coral"
+},
+"urubani": {
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "aviation"
+},
+"mwanaspoti": {
+"pos": "n",
+"posName": "noun (m-/wa- class, pl. wanaspoti)",
+"gloss": "sportsman; athlete"
+},
+"arusi": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "wedding"
+},
+"husuda": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "envy"
+},
+"chuchu": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "nipple; teat"
+},
+"arubaini": {
+"drop": true
+},
+"sato": {
+"drop": true
+},
+"robota": {
+"drop": true
+},
+"-aste": {
+"drop": true
+},
+"-chirizi": {
+"drop": true
+},
+"bwege": {
+"drop": true
+},
+"sumukuvu": {
+"drop": true
+},
+"juha": {
+"drop": true
+},
+"jadidi": {
+"drop": true
+},
+"-sena": {
+"drop": true
+},
+"kikongo": {
+"drop": true
+},
+"kirundi": {
+"drop": true
+},
+"kihausa": {
+"drop": true
+},
+"kiholanzi": {
+"drop": true
+},
+"kibengali": {
+"drop": true
+},
+"kiyunani": {
+"drop": true
+},
+"kipate": {
+"drop": true
+},
+"kukoa": {
+"drop": true
+},
+"mbuta": {
+"drop": true
+},
+"msahau": {
+"drop": true
+},
+"pure": {
+"drop": true
+},
+"mwata": {
+"drop": true
+},
+"pewa": {
+"drop": true
+},
+"rabi": {
+"drop": true
+},
+"suria": {
+"drop": true
+},
+"buku": {
+"drop": true
+},
+"gimbi": {
+"drop": true
+},
+"mbuya": {
+"drop": true
+},
+"kasheshe": {
+"drop": true
+},
+"chale": {
+"drop": true
+},
+"mwaloni": {
+"drop": true
+},
+"kuchomea": {
+"drop": true
+},
+"yumkini": {
+"drop": true
+},
+"fungo": {
+"drop": true
+},
+"mtala": {
+"drop": true
+},
+"shoti": {
+"drop": true
+},
+"mashudu": {
+"drop": true
+},
+"kupelea": {
+"drop": true
+},
+"mkusanya": {
+"drop": true
+},
+"kuchachafya": {
+"drop": true
+},
+"kuhemea": {
+"drop": true
+},
+"shisha": {
+"drop": true
+},
+"mhangaiko": {
+"drop": true
+},
+"mondo": {
+"drop": true
+},
+"busha": {
+"drop": true
+},
+"mtetea": {
+"drop": true
+},
+"josho": {
+"drop": true
+},
+"munkari": {
+"drop": true
+},
+"kinana": {
+"drop": true
+},
+"shushushu": {
+"drop": true
+},
+"ndago": {
+"drop": true
+},
+"tomondo": {
+"drop": true
+},
+"numbi": {
+"drop": true
+},
+"tule": {
+"drop": true
+},
+"kupandia": {
+"drop": true
+},
+"mtema": {
+"drop": true
+},
+"goto": {
+"drop": true
+},
+"mdundiko": {
+"drop": true
+},
+"pareto": {
+"drop": true
+},
+"sajini": {
+"drop": true
+},
+"mkenge": {
+"drop": true
+},
+"salimini": {
+"drop": true
+},
+"chizi": {
+"drop": true
+},
+"ebu": {
+"drop": true
+},
+"juya": {
+"drop": true
+},
+"kamambe": {
+"drop": true
+},
+"kamisaa": {
+"drop": true
+},
+"dondo": {
+"drop": true
+},
+"kiyombo": {
+"drop": true
+},
+"kololo": {
+"drop": true
+},
+"kuchangua": {
+"drop": true
+},
+"kufunda": {
+"drop": true
+},
+"kusilia": {
+"drop": true
+},
+"ela": {
+"drop": true
+},
+"kushindika": {
+"drop": true
+},
+"kaini": {
+"drop": true
+},
+"gao": {
+"drop": true
+},
+"kwambaa": {
+"drop": true
+},
+"mpemba": {
+"drop": true
+},
+"towashi": {
+"drop": true
+},
+"mwelewa": {
+"drop": true
+},
+"ngosi": {
+"drop": true
+},
+"upupu": {
+"drop": true
+},
+"ansari": {
+"drop": true
+},
+"chambi": {
+"drop": true
+},
+"chuku": {
+"drop": true
+},
+"hoza": {
+"drop": true
+},
+"kimada": {
+"drop": true
+},
+"ndaro": {
+"drop": true
+},
+"kiwi": {
+"drop": true
+},
+"mamoja": {
+"drop": true
+},
+"mkiki": {
+"drop": true
+},
+"-goya": {
+"drop": true
+},
+"mlizi": {
+"drop": true
+},
+"chibuku": {
+"drop": true
+},
+"kitali": {
+"drop": true
+},
+"uzawa": {
+"drop": true
+},
+"batuli": {
+"drop": true
+},
+"fumo": {
+"drop": true
+},
+"chuya": {
+"drop": true
+},
+"kasorobo": {
+"drop": true
+},
+"kaaba": {
+"drop": true
+},
+"chongo": {
+"drop": true
+},
+"kihunzi": {
+"drop": true
+},
+"kibwengo": {
+"drop": true
+},
+"kuambua": {
+"drop": true
+},
+"kudakia": {
+"drop": true
+},
+"kuerevuka": {
+"drop": true
+},
+"kujuzu": {
+"drop": true
+},
+"gombo": {
+"drop": true
+},
+"kusana": {
+"drop": true
+},
+"kupepetana": {
+"drop": true
+},
+"kutitia": {
+"drop": true
+},
+"kushaua": {
+"drop": true
+},
+"lubega": {
+"drop": true
+},
+"kuzulu": {
+"drop": true
+},
+"manju": {
+"drop": true
+},
+"mbumbumbu": {
+"drop": true
+},
+"msombo": {
+"drop": true
+},
+"mchagga": {
+"drop": true
+},
+"mkoni": {
+"drop": true
+},
+"selo": {
+"drop": true
+},
+"kisaki": {
+"drop": true
+},
+"pandikizi": {
+"drop": true
+},
+"tunutu": {
+"drop": true
+},
+"usultani": {
+"drop": true
+},
+"fuko": {
+"drop": true
+},
+"soro": {
+"drop": true
+},
+"mmakonde": {
+"drop": true
+},
+"uele": {
+"drop": true
+},
+"uchapasi": {
+"drop": true
+},
+"kota": {
+"drop": true
+},
+"bakaa": {
+"drop": true
+},
+"nyunyu": {
+"drop": true
+},
+"ushenzi": {
+"drop": true
+},
+"buda": {
+"drop": true
+},
+"utenguzi": {
+"drop": true
+},
+"kaizari": {
+"drop": true
+},
+"kudumia": {
+"drop": true
+},
+"kugota": {
+"drop": true
+},
+"kutinya": {
+"drop": true
+},
+"lapa": {
+"drop": true
+},
+"mtanda": {
+"drop": true
+},
+"mnyamwezi": {
+"drop": true
+},
+"mteuzi": {
+"drop": true
+},
+"mwanaabudu": {
+"drop": true
+},
+"govi": {
+"drop": true
+},
+"naima": {
+"drop": true
+},
+"resi": {
+"drop": true
+},
+"kengo": {
+"drop": true
+},
+"kifu": {
+"drop": true
+},
+"muchanga": {
+"drop": true
+},
+"-asiria": {
+"drop": true
+},
+"asilani": {
+"drop": true
+},
+"mbibo": {
+"drop": true
+},
+"bobo": {
+"drop": true
+},
+"mfuto": {
+"drop": true
+},
+"chazo": {
+"drop": true
+},
+"domo": {
+"drop": true
+},
+"fofofo": {
+"drop": true
+},
+"jazo": {
+"drop": true
+},
+"juju": {
+"drop": true
+},
+"kauri": {
+"drop": true
+},
+"kijogoo": {
+"drop": true
+},
+"kikombo": {
+"drop": true
+},
+"changizo": {
+"drop": true
+},
+"kimako": {
+"drop": true
+},
+"chumo": {
+"drop": true
+},
+"waa": {
+"drop": true
+},
+"guru": {
+"drop": true
+},
+"jamala": {
+"drop": true
+},
+"kitoria": {
+"drop": true
+},
+"koa": {
+"drop": true
+},
+"kibandiko": {
+"drop": true
+},
+"gololi": {
+"drop": true
+},
+"kituka": {
+"drop": true
+},
+"kuhanikiza": {
+"drop": true
+},
+"kuinika": {
+"drop": true
+},
+"kukirimu": {
+"drop": true
+},
+"kunyuka": {
+"drop": true
+},
+"kurauka": {
+"drop": true
+},
+"kuyu": {
+"drop": true
+},
+"kushuru": {
+"drop": true
+},
+"kutepeta": {
+"drop": true
+},
+"unono": {
+"drop": true
+},
+"kitale": {
+"drop": true
+},
+"mwimo": {
+"drop": true
+},
+"thenashara": {
+"pos": "num",
+"posName": "numeral",
+"gloss": "twelve"
+},
+"ajizi": {
+"pos": "adj",
+"posName": "adjective",
+"gloss": "weak; powerless; ineffectual"
+},
+"metali": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "metal"
+},
+"opera": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "opera"
+},
+"kongresi": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "congress"
+},
+"mbayuwayu": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "swallow (bird)"
+},
+"senati": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "senate"
+},
+"konstebo": {
+"pos": "n",
+"posName": "noun (m-/wa- class, pl. wakonstebo)",
+"gloss": "constable"
+},
+"pundamilia": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "zebra"
+},
+"ziro": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "zero"
+},
+"uongozaji": {
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "guidance; navigation"
+},
+"utupaji": {
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "throwing away; disposal"
+},
+"kanusho": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "denial; disclaimer"
+},
+"vitimbi": {
+"pos": "n",
+"posName": "noun (vi- class, plural only)",
+"gloss": "antics; odd behaviour"
+},
+"nuksi": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "bad luck"
+},
+"bwanyenye": {
+"gloss": "wealthy person; rich man"
+},
+"kipenyo": {
+"gloss": "diameter"
+},
+"kuadhirika": {
+"gloss": "to be humiliated; to be disgraced"
+},
+"kuogea": {
+"gloss": "to bathe in; to wash with"
+},
+"ukwaju": {
+"gloss": "tamarind"
+},
+"sharifu": {
+"gloss": "noble; honourable"
+},
+"kupeta": {
+"gloss": "to winnow; to bend"
+},
+"muhindi": {
+"gloss": "maize plant; corn"
+},
+"unyumba": {
+"gloss": "married life; marital relations"
+},
+"ulizo": {
+"gloss": "question"
+},
+"daku": {
+"gloss": "pre-dawn meal (during Ramadan)"
+},
+"kuchokonoa": {
+"gloss": "to poke; to pry; to provoke"
+},
+"takrima": {
+"gloss": "hospitality; gift (to voters)"
+},
+"kikoa": {
+"gloss": "domain; sphere"
+},
+"dumu": {
+"gloss": "jerrycan; large tin"
+},
+"kujikongoja": {
+"gloss": "to totter; to stagger"
+},
+"kulega": {
+"gloss": "to be loose; to hang loose"
+},
+"kuvutika": {
+"gloss": "to suffer; to be attracted"
+},
+"matapishi": {
+"gloss": "vomit"
+},
+"unyago": {
+"gloss": "initiation rites"
+},
+"ngonjera": {
+"gloss": "poem recited in turns"
+},
+"kukengeuka": {
+"gloss": "to deviate; to go astray"
+},
+"mchunga": {
+"gloss": "herder; shepherd; guard"
+},
+"baka": {
+"gloss": "stain; blotch; mark on the body"
+},
+"kiambato": {
+"gloss": "ingredient; component"
+},
+"kuaziri": {
+"gloss": "to disgrace; to degrade"
+},
+"utosi": {
+"gloss": "crown of the head"
+},
+"mtungaji": {
+"gloss": "composer; author"
+},
+"mchokozi": {
+"gloss": "provoker; troublemaker"
+},
+"kucharaza": {
+"gloss": "to beat; to whip; to strum"
+},
+"kuganga": {
+"gloss": "to heal; to treat (traditionally)"
+},
+"kuimbisha": {
+"gloss": "to lead singing"
+},
+"kulangua": {
+"gloss": "to profiteer; to overcharge"
+},
+"kisulisuli": {
+"gloss": "whirlwind; dust devil"
+},
+"mkonga": {
+"gloss": "elephant's trunk"
+},
+"sharubu": {
+"gloss": "moustache"
+},
+"machezo": {
+"gloss": "entertainment; games; tricks"
+},
+"uswahili": {
+"gloss": "Swahili culture; Swahili ways"
+},
+"kipeo": {
+"gloss": "apex; ideal"
+},
+"kufululiza": {
+"gloss": "to keep on; to continue non-stop"
+},
+"kusanidi": {
+"gloss": "to configure; to set up"
+},
+"kupota": {
+"gloss": "to twist; to spin (thread)"
+},
+"mbatata": {
+"gloss": "sweet potato; potato"
+},
+"guu": {
+"gloss": "leg; foot"
+},
+"nguri": {
+"drop": true
+},
+"parade": {
+"drop": true
+},
+"malishoni": {
+"drop": true
+},
+"pingili": {
+"drop": true
+},
+"sunzu": {
+"drop": true
+},
+"tando": {
+"drop": true
+},
+"mbugi": {
+"drop": true
+},
+"teolojia": {
+"drop": true
+},
+"bangwa": {
+"drop": true
+},
+"biwi": {
+"drop": true
+},
+"chango": {
+"drop": true
+},
+"dede": {
+"drop": true
+},
+"eropleni": {
+"drop": true
+},
+"gana": {
+"drop": true
+},
+"gunzi": {
+"drop": true
+},
+"joshi": {
+"drop": true
+},
+"edeni": {
+"drop": true
+},
+"zani": {
+"drop": true
+},
+"kuadimisha": {
+"drop": true
+},
+"kudu": {
+"drop": true
+},
+"kufyata": {
+"drop": true
+},
+"kukomea": {
+"drop": true
+},
+"kurina": {
+"drop": true
+},
+"kutomasa": {
+"drop": true
+},
+"kuzidua": {
+"drop": true
+},
+"liwato": {
+"drop": true
+},
+"mboko": {
+"drop": true
+},
+"mguto": {
+"drop": true
+},
+"mkowa": {
+"drop": true
+},
+"mkorogo": {
+"drop": true
+},
+"mshamba": {
+"drop": true
+},
+"mshirazi": {
+"drop": true
+},
+"ndara": {
+"drop": true
+},
+"myunani": {
+"drop": true
+},
+"suri": {
+"drop": true
+},
+"mwiwa": {
+"drop": true
+},
+"ndenge": {
+"drop": true
+},
+"vivi": {
+"drop": true
+},
+"kidau": {
+"drop": true
+},
+"pesheni": {
+"drop": true
+},
+"-mui": {
+"drop": true
+},
+"sapa": {
+"drop": true
+},
+"tora": {
+"drop": true
+},
+"chazi": {
+"drop": true
+},
+"kawa": {
+"drop": true
+},
+"wendo": {
+"drop": true
+},
+"kiana": {
+"drop": true
+},
+"kiswa": {
+"drop": true
+},
+"pengi": {
+"drop": true
+},
+"umbu": {
+"drop": true
+},
+"-aali": {
+"drop": true
+},
+"-jahili": {
+"drop": true
+},
+"ankra": {
+"drop": true
+},
+"arifiwa": {
+"drop": true
+},
+"lofa": {
+"drop": true
+},
+"ashirafu": {
+"drop": true
+},
+"mbigili": {
+"drop": true
+},
+"kuko": {
+"drop": true
+},
+"boza": {
+"drop": true
+},
+"bungo": {
+"drop": true
+},
+"mkaka": {
+"drop": true
+},
+"chaa": {
+"drop": true
+},
+"chichi": {
+"drop": true
+},
+"msandali": {
+"drop": true
+},
+"dalia": {
+"drop": true
+},
+"mtaimbo": {
+"drop": true
+},
+"mteta": {
+"drop": true
+},
+"doti": {
+"drop": true
+},
+"fukuto": {
+"drop": true
+},
+"fulanifulani": {
+"drop": true
+},
+"ghaibu": {
+"drop": true
+},
+"gozi": {
+"drop": true
+},
+"gumi": {
+"drop": true
+},
+"kore": {
+"drop": true
+},
+"jaja": {
+"drop": true
+},
+"jamu": {
+"drop": true
+},
+"jongo": {
+"drop": true
+},
+"buruji": {
+"drop": true
+},
+"jumu": {
+"drop": true
+},
+"kamukunji": {
+"drop": true
+},
+"kapa": {
+"drop": true
+},
+"kele": {
+"drop": true
+},
+"kikome": {
+"drop": true
+},
+"batobato": {
+"drop": true
+},
+"kilindo": {
+"drop": true
+},
+"kimakonde": {
+"drop": true
+},
+"kiswidi": {
+"drop": true
+},
+"denge": {
+"drop": true
+},
+"kixhosa": {
+"drop": true
+},
+"korokoroni": {
+"drop": true
+},
+"kuamia": {
+"drop": true
+},
+"kuangaliana": {
+"drop": true
+},
+"kubai": {
+"drop": true
+},
+"kuchabanga": {
+"drop": true
+},
+"kuchuguza": {
+"drop": true
+},
+"kara": {
+"drop": true
+},
+"kuda": {
+"drop": true
+},
+"kudodosa": {
+"drop": true
+},
+"kudokoa": {
+"drop": true
+},
+"kuenza": {
+"drop": true
+},
+"kiigbo": {
+"drop": true
+},
+"kufurisha": {
+"drop": true
+},
+"kujikusuru": {
+"drop": true
+},
+"kome": {
+"drop": true
+},
+"kukema": {
+"drop": true
+},
+"kuokoteza": {
+"drop": true
+},
+"mlia": {
+"drop": true
+},
+"mrongo": {
+"drop": true
+},
+"kutambuka": {
+"drop": true
+},
+"mtwana": {
+"drop": true
+},
+"lamba": {
+"drop": true
+},
+"kuvunga": {
+"drop": true
+},
+"lele": {
+"drop": true
+},
+"lingo": {
+"drop": true
+},
+"makatili": {
+"drop": true
+},
+"nyato": {
+"drop": true
+},
+"pambaja": {
+"drop": true
+},
+"mbuji": {
+"drop": true
+},
+"mbura": {
+"drop": true
+},
+"mchile": {
+"drop": true
+},
+"rima": {
+"drop": true
+},
+"mhabeshi": {
+"drop": true
+},
+"tepu": {
+"drop": true
+},
+"mkware": {
+"drop": true
+},
+"mlisha": {
+"drop": true
+},
+"msimo": {
+"drop": true
+},
+"muarubaini": {
+"drop": true
+},
+"mbono": {
+"drop": true
+},
+"mwari": {
+"drop": true
+},
+"mwia": {
+"drop": true
+},
+"uvuvio": {
+"drop": true
+},
+"-churo": {
+"drop": true
+},
+"ngebe": {
+"drop": true
+},
+"nyonyo": {
+"drop": true
+},
+"pimbi": {
+"drop": true
+},
+"amari": {
+"drop": true
+},
+"rijali": {
+"drop": true
+},
+"shangingi": {
+"drop": true
+},
+"kishada": {
+"drop": true
+},
+"atomi": {
+"drop": true
+},
+"shata": {
+"drop": true
+},
+"shombo": {
+"drop": true
+},
+"bandu": {
+"drop": true
+},
+"sijambo": {
+"drop": true
+},
+"simile": {
+"drop": true
+},
+"taahira": {
+"drop": true
+},
+"dhumna": {
+"drop": true
+},
+"tayo": {
+"drop": true
+},
+"thubutu": {
+"drop": true
+},
+"tojo": {
+"drop": true
+},
+"gali": {
+"drop": true
+},
+"gunda": {
+"drop": true
+},
+"utesi": {
+"drop": true
+},
+"wano": {
+"drop": true
+},
+"karima": {
+"drop": true
+},
+"zeruzeru": {
+"drop": true
+},
+"kiesperanto": {
+"drop": true
+},
+"kigambo": {
+"drop": true
+},
+"kikae": {
+"drop": true
+},
+"kikope": {
+"drop": true
+},
+"kubarikia": {
+"drop": true
+},
+"kualisha": {
+"drop": true
+},
+"kuhala": {
+"drop": true
+},
+"kushaka": {
+"drop": true
+},
+"kutohoa": {
+"drop": true
+},
+"mlombo": {
+"drop": true
+},
+"msuka": {
+"drop": true
+},
+"ngariba": {
+"drop": true
+},
+"popobawa": {
+"drop": true
+},
+"sandarusi": {
+"drop": true
+},
+"simbo": {
+"drop": true
+},
+"sumba": {
+"drop": true
+},
+"tutuo": {
+"drop": true
+},
+"uchuro": {
+"drop": true
+},
+"milia": {
+"drop": true
+},
+"kuagia": {
+"drop": true
+},
+"fumba": {
+"drop": true
+},
+"-anisi": {
+"drop": true
+},
+"-bembe": {
+"drop": true
+},
+"-dogodogo": {
+"drop": true
+},
+"-juvi": {
+"drop": true
+},
+"-tege": {
+"drop": true
+},
+"adana": {
+"drop": true
+},
+"ajemi": {
+"drop": true
+},
+"kilete": {
+"drop": true
+},
+"bahasa": {
+"drop": true
+},
+"kimwana": {
+"drop": true
+},
+"bambo": {
+"drop": true
+},
+"bimkubwa": {
+"drop": true
+},
+"buruhani": {
+"drop": true
+},
+"buye": {
+"drop": true
+},
+"bwerere": {
+"drop": true
+},
+"chakari": {
+"drop": true
+},
+"chando": {
+"drop": true
+},
+"chang'aa": {
+"drop": true
+},
+"charo": {
+"drop": true
+},
+"chomo": {
+"drop": true
+},
+"chuni": {
+"drop": true
+},
+"dago": {
+"drop": true
+},
+"dezo": {
+"drop": true
+},
+"mbiya": {
+"drop": true
+},
+"dila": {
+"drop": true
+},
+"dugu": {
+"drop": true
+},
+"mgema": {
+"drop": true
+},
+"ebo": {
+"drop": true
+},
+"mkamba": {
+"drop": true
+},
+"futuhi": {
+"drop": true
+},
+"gubigubi": {
+"drop": true
+},
+"halo": {
+"drop": true
+},
+"ndorobo": {
+"drop": true
+},
+"hamnazo": {
+"drop": true
+},
+"inna": {
+"drop": true
+},
+"sahaba": {
+"drop": true
+},
+"juakali": {
+"drop": true
+},
+"kaji": {
+"drop": true
+},
+"kania": {
+"drop": true
+},
+"tola": {
+"drop": true
+},
+"kasiki": {
+"drop": true
+},
+"kasma": {
+"drop": true
+},
+"kauzu": {
+"drop": true
+},
+"kiafrikaans": {
+"drop": true
+},
+"kiambata": {
+"drop": true
+},
+"buki": {
+"drop": true
+},
+"buu": {
+"drop": true
+},
+"kifungio": {
+"drop": true
+},
+"kigoli": {
+"drop": true
+},
+"kigono": {
+"drop": true
+},
+"pezi": {
+"drop": true
+},
+"kiinilishe": {
+"drop": true
+},
+"kijaluo": {
+"drop": true
+},
+"kikazo": {
+"drop": true
+},
+"kimbelembele": {
+"drop": true
+},
+"kinyemi": {
+"drop": true
+},
+"kinyumba": {
+"drop": true
+},
+"kipusa": {
+"drop": true
+},
+"kiserbia": {
+"drop": true
+},
+"boflo": {
+"drop": true
+},
+"kiua": {
+"drop": true
+},
+"kiunguja": {
+"drop": true
+},
+"kiurdu": {
+"drop": true
+},
+"chira": {
+"drop": true
+},
+"kizio": {
+"drop": true
+},
+"kizuizini": {
+"drop": true
+},
+"kizushi": {
+"drop": true
+},
+"diko": {
+"drop": true
+},
+"kuanua": {
+"drop": true
+},
+"kubambika": {
+"drop": true
+},
+"kubarizi": {
+"drop": true
+},
+"kubwia": {
+"drop": true
+},
+"kudadavua": {
+"drop": true
+},
+"kudondoa": {
+"drop": true
+},
+"kuekua": {
+"drop": true
+},
+"kufumuka": {
+"drop": true
+},
+"kufutuka": {
+"drop": true
+},
+"kughasi": {
+"drop": true
+},
+"kugida": {
+"drop": true
+},
+"kuhalibu": {
+"drop": true
+},
+"kuhima": {
+"drop": true
+},
+"kuhini": {
+"drop": true
+},
+"kuhiri": {
+"drop": true
+},
+"kuhizi": {
+"drop": true
+},
+"kujihimu": {
+"drop": true
+},
+"kulalamia": {
+"drop": true
+},
+"kumung'unya": {
+"drop": true
+},
+"kung'aka": {
+"drop": true
+},
+"kungwi": {
+"drop": true
+},
+"kuruta": {
+"drop": true
+},
+"kuongoa": {
+"drop": true
+},
+"kupena": {
+"drop": true
+},
+"kurea": {
+"drop": true
+},
+"kuru": {
+"drop": true
+},
+"kurusu": {
+"drop": true
+},
+"usonji": {
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "autism"
+},
+"ufutaji": {
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "deletion; erasing"
+},
+"mbwamwitu": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "wolf; wild dog"
+},
+"baisikeli": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "bicycle"
+},
+"katekesi": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "catechesis"
+},
+"antibiotiki": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "antibiotic"
+},
+"uhindu": {
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "Hinduism"
+},
+"muflisi": {
+"pos": "n",
+"posName": "noun (m-/wa- class, pl. wafilisi)",
+"gloss": "bankrupt person"
+},
+"kifimbo": {
+"gloss": "stick; cane"
+},
+"kitambi": {
+"gloss": "paunch; belly"
+},
+"mwambo": {
+"gloss": "custom; rite; ritual"
+},
+"unyogovu": {
+"gloss": "depression; dejection"
+},
+"uaguzi": {
+"gloss": "divination; prediction"
+},
+"kukandika": {
+"gloss": "to plaster; to apply (mud)"
+},
+"kukazana": {
+"gloss": "to try hard; to persevere"
+},
+"kufisidi": {
+"gloss": "to corrupt; to embezzle"
+},
+"kulipisha": {
+"gloss": "to make someone pay; to charge"
+},
+"kukita": {
+"gloss": "to take root; to be firmly fixed"
+},
+"chondechonde": {
+"gloss": "please; I beg you"
+},
+"fatiha": {
+"gloss": "Fatiha (opening chapter of the Quran)"
+},
+"welekeo": {
+"gloss": "direction; orientation; attitude"
+},
+"malago": {
+"drop": true
+},
+"kusachi": {
+"drop": true
+},
+"kusagika": {
+"drop": true
+},
+"kusanifu": {
+"drop": true
+},
+"mkama": {
+"drop": true
+},
+"kusara": {
+"drop": true
+},
+"mnyaa": {
+"drop": true
+},
+"mshihiri": {
+"drop": true
+},
+"mtalimbo": {
+"drop": true
+},
+"kutoma": {
+"drop": true
+},
+"kuzindika": {
+"drop": true
+},
+"kwakwa": {
+"drop": true
+},
+"lelemama": {
+"drop": true
+},
+"lepe": {
+"drop": true
+},
+"linta": {
+"drop": true
+},
+"majimoto": {
+"drop": true
+},
+"makadara": {
+"drop": true
+},
+"maksai": {
+"drop": true
+},
+"sotoka": {
+"drop": true
+},
+"matuko": {
+"drop": true
+},
+"mbantu": {
+"drop": true
+},
+"ugoro": {
+"drop": true
+},
+"mbuge": {
+"drop": true
+},
+"ukindu": {
+"drop": true
+},
+"mchapo": {
+"drop": true
+},
+"mchecheto": {
+"drop": true
+},
+"mchunaji": {
+"drop": true
+},
+"mdadi": {
+"drop": true
+},
+"mgoli": {
+"drop": true
+},
+"mgude": {
+"drop": true
+},
+"maangalizi": {
+"drop": true
+},
+"mguno": {
+"drop": true
+},
+"mbisho": {
+"drop": true
+},
+"mhaya": {
+"drop": true
+},
+"mchongoma": {
+"drop": true
+},
+"mjesuti": {
+"drop": true
+},
+"mkingamo": {
+"drop": true
+},
+"mkulia": {
+"drop": true
+},
+"mmeo": {
+"drop": true
+},
+"mmeru": {
+"drop": true
+},
+"-keto": {
+"drop": true
+},
+"mnyakyusa": {
+"drop": true
+},
+"alpu": {
+"drop": true
+},
+"mnyange": {
+"drop": true
+},
+"mrejeo": {
+"drop": true
+},
+"msaji": {
+"drop": true
+},
+"mshoro": {
+"drop": true
+},
+"boji": {
+"drop": true
+},
+"mtondogoo": {
+"drop": true
+},
+"mtonga": {
+"drop": true
+},
+"mtungo": {
+"drop": true
+},
+"muo": {
+"drop": true
+},
+"mwajimbo": {
+"drop": true
+},
+"deraya": {
+"drop": true
+},
+"mwandazi": {
+"drop": true
+},
+"dereli": {
+"drop": true
+},
+"mwande": {
+"drop": true
+},
+"mwango": {
+"drop": true
+},
+"diro": {
+"drop": true
+},
+"dumuzi": {
+"drop": true
+},
+"myeyusho": {
+"drop": true
+},
+"nari": {
+"drop": true
+},
+"fiwi": {
+"drop": true
+},
+"ndubi": {
+"drop": true
+},
+"ndumba": {
+"drop": true
+},
+"gae": {
+"drop": true
+},
+"gendi": {
+"drop": true
+},
+"ngeu": {
+"drop": true
+},
+"ngogo": {
+"drop": true
+},
+"nunda": {
+"drop": true
+},
+"hando": {
+"drop": true
+},
+"nyarubanja": {
+"drop": true
+},
+"hansa": {
+"drop": true
+},
+"heba": {
+"drop": true
+},
+"opereta": {
+"drop": true
+},
+"jabari": {
+"drop": true
+},
+"pambazuka": {
+"drop": true
+},
+"pambika": {
+"drop": true
+},
+"kamsa": {
+"drop": true
+},
+"peku": {
+"drop": true
+},
+"rui": {
+"drop": true
+},
+"sabasi": {
+"drop": true
+},
+"kedi": {
+"drop": true
+},
+"keria": {
+"drop": true
+},
+"shufwa": {
+"drop": true
+},
+"shushu": {
+"drop": true
+},
+"kibirinzi": {
+"drop": true
+},
+"sononeko": {
+"drop": true
+},
+"susu": {
+"drop": true
+},
+"tafu": {
+"drop": true
+},
+"taki": {
+"drop": true
+},
+"tashtiti": {
+"drop": true
+},
+"kishungi": {
+"drop": true
+},
+"tenge": {
+"drop": true
+},
+"kitango": {
+"drop": true
+},
+"tiki": {
+"drop": true
+},
+"kivo": {
+"drop": true
+},
+"kuafu": {
+"drop": true
+},
+"ubadilikaji": {
+"drop": true
+},
+"ubwete": {
+"drop": true
+},
+"ugoigoi": {
+"drop": true
+},
+"usubi": {
+"drop": true
+},
+"ususi": {
+"drop": true
+},
+"valvu": {
+"drop": true
+},
+"vinyoya": {
+"drop": true
+},
+"kulika": {
+"drop": true
+},
+"vumba": {
+"drop": true
+},
+"vuu": {
+"drop": true
+},
+"wango": {
+"drop": true
+},
+"wimbaji": {
+"drop": true
+},
+"zongo": {
+"drop": true
+},
+"kutotama": {
+"drop": true
+},
+"kwatika": {
+"drop": true
+},
+"makwenu": {
+"drop": true
+},
+"mfanyi": {
+"drop": true
+},
+"mjohoro": {
+"drop": true
+},
+"mkumbi": {
+"drop": true
+},
+"mlimo": {
+"drop": true
+},
+"ndigana": {
+"drop": true
+},
+"nduma": {
+"drop": true
+},
+"ngabu": {
+"drop": true
+},
+"ngeja": {
+"drop": true
+},
+"nyonda": {
+"drop": true
+},
+"rumbi": {
+"drop": true
+},
+"sefu": {
+"drop": true
+},
+"shamla": {
+"drop": true
+},
+"sheshe": {
+"drop": true
+},
+"shikio": {
+"drop": true
+},
+"shonga": {
+"drop": true
+},
+"sogora": {
+"drop": true
+},
+"taiti": {
+"drop": true
+},
+"teleka": {
+"drop": true
+},
+"tiara": {
+"drop": true
+},
+"tipitipi": {
+"drop": true
+},
+"tita": {
+"drop": true
+},
+"ulitima": {
+"drop": true
+},
+"uteule": {
+"drop": true
+},
+"uwatu": {
+"drop": true
+},
+"aheri": {
+"drop": true
+},
+"beri": {
+"drop": true
+},
+"debwani": {
+"drop": true
+},
+"kigego": {
+"drop": true
+},
+"koja": {
+"drop": true
+},
+"kutweta": {
+"drop": true
+},
+"laiki": {
+"drop": true
+},
+"mteke": {
+"drop": true
+},
+"munyu": {
+"drop": true
+},
+"tamvua": {
+"drop": true
+},
+"abadani": {
+"drop": true
+},
+"abunuwasi": {
+"drop": true
+},
+"achano": {
+"drop": true
+},
+"afrikanaizesheni": {
+"drop": true
+},
+"ajinabi": {
+"drop": true
+},
+"akthari": {
+"drop": true
+},
+"alamina": {
+"drop": true
+},
+"aluminiamu": {
+"drop": true
+},
+"ambrosi": {
+"drop": true
+},
+"arijojo": {
+"drop": true
+},
+"arshi": {
+"drop": true
+},
+"atlasi": {
+"drop": true
+},
+"bacha": {
+"drop": true
+},
+"baiti": {
+"drop": true
+},
+"bako": {
+"drop": true
+},
+"baraji": {
+"drop": true
+},
+"bato": {
+"drop": true
+},
+"baura": {
+"drop": true
+},
+"bazazi": {
+"drop": true
+},
+"benibeni": {
+"drop": true
+},
+"boharia": {
+"drop": true
+},
+"bugi": {
+"drop": true
+},
+"buheri": {
+"drop": true
+},
+"bunga": {
+"drop": true
+},
+"bungala": {
+"drop": true
+},
+"bunguu": {
+"drop": true
+},
+"bupu": {
+"drop": true
+},
+"busati": {
+"drop": true
+},
+"chakachaka": {
+"drop": true
+},
+"chalo": {
+"drop": true
+},
+"chamburo": {
+"drop": true
+},
+"chane": {
+"drop": true
+},
+"chapwa": {
+"drop": true
+},
+"chega": {
+"drop": true
+},
+"chichiri": {
+"drop": true
+},
+"chochole": {
+"drop": true
+},
+"chukuchuku": {
+"drop": true
+},
+"dafi": {
+"drop": true
+},
+"dafrao": {
+"drop": true
+},
+"daluga": {
+"drop": true
+},
+"dango": {
+"drop": true
+},
+"dapa": {
+"drop": true
+},
+"dasi": {
+"drop": true
+},
+"dawamu": {
+"drop": true
+},
+"dayani": {
+"drop": true
+},
+"dema": {
+"drop": true
+},
+"dhalili": {
+"drop": true
+},
+"dhii": {
+"drop": true
+},
+"dhikiri": {
+"drop": true
+},
+"dodi": {
+"drop": true
+},
+"domokaya": {
+"drop": true
+},
+"dondola": {
+"drop": true
+},
+"ehee": {
+"drop": true
+},
+"element": {
+"drop": true
+},
+"eleveta": {
+"drop": true
+},
+"epifania": {
+"drop": true
+},
+"fajaa": {
+"drop": true
+},
+"fali": {
+"drop": true
+},
+"fantasia": {
+"drop": true
+},
+"faridi": {
+"drop": true
+},
+"freshi": {
+"drop": true
+},
+"fulusi": {
+"drop": true
+},
+"fusho": {
+"drop": true
+},
+"fuzi": {
+"drop": true
+},
+"galacha": {
+"drop": true
+},
+"gandi": {
+"drop": true
+},
+"gango": {
+"drop": true
+},
+"ghilibu": {
+"drop": true
+},
+"gimba": {
+"drop": true
+},
+"glopu": {
+"drop": true
+},
+"gobori": {
+"drop": true
+},
+"gole": {
+"drop": true
+},
+"gube": {
+"drop": true
+},
+"gutu": {
+"drop": true
+},
+"hasada": {
+"drop": true
+},
+"heria": {
+"drop": true
+},
+"hijra": {
+"drop": true
+},
+"hitima": {
+"drop": true
+},
+"hobelahobela": {
+"drop": true
+},
+"hoihoi": {
+"drop": true
+},
+"hoka": {
+"drop": true
+},
+"hombo": {
+"drop": true
+},
+"homu": {
+"drop": true
+},
+"hoto": {
+"drop": true
+},
+"humusi": {
+"drop": true
+},
+"ilahi": {
+"drop": true
+},
+"insi": {
+"drop": true
+},
+"jagina": {
+"drop": true
+},
+"jamanda": {
+"drop": true
+},
+"jifya": {
+"drop": true
+},
+"jimbu": {
+"drop": true
+},
+"kabibu": {
+"drop": true
+},
+"kaga": {
+"drop": true
+},
+"kalasha": {
+"drop": true
+},
+"kalunguyeye": {
+"drop": true
+},
+"kamo": {
+"drop": true
+},
+"kamongo": {
+"drop": true
+},
+"kanama": {
+"drop": true
+},
+"kande": {
+"drop": true
+},
+"kanja": {
+"drop": true
+},
+"kanju": {
+"drop": true
+},
+"kaputa": {
+"drop": true
+},
+"karabai": {
+"drop": true
+},
+"karina": {
+"drop": true
+},
+"karisi": {
+"drop": true
+},
+"kasida": {
+"drop": true
+},
+"kaumwa": {
+"drop": true
+},
+"kazimba": {
+"drop": true
+},
+"keekee": {
+"drop": true
+},
+"kiambo": {
+"drop": true
+},
+"kiazisukari": {
+"drop": true
+},
+"kibavu": {
+"drop": true
+},
+"kibiongo": {
+"drop": true
+},
+"kibla": {
+"drop": true
+},
+"kibulgaria": {
+"drop": true
+},
+"kidokezi": {
+"drop": true
+},
+"kidosho": {
+"drop": true
+},
+"kifyefye": {
+"drop": true
+},
+"kiga": {
+"drop": true
+},
+"kigango": {
+"drop": true
+},
+"kigegezi": {
+"drop": true
+},
+"kigodo": {
+"drop": true
+},
+"kigumba": {
+"drop": true
+},
+"kiguru": {
+"drop": true
+},
+"kigwena": {
+"drop": true
+},
+"kijaa": {
+"drop": true
+},
+"kikaka": {
+"drop": true
+},
+"kikalenjin": {
+"drop": true
+},
+"kikalio": {
+"drop": true
+},
+"kikundu": {
+"drop": true
+},
+"kikwakwa": {
+"drop": true
+},
+"kilembwe": {
+"drop": true
+},
+"kilua": {
+"drop": true
+},
+"kimacho": {
+"drop": true
+},
+"kimanda": {
+"drop": true
+},
+"kimchango": {
+"drop": true
+},
+"kimongolia": {
+"drop": true
+},
+"kindakindaki": {
+"drop": true
+},
+"kinoo": {
+"drop": true
+},
+"kinyezi": {
+"drop": true
+},
+"kipemba": {
+"drop": true
+},
+"kipembe": {
+"drop": true
+},
+"kipooza": {
+"drop": true
+},
+"kiradi": {
+"drop": true
+},
+"kisanamu": {
+"drop": true
+},
+"kishimo": {
+"drop": true
+},
+"kitaji": {
+"drop": true
+},
+"kitende": {
+"drop": true
+},
+"kiuavijasumu": {
+"drop": true
+},
+"kiyeyusho": {
+"drop": true
+},
+"kizabizabina": {
+"drop": true
+},
+"kizibiti": {
+"drop": true
+},
+"kizuka": {
+"drop": true
+},
+"komo": {
+"drop": true
+},
+"komoni": {
+"drop": true
+},
+"korokoro": {
+"drop": true
+},
+"koto": {
+"drop": true
+},
+"kuadi": {
+"drop": true
+},
+"kuaili": {
+"drop": true
+},
+"kuamiri": {
+"drop": true
+},
+"kuamza": {
+"drop": true
+},
+"kuangatia": {
+"drop": true
+},
+"kuatilika": {
+"drop": true
+},
+"kubadilia": {
+"drop": true
+},
+"kubanza": {
+"drop": true
+},
+"kubari": {
+"drop": true
+},
+"kubera": {
+"drop": true
+},
+"kubini": {
+"drop": true
+},
+"kubuga": {
+"drop": true
+},
+"kubwata": {
+"drop": true
+},
+"kuchaga": {
+"drop": true
+},
+"kuchakura": {
+"drop": true
+},
+"kuchamba": {
+"drop": true
+},
+"kuchechemua": {
+"drop": true
+},
+"kuchezeana": {
+"drop": true
+},
+"kuchina": {
+"drop": true
+},
+"kuchupia": {
+"drop": true
+},
+"kuchuruzika": {
+"drop": true
+},
+"kudamka": {
+"drop": true
+},
+"kudhukuru": {
+"drop": true
+},
+"kudukiza": {
+"drop": true
+},
+"kudura": {
+"drop": true
+},
+"kuenenza": {
+"drop": true
+},
+"kuepua": {
+"drop": true
+},
+"kufanyiza": {
+"drop": true
+},
+"kufidika": {
+"drop": true
+},
+"kufungama": {
+"drop": true
+},
+"kufusa": {
+"drop": true
+},
+"kugea": {
+"drop": true
+},
+"kugharikisha": {
+"drop": true
+},
+"kughasiwa": {
+"drop": true
+},
+"kugongagonga": {
+"drop": true
+},
+"kugotea": {
+"drop": true
+},
+"kuguchia": {
+"drop": true
+},
+"kugugumia": {
+"drop": true
+},
+"kugura": {
+"drop": true
+},
+"kugwaya": {
+"drop": true
+},
+"kuhasi": {
+"drop": true
+},
+"kuheza": {
+"drop": true
+},
+"kuhirimia": {
+"drop": true
+},
+"kujanjaruka": {
+"drop": true
+},
+"kujifaragua": {
+"drop": true
+},
+"kukifu": {
+"drop": true
+},
+"kukinaisha": {
+"drop": true
+},
+"kukorofisha": {
+"drop": true
+},
+"kukukuta": {
+"drop": true
+},
+"kukumbaa": {
+"drop": true
+},
+"ukabaila": {
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "feudalism"
+},
+"uogeleaji": {
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "swimming"
+},
+"urukaji": {
+"pos": "n",
+"posName": "noun (u- class)",
+"gloss": "jumping"
+},
+"kaimati": {
+"gloss": "sweet fried dumpling"
+},
+"bunilizi": {
+"gloss": "fiction"
+},
+"liga": {
+"drop": true
+},
+"sakata": {
+"drop": true
+},
+"kongwa": {
+"drop": true
+},
+"ulanga": {
+"drop": true
+},
+"ngara": {
+"drop": true
+},
+"usa": {
+"drop": true
+},
+"kilifi": {
+"drop": true
+},
+"mkinga": {
+"drop": true
+},
+"pasifiki": {
+"drop": true
+},
+"wawe": {
+"drop": true
+},
+"kisukuma": {
+"drop": true
+},
+"kitunda": {
+"drop": true
+},
+"hama": {
+"drop": true
+},
+"tata": {
+"drop": true
+},
+"kumbu": {
+"drop": true
+},
+"ria": {
+"drop": true
+},
+"manda": {
+"drop": true
+},
+"mtenga": {
+"drop": true
+},
+"komba": {
+"drop": true
+},
+"kikorea": {
+"drop": true
+},
+"zulu": {
+"drop": true
+},
+"ikama": {
+"drop": true
+},
+"utawa": {
+"drop": true
+},
+"buza": {
+"drop": true
+},
+"tungi": {
+"drop": true
+},
+"kitete": {
+"drop": true
+},
+"mbande": {
+"drop": true
+},
+"kombaini": {
+"drop": true
+},
+"para": {
+"drop": true
+},
+"kiitalia": {
+"drop": true
+},
+"utete": {
+"drop": true
+},
+"ubini": {
+"drop": true
+},
+"kiki": {
+"drop": true
+},
+"lima": {
+"drop": true
+},
+"maige": {
+"drop": true
+},
+"utume": {
+"drop": true
+},
+"mkunguni": {
+"drop": true
+},
+"afua": {
+"drop": true
+},
+"amini": {
+"drop": true
+},
+"chacha": {
+"drop": true
+},
+"ghani": {
+"drop": true
+},
+"kumba": {
+"drop": true
+},
+"paje": {
+"drop": true
+},
+"singa": {
+"drop": true
+},
+"mata": {
+"drop": true
+},
+"mba": {
+"drop": true
+},
+"mbamba": {
+"drop": true
+},
+"mbia": {
+"drop": true
+},
+"mini": {
+"drop": true
+},
+"kigwe": {
+"drop": true
+},
+"nso": {
+"drop": true
+},
+"kitaya": {
+"drop": true
+},
+"kitiba": {
+"drop": true
+},
+"kichaga": {
+"drop": true
+},
+"kimia": {
+"drop": true
+},
+"msewe": {
+"drop": true
+},
+"naga": {
+"drop": true
+},
+"daa": {
+"drop": true
+},
+"kishona": {
+"drop": true
+},
+"mafa": {
+"drop": true
+},
+"afu": {
+"drop": true
+},
+"ushari": {
+"drop": true
+},
+"buka": {
+"drop": true
+},
+"choki": {
+"drop": true
+},
+"dunga": {
+"drop": true
+},
+"gema": {
+"drop": true
+},
+"haka": {
+"drop": true
+},
+"hodhi": {
+"drop": true
+},
+"jira": {
+"drop": true
+},
+"kimanzi": {
+"drop": true
+},
+"kindi": {
+"drop": true
+},
+"lodi": {
+"drop": true
+},
+"makame": {
+"drop": true
+},
+"mani": {
+"drop": true
+},
+"kitumbi": {
+"drop": true
+},
+"masa": {
+"drop": true
+},
+"matanda": {
+"drop": true
+},
+"maulana": {
+"drop": true
+},
+"mazingara": {
+"drop": true
+},
+"manawa": {
+"drop": true
+},
+"ramba": {
+"drop": true
+},
+"nisha": {
+"drop": true
+},
+"pau": {
+"drop": true
+},
+"ramia": {
+"drop": true
+},
+"uwanga": {
+"drop": true
+},
+"sila": {
+"drop": true
+},
+"sili": {
+"drop": true
+},
+"stahili": {
+"drop": true
+},
+"taathira": {
+"drop": true
+},
+"kianga": {
+"drop": true
+},
+"tura": {
+"drop": true
+},
+"uchama": {
+"drop": true
+},
+"kiwangwa": {
+"drop": true
+},
+"koga": {
+"drop": true
+},
+"unaibu": {
+"drop": true
+},
+"uru": {
+"drop": true
+},
+"ushinde": {
+"drop": true
+},
+"zio": {
+"drop": true
+},
+"loma": {
+"drop": true
+},
+"mlala": {
+"drop": true
+},
+"mtali": {
+"drop": true
+},
+"ogani": {
+"drop": true
+},
+"pama": {
+"drop": true
+},
+"silingi": {
+"drop": true
+},
+"taliki": {
+"drop": true
+},
+"buru": {
+"drop": true
+},
+"emu": {
+"drop": true
+},
+"kiamu": {
+"drop": true
+},
+"kidaka": {
+"drop": true
+},
+"kihodhi": {
+"drop": true
+},
+"kimba": {
+"drop": true
+},
+"laka": {
+"drop": true
+},
+"makiri": {
+"drop": true
+},
+"manyata": {
+"drop": true
+},
+"matege": {
+"drop": true
+},
+"mkole": {
+"drop": true
+},
+"sitara": {
+"drop": true
+},
+"ukambi": {
+"drop": true
+},
+"wasa": {
+"drop": true
+},
+"bembe": {
+"drop": true
+},
+"kiwa": {
+"drop": true
+},
+"muumba": {
+"pos": "n",
+"posName": "noun (m-/wa- class, pl. waumba)",
+"gloss": "creator"
+},
+"ombaomba": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "beggar"
+},
+"malenga": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "poet; bard"
+},
+"jaribu": {
+"pos": "n",
+"posName": "noun (n- class, same plural)",
+"gloss": "temptation; trial; attempt"
+},
+"idi": {
+"gloss": "Eid; festival"
+},
+"miliki": {
+"gloss": "possession; ownership"
+},
+"uwingi": {
+"gloss": "plurality; abundance"
+},
+"kipanya": {
+"gloss": "small mouse"
+},
+"akidi": {
+"gloss": "quorum"
+},
+"ubwana": {
+"gloss": "mastery; lordship"
+},
+"isimu": {
+"gloss": "linguistics"
+},
+"uki": {
+"gloss": "honey"
+},
+"nyerere": {
+"drop": true
+},
+"kike": {
+"drop": true
+},
+"wanawake": {
+"drop": true
+},
+"wanaume": {
+"drop": true
+}
+}

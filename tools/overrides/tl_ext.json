@@ -1,0 +1,2411 @@
+{
+ "_comment": "Hand edits for tools/extend_deck_tagalog.py (ranks 5,001+). _add: common Tagalog headwords that are missing from the Wiktionary tl-en export but are frequent in the web corpus (FineWeb-2 count > 150); glosses are written for this app and should be checked by a native speaker. _drop: words removed after review. Other keys override gloss / pos / posName for that headword.",
+ "_add": {
+  "parasito": {
+   "pos": "n",
+   "gloss": "parasite"
+  },
+  "gayunpaman": {
+   "pos": "conj",
+   "gloss": "however; nevertheless"
+  },
+  "layunin": {
+   "pos": "n",
+   "gloss": "purpose; goal; aim"
+  },
+  "programa": {
+   "pos": "n",
+   "gloss": "program; (TV or radio) show"
+  },
+  "kundi": {
+   "pos": "conj",
+   "gloss": "but rather; except; if not"
+  },
+  "tampok": {
+   "pos": "adj",
+   "gloss": "prominent; featured; (as noun) highlight"
+  },
+  "pwede": {
+   "pos": "adj",
+   "gloss": "can; may; possible; okay"
+  },
+  "merkado": {
+   "pos": "n",
+   "gloss": "market"
+  },
+  "ideya": {
+   "pos": "n",
+   "gloss": "idea"
+  },
+  "sapagkat": {
+   "pos": "conj",
+   "gloss": "because; since"
+  },
+  "kalamnan": {
+   "pos": "n",
+   "gloss": "muscle"
+  },
+  "samakatuwid": {
+   "pos": "adv",
+   "gloss": "therefore; thus"
+  },
+  "materyal": {
+   "pos": "n",
+   "gloss": "material"
+  },
+  "posibilidad": {
+   "pos": "n",
+   "gloss": "possibility"
+  },
+  "bersyon": {
+   "pos": "n",
+   "gloss": "version"
+  },
+  "pisikal": {
+   "pos": "adj",
+   "gloss": "physical"
+  },
+  "produksyon": {
+   "pos": "n",
+   "gloss": "production"
+  },
+  "kailanman": {
+   "pos": "adv",
+   "gloss": "ever; at any time; (with a negative) never"
+  },
+  "karaniwan": {
+   "pos": "adj",
+   "gloss": "usual; ordinary; common"
+  },
+  "nutrisyon": {
+   "pos": "n",
+   "gloss": "nutrition"
+  },
+  "anyos": {
+   "pos": "n",
+   "gloss": "years old; year of age"
+  },
+  "ukol": {
+   "pos": "post",
+   "gloss": "about; regarding; concerning"
+  },
+  "anuman": {
+   "pos": "pron",
+   "gloss": "whatever; anything"
+  },
+  "nakaraan": {
+   "pos": "adj",
+   "gloss": "past; previous; (as noun) the past"
+  },
+  "istraktura": {
+   "pos": "n",
+   "gloss": "structure"
+  },
+  "kabuuan": {
+   "pos": "n",
+   "gloss": "whole; totality; entirety"
+  },
+  "partido": {
+   "pos": "n",
+   "gloss": "(political) party"
+  },
+  "konsepto": {
+   "pos": "n",
+   "gloss": "concept"
+  },
+  "reaksyon": {
+   "pos": "n",
+   "gloss": "reaction"
+  },
+  "perpekto": {
+   "pos": "adj",
+   "gloss": "perfect"
+  },
+  "maskara": {
+   "pos": "n",
+   "gloss": "mask"
+  },
+  "planta": {
+   "pos": "n",
+   "gloss": "plant; factory"
+  },
+  "parmasya": {
+   "pos": "n",
+   "gloss": "pharmacy"
+  },
+  "katapusan": {
+   "pos": "n",
+   "gloss": "end; conclusion"
+  },
+  "kolehiyo": {
+   "pos": "n",
+   "gloss": "college"
+  },
+  "magsagawa": {
+   "pos": "v",
+   "gloss": "to carry out; to conduct; to perform"
+  },
+  "saloobin": {
+   "pos": "n",
+   "gloss": "opinion; feelings; attitude"
+  },
+  "kapasidad": {
+   "pos": "n",
+   "gloss": "capacity"
+  },
+  "komisyon": {
+   "pos": "n",
+   "gloss": "commission; committee"
+  },
+  "internasyonal": {
+   "pos": "adj",
+   "gloss": "international"
+  },
+  "krisis": {
+   "pos": "n",
+   "gloss": "crisis"
+  },
+  "tradisyunal": {
+   "pos": "adj",
+   "gloss": "traditional"
+  },
+  "yunit": {
+   "pos": "n",
+   "gloss": "unit"
+  },
+  "responsibilidad": {
+   "pos": "n",
+   "gloss": "responsibility"
+  },
+  "marka": {
+   "pos": "n",
+   "gloss": "mark; brand"
+  },
+  "praktikal": {
+   "pos": "adj",
+   "gloss": "practical"
+  },
+  "kasapi": {
+   "pos": "n",
+   "gloss": "member"
+  },
+  "katayuan": {
+   "pos": "n",
+   "gloss": "status; condition"
+  },
+  "imbakan": {
+   "pos": "n",
+   "gloss": "storage; storehouse"
+  },
+  "pulutong": {
+   "pos": "n",
+   "gloss": "crowd; group; band"
+  },
+  "puwesto": {
+   "pos": "n",
+   "gloss": "post; position; stall"
+  },
+  "kritikal": {
+   "pos": "adj",
+   "gloss": "critical"
+  },
+  "komportable": {
+   "pos": "adj",
+   "gloss": "comfortable"
+  },
+  "pagsasaayos": {
+   "pos": "n",
+   "gloss": "arrangement; adjustment; repair"
+  },
+  "kaguluhan": {
+   "pos": "n",
+   "gloss": "disorder; chaos; commotion"
+  },
+  "propeta": {
+   "pos": "n",
+   "gloss": "prophet"
+  },
+  "kahihinatnan": {
+   "pos": "n",
+   "gloss": "consequence; outcome"
+  },
+  "daluyan": {
+   "pos": "n",
+   "gloss": "channel; passage"
+  },
+  "istasyon": {
+   "pos": "n",
+   "gloss": "station"
+  },
+  "atensyon": {
+   "pos": "n",
+   "gloss": "attention"
+  },
+  "pawang": {
+   "pos": "adv",
+   "gloss": "all; nothing but; mere"
+  },
+  "isagawa": {
+   "pos": "v",
+   "gloss": "to carry out; to perform"
+  },
+  "kanela": {
+   "pos": "n",
+   "gloss": "cinnamon"
+  },
+  "proteksiyon": {
+   "pos": "n",
+   "gloss": "protection"
+  },
+  "kaayusan": {
+   "pos": "n",
+   "gloss": "order; orderliness; arrangement"
+  },
+  "peligro": {
+   "pos": "n",
+   "gloss": "danger; risk"
+  },
+  "konti": {
+   "pos": "adj",
+   "gloss": "a little; few"
+  },
+  "kolesterol": {
+   "pos": "n",
+   "gloss": "cholesterol"
+  },
+  "protesta": {
+   "pos": "n",
+   "gloss": "protest"
+  },
+  "konteksto": {
+   "pos": "n",
+   "gloss": "context"
+  },
+  "menor": {
+   "pos": "adj",
+   "gloss": "minor; lesser"
+  },
+  "konstruksiyon": {
+   "pos": "n",
+   "gloss": "construction"
+  },
+  "pwersa": {
+   "pos": "n",
+   "gloss": "force; power"
+  },
+  "sambahayan": {
+   "pos": "n",
+   "gloss": "household"
+  },
+  "pribado": {
+   "pos": "adj",
+   "gloss": "private"
+  },
+  "minahan": {
+   "pos": "n",
+   "gloss": "mine (excavation)"
+  },
+  "marumi": {
+   "pos": "adj",
+   "gloss": "dirty; filthy"
+  },
+  "komite": {
+   "pos": "n",
+   "gloss": "committee"
+  },
+  "siyudad": {
+   "pos": "n",
+   "gloss": "city"
+  },
+  "negatibo": {
+   "pos": "adj",
+   "gloss": "negative"
+  },
+  "katwiran": {
+   "pos": "n",
+   "gloss": "reason; reasoning; argument"
+  },
+  "gwapo": {
+   "pos": "adj",
+   "gloss": "handsome"
+  },
+  "tisyu": {
+   "pos": "n",
+   "gloss": "tissue"
+  },
+  "iniksyon": {
+   "pos": "n",
+   "gloss": "injection"
+  },
+  "nawa": {
+   "pos": "part",
+   "gloss": "hopefully; may it be so"
+  },
+  "otoridad": {
+   "pos": "n",
+   "gloss": "authority"
+  },
+  "lutuin": {
+   "pos": "v",
+   "gloss": "to cook (something)"
+  },
+  "produktibo": {
+   "pos": "adj",
+   "gloss": "productive"
+  },
+  "probisyon": {
+   "pos": "n",
+   "gloss": "provision"
+  },
+  "porma": {
+   "pos": "n",
+   "gloss": "form; shape"
+  },
+  "alerto": {
+   "pos": "adj",
+   "gloss": "alert; watchful"
+  },
+  "pederal": {
+   "pos": "adj",
+   "gloss": "federal"
+  },
+  "modyul": {
+   "pos": "n",
+   "gloss": "module"
+  },
+  "komiks": {
+   "pos": "n",
+   "gloss": "comic book; comics"
+  },
+  "biswal": {
+   "pos": "adj",
+   "gloss": "visual"
+  },
+  "kasukasuan": {
+   "pos": "n",
+   "gloss": "joint (of the body)"
+  },
+  "rekord": {
+   "pos": "n",
+   "gloss": "record"
+  },
+  "sitio": {
+   "pos": "n",
+   "gloss": "hamlet; small settlement"
+  },
+  "kakanyahan": {
+   "pos": "n",
+   "gloss": "essence; nature"
+  },
+  "konsultasyon": {
+   "pos": "n",
+   "gloss": "consultation"
+  },
+  "kontrobersyal": {
+   "pos": "adj",
+   "gloss": "controversial"
+  },
+  "muntik": {
+   "pos": "adv",
+   "gloss": "almost; nearly"
+  },
+  "resipe": {
+   "pos": "n",
+   "gloss": "recipe"
+  },
+  "pamimili": {
+   "pos": "n",
+   "gloss": "shopping"
+  },
+  "munisipyo": {
+   "pos": "n",
+   "gloss": "municipality; town hall"
+  },
+  "paraiso": {
+   "pos": "n",
+   "gloss": "paradise"
+  },
+  "sweldo": {
+   "pos": "n",
+   "gloss": "salary; wages"
+  },
+  "sibilyan": {
+   "pos": "n",
+   "gloss": "civilian"
+  },
+  "kultural": {
+   "pos": "adj",
+   "gloss": "cultural"
+  },
+  "elementarya": {
+   "pos": "n",
+   "gloss": "elementary school"
+  },
+  "kuro": {
+   "pos": "n",
+   "gloss": "opinion; thought"
+  },
+  "salungat": {
+   "pos": "adj",
+   "gloss": "opposing; contrary"
+  },
+  "pasado": {
+   "pos": "adj",
+   "gloss": "passed; accepted (as in an exam)"
+  },
+  "kagyat": {
+   "pos": "adj",
+   "gloss": "urgent; immediate"
+  },
+  "saanman": {
+   "pos": "adv",
+   "gloss": "wherever"
+  },
+  "menopos": {
+   "pos": "n",
+   "gloss": "menopause"
+  },
+  "asero": {
+   "pos": "n",
+   "gloss": "steel"
+  },
+  "kakumpitensya": {
+   "pos": "n",
+   "gloss": "competitor"
+  },
+  "ubod": {
+   "pos": "n",
+   "gloss": "core; pith; heart (of a palm)"
+  },
+  "abugado": {
+   "pos": "n",
+   "gloss": "lawyer"
+  },
+  "kard": {
+   "pos": "n",
+   "gloss": "card"
+  },
+  "priyoridad": {
+   "pos": "n",
+   "gloss": "priority"
+  },
+  "atraksyon": {
+   "pos": "n",
+   "gloss": "attraction"
+  },
+  "etniko": {
+   "pos": "adj",
+   "gloss": "ethnic"
+  },
+  "kargamento": {
+   "pos": "n",
+   "gloss": "cargo; shipment"
+  },
+  "ekonomiks": {
+   "pos": "n",
+   "gloss": "economics"
+  },
+  "bandera": {
+   "pos": "n",
+   "gloss": "flag; banner"
+  },
+  "korapsyon": {
+   "pos": "n",
+   "gloss": "corruption"
+  },
+  "uniberso": {
+   "pos": "n",
+   "gloss": "universe"
+  },
+  "kostumer": {
+   "pos": "n",
+   "gloss": "customer"
+  },
+  "kurikulum": {
+   "pos": "n",
+   "gloss": "curriculum"
+  },
+  "kirot": {
+   "pos": "n",
+   "gloss": "sharp pain; ache"
+  },
+  "pigura": {
+   "pos": "n",
+   "gloss": "frame; figure"
+  },
+  "kamera": {
+   "pos": "n",
+   "gloss": "camera"
+  },
+  "gulugod": {
+   "pos": "n",
+   "gloss": "spine; backbone"
+  },
+  "pakikiramay": {
+   "pos": "n",
+   "gloss": "condolence; sympathy"
+  },
+  "donya": {
+   "pos": "n",
+   "gloss": "madam; wealthy lady"
+  },
+  "akademiko": {
+   "pos": "adj",
+   "gloss": "academic"
+  },
+  "tutal": {
+   "pos": "conj",
+   "gloss": "since; after all; anyway"
+  },
+  "pormula": {
+   "pos": "n",
+   "gloss": "formula"
+  },
+  "parokya": {
+   "pos": "n",
+   "gloss": "parish"
+  },
+  "kapitalista": {
+   "pos": "n",
+   "gloss": "capitalist"
+  },
+  "presentasyon": {
+   "pos": "n",
+   "gloss": "presentation"
+  },
+  "kolonyal": {
+   "pos": "adj",
+   "gloss": "colonial"
+  },
+  "mitolohiya": {
+   "pos": "n",
+   "gloss": "mythology"
+  },
+  "alerhiya": {
+   "pos": "n",
+   "gloss": "allergy"
+  },
+  "glandula": {
+   "pos": "n",
+   "gloss": "gland"
+  },
+  "globalisasyon": {
+   "pos": "n",
+   "gloss": "globalization"
+  },
+  "bakasyunan": {
+   "pos": "n",
+   "gloss": "vacation spot; resort"
+  },
+  "hubog": {
+   "pos": "adj",
+   "gloss": "drunk; intoxicated"
+  },
+  "balsamo": {
+   "pos": "n",
+   "gloss": "balm"
+  },
+  "torneo": {
+   "pos": "n",
+   "gloss": "tournament"
+  },
+  "sereno": {
+   "pos": "n",
+   "gloss": "night watchman"
+  },
+  "paltos": {
+   "pos": "n",
+   "gloss": "blister"
+  },
+  "almuranas": {
+   "pos": "n",
+   "gloss": "hemorrhoids"
+  },
+  "pambungad": {
+   "pos": "adj",
+   "gloss": "opening; introductory"
+  },
+  "tropikal": {
+   "pos": "adj",
+   "gloss": "tropical"
+  },
+  "kagutuman": {
+   "pos": "n",
+   "gloss": "hunger; famine"
+  },
+  "moralidad": {
+   "pos": "n",
+   "gloss": "morality"
+  },
+  "sansinukob": {
+   "pos": "n",
+   "gloss": "universe; cosmos"
+  },
+  "lisensyado": {
+   "pos": "adj",
+   "gloss": "licensed"
+  },
+  "demokratiko": {
+   "pos": "adj",
+   "gloss": "democratic"
+  },
+  "monumento": {
+   "pos": "n",
+   "gloss": "monument"
+  },
+  "matulungin": {
+   "pos": "adj",
+   "gloss": "helpful"
+  },
+  "hurno": {
+   "pos": "n",
+   "gloss": "oven; furnace"
+  },
+  "midya": {
+   "pos": "n",
+   "gloss": "media"
+  },
+  "musikero": {
+   "pos": "n",
+   "gloss": "musician"
+  },
+  "siruhano": {
+   "pos": "n",
+   "gloss": "surgeon"
+  },
+  "taripa": {
+   "pos": "n",
+   "gloss": "tariff"
+  },
+  "kawanggawa": {
+   "pos": "n",
+   "gloss": "charity"
+  },
+  "soberano": {
+   "pos": "adj",
+   "gloss": "sovereign"
+  },
+  "bidyo": {
+   "pos": "n",
+   "gloss": "video"
+  },
+  "kumpol": {
+   "pos": "n",
+   "gloss": "cluster; bunch; group"
+  },
+  "mandaragit": {
+   "pos": "n",
+   "gloss": "predator; beast of prey"
+  },
+  "sisidlan": {
+   "pos": "n",
+   "gloss": "container; receptacle"
+  },
+  "piyesta": {
+   "pos": "n",
+   "gloss": "feast; fiesta"
+  },
+  "kredibilidad": {
+   "pos": "n",
+   "gloss": "credibility"
+  },
+  "kastilyo": {
+   "pos": "n",
+   "gloss": "castle"
+  },
+  "pintor": {
+   "pos": "n",
+   "gloss": "painter"
+  },
+  "imbestigador": {
+   "pos": "n",
+   "gloss": "investigator"
+  },
+  "manikyur": {
+   "pos": "n",
+   "gloss": "manicure"
+  },
+  "anekdota": {
+   "pos": "n",
+   "gloss": "anecdote"
+  },
+  "saserdote": {
+   "pos": "n",
+   "gloss": "priest"
+  },
+  "kunot": {
+   "pos": "adj",
+   "gloss": "wrinkled; furrowed"
+  },
+  "nasyonalidad": {
+   "pos": "n",
+   "gloss": "nationality"
+  },
+  "mikroskopyo": {
+   "pos": "n",
+   "gloss": "microscope"
+  },
+  "pinal": {
+   "pos": "adj",
+   "gloss": "final"
+  },
+  "abstrak": {
+   "pos": "adj",
+   "gloss": "abstract"
+  },
+  "inobasyon": {
+   "pos": "n",
+   "gloss": "innovation"
+  },
+  "masdan": {
+   "pos": "v",
+   "gloss": "to behold; to look at"
+  },
+  "hamunin": {
+   "pos": "v",
+   "gloss": "to challenge"
+  },
+  "talikuran": {
+   "pos": "v",
+   "gloss": "to turn one's back on; to abandon"
+  },
+  "krudo": {
+   "pos": "n",
+   "gloss": "crude oil"
+  },
+  "sunugin": {
+   "pos": "v",
+   "gloss": "to burn (something)"
+  },
+  "nukleyar": {
+   "pos": "adj",
+   "gloss": "nuclear"
+  },
+  "inisyatibo": {
+   "pos": "n",
+   "gloss": "initiative"
+  },
+  "nasyonalismo": {
+   "pos": "n",
+   "gloss": "nationalism"
+  },
+  "punungkahoy": {
+   "pos": "n",
+   "gloss": "tree"
+  },
+  "kapitolyo": {
+   "pos": "n",
+   "gloss": "capitol; provincial capital"
+  },
+  "depinisyon": {
+   "pos": "n",
+   "gloss": "definition"
+  },
+  "ambulansya": {
+   "pos": "n",
+   "gloss": "ambulance"
+  },
+  "karnabal": {
+   "pos": "n",
+   "gloss": "carnival"
+  },
+  "eksema": {
+   "pos": "n",
+   "gloss": "eczema"
+  },
+  "mulat": {
+   "pos": "adj",
+   "gloss": "aware; awake; open-eyed"
+  },
+  "koton": {
+   "pos": "n",
+   "gloss": "cotton"
+  },
+  "isaisip": {
+   "pos": "v",
+   "gloss": "to keep in mind"
+  },
+  "alokasyon": {
+   "pos": "n",
+   "gloss": "allocation"
+  },
+  "anakpawis": {
+   "pos": "n",
+   "gloss": "laborer; worker"
+  },
+  "emerhensiya": {
+   "pos": "n",
+   "gloss": "emergency"
+  },
+  "paslit": {
+   "pos": "n",
+   "gloss": "small child; toddler"
+  },
+  "isakatuparan": {
+   "pos": "v",
+   "gloss": "to accomplish; to carry out"
+  },
+  "indeks": {
+   "pos": "n",
+   "gloss": "index"
+  },
+  "ulser": {
+   "pos": "n",
+   "gloss": "ulcer"
+  },
+  "kapeina": {
+   "pos": "n",
+   "gloss": "caffeine"
+  },
+  "popularidad": {
+   "pos": "n",
+   "gloss": "popularity"
+  },
+  "prodyuser": {
+   "pos": "n",
+   "gloss": "producer"
+  },
+  "panunumpa": {
+   "pos": "n",
+   "gloss": "oath; pledge"
+  },
+  "kolum": {
+   "pos": "n",
+   "gloss": "column"
+  },
+  "bulabugin": {
+   "pos": "v",
+   "gloss": "to disturb; to stir up"
+  },
+  "sabungan": {
+   "pos": "n",
+   "gloss": "cockpit; cockfighting arena"
+  },
+  "respondente": {
+   "pos": "n",
+   "gloss": "respondent"
+  },
+  "dayalogo": {
+   "pos": "n",
+   "gloss": "dialogue"
+  },
+  "kumander": {
+   "pos": "n",
+   "gloss": "commander"
+  },
+  "ekonomiko": {
+   "pos": "adj",
+   "gloss": "economic"
+  },
+  "klasikal": {
+   "pos": "adj",
+   "gloss": "classical"
+  },
+  "sarbey": {
+   "pos": "n",
+   "gloss": "survey"
+  },
+  "videoke": {
+   "pos": "n",
+   "gloss": "videoke; karaoke"
+  },
+  "parabula": {
+   "pos": "n",
+   "gloss": "parable"
+  },
+  "intensidad": {
+   "pos": "n",
+   "gloss": "intensity"
+  },
+  "eksaminasyon": {
+   "pos": "n",
+   "gloss": "examination"
+  },
+  "sampaguita": {
+   "pos": "n",
+   "gloss": "sampaguita; Philippine jasmine"
+  },
+  "esensya": {
+   "pos": "n",
+   "gloss": "essence"
+  },
+  "nutrisyonista": {
+   "pos": "n",
+   "gloss": "nutritionist"
+  },
+  "komonwelt": {
+   "pos": "n",
+   "gloss": "commonwealth"
+  },
+  "komplikado": {
+   "pos": "adj",
+   "gloss": "complicated"
+  },
+  "kubiko": {
+   "pos": "adj",
+   "gloss": "cubic"
+  },
+  "intelektuwal": {
+   "pos": "adj",
+   "gloss": "intellectual"
+  },
+  "nido": {
+   "pos": "n",
+   "gloss": "nest"
+  },
+  "komisyoner": {
+   "pos": "n",
+   "gloss": "commissioner"
+  },
+  "agrikultural": {
+   "pos": "adj",
+   "gloss": "agricultural"
+  },
+  "kompensasyon": {
+   "pos": "n",
+   "gloss": "compensation"
+  },
+  "nilay": {
+   "pos": "n",
+   "gloss": "contemplation; deep thought"
+  },
+  "karwahe": {
+   "pos": "n",
+   "gloss": "carriage; horse-drawn carriage"
+  },
+  "hitik": {
+   "pos": "adj",
+   "gloss": "laden; full of; abundant"
+  },
+  "midyum": {
+   "pos": "n",
+   "gloss": "medium"
+  },
+  "tropeo": {
+   "pos": "n",
+   "gloss": "trophy"
+  },
+  "seksiyon": {
+   "pos": "n",
+   "gloss": "section"
+  },
+  "patuyuin": {
+   "pos": "v",
+   "gloss": "to dry (something)"
+  },
+  "totoy": {
+   "pos": "n",
+   "gloss": "little boy; kid (term of address)"
+  },
+  "sandamakmak": {
+   "pos": "adj",
+   "gloss": "a great many; loads of"
+  },
+  "sombi": {
+   "pos": "n",
+   "gloss": "zombie"
+  },
+  "komprehensibo": {
+   "pos": "adj",
+   "gloss": "comprehensive"
+  },
+  "papet": {
+   "pos": "n",
+   "gloss": "puppet"
+  },
+  "parokyano": {
+   "pos": "n",
+   "gloss": "parishioner; customer; patron"
+  },
+  "sekta": {
+   "pos": "n",
+   "gloss": "sect"
+  },
+  "burgesya": {
+   "pos": "n",
+   "gloss": "bourgeoisie"
+  },
+  "kakatwa": {
+   "pos": "adj",
+   "gloss": "odd; strange; peculiar"
+  },
+  "presyur": {
+   "pos": "n",
+   "gloss": "pressure"
+  },
+  "gilalas": {
+   "pos": "adj",
+   "gloss": "amazed; astonished"
+  },
+  "konsyerto": {
+   "pos": "n",
+   "gloss": "concert"
+  },
+  "tuod": {
+   "pos": "n",
+   "gloss": "stump (of a tree)"
+  },
+  "agraryo": {
+   "pos": "adj",
+   "gloss": "agrarian"
+  },
+  "koro": {
+   "pos": "n",
+   "gloss": "chorus; choir"
+  },
+  "superbisor": {
+   "pos": "n",
+   "gloss": "supervisor"
+  },
+  "merito": {
+   "pos": "n",
+   "gloss": "merit"
+  },
+  "litratista": {
+   "pos": "n",
+   "gloss": "photographer"
+  },
+  "parlyamento": {
+   "pos": "n",
+   "gloss": "parliament"
+  },
+  "nilaga": {
+   "pos": "adj",
+   "gloss": "boiled; (as noun) boiled meat and vegetable soup"
+  },
+  "probabilidad": {
+   "pos": "n",
+   "gloss": "probability"
+  },
+  "irog": {
+   "pos": "n",
+   "gloss": "beloved; sweetheart"
+  },
+  "kwatro": {
+   "pos": "num",
+   "gloss": "four (Spanish-derived)"
+  },
+  "metodolohiya": {
+   "pos": "n",
+   "gloss": "methodology"
+  },
+  "karumihan": {
+   "pos": "n",
+   "gloss": "filth; dirtiness"
+  },
+  "protokol": {
+   "pos": "n",
+   "gloss": "protocol"
+  },
+  "kariktan": {
+   "pos": "n",
+   "gloss": "beauty; splendor"
+  },
+  "dyosa": {
+   "pos": "n",
+   "gloss": "goddess"
+  },
+  "proletaryado": {
+   "pos": "n",
+   "gloss": "proletariat"
+  },
+  "patpat": {
+   "pos": "n",
+   "gloss": "stick; thin branch"
+  },
+  "protestante": {
+   "pos": "n",
+   "gloss": "Protestant"
+  },
+  "prosekusyon": {
+   "pos": "n",
+   "gloss": "prosecution"
+  },
+  "atakihin": {
+   "pos": "v",
+   "gloss": "to attack"
+  },
+  "alkampor": {
+   "pos": "n",
+   "gloss": "camphor"
+  },
+  "ulirat": {
+   "pos": "n",
+   "gloss": "consciousness; senses"
+  },
+  "kwintas": {
+   "pos": "n",
+   "gloss": "necklace"
+  },
+  "seda": {
+   "pos": "n",
+   "gloss": "silk"
+  },
+  "klasipikasyon": {
+   "pos": "n",
+   "gloss": "classification"
+  },
+  "pruweba": {
+   "pos": "n",
+   "gloss": "proof; evidence"
+  },
+  "animasyon": {
+   "pos": "n",
+   "gloss": "animation"
+  },
+  "bangayan": {
+   "pos": "n",
+   "gloss": "quarrel; squabble"
+  },
+  "kubyerta": {
+   "pos": "n",
+   "gloss": "deck (of a ship)"
+  },
+  "rasismo": {
+   "pos": "n",
+   "gloss": "racism"
+  },
+  "karimlan": {
+   "pos": "n",
+   "gloss": "darkness; gloom"
+  },
+  "bulto": {
+   "pos": "n",
+   "gloss": "bundle; lump; bulge"
+  },
+  "sekular": {
+   "pos": "adj",
+   "gloss": "secular"
+  },
+  "antiseptiko": {
+   "pos": "adj",
+   "gloss": "antiseptic"
+  },
+  "aksesorya": {
+   "pos": "n",
+   "gloss": "accessory"
+  },
+  "akses": {
+   "pos": "n",
+   "gloss": "access"
+  },
+  "dyos": {
+   "pos": "n",
+   "gloss": "god"
+  },
+  "pawid": {
+   "pos": "n",
+   "gloss": "nipa thatch; thatch"
+  },
+  "historikal": {
+   "pos": "adj",
+   "gloss": "historical"
+  },
+  "silweta": {
+   "pos": "n",
+   "gloss": "silhouette"
+  },
+  "pederalismo": {
+   "pos": "n",
+   "gloss": "federalism"
+  },
+  "pwera": {
+   "pos": "post",
+   "gloss": "except; apart from"
+  },
+  "kasangga": {
+   "pos": "n",
+   "gloss": "ally; partner"
+  },
+  "karisma": {
+   "pos": "n",
+   "gloss": "charisma"
+  },
+  "prinsipal": {
+   "pos": "adj",
+   "gloss": "principal; main"
+  },
+  "puding": {
+   "pos": "n",
+   "gloss": "pudding"
+  },
+  "pursigido": {
+   "pos": "adj",
+   "gloss": "determined; persistent"
+  },
+  "dominasyon": {
+   "pos": "n",
+   "gloss": "domination"
+  },
+  "anatomya": {
+   "pos": "n",
+   "gloss": "anatomy"
+  },
+  "mentalidad": {
+   "pos": "n",
+   "gloss": "mentality"
+  },
+  "kitid": {
+   "pos": "adj",
+   "gloss": "narrow"
+  },
+  "eksibit": {
+   "pos": "n",
+   "gloss": "exhibit"
+  },
+  "kolonisasyon": {
+   "pos": "n",
+   "gloss": "colonization"
+  },
+  "surpresa": {
+   "pos": "n",
+   "gloss": "surprise"
+  },
+  "persepsyon": {
+   "pos": "n",
+   "gloss": "perception"
+  },
+  "tanke": {
+   "pos": "n",
+   "gloss": "tank"
+  },
+  "klasrum": {
+   "pos": "n",
+   "gloss": "classroom"
+  },
+  "metodo": {
+   "pos": "n",
+   "gloss": "method"
+  },
+  "kastanyas": {
+   "pos": "n",
+   "gloss": "chestnut"
+  },
+  "analista": {
+   "pos": "n",
+   "gloss": "analyst"
+  },
+  "praktika": {
+   "pos": "n",
+   "gloss": "practice"
+  },
+  "faraon": {
+   "pos": "n",
+   "gloss": "pharaoh"
+  },
+  "masahista": {
+   "pos": "n",
+   "gloss": "masseur; masseuse"
+  },
+  "kabulukan": {
+   "pos": "n",
+   "gloss": "rottenness; corruption"
+  },
+  "berso": {
+   "pos": "n",
+   "gloss": "verse"
+  },
+  "tubusin": {
+   "pos": "v",
+   "gloss": "to redeem; to ransom"
+  },
+  "metapora": {
+   "pos": "n",
+   "gloss": "metaphor"
+  },
+  "pintas": {
+   "pos": "n",
+   "gloss": "criticism; fault-finding"
+  },
+  "himno": {
+   "pos": "n",
+   "gloss": "hymn; anthem"
+  },
+  "parsela": {
+   "pos": "n",
+   "gloss": "parcel; lot of land"
+  },
+  "trumpeta": {
+   "pos": "n",
+   "gloss": "trumpet"
+  },
+  "orden": {
+   "pos": "n",
+   "gloss": "order; command"
+  },
+  "elektroniko": {
+   "pos": "adj",
+   "gloss": "electronic"
+  },
+  "problemado": {
+   "pos": "adj",
+   "gloss": "troubled; having a problem"
+  },
+  "salpok": {
+   "pos": "n",
+   "gloss": "collision; impact"
+  },
+  "medyebal": {
+   "pos": "adj",
+   "gloss": "medieval"
+  },
+  "mago": {
+   "pos": "n",
+   "gloss": "magician; wizard"
+  },
+  "subsidiya": {
+   "pos": "n",
+   "gloss": "subsidy"
+  },
+  "proposisyon": {
+   "pos": "n",
+   "gloss": "proposition"
+  },
+  "solido": {
+   "pos": "adj",
+   "gloss": "solid"
+  },
+  "koridor": {
+   "pos": "n",
+   "gloss": "corridor"
+  },
+  "prosa": {
+   "pos": "n",
+   "gloss": "prose"
+  },
+  "adaptasyon": {
+   "pos": "n",
+   "gloss": "adaptation"
+  },
+  "playwud": {
+   "pos": "n",
+   "gloss": "plywood"
+  },
+  "alkoholismo": {
+   "pos": "n",
+   "gloss": "alcoholism"
+  },
+  "etnisidad": {
+   "pos": "n",
+   "gloss": "ethnicity"
+  },
+  "santuwaryo": {
+   "pos": "n",
+   "gloss": "sanctuary"
+  },
+  "sistematiko": {
+   "pos": "adj",
+   "gloss": "systematic"
+  },
+  "arkipelago": {
+   "pos": "n",
+   "gloss": "archipelago"
+  },
+  "talatanungan": {
+   "pos": "n",
+   "gloss": "questionnaire"
+  },
+  "aruga": {
+   "pos": "n",
+   "gloss": "care; tending; nurturing"
+  },
+  "magkarga": {
+   "pos": "v",
+   "gloss": "to load; to carry a load"
+  },
+  "antigo": {
+   "pos": "adj",
+   "gloss": "old-fashioned; antique"
+  },
+  "antolohiya": {
+   "pos": "n",
+   "gloss": "anthology"
+  },
+  "kaguruan": {
+   "pos": "n",
+   "gloss": "faculty; teaching staff"
+  },
+  "grabidad": {
+   "pos": "n",
+   "gloss": "gravity"
+  },
+  "kontraktor": {
+   "pos": "n",
+   "gloss": "contractor"
+  },
+  "ipagkait": {
+   "pos": "v",
+   "gloss": "to deprive of; to withhold"
+  },
+  "plorera": {
+   "pos": "n",
+   "gloss": "vase"
+  },
+  "pilandok": {
+   "pos": "n",
+   "gloss": "mouse deer"
+  },
+  "peligroso": {
+   "pos": "adj",
+   "gloss": "dangerous"
+  },
+  "agresyon": {
+   "pos": "n",
+   "gloss": "aggression"
+  },
+  "malarya": {
+   "pos": "n",
+   "gloss": "malaria"
+  },
+  "pederasyon": {
+   "pos": "n",
+   "gloss": "federation"
+  },
+  "perspektiba": {
+   "pos": "n",
+   "gloss": "perspective"
+  },
+  "independyente": {
+   "pos": "adj",
+   "gloss": "independent"
+  },
+  "komersiyal": {
+   "pos": "adj",
+   "gloss": "commercial"
+  },
+  "klub": {
+   "pos": "n",
+   "gloss": "club"
+  },
+  "behikulo": {
+   "pos": "n",
+   "gloss": "vehicle"
+  },
+  "emperyo": {
+   "pos": "n",
+   "gloss": "empire"
+  },
+  "mantekilya": {
+   "pos": "n",
+   "gloss": "butter"
+  },
+  "akomodasyon": {
+   "pos": "n",
+   "gloss": "accommodation"
+  },
+  "lipistik": {
+   "pos": "n",
+   "gloss": "lipstick"
+  },
+  "feminismo": {
+   "pos": "n",
+   "gloss": "feminism"
+  },
+  "digri": {
+   "pos": "n",
+   "gloss": "degree"
+  },
+  "manunubos": {
+   "pos": "n",
+   "gloss": "redeemer; savior"
+  },
+  "paralisado": {
+   "pos": "adj",
+   "gloss": "paralyzed"
+  },
+  "tortyur": {
+   "pos": "n",
+   "gloss": "torture"
+  },
+  "websayt": {
+   "pos": "n",
+   "gloss": "website"
+  },
+  "bilinggwal": {
+   "pos": "adj",
+   "gloss": "bilingual"
+  },
+  "astronomo": {
+   "pos": "n",
+   "gloss": "astronomer"
+  },
+  "paralisis": {
+   "pos": "n",
+   "gloss": "paralysis"
+  },
+  "teyp": {
+   "pos": "n",
+   "gloss": "tape"
+  },
+  "lektyur": {
+   "pos": "n",
+   "gloss": "lecture"
+  },
+  "isapuso": {
+   "pos": "v",
+   "gloss": "to take to heart"
+  },
+  "orkestra": {
+   "pos": "n",
+   "gloss": "orchestra"
+  },
+  "didal": {
+   "pos": "n",
+   "gloss": "thimble"
+  },
+  "payaso": {
+   "pos": "n",
+   "gloss": "clown"
+  },
+  "empleado": {
+   "pos": "n",
+   "gloss": "employee"
+  },
+  "mabulunan": {
+   "pos": "v",
+   "gloss": "to choke"
+  },
+  "kapote": {
+   "pos": "n",
+   "gloss": "raincoat"
+  },
+  "liberalismo": {
+   "pos": "n",
+   "gloss": "liberalism"
+  },
+  "naylon": {
+   "pos": "n",
+   "gloss": "nylon"
+  },
+  "muog": {
+   "pos": "n",
+   "gloss": "fortress; stronghold"
+  },
+  "klaster": {
+   "pos": "n",
+   "gloss": "cluster"
+  },
+  "punyal": {
+   "pos": "n",
+   "gloss": "dagger"
+  },
+  "parilya": {
+   "pos": "n",
+   "gloss": "grill"
+  },
+  "pormularyo": {
+   "pos": "n",
+   "gloss": "form (document)"
+  },
+  "amonyako": {
+   "pos": "n",
+   "gloss": "ammonia"
+  },
+  "delicadeza": {
+   "pos": "n",
+   "gloss": "sense of propriety; tact"
+  },
+  "kontemporaryo": {
+   "pos": "adj",
+   "gloss": "contemporary"
+  },
+  "maysala": {
+   "pos": "adj",
+   "gloss": "guilty; (as noun) culprit"
+  },
+  "kapitulo": {
+   "pos": "n",
+   "gloss": "chapter"
+  },
+  "kuwentista": {
+   "pos": "n",
+   "gloss": "storyteller"
+  },
+  "manunuri": {
+   "pos": "n",
+   "gloss": "critic; reviewer"
+  },
+  "pinakbet": {
+   "pos": "n",
+   "gloss": "pinakbet (vegetable stew)"
+  },
+  "demokrata": {
+   "pos": "n",
+   "gloss": "democrat"
+  },
+  "ambasador": {
+   "pos": "n",
+   "gloss": "ambassador"
+  },
+  "pedikyur": {
+   "pos": "n",
+   "gloss": "pedicure"
+  },
+  "pulpito": {
+   "pos": "n",
+   "gloss": "pulpit"
+  },
+  "sosyedad": {
+   "pos": "n",
+   "gloss": "society"
+  },
+  "plasa": {
+   "pos": "n",
+   "gloss": "plaza"
+  },
+  "pilya": {
+   "pos": "adj",
+   "gloss": "naughty; mischievous"
+  },
+  "bolyum": {
+   "pos": "n",
+   "gloss": "volume"
+  },
+  "kwaderno": {
+   "pos": "n",
+   "gloss": "notebook"
+  },
+  "karir": {
+   "pos": "n",
+   "gloss": "career"
+  },
+  "komandante": {
+   "pos": "n",
+   "gloss": "commander"
+  },
+  "antropologo": {
+   "pos": "n",
+   "gloss": "anthropologist"
+  },
+  "klasmeyt": {
+   "pos": "n",
+   "gloss": "classmate"
+  },
+  "blangkete": {
+   "pos": "n",
+   "gloss": "blanket"
+  },
+  "dismaya": {
+   "pos": "n",
+   "gloss": "dismay; disappointment"
+  },
+  "kapabilidad": {
+   "pos": "n",
+   "gloss": "capability"
+  },
+  "kuwalipikasyon": {
+   "pos": "n",
+   "gloss": "qualification"
+  },
+  "akademiya": {
+   "pos": "n",
+   "gloss": "academy"
+  },
+  "kalabit": {
+   "pos": "n",
+   "gloss": "tap; nudge"
+  },
+  "kaswalti": {
+   "pos": "n",
+   "gloss": "casualty"
+  },
+  "kantidad": {
+   "pos": "n",
+   "gloss": "quantity; amount"
+  },
+  "takure": {
+   "pos": "n",
+   "gloss": "kettle"
+  },
+  "esposo": {
+   "pos": "n",
+   "gloss": "husband"
+  },
+  "esposa": {
+   "pos": "n",
+   "gloss": "wife"
+  },
+  "iglesiya": {
+   "pos": "n",
+   "gloss": "church"
+  },
+  "klerk": {
+   "pos": "n",
+   "gloss": "clerk"
+  },
+  "katesismo": {
+   "pos": "n",
+   "gloss": "catechism"
+  },
+  "kopra": {
+   "pos": "n",
+   "gloss": "copra (dried coconut meat)"
+  },
+  "hibik": {
+   "pos": "n",
+   "gloss": "lament; plaintive cry"
+  },
+  "armi": {
+   "pos": "n",
+   "gloss": "army"
+  },
+  "delusyon": {
+   "pos": "n",
+   "gloss": "delusion"
+  },
+  "sunurin": {
+   "pos": "v",
+   "gloss": "to follow; to obey"
+  },
+  "guryon": {
+   "pos": "n",
+   "gloss": "kite"
+  },
+  "mediko": {
+   "pos": "n",
+   "gloss": "doctor; physician"
+  },
+  "ambus": {
+   "pos": "n",
+   "gloss": "ambush"
+  },
+  "prominente": {
+   "pos": "adj",
+   "gloss": "prominent"
+  },
+  "palabok": {
+   "pos": "n",
+   "gloss": "seasoning; topping (as for noodles)"
+  },
+  "apartamento": {
+   "pos": "n",
+   "gloss": "apartment"
+  },
+  "teknikalidad": {
+   "pos": "n",
+   "gloss": "technicality"
+  },
+  "abswelto": {
+   "pos": "adj",
+   "gloss": "acquitted; exonerated"
+  },
+  "realisasyon": {
+   "pos": "n",
+   "gloss": "realization"
+  },
+  "isalarawan": {
+   "pos": "v",
+   "gloss": "to describe"
+  },
+  "polen": {
+   "pos": "n",
+   "gloss": "pollen"
+  },
+  "artesano": {
+   "pos": "n",
+   "gloss": "artisan"
+  },
+  "atorni": {
+   "pos": "n",
+   "gloss": "attorney"
+  },
+  "kangina": {
+   "pos": "adv",
+   "gloss": "a while ago; earlier"
+  },
+  "resesyon": {
+   "pos": "n",
+   "gloss": "recession"
+  },
+  "kisapmata": {
+   "pos": "n",
+   "gloss": "instant; blink of an eye"
+  },
+  "superintendente": {
+   "pos": "n",
+   "gloss": "superintendent"
+  },
+  "ungkatin": {
+   "pos": "v",
+   "gloss": "to bring up (a topic); to mention again"
+  },
+  "aldaba": {
+   "pos": "n",
+   "gloss": "latch; door knocker"
+  },
+  "detektib": {
+   "pos": "n",
+   "gloss": "detective"
+  },
+  "tekstura": {
+   "pos": "n",
+   "gloss": "texture"
+  },
+  "komprehensyon": {
+   "pos": "n",
+   "gloss": "comprehension"
+  },
+  "superbisyon": {
+   "pos": "n",
+   "gloss": "supervision"
+  },
+  "arbularyo": {
+   "pos": "n",
+   "gloss": "herbalist; folk healer"
+  },
+  "hanimun": {
+   "pos": "n",
+   "gloss": "honeymoon"
+  },
+  "kamanyang": {
+   "pos": "n",
+   "gloss": "incense"
+  },
+  "dayagram": {
+   "pos": "n",
+   "gloss": "diagram"
+  },
+  "arka": {
+   "pos": "n",
+   "gloss": "arch; ark"
+  },
+  "potosintesis": {
+   "pos": "n",
+   "gloss": "photosynthesis"
+  },
+  "kandong": {
+   "pos": "n",
+   "gloss": "lap"
+  },
+  "apelido": {
+   "pos": "n",
+   "gloss": "surname; family name"
+  },
+  "platun": {
+   "pos": "n",
+   "gloss": "platoon"
+  },
+  "rekrut": {
+   "pos": "n",
+   "gloss": "recruit"
+  },
+  "literasi": {
+   "pos": "n",
+   "gloss": "literacy"
+  },
+  "obertaym": {
+   "pos": "n",
+   "gloss": "overtime"
+  },
+  "punglo": {
+   "pos": "n",
+   "gloss": "bullet"
+  },
+  "asasinasyon": {
+   "pos": "n",
+   "gloss": "assassination"
+  },
+  "sanwits": {
+   "pos": "n",
+   "gloss": "sandwich"
+  },
+  "haciendero": {
+   "pos": "n",
+   "gloss": "hacienda owner; landlord"
+  },
+  "plauta": {
+   "pos": "n",
+   "gloss": "flute"
+  },
+  "welgista": {
+   "pos": "n",
+   "gloss": "striker; one on strike"
+  },
+  "ekspektasyon": {
+   "pos": "n",
+   "gloss": "expectation"
+  },
+  "bayrus": {
+   "pos": "n",
+   "gloss": "virus"
+  },
+  "margarin": {
+   "pos": "n",
+   "gloss": "margarine"
+  },
+  "sikolohista": {
+   "pos": "n",
+   "gloss": "psychologist"
+  },
+  "iskolarship": {
+   "pos": "n",
+   "gloss": "scholarship"
+  },
+  "bilyunaryo": {
+   "pos": "n",
+   "gloss": "billionaire"
+  },
+  "kathambuhay": {
+   "pos": "n",
+   "gloss": "novel"
+  },
+  "tulya": {
+   "pos": "n",
+   "gloss": "clam"
+  },
+  "patiwarik": {
+   "pos": "adv",
+   "gloss": "upside down"
+  },
+  "gadyet": {
+   "pos": "n",
+   "gloss": "gadget"
+  },
+  "peryodismo": {
+   "pos": "n",
+   "gloss": "journalism"
+  },
+  "ideyolohiya": {
+   "pos": "n",
+   "gloss": "ideology"
+  },
+  "ratan": {
+   "pos": "n",
+   "gloss": "rattan"
+  },
+  "temptasyon": {
+   "pos": "n",
+   "gloss": "temptation"
+  },
+  "kawil": {
+   "pos": "n",
+   "gloss": "hook; fishing hook"
+  },
+  "brosyur": {
+   "pos": "n",
+   "gloss": "brochure"
+  },
+  "melodiya": {
+   "pos": "n",
+   "gloss": "melody"
+  },
+  "konggreso": {
+   "pos": "n",
+   "gloss": "congress"
+  },
+  "estereotipo": {
+   "pos": "n",
+   "gloss": "stereotype"
+  },
+  "karilagan": {
+   "pos": "n",
+   "gloss": "splendor; magnificence"
+  },
+  "dinero": {
+   "pos": "n",
+   "gloss": "money"
+  },
+  "satelayt": {
+   "pos": "n",
+   "gloss": "satellite"
+  },
+  "sirkito": {
+   "pos": "n",
+   "gloss": "circuit"
+  },
+  "bawtismo": {
+   "pos": "n",
+   "gloss": "baptism"
+  },
+  "kompiyuter": {
+   "pos": "n",
+   "gloss": "computer"
+  },
+  "sarkastiko": {
+   "pos": "adj",
+   "gloss": "sarcastic"
+  },
+  "parasyut": {
+   "pos": "n",
+   "gloss": "parachute"
+  },
+  "karinderia": {
+   "pos": "n",
+   "gloss": "small eatery; roadside restaurant"
+  },
+  "hayahay": {
+   "pos": "adj",
+   "gloss": "carefree; relaxed"
+  },
+  "dokyumentaryo": {
+   "pos": "n",
+   "gloss": "documentary"
+  },
+  "halughugin": {
+   "pos": "v",
+   "gloss": "to search thoroughly; to rummage through"
+  },
+  "arinola": {
+   "pos": "n",
+   "gloss": "chamber pot"
+  },
+  "alinsangan": {
+   "pos": "n",
+   "gloss": "humidity; sultriness"
+  },
+  "sabangan": {
+   "pos": "n",
+   "gloss": "junction; confluence"
+  },
+  "personel": {
+   "pos": "n",
+   "gloss": "personnel"
+  },
+  "kreatibidad": {
+   "pos": "n",
+   "gloss": "creativity"
+  },
+  "orkidya": {
+   "pos": "n",
+   "gloss": "orchid"
+  },
+  "ngawit": {
+   "pos": "adj",
+   "gloss": "stiff; numb (from cramp or fatigue)"
+  },
+  "paboreal": {
+   "pos": "n",
+   "gloss": "peacock"
+  },
+  "manedyer": {
+   "pos": "n",
+   "gloss": "manager"
+  },
+  "pinipig": {
+   "pos": "n",
+   "gloss": "pinipig (pounded young glutinous rice)"
+  },
+  "karampot": {
+   "pos": "n",
+   "gloss": "small amount; pinch"
+  },
+  "misil": {
+   "pos": "n",
+   "gloss": "missile"
+  },
+  "harmonika": {
+   "pos": "n",
+   "gloss": "harmonica"
+  },
+  "kwago": {
+   "pos": "n",
+   "gloss": "owl"
+  },
+  "dyamante": {
+   "pos": "n",
+   "gloss": "diamond"
+  },
+  "goldpis": {
+   "pos": "n",
+   "gloss": "goldfish"
+  },
+  "patriotismo": {
+   "pos": "n",
+   "gloss": "patriotism"
+  },
+  "barometro": {
+   "pos": "n",
+   "gloss": "barometer"
+  },
+  "gramar": {
+   "pos": "n",
+   "gloss": "grammar"
+  },
+  "munisyon": {
+   "pos": "n",
+   "gloss": "ammunition"
+  },
+  "hagikhik": {
+   "pos": "n",
+   "gloss": "giggle"
+  },
+  "anestesya": {
+   "pos": "n",
+   "gloss": "anesthesia"
+  },
+  "suplayer": {
+   "pos": "n",
+   "gloss": "supplier"
+  },
+  "sanksiyon": {
+   "pos": "n",
+   "gloss": "sanction"
+  },
+  "awtonomo": {
+   "pos": "adj",
+   "gloss": "autonomous"
+  },
+  "marinero": {
+   "pos": "n",
+   "gloss": "sailor"
+  },
+  "alkoholiko": {
+   "pos": "n",
+   "gloss": "alcoholic"
+  },
+  "patrolya": {
+   "pos": "n",
+   "gloss": "patrol"
+  },
+  "agung": {
+   "pos": "n",
+   "gloss": "gong"
+  },
+  "hasyenda": {
+   "pos": "n",
+   "gloss": "hacienda; estate"
+  },
+  "boluntir": {
+   "pos": "n",
+   "gloss": "volunteer"
+  },
+  "bulebar": {
+   "pos": "n",
+   "gloss": "boulevard"
+  },
+  "planggana": {
+   "pos": "n",
+   "gloss": "basin; washbasin"
+  },
+  "ameba": {
+   "pos": "n",
+   "gloss": "amoeba"
+  },
+  "patriyotiko": {
+   "pos": "adj",
+   "gloss": "patriotic"
+  },
+  "malilimutin": {
+   "pos": "adj",
+   "gloss": "forgetful"
+  },
+  "konsyensya": {
+   "pos": "n",
+   "gloss": "conscience"
+  },
+  "pipitsugin": {
+   "pos": "adj",
+   "gloss": "insignificant; trivial"
+  },
+  "galeon": {
+   "pos": "n",
+   "gloss": "galleon"
+  },
+  "propyedad": {
+   "pos": "n",
+   "gloss": "property"
+  },
+  "balena": {
+   "pos": "n",
+   "gloss": "whale"
+  },
+  "alternatiba": {
+   "pos": "n",
+   "gloss": "alternative"
+  },
+  "dyeta": {
+   "pos": "n",
+   "gloss": "diet"
+  },
+  "tarheta": {
+   "pos": "n",
+   "gloss": "card"
+  },
+  "onlayn": {
+   "pos": "adj",
+   "gloss": "online"
+  },
+  "paskwa": {
+   "pos": "n",
+   "gloss": "Easter; Passover"
+  },
+  "poblasyon": {
+   "pos": "n",
+   "gloss": "population"
+  },
+  "balada": {
+   "pos": "n",
+   "gloss": "ballad"
+  },
+  "nerbiyoso": {
+   "pos": "adj",
+   "gloss": "nervous"
+  },
+  "estatistika": {
+   "pos": "n",
+   "gloss": "statistics"
+  },
+  "independensya": {
+   "pos": "n",
+   "gloss": "independence"
+  },
+  "kontes": {
+   "pos": "n",
+   "gloss": "contest"
+  },
+  "dibersidad": {
+   "pos": "n",
+   "gloss": "diversity"
+  },
+  "radyoaktibo": {
+   "pos": "adj",
+   "gloss": "radioactive"
+  },
+  "syokoy": {
+   "pos": "n",
+   "gloss": "merman"
+  },
+  "otomatiko": {
+   "pos": "adj",
+   "gloss": "automatic"
+  },
+  "primitibo": {
+   "pos": "adj",
+   "gloss": "primitive"
+  },
+  "barandilya": {
+   "pos": "n",
+   "gloss": "banister; railing"
+  },
+  "kampiyon": {
+   "pos": "n",
+   "gloss": "champion"
+  },
+  "elektrisyan": {
+   "pos": "n",
+   "gloss": "electrician"
+  },
+  "misterio": {
+   "pos": "n",
+   "gloss": "mystery"
+  },
+  "buldoser": {
+   "pos": "n",
+   "gloss": "bulldozer"
+  }
+ },
+ "_drop": [
+  "aborsiyonista",
+  "alba",
+  "anila",
+  "aplay",
+  "gaga",
+  "hatdog",
+  "iki",
+  "ilag",
+  "kulangot",
+  "labatiba",
+  "laris",
+  "mabuwisit",
+  "magat",
+  "pagpapaagas",
+  "pipi",
+  "pumaroon",
+  "samgyupsal",
+  "tae",
+  "toto",
+  "umepal",
+  "vigilante"
+ ],
+ "tumira": {
+  "gloss": "to live; to reside; to stay"
+ },
+ "bangkero": {
+  "gloss": "boatman; boat rower"
+ },
+ "tirik": {
+  "gloss": "upright; erect; standing"
+ },
+ "tingi": {
+  "gloss": "retail; sale in small quantities"
+ },
+ "bakwit": {
+  "gloss": "evacuee; evacuation"
+ },
+ "hilot": {
+  "gloss": "traditional massage healing; traditional midwifery"
+ },
+ "taho": {
+  "gloss": "taho (warm soft tofu with syrup and sago pearls)"
+ },
+ "wais": {
+  "gloss": "clever; shrewd; street-smart"
+ },
+ "tapunan": {
+  "gloss": "dump; dumping ground",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "aroma": {
+  "gloss": "aroma; fragrance"
+ },
+ "malunggay": {
+  "gloss": "malunggay; horseradish tree (moringa)"
+ },
+ "takbuhin": {
+  "gloss": "to run to; to cover (a distance) by running"
+ },
+ "suwero": {
+  "gloss": "serum; intravenous drip"
+ },
+ "pekas": {
+  "gloss": "freckle"
+ },
+ "pasiglahin": {
+  "gloss": "to invigorate; to revive; to stimulate"
+ },
+ "kuskusin": {
+  "gloss": "to scrub; to rub hard"
+ },
+ "labasan": {
+  "gloss": "exit; way out",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "pantakip": {
+  "gloss": "cover; lid; something used to cover",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "bolpen": {
+  "gloss": "ballpoint pen",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "luhod": {
+  "gloss": "kneeling; act of kneeling",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "bruha": {
+  "gloss": "witch; hag"
+ },
+ "abolisyon": {
+  "gloss": "abolition"
+ },
+ "taklob": {
+  "gloss": "cover; covering; act of covering something fully from the top"
+ },
+ "kabaro": {
+  "gloss": "colleague; fellow woman"
+ },
+ "polboron": {
+  "gloss": "powdery shortbread sweet made of toasted flour, milk and sugar"
+ },
+ "huweteng": {
+  "gloss": "illegal numbers gambling game (jueteng)"
+ },
+ "tapayan": {
+  "gloss": "large earthenware jar"
+ }
+}

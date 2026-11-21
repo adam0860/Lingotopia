@@ -1,0 +1,19 @@
+Stroke-order data used by Writing practice
+==========================================
+
+assets/writing/ja_strokes.json  (Japanese kanji, hiragana, katakana)
+  Derived from KanjiVG, Copyright (C) 2009-2011 Ulrich Apel.
+  http://kanjivg.tagaini.net
+  Licensed under Creative Commons Attribution-ShareAlike 3.0
+  https://creativecommons.org/licenses/by-sa/3.0/
+  Changes: stroke paths were flattened to centre-line polylines on a
+  1000 x 1000 grid and simplified (tools/build_writing_data.py).
+  Share-alike: this derived file is distributed under the same licence.
+
+assets/writing/zh_strokes.json  (Chinese characters)
+  Derived from hanzi-writer-data 2.0.1 (https://github.com/chanind/hanzi-writer-data),
+  which is built from Make Me a Hanzi (https://github.com/skishore/makemeahanzi)
+  and Arphic PL KaitiM GB / Arphic PL UKai stroke data.
+  Licensed under the Arphic Public License; see ARPHICPL.txt.
+  Changes: stroke median lines converted to a 1000 x 1000 grid, y down
+  (tools/build_writing_data.py).

@@ -1,0 +1,6739 @@
+{
+ "_comment": "Original example sentences written for words Tatoeba does not cover (Claude-authored, machine-checked, then reviewed by independent passes; not native-reviewed).",
+ "第": [
+  {
+   "text": "这是我第一次来这个城市。",
+   "translation": "This is my first time in this city."
+  },
+  {
+   "text": "你的座位在第几排？",
+   "translation": "Which row is your seat in?"
+  }
+ ],
+ "万": [
+  {
+   "text": "这台电脑要一万块钱。",
+   "translation": "This computer costs ten thousand yuan."
+  },
+  {
+   "text": "这个城市有两百万人。",
+   "translation": "This city has two million people."
+  }
+ ],
+ "加油": [
+  {
+   "text": "比赛马上开始了，大家加油！",
+   "translation": "The game is about to start, come on everyone!"
+  },
+  {
+   "text": "出发前，我们先去给车加油吧。",
+   "translation": "Let's go fill up the car before we set off."
+  }
+ ],
+ "级": [
+  {
+   "text": "我女儿今年上三年级。",
+   "translation": "My daughter is in third grade this year."
+  },
+  {
+   "text": "你儿子在几年级？",
+   "translation": "What grade is your son in?"
+  }
+ ],
+ "哪儿": [
+  {
+   "text": "周末你想去哪儿玩？",
+   "translation": "Where do you want to go this weekend?"
+  },
+  {
+   "text": "今天太累了，我哪儿也不想去。",
+   "translation": "I'm too tired today and don't want to go anywhere."
+  }
+ ],
+ "亿": [
+  {
+   "text": "中国有十几亿人。",
+   "translation": "China has well over a billion people."
+  },
+  {
+   "text": "这家公司去年赚了一亿元。",
+   "translation": "This company earned one hundred million yuan last year."
+  }
+ ],
+ "国内": [
+  {
+   "text": "这次我们只在国内旅行。",
+   "translation": "This time we're only traveling within the country."
+  },
+  {
+   "text": "你以前在国内工作过吗？",
+   "translation": "Have you worked back home before?"
+  }
+ ],
+ "期": [
+  {
+   "text": "这本杂志每个月出一期。",
+   "translation": "This magazine puts out one issue a month."
+  },
+  {
+   "text": "我们的汉语班下个月开新一期。",
+   "translation": "A new session of our Chinese class starts next month."
+  }
+ ],
+ "建设": [
+  {
+   "text": "他们想把家乡建设得更美。",
+   "translation": "They want to make their hometown an even more beautiful place."
+  },
+  {
+   "text": "这里正在建设一座新医院。",
+   "translation": "A new hospital is being built here."
+  }
+ ],
+ "乱": [
+  {
+   "text": "你的房间太乱了，快收拾一下。",
+   "translation": "Your room is so messy, tidy it up."
+  },
+  {
+   "text": "不要乱扔垃圾。",
+   "translation": "Don't litter."
+  }
+ ],
+ "那儿": [
+  {
+   "text": "你去过那儿吗？",
+   "translation": "Have you been there?"
+  },
+  {
+   "text": "我在那儿等你，别着急。",
+   "translation": "I'll wait for you there, no rush."
+  }
+ ],
+ "高级": [
+  {
+   "text": "这家餐厅看起来很高级。",
+   "translation": "This restaurant looks very upscale."
+  },
+  {
+   "text": "你想去高级一点的饭店吗？",
+   "translation": "Do you want to go to a fancier restaurant?"
+  }
+ ],
+ "北": [
+  {
+   "text": "出门往北走，就能看到地铁站。",
+   "translation": "Go out and head north, and you'll see the subway station."
+  },
+  {
+   "text": "我家在学校的北边。",
+   "translation": "My home is north of the school."
+  }
+ ],
+ "成熟": [
+  {
+   "text": "这些苹果已经成熟了。",
+   "translation": "These apples are already ripe."
+  },
+  {
+   "text": "他比同龄人成熟多了。",
+   "translation": "He is much more mature than others his age."
+  }
+ ],
+ "群": [
+  {
+   "text": "一群孩子在公园里玩。",
+   "translation": "A group of children are playing in the park."
+  },
+  {
+   "text": "那群人在门口做什么？",
+   "translation": "What is that crowd doing at the door?"
+  }
+ ],
+ "直播": [
+  {
+   "text": "今晚的球赛有直播吗？",
+   "translation": "Is tonight's game being broadcast live?"
+  },
+  {
+   "text": "她每天晚上在网上直播做饭。",
+   "translation": "Every evening she livestreams herself cooking."
+  }
+ ],
+ "层": [
+  {
+   "text": "我家住在十二层。",
+   "translation": "My home is on the twelfth floor."
+  },
+  {
+   "text": "你的办公室在几层？",
+   "translation": "Which floor is your office on?"
+  }
+ ],
+ "结合": [
+  {
+   "text": "学习要和练习结合起来。",
+   "translation": "Studying should be combined with practice."
+  },
+  {
+   "text": "这家餐厅把中餐和西餐结合在一起。",
+   "translation": "This restaurant combines Chinese and Western food."
+  }
+ ],
+ "主任": [
+  {
+   "text": "请问，王主任在吗？",
+   "translation": "Excuse me, is Director Wang in?"
+  },
+  {
+   "text": "我们主任让你去一下他的办公室。",
+   "translation": "Our director wants you to come by his office."
+  }
+ ],
+ "机构": [
+  {
+   "text": "这是一家教育机构。",
+   "translation": "This is an education organization."
+  },
+  {
+   "text": "你知道这个机构是做什么的吗？",
+   "translation": "Do you know what this organization does?"
+  }
+ ],
+ "当初": [
+  {
+   "text": "当初我们都不看好他。",
+   "translation": "Back then, none of us thought much of his chances."
+  },
+  {
+   "text": "早知道这样，当初就不该买。",
+   "translation": "If I'd known it would be like this, I shouldn't have bought it in the first place."
+  }
+ ],
+ "公布": [
+  {
+   "text": "考试成绩明天公布。",
+   "translation": "The exam results will be announced tomorrow."
+  },
+  {
+   "text": "学校还没有公布比赛的结果。",
+   "translation": "The school hasn't announced the results of the competition yet."
+  }
+ ],
+ "如今": [
+  {
+   "text": "如今大家都用手机付钱。",
+   "translation": "Nowadays everyone pays with their phone."
+  },
+  {
+   "text": "这个小地方如今已经变成大城市了。",
+   "translation": "This little place has now become a big city."
+  }
+ ],
+ "排": [
+  {
+   "text": "请大家排好队，一个一个来。",
+   "translation": "Everyone please line up and come one at a time."
+  },
+  {
+   "text": "你排在第几个？",
+   "translation": "What number are you in line?"
+  }
+ ],
+ "主动": [
+  {
+   "text": "他总是主动帮助同学。",
+   "translation": "He always takes the initiative to help his classmates."
+  },
+  {
+   "text": "你应该主动给他打个电话。",
+   "translation": "You should call him first."
+  }
+ ],
+ "紧": [
+  {
+   "text": "这条裤子太紧了。",
+   "translation": "These pants are too tight."
+  },
+  {
+   "text": "时间很紧，我们快走吧。",
+   "translation": "Time is tight, so let's hurry."
+  }
+ ],
+ "路线": [
+  {
+   "text": "我们看看地图，选一条路线吧。",
+   "translation": "Let's look at the map and pick a route."
+  },
+  {
+   "text": "这条路线的风景很好。",
+   "translation": "The scenery along this route is beautiful."
+  }
+ ],
+ "配合": [
+  {
+   "text": "谢谢大家的配合。",
+   "translation": "Thank you all for your cooperation."
+  },
+  {
+   "text": "我们俩在工作中配合得很好。",
+   "translation": "The two of us work together very well."
+  }
+ ],
+ "动力": [
+  {
+   "text": "你学习的动力是什么？",
+   "translation": "What motivates you to study?"
+  },
+  {
+   "text": "没有动力，我很难坚持锻炼。",
+   "translation": "Without motivation, it's hard for me to keep exercising."
+  }
+ ],
+ "古": [
+  {
+   "text": "这座古城有两千年的历史。",
+   "translation": "This ancient city has two thousand years of history."
+  },
+  {
+   "text": "你喜欢古代的故事吗？",
+   "translation": "Do you like stories from ancient times?"
+  }
+ ],
+ "系列": [
+  {
+   "text": "这是一个系列电影的第一部。",
+   "translation": "This is the first film in a series."
+  },
+  {
+   "text": "这个系列的书我都买了。",
+   "translation": "I've bought every book in this series."
+  }
+ ],
+ "哈": [
+  {
+   "text": "哈，你终于来了！",
+   "translation": "Ha, you're finally here!"
+  },
+  {
+   "text": "他听了笑话，哈哈大笑起来。",
+   "translation": "He heard the joke and burst out laughing."
+  }
+ ],
+ "高速": [
+  {
+   "text": "我们走高速去机场吧。",
+   "translation": "Let's take the highway to the airport."
+  },
+  {
+   "text": "高速公路上的车很多。",
+   "translation": "There are a lot of cars on the expressway."
+  }
+ ],
+ "名称": [
+  {
+   "text": "请写下这家公司的名称。",
+   "translation": "Please write down the name of this company."
+  },
+  {
+   "text": "这个药的名称是什么？",
+   "translation": "What is the name of this medicine?"
+  }
+ ],
+ "欢乐": [
+  {
+   "text": "孩子们在公园里过了欢乐的一天。",
+   "translation": "The kids had a joyful day in the park."
+  },
+  {
+   "text": "新年到了，到处都是欢乐的声音。",
+   "translation": "The New Year has arrived, and the sound of joy is everywhere."
+  }
+ ],
+ "内部": [
+  {
+   "text": "这栋楼的内部很漂亮。",
+   "translation": "The inside of this building is beautiful."
+  },
+  {
+   "text": "这是公司内部的文件。",
+   "translation": "This is an internal company document."
+  }
+ ],
+ "遍": [
+  {
+   "text": "这本书我看了三遍。",
+   "translation": "I've read this book three times."
+  },
+  {
+   "text": "我没听清楚，请你再说一遍。",
+   "translation": "I didn't catch that, please say it once more."
+  }
+ ],
+ "集团": [
+  {
+   "text": "他在一家大集团工作。",
+   "translation": "He works for a big corporation."
+  },
+  {
+   "text": "这个集团在很多城市都有分公司。",
+   "translation": "This group has branch offices in many cities."
+  }
+ ],
+ "阶段": [
+  {
+   "text": "这个阶段，孩子学得特别快。",
+   "translation": "At this stage, children learn especially fast."
+  },
+  {
+   "text": "工作已经到了最后阶段。",
+   "translation": "The work has reached its final stage."
+  }
+ ],
+ "板": [
+  {
+   "text": "老师在黑板上写了几个字。",
+   "translation": "The teacher wrote a few characters on the blackboard."
+  },
+  {
+   "text": "把这块木板放在桌子上吧。",
+   "translation": "Put this wooden board on the table."
+  }
+ ],
+ "东北": [
+  {
+   "text": "东北的冬天特别冷。",
+   "translation": "Winters in the northeast are especially cold."
+  },
+  {
+   "text": "今年冬天我想去东北看雪。",
+   "translation": "This winter I want to go to the northeast to see snow."
+  }
+ ],
+ "基本上": [
+  {
+   "text": "作业基本上做完了。",
+   "translation": "The homework is basically done."
+  },
+  {
+   "text": "他基本上每天都去跑步。",
+   "translation": "He goes running pretty much every day."
+  }
+ ],
+ "西部": [
+  {
+   "text": "她在中国西部长大。",
+   "translation": "She grew up in western China."
+  },
+  {
+   "text": "西部的风景真美，你去过吗？",
+   "translation": "The scenery in the west is really beautiful. Have you been?"
+  }
+ ],
+ "官": [
+  {
+   "text": "那位警官在帮老人过马路。",
+   "translation": "That police officer is helping an old man cross the road."
+  },
+  {
+   "text": "他爸爸在政府里是个大官。",
+   "translation": "His dad is a high official in the government."
+  }
+ ],
+ "货": [
+  {
+   "text": "这家店的货很多，也很便宜。",
+   "translation": "This shop has lots of goods and they're cheap."
+  },
+  {
+   "text": "新货明天就到了。",
+   "translation": "The new stock arrives tomorrow."
+  }
+ ],
+ "纪录": [
+  {
+   "text": "他打破了学校的跑步纪录。",
+   "translation": "He broke the school's running record."
+  },
+  {
+   "text": "这个纪录保持了十年。",
+   "translation": "This record has stood for ten years."
+  }
+ ],
+ "大哥": [
+  {
+   "text": "大哥，请问地铁站怎么走？",
+   "translation": "Excuse me, brother, how do I get to the subway station?"
+  },
+  {
+   "text": "我大哥在北京工作。",
+   "translation": "My oldest brother works in Beijing."
+  }
+ ],
+ "这时": [
+  {
+   "text": "我正要出门，这时下起了雨。",
+   "translation": "I was just about to go out when it started to rain."
+  },
+  {
+   "text": "这时，手机突然响了。",
+   "translation": "Just then, the phone suddenly rang."
+  }
+ ],
+ "网友": [
+  {
+   "text": "我有一个网友住在上海。",
+   "translation": "I have an online friend who lives in Shanghai."
+  },
+  {
+   "text": "网友们都说这家店不错。",
+   "translation": "Online users all say this shop is good."
+  }
+ ],
+ "体现": [
+  {
+   "text": "这件事体现了他的善良。",
+   "translation": "This incident shows his kindness."
+  },
+  {
+   "text": "好的服务体现在小事上。",
+   "translation": "Good service shows in the small things."
+  }
+ ],
+ "姐": [
+  {
+   "text": "姐，帮我拿一下书包。",
+   "translation": "Sis, could you grab my backpack for me?"
+  },
+  {
+   "text": "我姐比我大三岁。",
+   "translation": "My older sister is three years older than me."
+  }
+ ],
+ "发送": [
+  {
+   "text": "邮件已经发送成功了。",
+   "translation": "The email has been sent successfully."
+  },
+  {
+   "text": "请把文件发送给我。",
+   "translation": "Please send the file to me."
+  }
+ ],
+ "院长": [
+  {
+   "text": "院长明天要来我们学校。",
+   "translation": "The dean is coming to our school tomorrow."
+  },
+  {
+   "text": "他是这家医院的院长。",
+   "translation": "He is the head of this hospital."
+  }
+ ],
+ "总结": [
+  {
+   "text": "老师让我们总结这一课。",
+   "translation": "The teacher asked us to summarize this lesson."
+  },
+  {
+   "text": "请你总结一下今天的会议。",
+   "translation": "Please sum up today's meeting."
+  }
+ ],
+ "改造": [
+  {
+   "text": "这个老房子正在改造。",
+   "translation": "This old house is being renovated."
+  },
+  {
+   "text": "他们把旧工厂改造成了商店。",
+   "translation": "They converted the old factory into shops."
+  }
+ ],
+ "体会": [
+  {
+   "text": "住在国外以后，我才体会到家人的重要。",
+   "translation": "Only after living abroad did I come to appreciate how important family is."
+  },
+  {
+   "text": "学了一年汉语，你有什么体会？",
+   "translation": "After a year of studying Chinese, what have you come to realize?"
+  }
+ ],
+ "轮": [
+  {
+   "text": "今天我们玩了三轮游戏。",
+   "translation": "We played three rounds of the game today."
+  },
+  {
+   "text": "这次轮到谁洗碗了？",
+   "translation": "Whose turn is it to wash the dishes this time?"
+  }
+ ],
+ "细节": [
+  {
+   "text": "这件事的细节我还不太清楚。",
+   "translation": "I'm still not very clear on the details of this matter."
+  },
+  {
+   "text": "写文章的时候，别忘了注意细节。",
+   "translation": "When you write an essay, don't forget to pay attention to the details."
+  }
+ ],
+ "必然": [
+  {
+   "text": "不努力学习，考试不及格是必然的。",
+   "translation": "If you don't study hard, failing the exam is inevitable."
+  },
+  {
+   "text": "天天熬夜，身体必然会出问题。",
+   "translation": "If you stay up late every day, your health is bound to suffer."
+  }
+ ],
+ "方": [
+  {
+   "text": "这个盒子是方的。",
+   "translation": "This box is square."
+  },
+  {
+   "text": "我们双方都同意了这个价格。",
+   "translation": "Both sides agreed to this price."
+  }
+ ],
+ "种子": [
+  {
+   "text": "我在花盆里种了几颗种子。",
+   "translation": "I planted a few seeds in the flower pot."
+  },
+  {
+   "text": "这些种子什么时候能发芽？",
+   "translation": "When will these seeds sprout?"
+  }
+ ],
+ "比例": [
+  {
+   "text": "我们班男生和女生的比例差不多。",
+   "translation": "The ratio of boys to girls in our class is about even."
+  },
+  {
+   "text": "这张地图的比例是多少？",
+   "translation": "What is the scale of this map?"
+  }
+ ],
+ "局": [
+  {
+   "text": "我们再下一局棋，好不好？",
+   "translation": "Shall we play another game of chess?"
+  },
+  {
+   "text": "今天他连赢了三局。",
+   "translation": "Today he won three games in a row."
+  }
+ ],
+ "打工": [
+  {
+   "text": "暑假我想去餐厅打工。",
+   "translation": "This summer I want to work part-time at a restaurant."
+  },
+  {
+   "text": "他一边上学，一边打工赚钱。",
+   "translation": "He goes to school while working a part-time job to earn money."
+  }
+ ],
+ "路边": [
+  {
+   "text": "路边有一家很小的面馆。",
+   "translation": "There's a tiny noodle shop by the side of the road."
+  },
+  {
+   "text": "请把车停在路边。",
+   "translation": "Please park the car at the curb."
+  }
+ ],
+ "告别": [
+  {
+   "text": "毕业那天，我们和老师告别了。",
+   "translation": "On graduation day, we said goodbye to our teachers."
+  },
+  {
+   "text": "他在车站和家人告别。",
+   "translation": "He is saying goodbye to his family at the station."
+  }
+ ],
+ "开展": [
+  {
+   "text": "学校下个月要开展读书活动。",
+   "translation": "The school will launch a reading campaign next month."
+  },
+  {
+   "text": "你们公司最近开展了什么活动？",
+   "translation": "What activities has your company held recently?"
+  }
+ ],
+ "季": [
+  {
+   "text": "夏季这里经常下大雨。",
+   "translation": "It often rains heavily here in the summer season."
+  },
+  {
+   "text": "第一季度我们特别忙。",
+   "translation": "We were especially busy in the first quarter."
+  }
+ ],
+ "项": [
+  {
+   "text": "这项工作需要两个星期。",
+   "translation": "This task will take two weeks."
+  },
+  {
+   "text": "运动会有三项比赛，你参加哪一项？",
+   "translation": "The sports day has three events. Which one are you entering?"
+  }
+ ],
+ "倍": [
+  {
+   "text": "他的工资比去年多了一倍。",
+   "translation": "His salary is double what it was last year."
+  },
+  {
+   "text": "这个房间是那个房间的两倍大。",
+   "translation": "This room is twice as big as that one."
+  }
+ ],
+ "春": [
+  {
+   "text": "春天来了，天气越来越暖和。",
+   "translation": "Spring has come, and the weather is getting warmer and warmer."
+  },
+  {
+   "text": "你最喜欢春天还是秋天？",
+   "translation": "Do you like spring or autumn more?"
+  }
+ ],
+ "法院": [
+  {
+   "text": "他在法院工作。",
+   "translation": "He works at the court."
+  },
+  {
+   "text": "法院离这儿远吗？",
+   "translation": "Is the courthouse far from here?"
+  }
+ ],
+ "将军": [
+  {
+   "text": "这位老将军年轻时去过很多地方。",
+   "translation": "This old general traveled to many places when he was young."
+  },
+  {
+   "text": "电影里的将军骑着一匹白马。",
+   "translation": "The general in the movie rides a white horse."
+  }
+ ],
+ "设立": [
+  {
+   "text": "学校设立了一个新的奖学金。",
+   "translation": "The school has set up a new scholarship."
+  },
+  {
+   "text": "公司打算在上海设立一个办公室。",
+   "translation": "The company plans to set up an office in Shanghai."
+  }
+ ],
+ "齐": [
+  {
+   "text": "人都到齐了吗？",
+   "translation": "Has everyone arrived?"
+  },
+  {
+   "text": "菜都上齐了，请慢用。",
+   "translation": "All the dishes are served. Please enjoy."
+  }
+ ],
+ "维护": [
+  {
+   "text": "我们都有责任维护教室的干净。",
+   "translation": "We all have a responsibility to keep the classroom clean."
+  },
+  {
+   "text": "警察的工作是维护社会安全。",
+   "translation": "The police's job is to safeguard public safety."
+  }
+ ],
+ "环": [
+  {
+   "text": "她耳朵上戴着一对小耳环。",
+   "translation": "She is wearing a pair of small earrings."
+  },
+  {
+   "text": "这里的环境很好，也很安静。",
+   "translation": "The environment here is lovely and quiet."
+  }
+ ],
+ "分配": [
+  {
+   "text": "老师给每个小组分配了不同的任务。",
+   "translation": "The teacher assigned a different task to each group."
+  },
+  {
+   "text": "这些苹果怎么分配才公平？",
+   "translation": "How should these apples be divided up to be fair?"
+  }
+ ],
+ "基地": [
+  {
+   "text": "公司在这座城市有一个生产基地。",
+   "translation": "The company has a production base in this city."
+  },
+  {
+   "text": "这个训练基地离市区很远。",
+   "translation": "This training base is far from the city center."
+  }
+ ],
+ "东部": [
+  {
+   "text": "中国东部有很多大城市。",
+   "translation": "There are many big cities in eastern China."
+  },
+  {
+   "text": "你是不是来自这个国家的东部？",
+   "translation": "Are you from the eastern part of this country?"
+  }
+ ],
+ "坚决": [
+  {
+   "text": "他坚决不同意这个办法。",
+   "translation": "He firmly refuses to agree to this method."
+  },
+  {
+   "text": "妈妈坚决反对我天天熬夜。",
+   "translation": "Mom is firmly against me staying up late every day."
+  }
+ ],
+ "大型": [
+  {
+   "text": "这个城市新建了一座大型商场。",
+   "translation": "A large shopping mall has been newly built in this city."
+  },
+  {
+   "text": "附近有大型超市吗？",
+   "translation": "Is there a large supermarket nearby?"
+  }
+ ],
+ "年底": [
+  {
+   "text": "年底公司特别忙。",
+   "translation": "The company is especially busy at the end of the year."
+  },
+  {
+   "text": "你年底打算回家吗？",
+   "translation": "Are you planning to go home at the end of the year?"
+  }
+ ],
+ "民间": [
+  {
+   "text": "这是一个很有名的民间故事。",
+   "translation": "This is a very famous folk tale."
+  },
+  {
+   "text": "我奶奶喜欢听民间音乐。",
+   "translation": "My grandmother likes listening to folk music."
+  }
+ ],
+ "影视": [
+  {
+   "text": "他在一家影视公司工作。",
+   "translation": "He works at a film and TV company."
+  },
+  {
+   "text": "我弟弟很喜欢看影视剧。",
+   "translation": "My younger brother loves watching movies and TV dramas."
+  }
+ ],
+ "临时": [
+  {
+   "text": "我临时有点事，不能去了。",
+   "translation": "Something came up at the last minute, so I can't go."
+  },
+  {
+   "text": "这只是临时的办法，不是长期的。",
+   "translation": "This is only a temporary fix, not a long-term one."
+  }
+ ],
+ "培养": [
+  {
+   "text": "父母应该从小培养孩子的好习惯。",
+   "translation": "Parents should cultivate good habits in their children from a young age."
+  },
+  {
+   "text": "怎样培养孩子爱读书的习惯？",
+   "translation": "How can you foster a love of reading in a child?"
+  }
+ ],
+ "牌": [
+  {
+   "text": "周末我们几个朋友在家打牌。",
+   "translation": "On the weekend, a few of us friends play cards at home."
+  },
+  {
+   "text": "门口的牌子上写着今天休息。",
+   "translation": "The sign at the door says closed today."
+  }
+ ],
+ "推广": [
+  {
+   "text": "公司想把新产品推广到全国。",
+   "translation": "The company wants to promote its new product nationwide."
+  },
+  {
+   "text": "这个好办法值得推广。",
+   "translation": "This good method is worth spreading."
+  }
+ ],
+ "近期": [
+  {
+   "text": "近期天气变化很大，请注意身体。",
+   "translation": "The weather has been changing a lot lately, so take care of yourself."
+  },
+  {
+   "text": "你近期有什么打算？",
+   "translation": "What are your plans for the near future?"
+  }
+ ],
+ "性别": [
+  {
+   "text": "表格里要填姓名和性别。",
+   "translation": "You need to fill in your name and gender on the form."
+  },
+  {
+   "text": "找工作不应该看性别。",
+   "translation": "Gender shouldn't matter when looking for a job."
+  }
+ ],
+ "公务员": [
+  {
+   "text": "他毕业后考上了公务员。",
+   "translation": "After graduating, he passed the exam to become a civil servant."
+  },
+  {
+   "text": "我姐姐是公务员，工作很稳定。",
+   "translation": "My older sister is a civil servant, and her job is very stable."
+  }
+ ],
+ "年级": [
+  {
+   "text": "你的孩子上几年级了？",
+   "translation": "What grade is your child in now?"
+  },
+  {
+   "text": "我们学校一年级有五个班。",
+   "translation": "Our school has five first-grade classes."
+  }
+ ],
+ "初中": [
+  {
+   "text": "我哥哥现在上初中。",
+   "translation": "My older brother is in junior high school now."
+  },
+  {
+   "text": "初中的同学我们还常常见面。",
+   "translation": "We still often see our junior high classmates."
+  }
+ ],
+ "部队": [
+  {
+   "text": "他在部队里待了三年。",
+   "translation": "He spent three years in the army."
+  },
+  {
+   "text": "部队的生活很有规律。",
+   "translation": "Life in the army is very regular and disciplined."
+  }
+ ],
+ "运用": [
+  {
+   "text": "学到的知识要运用到生活中。",
+   "translation": "You should put what you learn to use in daily life."
+  },
+  {
+   "text": "你能运用今天学的词造句吗？",
+   "translation": "Can you make sentences using the words we learned today?"
+  }
+ ],
+ "录音": [
+  {
+   "text": "上课时我会用手机录音。",
+   "translation": "I record the lessons on my phone during class."
+  },
+  {
+   "text": "你能给我发一下会议的录音吗？",
+   "translation": "Could you send me the recording of the meeting?"
+  }
+ ],
+ "有限": [
+  {
+   "text": "我的时间有限，只能说几句。",
+   "translation": "My time is limited, so I can only say a few words."
+  },
+  {
+   "text": "这个房间的空间很有限。",
+   "translation": "The space in this room is very limited."
+  }
+ ],
+ "家属": [
+  {
+   "text": "病人的家属在外面等着。",
+   "translation": "The patient's family is waiting outside."
+  },
+  {
+   "text": "员工的家属也可以来参加晚会。",
+   "translation": "Employees' family members can come to the party too."
+  }
+ ],
+ "通信": [
+  {
+   "text": "山里的通信不太方便。",
+   "translation": "Communication in the mountains isn't very convenient."
+  },
+  {
+   "text": "他们靠写信通信，已经十年了。",
+   "translation": "They have kept in touch by writing letters for ten years."
+  }
+ ],
+ "广大": [
+  {
+   "text": "这位歌手受到广大观众的喜爱。",
+   "translation": "This singer is loved by a vast audience."
+  },
+  {
+   "text": "这里的草原很广大，一眼看不到头。",
+   "translation": "The grassland here is vast; you can't see the end of it."
+  }
+ ],
+ "西北": [
+  {
+   "text": "今天吹西北风，有点冷。",
+   "translation": "A northwest wind is blowing today, and it's a bit cold."
+  },
+  {
+   "text": "他的老家在中国的西北。",
+   "translation": "His hometown is in the northwest of China."
+  }
+ ],
+ "单纯": [
+  {
+   "text": "小孩子的想法都很单纯。",
+   "translation": "Children's thoughts are all very simple and pure."
+  },
+  {
+   "text": "我不是生气，单纯是太累了。",
+   "translation": "I'm not angry, I'm simply too tired."
+  }
+ ],
+ "创业": [
+  {
+   "text": "他辞了工作，开始自己创业。",
+   "translation": "He quit his job and started his own business."
+  },
+  {
+   "text": "你为什么想创业？",
+   "translation": "Why do you want to start a business?"
+  }
+ ],
+ "西南": [
+  {
+   "text": "他住在城市的西南。",
+   "translation": "He lives in the southwest of the city."
+  },
+  {
+   "text": "西南方向有一座小山。",
+   "translation": "There is a small hill to the southwest."
+  }
+ ],
+ "技巧": [
+  {
+   "text": "学游泳有一些小技巧。",
+   "translation": "There are a few little tricks to learning to swim."
+  },
+  {
+   "text": "你有什么学外语的技巧吗？",
+   "translation": "Do you have any tips for learning a foreign language?"
+  }
+ ],
+ "字幕": [
+  {
+   "text": "看外国电影时，我喜欢开字幕。",
+   "translation": "When I watch foreign movies, I like to turn on the subtitles."
+  },
+  {
+   "text": "这部电影有中文字幕吗？",
+   "translation": "Does this movie have Chinese subtitles?"
+  }
+ ],
+ "前后": [
+  {
+   "text": "春节前后，火车票很难买。",
+   "translation": "Around the Spring Festival, train tickets are hard to get."
+  },
+  {
+   "text": "这座房子前后都有小花园。",
+   "translation": "This house has small gardens at both the front and the back."
+  }
+ ],
+ "军事": [
+  {
+   "text": "他对军事历史很感兴趣。",
+   "translation": "He is very interested in military history."
+  },
+  {
+   "text": "这个电视节目专门讲军事新闻。",
+   "translation": "This TV program is all about military news."
+  }
+ ],
+ "戏": [
+  {
+   "text": "今晚的戏好看吗？",
+   "translation": "Is tonight's play any good?"
+  },
+  {
+   "text": "奶奶最爱看戏。",
+   "translation": "Grandma loves going to the opera more than anything."
+  }
+ ],
+ "打球": [
+  {
+   "text": "周末我们去公园打球吧。",
+   "translation": "Let's go play ball at the park this weekend."
+  },
+  {
+   "text": "他每天下课后都打球。",
+   "translation": "He plays ball every day after class."
+  }
+ ],
+ "统计": [
+  {
+   "text": "老师在统计大家的成绩。",
+   "translation": "The teacher is tallying everyone's grades."
+  },
+  {
+   "text": "请统计一下今天有多少人来了。",
+   "translation": "Please count how many people came today."
+  }
+ ],
+ "大众": [
+  {
+   "text": "这首歌很受大众欢迎。",
+   "translation": "This song is very popular with the public."
+  },
+  {
+   "text": "地铁是大众最常用的交通方式。",
+   "translation": "The subway is the most common way for ordinary people to get around."
+  }
+ ],
+ "规范": [
+  {
+   "text": "这样写不太规范。",
+   "translation": "Writing it this way isn't quite standard."
+  },
+  {
+   "text": "老师要求我们规范书写汉字。",
+   "translation": "The teacher requires us to write Chinese characters in the standard way."
+  }
+ ],
+ "届": [
+  {
+   "text": "这是第二十届运动会。",
+   "translation": "This is the twentieth sports meet."
+  },
+  {
+   "text": "我们这一届学生都很努力。",
+   "translation": "Our class of students all work very hard."
+  }
+ ],
+ "葡萄": [
+  {
+   "text": "这串葡萄又大又甜。",
+   "translation": "This bunch of grapes is big and sweet."
+  },
+  {
+   "text": "你想吃葡萄还是苹果？",
+   "translation": "Do you want grapes or an apple?"
+  }
+ ],
+ "培训": [
+  {
+   "text": "新员工下周要参加培训。",
+   "translation": "The new employees have to attend training next week."
+  },
+  {
+   "text": "公司每年都给我们做培训。",
+   "translation": "The company gives us training every year."
+  }
+ ],
+ "住房": [
+  {
+   "text": "大城市的住房很贵。",
+   "translation": "Housing in big cities is expensive."
+  },
+  {
+   "text": "他们家的住房条件不错。",
+   "translation": "Their family's housing conditions are pretty good."
+  }
+ ],
+ "里头": [
+  {
+   "text": "盒子里头是什么？",
+   "translation": "What's inside the box?"
+  },
+  {
+   "text": "外面太冷了，快进里头坐。",
+   "translation": "It's too cold outside. Come on in and sit down."
+  }
+ ],
+ "防": [
+  {
+   "text": "晚上睡觉要防蚊子。",
+   "translation": "You need to guard against mosquitoes when you sleep at night."
+  },
+  {
+   "text": "多洗手可以防感冒。",
+   "translation": "Washing your hands often helps prevent colds."
+  }
+ ],
+ "色彩": [
+  {
+   "text": "这幅画的色彩很丰富。",
+   "translation": "The colors in this painting are very rich."
+  },
+  {
+   "text": "她喜欢色彩鲜艳的衣服。",
+   "translation": "She likes brightly colored clothes."
+  }
+ ],
+ "雷": [
+  {
+   "text": "昨晚打雷，我没睡好。",
+   "translation": "There was thunder last night, so I didn't sleep well."
+  },
+  {
+   "text": "夏天常常打雷下雨。",
+   "translation": "In summer it often thunders and rains."
+  }
+ ],
+ "得分": [
+  {
+   "text": "他在比赛中得分最多。",
+   "translation": "He scored the most points in the game."
+  },
+  {
+   "text": "你们队今天得分了吗？",
+   "translation": "Did your team score today?"
+  }
+ ],
+ "发起": [
+  {
+   "text": "小明发起了一个读书小组。",
+   "translation": "Xiaoming started a reading group."
+  },
+  {
+   "text": "谁来发起这个活动？",
+   "translation": "Who is going to kick off this event?"
+  }
+ ],
+ "底": [
+  {
+   "text": "这个月底我要去北京。",
+   "translation": "I'm going to Beijing at the end of this month."
+  },
+  {
+   "text": "杯底还有一点水。",
+   "translation": "There's still a little water at the bottom of the cup."
+  }
+ ],
+ "特征": [
+  {
+   "text": "这种鸟有什么特征？",
+   "translation": "What are the characteristics of this kind of bird?"
+  },
+  {
+   "text": "他的特征是个子高、戴眼镜。",
+   "translation": "His distinguishing features are that he's tall and wears glasses."
+  }
+ ],
+ "突破": [
+  {
+   "text": "他终于突破了自己的最好成绩。",
+   "translation": "He finally broke through his own best result."
+  },
+  {
+   "text": "学外语想突破，需要多练习。",
+   "translation": "If you want to break through in a foreign language, you need to practice more."
+  }
+ ],
+ "初级": [
+  {
+   "text": "我在上初级汉语课。",
+   "translation": "I'm taking a beginner Chinese class."
+  },
+  {
+   "text": "这本书适合初级学生。",
+   "translation": "This book is suitable for beginner students."
+  }
+ ],
+ "秋": [
+  {
+   "text": "去年秋，我搬到了上海。",
+   "translation": "Last autumn, I moved to Shanghai."
+  },
+  {
+   "text": "秋天的北京很漂亮。",
+   "translation": "Beijing is beautiful in the fall."
+  }
+ ],
+ "查看": [
+  {
+   "text": "请查看你的邮件。",
+   "translation": "Please check your email."
+  },
+  {
+   "text": "我想查看一下明天的天气。",
+   "translation": "I'd like to check tomorrow's weather."
+  }
+ ],
+ "难度": [
+  {
+   "text": "这道题的难度太大了。",
+   "translation": "This question is far too difficult."
+  },
+  {
+   "text": "这次考试的难度怎么样？",
+   "translation": "How difficult was this exam?"
+  }
+ ],
+ "证件": [
+  {
+   "text": "进门要出示证件。",
+   "translation": "You have to show your ID to get in."
+  },
+  {
+   "text": "你带证件了吗？",
+   "translation": "Did you bring your ID?"
+  }
+ ],
+ "自觉": [
+  {
+   "text": "他学习很自觉。",
+   "translation": "He studies very conscientiously, without being told."
+  },
+  {
+   "text": "排队要自觉，不要插队。",
+   "translation": "Be considerate and wait in line. Don't cut in."
+  }
+ ],
+ "频道": [
+  {
+   "text": "你喜欢看哪个频道？",
+   "translation": "Which channel do you like to watch?"
+  },
+  {
+   "text": "请把电视换到体育频道。",
+   "translation": "Please switch the TV to the sports channel."
+  }
+ ],
+ "加工": [
+  {
+   "text": "这家工厂专门加工食品。",
+   "translation": "This factory specializes in processing food."
+  },
+  {
+   "text": "工人们在加工这些木头。",
+   "translation": "The workers are processing this wood."
+  }
+ ],
+ "初步": [
+  {
+   "text": "医生做了初步检查。",
+   "translation": "The doctor did a preliminary examination."
+  },
+  {
+   "text": "我们已经有了一个初步的计划。",
+   "translation": "We already have a tentative plan."
+  }
+ ],
+ "记载": [
+  {
+   "text": "书里记载了很多古代的故事。",
+   "translation": "The book records many ancient stories."
+  },
+  {
+   "text": "这件事在书上有记载吗？",
+   "translation": "Is this event recorded in any book?"
+  }
+ ],
+ "武术": [
+  {
+   "text": "他从小就学武术。",
+   "translation": "He has studied martial arts since he was little."
+  },
+  {
+   "text": "你对中国武术感兴趣吗？",
+   "translation": "Are you interested in Chinese martial arts?"
+  }
+ ],
+ "登录": [
+  {
+   "text": "请先登录你的账号。",
+   "translation": "Please log in to your account first."
+  },
+  {
+   "text": "我忘记密码了，登录不了。",
+   "translation": "I forgot my password, so I can't log in."
+  }
+ ],
+ "外地": [
+  {
+   "text": "他一直在外地工作。",
+   "translation": "He has always worked out of town."
+  },
+  {
+   "text": "很多外地人来这里旅游。",
+   "translation": "Many people from other places come here to travel."
+  }
+ ],
+ "年度": [
+  {
+   "text": "公司下周开年度会议。",
+   "translation": "The company is holding its annual meeting next week."
+  },
+  {
+   "text": "他被评为年度最佳员工。",
+   "translation": "He was named employee of the year."
+  }
+ ],
+ "斤": [
+  {
+   "text": "请给我买两斤苹果。",
+   "translation": "Please buy me two jin of apples."
+  },
+  {
+   "text": "我最近瘦了三斤。",
+   "translation": "I've lost three jin recently."
+  }
+ ],
+ "玩家": [
+  {
+   "text": "这个游戏有很多玩家。",
+   "translation": "This game has a lot of players."
+  },
+  {
+   "text": "他是一个老玩家了。",
+   "translation": "He's an old hand at this game."
+  }
+ ],
+ "短期": [
+  {
+   "text": "我只想短期租房子。",
+   "translation": "I only want to rent a place short-term."
+  },
+  {
+   "text": "这个短期课程只有两周。",
+   "translation": "This short-term course is only two weeks long."
+  }
+ ],
+ "自主": [
+  {
+   "text": "孩子应该学会自主学习。",
+   "translation": "Children should learn to study independently."
+  },
+  {
+   "text": "你可以自主选择课程。",
+   "translation": "You can choose your courses on your own."
+  }
+ ],
+ "出院": [
+  {
+   "text": "爷爷下周就能出院了。",
+   "translation": "Grandpa can leave the hospital next week."
+  },
+  {
+   "text": "医生说你明天可以出院。",
+   "translation": "The doctor says you can be discharged tomorrow."
+  }
+ ],
+ "联盟": [
+  {
+   "text": "游戏里的玩家可以加入联盟。",
+   "translation": "Players in the game can join an alliance."
+  },
+  {
+   "text": "几家公司组成了一个联盟。",
+   "translation": "A few companies formed an alliance."
+  }
+ ],
+ "举手": [
+  {
+   "text": "有问题请举手。",
+   "translation": "Please raise your hand if you have a question."
+  },
+  {
+   "text": "想回答的同学请举手。",
+   "translation": "Students who want to answer, please raise your hands."
+  }
+ ],
+ "检测": [
+  {
+   "text": "医院用机器检测血糖。",
+   "translation": "The hospital uses a machine to test blood sugar."
+  },
+  {
+   "text": "进站前要检测体温。",
+   "translation": "You have to have your temperature checked before entering the station."
+  }
+ ],
+ "造型": [
+  {
+   "text": "这个杯子的造型很可爱。",
+   "translation": "The shape of this cup is really cute."
+  },
+  {
+   "text": "理发师给她换了新造型。",
+   "translation": "The hairdresser gave her a new look."
+  }
+ ],
+ "东南": [
+  {
+   "text": "那个城市在中国的东南部。",
+   "translation": "That city is in the southeast of China."
+  },
+  {
+   "text": "风从东南方向吹来。",
+   "translation": "The wind is blowing in from the southeast."
+  }
+ ],
+ "神经": [
+  {
+   "text": "他最近工作太累，神经很紧张。",
+   "translation": "He's been working too hard lately, and his nerves are on edge."
+  },
+  {
+   "text": "人体的神经系统很复杂。",
+   "translation": "The human nervous system is very complex."
+  }
+ ],
+ "中部": [
+  {
+   "text": "这个国家的中部有一座大山。",
+   "translation": "There is a big mountain in the central part of this country."
+  },
+  {
+   "text": "我住在城市的中部。",
+   "translation": "I live in the central part of the city."
+  }
+ ],
+ "开机": [
+  {
+   "text": "电脑开机太慢了。",
+   "translation": "The computer takes too long to boot up."
+  },
+  {
+   "text": "请先按这个键开机。",
+   "translation": "Please press this button first to turn it on."
+  }
+ ],
+ "美术": [
+  {
+   "text": "她在大学学美术。",
+   "translation": "She studies fine art at university."
+  },
+  {
+   "text": "我们明天有美术课。",
+   "translation": "We have art class tomorrow."
+  }
+ ],
+ "微信": [
+  {
+   "text": "我们用微信联系吧。",
+   "translation": "Let's keep in touch on WeChat."
+  },
+  {
+   "text": "你有没有他的微信？",
+   "translation": "Do you have his WeChat?"
+  }
+ ],
+ "解放": [
+  {
+   "text": "洗衣机把我们从家务中解放了出来。",
+   "translation": "The washing machine freed us from housework."
+  },
+  {
+   "text": "考完试，我终于解放了！",
+   "translation": "The exam is over, and I'm finally free!"
+  }
+ ],
+ "站住": [
+  {
+   "text": "站住！别跑！",
+   "translation": "Stop! Don't run!"
+  },
+  {
+   "text": "他没站住，差点摔倒了。",
+   "translation": "He couldn't stand steady and almost fell."
+  }
+ ],
+ "超越": [
+  {
+   "text": "他的成绩已经超越了我。",
+   "translation": "His grades have already surpassed mine."
+  },
+  {
+   "text": "我们要不断超越自己。",
+   "translation": "We should keep surpassing ourselves."
+  }
+ ],
+ "打印": [
+  {
+   "text": "请帮我打印这份文件。",
+   "translation": "Please help me print this document."
+  },
+  {
+   "text": "打印机没纸了，打印不了。",
+   "translation": "The printer is out of paper, so I can't print."
+  }
+ ],
+ "相对": [
+  {
+   "text": "相对来说，这家店比较便宜。",
+   "translation": "Relatively speaking, this shop is cheaper."
+  },
+  {
+   "text": "这里冬天相对不太冷。",
+   "translation": "Winters here are relatively not too cold."
+  }
+ ],
+ "另一方面": [
+  {
+   "text": "一方面我想去，另一方面我没时间。",
+   "translation": "On the one hand I want to go; on the other hand I have no time."
+  },
+  {
+   "text": "这工作工资高，另一方面也很累。",
+   "translation": "This job pays well, but on the other hand it's also tiring."
+  }
+ ],
+ "稳": [
+  {
+   "text": "他走路很稳。",
+   "translation": "He walks very steadily."
+  },
+  {
+   "text": "这把椅子不太稳。",
+   "translation": "This chair isn't very stable."
+  }
+ ],
+ "弱": [
+  {
+   "text": "他身体很弱，容易生病。",
+   "translation": "He is physically weak and gets sick easily."
+  },
+  {
+   "text": "我的英语比他弱一些。",
+   "translation": "My English is a bit weaker than his."
+  }
+ ],
+ "引": [
+  {
+   "text": "香味把小猫引过来了。",
+   "translation": "The smell drew the kitten over."
+  },
+  {
+   "text": "他的话引得大家都笑了。",
+   "translation": "What he said made everyone laugh."
+  }
+ ],
+ "高潮": [
+  {
+   "text": "电影快到高潮了，大家都很安静。",
+   "translation": "The movie is nearing its climax, and everyone is quiet."
+  },
+  {
+   "text": "这个故事的高潮在最后。",
+   "translation": "The climax of this story comes at the end."
+  }
+ ],
+ "老年": [
+  {
+   "text": "爷爷的老年生活过得很开心。",
+   "translation": "Grandpa is enjoying his life in old age."
+  },
+  {
+   "text": "人到了老年，身体会慢慢变差。",
+   "translation": "When people reach old age, their health slowly declines."
+  }
+ ],
+ "伙": [
+  {
+   "text": "一伙年轻人在公园里打篮球。",
+   "translation": "A group of young people are playing basketball in the park."
+  },
+  {
+   "text": "你们是一伙的吗？",
+   "translation": "Are you guys part of the same group?"
+  }
+ ],
+ "骨头": [
+  {
+   "text": "小狗正在啃一根骨头。",
+   "translation": "The puppy is gnawing on a bone."
+  },
+  {
+   "text": "他摔了一跤，幸好没伤到骨头。",
+   "translation": "He took a fall, but luckily he didn't hurt any bones."
+  }
+ ],
+ "展现": [
+  {
+   "text": "这幅画展现了春天的美景。",
+   "translation": "This painting shows the beauty of spring."
+  },
+  {
+   "text": "比赛让他有机会展现自己的才能。",
+   "translation": "The competition gave him a chance to show off his talent."
+  }
+ ],
+ "引导": [
+  {
+   "text": "老师引导孩子们自己想办法。",
+   "translation": "The teacher guides the children to figure things out themselves."
+  },
+  {
+   "text": "导游引导我们走进了博物馆。",
+   "translation": "The tour guide led us into the museum."
+  }
+ ],
+ "形势": [
+  {
+   "text": "现在的形势对我们很有利。",
+   "translation": "The current situation is very favorable for us."
+  },
+  {
+   "text": "你觉得明年的经济形势会怎么样？",
+   "translation": "What do you think the economic situation will be like next year?"
+  }
+ ],
+ "语音": [
+  {
+   "text": "他的语音很标准，像中国人一样。",
+   "translation": "His pronunciation is very standard, just like a native Chinese speaker."
+  },
+  {
+   "text": "学外语要先练好语音。",
+   "translation": "When learning a foreign language, you should first work on your pronunciation."
+  }
+ ],
+ "大师": [
+  {
+   "text": "这位大师做的茶具非常有名。",
+   "translation": "The tea sets made by this master are very famous."
+  },
+  {
+   "text": "他从小学画，现在已经是大师了。",
+   "translation": "He has studied painting since childhood and is now a master."
+  }
+ ],
+ "收听": [
+  {
+   "text": "爷爷每天早上都收听广播。",
+   "translation": "Grandpa listens to the radio every morning."
+  },
+  {
+   "text": "你一般在哪里收听新闻？",
+   "translation": "Where do you usually listen to the news?"
+  }
+ ],
+ "腰": [
+  {
+   "text": "我坐太久了，腰有点疼。",
+   "translation": "I've been sitting too long, and my lower back hurts a bit."
+  },
+  {
+   "text": "他弯下腰捡起了钥匙。",
+   "translation": "He bent down at the waist and picked up the keys."
+  }
+ ],
+ "闪": [
+  {
+   "text": "天上闪了一下，接着就打雷了。",
+   "translation": "There was a flash in the sky, and then thunder rumbled."
+  },
+  {
+   "text": "我昨天搬东西闪了腰。",
+   "translation": "I sprained my back moving things yesterday."
+  }
+ ],
+ "机关": [
+  {
+   "text": "他在一个政府机关上班。",
+   "translation": "He works at a government office."
+  },
+  {
+   "text": "这个盒子有个机关，你能打开吗？",
+   "translation": "This box has a hidden mechanism. Can you open it?"
+  }
+ ],
+ "途中": [
+  {
+   "text": "回家的途中，我买了一些水果。",
+   "translation": "On the way home, I bought some fruit."
+  },
+  {
+   "text": "他在去机场的途中遇到了堵车。",
+   "translation": "He hit traffic on the way to the airport."
+  }
+ ],
+ "平台": [
+  {
+   "text": "我们在楼顶的平台上看星星。",
+   "translation": "We watched the stars on the rooftop terrace."
+  },
+  {
+   "text": "现在很多人在网络平台上买东西。",
+   "translation": "Nowadays many people shop on online platforms."
+  }
+ ],
+ "沉重": [
+  {
+   "text": "这个箱子太沉重了，我搬不动。",
+   "translation": "This box is too heavy. I can't move it."
+  },
+  {
+   "text": "听到这个消息，大家的心情都很沉重。",
+   "translation": "Hearing the news, everyone felt heavy-hearted."
+  }
+ ],
+ "机遇": [
+  {
+   "text": "这是一个难得的机遇，不要错过。",
+   "translation": "This is a rare opportunity, so don't miss it."
+  },
+  {
+   "text": "这次出国学习对你来说是个好机遇。",
+   "translation": "Studying abroad this time is a great opportunity for you."
+  }
+ ],
+ "年初": [
+  {
+   "text": "我们公司年初招了不少新人。",
+   "translation": "Our company hired quite a few new people at the beginning of the year."
+  },
+  {
+   "text": "年初的时候，天气还很冷。",
+   "translation": "At the start of the year, the weather was still cold."
+  }
+ ],
+ "专题": [
+  {
+   "text": "电视台正在播一个关于健康的专题。",
+   "translation": "The TV station is airing a special feature on health."
+  },
+  {
+   "text": "这期专题讲的是中国的茶文化。",
+   "translation": "This special feature is about Chinese tea culture."
+  }
+ ],
+ "微博": [
+  {
+   "text": "他每天都在微博上分享照片。",
+   "translation": "He shares photos on Weibo every day."
+  },
+  {
+   "text": "你看到我昨天发的微博了吗？",
+   "translation": "Did you see the microblog post I made yesterday?"
+  }
+ ],
+ "装备": [
+  {
+   "text": "去爬山要带好装备。",
+   "translation": "You need to bring the right gear when you go hiking."
+  },
+  {
+   "text": "这些运动装备都是新买的。",
+   "translation": "All this sports equipment is newly bought."
+  }
+ ],
+ "包子": [
+  {
+   "text": "早饭我想吃两个肉包子。",
+   "translation": "For breakfast I'd like two meat buns."
+  },
+  {
+   "text": "这家店的包子又大又好吃。",
+   "translation": "The steamed buns at this shop are big and delicious."
+  }
+ ],
+ "性质": [
+  {
+   "text": "这两件事的性质完全不同。",
+   "translation": "The nature of these two matters is completely different."
+  },
+  {
+   "text": "我们的工作性质比较特别，常常要加班。",
+   "translation": "The nature of our work is rather special, and we often work overtime."
+  }
+ ],
+ "海关": [
+  {
+   "text": "过海关的时候要检查行李。",
+   "translation": "Your luggage gets checked when you go through customs."
+  },
+  {
+   "text": "海关的人问我带了什么东西。",
+   "translation": "The customs officer asked me what I was carrying."
+  }
+ ],
+ "收看": [
+  {
+   "text": "今晚八点请大家收看新闻。",
+   "translation": "Please tune in to the news at eight tonight."
+  },
+  {
+   "text": "很多家庭都会收看春节晚会。",
+   "translation": "Many families watch the Spring Festival Gala."
+  }
+ ],
+ "老家": [
+  {
+   "text": "过年我要回老家看爷爷奶奶。",
+   "translation": "For the New Year I'm going back to my hometown to see my grandparents."
+  },
+  {
+   "text": "你的老家在哪个城市？",
+   "translation": "Which city is your hometown in?"
+  }
+ ],
+ "动人": [
+  {
+   "text": "这首歌听起来很动人。",
+   "translation": "This song sounds very moving."
+  },
+  {
+   "text": "她讲了一个动人的故事。",
+   "translation": "She told a touching story."
+  }
+ ],
+ "大爷": [
+  {
+   "text": "大爷，请问去地铁站怎么走？",
+   "translation": "Excuse me, sir, how do I get to the subway station?"
+  },
+  {
+   "text": "那位大爷每天早上都在公园里下棋。",
+   "translation": "That old man plays chess in the park every morning."
+  }
+ ],
+ "外卖": [
+  {
+   "text": "今天太累了，我们点外卖吧。",
+   "translation": "I'm too tired today, so let's order takeout."
+  },
+  {
+   "text": "这家餐厅可以送外卖吗？",
+   "translation": "Does this restaurant deliver?"
+  }
+ ],
+ "胸部": [
+  {
+   "text": "他说胸部有点疼，要去医院检查。",
+   "translation": "He said his chest hurts a little and he needs to get checked at the hospital."
+  },
+  {
+   "text": "医生给他的胸部拍了片子。",
+   "translation": "The doctor took an X-ray of his chest."
+  }
+ ],
+ "红包": [
+  {
+   "text": "过年的时候，奶奶给了我一个红包。",
+   "translation": "At New Year, Grandma gave me a red envelope."
+  },
+  {
+   "text": "朋友结婚，我们送了一个红包。",
+   "translation": "Our friend got married, so we gave a red envelope."
+  }
+ ],
+ "档案": [
+  {
+   "text": "请把这份档案放进柜子里。",
+   "translation": "Please put this file into the cabinet."
+  },
+  {
+   "text": "学校里保存着每个学生的档案。",
+   "translation": "The school keeps a record on every student."
+  }
+ ],
+ "局长": [
+  {
+   "text": "局长今天要来我们这里看看。",
+   "translation": "The bureau chief is coming to visit us today."
+  },
+  {
+   "text": "这位局长工作很认真。",
+   "translation": "This bureau chief is very conscientious in his work."
+  }
+ ],
+ "中级": [
+  {
+   "text": "我现在在学中级汉语。",
+   "translation": "I'm studying intermediate Chinese now."
+  },
+  {
+   "text": "你的汉语是中级水平吗？",
+   "translation": "Is your Chinese at an intermediate level?"
+  }
+ ],
+ "狂": [
+  {
+   "text": "他是个很狂的人，谁也不放在眼里。",
+   "translation": "He's a very arrogant person who looks down on everyone."
+  },
+  {
+   "text": "外面风狂雨大，别出门了。",
+   "translation": "The wind is wild and the rain is heavy outside, so don't go out."
+  }
+ ],
+ "职工": [
+  {
+   "text": "公司给全体职工发了礼物。",
+   "translation": "The company gave gifts to all its employees."
+  },
+  {
+   "text": "这家工厂有三百多名职工。",
+   "translation": "This factory has more than three hundred workers."
+  }
+ ],
+ "品牌": [
+  {
+   "text": "这个品牌的鞋很受年轻人欢迎。",
+   "translation": "Shoes from this brand are popular with young people."
+  },
+  {
+   "text": "你喜欢哪个品牌的手机？",
+   "translation": "Which brand of phone do you like?"
+  }
+ ],
+ "分布": [
+  {
+   "text": "中国的人口主要分布在东部。",
+   "translation": "China's population is mainly distributed in the east."
+  },
+  {
+   "text": "这种鸟分布在南方的山区。",
+   "translation": "This kind of bird is found in the mountain areas of the south."
+  }
+ ],
+ "粗": [
+  {
+   "text": "这根绳子太粗了，不好系。",
+   "translation": "This rope is too thick to tie easily."
+  },
+  {
+   "text": "他的手又粗又大。",
+   "translation": "His hands are thick and big."
+  }
+ ],
+ "码头": [
+  {
+   "text": "我们在码头等船。",
+   "translation": "We are waiting for the boat at the dock."
+  },
+  {
+   "text": "码头上有很多人在搬货。",
+   "translation": "Lots of people are moving cargo on the pier."
+  }
+ ],
+ "从而": [
+  {
+   "text": "多运动可以让身体更好，从而少生病。",
+   "translation": "Exercising more makes your body healthier, and so you get sick less."
+  },
+  {
+   "text": "他每天练习说中文，从而提高了口语水平。",
+   "translation": "He practices speaking Chinese every day, thereby improving his spoken level."
+  }
+ ],
+ "嫁": [
+  {
+   "text": "她要嫁到很远的地方去。",
+   "translation": "She is going to marry and move far away."
+  },
+  {
+   "text": "他们的女儿明年就要嫁人了。",
+   "translation": "Their daughter will get married next year."
+  }
+ ],
+ "透明": [
+  {
+   "text": "这个杯子是透明的，能看见里面的水。",
+   "translation": "This cup is transparent, so you can see the water inside."
+  },
+  {
+   "text": "公司做事要透明，大家才放心。",
+   "translation": "A company has to be transparent so that everyone feels at ease."
+  }
+ ],
+ "复制": [
+  {
+   "text": "你可以把这个文件复制给我吗？",
+   "translation": "Can you copy this file for me?"
+  },
+  {
+   "text": "请复制这段话，然后发给朋友。",
+   "translation": "Please copy this passage and then send it to a friend."
+  }
+ ],
+ "替代": [
+  {
+   "text": "手机不能完全替代电脑。",
+   "translation": "A phone cannot completely replace a computer."
+  },
+  {
+   "text": "有什么东西可以替代糖？",
+   "translation": "What can substitute for sugar?"
+  }
+ ],
+ "资产": [
+  {
+   "text": "他的资产大部分是房子。",
+   "translation": "Most of his assets are houses."
+  },
+  {
+   "text": "你知道自己有多少资产吗？",
+   "translation": "Do you know how much property you own?"
+  }
+ ],
+ "延续": [
+  {
+   "text": "这个传统已经延续了几百年。",
+   "translation": "This tradition has continued for hundreds of years."
+  },
+  {
+   "text": "这种好习惯一直延续到现在。",
+   "translation": "This good habit has continued all the way to today."
+  }
+ ],
+ "开业": [
+  {
+   "text": "新超市明天开业，有很多优惠。",
+   "translation": "The new supermarket opens tomorrow with lots of discounts."
+  },
+  {
+   "text": "这家饭店什么时候开业？",
+   "translation": "When will this restaurant open for business?"
+  }
+ ],
+ "势力": [
+  {
+   "text": "这家公司在这个地区的势力很大。",
+   "translation": "This company has a lot of influence in this region."
+  },
+  {
+   "text": "他想扩大自己的势力。",
+   "translation": "He wants to expand his own power."
+  }
+ ],
+ "潮": [
+  {
+   "text": "地下室很潮，东西容易坏。",
+   "translation": "The basement is damp, so things spoil easily."
+  },
+  {
+   "text": "这件衣服现在很潮，年轻人都爱穿。",
+   "translation": "This piece of clothing is very trendy now, and young people love to wear it."
+  }
+ ],
+ "拖": [
+  {
+   "text": "他拖着大箱子走进了车站。",
+   "translation": "He dragged a big suitcase into the station."
+  },
+  {
+   "text": "别拖了，今天的事今天做完。",
+   "translation": "Stop dragging your feet. Finish today's work today."
+  }
+ ],
+ "分离": [
+  {
+   "text": "他们分离了很多年，终于又见面了。",
+   "translation": "They were separated for many years and finally met again."
+  },
+  {
+   "text": "请把蛋黄和蛋白分离开。",
+   "translation": "Please separate the yolk from the egg white."
+  }
+ ],
+ "所长": [
+  {
+   "text": "所长正在办公室开会。",
+   "translation": "The director is having a meeting in the office."
+  },
+  {
+   "text": "我们的所长是一位很和气的人。",
+   "translation": "Our director is a very kind person."
+  }
+ ],
+ "小子": [
+  {
+   "text": "你这小子，又跑哪儿玩去了？",
+   "translation": "You little rascal, where did you run off to play again?"
+  },
+  {
+   "text": "那个小子跑得真快。",
+   "translation": "That kid runs really fast."
+  }
+ ],
+ "汇报": [
+  {
+   "text": "我下午要向经理汇报工作。",
+   "translation": "This afternoon I have to report on my work to the manager."
+  },
+  {
+   "text": "你明天把进度汇报一下，好吗？",
+   "translation": "Could you give a report on your progress tomorrow?"
+  }
+ ],
+ "志愿": [
+  {
+   "text": "我的志愿是当一名老师。",
+   "translation": "My aspiration is to become a teacher."
+  },
+  {
+   "text": "你想报什么志愿？",
+   "translation": "What do you want to put down as your choice of university and major?"
+  }
+ ],
+ "里边": [
+  {
+   "text": "盒子里边是什么东西？",
+   "translation": "What is inside the box?"
+  },
+  {
+   "text": "里边太吵了，我们出去说吧。",
+   "translation": "It's too noisy inside. Let's talk outside."
+  }
+ ],
+ "行政": [
+  {
+   "text": "她在公司做行政工作。",
+   "translation": "She does administrative work at the company."
+  },
+  {
+   "text": "行政部门明天会通知大家。",
+   "translation": "The administration department will notify everyone tomorrow."
+  }
+ ],
+ "生动": [
+  {
+   "text": "老师今天讲得很生动。",
+   "translation": "The teacher's lesson was very vivid today."
+  },
+  {
+   "text": "这篇文章写得生动有趣。",
+   "translation": "This article is written in a lively and interesting way."
+  }
+ ],
+ "毫米": [
+  {
+   "text": "今天下了十毫米的雨。",
+   "translation": "It rained ten millimeters today."
+  },
+  {
+   "text": "这个螺丝的直径是几毫米？",
+   "translation": "How many millimeters is the diameter of this screw?"
+  }
+ ],
+ "邪恶": [
+  {
+   "text": "故事里的巫师非常邪恶。",
+   "translation": "The wizard in the story is very wicked."
+  },
+  {
+   "text": "他笑得有点邪恶，我不敢看他。",
+   "translation": "He smiled a little sinisterly, and I didn't dare look at him."
+  }
+ ],
+ "偶像": [
+  {
+   "text": "她是我最喜欢的偶像。",
+   "translation": "She is my favorite idol."
+  },
+  {
+   "text": "你的偶像是谁？",
+   "translation": "Who is your idol?"
+  }
+ ],
+ "随后": [
+  {
+   "text": "他先吃了早饭，随后就去上班了。",
+   "translation": "He ate breakfast first, and soon after went to work."
+  },
+  {
+   "text": "小红先到了，小明随后也来了。",
+   "translation": "Xiaohong arrived first, and Xiaoming came soon after."
+  }
+ ],
+ "老大": [
+  {
+   "text": "我是家里的老大，有两个弟弟。",
+   "translation": "I'm the eldest in my family, with two younger brothers."
+  },
+  {
+   "text": "你们公司谁是老大？",
+   "translation": "Who's the boss at your company?"
+  }
+ ],
+ "初一": [
+  {
+   "text": "我弟弟今年刚上初一。",
+   "translation": "My younger brother just started the first year of junior high this year."
+  },
+  {
+   "text": "大年初一，我们去奶奶家拜年。",
+   "translation": "On the first day of the Lunar New Year, we go to Grandma's to wish her a happy new year."
+  }
+ ],
+ "考生": [
+  {
+   "text": "考生们都在教室外面等着。",
+   "translation": "The exam candidates are all waiting outside the classroom."
+  },
+  {
+   "text": "每个考生都要带身份证。",
+   "translation": "Every candidate must bring an ID card."
+  }
+ ],
+ "带动": [
+  {
+   "text": "旅游带动了当地的经济。",
+   "translation": "Tourism has driven the local economy."
+  },
+  {
+   "text": "他的热情带动了大家一起干。",
+   "translation": "His enthusiasm spurred everyone to work together."
+  }
+ ],
+ "快递": [
+  {
+   "text": "我的快递今天能到吗？",
+   "translation": "Will my package arrive today?"
+  },
+  {
+   "text": "快递员把包裹送到了门口。",
+   "translation": "The courier delivered the parcel to the door."
+  }
+ ],
+ "呵呵": [
+  {
+   "text": "我问他喜不喜欢，他只回了一句呵呵。",
+   "translation": "I asked if he liked it, and all he replied was a hehe."
+  },
+  {
+   "text": "大家听了都呵呵地笑起来。",
+   "translation": "Everyone heard it and started laughing, ha ha."
+  }
+ ],
+ "网址": [
+  {
+   "text": "请把网址发给我。",
+   "translation": "Please send me the web address."
+  },
+  {
+   "text": "这个网址我怎么也打不开。",
+   "translation": "I just can't open this website address."
+  }
+ ],
+ "街头": [
+  {
+   "text": "街头有很多人在唱歌。",
+   "translation": "There are many people singing on the street."
+  },
+  {
+   "text": "孩子们在街头玩得很开心。",
+   "translation": "The children are having a great time playing in the street."
+  }
+ ],
+ "提起": [
+  {
+   "text": "一提起小时候的事，他就笑了。",
+   "translation": "As soon as he mentions his childhood, he starts to smile."
+  },
+  {
+   "text": "你怎么从来不提起这件事？",
+   "translation": "Why do you never bring this up?"
+  }
+ ],
+ "通讯": [
+  {
+   "text": "山里的通讯不太方便。",
+   "translation": "Communications in the mountains aren't very convenient."
+  },
+  {
+   "text": "手机让现代通讯变得很方便。",
+   "translation": "Mobile phones have made modern communication very convenient."
+  }
+ ],
+ "节约": [
+  {
+   "text": "我们要节约用水。",
+   "translation": "We should conserve water."
+  },
+  {
+   "text": "为了节约时间，他坐地铁上班。",
+   "translation": "To save time, he takes the subway to work."
+  }
+ ],
+ "器官": [
+  {
+   "text": "眼睛是人体很重要的器官。",
+   "translation": "The eyes are a very important organ of the human body."
+  },
+  {
+   "text": "医生说他需要换一个器官。",
+   "translation": "The doctor said he needs an organ transplant."
+  }
+ ],
+ "冬": [
+  {
+   "text": "春夏秋冬，你最喜欢哪一个？",
+   "translation": "Spring, summer, autumn, winter: which do you like best?"
+  },
+  {
+   "text": "冬去春来，花又开了。",
+   "translation": "Winter has gone and spring has come, and the flowers are blooming again."
+  }
+ ],
+ "一方面": [
+  {
+   "text": "我一方面想去，一方面又怕太累。",
+   "translation": "On one hand I want to go, but on the other I'm afraid of being too tired."
+  },
+  {
+   "text": "他一方面要工作，一方面还得照顾孩子。",
+   "translation": "On the one hand he has to work, and on the other he also has to look after the kids."
+  }
+ ],
+ "箱": [
+  {
+   "text": "我买了一箱牛奶。",
+   "translation": "I bought a case of milk."
+  },
+  {
+   "text": "请帮我把这两箱书搬上楼。",
+   "translation": "Please help me carry these two boxes of books upstairs."
+  }
+ ],
+ "爱国": [
+  {
+   "text": "他是一个很爱国的人。",
+   "translation": "He is a very patriotic person."
+  },
+  {
+   "text": "老师教我们要爱国。",
+   "translation": "The teacher taught us to love our country."
+  }
+ ],
+ "指数": [
+  {
+   "text": "今天的空气质量指数很高。",
+   "translation": "Today's air quality index is very high."
+  },
+  {
+   "text": "最近的物价指数一直在涨。",
+   "translation": "The price index has been rising recently."
+  }
+ ],
+ "单元": [
+  {
+   "text": "我们这周学完了第三单元。",
+   "translation": "We finished Unit 3 this week."
+  },
+  {
+   "text": "他家住在二号楼一单元。",
+   "translation": "His home is in Building 2, Entrance 1."
+  }
+ ],
+ "代表团": [
+  {
+   "text": "学校的代表团明天去北京比赛。",
+   "translation": "The school's delegation is going to Beijing for a competition tomorrow."
+  },
+  {
+   "text": "这个代表团有十个人。",
+   "translation": "This delegation has ten people."
+  }
+ ],
+ "沉": [
+  {
+   "text": "石头沉到了水底。",
+   "translation": "The stone sank to the bottom of the water."
+  },
+  {
+   "text": "这个包太沉了，我拿不动。",
+   "translation": "This bag is too heavy. I can't carry it."
+  }
+ ],
+ "原始": [
+  {
+   "text": "这是最原始的数据，还没整理。",
+   "translation": "This is the raw data. It hasn't been organized yet."
+  },
+  {
+   "text": "原始森林里非常安静。",
+   "translation": "It's very quiet in the primeval forest."
+  }
+ ],
+ "姿势": [
+  {
+   "text": "你坐的姿势不对，对背不好。",
+   "translation": "Your sitting posture is wrong. It's bad for your back."
+  },
+  {
+   "text": "睡觉的姿势会影响健康吗？",
+   "translation": "Does the position you sleep in affect your health?"
+  }
+ ],
+ "惨": [
+  {
+   "text": "昨天的比赛我们输得好惨。",
+   "translation": "We lost so badly in yesterday's game."
+  },
+  {
+   "text": "他摔得很惨，腿都肿了。",
+   "translation": "He had a terrible fall, and his leg is swollen."
+  }
+ ],
+ "积累": [
+  {
+   "text": "学语言需要长期积累。",
+   "translation": "Learning a language takes long-term accumulation."
+  },
+  {
+   "text": "他在工作中积累了很多经验。",
+   "translation": "He has built up a lot of experience at work."
+  }
+ ],
+ "厘米": [
+  {
+   "text": "他比我高五厘米。",
+   "translation": "He is five centimeters taller than me."
+  },
+  {
+   "text": "请把这块布剪成十厘米长。",
+   "translation": "Please cut this piece of cloth to ten centimeters long."
+  }
+ ],
+ "利润": [
+  {
+   "text": "这家店的利润不高。",
+   "translation": "This shop's profits aren't high."
+  },
+  {
+   "text": "今年公司的利润比去年多。",
+   "translation": "The company's profits this year are higher than last year."
+  }
+ ],
+ "战场": [
+  {
+   "text": "他是个老兵，在战场上待过很多年。",
+   "translation": "He is a veteran who spent many years on the battlefield."
+  },
+  {
+   "text": "这里以前是一个古老的战场。",
+   "translation": "This place used to be an ancient battlefield."
+  }
+ ],
+ "监督": [
+  {
+   "text": "家长要监督孩子写作业。",
+   "translation": "Parents should supervise their children doing homework."
+  },
+  {
+   "text": "请大家一起监督食品安全。",
+   "translation": "Please, everyone, let's monitor food safety together."
+  }
+ ],
+ "厅": [
+  {
+   "text": "我们在餐厅吃晚饭吧。",
+   "translation": "Let's have dinner in the dining hall."
+  },
+  {
+   "text": "客厅里放着一张大沙发。",
+   "translation": "There is a big sofa in the living room."
+  }
+ ],
+ "周边": [
+  {
+   "text": "学校周边有很多小吃店。",
+   "translation": "There are many snack shops around the school."
+  },
+  {
+   "text": "你家周边的交通方便吗？",
+   "translation": "Is the transportation around your home convenient?"
+  }
+ ],
+ "审判": [
+  {
+   "text": "法官明天会审判这个案子。",
+   "translation": "The judge will try this case tomorrow."
+  },
+  {
+   "text": "法院今天审判了这起案件。",
+   "translation": "The court held the trial for this case today."
+  }
+ ],
+ "健身": [
+  {
+   "text": "我每周去健身房健身三次。",
+   "translation": "I work out at the gym three times a week."
+  },
+  {
+   "text": "他喜欢早上去公园健身。",
+   "translation": "He likes to exercise in the park in the morning."
+  }
+ ],
+ "坑": [
+  {
+   "text": "路上有个大坑，小心点。",
+   "translation": "There's a big hole in the road. Be careful."
+  },
+  {
+   "text": "买这个手机我被坑了。",
+   "translation": "I got ripped off buying this phone."
+  }
+ ],
+ "大姐": [
+  {
+   "text": "我大姐比我大五岁。",
+   "translation": "My eldest sister is five years older than me."
+  },
+  {
+   "text": "大姐，请问地铁站怎么走？",
+   "translation": "Excuse me, miss, how do I get to the subway station?"
+  }
+ ],
+ "本子": [
+  {
+   "text": "我在本子上写下了他的电话。",
+   "translation": "I wrote down his phone number in my notebook."
+  },
+  {
+   "text": "你有多余的本子吗？",
+   "translation": "Do you have a spare notebook?"
+  }
+ ],
+ "勋章": [
+  {
+   "text": "他胸前戴着一枚勋章。",
+   "translation": "He wears a medal on his chest."
+  },
+  {
+   "text": "爷爷把他的勋章放在盒子里。",
+   "translation": "Grandpa keeps his medals in a box."
+  }
+ ],
+ "充电": [
+  {
+   "text": "手机没电了，我去充电。",
+   "translation": "My phone is out of battery. I'm going to charge it."
+  },
+  {
+   "text": "周末我想好好休息，给自己充电。",
+   "translation": "This weekend I want to rest well and recharge my batteries."
+  }
+ ],
+ "乖": [
+  {
+   "text": "这个孩子很乖，从不哭闹。",
+   "translation": "This child is very well-behaved and never cries or throws tantrums."
+  },
+  {
+   "text": "宝贝乖，快把牛奶喝了。",
+   "translation": "Be a good boy, sweetie, and drink your milk."
+  }
+ ],
+ "哼": [
+  {
+   "text": "哼，我才不信你的话呢！",
+   "translation": "Humph, I don't believe a word you say!"
+  },
+  {
+   "text": "他哼了一声，转身就走了。",
+   "translation": "He gave a snort and turned and left."
+  }
+ ],
+ "剧本": [
+  {
+   "text": "他正在写一个新剧本。",
+   "translation": "He is writing a new script."
+  },
+  {
+   "text": "这部电影的剧本很有意思。",
+   "translation": "The screenplay of this movie is very interesting."
+  }
+ ],
+ "心态": [
+  {
+   "text": "好心态比好成绩更重要。",
+   "translation": "A good mindset matters more than good grades."
+  },
+  {
+   "text": "考试前要保持平和的心态。",
+   "translation": "Before an exam, you should keep a calm state of mind."
+  }
+ ],
+ "商务": [
+  {
+   "text": "他经常出差，去谈商务合作。",
+   "translation": "He often travels on business to discuss commercial cooperation."
+  },
+  {
+   "text": "我买了一张商务舱的机票。",
+   "translation": "I bought a business class plane ticket."
+  }
+ ],
+ "分散": [
+  {
+   "text": "上课时别分散注意力。",
+   "translation": "Don't let your attention get distracted in class."
+  },
+  {
+   "text": "他们一家人分散在不同的城市。",
+   "translation": "His family is scattered across different cities."
+  }
+ ],
+ "评估": [
+  {
+   "text": "老师要评估每个学生的水平。",
+   "translation": "The teacher needs to assess each student's level."
+  },
+  {
+   "text": "医生会评估你的身体情况。",
+   "translation": "The doctor will evaluate your physical condition."
+  }
+ ],
+ "完毕": [
+  {
+   "text": "准备完毕，可以出发了。",
+   "translation": "Preparations are complete. We can set off."
+  },
+  {
+   "text": "检查完毕，一切正常。",
+   "translation": "The inspection is finished and everything is normal."
+  }
+ ],
+ "户": [
+  {
+   "text": "我们这栋楼住了十几户人家。",
+   "translation": "A dozen or so households live in our building."
+  },
+  {
+   "text": "每户人家都收到了一份通知。",
+   "translation": "Every household received a notice."
+  }
+ ],
+ "创意": [
+  {
+   "text": "这个广告很有创意。",
+   "translation": "This ad is very creative."
+  },
+  {
+   "text": "你有什么好的创意吗？",
+   "translation": "Do you have any good ideas?"
+  }
+ ],
+ "宝石": [
+  {
+   "text": "她的戒指上有一颗红色的宝石。",
+   "translation": "There is a red gem on her ring."
+  },
+  {
+   "text": "这颗宝石是奶奶留给我的。",
+   "translation": "My grandma left this gem to me."
+  }
+ ],
+ "阻碍": [
+  {
+   "text": "大雪阻碍了我们的行程。",
+   "translation": "The heavy snow held up our trip."
+  },
+  {
+   "text": "你觉得什么阻碍了你学外语？",
+   "translation": "What do you think is hindering you from learning a foreign language?"
+  }
+ ],
+ "阳台": [
+  {
+   "text": "我喜欢在阳台上喝茶。",
+   "translation": "I like drinking tea on the balcony."
+  },
+  {
+   "text": "阳台上的花都开了。",
+   "translation": "The flowers on the balcony have all bloomed."
+  }
+ ],
+ "手工": [
+  {
+   "text": "这个杯子是手工做的。",
+   "translation": "This cup is handmade."
+  },
+  {
+   "text": "孩子们都喜欢上手工课。",
+   "translation": "The kids all love handicraft class."
+  }
+ ],
+ "协调": [
+  {
+   "text": "这件衣服的颜色很协调。",
+   "translation": "The colors of this outfit go together well."
+  },
+  {
+   "text": "我们先协调一下大家的时间吧。",
+   "translation": "Let's first coordinate everyone's schedules."
+  }
+ ],
+ "全场": [
+  {
+   "text": "他一开口唱歌，全场都安静了。",
+   "translation": "As soon as he started singing, the whole room went quiet."
+  },
+  {
+   "text": "比赛结束后，全场观众一起鼓掌。",
+   "translation": "After the match, the whole crowd applauded together."
+  }
+ ],
+ "买卖": [
+  {
+   "text": "他在市场上做买卖。",
+   "translation": "He does business at the market."
+  },
+  {
+   "text": "这笔买卖划算吗？",
+   "translation": "Is this deal worth it?"
+  }
+ ],
+ "何必": [
+  {
+   "text": "天这么热，你何必出去呢？",
+   "translation": "It's so hot, why bother going out?"
+  },
+  {
+   "text": "何必为一件小事生气呢？",
+   "translation": "Why get angry over such a small thing?"
+  }
+ ],
+ "电源": [
+  {
+   "text": "请先把电源打开。",
+   "translation": "Please turn on the power first."
+  },
+  {
+   "text": "找不到电源，手机没法充电。",
+   "translation": "I can't find a power outlet, so I can't charge my phone."
+  }
+ ],
+ "默默": [
+  {
+   "text": "她默默地坐在窗边。",
+   "translation": "She sat quietly by the window."
+  },
+  {
+   "text": "他默默地帮了我很多。",
+   "translation": "He helped me a lot without saying a word."
+  }
+ ],
+ "暂停": [
+  {
+   "text": "比赛因为下雨暂停了。",
+   "translation": "The match was suspended because of rain."
+  },
+  {
+   "text": "我们暂停一下，休息五分钟吧。",
+   "translation": "Let's pause for a moment and take a five-minute break."
+  }
+ ],
+ "放手": [
+  {
+   "text": "孩子长大了，你该放手了。",
+   "translation": "The child has grown up; it's time for you to let go."
+  },
+  {
+   "text": "抓紧绳子，千万别放手！",
+   "translation": "Hold the rope tight and whatever you do, don't let go!"
+  }
+ ],
+ "个别": [
+  {
+   "text": "只有个别学生没交作业。",
+   "translation": "Only a few students didn't hand in their homework."
+  },
+  {
+   "text": "这只是个别情况，不用担心。",
+   "translation": "This is just an isolated case, so don't worry."
+  }
+ ],
+ "不光": [
+  {
+   "text": "他不光会唱歌，还会跳舞。",
+   "translation": "He can not only sing but also dance."
+  },
+  {
+   "text": "不光你累，大家都累了。",
+   "translation": "It's not just you who's tired; everyone is."
+  }
+ ],
+ "特定": [
+  {
+   "text": "这个软件只在特定的时间能用。",
+   "translation": "This app can only be used at certain set times."
+  },
+  {
+   "text": "这种药只适合特定的人。",
+   "translation": "This medicine only suits specific people."
+  }
+ ],
+ "传奇": [
+  {
+   "text": "这是一个关于海盗的传奇故事。",
+   "translation": "This is a legendary tale about pirates."
+  },
+  {
+   "text": "他的一生很传奇。",
+   "translation": "His life was truly legendary."
+  }
+ ],
+ "吨": [
+  {
+   "text": "这辆卡车能装十吨货。",
+   "translation": "This truck can carry ten tons of goods."
+  },
+  {
+   "text": "一吨大米多少钱？",
+   "translation": "How much does a ton of rice cost?"
+  }
+ ],
+ "起诉": [
+  {
+   "text": "他决定起诉那家公司。",
+   "translation": "He decided to sue that company."
+  },
+  {
+   "text": "你为什么要起诉他们？",
+   "translation": "Why do you want to sue them?"
+  }
+ ],
+ "联邦": [
+  {
+   "text": "德国是一个联邦国家。",
+   "translation": "Germany is a federal country."
+  },
+  {
+   "text": "这个联邦由十几个州组成。",
+   "translation": "This federation is made up of a dozen or so states."
+  }
+ ],
+ "体系": [
+  {
+   "text": "学校有一套完整的教学体系。",
+   "translation": "The school has a complete teaching system."
+  },
+  {
+   "text": "这个体系看起来很复杂。",
+   "translation": "This system looks very complicated."
+  }
+ ],
+ "人性": [
+  {
+   "text": "他的故事让我思考人性。",
+   "translation": "His story made me think about human nature."
+  },
+  {
+   "text": "人性是很复杂的。",
+   "translation": "Human nature is very complex."
+  }
+ ],
+ "场景": [
+  {
+   "text": "这部电影的场景太美了。",
+   "translation": "The scenes in this movie are so beautiful."
+  },
+  {
+   "text": "你能想象一下那个场景吗？",
+   "translation": "Can you picture that scene?"
+  }
+ ],
+ "教材": [
+  {
+   "text": "这本教材很适合初学者。",
+   "translation": "This textbook is great for beginners."
+  },
+  {
+   "text": "新学期的教材发了吗？",
+   "translation": "Have the materials for the new term been handed out yet?"
+  }
+ ],
+ "成交": [
+  {
+   "text": "这辆车三万块成交。",
+   "translation": "The deal for this car closed at thirty thousand yuan."
+  },
+  {
+   "text": "价格谈好了，今天就能成交。",
+   "translation": "The price is settled, so we can close the deal today."
+  }
+ ],
+ "本领": [
+  {
+   "text": "他有一身好本领。",
+   "translation": "He has a great set of skills."
+  },
+  {
+   "text": "小狗学会了很多新本领。",
+   "translation": "The puppy has learned a lot of new tricks."
+  }
+ ],
+ "饼": [
+  {
+   "text": "我早饭吃了一张饼。",
+   "translation": "I had a flatbread for breakfast."
+  },
+  {
+   "text": "妈妈做的饼又香又脆。",
+   "translation": "The pancakes my mom makes are fragrant and crispy."
+  }
+ ],
+ "民众": [
+  {
+   "text": "地震后，民众互相帮助。",
+   "translation": "After the earthquake, people helped one another."
+  },
+  {
+   "text": "这个活动很受民众欢迎。",
+   "translation": "This event is very popular with the public."
+  }
+ ],
+ "陆续": [
+  {
+   "text": "客人们陆续到了。",
+   "translation": "The guests arrived one after another."
+  },
+  {
+   "text": "花园里的花陆续开了。",
+   "translation": "The flowers in the garden are blooming one by one."
+  }
+ ],
+ "罢了": [
+  {
+   "text": "我只是开个玩笑罢了。",
+   "translation": "I was just joking, that's all."
+  },
+  {
+   "text": "这不过是一件小事罢了。",
+   "translation": "It's merely a small matter."
+  }
+ ],
+ "检验": [
+  {
+   "text": "食品要经过检验才能卖。",
+   "translation": "Food has to be inspected before it can be sold."
+  },
+  {
+   "text": "考试可以检验你学得怎么样。",
+   "translation": "An exam can test how well you have learned."
+  }
+ ],
+ "尺": [
+  {
+   "text": "借我一把尺，我要画线。",
+   "translation": "Lend me a ruler, I need to draw a line."
+  },
+  {
+   "text": "你有没有带尺来？",
+   "translation": "Did you bring a ruler?"
+  }
+ ],
+ "个体": [
+  {
+   "text": "每个人都是独特的个体。",
+   "translation": "Everyone is a unique individual."
+  },
+  {
+   "text": "每个个体的想法都不一样。",
+   "translation": "Every individual thinks differently."
+  }
+ ],
+ "流传": [
+  {
+   "text": "这个故事流传了几百年。",
+   "translation": "This story has been passed down for hundreds of years."
+  },
+  {
+   "text": "这首歌在网上流传得很快。",
+   "translation": "This song spread quickly online."
+  }
+ ],
+ "老妈": [
+  {
+   "text": "我老妈做的菜最好吃。",
+   "translation": "My mom's cooking is the best."
+  },
+  {
+   "text": "老妈，我今晚不回家吃饭。",
+   "translation": "Mom, I won't be home for dinner tonight."
+  }
+ ],
+ "歌迷": [
+  {
+   "text": "歌迷们在门口排起了长队。",
+   "translation": "The fans lined up in a long queue at the entrance."
+  },
+  {
+   "text": "我姐姐是这位歌手的歌迷。",
+   "translation": "My older sister is a fan of this singer."
+  }
+ ],
+ "论坛": [
+  {
+   "text": "我常常在论坛上看大家的讨论。",
+   "translation": "I often read people's discussions on the forum."
+  },
+  {
+   "text": "你可以去论坛问一问。",
+   "translation": "You could go ask on the forum."
+  }
+ ],
+ "召唤": [
+  {
+   "text": "妈妈在楼下召唤我回家吃饭。",
+   "translation": "Mom called me from downstairs to come home for dinner."
+  },
+  {
+   "text": "他举起手，召唤朋友过来。",
+   "translation": "He raised his hand to beckon his friend over."
+  }
+ ],
+ "早期": [
+  {
+   "text": "这是他早期的作品。",
+   "translation": "This is one of his early works."
+  },
+  {
+   "text": "早期的手机只能打电话。",
+   "translation": "Early mobile phones could only make calls."
+  }
+ ],
+ "委员": [
+  {
+   "text": "他是班里的学习委员。",
+   "translation": "He is the academic representative of our class."
+  },
+  {
+   "text": "委员们正在开会讨论这件事。",
+   "translation": "The committee members are in a meeting discussing this matter."
+  }
+ ],
+ "收购": [
+  {
+   "text": "这家公司被收购了。",
+   "translation": "This company has been acquired."
+  },
+  {
+   "text": "商人到村里收购苹果。",
+   "translation": "The merchants come to the village to buy up apples."
+  }
+ ],
+ "著作": [
+  {
+   "text": "这本书是他最有名的著作。",
+   "translation": "This book is his most famous work."
+  },
+  {
+   "text": "他一生写了很多著作。",
+   "translation": "He wrote many books in his lifetime."
+  }
+ ],
+ "小小": [
+  {
+   "text": "小小的房间里放满了书。",
+   "translation": "The tiny room was filled with books."
+  },
+  {
+   "text": "这点小小的心意，请收下。",
+   "translation": "Please accept this small token of appreciation."
+  }
+ ],
+ "认定": [
+  {
+   "text": "大家都认定他会赢。",
+   "translation": "Everyone is convinced he will win."
+  },
+  {
+   "text": "我认定这个办法是对的。",
+   "translation": "I firmly believe this method is right."
+  }
+ ],
+ "群体": [
+  {
+   "text": "年轻人是这个游戏的主要群体。",
+   "translation": "Young people are the main group playing this game."
+  },
+  {
+   "text": "他很难融入这个群体。",
+   "translation": "He finds it hard to fit into this group."
+  }
+ ],
+ "大妈": [
+  {
+   "text": "楼下的大妈每天都跳舞。",
+   "translation": "The auntie downstairs dances every day."
+  },
+  {
+   "text": "大妈，这个苹果怎么卖？",
+   "translation": "Auntie, how much are these apples?"
+  }
+ ],
+ "快餐": [
+  {
+   "text": "中午我们去吃快餐吧。",
+   "translation": "Let's go get some fast food for lunch."
+  },
+  {
+   "text": "快餐方便，但不太健康。",
+   "translation": "Fast food is convenient, but not very healthy."
+  }
+ ],
+ "机制": [
+  {
+   "text": "这个游戏的奖励机制很有意思。",
+   "translation": "The reward mechanism in this game is quite interesting."
+  },
+  {
+   "text": "公司需要一个更好的管理机制。",
+   "translation": "The company needs a better management mechanism."
+  }
+ ],
+ "货币": [
+  {
+   "text": "每个国家都有自己的货币。",
+   "translation": "Every country has its own currency."
+  },
+  {
+   "text": "你知道这种货币怎么兑换吗？",
+   "translation": "Do you know how to exchange this currency?"
+  }
+ ],
+ "循环": [
+  {
+   "text": "水在大自然中不停地循环。",
+   "translation": "Water keeps circulating through nature."
+  },
+  {
+   "text": "这首歌我已经循环播放一整天了。",
+   "translation": "I've had this song on repeat all day."
+  }
+ ],
+ "缩小": [
+  {
+   "text": "把这张照片缩小一点吧。",
+   "translation": "Let's make this photo a bit smaller."
+  },
+  {
+   "text": "你们之间的差距正在缩小。",
+   "translation": "The gap between you is getting smaller."
+  }
+ ],
+ "坏处": [
+  {
+   "text": "熬夜对身体有很多坏处。",
+   "translation": "Staying up late is bad for your health in many ways."
+  },
+  {
+   "text": "这个办法有什么坏处吗？",
+   "translation": "Does this method have any drawbacks?"
+  }
+ ],
+ "脆弱": [
+  {
+   "text": "刚出生的小鸟很脆弱。",
+   "translation": "Newborn birds are very fragile."
+  },
+  {
+   "text": "他看起来很坚强，其实很脆弱。",
+   "translation": "He looks strong, but he is actually quite fragile."
+  }
+ ],
+ "哥们": [
+  {
+   "text": "我和这个哥们是大学同学。",
+   "translation": "This buddy and I were college classmates."
+  },
+  {
+   "text": "借我一支笔，哥们！",
+   "translation": "Lend me a pen, buddy!"
+  }
+ ],
+ "上下": [
+  {
+   "text": "全家上下都盼着过年。",
+   "translation": "The whole family, young and old, is looking forward to the New Year."
+  },
+  {
+   "text": "他看起来三十岁上下。",
+   "translation": "He looks to be around thirty."
+  }
+ ],
+ "分类": [
+  {
+   "text": "请把这些书分类放好。",
+   "translation": "Please sort these books by category and put them away."
+  },
+  {
+   "text": "垃圾要怎么分类？",
+   "translation": "How should the garbage be sorted?"
+  }
+ ],
+ "尿": [
+  {
+   "text": "弟弟小时候常常尿床。",
+   "translation": "My little brother often wet the bed when he was small."
+  },
+  {
+   "text": "小狗在门口尿了一次。",
+   "translation": "The puppy peed once by the door."
+  }
+ ],
+ "爽": [
+  {
+   "text": "夏天喝一杯冰水真爽！",
+   "translation": "A glass of ice water in summer feels so refreshing!"
+  },
+  {
+   "text": "洗完澡以后，整个人都爽了。",
+   "translation": "After the shower, I felt great all over."
+  }
+ ],
+ "听力": [
+  {
+   "text": "爷爷的听力不太好了。",
+   "translation": "Grandpa's hearing isn't so good anymore."
+  },
+  {
+   "text": "你的英语听力练得怎么样？",
+   "translation": "How is your English listening practice going?"
+  }
+ ],
+ "无比": [
+  {
+   "text": "听到这个消息，她无比高兴。",
+   "translation": "She was incredibly happy to hear the news."
+  },
+  {
+   "text": "他对这座城市无比熟悉。",
+   "translation": "He knows this city like the back of his hand."
+  }
+ ],
+ "有力": [
+  {
+   "text": "他的声音很有力。",
+   "translation": "His voice is strong and forceful."
+  },
+  {
+   "text": "这个孩子跑得又快又有力。",
+   "translation": "This child runs fast and strong."
+  }
+ ],
+ "前提": [
+  {
+   "text": "努力是成功的前提。",
+   "translation": "Hard work is a prerequisite for success."
+  },
+  {
+   "text": "在安全的前提下，你可以试试。",
+   "translation": "As long as it's safe, you can give it a try."
+  }
+ ],
+ "向上": [
+  {
+   "text": "小树一直在向上长。",
+   "translation": "The little tree keeps growing upward."
+  },
+  {
+   "text": "年轻人要积极向上。",
+   "translation": "Young people should be positive and strive to improve."
+  }
+ ],
+ "推开": [
+  {
+   "text": "他推开门走了进去。",
+   "translation": "He pushed the door open and walked in."
+  },
+  {
+   "text": "你为什么把我推开？",
+   "translation": "Why did you push me away?"
+  }
+ ],
+ "搞笑": [
+  {
+   "text": "这个视频太搞笑了！",
+   "translation": "This video is so funny!"
+  },
+  {
+   "text": "他说话很搞笑，大家都爱听。",
+   "translation": "He's hilarious when he talks, and everyone loves listening."
+  }
+ ],
+ "闯": [
+  {
+   "text": "小狗突然闯进了教室。",
+   "translation": "A puppy suddenly barged into the classroom."
+  },
+  {
+   "text": "不要闯红灯，太危险了！",
+   "translation": "Don't run red lights, it's too dangerous!"
+  }
+ ],
+ "可恶": [
+  {
+   "text": "这只蚊子太可恶了！",
+   "translation": "This mosquito is so annoying!"
+  },
+  {
+   "text": "谁把我的伞拿走了？真可恶！",
+   "translation": "Who took my umbrella? How infuriating!"
+  }
+ ],
+ "长官": [
+  {
+   "text": "长官，我们已经准备好了。",
+   "translation": "Sir, we are ready."
+  },
+  {
+   "text": "那位长官对士兵很严格。",
+   "translation": "That officer is very strict with his soldiers."
+  }
+ ],
+ "手法": [
+  {
+   "text": "这位画家的手法很特别。",
+   "translation": "This painter's technique is very distinctive."
+  },
+  {
+   "text": "老师用新的手法教我们写字。",
+   "translation": "The teacher uses a new method to teach us writing."
+  }
+ ],
+ "依": [
+  {
+   "text": "依我看，这件事不难。",
+   "translation": "In my view, this isn't hard."
+  },
+  {
+   "text": "你就依我这一次吧。",
+   "translation": "Just go along with me this once."
+  }
+ ],
+ "一同": [
+  {
+   "text": "我们一同去爬山吧。",
+   "translation": "Let's go hiking together."
+  },
+  {
+   "text": "他和朋友一同来到了学校。",
+   "translation": "He came to school together with his friend."
+  }
+ ],
+ "当天": [
+  {
+   "text": "这张票当天有效。",
+   "translation": "This ticket is valid only on the same day."
+  },
+  {
+   "text": "你能当天回来吗？",
+   "translation": "Can you come back the same day?"
+  }
+ ],
+ "挣": [
+  {
+   "text": "哥哥在外面挣钱养家。",
+   "translation": "My older brother earns money away from home to support the family."
+  },
+  {
+   "text": "他每个月挣不少钱。",
+   "translation": "He earns quite a bit of money every month."
+  }
+ ],
+ "密": [
+  {
+   "text": "头发又黑又密。",
+   "translation": "Her hair is black and thick."
+  },
+  {
+   "text": "森林里的树很密，阳光照不进来。",
+   "translation": "The trees in the forest are so dense that sunlight can't get in."
+  }
+ ],
+ "晚报": [
+  {
+   "text": "爷爷每天都看晚报。",
+   "translation": "Grandpa reads the evening paper every day."
+  },
+  {
+   "text": "这条新闻是晚报上登的。",
+   "translation": "This news story was in the evening paper."
+  }
+ ],
+ "智力": [
+  {
+   "text": "这个游戏能锻炼孩子的智力。",
+   "translation": "This game can help develop children's intelligence."
+  },
+  {
+   "text": "他智力很高，学东西很快。",
+   "translation": "He is very intelligent and learns things quickly."
+  }
+ ],
+ "局面": [
+  {
+   "text": "比赛的局面一下子变了。",
+   "translation": "The situation in the match changed all of a sudden."
+  },
+  {
+   "text": "现在的局面对我们很有利。",
+   "translation": "The current situation is very favorable to us."
+  }
+ ],
+ "青": [
+  {
+   "text": "春天到了，山上一片青绿。",
+   "translation": "Spring has come, and the mountain is a sea of green."
+  },
+  {
+   "text": "这件衣服是青色的。",
+   "translation": "This piece of clothing is blue-green."
+  }
+ ],
+ "考察": [
+  {
+   "text": "经理去南方考察市场了。",
+   "translation": "The manager went south to survey the market."
+  },
+  {
+   "text": "他们来这里考察一下环境。",
+   "translation": "They came here to look over the surroundings."
+  }
+ ],
+ "公元": [
+  {
+   "text": "这座古城是公元前建的。",
+   "translation": "This ancient city was built before the Common Era."
+  },
+  {
+   "text": "长城是公元前就开始修建的吗？",
+   "translation": "Did construction of the Great Wall begin before the Common Era?"
+  }
+ ],
+ "高尚": [
+  {
+   "text": "他是一个高尚的人。",
+   "translation": "He is a person of noble character."
+  },
+  {
+   "text": "帮助别人是一种高尚的行为。",
+   "translation": "Helping others is a noble thing to do."
+  }
+ ],
+ "玉": [
+  {
+   "text": "奶奶手上戴着一只玉镯。",
+   "translation": "Grandma wears a jade bracelet on her wrist."
+  },
+  {
+   "text": "这块玉摸起来很光滑。",
+   "translation": "This piece of jade feels very smooth."
+  }
+ ],
+ "多谢": [
+  {
+   "text": "多谢你的帮助！",
+   "translation": "Thanks a lot for your help!"
+  },
+  {
+   "text": "多谢，我自己来就行。",
+   "translation": "Thanks, I can manage by myself."
+  }
+ ],
+ "在内": [
+  {
+   "text": "包括我在内，一共五个人。",
+   "translation": "Including me, there are five people in all."
+  },
+  {
+   "text": "房租也算在内吗？",
+   "translation": "Is the rent included too?"
+  }
+ ],
+ "主持人": [
+  {
+   "text": "这位主持人说话很幽默。",
+   "translation": "This host is very humorous."
+  },
+  {
+   "text": "你喜欢哪个节目的主持人？",
+   "translation": "Which show's host do you like?"
+  }
+ ],
+ "约定": [
+  {
+   "text": "我们约定周末一起去看电影。",
+   "translation": "We agreed to go see a movie together this weekend."
+  },
+  {
+   "text": "你还记得我们的约定吗？",
+   "translation": "Do you still remember our promise?"
+  }
+ ],
+ "败": [
+  {
+   "text": "我们队今天败给了他们。",
+   "translation": "Our team lost to them today."
+  },
+  {
+   "text": "败了也没关系，下次再来。",
+   "translation": "It's fine to lose. We'll try again next time."
+  }
+ ],
+ "转向": [
+  {
+   "text": "汽车在路口转向右边。",
+   "translation": "The car turned right at the intersection."
+  },
+  {
+   "text": "公司把重点转向了网上销售。",
+   "translation": "The company shifted its focus to online sales."
+  }
+ ],
+ "上级": [
+  {
+   "text": "这件事要先问问上级。",
+   "translation": "We need to ask our superiors about this first."
+  },
+  {
+   "text": "他的上级对他很满意。",
+   "translation": "His boss is very satisfied with him."
+  }
+ ],
+ "有的是": [
+  {
+   "text": "别担心，我们有的是时间。",
+   "translation": "Don't worry, we have plenty of time."
+  },
+  {
+   "text": "这儿好吃的有的是，你随便挑。",
+   "translation": "There's plenty of good food here, so take your pick."
+  }
+ ],
+ "一再": [
+  {
+   "text": "老师一再提醒我们别迟到。",
+   "translation": "The teacher repeatedly reminded us not to be late."
+  },
+  {
+   "text": "他一再说对不起。",
+   "translation": "He kept saying sorry over and over."
+  }
+ ],
+ "推销": [
+  {
+   "text": "他在街上推销新手机。",
+   "translation": "He is selling new phones on the street."
+  },
+  {
+   "text": "这个人很会推销自己的产品。",
+   "translation": "This person is very good at marketing his own products."
+  }
+ ],
+ "流动": [
+  {
+   "text": "河水慢慢地流动。",
+   "translation": "The river water flows slowly."
+  },
+  {
+   "text": "房间要开窗，让空气流动起来。",
+   "translation": "Open the window so the air in the room can circulate."
+  }
+ ],
+ "部位": [
+  {
+   "text": "你身体哪个部位不舒服？",
+   "translation": "Which part of your body feels unwell?"
+  },
+  {
+   "text": "这个部位要多按一按。",
+   "translation": "This spot needs more massaging."
+  }
+ ],
+ "大叔": [
+  {
+   "text": "大叔，请问去车站怎么走？",
+   "translation": "Excuse me, sir, how do I get to the station?"
+  },
+  {
+   "text": "那位大叔在路边卖水果。",
+   "translation": "That man is selling fruit by the roadside."
+  }
+ ],
+ "降临": [
+  {
+   "text": "夜幕降临了，街上亮起了灯。",
+   "translation": "Night fell, and the streetlights came on."
+  },
+  {
+   "text": "春天降临了，花都开了。",
+   "translation": "Spring has arrived and the flowers are all in bloom."
+  }
+ ],
+ "动态": [
+  {
+   "text": "我常在手机上看朋友的动态。",
+   "translation": "I often check my friends' updates on my phone."
+  },
+  {
+   "text": "记者一直关注市场的最新动态。",
+   "translation": "The reporter keeps following the latest developments in the market."
+  }
+ ],
+ "安置": [
+  {
+   "text": "公司把新同事安置在二楼。",
+   "translation": "The company put the new colleague on the second floor."
+  },
+  {
+   "text": "搬家后，东西都安置好了吗？",
+   "translation": "After the move, is everything settled in?"
+  }
+ ],
+ "纪律": [
+  {
+   "text": "上课要遵守纪律。",
+   "translation": "You must follow the rules in class."
+  },
+  {
+   "text": "这个班的纪律很好。",
+   "translation": "This class is very well disciplined."
+  }
+ ],
+ "甜蜜": [
+  {
+   "text": "他们的生活很甜蜜。",
+   "translation": "Their life together is very sweet."
+  },
+  {
+   "text": "她笑得很甜蜜。",
+   "translation": "She smiled sweetly."
+  }
+ ],
+ "转换": [
+  {
+   "text": "请把单位转换一下。",
+   "translation": "Please convert the units."
+  },
+  {
+   "text": "你可以转换一下心情。",
+   "translation": "You could try to change your mood."
+  }
+ ],
+ "上传": [
+  {
+   "text": "照片我已经上传了。",
+   "translation": "I've already uploaded the photos."
+  },
+  {
+   "text": "请把文件上传到网站上。",
+   "translation": "Please upload the file to the website."
+  }
+ ],
+ "紧密": [
+  {
+   "text": "我们两家的关系很紧密。",
+   "translation": "Our two families are very close."
+  },
+  {
+   "text": "这两个部门要紧密合作。",
+   "translation": "These two departments need to work closely together."
+  }
+ ],
+ "长江": [
+  {
+   "text": "长江是中国最长的河。",
+   "translation": "The Yangtze is the longest river in China."
+  },
+  {
+   "text": "我们坐船游览了长江。",
+   "translation": "We took a boat tour on the Yangtze."
+  }
+ ],
+ "大赛": [
+  {
+   "text": "她报名参加了歌唱大赛。",
+   "translation": "She signed up for the singing competition."
+  },
+  {
+   "text": "这次大赛有很多人参加。",
+   "translation": "Many people are taking part in this contest."
+  }
+ ],
+ "担保": [
+  {
+   "text": "我可以担保他没问题。",
+   "translation": "I can vouch that he's fine."
+  },
+  {
+   "text": "银行要有人担保才会借钱。",
+   "translation": "The bank will only lend money if someone guarantees the loan."
+  }
+ ],
+ "动员": [
+  {
+   "text": "老师动员大家一起打扫教室。",
+   "translation": "The teacher rallied everyone to clean the classroom together."
+  },
+  {
+   "text": "学校动员学生参加比赛。",
+   "translation": "The school encouraged students to join the competition."
+  }
+ ],
+ "师父": [
+  {
+   "text": "师父教我做木工。",
+   "translation": "My master taught me woodworking."
+  },
+  {
+   "text": "我的师父做面条做了很多年。",
+   "translation": "My teacher has been making noodles for many years."
+  }
+ ],
+ "大奖": [
+  {
+   "text": "她在比赛中拿到了大奖。",
+   "translation": "She won the grand prize in the competition."
+  },
+  {
+   "text": "谁能得到今年的大奖？",
+   "translation": "Who will get this year's grand prize?"
+  }
+ ],
+ "获奖": [
+  {
+   "text": "他的作品获奖了。",
+   "translation": "His work won an award."
+  },
+  {
+   "text": "恭喜你获奖！",
+   "translation": "Congratulations on winning the award!"
+  }
+ ],
+ "外界": [
+  {
+   "text": "他不想和外界联系。",
+   "translation": "He doesn't want to be in touch with the outside world."
+  },
+  {
+   "text": "外界对这件事有很多看法。",
+   "translation": "People outside have a lot of opinions about this matter."
+  }
+ ],
+ "因而": [
+  {
+   "text": "昨晚下了大雪，因而路上堵车了。",
+   "translation": "It snowed heavily last night, so there was a traffic jam."
+  },
+  {
+   "text": "他很努力，因而进步很快。",
+   "translation": "He works hard, and as a result he is improving fast."
+  }
+ ],
+ "上门": [
+  {
+   "text": "快递员会上门取件。",
+   "translation": "The courier will come to your door to pick up the parcel."
+  },
+  {
+   "text": "周末朋友要上门看我们。",
+   "translation": "Some friends are coming over to see us this weekend."
+  }
+ ],
+ "股份": [
+  {
+   "text": "他在这家公司有一些股份。",
+   "translation": "He has some shares in this company."
+  },
+  {
+   "text": "你想买这家公司的股份吗？",
+   "translation": "Do you want to buy shares in this company?"
+  }
+ ],
+ "进化": [
+  {
+   "text": "人类是慢慢进化来的。",
+   "translation": "Humans evolved slowly over time."
+  },
+  {
+   "text": "手机一直在进化，越来越好用。",
+   "translation": "Phones keep evolving and get easier to use."
+  }
+ ],
+ "阵": [
+  {
+   "text": "外面下了一阵雨。",
+   "translation": "There was a spell of rain outside."
+  },
+  {
+   "text": "刚才一阵风把门吹开了。",
+   "translation": "A gust of wind just blew the door open."
+  }
+ ],
+ "原理": [
+  {
+   "text": "你能解释一下这个原理吗？",
+   "translation": "Can you explain this principle?"
+  },
+  {
+   "text": "我不懂冰箱的工作原理。",
+   "translation": "I don't understand how a refrigerator works."
+  }
+ ],
+ "会长": [
+  {
+   "text": "他是我们篮球俱乐部的会长。",
+   "translation": "He is the president of our basketball club."
+  },
+  {
+   "text": "会长请大家安静一下。",
+   "translation": "The president asked everyone to quiet down."
+  }
+ ],
+ "圆满": [
+  {
+   "text": "会议圆满结束了。",
+   "translation": "The meeting ended successfully."
+  },
+  {
+   "text": "祝你这次旅行圆满成功！",
+   "translation": "I hope your trip goes perfectly!"
+  }
+ ],
+ "挣扎": [
+  {
+   "text": "小鱼在网里拼命挣扎。",
+   "translation": "The little fish struggled desperately in the net."
+  },
+  {
+   "text": "他挣扎着从床上爬起来。",
+   "translation": "He struggled to get out of bed."
+  }
+ ],
+ "季度": [
+  {
+   "text": "这个季度公司卖得很好。",
+   "translation": "The company has been selling well this quarter."
+  },
+  {
+   "text": "这个季度的总结写好了吗？",
+   "translation": "Have you finished writing this quarter's summary?"
+  }
+ ],
+ "职务": [
+  {
+   "text": "他在公司的职务是经理。",
+   "translation": "His position in the company is manager."
+  },
+  {
+   "text": "你现在的职务是什么？",
+   "translation": "What is your current position?"
+  }
+ ],
+ "赏": [
+  {
+   "text": "周末我们去公园赏花。",
+   "translation": "We're going to the park to enjoy the flowers this weekend."
+  },
+  {
+   "text": "老板赏了他一个红包。",
+   "translation": "The boss gave him a red envelope as a reward."
+  }
+ ],
+ "忠诚": [
+  {
+   "text": "狗对主人非常忠诚。",
+   "translation": "Dogs are very loyal to their owners."
+  },
+  {
+   "text": "他是一个忠诚的朋友。",
+   "translation": "He is a loyal friend."
+  }
+ ],
+ "守护": [
+  {
+   "text": "妈妈整夜守护着生病的孩子。",
+   "translation": "The mother watched over her sick child all night."
+  },
+  {
+   "text": "警察守护着城市的安全。",
+   "translation": "The police protect the safety of the city."
+  }
+ ],
+ "特工": [
+  {
+   "text": "这部电影讲的是一个特工的故事。",
+   "translation": "This movie is about a secret agent."
+  },
+  {
+   "text": "小明从小就想当特工。",
+   "translation": "Xiao Ming has wanted to be a secret agent since he was little."
+  }
+ ],
+ "豪华": [
+  {
+   "text": "这家酒店非常豪华。",
+   "translation": "This hotel is very luxurious."
+  },
+  {
+   "text": "他们住在一套豪华的大房子里。",
+   "translation": "They live in a big, luxurious house."
+  }
+ ],
+ "搜": [
+  {
+   "text": "我在网上搜了一下地图。",
+   "translation": "I searched for the map online."
+  },
+  {
+   "text": "你用手机搜一下这家店吧。",
+   "translation": "Try searching for this shop on your phone."
+  }
+ ],
+ "主演": [
+  {
+   "text": "这部电影是谁主演的？",
+   "translation": "Who stars in this movie?"
+  },
+  {
+   "text": "她主演过很多电视剧。",
+   "translation": "She has starred in many TV dramas."
+  }
+ ],
+ "甲": [
+  {
+   "text": "合同里的甲方是谁？",
+   "translation": "Who is Party A in the contract?"
+  },
+  {
+   "text": "他把手上的指甲剪短了。",
+   "translation": "He trimmed his fingernails short."
+  }
+ ],
+ "现状": [
+  {
+   "text": "你对工作的现状满意吗？",
+   "translation": "Are you satisfied with the current state of your work?"
+  },
+  {
+   "text": "我们不能只满足于现状。",
+   "translation": "We can't just be content with the status quo."
+  }
+ ],
+ "带有": [
+  {
+   "text": "这首歌带有一点悲伤的味道。",
+   "translation": "This song has a touch of sadness to it."
+  },
+  {
+   "text": "这种水果带有淡淡的香味。",
+   "translation": "This fruit has a faint fragrance."
+  }
+ ],
+ "恋人": [
+  {
+   "text": "他们是一对恋人。",
+   "translation": "They are a couple in love."
+  },
+  {
+   "text": "公园里有很多手牵手的恋人。",
+   "translation": "There are many lovers holding hands in the park."
+  }
+ ],
+ "严": [
+  {
+   "text": "老师对我们很严。",
+   "translation": "The teacher is very strict with us."
+  },
+  {
+   "text": "请把窗户关严一点儿。",
+   "translation": "Please close the window tightly."
+  }
+ ],
+ "列为": [
+  {
+   "text": "这个问题被列为今天的重点。",
+   "translation": "This issue is listed as today's focus."
+  },
+  {
+   "text": "这座古城被列为保护地区。",
+   "translation": "This ancient city has been classified as a protected area."
+  }
+ ],
+ "来不及": [
+  {
+   "text": "快走吧，再不走就来不及了。",
+   "translation": "Hurry up, or we'll run out of time."
+  },
+  {
+   "text": "今天早上我来不及吃早饭。",
+   "translation": "I didn't have time to eat breakfast this morning."
+  }
+ ],
+ "汇": [
+  {
+   "text": "他每个月都给家里汇钱。",
+   "translation": "He sends money home every month."
+  },
+  {
+   "text": "小河汇进了大江。",
+   "translation": "The small river flows into the big river."
+  }
+ ],
+ "差距": [
+  {
+   "text": "两个队的差距很大。",
+   "translation": "The gap between the two teams is big."
+  },
+  {
+   "text": "你觉得我们的差距在哪里？",
+   "translation": "Where do you think our gap lies?"
+  }
+ ],
+ "监控": [
+  {
+   "text": "他用手机监控家里的情况。",
+   "translation": "He monitors things at home with his phone."
+  },
+  {
+   "text": "公司会监控每台电脑吗？",
+   "translation": "Does the company monitor every computer?"
+  }
+ ],
+ "定位": [
+  {
+   "text": "手机可以定位你现在的位置。",
+   "translation": "A phone can pinpoint where you are right now."
+  },
+  {
+   "text": "你能帮我定位一下这家店吗？",
+   "translation": "Can you help me locate this shop?"
+  }
+ ],
+ "赔偿": [
+  {
+   "text": "他打坏了东西，要赔偿。",
+   "translation": "He broke something and has to pay for it."
+  },
+  {
+   "text": "商店答应赔偿我的损失。",
+   "translation": "The store agreed to compensate me for my loss."
+  }
+ ],
+ "格外": [
+  {
+   "text": "下雨以后空气格外清新。",
+   "translation": "The air is especially fresh after the rain."
+  },
+  {
+   "text": "今天格外冷，多穿点儿。",
+   "translation": "It's particularly cold today, so wear more."
+  }
+ ],
+ "强化": [
+  {
+   "text": "我们要强化安全意识。",
+   "translation": "We need to strengthen safety awareness."
+  },
+  {
+   "text": "每天练习可以强化记忆。",
+   "translation": "Practicing every day can strengthen your memory."
+  }
+ ],
+ "狠": [
+  {
+   "text": "你对自己也太狠了，休息一下吧。",
+   "translation": "You're being too hard on yourself. Take a break."
+  },
+  {
+   "text": "这个老板对员工很狠。",
+   "translation": "This boss is really harsh on his employees."
+  }
+ ],
+ "职责": [
+  {
+   "text": "照顾病人是护士的职责。",
+   "translation": "Taking care of patients is a nurse's duty."
+  },
+  {
+   "text": "这不是我的职责，你问经理吧。",
+   "translation": "This isn't my responsibility. Ask the manager."
+  }
+ ],
+ "凉快": [
+  {
+   "text": "秋天到了，天气凉快多了。",
+   "translation": "Autumn is here and it's much cooler."
+  },
+  {
+   "text": "这间屋子很凉快，坐下歇歇吧。",
+   "translation": "This room is nice and cool. Sit down and rest."
+  }
+ ],
+ "可见": [
+  {
+   "text": "灯还亮着，可见他还没睡。",
+   "translation": "The light is still on, so he evidently isn't asleep yet."
+  },
+  {
+   "text": "他一直没回信息，可见很忙。",
+   "translation": "He hasn't replied at all, so he must be busy."
+  }
+ ],
+ "老天": [
+  {
+   "text": "今天老天不帮忙，一直下雨。",
+   "translation": "Heaven isn't helping today. It keeps raining."
+  },
+  {
+   "text": "老天，你怎么又迟到了？",
+   "translation": "Good grief, why are you late again?"
+  }
+ ],
+ "午睡": [
+  {
+   "text": "我每天中午都要午睡。",
+   "translation": "I take a nap every day at noon."
+  },
+  {
+   "text": "午睡半个小时就够了。",
+   "translation": "A half-hour nap is enough."
+  }
+ ],
+ "节奏": [
+  {
+   "text": "这首歌的节奏很快。",
+   "translation": "The rhythm of this song is fast."
+  },
+  {
+   "text": "大城市生活的节奏太快了。",
+   "translation": "The pace of life in big cities is too fast."
+  }
+ ],
+ "分组": [
+  {
+   "text": "老师让我们先分组讨论。",
+   "translation": "The teacher had us split into groups to discuss first."
+  },
+  {
+   "text": "我们怎么分组比较好？",
+   "translation": "How should we divide into groups?"
+  }
+ ],
+ "公告": [
+  {
+   "text": "学校贴出了一张新公告。",
+   "translation": "The school put up a new notice."
+  },
+  {
+   "text": "请大家看一下公司的公告。",
+   "translation": "Everyone, please read the company announcement."
+  }
+ ],
+ "构造": [
+  {
+   "text": "这座房子的构造很特别。",
+   "translation": "The structure of this house is very unusual."
+  },
+  {
+   "text": "你知道手机的构造吗？",
+   "translation": "Do you know how a phone is built?"
+  }
+ ],
+ "章": [
+  {
+   "text": "这本书一共有十章。",
+   "translation": "This book has ten chapters in all."
+  },
+  {
+   "text": "请大家翻到第三章。",
+   "translation": "Everyone, please turn to chapter three."
+  }
+ ],
+ "气象": [
+  {
+   "text": "气象台说明天有大雨。",
+   "translation": "The weather bureau says there will be heavy rain tomorrow."
+  },
+  {
+   "text": "他在气象局工作。",
+   "translation": "He works at the meteorological bureau."
+  }
+ ],
+ "步骤": [
+  {
+   "text": "做这道菜一共有三个步骤。",
+   "translation": "There are three steps to making this dish."
+  },
+  {
+   "text": "请按步骤一步一步来。",
+   "translation": "Please follow the steps one at a time."
+  }
+ ],
+ "在线": [
+  {
+   "text": "他现在在线吗？",
+   "translation": "Is he online right now?"
+  },
+  {
+   "text": "这家商店可以在线订票。",
+   "translation": "You can book tickets online at this shop."
+  }
+ ],
+ "品": [
+  {
+   "text": "他慢慢品了一口茶。",
+   "translation": "He slowly savored a sip of tea."
+  },
+  {
+   "text": "你来品品这道菜怎么样。",
+   "translation": "Come taste this dish and see how it is."
+  }
+ ],
+ "活泼": [
+  {
+   "text": "她是个活泼的小姑娘。",
+   "translation": "She is a lively little girl."
+  },
+  {
+   "text": "这个孩子活泼可爱，大家都喜欢。",
+   "translation": "This child is lively and cute, and everyone likes him."
+  }
+ ],
+ "举动": [
+  {
+   "text": "他奇怪的举动吓了大家一跳。",
+   "translation": "His strange behavior startled everyone."
+  },
+  {
+   "text": "小孩的每个举动都很可爱。",
+   "translation": "Every move a little child makes is adorable."
+  }
+ ],
+ "治安": [
+  {
+   "text": "这个城市的治安很好。",
+   "translation": "Law and order is good in this city."
+  },
+  {
+   "text": "这里治安不错，晚上也可以散步。",
+   "translation": "Public security is good here, so you can walk at night too."
+  }
+ ],
+ "表态": [
+  {
+   "text": "经理还没有表态，我们再等等。",
+   "translation": "The manager hasn't taken a position yet, so let's wait."
+  },
+  {
+   "text": "大家都在等你表态。",
+   "translation": "Everyone is waiting for you to say where you stand."
+  }
+ ],
+ "娘": [
+  {
+   "text": "我娘今年六十岁了。",
+   "translation": "My mom is sixty this year."
+  },
+  {
+   "text": "他娘做的饺子特别好吃。",
+   "translation": "The dumplings his mom makes are especially delicious."
+  }
+ ],
+ "任意": [
+  {
+   "text": "你可以任意选一本书带回家。",
+   "translation": "You can pick any book you like to take home."
+  },
+  {
+   "text": "请不要任意改动别人的文件。",
+   "translation": "Please don't change other people's files as you please."
+  }
+ ],
+ "导弹": [
+  {
+   "text": "博物馆里放着一枚旧导弹。",
+   "translation": "There is an old missile on display in the museum."
+  },
+  {
+   "text": "这枚导弹为什么这么长？",
+   "translation": "Why is this missile so long?"
+  }
+ ],
+ "白菜": [
+  {
+   "text": "冬天我们常吃白菜炖豆腐。",
+   "translation": "In winter we often eat stewed cabbage with tofu."
+  },
+  {
+   "text": "一棵白菜多少钱？",
+   "translation": "How much is one head of cabbage?"
+  }
+ ],
+ "前年": [
+  {
+   "text": "我前年去过一次上海。",
+   "translation": "I went to Shanghai once the year before last."
+  },
+  {
+   "text": "你是前年大学毕业的吗？",
+   "translation": "Did you graduate from university the year before last?"
+  }
+ ],
+ "斗": [
+  {
+   "text": "两只公鸡在院子里斗起来了。",
+   "translation": "Two roosters started fighting in the yard."
+  },
+  {
+   "text": "他们俩一见面就爱斗嘴。",
+   "translation": "Those two love to bicker whenever they meet."
+  }
+ ],
+ "诊断": [
+  {
+   "text": "医生诊断他得了重感冒。",
+   "translation": "The doctor diagnosed him with a bad cold."
+  },
+  {
+   "text": "这种病很难诊断，需要再检查。",
+   "translation": "This illness is hard to diagnose and needs more tests."
+  }
+ ],
+ "药水": [
+  {
+   "text": "这瓶药水要放在冰箱里。",
+   "translation": "This bottle of liquid medicine needs to be kept in the fridge."
+  },
+  {
+   "text": "孩子不爱喝又苦又甜的药水。",
+   "translation": "The child doesn't like drinking the bitter-sweet liquid medicine."
+  }
+ ],
+ "占有": [
+  {
+   "text": "这家公司占有很大的市场。",
+   "translation": "This company holds a large share of the market."
+  },
+  {
+   "text": "弟弟总想占有所有的玩具。",
+   "translation": "My little brother always wants to have all the toys for himself."
+  }
+ ],
+ "阴谋": [
+  {
+   "text": "这部电影讲了一个大阴谋。",
+   "translation": "This movie is about a big conspiracy."
+  },
+  {
+   "text": "他们的阴谋被大家发现了。",
+   "translation": "Their scheme was discovered by everyone."
+  }
+ ],
+ "做客": [
+  {
+   "text": "周末我们去朋友家做客。",
+   "translation": "This weekend we're going to a friend's place as guests."
+  },
+  {
+   "text": "欢迎你有空来我家做客！",
+   "translation": "You're welcome to visit our home whenever you have time!"
+  }
+ ],
+ "冲击": [
+  {
+   "text": "海浪不停地冲击着岩石。",
+   "translation": "The waves keep pounding against the rocks."
+  },
+  {
+   "text": "网上购物对小商店的冲击很大。",
+   "translation": "Online shopping has had a big impact on small shops."
+  }
+ ],
+ "体力": [
+  {
+   "text": "爬了一天山，我已经没体力了。",
+   "translation": "After climbing the mountain all day, I have no strength left."
+  },
+  {
+   "text": "每天跑步可以增强体力。",
+   "translation": "Running every day can build up your physical strength."
+  }
+ ],
+ "策划": [
+  {
+   "text": "我们正在策划一次旅行。",
+   "translation": "We are planning a trip."
+  },
+  {
+   "text": "这场生日派对是谁策划的？",
+   "translation": "Who organized this birthday party?"
+  }
+ ],
+ "排列": [
+  {
+   "text": "请把这些书按大小排列好。",
+   "translation": "Please arrange these books in order of size."
+  },
+  {
+   "text": "同学们排列整齐地走进教室。",
+   "translation": "The students walked into the classroom in neat rows."
+  }
+ ],
+ "保佑": [
+  {
+   "text": "希望老天保佑明天别下雨。",
+   "translation": "Let's hope heaven blesses us with no rain tomorrow."
+  },
+  {
+   "text": "愿好运一直保佑你。",
+   "translation": "May good luck be with you always."
+  }
+ ],
+ "封锁": [
+  {
+   "text": "大雪封锁了山里的公路。",
+   "translation": "Heavy snow has blocked off the mountain roads."
+  },
+  {
+   "text": "因为施工，这条路被封锁了。",
+   "translation": "This road has been sealed off because of construction."
+  }
+ ],
+ "传达": [
+  {
+   "text": "请把我的话传达给他。",
+   "translation": "Please pass my words on to him."
+  },
+  {
+   "text": "老师把学校的通知传达给了大家。",
+   "translation": "The teacher relayed the school's notice to everyone."
+  }
+ ],
+ "小吃": [
+  {
+   "text": "夜市里有很多好吃的小吃。",
+   "translation": "The night market has lots of tasty snacks."
+  },
+  {
+   "text": "你最喜欢哪种当地小吃？",
+   "translation": "Which local snack do you like best?"
+  }
+ ],
+ "互动": [
+  {
+   "text": "课堂上老师和学生互动很多。",
+   "translation": "The teacher and students interact a lot in class."
+  },
+  {
+   "text": "这个游戏可以和朋友互动。",
+   "translation": "You can interact with your friends in this game."
+  }
+ ],
+ "乖乖": [
+  {
+   "text": "孩子乖乖地坐在椅子上。",
+   "translation": "The child sat obediently on the chair."
+  },
+  {
+   "text": "你乖乖在家等妈妈回来。",
+   "translation": "Be a good kid and wait at home for Mom to come back."
+  }
+ ],
+ "终止": [
+  {
+   "text": "因为下大雨，比赛被终止了。",
+   "translation": "The match was called off because of the heavy rain."
+  },
+  {
+   "text": "他们决定终止这份合同。",
+   "translation": "They decided to terminate this contract."
+  }
+ ],
+ "台阶": [
+  {
+   "text": "小心，门口有三级台阶。",
+   "translation": "Careful, there are three steps at the door."
+  },
+  {
+   "text": "他给了我一个台阶，我才没那么尴尬。",
+   "translation": "He gave me a way out, so I felt less awkward."
+  }
+ ],
+ "玩意": [
+  {
+   "text": "桌上这玩意儿是什么？",
+   "translation": "What is this thing on the table?"
+  },
+  {
+   "text": "这些小玩意儿孩子们都很喜欢。",
+   "translation": "The kids all like these little gadgets."
+  }
+ ],
+ "关怀": [
+  {
+   "text": "老师的关怀让他很感动。",
+   "translation": "The teacher's care moved him deeply."
+  },
+  {
+   "text": "我们应该多关怀身边的老人。",
+   "translation": "We should show more care for the elderly around us."
+  }
+ ],
+ "档": [
+  {
+   "text": "这档节目每周五晚上播出。",
+   "translation": "This show airs every Friday evening."
+  },
+  {
+   "text": "那是一档很受欢迎的综艺节目。",
+   "translation": "That is a very popular variety show."
+  }
+ ],
+ "野": [
+  {
+   "text": "山上有很多野花。",
+   "translation": "There are lots of wildflowers on the mountain."
+  },
+  {
+   "text": "孩子玩得太野了，该回家了。",
+   "translation": "The kids are playing too wildly; it's time to go home."
+  }
+ ],
+ "创建": [
+  {
+   "text": "他创建了一个新的班级群。",
+   "translation": "He created a new class group chat."
+  },
+  {
+   "text": "请先创建一个账号。",
+   "translation": "Please create an account first."
+  }
+ ],
+ "精灵": [
+  {
+   "text": "故事里的精灵住在森林里。",
+   "translation": "The elves in the story live in the forest."
+  },
+  {
+   "text": "孩子们喜欢看精灵的动画片。",
+   "translation": "The kids like watching cartoons about fairies."
+  }
+ ],
+ "注重": [
+  {
+   "text": "这家公司很注重环境保护。",
+   "translation": "This company places great importance on protecting the environment."
+  },
+  {
+   "text": "吃饭时要注重营养搭配。",
+   "translation": "When eating, you should pay attention to a balanced diet."
+  }
+ ],
+ "咋": [
+  {
+   "text": "你咋还没睡呢？",
+   "translation": "How come you're still not asleep?"
+  },
+  {
+   "text": "这事儿咋办才好？",
+   "translation": "What's the best way to handle this?"
+  }
+ ],
+ "扣": [
+  {
+   "text": "请把外套扣好，外面很冷。",
+   "translation": "Please button up your coat; it's cold outside."
+  },
+  {
+   "text": "上班迟到会被扣工资。",
+   "translation": "You get your pay docked if you're late for work."
+  }
+ ],
+ "环节": [
+  {
+   "text": "面试的最后一个环节是自我介绍。",
+   "translation": "The last stage of the interview is a self-introduction."
+  },
+  {
+   "text": "每个环节都不能出错。",
+   "translation": "No step can go wrong."
+  }
+ ],
+ "外汇": [
+  {
+   "text": "出国前我去银行换了些外汇。",
+   "translation": "Before going abroad, I went to the bank to exchange some foreign currency."
+  },
+  {
+   "text": "他在银行专门管外汇。",
+   "translation": "At the bank he handles foreign exchange."
+  }
+ ],
+ "祖先": [
+  {
+   "text": "我们的祖先很早就住在这里了。",
+   "translation": "Our ancestors lived here a very long time ago."
+  },
+  {
+   "text": "你知道自己祖先的故事吗？",
+   "translation": "Do you know the stories of your ancestors?"
+  }
+ ],
+ "试题": [
+  {
+   "text": "这次考试的试题不太难。",
+   "translation": "The questions on this exam weren't too hard."
+  },
+  {
+   "text": "老师正在出下周的试题。",
+   "translation": "The teacher is writing next week's exam questions."
+  }
+ ],
+ "后期": [
+  {
+   "text": "这部电影的后期做了很久。",
+   "translation": "The post-production on this movie took a long time."
+  },
+  {
+   "text": "比赛后期，他们的体力下降了。",
+   "translation": "In the later part of the match, their stamina dropped."
+  }
+ ],
+ "频率": [
+  {
+   "text": "他跑步的频率是每周三次。",
+   "translation": "He runs at a frequency of three times a week."
+  },
+  {
+   "text": "收音机的频率调错了。",
+   "translation": "The radio frequency was tuned wrong."
+  }
+ ],
+ "表扬": [
+  {
+   "text": "老师当着大家的面表扬了他。",
+   "translation": "The teacher praised him in front of everyone."
+  },
+  {
+   "text": "妈妈为什么表扬你？",
+   "translation": "Why did Mom praise you?"
+  }
+ ],
+ "体内": [
+  {
+   "text": "药进入体内需要一点时间。",
+   "translation": "It takes a little time for medicine to take effect inside the body."
+  },
+  {
+   "text": "多喝水可以帮助排出体内的废物。",
+   "translation": "Drinking more water helps flush waste out of your body."
+  }
+ ],
+ "果实": [
+  {
+   "text": "秋天，树上结满了果实。",
+   "translation": "In autumn, the trees are full of fruit."
+  },
+  {
+   "text": "努力的果实总是很甜。",
+   "translation": "The fruits of hard work are always sweet."
+  }
+ ],
+ "延伸": [
+  {
+   "text": "这条路一直延伸到海边。",
+   "translation": "This road extends all the way to the seaside."
+  },
+  {
+   "text": "铁路一直延伸到山里。",
+   "translation": "The railway extends deep into the mountains."
+  }
+ ],
+ "中华": [
+  {
+   "text": "中华美食有很多种。",
+   "translation": "There are many kinds of Chinese cuisine."
+  },
+  {
+   "text": "他很喜欢学习中华文化。",
+   "translation": "He really enjoys learning about Chinese culture."
+  }
+ ],
+ "钻": [
+  {
+   "text": "小猫钻进了被子里。",
+   "translation": "The kitten crawled into the blanket."
+  },
+  {
+   "text": "老鼠钻进洞里不见了。",
+   "translation": "The mouse slipped into a hole and disappeared."
+  }
+ ],
+ "深处": [
+  {
+   "text": "他慢慢走进了森林的深处。",
+   "translation": "He slowly walked into the depths of the forest."
+  },
+  {
+   "text": "你内心深处是怎么想的？",
+   "translation": "What do you really think deep down inside?"
+  }
+ ],
+ "辐射": [
+  {
+   "text": "手机的辐射很小，不用担心。",
+   "translation": "A phone's radiation is very low, so don't worry."
+  },
+  {
+   "text": "夏天太阳的辐射很强，要涂防晒霜。",
+   "translation": "The sun's radiation is strong in summer, so put on sunscreen."
+  }
+ ],
+ "情侣": [
+  {
+   "text": "公园里有很多情侣在散步。",
+   "translation": "Lots of couples are taking a walk in the park."
+  },
+  {
+   "text": "这对情侣一起去旅行了。",
+   "translation": "This couple went traveling together."
+  }
+ ],
+ "平稳": [
+  {
+   "text": "飞机现在飞得很平稳。",
+   "translation": "The plane is flying very smoothly now."
+  },
+  {
+   "text": "最近的物价比较平稳。",
+   "translation": "Prices have been fairly steady lately."
+  }
+ ],
+ "转化": [
+  {
+   "text": "冰遇到热就会转化成水。",
+   "translation": "Ice turns into water when it meets heat."
+  },
+  {
+   "text": "他把压力转化成了动力。",
+   "translation": "He turned his pressure into motivation."
+  }
+ ],
+ "导航": [
+  {
+   "text": "开车时我用手机导航。",
+   "translation": "When I drive, I use my phone for navigation."
+  },
+  {
+   "text": "导航说前面要右转。",
+   "translation": "The navigation says to turn right ahead."
+  }
+ ],
+ "分裂": [
+  {
+   "text": "一个细胞分裂成了两个。",
+   "translation": "One cell split into two."
+  },
+  {
+   "text": "这个小团体因为吵架分裂了。",
+   "translation": "This little group split up because of an argument."
+  }
+ ],
+ "网页": [
+  {
+   "text": "这个网页怎么打不开了？",
+   "translation": "Why won't this web page open anymore?"
+  },
+  {
+   "text": "请把这个网页发给我。",
+   "translation": "Please send me this web page."
+  }
+ ],
+ "尚": [
+  {
+   "text": "天色尚早，我们再坐一会儿吧。",
+   "translation": "It's still early, so let's sit a little longer."
+  },
+  {
+   "text": "这个问题尚未解决。",
+   "translation": "This problem has not yet been solved."
+  }
+ ],
+ "国庆": [
+  {
+   "text": "国庆节我们全家去旅行。",
+   "translation": "Our whole family is going on a trip for National Day."
+  },
+  {
+   "text": "国庆放假几天？",
+   "translation": "How many days off do we get for National Day?"
+  }
+ ],
+ "嘉宾": [
+  {
+   "text": "今天的节目请来了一位嘉宾。",
+   "translation": "Today's show has invited a guest."
+  },
+  {
+   "text": "欢迎各位嘉宾来参加婚礼！",
+   "translation": "Welcome, dear guests, to the wedding!"
+  }
+ ],
+ "挨": [
+  {
+   "text": "他上班迟到，挨了老板一顿骂。",
+   "translation": "He was late for work and got scolded by his boss."
+  },
+  {
+   "text": "小明没写作业，挨了老师的批评。",
+   "translation": "Xiao Ming didn't do his homework and got criticized by the teacher."
+  }
+ ],
+ "熬": [
+  {
+   "text": "我昨晚熬到两点才睡。",
+   "translation": "I stayed up until two last night before going to sleep."
+  },
+  {
+   "text": "妈妈正在用小火熬粥。",
+   "translation": "Mom is simmering porridge over a low flame."
+  }
+ ],
+ "股东": [
+  {
+   "text": "公司的股东明天要开会。",
+   "translation": "The company's shareholders will hold a meeting tomorrow."
+  },
+  {
+   "text": "他是这家公司最大的股东。",
+   "translation": "He is the biggest shareholder in this company."
+  }
+ ],
+ "掩盖": [
+  {
+   "text": "他想掩盖自己的错误。",
+   "translation": "He wants to cover up his own mistake."
+  },
+  {
+   "text": "大雪掩盖了路上的脚印。",
+   "translation": "The heavy snow covered the footprints on the road."
+  }
+ ],
+ "目录": [
+  {
+   "text": "买书之前，先看一下目录吧。",
+   "translation": "Before buying a book, take a look at the table of contents first."
+  },
+  {
+   "text": "电脑里的这个目录是空的。",
+   "translation": "This folder on the computer is empty."
+  }
+ ],
+ "起点": [
+  {
+   "text": "这里是马拉松的起点。",
+   "translation": "This is the starting point of the marathon."
+  },
+  {
+   "text": "大家都站在同一个起点上。",
+   "translation": "Everyone is standing at the same starting point."
+  }
+ ],
+ "权威": [
+  {
+   "text": "他是这个领域的权威。",
+   "translation": "He is an authority in this field."
+  },
+  {
+   "text": "这是一个很权威的网站。",
+   "translation": "This is a very authoritative website."
+  }
+ ],
+ "证书": [
+  {
+   "text": "我拿到了英语证书。",
+   "translation": "I got my English certificate."
+  },
+  {
+   "text": "这张证书要好好保存。",
+   "translation": "You should keep this certificate safe."
+  }
+ ],
+ "死者": [
+  {
+   "text": "警察正在联系死者的家人。",
+   "translation": "The police are contacting the family of the deceased."
+  },
+  {
+   "text": "我们为死者默哀了一分钟。",
+   "translation": "We observed a minute of silence for the dead."
+  }
+ ],
+ "人心": [
+  {
+   "text": "好老师总能赢得人心。",
+   "translation": "A good teacher can always win people's hearts."
+  },
+  {
+   "text": "公司这样做，太不得人心了。",
+   "translation": "The company's doing this is very unpopular with people."
+  }
+ ],
+ "客户端": [
+  {
+   "text": "请先下载手机客户端。",
+   "translation": "Please download the mobile client first."
+  },
+  {
+   "text": "这个客户端老是出错，怎么办？",
+   "translation": "This client keeps crashing. What should I do?"
+  }
+ ],
+ "研发": [
+  {
+   "text": "这家公司每年花很多钱研发新产品。",
+   "translation": "This company spends a lot of money every year developing new products."
+  },
+  {
+   "text": "我哥哥在手机公司做研发。",
+   "translation": "My older brother works in R&D at a phone company."
+  }
+ ],
+ "发财": [
+  {
+   "text": "祝你新年发财！",
+   "translation": "Wishing you wealth in the new year!"
+  },
+  {
+   "text": "他一直梦想着做生意发财。",
+   "translation": "He has always dreamed of getting rich through business."
+  }
+ ],
+ "干掉": [
+  {
+   "text": "咱们把这瓶饮料干掉吧。",
+   "translation": "Let's finish off this bottle of drink."
+  },
+  {
+   "text": "游戏里他把最后一个敌人干掉了。",
+   "translation": "In the game, he took out the last enemy."
+  }
+ ],
+ "皮包": [
+  {
+   "text": "她的皮包里放着钥匙和手机。",
+   "translation": "Her handbag holds her keys and phone."
+  },
+  {
+   "text": "这个皮包是妈妈送我的生日礼物。",
+   "translation": "This bag was a birthday present from my mom."
+  }
+ ],
+ "提名": [
+  {
+   "text": "老师提名小红当班长。",
+   "translation": "The teacher nominated Xiao Hong for class monitor."
+  },
+  {
+   "text": "这部电影被提名为最佳影片。",
+   "translation": "This movie was nominated for best picture."
+  }
+ ],
+ "有毒": [
+  {
+   "text": "这种蘑菇有毒，不能吃。",
+   "translation": "This kind of mushroom is poisonous and can't be eaten."
+  },
+  {
+   "text": "这些花有毒吗？",
+   "translation": "Are these flowers toxic?"
+  }
+ ],
+ "净": [
+  {
+   "text": "你别净吃肉，也吃点青菜。",
+   "translation": "Don't eat nothing but meat; have some greens too."
+  },
+  {
+   "text": "他嘴上净说好听的话。",
+   "translation": "He says nothing but nice things."
+  }
+ ],
+ "层次": [
+  {
+   "text": "这篇文章的层次很清楚。",
+   "translation": "The structure of this article is very clear."
+  },
+  {
+   "text": "这道菜的味道很有层次。",
+   "translation": "The flavor of this dish has a lot of layers."
+  }
+ ],
+ "银牌": [
+  {
+   "text": "她在比赛中得了银牌。",
+   "translation": "She won a silver medal in the competition."
+  },
+  {
+   "text": "他把银牌挂在了墙上。",
+   "translation": "He hung his silver medal on the wall."
+  }
+ ],
+ "女郎": [
+  {
+   "text": "海边有几位漂亮的女郎在拍照。",
+   "translation": "A few pretty young women are taking photos by the sea."
+  },
+  {
+   "text": "那个穿红裙子的女郎是谁？",
+   "translation": "Who is that young woman in the red dress?"
+  }
+ ],
+ "依照": [
+  {
+   "text": "请依照说明书安装。",
+   "translation": "Please install it according to the instructions."
+  },
+  {
+   "text": "依照规定，这里不能停车。",
+   "translation": "According to the rules, you can't park here."
+  }
+ ],
+ "光芒": [
+  {
+   "text": "太阳的光芒照在海面上。",
+   "translation": "The sun's rays shine on the surface of the sea."
+  },
+  {
+   "text": "夜里，星星发出微弱的光芒。",
+   "translation": "At night, the stars give off a faint glow."
+  }
+ ],
+ "超人": [
+  {
+   "text": "我儿子最喜欢看超人的电影。",
+   "translation": "My son loves watching Superman movies the most."
+  },
+  {
+   "text": "他不是超人，也会累的。",
+   "translation": "He's not superhuman; he gets tired too."
+  }
+ ],
+ "妹子": [
+  {
+   "text": "这个妹子唱歌真好听！",
+   "translation": "This girl sings so well!"
+  },
+  {
+   "text": "那个妹子是我同事的朋友。",
+   "translation": "That girl is a friend of my coworker."
+  }
+ ],
+ "请进": [
+  {
+   "text": "门没关，请进！",
+   "translation": "The door's open, please come in!"
+  },
+  {
+   "text": "敲门以后，里面的人说请进。",
+   "translation": "After I knocked, the person inside said to come in."
+  }
+ ],
+ "报到": [
+  {
+   "text": "新生明天要去学校报到。",
+   "translation": "The new students have to check in at school tomorrow."
+  },
+  {
+   "text": "你明天几点到公司报到？",
+   "translation": "What time are you reporting to the company tomorrow?"
+  }
+ ],
+ "中华民族": [
+  {
+   "text": "中华民族有五千年的历史。",
+   "translation": "The Chinese people have a history of five thousand years."
+  },
+  {
+   "text": "春节是中华民族最重要的节日。",
+   "translation": "Spring Festival is the most important holiday for the Chinese people."
+  }
+ ],
+ "西餐": [
+  {
+   "text": "我们今晚去吃西餐吧。",
+   "translation": "Let's have Western food tonight."
+  },
+  {
+   "text": "你喜欢吃西餐还是中餐？",
+   "translation": "Do you prefer Western food or Chinese food?"
+  }
+ ],
+ "千克": [
+  {
+   "text": "这个西瓜有五千克重。",
+   "translation": "This watermelon weighs five kilograms."
+  },
+  {
+   "text": "两千克苹果多少钱？",
+   "translation": "How much are two kilograms of apples?"
+  }
+ ],
+ "课文": [
+  {
+   "text": "老师让我们背这篇课文。",
+   "translation": "The teacher asked us to memorize this lesson text."
+  },
+  {
+   "text": "这篇课文很短，也很有意思。",
+   "translation": "This text is short and also interesting."
+  }
+ ],
+ "垃圾桶": [
+  {
+   "text": "请把纸扔进垃圾桶里。",
+   "translation": "Please throw the paper into the trash can."
+  },
+  {
+   "text": "垃圾桶在门后面。",
+   "translation": "The trash can is behind the door."
+  }
+ ],
+ "音节": [
+  {
+   "text": "这个词有三个音节。",
+   "translation": "This word has three syllables."
+  },
+  {
+   "text": "请把这个词分成两个音节来读。",
+   "translation": "Please split this word into two syllables when you read it."
+  }
+ ],
+ "西医": [
+  {
+   "text": "我感冒的时候一般看西医。",
+   "translation": "When I catch a cold, I usually see a Western-medicine doctor."
+  },
+  {
+   "text": "他爷爷相信中医，不太相信西医。",
+   "translation": "His grandfather trusts Chinese medicine and doesn't really trust Western medicine."
+  }
+ ],
+ "积极性": [
+  {
+   "text": "老师的夸奖提高了学生的积极性。",
+   "translation": "The teacher's praise boosted the students' enthusiasm."
+  },
+  {
+   "text": "他最近工作没什么积极性。",
+   "translation": "He hasn't had much drive at work lately."
+  }
+ ],
+ "读音": [
+  {
+   "text": "这个字的读音我不太清楚。",
+   "translation": "I'm not quite sure about this character's pronunciation."
+  },
+  {
+   "text": "这两个字读音一样吗？",
+   "translation": "Are these two characters pronounced the same?"
+  }
+ ],
+ "连忙": [
+  {
+   "text": "看到老人上车，他连忙让座。",
+   "translation": "Seeing an elderly person board, he hurriedly gave up his seat."
+  },
+  {
+   "text": "听到有人敲门，我连忙去开门。",
+   "translation": "Hearing a knock, I hurried to open the door."
+  }
+ ],
+ "乒乓球": [
+  {
+   "text": "周末我们去打乒乓球吧。",
+   "translation": "Let's go play table tennis this weekend."
+  },
+  {
+   "text": "他的乒乓球打得特别好。",
+   "translation": "He plays table tennis extremely well."
+  }
+ ],
+ "听写": [
+  {
+   "text": "老师每周五都会听写生词。",
+   "translation": "The teacher gives a vocabulary dictation every Friday."
+  },
+  {
+   "text": "明天有一个听写，你复习了吗？",
+   "translation": "There's a dictation tomorrow. Have you reviewed?"
+  }
+ ],
+ "后年": [
+  {
+   "text": "我打算后年去中国留学。",
+   "translation": "I plan to study in China the year after next."
+  },
+  {
+   "text": "他后年就大学毕业了。",
+   "translation": "He will graduate from college the year after next."
+  }
+ ],
+ "交费": [
+  {
+   "text": "你去前台交费了吗？",
+   "translation": "Did you go pay the fee at the front desk?"
+  },
+  {
+   "text": "网上交费又快又方便。",
+   "translation": "Paying fees online is fast and convenient."
+  }
+ ],
+ "预习": [
+  {
+   "text": "上课前要先预习新课。",
+   "translation": "You should preview the new lesson before class."
+  },
+  {
+   "text": "你预习今天的课文了吗？",
+   "translation": "Did you preview today's text?"
+  }
+ ],
+ "售货员": [
+  {
+   "text": "那位售货员很热情。",
+   "translation": "That salesperson is very friendly."
+  },
+  {
+   "text": "请问，售货员在哪儿？",
+   "translation": "Excuse me, where is the salesperson?"
+  }
+ ],
+ "马虎": [
+  {
+   "text": "他做事太马虎了。",
+   "translation": "He is too careless in whatever he does."
+  },
+  {
+   "text": "考试时别马虎，要认真检查。",
+   "translation": "Don't be sloppy during the exam; check carefully."
+  }
+ ],
+ "跳高": [
+  {
+   "text": "他最喜欢的运动是跳高。",
+   "translation": "His favorite sport is the high jump."
+  },
+  {
+   "text": "我在学校的跳高比赛中得了第二。",
+   "translation": "I came in second in the school high jump contest."
+  }
+ ],
+ "跳远": [
+  {
+   "text": "她跳远跳得很远。",
+   "translation": "She jumps very far in the long jump."
+  },
+  {
+   "text": "明天的体育课我们练习跳远。",
+   "translation": "In tomorrow's PE class we'll practice the long jump."
+  }
+ ],
+ "填空": [
+  {
+   "text": "这张试卷有十道填空题。",
+   "translation": "This test has ten fill-in-the-blank questions."
+  },
+  {
+   "text": "做填空题时要仔细看句子。",
+   "translation": "When doing fill-in-the-blank questions, read the sentence carefully."
+  }
+ ],
+ "操作": [
+  {
+   "text": "这台机器很简单，谁都会操作。",
+   "translation": "This machine is simple; anyone can operate it."
+  },
+  {
+   "text": "请按照说明书操作。",
+   "translation": "Please follow the instruction manual when operating it."
+  }
+ ],
+ "方便面": [
+  {
+   "text": "我晚上饿了，想吃一碗方便面。",
+   "translation": "I'm hungry tonight and want a bowl of instant noodles."
+  },
+  {
+   "text": "出门旅行的时候，我总带几包方便面。",
+   "translation": "I always bring a few packs of instant noodles when I travel."
+  }
+ ],
+ "中断": [
+  {
+   "text": "电话突然中断了，我没听清楚。",
+   "translation": "The call suddenly cut off, and I couldn't hear clearly."
+  },
+  {
+   "text": "大雨让比赛中断了二十分钟。",
+   "translation": "The heavy rain interrupted the match for twenty minutes."
+  }
+ ],
+ "合成": [
+  {
+   "text": "这张照片是用两张图片合成的。",
+   "translation": "This photo was put together from two pictures."
+  },
+  {
+   "text": "这个声音是电脑合成的，不是真人说话。",
+   "translation": "This voice is computer-synthesized, not a real person talking."
+  }
+ ],
+ "地带": [
+  {
+   "text": "山区地带冬天特别冷。",
+   "translation": "In the mountain zone, it's especially cold in winter."
+  },
+  {
+   "text": "前面是危险地带，请不要进去。",
+   "translation": "Ahead is a danger zone, so please don't go in."
+  }
+ ],
+ "采购": [
+  {
+   "text": "公司每个月都要采购一批办公用品。",
+   "translation": "The company purchases a batch of office supplies every month."
+  },
+  {
+   "text": "过年前，妈妈去市场采购了很多东西。",
+   "translation": "Before the New Year, Mom went to the market and bought a lot of things."
+  }
+ ],
+ "港": [
+  {
+   "text": "天黑以前，渔船都回港了。",
+   "translation": "Before dark, the fishing boats all returned to port."
+  },
+  {
+   "text": "这个港冬天不结冰，船可以一直进出。",
+   "translation": "This harbor doesn't freeze in winter, so ships can come and go all the time."
+  }
+ ],
+ "家园": [
+  {
+   "text": "地震以后，他们重建了自己的家园。",
+   "translation": "After the earthquake, they rebuilt their homeland."
+  },
+  {
+   "text": "我们要一起保护美丽的家园。",
+   "translation": "We should protect our beautiful home together."
+  }
+ ],
+ "调节": [
+  {
+   "text": "你可以自己调节空调的温度。",
+   "translation": "You can adjust the air conditioner's temperature yourself."
+  },
+  {
+   "text": "睡前听音乐能帮你调节心情。",
+   "translation": "Listening to music before bed can help you regulate your mood."
+  }
+ ],
+ "掌控": [
+  {
+   "text": "他总想掌控一切，大家都很累。",
+   "translation": "He always wants to control everything, and everyone is worn out."
+  },
+  {
+   "text": "开车的时候，你一定要掌控好速度。",
+   "translation": "When driving, you must keep your speed under control."
+  }
+ ],
+ "枚": [
+  {
+   "text": "她的手上戴着一枚金戒指。",
+   "translation": "She is wearing a gold ring on her hand."
+  },
+  {
+   "text": "他在比赛中拿到了一枚金牌。",
+   "translation": "He won a gold medal in the competition."
+  }
+ ],
+ "称号": [
+  {
+   "text": "他因为很努力，得到了优秀学生的称号。",
+   "translation": "Because he worked so hard, he earned the title of outstanding student."
+  },
+  {
+   "text": "你知道这个城市有什么称号吗？",
+   "translation": "Do you know what title this city has?"
+  }
+ ],
+ "转告": [
+  {
+   "text": "请你转告他，明天的会改到下午。",
+   "translation": "Please tell him that tomorrow's meeting has been moved to the afternoon."
+  },
+  {
+   "text": "妈妈让我转告你，早点回家吃饭。",
+   "translation": "Mom asked me to tell you to come home early for dinner."
+  }
+ ],
+ "大臣": [
+  {
+   "text": "古代的大臣每天早上都要上朝。",
+   "translation": "In ancient times, ministers had to attend court every morning."
+  },
+  {
+   "text": "这位大臣给国王提了一个好建议。",
+   "translation": "This minister gave the king a good piece of advice."
+  }
+ ],
+ "不可思议": [
+  {
+   "text": "一个人跑了一百公里，真不可思议！",
+   "translation": "One person ran a hundred kilometers. It's incredible!"
+  },
+  {
+   "text": "这件事听起来不可思议，但是真的。",
+   "translation": "This sounds unbelievable, but it's true."
+  }
+ ],
+ "王国": [
+  {
+   "text": "故事里有一个美丽的小王国。",
+   "translation": "In the story, there is a beautiful little kingdom."
+  },
+  {
+   "text": "从前有一个王国，那里的人都很快乐。",
+   "translation": "Once upon a time there was a kingdom where everyone was happy."
+  }
+ ],
+ "口号": [
+  {
+   "text": "比赛前，同学们大声喊着口号。",
+   "translation": "Before the game, the classmates shouted slogans loudly."
+  },
+  {
+   "text": "这个广告的口号很容易记住。",
+   "translation": "This ad's slogan is easy to remember."
+  }
+ ],
+ "扩张": [
+  {
+   "text": "这家公司这几年扩张得很快。",
+   "translation": "This company has expanded very fast in recent years."
+  },
+  {
+   "text": "城市不断扩张，农田越来越少。",
+   "translation": "The city keeps expanding, and there is less and less farmland."
+  }
+ ],
+ "指标": [
+  {
+   "text": "今年的销售指标比去年高很多。",
+   "translation": "This year's sales target is much higher than last year's."
+  },
+  {
+   "text": "体检报告上有几个指标不正常。",
+   "translation": "A few indicators on the checkup report are abnormal."
+  }
+ ],
+ "孙女": [
+  {
+   "text": "奶奶每天都去接孙女放学。",
+   "translation": "Grandma picks up her granddaughter from school every day."
+  },
+  {
+   "text": "他的孙女今年刚上小学。",
+   "translation": "His granddaughter just started primary school this year."
+  }
+ ],
+ "培育": [
+  {
+   "text": "农民们正在培育一种新的水稻。",
+   "translation": "The farmers are breeding a new kind of rice."
+  },
+  {
+   "text": "老师要用爱心培育每一个孩子。",
+   "translation": "Teachers should nurture every child with love."
+  }
+ ],
+ "再度": [
+  {
+   "text": "他受伤以后，再度回到了球场。",
+   "translation": "After his injury, he returned to the field once again."
+  },
+  {
+   "text": "好久不见，我们终于再度见面了。",
+   "translation": "It's been a long time, and we've finally met again."
+  }
+ ],
+ "隔离": [
+  {
+   "text": "他生病了，需要在家隔离几天。",
+   "translation": "He's sick and needs to isolate at home for a few days."
+  },
+  {
+   "text": "这堵墙把两个房间隔离开了。",
+   "translation": "This wall separates the two rooms."
+  }
+ ],
+ "扯": [
+  {
+   "text": "别扯我的衣服，我自己会走。",
+   "translation": "Don't pull on my clothes, I can walk by myself."
+  },
+  {
+   "text": "我们别扯远了，还是说回正题吧。",
+   "translation": "Let's not go off topic. Let's get back to the main point."
+  }
+ ],
+ "金额": [
+  {
+   "text": "请在这里写上转账的金额。",
+   "translation": "Please write the transfer amount here."
+  },
+  {
+   "text": "这张发票上的金额不对。",
+   "translation": "The amount on this receipt is wrong."
+  }
+ ],
+ "阴影": [
+  {
+   "text": "树下有一大片阴影，很凉快。",
+   "translation": "There's a big patch of shade under the tree, and it's nice and cool."
+  },
+  {
+   "text": "那次考试失败给他留下了阴影。",
+   "translation": "Failing that exam left a lingering shadow on him."
+  }
+ ],
+ "中小学": [
+  {
+   "text": "这个城市有很多好的中小学。",
+   "translation": "This city has many good primary and secondary schools."
+  },
+  {
+   "text": "中小学生每天都要做作业吗？",
+   "translation": "Do primary and secondary school students have homework every day?"
+  }
+ ],
+ "点名": [
+  {
+   "text": "老师上课先点名，再讲新课。",
+   "translation": "The teacher calls the roll first, then teaches the new lesson."
+  },
+  {
+   "text": "今天老师点名了吗？",
+   "translation": "Did the teacher call the roll today?"
+  }
+ ],
+ "体检": [
+  {
+   "text": "公司每年都让我们去体检。",
+   "translation": "The company has us go for a checkup every year."
+  },
+  {
+   "text": "你上次体检是什么时候？",
+   "translation": "When was your last medical checkup?"
+  }
+ ],
+ "下边": [
+  {
+   "text": "书在桌子下边，你看到了吗？",
+   "translation": "The book is under the table. Do you see it?"
+  },
+  {
+   "text": "请看下边的图，然后回答问题。",
+   "translation": "Please look at the picture below, then answer the questions."
+  }
+ ],
+ "嘿嘿": [
+  {
+   "text": "他看着我，嘿嘿地笑了两声。",
+   "translation": "He looked at me and gave a couple of sly chuckles."
+  },
+  {
+   "text": "嘿嘿，我偷偷买了一个大蛋糕。",
+   "translation": "Heh heh, I secretly bought a big cake."
+  }
+ ],
+ "议论": [
+  {
+   "text": "同学们都在议论今天的考试。",
+   "translation": "The classmates are all talking about today's exam."
+  },
+  {
+   "text": "不要在背后议论别人。",
+   "translation": "Don't talk about other people behind their backs."
+  }
+ ],
+ "鲜": [
+  {
+   "text": "这条鱼很鲜，你快尝尝。",
+   "translation": "This fish is really fresh and tasty. Hurry up and try it."
+  },
+  {
+   "text": "这个汤真鲜，是怎么做的？",
+   "translation": "This soup is so delicious. How is it made?"
+  }
+ ],
+ "印": [
+  {
+   "text": "请把这份文件印两份。",
+   "translation": "Please print two copies of this document."
+  },
+  {
+   "text": "书上印着很多漂亮的图片。",
+   "translation": "Many beautiful pictures are printed in the book."
+  }
+ ],
+ "伙计": [
+  {
+   "text": "嘿，伙计，你昨天去哪儿了？",
+   "translation": "Hey buddy, where did you go yesterday?"
+  },
+  {
+   "text": "老板不在，伙计在店里招呼客人。",
+   "translation": "The boss is out, so the shop assistant is looking after the customers."
+  }
+ ],
+ "蒙": [
+  {
+   "text": "他用被子蒙住了头。",
+   "translation": "He covered his head with the quilt."
+  },
+  {
+   "text": "他蒙着眼睛，在房间里找人。",
+   "translation": "With his eyes covered, he searched for people in the room."
+  }
+ ],
+ "对外": [
+  {
+   "text": "博物馆下个月开始对外开放。",
+   "translation": "The museum will open to the public next month."
+  },
+  {
+   "text": "这是我们公司对外联系的电话。",
+   "translation": "This is our company's phone number for outside contact."
+  }
+ ],
+ "题材": [
+  {
+   "text": "他喜欢看历史题材的电影。",
+   "translation": "He likes watching films with historical subject matter."
+  },
+  {
+   "text": "这本书的题材很新鲜，很多人喜欢。",
+   "translation": "This book's subject matter is fresh, and many people like it."
+  }
+ ],
+ "存款": [
+  {
+   "text": "我的存款不多，买不起房子。",
+   "translation": "I don't have much in savings, so I can't afford a house."
+  },
+  {
+   "text": "银行的存款利息又降了。",
+   "translation": "The interest on bank deposits has dropped again."
+  }
+ ],
+ "合约": [
+  {
+   "text": "手机合约下个月就到期了。",
+   "translation": "My phone contract expires next month."
+  },
+  {
+   "text": "签合约以前，请先看清楚每一条。",
+   "translation": "Before signing the contract, please read every clause carefully."
+  }
+ ],
+ "冰雪": [
+  {
+   "text": "冬天，这里到处都是冰雪。",
+   "translation": "In winter, there is ice and snow everywhere here."
+  },
+  {
+   "text": "北方的冰雪世界真美啊！",
+   "translation": "The world of ice and snow in the north is so beautiful!"
+  }
+ ],
+ "距": [
+  {
+   "text": "这里距火车站只有两公里。",
+   "translation": "This place is only two kilometers from the train station."
+  },
+  {
+   "text": "距考试还有三天，我要好好复习。",
+   "translation": "There are three days left until the exam, so I need to review well."
+  }
+ ],
+ "研制": [
+  {
+   "text": "他们公司正在研制一种新手机。",
+   "translation": "Their company is developing a new kind of phone."
+  },
+  {
+   "text": "科学家研制出了更便宜的药。",
+   "translation": "Scientists have developed a cheaper medicine."
+  }
+ ],
+ "优良": [
+  {
+   "text": "这所学校有优良的学习环境。",
+   "translation": "This school has an excellent learning environment."
+  },
+  {
+   "text": "这家工厂的产品质量优良。",
+   "translation": "This factory's product quality is first-rate."
+  }
+ ],
+ "放过": [
+  {
+   "text": "你就放过我吧，我真的很累。",
+   "translation": "Please let me off the hook. I'm really tired."
+  },
+  {
+   "text": "他犯了错，老师这次没有放过他。",
+   "translation": "He made a mistake, and the teacher didn't let him off this time."
+  }
+ ],
+ "示范": [
+  {
+   "text": "老师先给我们示范了一遍。",
+   "translation": "The teacher first demonstrated it once for us."
+  },
+  {
+   "text": "你能示范一下怎么做这道菜吗？",
+   "translation": "Can you show me how to make this dish?"
+  }
+ ],
+ "避": [
+  {
+   "text": "外面下大雨，我们进店里避一避。",
+   "translation": "It's pouring outside, so let's go into the shop to take shelter."
+  },
+  {
+   "text": "他一看到老师就想避开。",
+   "translation": "As soon as he saw the teacher, he wanted to avoid him."
+  }
+ ],
+ "案子": [
+  {
+   "text": "警察正在调查这个案子。",
+   "translation": "The police are investigating this case."
+  },
+  {
+   "text": "律师今天要处理三个案子。",
+   "translation": "The lawyer has to handle three cases today."
+  }
+ ],
+ "焦点": [
+  {
+   "text": "这场比赛成了大家关注的焦点。",
+   "translation": "This match became the focus of everyone's attention."
+  },
+  {
+   "text": "照片的焦点在这朵花上。",
+   "translation": "The focus of the photo is on this flower."
+  }
+ ],
+ "高铁": [
+  {
+   "text": "坐高铁去北京只要四个小时。",
+   "translation": "It only takes four hours to get to Beijing by high-speed rail."
+  },
+  {
+   "text": "高铁站离我家不远，坐地铁就到。",
+   "translation": "The high-speed rail station isn't far from my home. The subway gets you there."
+  }
+ ],
+ "轮椅": [
+  {
+   "text": "奶奶腿不好，出门要坐轮椅。",
+   "translation": "Grandma's legs are bad, so she uses a wheelchair when she goes out."
+  },
+  {
+   "text": "这个商场有给轮椅用的电梯。",
+   "translation": "This mall has an elevator for wheelchair users."
+  }
+ ],
+ "上演": [
+  {
+   "text": "这部新电影下周在全国上演。",
+   "translation": "This new film will be shown nationwide next week."
+  },
+  {
+   "text": "剧院今晚上演什么节目？",
+   "translation": "What show is on at the theater tonight?"
+  }
+ ],
+ "当代": [
+  {
+   "text": "他最喜欢当代的流行音乐。",
+   "translation": "He likes contemporary pop music the most."
+  },
+  {
+   "text": "这是一位当代很有名的画家。",
+   "translation": "This is a very famous contemporary painter."
+  }
+ ],
+ "奉献": [
+  {
+   "text": "医生和护士为病人奉献了很多。",
+   "translation": "Doctors and nurses have given a great deal for their patients."
+  },
+  {
+   "text": "妈妈一辈子都在为家人奉献。",
+   "translation": "Mom has devoted her whole life to her family."
+  }
+ ],
+ "鲜明": [
+  {
+   "text": "这幅画的颜色非常鲜明。",
+   "translation": "The colors in this painting are very vivid."
+  },
+  {
+   "text": "两个人的性格形成了鲜明的对比。",
+   "translation": "The two people's personalities form a sharp contrast."
+  }
+ ],
+ "初期": [
+  {
+   "text": "生病的初期，你可能没有感觉。",
+   "translation": "In the early stage of an illness, you may not feel anything."
+  },
+  {
+   "text": "学外语的初期最难，要多听多说。",
+   "translation": "The early stage of learning a language is the hardest, so listen and speak a lot."
+  }
+ ],
+ "飘": [
+  {
+   "text": "树叶在风中飘下来。",
+   "translation": "The leaves drift down in the wind."
+  },
+  {
+   "text": "天上飘着几朵白云。",
+   "translation": "A few white clouds are floating in the sky."
+  }
+ ],
+ "炮": [
+  {
+   "text": "博物馆里有一门旧炮。",
+   "translation": "There is an old cannon in the museum."
+  },
+  {
+   "text": "春节的时候，小孩子喜欢放炮。",
+   "translation": "Kids love setting off firecrackers during the Spring Festival."
+  }
+ ],
+ "体制": [
+  {
+   "text": "这家公司的管理体制很灵活。",
+   "translation": "This company's management system is very flexible."
+  },
+  {
+   "text": "这个体制已经用了很多年了。",
+   "translation": "This system has been in use for many years."
+  }
+ ],
+ "接收": [
+  {
+   "text": "我还没接收到你的邮件。",
+   "translation": "I haven't received your email yet."
+  },
+  {
+   "text": "这所学校今年接收了很多新学生。",
+   "translation": "This school admitted a lot of new students this year."
+  }
+ ],
+ "素质": [
+  {
+   "text": "他的个人素质很高。",
+   "translation": "He is a person of high caliber."
+  },
+  {
+   "text": "多读书可以提高一个人的素质。",
+   "translation": "Reading more can improve a person's overall quality."
+  }
+ ],
+ "争夺": [
+  {
+   "text": "两个孩子在争夺同一个玩具。",
+   "translation": "The two kids are fighting over the same toy."
+  },
+  {
+   "text": "两支球队正在争夺冠军。",
+   "translation": "The two teams are competing for the championship."
+  }
+ ],
+ "用心": [
+  {
+   "text": "她做饭总是很用心。",
+   "translation": "She always puts a lot of care into her cooking."
+  },
+  {
+   "text": "你要用心听老师讲课。",
+   "translation": "You should listen attentively to the teacher's lesson."
+  }
+ ],
+ "极限": [
+  {
+   "text": "跑到最后，我已经到了极限。",
+   "translation": "By the end of the run, I had reached my limit."
+  },
+  {
+   "text": "每个人都有自己的极限。",
+   "translation": "Everyone has their own limits."
+  }
+ ],
+ "中毒": [
+  {
+   "text": "他吃了坏蘑菇，中毒了。",
+   "translation": "He ate bad mushrooms and got poisoned."
+  },
+  {
+   "text": "吃了不干净的东西可能会中毒。",
+   "translation": "Eating unclean food can give you food poisoning."
+  }
+ ],
+ "肺": [
+  {
+   "text": "抽烟对肺不好。",
+   "translation": "Smoking is bad for your lungs."
+  },
+  {
+   "text": "医生说他的肺很健康。",
+   "translation": "The doctor said his lungs are very healthy."
+  }
+ ],
+ "风俗": [
+  {
+   "text": "每个地方都有不同的风俗。",
+   "translation": "Every place has different customs."
+  },
+  {
+   "text": "春节吃饺子是我们家乡的风俗。",
+   "translation": "Eating dumplings at Spring Festival is a custom in my hometown."
+  }
+ ],
+ "艺人": [
+  {
+   "text": "这位艺人唱歌唱得很好。",
+   "translation": "This performer sings very well."
+  },
+  {
+   "text": "你最喜欢哪位艺人？",
+   "translation": "Which performer do you like best?"
+  }
+ ],
+ "京剧": [
+  {
+   "text": "爷爷很喜欢听京剧。",
+   "translation": "Grandpa loves listening to Beijing opera."
+  },
+  {
+   "text": "你看过京剧吗？",
+   "translation": "Have you ever seen Beijing opera?"
+  }
+ ],
+ "抽奖": [
+  {
+   "text": "商场今天搞抽奖活动。",
+   "translation": "The mall is holding a prize draw today."
+  },
+  {
+   "text": "我昨天抽奖抽到了一部手机。",
+   "translation": "I won a phone in the raffle yesterday."
+  }
+ ],
+ "百姓": [
+  {
+   "text": "老百姓都希望过上好日子。",
+   "translation": "Ordinary people all hope for a good life."
+  },
+  {
+   "text": "这位医生深受当地百姓的喜爱。",
+   "translation": "This doctor is dearly loved by the local people."
+  }
+ ],
+ "一行": [
+  {
+   "text": "代表团一行今天下午到达。",
+   "translation": "The delegation arrives this afternoon."
+  },
+  {
+   "text": "张老师一行三人明天去上海。",
+   "translation": "Teacher Zhang and his group of three go to Shanghai tomorrow."
+  }
+ ],
+ "方针": [
+  {
+   "text": "公司定了新的工作方针。",
+   "translation": "The company has set new working guidelines."
+  },
+  {
+   "text": "学校的方针是让学生快乐地学习。",
+   "translation": "The school's policy is to let students learn happily."
+  }
+ ],
+ "辅助": [
+  {
+   "text": "老师用图片辅助教学。",
+   "translation": "The teacher uses pictures to assist teaching."
+  },
+  {
+   "text": "这个软件可以辅助你学外语。",
+   "translation": "This app can help you study a foreign language."
+  }
+ ],
+ "经费": [
+  {
+   "text": "学校的经费不太够。",
+   "translation": "The school's funds are not quite enough."
+  },
+  {
+   "text": "这次活动的经费从哪里来？",
+   "translation": "Where will the funding for this event come from?"
+  }
+ ],
+ "治理": [
+  {
+   "text": "这条河的污染终于得到了治理。",
+   "translation": "The pollution in this river has finally been dealt with."
+  },
+  {
+   "text": "城市需要治理空气污染。",
+   "translation": "Cities need to control air pollution."
+  }
+ ],
+ "鉴于": [
+  {
+   "text": "鉴于天气不好，比赛改到明天。",
+   "translation": "Given the bad weather, the match has been moved to tomorrow."
+  },
+  {
+   "text": "鉴于你的情况，我们多给你一点时间。",
+   "translation": "Considering your situation, we'll give you a bit more time."
+  }
+ ],
+ "人格": [
+  {
+   "text": "他有很好的人格魅力。",
+   "translation": "He has a very appealing personality."
+  },
+  {
+   "text": "每个人的人格都应该被尊重。",
+   "translation": "Everyone's dignity should be respected."
+  }
+ ],
+ "坦克": [
+  {
+   "text": "男孩子喜欢玩坦克玩具。",
+   "translation": "Boys like playing with toy tanks."
+  },
+  {
+   "text": "博物馆里停着一辆旧坦克。",
+   "translation": "An old tank is parked in the museum."
+  }
+ ],
+ "伴侣": [
+  {
+   "text": "他想找一个合适的人生伴侣。",
+   "translation": "He wants to find a suitable life partner."
+  },
+  {
+   "text": "小狗是老人最好的伴侣。",
+   "translation": "A little dog is an elderly person's best companion."
+  }
+ ],
+ "率先": [
+  {
+   "text": "小明率先举手回答问题。",
+   "translation": "Xiaoming was the first to raise his hand to answer."
+  },
+  {
+   "text": "我们公司率先用上了新技术。",
+   "translation": "Our company was the first to adopt the new technology."
+  }
+ ],
+ "首席": [
+  {
+   "text": "她是乐队的首席小提琴手。",
+   "translation": "She is the principal violinist of the orchestra."
+  },
+  {
+   "text": "他是公司的首席设计师。",
+   "translation": "He is the company's chief designer."
+  }
+ ],
+ "略": [
+  {
+   "text": "他的个子比我略高。",
+   "translation": "He is slightly taller than me."
+  },
+  {
+   "text": "这两个杯子大小略有不同。",
+   "translation": "These two cups differ slightly in size."
+  }
+ ],
+ "诉讼": [
+  {
+   "text": "公司卷入了一场诉讼。",
+   "translation": "The company got caught up in a lawsuit."
+  },
+  {
+   "text": "这场诉讼花了他很多钱。",
+   "translation": "This lawsuit cost him a lot of money."
+  }
+ ],
+ "摇滚": [
+  {
+   "text": "他喜欢听摇滚乐。",
+   "translation": "He likes listening to rock music."
+  },
+  {
+   "text": "我哥哥组了一个摇滚乐队。",
+   "translation": "My older brother started a rock band."
+  }
+ ],
+ "见证": [
+  {
+   "text": "我很高兴见证你的成长。",
+   "translation": "I'm so happy to witness you growing up."
+  },
+  {
+   "text": "这座老桥见证了城市的变化。",
+   "translation": "This old bridge has witnessed the city's changes."
+  }
+ ],
+ "支配": [
+  {
+   "text": "这笔钱你可以自由支配。",
+   "translation": "You can spend this money however you like."
+  },
+  {
+   "text": "你要学会合理支配时间。",
+   "translation": "You need to learn to manage your time sensibly."
+  }
+ ],
+ "搭档": [
+  {
+   "text": "他是我最好的工作搭档。",
+   "translation": "He is my best work partner."
+  },
+  {
+   "text": "你愿意和我搭档吗？",
+   "translation": "Would you like to team up with me?"
+  }
+ ],
+ "周期": [
+  {
+   "text": "这种花的生长周期很短。",
+   "translation": "The growth cycle of this flower is very short."
+  },
+  {
+   "text": "手机更新的周期越来越短。",
+   "translation": "The cycle between phone upgrades keeps getting shorter."
+  }
+ ],
+ "跨": [
+  {
+   "text": "他一步跨过了小水沟。",
+   "translation": "He stepped across the little ditch in one stride."
+  },
+  {
+   "text": "请不要跨过这条线。",
+   "translation": "Please do not step over this line."
+  }
+ ],
+ "转弯": [
+  {
+   "text": "车子到路口要慢慢转弯。",
+   "translation": "A car should turn slowly at an intersection."
+  },
+  {
+   "text": "你在前面第二个路口转弯。",
+   "translation": "Turn at the second intersection up ahead."
+  }
+ ],
+ "一一": [
+  {
+   "text": "老师把名字一一念了出来。",
+   "translation": "The teacher read out the names one by one."
+  },
+  {
+   "text": "请你把问题一一回答。",
+   "translation": "Please answer the questions one by one."
+  }
+ ],
+ "房地产": [
+  {
+   "text": "他在一家房地产公司工作。",
+   "translation": "He works at a real estate company."
+  },
+  {
+   "text": "这几年房地产生意不太好做。",
+   "translation": "The real estate business has been tough these past few years."
+  }
+ ],
+ "棉花": [
+  {
+   "text": "这个枕头里装的是棉花。",
+   "translation": "This pillow is filled with cotton."
+  },
+  {
+   "text": "秋天，田里的棉花开了。",
+   "translation": "In autumn, the cotton in the fields blooms."
+  }
+ ],
+ "捏": [
+  {
+   "text": "他轻轻捏了一下我的手。",
+   "translation": "He gave my hand a gentle squeeze."
+  },
+  {
+   "text": "妈妈用面团捏了一只小兔子。",
+   "translation": "Mom molded a little rabbit out of dough."
+  }
+ ],
+ "专利": [
+  {
+   "text": "这项技术已经申请了专利。",
+   "translation": "A patent has already been applied for on this technology."
+  },
+  {
+   "text": "这个发明有专利吗？",
+   "translation": "Does this invention have a patent?"
+  }
+ ],
+ "刑事": [
+  {
+   "text": "这是一起刑事案件。",
+   "translation": "This is a criminal case."
+  },
+  {
+   "text": "他的律师专门处理刑事案件。",
+   "translation": "His lawyer specializes in handling criminal cases."
+  }
+ ],
+ "奔": [
+  {
+   "text": "下课后，同学们都奔向食堂。",
+   "translation": "After class, the students all rushed to the cafeteria."
+  },
+  {
+   "text": "他急着奔回家。",
+   "translation": "He hurried home in a rush."
+  }
+ ],
+ "总监": [
+  {
+   "text": "他是公司的技术总监。",
+   "translation": "He is the company's technical director."
+  },
+  {
+   "text": "总监今天下午要开会。",
+   "translation": "The director has a meeting this afternoon."
+  }
+ ],
+ "救援": [
+  {
+   "text": "救援队很快赶到了现场。",
+   "translation": "The rescue team arrived at the scene quickly."
+  },
+  {
+   "text": "大雨过后，大家一起参加救援。",
+   "translation": "After the heavy rain, everyone joined the rescue effort."
+  }
+ ],
+ "出场": [
+  {
+   "text": "下一个出场的是小红。",
+   "translation": "The next one to come on stage is Xiaohong."
+  },
+  {
+   "text": "比赛开始了，球员们陆续出场。",
+   "translation": "The game is starting, and the players are coming out one after another."
+  }
+ ],
+ "良心": [
+  {
+   "text": "做人要有良心。",
+   "translation": "A person should have a conscience."
+  },
+  {
+   "text": "你这样做，良心过得去吗？",
+   "translation": "Can you live with yourself after doing that?"
+  }
+ ],
+ "何况": [
+  {
+   "text": "这道题老师都觉得难，何况学生。",
+   "translation": "Even the teacher finds this problem hard, let alone the students."
+  },
+  {
+   "text": "他连走路都累，何况是跑步呢？",
+   "translation": "Walking already tires him out, so how could he run?"
+  }
+ ],
+ "模拟": [
+  {
+   "text": "学生们在做模拟考试。",
+   "translation": "The students are taking a mock exam."
+  },
+  {
+   "text": "这个软件可以模拟飞行。",
+   "translation": "This software can simulate flying."
+  }
+ ],
+ "该死": [
+  {
+   "text": "该死，我忘带钥匙了！",
+   "translation": "Damn, I forgot my keys!"
+  },
+  {
+   "text": "这个该死的闹钟又没响。",
+   "translation": "This damn alarm clock didn't go off again."
+  }
+ ],
+ "委屈": [
+  {
+   "text": "他没做错，所以觉得很委屈。",
+   "translation": "He did nothing wrong, so he feels really wronged."
+  },
+  {
+   "text": "别哭了，我知道你受委屈了。",
+   "translation": "Don't cry. I know you were treated unfairly."
+  }
+ ],
+ "球鞋": [
+  {
+   "text": "我想买一双新球鞋。",
+   "translation": "I want to buy a new pair of sneakers."
+  },
+  {
+   "text": "这双球鞋穿着很舒服。",
+   "translation": "These sneakers are very comfortable to wear."
+  }
+ ],
+ "打针": [
+  {
+   "text": "小孩子都怕打针。",
+   "translation": "Little kids are all afraid of getting shots."
+  },
+  {
+   "text": "医生说你需要去打针。",
+   "translation": "The doctor says you need to go get an injection."
+  }
+ ],
+ "体操": [
+  {
+   "text": "她从小就开始练体操。",
+   "translation": "She has practiced gymnastics since she was little."
+  },
+  {
+   "text": "同学们在操场上做体操。",
+   "translation": "The students are doing calisthenics on the playground."
+  }
+ ],
+ "同性恋": [
+  {
+   "text": "同性恋不是一种病。",
+   "translation": "Being gay is not an illness."
+  },
+  {
+   "text": "她在报纸上读到一篇关于同性恋的文章。",
+   "translation": "She read an article about homosexuality in the newspaper."
+  }
+ ],
+ "屁股": [
+  {
+   "text": "小孩摔了一跤，屁股很疼。",
+   "translation": "The child fell over and his bottom really hurts."
+  }
+ ],
+ "岁": [
+  {
+   "text": "我女儿今年五岁了。",
+   "translation": "My daughter is five years old this year."
+  },
+  {
+   "text": "你奶奶今年多少岁了？",
+   "translation": "How old is your grandmother this year?"
+  }
+ ],
+ "百": [
+  {
+   "text": "这件衣服要三百块钱。",
+   "translation": "This piece of clothing costs three hundred yuan."
+  },
+  {
+   "text": "我们学校有一百多个老师。",
+   "translation": "Our school has more than a hundred teachers."
+  }
+ ],
+ "压": [
+  {
+   "text": "你用手压住这张纸，别让风吹走。",
+   "translation": "Press this paper down with your hand so the wind doesn't blow it away."
+  },
+  {
+   "text": "最近工作压力太大，我睡不好觉。",
+   "translation": "The pressure at work has been too much lately, and I can't sleep well."
+  }
+ ],
+ "社区": [
+  {
+   "text": "我们社区有一个很大的公园。",
+   "translation": "Our neighborhood has a very big park."
+  },
+  {
+   "text": "你住的社区安全吗？",
+   "translation": "Is the neighborhood you live in safe?"
+  }
+ ],
+ "地下": [
+  {
+   "text": "这家商场的地下一层是超市。",
+   "translation": "The basement level of this mall is a supermarket."
+  },
+  {
+   "text": "我们把车停在地下停车场吧。",
+   "translation": "Let's park the car in the underground parking lot."
+  }
+ ],
+ "球场": [
+  {
+   "text": "周末我们去球场踢球吧。",
+   "translation": "Let's go to the field and play soccer this weekend."
+  },
+  {
+   "text": "球场上有很多人在跑步。",
+   "translation": "There are lots of people running on the sports ground."
+  }
+ ],
+ "恋爱": [
+  {
+   "text": "他们恋爱三年了，打算明年结婚。",
+   "translation": "They have been dating for three years and plan to get married next year."
+  },
+  {
+   "text": "你现在在谈恋爱吗？",
+   "translation": "Are you seeing someone right now?"
+  }
+ ],
+ "荣誉": [
+  {
+   "text": "这是我们全队的荣誉。",
+   "translation": "This is an honor for our whole team."
+  },
+  {
+   "text": "他为学校赢得了很多荣誉。",
+   "translation": "He won a lot of honors for the school."
+  }
+ ],
+ "中年": [
+  {
+   "text": "我爸爸已经是中年人了。",
+   "translation": "My dad is already middle-aged."
+  },
+  {
+   "text": "人到中年，工作和家里的事都很忙。",
+   "translation": "In middle age, both work and family keep you busy."
+  }
+ ],
+ "如同": [
+  {
+   "text": "她对我如同亲姐姐一样好。",
+   "translation": "She treats me as kindly as a real older sister."
+  },
+  {
+   "text": "这里的夏天如同火炉一样热。",
+   "translation": "Summer here is as hot as a furnace."
+  }
+ ],
+ "对比": [
+  {
+   "text": "你对比一下这两个手机，哪个更好？",
+   "translation": "Compare these two phones. Which one is better?"
+  },
+  {
+   "text": "新旧照片的对比很明显。",
+   "translation": "The contrast between the new and old photos is obvious."
+  }
+ ],
+ "分子": [
+  {
+   "text": "水是由很多小分子组成的。",
+   "translation": "Water is made up of many tiny molecules."
+  },
+  {
+   "text": "老师在黑板上写了分子和分母。",
+   "translation": "The teacher wrote the numerator and the denominator on the blackboard."
+  }
+ ],
+ "开启": [
+  {
+   "text": "请先开启手机的网络。",
+   "translation": "Please turn on your phone's data connection first."
+  },
+  {
+   "text": "你知道怎么开启这个功能吗？",
+   "translation": "Do you know how to enable this feature?"
+  }
+ ],
+ "边缘": [
+  {
+   "text": "杯子放在桌子的边缘，快掉下去了。",
+   "translation": "The cup is on the edge of the table and is about to fall."
+  },
+  {
+   "text": "这个小镇在城市的边缘。",
+   "translation": "This small town is on the edge of the city."
+  }
+ ],
+ "研究所": [
+  {
+   "text": "我哥哥在一个研究所工作。",
+   "translation": "My older brother works at a research institute."
+  },
+  {
+   "text": "你毕业以后想考研究所吗？",
+   "translation": "Do you want to take the graduate school entrance exam after you graduate?"
+  }
+ ],
+ "催": [
+  {
+   "text": "妈妈一直催我快点起床。",
+   "translation": "Mom kept urging me to get up quickly."
+  },
+  {
+   "text": "别催了，我马上就好。",
+   "translation": "Stop rushing me. I'll be ready in a minute."
+  }
+ ],
+ "牵": [
+  {
+   "text": "过马路的时候要牵着孩子的手。",
+   "translation": "You should hold the child's hand when crossing the road."
+  },
+  {
+   "text": "他牵着一条小狗在公园里散步。",
+   "translation": "He is walking a little dog on a leash in the park."
+  }
+ ],
+ "动画": [
+  {
+   "text": "这部动画很好看，你看了吗？",
+   "translation": "This cartoon is really good. Have you watched it?"
+  },
+  {
+   "text": "我弟弟每天晚上都看动画。",
+   "translation": "My younger brother watches cartoons every evening."
+  }
+ ],
+ "春季": [
+  {
+   "text": "春季天气暖和，花都开了。",
+   "translation": "In spring the weather is warm and the flowers are all in bloom."
+  },
+  {
+   "text": "学校的春季学期三月开始。",
+   "translation": "The school's spring semester starts in March."
+  }
+ ],
+ "大地": [
+  {
+   "text": "下了一场雨，大地变绿了。",
+   "translation": "After a rain, the earth turned green."
+  },
+  {
+   "text": "太阳出来了，大地也暖和起来。",
+   "translation": "The sun came out, and the earth warmed up too."
+  }
+ ],
+ "僵尸": [
+  {
+   "text": "这个游戏里有很多僵尸。",
+   "translation": "There are a lot of zombies in this game."
+  },
+  {
+   "text": "小孩子都有点怕电影里的僵尸。",
+   "translation": "Kids are all a bit scared of the zombies in movies."
+  }
+ ],
+ "人为": [
+  {
+   "text": "这次事故是人为造成的。",
+   "translation": "This accident was caused by human action."
+  },
+  {
+   "text": "这个湖不是自然的，是人为挖出来的。",
+   "translation": "This lake isn't natural. It was dug by people."
+  }
+ ],
+ "边界": [
+  {
+   "text": "这条河是两个国家的边界。",
+   "translation": "This river is the border between the two countries."
+  },
+  {
+   "text": "我家和邻居家的边界上有一棵大树。",
+   "translation": "There is a big tree on the boundary between my house and the neighbor's."
+  }
+ ],
+ "融入": [
+  {
+   "text": "他很快就融入了新的班级。",
+   "translation": "He quickly fit in with his new class."
+  },
+  {
+   "text": "刚搬来的人怎么才能融入这个社区？",
+   "translation": "How can someone who just moved in become part of this community?"
+  }
+ ],
+ "主导": [
+  {
+   "text": "这次活动由谁来主导？",
+   "translation": "Who will lead this event?"
+  },
+  {
+   "text": "在这个项目里，经理起主导作用。",
+   "translation": "In this project, the manager plays the leading role."
+  }
+ ]
+}

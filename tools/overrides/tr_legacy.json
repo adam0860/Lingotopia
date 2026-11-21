@@ -1,0 +1,4097 @@
+{
+ "_comment": "The 282 hand-authored cards of the original Turkish deck, kept so existing card ids (and any study progress on them) survive the expansion to 5,000. Sentences were written by hand for the app.",
+ "bir": {
+  "id": "tr_00001_bir",
+  "pos": "num",
+  "posName": "numeral",
+  "gloss": "one; a, an",
+  "corpusRank": 1,
+  "sentences": [
+   {
+    "id": "tr_00001_bir_s1",
+    "text": "Bir bardak su lütfen.",
+    "translation": "One glass of water, please."
+   },
+   {
+    "id": "tr_00001_bir_s2",
+    "text": "Bu bir kitap.",
+    "translation": "This is a book."
+   }
+  ]
+ },
+ "bu": {
+  "id": "tr_00002_bu",
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "this",
+  "corpusRank": 2,
+  "sentences": [
+   {
+    "id": "tr_00002_bu_s1",
+    "text": "Bu çok güzel.",
+    "translation": "This is very beautiful."
+   },
+   {
+    "id": "tr_00002_bu_s2",
+    "text": "Bu ev bizim.",
+    "translation": "This house is ours."
+   }
+  ]
+ },
+ "şu": {
+  "id": "tr_00003_su",
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "that (nearby)",
+  "corpusRank": 49,
+  "sentences": [
+   {
+    "id": "tr_00003_su_s1",
+    "text": "Şu adamı tanıyor musun?",
+    "translation": "Do you know that man?"
+   }
+  ]
+ },
+ "o": {
+  "id": "tr_00004_o",
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "he, she, it; that",
+  "corpusRank": 8,
+  "sentences": [
+   {
+    "id": "tr_00004_o_s1",
+    "text": "O benim kardeşim.",
+    "translation": "He is my brother."
+   },
+   {
+    "id": "tr_00004_o_s2",
+    "text": "O gün çok yağmur yağdı.",
+    "translation": "It rained a lot that day."
+   }
+  ]
+ },
+ "ne": {
+  "id": "tr_00005_ne",
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "what",
+  "corpusRank": 3,
+  "sentences": [
+   {
+    "id": "tr_00005_ne_s1",
+    "text": "Ne yapıyorsun?",
+    "translation": "What are you doing?"
+   },
+   {
+    "id": "tr_00005_ne_s2",
+    "text": "Bu ne demek?",
+    "translation": "What does this mean?"
+   }
+  ]
+ },
+ "ve": {
+  "id": "tr_00006_ve",
+  "pos": "conj",
+  "posName": "conjunction",
+  "gloss": "and",
+  "corpusRank": 4,
+  "sentences": [
+   {
+    "id": "tr_00006_ve_s1",
+    "text": "Anne ve baba evde.",
+    "translation": "Mom and dad are at home."
+   }
+  ]
+ },
+ "için": {
+  "id": "tr_00007_icin",
+  "pos": "post",
+  "posName": "postposition",
+  "gloss": "for; in order to",
+  "corpusRank": 5,
+  "sentences": [
+   {
+    "id": "tr_00007_icin_s1",
+    "text": "Bu senin için.",
+    "translation": "This is for you."
+   },
+   {
+    "id": "tr_00007_icin_s2",
+    "text": "Öğrenmek için çalışıyorum.",
+    "translation": "I study in order to learn."
+   }
+  ]
+ },
+ "çok": {
+  "id": "tr_00008_cok",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "very; a lot",
+  "corpusRank": 10,
+  "sentences": [
+   {
+    "id": "tr_00008_cok_s1",
+    "text": "Çok teşekkür ederim.",
+    "translation": "Thank you very much."
+   },
+   {
+    "id": "tr_00008_cok_s2",
+    "text": "Bugün çok yoruldum.",
+    "translation": "I got very tired today."
+   }
+  ]
+ },
+ "ama": {
+  "id": "tr_00009_ama",
+  "pos": "conj",
+  "posName": "conjunction",
+  "gloss": "but",
+  "corpusRank": 11,
+  "sentences": [
+   {
+    "id": "tr_00009_ama_s1",
+    "text": "İstiyorum ama param yok.",
+    "translation": "I want it but I have no money."
+   }
+  ]
+ },
+ "evet": {
+  "id": "tr_00010_evet",
+  "pos": "interj",
+  "posName": "interjection",
+  "gloss": "yes",
+  "corpusRank": 12,
+  "sentences": [
+   {
+    "id": "tr_00010_evet_s1",
+    "text": "Evet, anladım.",
+    "translation": "Yes, I understood."
+   }
+  ]
+ },
+ "hayır": {
+  "id": "tr_00011_hayir",
+  "pos": "interj",
+  "posName": "interjection",
+  "gloss": "no",
+  "corpusRank": 18,
+  "sentences": [
+   {
+    "id": "tr_00011_hayir_s1",
+    "text": "Hayır, istemiyorum.",
+    "translation": "No, I don't want to."
+   }
+  ]
+ },
+ "var": {
+  "id": "tr_00012_var",
+  "pos": "part",
+  "posName": "particle",
+  "gloss": "there is, exists",
+  "corpusRank": 13,
+  "sentences": [
+   {
+    "id": "tr_00012_var_s1",
+    "text": "Masada bir kitap var.",
+    "translation": "There is a book on the table."
+   },
+   {
+    "id": "tr_00012_var_s2",
+    "text": "Sorun var mı?",
+    "translation": "Is there a problem?"
+   }
+  ]
+ },
+ "yok": {
+  "id": "tr_00013_yok",
+  "pos": "part",
+  "posName": "particle",
+  "gloss": "there isn't",
+  "corpusRank": 24,
+  "sentences": [
+   {
+    "id": "tr_00013_yok_s1",
+    "text": "Hiç param yok.",
+    "translation": "I have no money at all."
+   }
+  ]
+ },
+ "değil": {
+  "id": "tr_00014_degil",
+  "pos": "part",
+  "posName": "particle",
+  "gloss": "not (with nouns and adjectives)",
+  "corpusRank": 16,
+  "sentences": [
+   {
+    "id": "tr_00014_degil_s1",
+    "text": "Bu doğru değil.",
+    "translation": "This is not true."
+   }
+  ]
+ },
+ "şey": {
+  "id": "tr_00015_sey",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "thing",
+  "corpusRank": 17,
+  "sentences": [
+   {
+    "id": "tr_00015_sey_s1",
+    "text": "Bir şey söyleyeceğim.",
+    "translation": "I'm going to say something."
+   }
+  ]
+ },
+ "daha": {
+  "id": "tr_00016_daha",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "more; yet",
+  "corpusRank": 19,
+  "sentences": [
+   {
+    "id": "tr_00016_daha_s1",
+    "text": "Daha fazla istiyorum.",
+    "translation": "I want more."
+   },
+   {
+    "id": "tr_00016_daha_s2",
+    "text": "Daha gelmedi.",
+    "translation": "He hasn't come yet."
+   }
+  ]
+ },
+ "ben": {
+  "id": "tr_00017_ben",
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "I",
+  "corpusRank": 9,
+  "sentences": [
+   {
+    "id": "tr_00017_ben_s1",
+    "text": "Ben Türkçe öğreniyorum.",
+    "translation": "I am learning Turkish."
+   }
+  ]
+ },
+ "sen": {
+  "id": "tr_00018_sen",
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "you (singular, informal)",
+  "corpusRank": 20,
+  "sentences": [
+   {
+    "id": "tr_00018_sen_s1",
+    "text": "Sen nerelisin?",
+    "translation": "Where are you from?"
+   }
+  ]
+ },
+ "biz": {
+  "id": "tr_00019_biz",
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "we",
+  "corpusRank": 90,
+  "sentences": [
+   {
+    "id": "tr_00019_biz_s1",
+    "text": "Biz her gün çalışırız.",
+    "translation": "We work every day."
+   }
+  ]
+ },
+ "siz": {
+  "id": "tr_00020_siz",
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "you (plural or formal)",
+  "corpusRank": 126,
+  "sentences": [
+   {
+    "id": "tr_00020_siz_s1",
+    "text": "Siz nasılsınız?",
+    "translation": "How are you?"
+   }
+  ]
+ },
+ "onlar": {
+  "id": "tr_00021_onlar",
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "they",
+  "corpusRank": 202,
+  "sentences": [
+   {
+    "id": "tr_00021_onlar_s1",
+    "text": "Onlar yarın geliyor.",
+    "translation": "They are coming tomorrow."
+   }
+  ]
+ },
+ "kadar": {
+  "id": "tr_00022_kadar",
+  "pos": "post",
+  "posName": "postposition",
+  "gloss": "as much as; until",
+  "corpusRank": 21,
+  "sentences": [
+   {
+    "id": "tr_00022_kadar_s1",
+    "text": "Akşama kadar buradayım.",
+    "translation": "I'm here until evening."
+   },
+   {
+    "id": "tr_00022_kadar_s2",
+    "text": "Senin kadar hızlı koşamam.",
+    "translation": "I can't run as fast as you."
+   }
+  ]
+ },
+ "gibi": {
+  "id": "tr_00023_gibi",
+  "pos": "post",
+  "posName": "postposition",
+  "gloss": "like, as",
+  "corpusRank": 23,
+  "sentences": [
+   {
+    "id": "tr_00023_gibi_s1",
+    "text": "Kardeşin gibi konuşuyorsun.",
+    "translation": "You talk like your brother."
+   }
+  ]
+ },
+ "ile": {
+  "id": "tr_00024_ile",
+  "pos": "post",
+  "posName": "postposition",
+  "gloss": "with; by",
+  "corpusRank": 88,
+  "sentences": [
+   {
+    "id": "tr_00024_ile_s1",
+    "text": "Arkadaşımla sinemaya gittim.",
+    "translation": "I went to the cinema with my friend."
+   }
+  ]
+ },
+ "de": {
+  "id": "tr_00025_de",
+  "pos": "part",
+  "posName": "particle",
+  "gloss": "also, too",
+  "corpusRank": 7,
+  "sentences": [
+   {
+    "id": "tr_00025_de_s1",
+    "text": "Ben de geliyorum.",
+    "translation": "I'm coming too."
+   }
+  ]
+ },
+ "hiç": {
+  "id": "tr_00026_hic",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "never; at all",
+  "corpusRank": 43,
+  "sentences": [
+   {
+    "id": "tr_00026_hic_s1",
+    "text": "Hiç et yemem.",
+    "translation": "I never eat meat."
+   }
+  ]
+ },
+ "her": {
+  "id": "tr_00027_her",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "every",
+  "corpusRank": 31,
+  "sentences": [
+   {
+    "id": "tr_00027_her_s1",
+    "text": "Her sabah koşuyorum.",
+    "translation": "I run every morning."
+   }
+  ]
+ },
+ "bazen": {
+  "id": "tr_00028_bazen",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "sometimes",
+  "corpusRank": 419,
+  "sentences": [
+   {
+    "id": "tr_00028_bazen_s1",
+    "text": "Bazen çok yorgun oluyorum.",
+    "translation": "Sometimes I get very tired."
+   }
+  ]
+ },
+ "hep": {
+  "id": "tr_00029_hep",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "always",
+  "corpusRank": 221,
+  "sentences": [
+   {
+    "id": "tr_00029_hep_s1",
+    "text": "Hep aynı şeyi söylüyorsun.",
+    "translation": "You always say the same thing."
+   }
+  ]
+ },
+ "belki": {
+  "id": "tr_00030_belki",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "maybe",
+  "corpusRank": 76,
+  "sentences": [
+   {
+    "id": "tr_00030_belki_s1",
+    "text": "Belki yarın görüşürüz.",
+    "translation": "Maybe we'll see each other tomorrow."
+   }
+  ]
+ },
+ "tabii": {
+  "id": "tr_00031_tabii",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "of course",
+  "corpusRank": 139,
+  "sentences": [
+   {
+    "id": "tr_00031_tabii_s1",
+    "text": "Tabii ki yardım ederim.",
+    "translation": "Of course I'll help."
+   }
+  ]
+ },
+ "gerçekten": {
+  "id": "tr_00032_gercekten",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "really",
+  "corpusRank": 69,
+  "sentences": [
+   {
+    "id": "tr_00032_gercekten_s1",
+    "text": "Gerçekten çok güzel.",
+    "translation": "It's really beautiful."
+   }
+  ]
+ },
+ "tekrar": {
+  "id": "tr_00033_tekrar",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "again",
+  "corpusRank": 170,
+  "sentences": [
+   {
+    "id": "tr_00033_tekrar_s1",
+    "text": "Lütfen tekrar söyle.",
+    "translation": "Please say it again."
+   }
+  ]
+ },
+ "birlikte": {
+  "id": "tr_00034_birlikte",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "together",
+  "corpusRank": 187,
+  "sentences": [
+   {
+    "id": "tr_00034_birlikte_s1",
+    "text": "Birlikte yemek yiyelim.",
+    "translation": "Let's eat together."
+   }
+  ]
+ },
+ "yalnız": {
+  "id": "tr_00035_yalniz",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "alone; only",
+  "corpusRank": 319,
+  "sentences": [
+   {
+    "id": "tr_00035_yalniz_s1",
+    "text": "Evde yalnız kaldım.",
+    "translation": "I stayed home alone."
+   }
+  ]
+ },
+ "başka": {
+  "id": "tr_00036_baska",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "other, another",
+  "corpusRank": 75,
+  "sentences": [
+   {
+    "id": "tr_00036_baska_s1",
+    "text": "Başka bir soru var mı?",
+    "translation": "Is there another question?"
+   }
+  ]
+ },
+ "aynı": {
+  "id": "tr_00037_ayni",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "same",
+  "corpusRank": 136,
+  "sentences": [
+   {
+    "id": "tr_00037_ayni_s1",
+    "text": "Aynı okula gidiyoruz.",
+    "translation": "We go to the same school."
+   }
+  ]
+ },
+ "bütün": {
+  "id": "tr_00038_butun",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "all, whole",
+  "corpusRank": 123,
+  "sentences": [
+   {
+    "id": "tr_00038_butun_s1",
+    "text": "Bütün gün çalıştım.",
+    "translation": "I worked all day."
+   }
+  ]
+ },
+ "biraz": {
+  "id": "tr_00039_biraz",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "a little",
+  "corpusRank": 52,
+  "sentences": [
+   {
+    "id": "tr_00039_biraz_s1",
+    "text": "Biraz Türkçe biliyorum.",
+    "translation": "I know a little Turkish."
+   }
+  ]
+ },
+ "az": {
+  "id": "tr_00040_az",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "few, little",
+  "corpusRank": 245,
+  "sentences": [
+   {
+    "id": "tr_00040_az_s1",
+    "text": "Çok az uyudum.",
+    "translation": "I slept very little."
+   }
+  ]
+ },
+ "sonra": {
+  "id": "tr_00041_sonra",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "after, later",
+  "corpusRank": 44,
+  "sentences": [
+   {
+    "id": "tr_00041_sonra_s1",
+    "text": "Yemekten sonra konuşuruz.",
+    "translation": "We'll talk after the meal."
+   }
+  ]
+ },
+ "önce": {
+  "id": "tr_00042_once",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "before, ago",
+  "corpusRank": 51,
+  "sentences": [
+   {
+    "id": "tr_00042_once_s1",
+    "text": "Bir yıl önce buraya taşındım.",
+    "translation": "I moved here a year ago."
+   }
+  ]
+ },
+ "şimdi": {
+  "id": "tr_00043_simdi",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "now",
+  "corpusRank": 45,
+  "sentences": [
+   {
+    "id": "tr_00043_simdi_s1",
+    "text": "Şimdi çıkmam gerek.",
+    "translation": "I need to leave now."
+   }
+  ]
+ },
+ "hemen": {
+  "id": "tr_00044_hemen",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "immediately",
+  "corpusRank": 125,
+  "sentences": [
+   {
+    "id": "tr_00044_hemen_s1",
+    "text": "Hemen geliyorum.",
+    "translation": "I'm coming right away."
+   }
+  ]
+ },
+ "artık": {
+  "id": "tr_00045_artik",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "from now on; anymore",
+  "corpusRank": 68,
+  "sentences": [
+   {
+    "id": "tr_00045_artik_s1",
+    "text": "Artık sigara içmiyorum.",
+    "translation": "I don't smoke anymore."
+   }
+  ]
+ },
+ "hâlâ": {
+  "id": "tr_00046_hala",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "still",
+  "corpusRank": 301,
+  "sentences": [
+   {
+    "id": "tr_00046_hala_s1",
+    "text": "Hâlâ bekliyorum.",
+    "translation": "I'm still waiting."
+   }
+  ]
+ },
+ "nasıl": {
+  "id": "tr_00047_nasil",
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "how",
+  "corpusRank": 42,
+  "sentences": [
+   {
+    "id": "tr_00047_nasil_s1",
+    "text": "Nasılsın?",
+    "translation": "How are you?"
+   },
+   {
+    "id": "tr_00047_nasil_s2",
+    "text": "Bu nasıl çalışıyor?",
+    "translation": "How does this work?"
+   }
+  ]
+ },
+ "neden": {
+  "id": "tr_00048_neden",
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "why",
+  "corpusRank": 36,
+  "sentences": [
+   {
+    "id": "tr_00048_neden_s1",
+    "text": "Neden geç kaldın?",
+    "translation": "Why were you late?"
+   }
+  ]
+ },
+ "niçin": {
+  "id": "tr_00049_nicin",
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "why, what for",
+  "corpusRank": 1132,
+  "sentences": [
+   {
+    "id": "tr_00049_nicin_s1",
+    "text": "Niçin gelmedin?",
+    "translation": "Why didn't you come?"
+   }
+  ]
+ },
+ "nerede": {
+  "id": "tr_00050_nerede",
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "where",
+  "corpusRank": 104,
+  "sentences": [
+   {
+    "id": "tr_00050_nerede_s1",
+    "text": "Nerede oturuyorsun?",
+    "translation": "Where do you live?"
+   }
+  ]
+ },
+ "nereye": {
+  "id": "tr_00051_nereye",
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "(to) where",
+  "corpusRank": 237,
+  "sentences": [
+   {
+    "id": "tr_00051_nereye_s1",
+    "text": "Nereye gidiyorsun?",
+    "translation": "Where are you going?"
+   }
+  ]
+ },
+ "nereden": {
+  "id": "tr_00052_nereden",
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "from where",
+  "corpusRank": 311,
+  "sentences": [
+   {
+    "id": "tr_00052_nereden_s1",
+    "text": "Nereden geliyorsun?",
+    "translation": "Where are you coming from?"
+   }
+  ]
+ },
+ "ne zaman": {
+  "id": "tr_00053_ne_zaman",
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "when",
+  "corpusRank": 3,
+  "sentences": [
+   {
+    "id": "tr_00053_ne_zaman_s1",
+    "text": "Ne zaman geliyorsun?",
+    "translation": "When are you coming?"
+   }
+  ]
+ },
+ "kim": {
+  "id": "tr_00054_kim",
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "who",
+  "corpusRank": 73,
+  "sentences": [
+   {
+    "id": "tr_00054_kim_s1",
+    "text": "Kim geldi?",
+    "translation": "Who came?"
+   }
+  ]
+ },
+ "hangi": {
+  "id": "tr_00055_hangi",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "which",
+  "corpusRank": 393,
+  "sentences": [
+   {
+    "id": "tr_00055_hangi_s1",
+    "text": "Hangi kitabı istiyorsun?",
+    "translation": "Which book do you want?"
+   }
+  ]
+ },
+ "kaç": {
+  "id": "tr_00056_kac",
+  "pos": "pron",
+  "posName": "pronoun",
+  "gloss": "how many, how much",
+  "corpusRank": 244,
+  "sentences": [
+   {
+    "id": "tr_00056_kac_s1",
+    "text": "Kaç yaşındasın?",
+    "translation": "How old are you?"
+   },
+   {
+    "id": "tr_00056_kac_s2",
+    "text": "Bu kaç lira?",
+    "translation": "How much is this?"
+   }
+  ]
+ },
+ "olmak": {
+  "id": "tr_00057_olmak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to be, to become; to happen",
+  "corpusRank": 184,
+  "sentences": [
+   {
+    "id": "tr_00057_olmak_s1",
+    "text": "Doktor olmak istiyorum.",
+    "translation": "I want to become a doctor."
+   },
+   {
+    "id": "tr_00057_olmak_s2",
+    "text": "Ne oldu?",
+    "translation": "What happened?"
+   }
+  ]
+ },
+ "yapmak": {
+  "id": "tr_00058_yapmak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to do, to make",
+  "corpusRank": 255,
+  "sentences": [
+   {
+    "id": "tr_00058_yapmak_s1",
+    "text": "Ne yapıyorsun?",
+    "translation": "What are you doing?"
+   },
+   {
+    "id": "tr_00058_yapmak_s2",
+    "text": "Kahvaltı yaptım.",
+    "translation": "I had breakfast."
+   }
+  ]
+ },
+ "etmek": {
+  "id": "tr_00059_etmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to do (light verb)",
+  "corpusRank": 232,
+  "sentences": [
+   {
+    "id": "tr_00059_etmek_s1",
+    "text": "Sana yardım edeyim.",
+    "translation": "Let me help you."
+   },
+   {
+    "id": "tr_00059_etmek_s2",
+    "text": "Teşekkür ederim.",
+    "translation": "Thank you."
+   }
+  ]
+ },
+ "gitmek": {
+  "id": "tr_00060_gitmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to go",
+  "corpusRank": 422,
+  "sentences": [
+   {
+    "id": "tr_00060_gitmek_s1",
+    "text": "Okula gidiyorum.",
+    "translation": "I'm going to school."
+   },
+   {
+    "id": "tr_00060_gitmek_s2",
+    "text": "Dün sinemaya gittik.",
+    "translation": "We went to the cinema yesterday."
+   }
+  ]
+ },
+ "gelmek": {
+  "id": "tr_00061_gelmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to come",
+  "corpusRank": 992,
+  "sentences": [
+   {
+    "id": "tr_00061_gelmek_s1",
+    "text": "Yarın bize gel.",
+    "translation": "Come to our place tomorrow."
+   },
+   {
+    "id": "tr_00061_gelmek_s2",
+    "text": "Otobüs geliyor.",
+    "translation": "The bus is coming."
+   }
+  ]
+ },
+ "bilmek": {
+  "id": "tr_00062_bilmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to know",
+  "corpusRank": 628,
+  "sentences": [
+   {
+    "id": "tr_00062_bilmek_s1",
+    "text": "Onu tanımıyorum, bilmiyorum.",
+    "translation": "I don't know him."
+   },
+   {
+    "id": "tr_00062_bilmek_s2",
+    "text": "Türkçe biliyor musun?",
+    "translation": "Do you know Turkish?"
+   }
+  ]
+ },
+ "istemek": {
+  "id": "tr_00063_istemek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to want",
+  "corpusRank": 5359,
+  "sentences": [
+   {
+    "id": "tr_00063_istemek_s1",
+    "text": "Bir kahve istiyorum.",
+    "translation": "I want a coffee."
+   },
+   {
+    "id": "tr_00063_istemek_s2",
+    "text": "Ne istiyorsun?",
+    "translation": "What do you want?"
+   }
+  ]
+ },
+ "görmek": {
+  "id": "tr_00064_gormek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to see",
+  "corpusRank": 268,
+  "sentences": [
+   {
+    "id": "tr_00064_gormek_s1",
+    "text": "Seni görmek güzeldi.",
+    "translation": "It was good to see you."
+   },
+   {
+    "id": "tr_00064_gormek_s2",
+    "text": "Onu dün gördüm.",
+    "translation": "I saw him yesterday."
+   }
+  ]
+ },
+ "vermek": {
+  "id": "tr_00065_vermek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to give",
+  "corpusRank": 641,
+  "sentences": [
+   {
+    "id": "tr_00065_vermek_s1",
+    "text": "Bana kitabı ver.",
+    "translation": "Give me the book."
+   },
+   {
+    "id": "tr_00065_vermek_s2",
+    "text": "Bir karar vermem gerek.",
+    "translation": "I need to make a decision."
+   }
+  ]
+ },
+ "almak": {
+  "id": "tr_00066_almak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to take; to buy; to receive",
+  "corpusRank": 434,
+  "sentences": [
+   {
+    "id": "tr_00066_almak_s1",
+    "text": "Bu ekmeği aldım.",
+    "translation": "I bought this bread."
+   },
+   {
+    "id": "tr_00066_almak_s2",
+    "text": "Mektubunu aldım.",
+    "translation": "I received your letter."
+   }
+  ]
+ },
+ "söylemek": {
+  "id": "tr_00067_soylemek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to say, to tell",
+  "corpusRank": 451,
+  "sentences": [
+   {
+    "id": "tr_00067_soylemek_s1",
+    "text": "Bana gerçeği söyle.",
+    "translation": "Tell me the truth."
+   },
+   {
+    "id": "tr_00067_soylemek_s2",
+    "text": "Ne söyledi?",
+    "translation": "What did he say?"
+   }
+  ]
+ },
+ "demek": {
+  "id": "tr_00068_demek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to say; to mean",
+  "corpusRank": 92,
+  "sentences": [
+   {
+    "id": "tr_00068_demek_s1",
+    "text": "Bu ne demek?",
+    "translation": "What does this mean?"
+   },
+   {
+    "id": "tr_00068_demek_s2",
+    "text": "\"Evet\" dedi.",
+    "translation": "He said \"yes.\""
+   }
+  ]
+ },
+ "bakmak": {
+  "id": "tr_00069_bakmak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to look; to look after",
+  "corpusRank": 1625,
+  "sentences": [
+   {
+    "id": "tr_00069_bakmak_s1",
+    "text": "Pencereden dışarı baktım.",
+    "translation": "I looked out the window."
+   },
+   {
+    "id": "tr_00069_bakmak_s2",
+    "text": "Çocuğa bakıyorum.",
+    "translation": "I'm looking after the child."
+   }
+  ]
+ },
+ "konuşmak": {
+  "id": "tr_00070_konusmak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to speak, to talk",
+  "corpusRank": 420,
+  "sentences": [
+   {
+    "id": "tr_00070_konusmak_s1",
+    "text": "Yavaş konuşur musun?",
+    "translation": "Could you speak slowly?"
+   },
+   {
+    "id": "tr_00070_konusmak_s2",
+    "text": "Onunla konuştum.",
+    "translation": "I talked with him."
+   }
+  ]
+ },
+ "anlamak": {
+  "id": "tr_00071_anlamak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to understand",
+  "corpusRank": 2882,
+  "sentences": [
+   {
+    "id": "tr_00071_anlamak_s1",
+    "text": "Anlamadım, tekrar eder misiniz?",
+    "translation": "I didn't understand, could you repeat?"
+   }
+  ]
+ },
+ "düşünmek": {
+  "id": "tr_00072_dusunmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to think",
+  "corpusRank": 2160,
+  "sentences": [
+   {
+    "id": "tr_00072_dusunmek_s1",
+    "text": "Ne düşünüyorsun?",
+    "translation": "What do you think?"
+   },
+   {
+    "id": "tr_00072_dusunmek_s2",
+    "text": "Seni düşünüyorum.",
+    "translation": "I'm thinking about you."
+   }
+  ]
+ },
+ "sevmek": {
+  "id": "tr_00073_sevmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to love, to like",
+  "corpusRank": 7590,
+  "sentences": [
+   {
+    "id": "tr_00073_sevmek_s1",
+    "text": "Türk kahvesini severim.",
+    "translation": "I like Turkish coffee."
+   },
+   {
+    "id": "tr_00073_sevmek_s2",
+    "text": "Seni seviyorum.",
+    "translation": "I love you."
+   }
+  ]
+ },
+ "yemek": {
+  "id": "tr_00074_yemek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to eat; food, meal",
+  "corpusRank": 294,
+  "sentences": [
+   {
+    "id": "tr_00074_yemek_s1",
+    "text": "Akşam ne yiyeceğiz?",
+    "translation": "What will we eat tonight?"
+   },
+   {
+    "id": "tr_00074_yemek_s2",
+    "text": "Yemek hazır.",
+    "translation": "The food is ready."
+   }
+  ]
+ },
+ "içmek": {
+  "id": "tr_00075_icmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to drink; to smoke",
+  "corpusRank": 2412,
+  "sentences": [
+   {
+    "id": "tr_00075_icmek_s1",
+    "text": "Her sabah çay içerim.",
+    "translation": "I drink tea every morning."
+   }
+  ]
+ },
+ "uyumak": {
+  "id": "tr_00076_uyumak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to sleep",
+  "corpusRank": 4914,
+  "sentences": [
+   {
+    "id": "tr_00076_uyumak_s1",
+    "text": "Dün gece iyi uyudum.",
+    "translation": "I slept well last night."
+   }
+  ]
+ },
+ "kalkmak": {
+  "id": "tr_00077_kalkmak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to get up; to depart",
+  "corpusRank": 14981,
+  "sentences": [
+   {
+    "id": "tr_00077_kalkmak_s1",
+    "text": "Sabah yedide kalkarım.",
+    "translation": "I get up at seven in the morning."
+   }
+  ]
+ },
+ "oturmak": {
+  "id": "tr_00078_oturmak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to sit; to live, reside",
+  "corpusRank": 4960,
+  "sentences": [
+   {
+    "id": "tr_00078_oturmak_s1",
+    "text": "İstanbul'da oturuyorum.",
+    "translation": "I live in Istanbul."
+   },
+   {
+    "id": "tr_00078_oturmak_s2",
+    "text": "Lütfen oturun.",
+    "translation": "Please sit down."
+   }
+  ]
+ },
+ "çalışmak": {
+  "id": "tr_00079_calismak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to work; to study",
+  "corpusRank": 1400,
+  "sentences": [
+   {
+    "id": "tr_00079_calismak_s1",
+    "text": "Bir bankada çalışıyorum.",
+    "translation": "I work at a bank."
+   },
+   {
+    "id": "tr_00079_calismak_s2",
+    "text": "Sınava çalışıyorum.",
+    "translation": "I'm studying for the exam."
+   }
+  ]
+ },
+ "beklemek": {
+  "id": "tr_00080_beklemek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to wait; to expect",
+  "corpusRank": 2933,
+  "sentences": [
+   {
+    "id": "tr_00080_beklemek_s1",
+    "text": "Beni bekle.",
+    "translation": "Wait for me."
+   },
+   {
+    "id": "tr_00080_beklemek_s2",
+    "text": "Yarım saat bekledim.",
+    "translation": "I waited half an hour."
+   }
+  ]
+ },
+ "bulmak": {
+  "id": "tr_00081_bulmak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to find",
+  "corpusRank": 786,
+  "sentences": [
+   {
+    "id": "tr_00081_bulmak_s1",
+    "text": "Anahtarımı bulamıyorum.",
+    "translation": "I can't find my key."
+   }
+  ]
+ },
+ "kalmak": {
+  "id": "tr_00082_kalmak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to stay, to remain",
+  "corpusRank": 985,
+  "sentences": [
+   {
+    "id": "tr_00082_kalmak_s1",
+    "text": "Bir hafta İzmir'de kaldım.",
+    "translation": "I stayed in Izmir for a week."
+   }
+  ]
+ },
+ "çıkmak": {
+  "id": "tr_00083_cikmak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to go out; to come out",
+  "corpusRank": 1271,
+  "sentences": [
+   {
+    "id": "tr_00083_cikmak_s1",
+    "text": "Dışarı çıkalım mı?",
+    "translation": "Shall we go out?"
+   }
+  ]
+ },
+ "girmek": {
+  "id": "tr_00084_girmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to enter",
+  "corpusRank": 1740,
+  "sentences": [
+   {
+    "id": "tr_00084_girmek_s1",
+    "text": "İçeri girebilir miyim?",
+    "translation": "May I come in?"
+   }
+  ]
+ },
+ "başlamak": {
+  "id": "tr_00085_baslamak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to start, to begin",
+  "corpusRank": 2693,
+  "sentences": [
+   {
+    "id": "tr_00085_baslamak_s1",
+    "text": "Ders saat dokuzda başlıyor.",
+    "translation": "The class starts at nine."
+   }
+  ]
+ },
+ "bitmek": {
+  "id": "tr_00086_bitmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to end, to finish, to run out",
+  "corpusRank": 6276,
+  "sentences": [
+   {
+    "id": "tr_00086_bitmek_s1",
+    "text": "Film bitti.",
+    "translation": "The film ended."
+   },
+   {
+    "id": "tr_00086_bitmek_s2",
+    "text": "Şekerimiz bitti.",
+    "translation": "We've run out of sugar."
+   }
+  ]
+ },
+ "açmak": {
+  "id": "tr_00087_acmak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to open; to turn on",
+  "corpusRank": 3315,
+  "sentences": [
+   {
+    "id": "tr_00087_acmak_s1",
+    "text": "Pencereyi açar mısın?",
+    "translation": "Would you open the window?"
+   }
+  ]
+ },
+ "kapatmak": {
+  "id": "tr_00088_kapatmak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to close; to turn off",
+  "corpusRank": 6264,
+  "sentences": [
+   {
+    "id": "tr_00088_kapatmak_s1",
+    "text": "Kapıyı kapat lütfen.",
+    "translation": "Close the door, please."
+   }
+  ]
+ },
+ "okumak": {
+  "id": "tr_00089_okumak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to read; to study (a subject)",
+  "corpusRank": 4160,
+  "sentences": [
+   {
+    "id": "tr_00089_okumak_s1",
+    "text": "Her gece kitap okurum.",
+    "translation": "I read a book every night."
+   }
+  ]
+ },
+ "yazmak": {
+  "id": "tr_00090_yazmak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to write",
+  "corpusRank": 4680,
+  "sentences": [
+   {
+    "id": "tr_00090_yazmak_s1",
+    "text": "Bana bir mektup yaz.",
+    "translation": "Write me a letter."
+   }
+  ]
+ },
+ "dinlemek": {
+  "id": "tr_00091_dinlemek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to listen",
+  "corpusRank": 2587,
+  "sentences": [
+   {
+    "id": "tr_00091_dinlemek_s1",
+    "text": "Müzik dinlemeyi severim.",
+    "translation": "I like listening to music."
+   }
+  ]
+ },
+ "duymak": {
+  "id": "tr_00092_duymak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to hear",
+  "corpusRank": 1137,
+  "sentences": [
+   {
+    "id": "tr_00092_duymak_s1",
+    "text": "Seni duyamıyorum.",
+    "translation": "I can't hear you."
+   }
+  ]
+ },
+ "sormak": {
+  "id": "tr_00093_sormak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to ask",
+  "corpusRank": 1791,
+  "sentences": [
+   {
+    "id": "tr_00093_sormak_s1",
+    "text": "Bir soru sorabilir miyim?",
+    "translation": "May I ask a question?"
+   }
+  ]
+ },
+ "öğrenmek": {
+  "id": "tr_00094_ogrenmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to learn",
+  "corpusRank": 1028,
+  "sentences": [
+   {
+    "id": "tr_00094_ogrenmek_s1",
+    "text": "Türkçe öğreniyorum.",
+    "translation": "I'm learning Turkish."
+   }
+  ]
+ },
+ "öğretmek": {
+  "id": "tr_00095_ogretmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to teach",
+  "corpusRank": 12387,
+  "sentences": [
+   {
+    "id": "tr_00095_ogretmek_s1",
+    "text": "Bana Türkçe öğretir misin?",
+    "translation": "Will you teach me Turkish?"
+   }
+  ]
+ },
+ "sevinmek": {
+  "id": "tr_00096_sevinmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to be glad",
+  "corpusRank": null,
+  "sentences": [
+   {
+    "id": "tr_00096_sevinmek_s1",
+    "text": "Geldiğine çok sevindim.",
+    "translation": "I'm very glad you came."
+   }
+  ]
+ },
+ "unutmak": {
+  "id": "tr_00097_unutmak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to forget",
+  "corpusRank": 6925,
+  "sentences": [
+   {
+    "id": "tr_00097_unutmak_s1",
+    "text": "Adını unuttum.",
+    "translation": "I forgot your name."
+   }
+  ]
+ },
+ "hatırlamak": {
+  "id": "tr_00098_hatirlamak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to remember",
+  "corpusRank": 8193,
+  "sentences": [
+   {
+    "id": "tr_00098_hatirlamak_s1",
+    "text": "Seni hatırlıyorum.",
+    "translation": "I remember you."
+   }
+  ]
+ },
+ "göstermek": {
+  "id": "tr_00099_gostermek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to show",
+  "corpusRank": 1634,
+  "sentences": [
+   {
+    "id": "tr_00099_gostermek_s1",
+    "text": "Bana yolu gösterir misin?",
+    "translation": "Would you show me the way?"
+   }
+  ]
+ },
+ "getirmek": {
+  "id": "tr_00100_getirmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to bring",
+  "corpusRank": 2070,
+  "sentences": [
+   {
+    "id": "tr_00100_getirmek_s1",
+    "text": "Bir bardak su getirir misin?",
+    "translation": "Would you bring a glass of water?"
+   }
+  ]
+ },
+ "götürmek": {
+  "id": "tr_00101_goturmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to take (somewhere)",
+  "corpusRank": 3132,
+  "sentences": [
+   {
+    "id": "tr_00101_goturmek_s1",
+    "text": "Seni havalimanına götüreyim.",
+    "translation": "Let me take you to the airport."
+   }
+  ]
+ },
+ "koymak": {
+  "id": "tr_00102_koymak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to put",
+  "corpusRank": 3858,
+  "sentences": [
+   {
+    "id": "tr_00102_koymak_s1",
+    "text": "Kitabı masaya koydum.",
+    "translation": "I put the book on the table."
+   }
+  ]
+ },
+ "kullanmak": {
+  "id": "tr_00103_kullanmak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to use",
+  "corpusRank": 2275,
+  "sentences": [
+   {
+    "id": "tr_00103_kullanmak_s1",
+    "text": "Bu kelimeyi nasıl kullanırım?",
+    "translation": "How do I use this word?"
+   }
+  ]
+ },
+ "yaşamak": {
+  "id": "tr_00104_yasamak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to live",
+  "corpusRank": 1156,
+  "sentences": [
+   {
+    "id": "tr_00104_yasamak_s1",
+    "text": "Ankara'da yaşıyorum.",
+    "translation": "I live in Ankara."
+   }
+  ]
+ },
+ "ölmek": {
+  "id": "tr_00105_olmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to die",
+  "corpusRank": 1569,
+  "sentences": [
+   {
+    "id": "tr_00105_olmek_s1",
+    "text": "Kedisi geçen yıl öldü.",
+    "translation": "His cat died last year."
+   }
+  ]
+ },
+ "satmak": {
+  "id": "tr_00106_satmak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to sell",
+  "corpusRank": 4341,
+  "sentences": [
+   {
+    "id": "tr_00106_satmak_s1",
+    "text": "Arabasını sattı.",
+    "translation": "He sold his car."
+   }
+  ]
+ },
+ "ödemek": {
+  "id": "tr_00107_odemek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to pay",
+  "corpusRank": 4326,
+  "sentences": [
+   {
+    "id": "tr_00107_odemek_s1",
+    "text": "Hesabı ödeyeceğim.",
+    "translation": "I'll pay the bill."
+   }
+  ]
+ },
+ "yürümek": {
+  "id": "tr_00108_yurumek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to walk",
+  "corpusRank": 6511,
+  "sentences": [
+   {
+    "id": "tr_00108_yurumek_s1",
+    "text": "Eve kadar yürüdüm.",
+    "translation": "I walked all the way home."
+   }
+  ]
+ },
+ "koşmak": {
+  "id": "tr_00109_kosmak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to run",
+  "corpusRank": 11561,
+  "sentences": [
+   {
+    "id": "tr_00109_kosmak_s1",
+    "text": "Her sabah parkta koşarım.",
+    "translation": "I run in the park every morning."
+   }
+  ]
+ },
+ "sürmek": {
+  "id": "tr_00110_surmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to drive; to last",
+  "corpusRank": 7467,
+  "sentences": [
+   {
+    "id": "tr_00110_surmek_s1",
+    "text": "Yolculuk üç saat sürdü.",
+    "translation": "The journey lasted three hours."
+   }
+  ]
+ },
+ "binmek": {
+  "id": "tr_00111_binmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to get on, to ride",
+  "corpusRank": 8322,
+  "sentences": [
+   {
+    "id": "tr_00111_binmek_s1",
+    "text": "Otobüse bindim.",
+    "translation": "I got on the bus."
+   }
+  ]
+ },
+ "inmek": {
+  "id": "tr_00112_inmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to get off; to go down",
+  "corpusRank": 11421,
+  "sentences": [
+   {
+    "id": "tr_00112_inmek_s1",
+    "text": "Burada iniyorum.",
+    "translation": "I'm getting off here."
+   }
+  ]
+ },
+ "durmak": {
+  "id": "tr_00113_durmak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to stop; to stand",
+  "corpusRank": 4919,
+  "sentences": [
+   {
+    "id": "tr_00113_durmak_s1",
+    "text": "Araba durdu.",
+    "translation": "The car stopped."
+   }
+  ]
+ },
+ "denemek": {
+  "id": "tr_00114_denemek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to try",
+  "corpusRank": 2932,
+  "sentences": [
+   {
+    "id": "tr_00114_denemek_s1",
+    "text": "Bir kez daha deneyelim.",
+    "translation": "Let's try one more time."
+   }
+  ]
+ },
+ "yardım etmek": {
+  "id": "tr_00115_yardim_etmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to help",
+  "corpusRank": 91,
+  "sentences": [
+   {
+    "id": "tr_00115_yardim_etmek_s1",
+    "text": "Bana yardım eder misin?",
+    "translation": "Will you help me?"
+   }
+  ]
+ },
+ "inanmak": {
+  "id": "tr_00116_inanmak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to believe",
+  "corpusRank": 3435,
+  "sentences": [
+   {
+    "id": "tr_00116_inanmak_s1",
+    "text": "Sana inanıyorum.",
+    "translation": "I believe you."
+   }
+  ]
+ },
+ "tanımak": {
+  "id": "tr_00117_tanimak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to know (a person)",
+  "corpusRank": 5378,
+  "sentences": [
+   {
+    "id": "tr_00117_tanimak_s1",
+    "text": "Onu iyi tanıyorum.",
+    "translation": "I know him well."
+   }
+  ]
+ },
+ "kazanmak": {
+  "id": "tr_00118_kazanmak",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to win; to earn",
+  "corpusRank": 1924,
+  "sentences": [
+   {
+    "id": "tr_00118_kazanmak_s1",
+    "text": "Maçı kazandık.",
+    "translation": "We won the match."
+   }
+  ]
+ },
+ "kaybetmek": {
+  "id": "tr_00119_kaybetmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to lose",
+  "corpusRank": 3412,
+  "sentences": [
+   {
+    "id": "tr_00119_kaybetmek_s1",
+    "text": "Cüzdanımı kaybettim.",
+    "translation": "I lost my wallet."
+   }
+  ]
+ },
+ "seçmek": {
+  "id": "tr_00120_secmek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to choose",
+  "corpusRank": 8971,
+  "sentences": [
+   {
+    "id": "tr_00120_secmek_s1",
+    "text": "Birini seçmelisin.",
+    "translation": "You have to choose one."
+   }
+  ]
+ },
+ "sevmemek": {
+  "id": "tr_00121_sevmemek",
+  "pos": "v",
+  "posName": "verb",
+  "gloss": "to dislike",
+  "corpusRank": null,
+  "sentences": [
+   {
+    "id": "tr_00121_sevmemek_s1",
+    "text": "Soğuk havayı sevmem.",
+    "translation": "I don't like cold weather."
+   }
+  ]
+ },
+ "insan": {
+  "id": "tr_00122_insan",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "human being, person",
+  "corpusRank": 320,
+  "sentences": [
+   {
+    "id": "tr_00122_insan_s1",
+    "text": "İnsanlar çok değişti.",
+    "translation": "People have changed a lot."
+   }
+  ]
+ },
+ "kişi": {
+  "id": "tr_00123_kisi",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "person (counted)",
+  "corpusRank": 267,
+  "sentences": [
+   {
+    "id": "tr_00123_kisi_s1",
+    "text": "Üç kişiyiz.",
+    "translation": "There are three of us."
+   }
+  ]
+ },
+ "adam": {
+  "id": "tr_00124_adam",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "man",
+  "corpusRank": 87,
+  "sentences": [
+   {
+    "id": "tr_00124_adam_s1",
+    "text": "O adam kim?",
+    "translation": "Who is that man?"
+   }
+  ]
+ },
+ "kadın": {
+  "id": "tr_00125_kadin",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "woman",
+  "corpusRank": 256,
+  "sentences": [
+   {
+    "id": "tr_00125_kadin_s1",
+    "text": "Kadın çok nazikti.",
+    "translation": "The woman was very kind."
+   }
+  ]
+ },
+ "çocuk": {
+  "id": "tr_00126_cocuk",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "child",
+  "corpusRank": 219,
+  "sentences": [
+   {
+    "id": "tr_00126_cocuk_s1",
+    "text": "Çocuklar bahçede oynuyor.",
+    "translation": "The children are playing in the garden."
+   }
+  ]
+ },
+ "kız": {
+  "id": "tr_00127_kiz",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "girl; daughter",
+  "corpusRank": 143,
+  "sentences": [
+   {
+    "id": "tr_00127_kiz_s1",
+    "text": "Kızım sekiz yaşında.",
+    "translation": "My daughter is eight years old."
+   }
+  ]
+ },
+ "oğlan": {
+  "id": "tr_00128_oglan",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "boy",
+  "corpusRank": 2950,
+  "sentences": [
+   {
+    "id": "tr_00128_oglan_s1",
+    "text": "Oğlan topu attı.",
+    "translation": "The boy threw the ball."
+   }
+  ]
+ },
+ "arkadaş": {
+  "id": "tr_00129_arkadas",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "friend",
+  "corpusRank": 712,
+  "sentences": [
+   {
+    "id": "tr_00129_arkadas_s1",
+    "text": "En iyi arkadaşımla buluştum.",
+    "translation": "I met my best friend."
+   }
+  ]
+ },
+ "aile": {
+  "id": "tr_00130_aile",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "family",
+  "corpusRank": 673,
+  "sentences": [
+   {
+    "id": "tr_00130_aile_s1",
+    "text": "Ailem İzmir'de yaşıyor.",
+    "translation": "My family lives in Izmir."
+   }
+  ]
+ },
+ "anne": {
+  "id": "tr_00131_anne",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "mother",
+  "corpusRank": 154,
+  "sentences": [
+   {
+    "id": "tr_00131_anne_s1",
+    "text": "Annem çok iyi yemek yapar.",
+    "translation": "My mother cooks very well."
+   }
+  ]
+ },
+ "baba": {
+  "id": "tr_00132_baba",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "father",
+  "corpusRank": 166,
+  "sentences": [
+   {
+    "id": "tr_00132_baba_s1",
+    "text": "Babam öğretmen.",
+    "translation": "My father is a teacher."
+   }
+  ]
+ },
+ "kardeş": {
+  "id": "tr_00133_kardes",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "sibling; younger brother or sister",
+  "corpusRank": 1659,
+  "sentences": [
+   {
+    "id": "tr_00133_kardes_s1",
+    "text": "İki kardeşim var.",
+    "translation": "I have two siblings."
+   }
+  ]
+ },
+ "abla": {
+  "id": "tr_00134_abla",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "older sister",
+  "corpusRank": 4353,
+  "sentences": [
+   {
+    "id": "tr_00134_abla_s1",
+    "text": "Ablam doktor.",
+    "translation": "My older sister is a doctor."
+   }
+  ]
+ },
+ "ağabey": {
+  "id": "tr_00135_agabey",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "older brother",
+  "corpusRank": 6115,
+  "sentences": [
+   {
+    "id": "tr_00135_agabey_s1",
+    "text": "Ağabeyim Almanya'da çalışıyor.",
+    "translation": "My older brother works in Germany."
+   }
+  ]
+ },
+ "oğul": {
+  "id": "tr_00136_ogul",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "son",
+  "corpusRank": 6855,
+  "sentences": [
+   {
+    "id": "tr_00136_ogul_s1",
+    "text": "Oğlu üniversiteye gidiyor.",
+    "translation": "His son goes to university."
+   }
+  ]
+ },
+ "eş": {
+  "id": "tr_00137_es",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "spouse, partner",
+  "corpusRank": 3037,
+  "sentences": [
+   {
+    "id": "tr_00137_es_s1",
+    "text": "Eşim yarın geliyor.",
+    "translation": "My spouse is coming tomorrow."
+   }
+  ]
+ },
+ "komşu": {
+  "id": "tr_00138_komsu",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "neighbour",
+  "corpusRank": 6185,
+  "sentences": [
+   {
+    "id": "tr_00138_komsu_s1",
+    "text": "Komşumuz çok gürültücü.",
+    "translation": "Our neighbour is very noisy."
+   }
+  ]
+ },
+ "öğretmen": {
+  "id": "tr_00139_ogretmen",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "teacher",
+  "corpusRank": 2991,
+  "sentences": [
+   {
+    "id": "tr_00139_ogretmen_s1",
+    "text": "Öğretmenimiz çok sabırlı.",
+    "translation": "Our teacher is very patient."
+   }
+  ]
+ },
+ "öğrenci": {
+  "id": "tr_00140_ogrenci",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "student",
+  "corpusRank": 2416,
+  "sentences": [
+   {
+    "id": "tr_00140_ogrenci_s1",
+    "text": "Ben bir öğrenciyim.",
+    "translation": "I am a student."
+   }
+  ]
+ },
+ "doktor": {
+  "id": "tr_00141_doktor",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "doctor",
+  "corpusRank": 290,
+  "sentences": [
+   {
+    "id": "tr_00141_doktor_s1",
+    "text": "Doktora gitmem gerek.",
+    "translation": "I need to go to the doctor."
+   }
+  ]
+ },
+ "ev": {
+  "id": "tr_00142_ev",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "house, home",
+  "corpusRank": 464,
+  "sentences": [
+   {
+    "id": "tr_00142_ev_s1",
+    "text": "Evde kimse yok.",
+    "translation": "There's nobody at home."
+   }
+  ]
+ },
+ "oda": {
+  "id": "tr_00143_oda",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "room",
+  "corpusRank": 923,
+  "sentences": [
+   {
+    "id": "tr_00143_oda_s1",
+    "text": "Odam çok küçük.",
+    "translation": "My room is very small."
+   }
+  ]
+ },
+ "kapı": {
+  "id": "tr_00144_kapi",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "door",
+  "corpusRank": 994,
+  "sentences": [
+   {
+    "id": "tr_00144_kapi_s1",
+    "text": "Kapı açık.",
+    "translation": "The door is open."
+   }
+  ]
+ },
+ "pencere": {
+  "id": "tr_00145_pencere",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "window",
+  "corpusRank": 5568,
+  "sentences": [
+   {
+    "id": "tr_00145_pencere_s1",
+    "text": "Pencereyi kapatır mısın?",
+    "translation": "Would you close the window?"
+   }
+  ]
+ },
+ "masa": {
+  "id": "tr_00146_masa",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "table",
+  "corpusRank": 2988,
+  "sentences": [
+   {
+    "id": "tr_00146_masa_s1",
+    "text": "Masada bir bardak var.",
+    "translation": "There is a glass on the table."
+   }
+  ]
+ },
+ "sandalye": {
+  "id": "tr_00147_sandalye",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "chair",
+  "corpusRank": 5036,
+  "sentences": [
+   {
+    "id": "tr_00147_sandalye_s1",
+    "text": "Bu sandalye rahat.",
+    "translation": "This chair is comfortable."
+   }
+  ]
+ },
+ "yatak": {
+  "id": "tr_00148_yatak",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "bed",
+  "corpusRank": 1434,
+  "sentences": [
+   {
+    "id": "tr_00148_yatak_s1",
+    "text": "Yatak çok yumuşak.",
+    "translation": "The bed is very soft."
+   }
+  ]
+ },
+ "mutfak": {
+  "id": "tr_00149_mutfak",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "kitchen",
+  "corpusRank": 4743,
+  "sentences": [
+   {
+    "id": "tr_00149_mutfak_s1",
+    "text": "Annem mutfakta.",
+    "translation": "My mother is in the kitchen."
+   }
+  ]
+ },
+ "araba": {
+  "id": "tr_00150_araba",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "car",
+  "corpusRank": 499,
+  "sentences": [
+   {
+    "id": "tr_00150_araba_s1",
+    "text": "Arabam bozuldu.",
+    "translation": "My car broke down."
+   }
+  ]
+ },
+ "yol": {
+  "id": "tr_00151_yol",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "road, way",
+  "corpusRank": 417,
+  "sentences": [
+   {
+    "id": "tr_00151_yol_s1",
+    "text": "Bu yol nereye gidiyor?",
+    "translation": "Where does this road go?"
+   }
+  ]
+ },
+ "şehir": {
+  "id": "tr_00152_sehir",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "city",
+  "corpusRank": 988,
+  "sentences": [
+   {
+    "id": "tr_00152_sehir_s1",
+    "text": "İstanbul büyük bir şehir.",
+    "translation": "Istanbul is a big city."
+   }
+  ]
+ },
+ "ülke": {
+  "id": "tr_00153_ulke",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "country",
+  "corpusRank": 2172,
+  "sentences": [
+   {
+    "id": "tr_00153_ulke_s1",
+    "text": "Hangi ülkeden geliyorsun?",
+    "translation": "Which country are you from?"
+   }
+  ]
+ },
+ "dünya": {
+  "id": "tr_00154_dunya",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "world",
+  "corpusRank": 375,
+  "sentences": [
+   {
+    "id": "tr_00154_dunya_s1",
+    "text": "Dünya çok büyük.",
+    "translation": "The world is very big."
+   }
+  ]
+ },
+ "yer": {
+  "id": "tr_00155_yer",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "place; ground",
+  "corpusRank": 220,
+  "sentences": [
+   {
+    "id": "tr_00155_yer_s1",
+    "text": "Güzel bir yer biliyorum.",
+    "translation": "I know a nice place."
+   }
+  ]
+ },
+ "sokak": {
+  "id": "tr_00156_sokak",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "street",
+  "corpusRank": 2303,
+  "sentences": [
+   {
+    "id": "tr_00156_sokak_s1",
+    "text": "Sokakta oynuyorlar.",
+    "translation": "They are playing in the street."
+   }
+  ]
+ },
+ "dükkân": {
+  "id": "tr_00157_dukkan",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "shop",
+  "corpusRank": 19116,
+  "sentences": [
+   {
+    "id": "tr_00157_dukkan_s1",
+    "text": "Dükkân saat sekizde açılıyor.",
+    "translation": "The shop opens at eight."
+   }
+  ]
+ },
+ "pazar": {
+  "id": "tr_00158_pazar",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "market; Sunday",
+  "corpusRank": 1830,
+  "sentences": [
+   {
+    "id": "tr_00158_pazar_s1",
+    "text": "Pazardan sebze aldım.",
+    "translation": "I bought vegetables from the market."
+   }
+  ]
+ },
+ "okul": {
+  "id": "tr_00159_okul",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "school",
+  "corpusRank": 987,
+  "sentences": [
+   {
+    "id": "tr_00159_okul_s1",
+    "text": "Okul evime yakın.",
+    "translation": "The school is near my house."
+   }
+  ]
+ },
+ "hastane": {
+  "id": "tr_00160_hastane",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "hospital",
+  "corpusRank": 2887,
+  "sentences": [
+   {
+    "id": "tr_00160_hastane_s1",
+    "text": "Hastane şehir merkezinde.",
+    "translation": "The hospital is in the city centre."
+   }
+  ]
+ },
+ "iş": {
+  "id": "tr_00161_is",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "work, job",
+  "corpusRank": 151,
+  "sentences": [
+   {
+    "id": "tr_00161_is_s1",
+    "text": "İşim çok yoğun.",
+    "translation": "My work is very busy."
+   }
+  ]
+ },
+ "para": {
+  "id": "tr_00162_para",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "money",
+  "corpusRank": 194,
+  "sentences": [
+   {
+    "id": "tr_00162_para_s1",
+    "text": "Yeterli param yok.",
+    "translation": "I don't have enough money."
+   }
+  ]
+ },
+ "kitap": {
+  "id": "tr_00163_kitap",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "book",
+  "corpusRank": 1079,
+  "sentences": [
+   {
+    "id": "tr_00163_kitap_s1",
+    "text": "Bu kitabı okudun mu?",
+    "translation": "Have you read this book?"
+   }
+  ]
+ },
+ "kalem": {
+  "id": "tr_00164_kalem",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "pen, pencil",
+  "corpusRank": 4558,
+  "sentences": [
+   {
+    "id": "tr_00164_kalem_s1",
+    "text": "Kalemini ödünç alabilir miyim?",
+    "translation": "May I borrow your pen?"
+   }
+  ]
+ },
+ "kâğıt": {
+  "id": "tr_00165_kagit",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "paper",
+  "corpusRank": 8185,
+  "sentences": [
+   {
+    "id": "tr_00165_kagit_s1",
+    "text": "Bir kâğıt ve kalem lazım.",
+    "translation": "I need paper and a pen."
+   }
+  ]
+ },
+ "telefon": {
+  "id": "tr_00166_telefon",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "telephone",
+  "corpusRank": 572,
+  "sentences": [
+   {
+    "id": "tr_00166_telefon_s1",
+    "text": "Telefonum şarjda.",
+    "translation": "My phone is charging."
+   }
+  ]
+ },
+ "dil": {
+  "id": "tr_00167_dil",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "language; tongue",
+  "corpusRank": 4239,
+  "sentences": [
+   {
+    "id": "tr_00167_dil_s1",
+    "text": "Kaç dil biliyorsun?",
+    "translation": "How many languages do you know?"
+   }
+  ]
+ },
+ "kelime": {
+  "id": "tr_00168_kelime",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "word",
+  "corpusRank": 1080,
+  "sentences": [
+   {
+    "id": "tr_00168_kelime_s1",
+    "text": "Bu kelimeyi bilmiyorum.",
+    "translation": "I don't know this word."
+   }
+  ]
+ },
+ "söz": {
+  "id": "tr_00169_soz",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "word; promise",
+  "corpusRank": 257,
+  "sentences": [
+   {
+    "id": "tr_00169_soz_s1",
+    "text": "Sana söz veriyorum.",
+    "translation": "I promise you."
+   }
+  ]
+ },
+ "ad": {
+  "id": "tr_00170_ad",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "name",
+  "corpusRank": 9844,
+  "sentences": [
+   {
+    "id": "tr_00170_ad_s1",
+    "text": "Adın ne?",
+    "translation": "What's your name?"
+   }
+  ]
+ },
+ "soru": {
+  "id": "tr_00171_soru",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "question",
+  "corpusRank": 549,
+  "sentences": [
+   {
+    "id": "tr_00171_soru_s1",
+    "text": "Bir sorum var.",
+    "translation": "I have a question."
+   }
+  ]
+ },
+ "cevap": {
+  "id": "tr_00172_cevap",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "answer",
+  "corpusRank": 430,
+  "sentences": [
+   {
+    "id": "tr_00172_cevap_s1",
+    "text": "Cevabı biliyorum.",
+    "translation": "I know the answer."
+   }
+  ]
+ },
+ "sorun": {
+  "id": "tr_00173_sorun",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "problem",
+  "corpusRank": 116,
+  "sentences": [
+   {
+    "id": "tr_00173_sorun_s1",
+    "text": "Bir sorun mu var?",
+    "translation": "Is there a problem?"
+   }
+  ]
+ },
+ "su": {
+  "id": "tr_00174_su",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "water",
+  "corpusRank": 370,
+  "sentences": [
+   {
+    "id": "tr_00174_su_s1",
+    "text": "Bir bardak su alabilir miyim?",
+    "translation": "May I have a glass of water?"
+   }
+  ]
+ },
+ "ekmek": {
+  "id": "tr_00175_ekmek",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "bread",
+  "corpusRank": 2620,
+  "sentences": [
+   {
+    "id": "tr_00175_ekmek_s1",
+    "text": "Fırından ekmek aldım.",
+    "translation": "I bought bread from the bakery."
+   }
+  ]
+ },
+ "çay": {
+  "id": "tr_00176_cay",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "tea",
+  "corpusRank": 1352,
+  "sentences": [
+   {
+    "id": "tr_00176_cay_s1",
+    "text": "Çayı şekerli mi içersin?",
+    "translation": "Do you take your tea with sugar?"
+   }
+  ]
+ },
+ "kahve": {
+  "id": "tr_00177_kahve",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "coffee",
+  "corpusRank": 726,
+  "sentences": [
+   {
+    "id": "tr_00177_kahve_s1",
+    "text": "Sabahları kahve içerim.",
+    "translation": "I drink coffee in the mornings."
+   }
+  ]
+ },
+ "süt": {
+  "id": "tr_00178_sut",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "milk",
+  "corpusRank": 2437,
+  "sentences": [
+   {
+    "id": "tr_00178_sut_s1",
+    "text": "Buzdolabında süt var.",
+    "translation": "There is milk in the fridge."
+   }
+  ]
+ },
+ "et": {
+  "id": "tr_00179_et",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "meat",
+  "corpusRank": 120,
+  "sentences": [
+   {
+    "id": "tr_00179_et_s1",
+    "text": "Et yemiyorum.",
+    "translation": "I don't eat meat."
+   }
+  ]
+ },
+ "balık": {
+  "id": "tr_00180_balik",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "fish",
+  "corpusRank": 1235,
+  "sentences": [
+   {
+    "id": "tr_00180_balik_s1",
+    "text": "Akşam balık yedik.",
+    "translation": "We ate fish in the evening."
+   }
+  ]
+ },
+ "peynir": {
+  "id": "tr_00181_peynir",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "cheese",
+  "corpusRank": 3718,
+  "sentences": [
+   {
+    "id": "tr_00181_peynir_s1",
+    "text": "Kahvaltıda peynir severim.",
+    "translation": "I like cheese at breakfast."
+   }
+  ]
+ },
+ "yumurta": {
+  "id": "tr_00182_yumurta",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "egg",
+  "corpusRank": 2535,
+  "sentences": [
+   {
+    "id": "tr_00182_yumurta_s1",
+    "text": "İki yumurta pişirdim.",
+    "translation": "I cooked two eggs."
+   }
+  ]
+ },
+ "meyve": {
+  "id": "tr_00183_meyve",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "fruit",
+  "corpusRank": 3133,
+  "sentences": [
+   {
+    "id": "tr_00183_meyve_s1",
+    "text": "Her gün meyve yerim.",
+    "translation": "I eat fruit every day."
+   }
+  ]
+ },
+ "sebze": {
+  "id": "tr_00184_sebze",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "vegetable",
+  "corpusRank": 8500,
+  "sentences": [
+   {
+    "id": "tr_00184_sebze_s1",
+    "text": "Sebzeleri yıkadım.",
+    "translation": "I washed the vegetables."
+   }
+  ]
+ },
+ "elma": {
+  "id": "tr_00185_elma",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "apple",
+  "corpusRank": 4488,
+  "sentences": [
+   {
+    "id": "tr_00185_elma_s1",
+    "text": "Bu elma çok tatlı.",
+    "translation": "This apple is very sweet."
+   }
+  ]
+ },
+ "şeker": {
+  "id": "tr_00186_seker",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "sugar; candy",
+  "corpusRank": 1435,
+  "sentences": [
+   {
+    "id": "tr_00186_seker_s1",
+    "text": "Çayıma şeker koymam.",
+    "translation": "I don't put sugar in my tea."
+   }
+  ]
+ },
+ "tuz": {
+  "id": "tr_00187_tuz",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "salt",
+  "corpusRank": 6456,
+  "sentences": [
+   {
+    "id": "tr_00187_tuz_s1",
+    "text": "Yemek tuzsuz olmuş.",
+    "translation": "The food turned out unsalted."
+   }
+  ]
+ },
+ "kahvaltı": {
+  "id": "tr_00189_kahvalti",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "breakfast",
+  "corpusRank": 2188,
+  "sentences": [
+   {
+    "id": "tr_00189_kahvalti_s1",
+    "text": "Kahvaltı yaptın mı?",
+    "translation": "Did you have breakfast?"
+   }
+  ]
+ },
+ "zaman": {
+  "id": "tr_00190_zaman",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "time",
+  "corpusRank": 37,
+  "sentences": [
+   {
+    "id": "tr_00190_zaman_s1",
+    "text": "Zamanım yok.",
+    "translation": "I don't have time."
+   }
+  ]
+ },
+ "gün": {
+  "id": "tr_00191_gun",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "day",
+  "corpusRank": 102,
+  "sentences": [
+   {
+    "id": "tr_00191_gun_s1",
+    "text": "Güzel bir gündü.",
+    "translation": "It was a nice day."
+   }
+  ]
+ },
+ "gece": {
+  "id": "tr_00192_gece",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "night",
+  "corpusRank": 114,
+  "sentences": [
+   {
+    "id": "tr_00192_gece_s1",
+    "text": "Gece geç yattım.",
+    "translation": "I went to bed late at night."
+   }
+  ]
+ },
+ "sabah": {
+  "id": "tr_00193_sabah",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "morning",
+  "corpusRank": 348,
+  "sentences": [
+   {
+    "id": "tr_00193_sabah_s1",
+    "text": "Sabah erken kalktım.",
+    "translation": "I got up early in the morning."
+   }
+  ]
+ },
+ "öğle": {
+  "id": "tr_00194_ogle",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "noon",
+  "corpusRank": 1590,
+  "sentences": [
+   {
+    "id": "tr_00194_ogle_s1",
+    "text": "Öğlen buluşalım.",
+    "translation": "Let's meet at noon."
+   }
+  ]
+ },
+ "akşam": {
+  "id": "tr_00195_aksam",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "evening",
+  "corpusRank": 339,
+  "sentences": [
+   {
+    "id": "tr_00195_aksam_s1",
+    "text": "Akşam sinemaya gidiyoruz.",
+    "translation": "We're going to the cinema in the evening."
+   }
+  ]
+ },
+ "hafta": {
+  "id": "tr_00196_hafta",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "week",
+  "corpusRank": 295,
+  "sentences": [
+   {
+    "id": "tr_00196_hafta_s1",
+    "text": "Gelecek hafta tatildeyim.",
+    "translation": "I'm on holiday next week."
+   }
+  ]
+ },
+ "ay": {
+  "id": "tr_00197_ay",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "month; moon",
+  "corpusRank": 359,
+  "sentences": [
+   {
+    "id": "tr_00197_ay_s1",
+    "text": "Bu ay çok çalıştım.",
+    "translation": "I worked a lot this month."
+   }
+  ]
+ },
+ "yıl": {
+  "id": "tr_00198_yil",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "year",
+  "corpusRank": 217,
+  "sentences": [
+   {
+    "id": "tr_00198_yil_s1",
+    "text": "Üç yıldır burada yaşıyorum.",
+    "translation": "I've been living here for three years."
+   }
+  ]
+ },
+ "saat": {
+  "id": "tr_00199_saat",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "hour; clock, watch",
+  "corpusRank": 214,
+  "sentences": [
+   {
+    "id": "tr_00199_saat_s1",
+    "text": "Saat kaç?",
+    "translation": "What time is it?"
+   }
+  ]
+ },
+ "dakika": {
+  "id": "tr_00200_dakika",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "minute",
+  "corpusRank": 208,
+  "sentences": [
+   {
+    "id": "tr_00200_dakika_s1",
+    "text": "Beş dakika bekle.",
+    "translation": "Wait five minutes."
+   }
+  ]
+ },
+ "bugün": {
+  "id": "tr_00201_bugun",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "today",
+  "corpusRank": 185,
+  "sentences": [
+   {
+    "id": "tr_00201_bugun_s1",
+    "text": "Bugün hava çok güzel.",
+    "translation": "The weather is very nice today."
+   }
+  ]
+ },
+ "yarın": {
+  "id": "tr_00202_yarin",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "tomorrow",
+  "corpusRank": 278,
+  "sentences": [
+   {
+    "id": "tr_00202_yarin_s1",
+    "text": "Yarın görüşürüz.",
+    "translation": "See you tomorrow."
+   }
+  ]
+ },
+ "dün": {
+  "id": "tr_00203_dun",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "yesterday",
+  "corpusRank": 329,
+  "sentences": [
+   {
+    "id": "tr_00203_dun_s1",
+    "text": "Dün seni aradım.",
+    "translation": "I called you yesterday."
+   }
+  ]
+ },
+ "iyi": {
+  "id": "tr_00204_iyi",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "good, well",
+  "corpusRank": 27,
+  "sentences": [
+   {
+    "id": "tr_00204_iyi_s1",
+    "text": "Kendimi iyi hissediyorum.",
+    "translation": "I feel good."
+   }
+  ]
+ },
+ "kötü": {
+  "id": "tr_00205_kotu",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "bad",
+  "corpusRank": 112,
+  "sentences": [
+   {
+    "id": "tr_00205_kotu_s1",
+    "text": "Hava çok kötü.",
+    "translation": "The weather is very bad."
+   }
+  ]
+ },
+ "büyük": {
+  "id": "tr_00206_buyuk",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "big, large",
+  "corpusRank": 79,
+  "sentences": [
+   {
+    "id": "tr_00206_buyuk_s1",
+    "text": "Büyük bir hata yaptım.",
+    "translation": "I made a big mistake."
+   }
+  ]
+ },
+ "küçük": {
+  "id": "tr_00207_kucuk",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "small",
+  "corpusRank": 132,
+  "sentences": [
+   {
+    "id": "tr_00207_kucuk_s1",
+    "text": "Küçük bir köyde büyüdüm.",
+    "translation": "I grew up in a small village."
+   }
+  ]
+ },
+ "yeni": {
+  "id": "tr_00208_yeni",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "new",
+  "corpusRank": 101,
+  "sentences": [
+   {
+    "id": "tr_00208_yeni_s1",
+    "text": "Yeni bir telefon aldım.",
+    "translation": "I bought a new phone."
+   }
+  ]
+ },
+ "eski": {
+  "id": "tr_00209_eski",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "old (of things)",
+  "corpusRank": 249,
+  "sentences": [
+   {
+    "id": "tr_00209_eski_s1",
+    "text": "Bu ev çok eski.",
+    "translation": "This house is very old."
+   }
+  ]
+ },
+ "genç": {
+  "id": "tr_00210_genc",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "young",
+  "corpusRank": 436,
+  "sentences": [
+   {
+    "id": "tr_00210_genc_s1",
+    "text": "Çok genç görünüyorsun.",
+    "translation": "You look very young."
+   }
+  ]
+ },
+ "yaşlı": {
+  "id": "tr_00211_yasli",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "old (of people)",
+  "corpusRank": 619,
+  "sentences": [
+   {
+    "id": "tr_00211_yasli_s1",
+    "text": "Yaşlı adam bankta oturuyordu.",
+    "translation": "The old man was sitting on the bench."
+   }
+  ]
+ },
+ "uzun": {
+  "id": "tr_00212_uzun",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "long, tall",
+  "corpusRank": 190,
+  "sentences": [
+   {
+    "id": "tr_00212_uzun_s1",
+    "text": "Uzun bir yolculuktu.",
+    "translation": "It was a long journey."
+   }
+  ]
+ },
+ "kısa": {
+  "id": "tr_00213_kisa",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "short",
+  "corpusRank": 559,
+  "sentences": [
+   {
+    "id": "tr_00213_kisa_s1",
+    "text": "Saçını kısa kestirdi.",
+    "translation": "She had her hair cut short."
+   }
+  ]
+ },
+ "güzel": {
+  "id": "tr_00214_guzel",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "beautiful, nice",
+  "corpusRank": 54,
+  "sentences": [
+   {
+    "id": "tr_00214_guzel_s1",
+    "text": "Ne güzel bir manzara!",
+    "translation": "What a beautiful view!"
+   }
+  ]
+ },
+ "çirkin": {
+  "id": "tr_00215_cirkin",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "ugly",
+  "corpusRank": 1999,
+  "sentences": [
+   {
+    "id": "tr_00215_cirkin_s1",
+    "text": "Bina çok çirkin.",
+    "translation": "The building is very ugly."
+   }
+  ]
+ },
+ "kolay": {
+  "id": "tr_00216_kolay",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "easy",
+  "corpusRank": 406,
+  "sentences": [
+   {
+    "id": "tr_00216_kolay_s1",
+    "text": "Türkçe zor değil, kolay.",
+    "translation": "Turkish isn't hard, it's easy."
+   }
+  ]
+ },
+ "zor": {
+  "id": "tr_00217_zor",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "hard, difficult",
+  "corpusRank": 259,
+  "sentences": [
+   {
+    "id": "tr_00217_zor_s1",
+    "text": "Bu soru çok zor.",
+    "translation": "This question is very hard."
+   }
+  ]
+ },
+ "hızlı": {
+  "id": "tr_00218_hizli",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "fast",
+  "corpusRank": 465,
+  "sentences": [
+   {
+    "id": "tr_00218_hizli_s1",
+    "text": "Çok hızlı konuşuyorsun.",
+    "translation": "You're speaking very fast."
+   }
+  ]
+ },
+ "yavaş": {
+  "id": "tr_00219_yavas",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "slow",
+  "corpusRank": 731,
+  "sentences": [
+   {
+    "id": "tr_00219_yavas_s1",
+    "text": "Lütfen yavaş konuş.",
+    "translation": "Please speak slowly."
+   }
+  ]
+ },
+ "sıcak": {
+  "id": "tr_00220_sicak",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "hot, warm",
+  "corpusRank": 749,
+  "sentences": [
+   {
+    "id": "tr_00220_sicak_s1",
+    "text": "Çay çok sıcak.",
+    "translation": "The tea is very hot."
+   }
+  ]
+ },
+ "soğuk": {
+  "id": "tr_00221_soguk",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "cold",
+  "corpusRank": 929,
+  "sentences": [
+   {
+    "id": "tr_00221_soguk_s1",
+    "text": "Bugün hava soğuk.",
+    "translation": "The weather is cold today."
+   }
+  ]
+ },
+ "doğru": {
+  "id": "tr_00222_dogru",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "correct, true; straight",
+  "corpusRank": 78,
+  "sentences": [
+   {
+    "id": "tr_00222_dogru_s1",
+    "text": "Cevabın doğru.",
+    "translation": "Your answer is correct."
+   }
+  ]
+ },
+ "yanlış": {
+  "id": "tr_00223_yanlis",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "wrong",
+  "corpusRank": 286,
+  "sentences": [
+   {
+    "id": "tr_00223_yanlis_s1",
+    "text": "Yanlış otobüse bindim.",
+    "translation": "I got on the wrong bus."
+   }
+  ]
+ },
+ "mutlu": {
+  "id": "tr_00224_mutlu",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "happy",
+  "corpusRank": 304,
+  "sentences": [
+   {
+    "id": "tr_00224_mutlu_s1",
+    "text": "Seni gördüğüme mutlu oldum.",
+    "translation": "I was happy to see you."
+   }
+  ]
+ },
+ "üzgün": {
+  "id": "tr_00225_uzgun",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "sad, sorry",
+  "corpusRank": 1385,
+  "sentences": [
+   {
+    "id": "tr_00225_uzgun_s1",
+    "text": "Çok üzgünüm.",
+    "translation": "I'm very sorry."
+   }
+  ]
+ },
+ "yorgun": {
+  "id": "tr_00226_yorgun",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "tired",
+  "corpusRank": 2897,
+  "sentences": [
+   {
+    "id": "tr_00226_yorgun_s1",
+    "text": "Bugün çok yorgunum.",
+    "translation": "I'm very tired today."
+   }
+  ]
+ },
+ "aç": {
+  "id": "tr_00227_ac",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "hungry",
+  "corpusRank": 484,
+  "sentences": [
+   {
+    "id": "tr_00227_ac_s1",
+    "text": "Çok açım.",
+    "translation": "I'm very hungry."
+   }
+  ]
+ },
+ "tok": {
+  "id": "tr_00228_tok",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "full (not hungry)",
+  "corpusRank": 15162,
+  "sentences": [
+   {
+    "id": "tr_00228_tok_s1",
+    "text": "Teşekkürler, tokum.",
+    "translation": "Thanks, I'm full."
+   }
+  ]
+ },
+ "hasta": {
+  "id": "tr_00229_hasta",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "sick, ill",
+  "corpusRank": 649,
+  "sentences": [
+   {
+    "id": "tr_00229_hasta_s1",
+    "text": "Dün hastaydım.",
+    "translation": "I was sick yesterday."
+   }
+  ]
+ },
+ "zengin": {
+  "id": "tr_00230_zengin",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "rich",
+  "corpusRank": 1091,
+  "sentences": [
+   {
+    "id": "tr_00230_zengin_s1",
+    "text": "Zengin olmak istemiyorum.",
+    "translation": "I don't want to be rich."
+   }
+  ]
+ },
+ "fakir": {
+  "id": "tr_00231_fakir",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "poor",
+  "corpusRank": 4653,
+  "sentences": [
+   {
+    "id": "tr_00231_fakir_s1",
+    "text": "Fakir bir ailede büyüdü.",
+    "translation": "He grew up in a poor family."
+   }
+  ]
+ },
+ "temiz": {
+  "id": "tr_00232_temiz",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "clean",
+  "corpusRank": 864,
+  "sentences": [
+   {
+    "id": "tr_00232_temiz_s1",
+    "text": "Oda çok temiz.",
+    "translation": "The room is very clean."
+   }
+  ]
+ },
+ "kirli": {
+  "id": "tr_00233_kirli",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "dirty",
+  "corpusRank": 2759,
+  "sentences": [
+   {
+    "id": "tr_00233_kirli_s1",
+    "text": "Ellerin kirli.",
+    "translation": "Your hands are dirty."
+   }
+  ]
+ },
+ "kolay gelsin": {
+  "id": "tr_00234_kolay_gelsin",
+  "pos": "interj",
+  "posName": "interjection",
+  "gloss": "may it go easy (said to someone working)",
+  "corpusRank": 406,
+  "sentences": [
+   {
+    "id": "tr_00234_kolay_gelsin_s1",
+    "text": "Kolay gelsin!",
+    "translation": "Have an easy time of it!"
+   }
+  ]
+ },
+ "önemli": {
+  "id": "tr_00235_onemli",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "important",
+  "corpusRank": 169,
+  "sentences": [
+   {
+    "id": "tr_00235_onemli_s1",
+    "text": "Bu çok önemli.",
+    "translation": "This is very important."
+   }
+  ]
+ },
+ "hazır": {
+  "id": "tr_00236_hazir",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "ready",
+  "corpusRank": 247,
+  "sentences": [
+   {
+    "id": "tr_00236_hazir_s1",
+    "text": "Hazır mısın?",
+    "translation": "Are you ready?"
+   }
+  ]
+ },
+ "açık": {
+  "id": "tr_00237_acik",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "open; light (colour); clear",
+  "corpusRank": 383,
+  "sentences": [
+   {
+    "id": "tr_00237_acik_s1",
+    "text": "Dükkân hâlâ açık.",
+    "translation": "The shop is still open."
+   }
+  ]
+ },
+ "kapalı": {
+  "id": "tr_00238_kapali",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "closed",
+  "corpusRank": 1355,
+  "sentences": [
+   {
+    "id": "tr_00238_kapali_s1",
+    "text": "Müze pazartesi kapalı.",
+    "translation": "The museum is closed on Monday."
+   }
+  ]
+ },
+ "boş": {
+  "id": "tr_00239_bos",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "empty; free (unoccupied)",
+  "corpusRank": 475,
+  "sentences": [
+   {
+    "id": "tr_00239_bos_s1",
+    "text": "Bardak boş.",
+    "translation": "The glass is empty."
+   }
+  ]
+ },
+ "dolu": {
+  "id": "tr_00240_dolu",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "full",
+  "corpusRank": 622,
+  "sentences": [
+   {
+    "id": "tr_00240_dolu_s1",
+    "text": "Otobüs çok dolu.",
+    "translation": "The bus is very full."
+   }
+  ]
+ },
+ "renk": {
+  "id": "tr_00241_renk",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "colour",
+  "corpusRank": 3050,
+  "sentences": [
+   {
+    "id": "tr_00241_renk_s1",
+    "text": "En sevdiğin renk ne?",
+    "translation": "What's your favourite colour?"
+   }
+  ]
+ },
+ "beyaz": {
+  "id": "tr_00242_beyaz",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "white",
+  "corpusRank": 618,
+  "sentences": [
+   {
+    "id": "tr_00242_beyaz_s1",
+    "text": "Beyaz bir gömlek giydi.",
+    "translation": "He wore a white shirt."
+   }
+  ]
+ },
+ "siyah": {
+  "id": "tr_00243_siyah",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "black",
+  "corpusRank": 1047,
+  "sentences": [
+   {
+    "id": "tr_00243_siyah_s1",
+    "text": "Siyah çanta benim.",
+    "translation": "The black bag is mine."
+   }
+  ]
+ },
+ "kırmızı": {
+  "id": "tr_00244_kirmizi",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "red",
+  "corpusRank": 920,
+  "sentences": [
+   {
+    "id": "tr_00244_kirmizi_s1",
+    "text": "Kırmızı elmayı ver.",
+    "translation": "Give me the red apple."
+   }
+  ]
+ },
+ "mavi": {
+  "id": "tr_00245_mavi",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "blue",
+  "corpusRank": 1188,
+  "sentences": [
+   {
+    "id": "tr_00245_mavi_s1",
+    "text": "Gökyüzü çok mavi.",
+    "translation": "The sky is very blue."
+   }
+  ]
+ },
+ "yeşil": {
+  "id": "tr_00246_yesil",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "green",
+  "corpusRank": 1543,
+  "sentences": [
+   {
+    "id": "tr_00246_yesil_s1",
+    "text": "Yeşil çay içiyorum.",
+    "translation": "I'm drinking green tea."
+   }
+  ]
+ },
+ "sarı": {
+  "id": "tr_00247_sari",
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "yellow",
+  "corpusRank": 2499,
+  "sentences": [
+   {
+    "id": "tr_00247_sari_s1",
+    "text": "Sarı bir araba gördüm.",
+    "translation": "I saw a yellow car."
+   }
+  ]
+ },
+ "iki": {
+  "id": "tr_00248_iki",
+  "pos": "num",
+  "posName": "numeral",
+  "gloss": "two",
+  "corpusRank": 117,
+  "sentences": [
+   {
+    "id": "tr_00248_iki_s1",
+    "text": "İki kardeşim var.",
+    "translation": "I have two siblings."
+   }
+  ]
+ },
+ "üç": {
+  "id": "tr_00249_uc",
+  "pos": "num",
+  "posName": "numeral",
+  "gloss": "three",
+  "corpusRank": 206,
+  "sentences": [
+   {
+    "id": "tr_00249_uc_s1",
+    "text": "Üç gün kaldım.",
+    "translation": "I stayed three days."
+   }
+  ]
+ },
+ "dört": {
+  "id": "tr_00250_dort",
+  "pos": "num",
+  "posName": "numeral",
+  "gloss": "four",
+  "corpusRank": 398,
+  "sentences": [
+   {
+    "id": "tr_00250_dort_s1",
+    "text": "Dört kişilik bir masa lütfen.",
+    "translation": "A table for four, please."
+   }
+  ]
+ },
+ "beş": {
+  "id": "tr_00251_bes",
+  "pos": "num",
+  "posName": "numeral",
+  "gloss": "five",
+  "corpusRank": 345,
+  "sentences": [
+   {
+    "id": "tr_00251_bes_s1",
+    "text": "Beş dakika sonra geliyorum.",
+    "translation": "I'm coming in five minutes."
+   }
+  ]
+ },
+ "altı": {
+  "id": "tr_00252_alti",
+  "pos": "num",
+  "posName": "numeral",
+  "gloss": "six",
+  "corpusRank": 539,
+  "sentences": [
+   {
+    "id": "tr_00252_alti_s1",
+    "text": "Saat altıda buluşalım.",
+    "translation": "Let's meet at six."
+   }
+  ]
+ },
+ "yedi": {
+  "id": "tr_00253_yedi",
+  "pos": "num",
+  "posName": "numeral",
+  "gloss": "seven",
+  "corpusRank": 834,
+  "sentences": [
+   {
+    "id": "tr_00253_yedi_s1",
+    "text": "Haftada yedi gün var.",
+    "translation": "There are seven days in a week."
+   }
+  ]
+ },
+ "sekiz": {
+  "id": "tr_00254_sekiz",
+  "pos": "num",
+  "posName": "numeral",
+  "gloss": "eight",
+  "corpusRank": 1096,
+  "sentences": [
+   {
+    "id": "tr_00254_sekiz_s1",
+    "text": "Sekiz yaşındaydım.",
+    "translation": "I was eight years old."
+   }
+  ]
+ },
+ "dokuz": {
+  "id": "tr_00255_dokuz",
+  "pos": "num",
+  "posName": "numeral",
+  "gloss": "nine",
+  "corpusRank": 1723,
+  "sentences": [
+   {
+    "id": "tr_00255_dokuz_s1",
+    "text": "Dokuz numara ayakkabı giyiyorum.",
+    "translation": "I wear size nine shoes."
+   }
+  ]
+ },
+ "on": {
+  "id": "tr_00256_on",
+  "pos": "num",
+  "posName": "numeral",
+  "gloss": "ten",
+  "corpusRank": 495,
+  "sentences": [
+   {
+    "id": "tr_00256_on_s1",
+    "text": "On lira verdim.",
+    "translation": "I gave ten lira."
+   }
+  ]
+ },
+ "yüz": {
+  "id": "tr_00257_yuz",
+  "pos": "num",
+  "posName": "numeral",
+  "gloss": "hundred",
+  "corpusRank": 770,
+  "sentences": [
+   {
+    "id": "tr_00257_yuz_s1",
+    "text": "Yüz kişi geldi.",
+    "translation": "A hundred people came."
+   }
+  ]
+ },
+ "bin": {
+  "id": "tr_00258_bin",
+  "pos": "num",
+  "posName": "numeral",
+  "gloss": "thousand",
+  "corpusRank": 546,
+  "sentences": [
+   {
+    "id": "tr_00258_bin_s1",
+    "text": "Bin yıl önce burada bir şehir vardı.",
+    "translation": "A thousand years ago there was a city here."
+   }
+  ]
+ },
+ "el": {
+  "id": "tr_00259_el",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "hand",
+  "corpusRank": 563,
+  "sentences": [
+   {
+    "id": "tr_00259_el_s1",
+    "text": "Ellerini yıka.",
+    "translation": "Wash your hands."
+   }
+  ]
+ },
+ "ayak": {
+  "id": "tr_00260_ayak",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "foot",
+  "corpusRank": 1150,
+  "sentences": [
+   {
+    "id": "tr_00260_ayak_s1",
+    "text": "Ayağım ağrıyor.",
+    "translation": "My foot hurts."
+   }
+  ]
+ },
+ "göz": {
+  "id": "tr_00261_goz",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "eye",
+  "corpusRank": 471,
+  "sentences": [
+   {
+    "id": "tr_00261_goz_s1",
+    "text": "Gözlerin çok güzel.",
+    "translation": "Your eyes are very beautiful."
+   }
+  ]
+ },
+ "kulak": {
+  "id": "tr_00262_kulak",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "ear",
+  "corpusRank": 1213,
+  "sentences": [
+   {
+    "id": "tr_00262_kulak_s1",
+    "text": "Kulağıma bir şey fısıldadı.",
+    "translation": "He whispered something in my ear."
+   }
+  ]
+ },
+ "baş": {
+  "id": "tr_00263_bas",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "head; beginning",
+  "corpusRank": 696,
+  "sentences": [
+   {
+    "id": "tr_00263_bas_s1",
+    "text": "Başım ağrıyor.",
+    "translation": "I have a headache."
+   }
+  ]
+ },
+ "kalp": {
+  "id": "tr_00264_kalp",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "heart",
+  "corpusRank": 1049,
+  "sentences": [
+   {
+    "id": "tr_00264_kalp_s1",
+    "text": "Kalbim hızlı atıyor.",
+    "translation": "My heart is beating fast."
+   }
+  ]
+ },
+ "can": {
+  "id": "tr_00265_can",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "life, soul; dear",
+  "corpusRank": 1425,
+  "sentences": [
+   {
+    "id": "tr_00265_can_s1",
+    "text": "Canım çok sıkılıyor.",
+    "translation": "I'm very bored."
+   }
+  ]
+ },
+ "hayat": {
+  "id": "tr_00266_hayat",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "life",
+  "corpusRank": 524,
+  "sentences": [
+   {
+    "id": "tr_00266_hayat_s1",
+    "text": "Hayat kısa.",
+    "translation": "Life is short."
+   }
+  ]
+ },
+ "aşk": {
+  "id": "tr_00267_ask",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "love (romantic)",
+  "corpusRank": 704,
+  "sentences": [
+   {
+    "id": "tr_00267_ask_s1",
+    "text": "Bu bir aşk hikâyesi.",
+    "translation": "This is a love story."
+   }
+  ]
+ },
+ "sevgi": {
+  "id": "tr_00268_sevgi",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "love, affection",
+  "corpusRank": 2212,
+  "sentences": [
+   {
+    "id": "tr_00268_sevgi_s1",
+    "text": "Sevgiyle büyüdü.",
+    "translation": "He grew up with love."
+   }
+  ]
+ },
+ "umut": {
+  "id": "tr_00269_umut",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "hope",
+  "corpusRank": 1874,
+  "sentences": [
+   {
+    "id": "tr_00269_umut_s1",
+    "text": "Hâlâ umudum var.",
+    "translation": "I still have hope."
+   }
+  ]
+ },
+ "korku": {
+  "id": "tr_00270_korku",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "fear",
+  "corpusRank": 2132,
+  "sentences": [
+   {
+    "id": "tr_00270_korku_s1",
+    "text": "Korkum geçti.",
+    "translation": "My fear passed."
+   }
+  ]
+ },
+ "fikir": {
+  "id": "tr_00271_fikir",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "idea, opinion",
+  "corpusRank": 596,
+  "sentences": [
+   {
+    "id": "tr_00271_fikir_s1",
+    "text": "İyi bir fikir!",
+    "translation": "That's a good idea!"
+   }
+  ]
+ },
+ "sebep": {
+  "id": "tr_00272_sebep",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "reason",
+  "corpusRank": 846,
+  "sentences": [
+   {
+    "id": "tr_00272_sebep_s1",
+    "text": "Bunun bir sebebi var.",
+    "translation": "There is a reason for this."
+   }
+  ]
+ },
+ "yardım": {
+  "id": "tr_00273_yardim",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "help",
+  "corpusRank": 91,
+  "sentences": [
+   {
+    "id": "tr_00273_yardim_s1",
+    "text": "Yardımına ihtiyacım var.",
+    "translation": "I need your help."
+   }
+  ]
+ },
+ "merhaba": {
+  "id": "tr_00274_merhaba",
+  "pos": "interj",
+  "posName": "interjection",
+  "gloss": "hello",
+  "corpusRank": 108,
+  "sentences": [
+   {
+    "id": "tr_00274_merhaba_s1",
+    "text": "Merhaba, nasılsın?",
+    "translation": "Hello, how are you?"
+   }
+  ]
+ },
+ "günaydın": {
+  "id": "tr_00275_gunaydin",
+  "pos": "interj",
+  "posName": "interjection",
+  "gloss": "good morning",
+  "corpusRank": 590,
+  "sentences": [
+   {
+    "id": "tr_00275_gunaydin_s1",
+    "text": "Günaydın! İyi uyudun mu?",
+    "translation": "Good morning! Did you sleep well?"
+   }
+  ]
+ },
+ "teşekkür": {
+  "id": "tr_00276_tesekkur",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "thanks",
+  "corpusRank": 137,
+  "sentences": [
+   {
+    "id": "tr_00276_tesekkur_s1",
+    "text": "Teşekkür ederim.",
+    "translation": "Thank you."
+   }
+  ]
+ },
+ "lütfen": {
+  "id": "tr_00277_lutfen",
+  "pos": "adv",
+  "posName": "adverb",
+  "gloss": "please",
+  "corpusRank": 61,
+  "sentences": [
+   {
+    "id": "tr_00277_lutfen_s1",
+    "text": "Lütfen bana yardım et.",
+    "translation": "Please help me."
+   }
+  ]
+ },
+ "özür": {
+  "id": "tr_00278_ozur",
+  "pos": "n",
+  "posName": "noun",
+  "gloss": "apology",
+  "corpusRank": 164,
+  "sentences": [
+   {
+    "id": "tr_00278_ozur_s1",
+    "text": "Özür dilerim, geç kaldım.",
+    "translation": "I'm sorry, I'm late."
+   }
+  ]
+ },
+ "tamam": {
+  "id": "tr_00279_tamam",
+  "pos": "interj",
+  "posName": "interjection",
+  "gloss": "okay, all right",
+  "corpusRank": 28,
+  "sentences": [
+   {
+    "id": "tr_00279_tamam_s1",
+    "text": "Tamam, anlaştık.",
+    "translation": "Okay, we agree."
+   }
+  ]
+ },
+ "efendim": {
+  "id": "tr_00280_efendim",
+  "pos": "interj",
+  "posName": "interjection",
+  "gloss": "pardon?; yes? (polite response)",
+  "corpusRank": 109,
+  "sentences": [
+   {
+    "id": "tr_00280_efendim_s1",
+    "text": "Efendim? Duyamadım.",
+    "translation": "Pardon? I couldn't hear."
+   }
+  ]
+ },
+ "hoş geldiniz": {
+  "id": "tr_00281_hos_geldiniz",
+  "pos": "interj",
+  "posName": "interjection",
+  "gloss": "welcome",
+  "corpusRank": 289,
+  "sentences": [
+   {
+    "id": "tr_00281_hos_geldiniz_s1",
+    "text": "Hoş geldiniz, buyurun.",
+    "translation": "Welcome, please come in."
+   }
+  ]
+ },
+ "görüşürüz": {
+  "id": "tr_00282_gorusuruz",
+  "pos": "interj",
+  "posName": "interjection",
+  "gloss": "see you",
+  "corpusRank": 328,
+  "sentences": [
+   {
+    "id": "tr_00282_gorusuruz_s1",
+    "text": "Görüşürüz, kendine iyi bak.",
+    "translation": "See you, take care."
+   }
+  ]
+ }
+}

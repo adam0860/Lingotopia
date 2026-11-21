@@ -1,0 +1,6386 @@
+{
+ "drop": [
+  [
+   "on",
+   "Poznałem ją jak tylko ją zobaczyłem."
+  ],
+  [
+   "ten",
+   "Czy słyszałeś to wszystko?"
+  ],
+  [
+   "ty",
+   "Hey ty, zamknij się!"
+  ],
+  [
+   "po",
+   "Po co tu przyszedłeś?"
+  ],
+  [
+   "od",
+   "Od rana wszystko się pieprzy."
+  ],
+  [
+   "przez",
+   "Rozmawialiśmy przez telefon."
+  ],
+  [
+   "rok",
+   "Co napiszę za rok?"
+  ],
+  [
+   "czas",
+   "Przyjechałem na czas."
+  ],
+  [
+   "by",
+   "Czy ktoś może by powiedzieć co to może być?"
+  ],
+  [
+   "tu",
+   "Dobrze mi tu być."
+  ],
+  [
+   "dużo",
+   "Nie, nie za dużo."
+  ],
+  [
+   "każdy",
+   "Każdy nie może być szczęśliwy."
+  ],
+  [
+   "dziecko",
+   "Dziecko prawie się nie utopiło."
+  ],
+  [
+   "jako",
+   "Jako że wstaję wcześnie to chcę tam spać."
+  ],
+  [
+   "rzecz",
+   "Powinniśmy pracować na rzecz pokoju."
+  ],
+  [
+   "prosty",
+   "Po prostu nie wiedziałem jak."
+  ],
+  [
+   "prosty",
+   "Po prostu mi to wytłumacz."
+  ],
+  [
+   "świat",
+   "Taki ten świat mały!"
+  ],
+  [
+   "około",
+   "Czy wszystko ok?"
+  ],
+  [
+   "znać",
+   "Dać znać, kiedykolwiek."
+  ],
+  [
+   "stan",
+   "Byłeś w stanie zrobić wszystko, co chciałeś zrobić?"
+  ],
+  [
+   "droga",
+   "Ten telefon jest naprawdę drogi."
+  ],
+  [
+   "miasto",
+   "Nara to bardzo stare miasto."
+  ],
+  [
+   "nad",
+   "Czy pomyślałeś nad tym?"
+  ],
+  [
+   "pewnie",
+   "Pewnie. Co to?"
+  ],
+  [
+   "dziewczyna",
+   "Dziewczyny to dziewczyny, a chłopaki to chłopaki."
+  ],
+  [
+   "ojciec",
+   "Twój ojciec się nie zna."
+  ],
+  [
+   "grać",
+   "Nie bierz tego na poważnie. To tylko gra."
+  ],
+  [
+   "film",
+   "Widziałeś już ten film?"
+  ],
+  [
+   "pytanie",
+   "Wiedziałeś, że to pytanie?"
+  ],
+  [
+   "także",
+   "Także ja was kocham."
+  ],
+  [
+   "cel",
+   "Osiągnęli swój cel."
+  ],
+  [
+   "udać",
+   "Udało się życie."
+  ],
+  [
+   "należeć",
+   "Tomowi trzeba pokazać jak zrobić to, co należy."
+  ],
+  [
+   "minuta",
+   "Czekaliśmy dziesięć minut."
+  ],
+  [
+   "serce",
+   "Gdzie serce tam i szczęście."
+  ],
+  [
+   "gdyby",
+   "Nawet gdyby wszyscy inni, ja i tak nie."
+  ],
+  [
+   "brać",
+   "Właśnie miała brać kąpiel, kiedy zadzwonił dzwonek."
+  ],
+  [
+   "pisać",
+   "Skończyłem pisać ten list."
+  ],
+  [
+   "państwo",
+   "Państwo to ja."
+  ],
+  [
+   "różny",
+   "Czym to się różni?"
+  ],
+  [
+   "wracać",
+   "Czy nie czas wracać do domu?"
+  ],
+  [
+   "gra",
+   "Kto gra na skrzypcach?"
+  ],
+  [
+   "wolny",
+   "Jutro on będzie wolny."
+  ],
+  [
+   "polski",
+   "Chciałbym w wakacje pojechać do Polski."
+  ],
+  [
+   "oznaczać",
+   "Nie chcieć oznacza mieć."
+  ],
+  [
+   "córka",
+   "Siostrzenica to córka siostry."
+  ],
+  [
+   "przykład",
+   "Czy możesz dać mi przykład?"
+  ],
+  [
+   "przyjąć",
+   "Bawiłem się świetnie, na przyjęciu."
+  ],
+  [
+   "zdanie",
+   "Co za zdanie!"
+  ],
+  [
+   "przejść",
+   "Mógłbym się stąd przejść."
+  ],
+  [
+   "świetnie",
+   "Kiedyś chciałem grać świetnie w szachy."
+  ],
+  [
+   "trzeci",
+   "Do pół do trzeciej nic się nie stanie."
+  ],
+  [
+   "atak",
+   "Pierwszy atak minął w cel."
+  ],
+  [
+   "klub",
+   "Ten klub jest zdecydowanie za duży."
+  ],
+  [
+   "ciąg",
+   "Każdy dzień ma ciąg dalszy."
+  ],
+  [
+   "wykonać",
+   "Musisz to wszystko raczej sam wykonać."
+  ],
+  [
+   "sąd",
+   "Nie złożę sprawy do sądu."
+  ],
+  [
+   "znów",
+   "Znów zaczęliśmy chodzić, jak tylko wróciła do zdrowia."
+  ],
+  [
+   "kontrola",
+   "Teraz mam wszystko pod kontrolą."
+  ],
+  [
+   "pracownik",
+   "Potrzebuję każdego pracownika na służbie."
+  ],
+  [
+   "tworzyć",
+   "Dobra komunikacja tworzy dobrych przyjaciół."
+  ],
+  [
+   "starać",
+   "Musisz starać się do końca."
+  ],
+  [
+   "starać",
+   "Nasz sukces zawdzięczamy głównie jego staraniu."
+  ],
+  [
+   "amerykański",
+   "Znasz jakiś rdzenny język amerykański?"
+  ],
+  [
+   "założyć",
+   "Musisz założyć swój płaszcz."
+  ],
+  [
+   "choroba",
+   "Powodem nie jest choroba."
+  ],
+  [
+   "dopóki",
+   "Dopóki nie pada śnieg!"
+  ],
+  [
+   "widać",
+   "Jeśli dobrze popatrzysz, nic nie widać."
+  ],
+  [
+   "łóżko",
+   "Rzuciłem psa na łóżko."
+  ],
+  [
+   "zapytać",
+   "Chciałam go o to zapytać."
+  ],
+  [
+   "zadzwonić",
+   "Kiedy jadłem obiad, zadzwonił telefon."
+  ],
+  [
+   "stopień",
+   "Dostała najwyższy stopień bo nauczyła się całej lekcji na pamięć."
+  ],
+  [
+   "rozpocząć",
+   "Nie mogłem doczekać się rozpoczęcia gry."
+  ],
+  [
+   "odpowiadać",
+   "Nie musisz odpowiadać, jeżeli nie chcesz."
+  ],
+  [
+   "zabawa",
+   "Dziś udała nam się zabawa."
+  ],
+  [
+   "trafić",
+   "Musisz trafić w rzutkę."
+  ],
+  [
+   "wysokość",
+   "Trzeba ci wiedzieć, że mam lęk wysokości."
+  ],
+  [
+   "dawny",
+   "Jestem chory od bardzo dawna."
+  ],
+  [
+   "scena",
+   "Widziałeś kiedykolwiek jak śpiewa na scenie?"
+  ],
+  [
+   "sieć",
+   "Kto sieje wiatr, zbiera burzę."
+  ],
+  [
+   "pole",
+   "Rozwaliłeś się jak gnój na polu."
+  ],
+  [
+   "wybierać",
+   "Jak długo wybierasz jedzenie dla siebie?"
+  ],
+  [
+   "obrona",
+   "Praktykował naturalny styl obrony."
+  ],
+  [
+   "przekonać",
+   "Nieskutecznie próbowałem ponownie ją do siebie przekonać."
+  ],
+  [
+   "maj",
+   "Piąty maj jest dniem dziecka."
+  ],
+  [
+   "bronić",
+   "Bronić ją przed niebezpieczeństwem."
+  ],
+  [
+   "łódź",
+   "Płyniemy do łodzi."
+  ],
+  [
+   "rana",
+   "Nic nie jadłem od wczoraj rana."
+  ],
+  [
+   "rana",
+   "Bawiliśmy się do rana."
+  ],
+  [
+   "niczym",
+   "Twój ojciec o niczym nie wie."
+  ],
+  [
+   "myśl",
+   "Myślałeś, że co miałam na myśli?"
+  ],
+  [
+   "złożyć",
+   "To jest złożony proces."
+  ],
+  [
+   "złożyć",
+   "Ta kwestia jest bardzo złożona."
+  ],
+  [
+   "rozwiązać",
+   "Czy mógłbyś rozwiązać ten problem?"
+  ],
+  [
+   "komputer",
+   "Dan kupił nowy komputer."
+  ],
+  [
+   "iż",
+   "Wielu uważa, iż eutanazja jest sposobem na ulżenie pacjentowi cierpień."
+  ],
+  [
+   "pokazywać",
+   "Coś ostatnio się nie pokazuje."
+  ],
+  [
+   "układ",
+   "Przy dobrym układzie, za rok powinniśmy już osiągać zyski."
+  ],
+  [
+   "wiedza",
+   "Cała wiedza pochodzi z góry."
+  ],
+  [
+   "wiara",
+   "Tu nie chodzi o wiarę, a wiedzę."
+  ],
+  [
+   "telewizja",
+   "To jest telewizja."
+  ],
+  [
+   "złoty",
+   "Ona ma złote serce."
+  ],
+  [
+   "lekcja",
+   "Prawie skończyłem lekcje."
+  ],
+  [
+   "wola",
+   "Chyba wolę biały ryż od brązowego."
+  ],
+  [
+   "wola",
+   "Kiedy gdzieś jadę, wolę latać."
+  ],
+  [
+   "podjąć",
+   "Chcę podjąć to, co robiłem, zanim mi przerwałeś."
+  ],
+  [
+   "wniosek",
+   "Student wykonał rozsądny wniosek."
+  ],
+  [
+   "wniosek",
+   "Jego wniosek jest bardzo rozsądny."
+  ],
+  [
+   "strach",
+   "Chłopak nie okazał strachu."
+  ],
+  [
+   "zapraszać",
+   "Zapraszam, ktokolwiek chce przyjść."
+  ],
+  [
+   "wiec",
+   "Lubię robić zdjęcia wiec zostanę fotografem."
+  ],
+  [
+   "tył",
+   "Mógłbyś, proszę, zrobić krok do tyłu?"
+  ],
+  [
+   "uznać",
+   "Chcielibyśmy ci to dać jako wyraz uznania."
+  ],
+  [
+   "właściwy",
+   "Jeżeli taki sposób ci podano, to prawdopodobnie on właściwy."
+  ],
+  [
+   "zdecydować",
+   "Nie możemy się zdecydować, czy iść do college'u czy nie."
+  ],
+  [
+   "maszyna",
+   "Powinieneś teraz pracować, powinieneś wrócić do swojej maszyny."
+  ],
+  [
+   "jajo",
+   "On to zrobił tylko dla jaj."
+  ],
+  [
+   "podpisać",
+   "Proszę się podpisać tutaj."
+  ],
+  [
+   "tona",
+   "Nie chcę mówić nigdy niczego w ostrym tonie."
+  ],
+  [
+   "kuchnia",
+   "Nie przeszkadzałaby mi codziennie kuchnia chińska."
+  ],
+  [
+   "opowiadać",
+   "To dopiero połowa opowiadania."
+  ],
+  [
+   "kupować",
+   "Chcecie kupować książkę."
+  ],
+  [
+   "północny",
+   "Południowi mężczyźni, północne kobiety."
+  ],
+  [
+   "kłamstwo",
+   "Mogła powiedzieć mi kłamstwo."
+  ],
+  [
+   "płyta",
+   "To moja płyta, nie?"
+  ],
+  [
+   "zwać",
+   "Ten kolor jest zwany \"niebieski w poświacie księżyca o północy\"."
+  ],
+  [
+   "wysoko",
+   "Mój pokój jest wyżej."
+  ],
+  [
+   "fan",
+   "Pies zjadł zegarek oraz japońskiego fana."
+  ],
+  [
+   "kierować",
+   "Gdzie się kierujesz?"
+  ],
+  [
+   "biznes",
+   "To nie jego biznes."
+  ],
+  [
+   "finansowy",
+   "P. Brown to nasz doradca finansowy."
+  ],
+  [
+   "gorący",
+   "To był gorący dzień."
+  ],
+  [
+   "przenieść",
+   "Kiedy trzeba przenieść pianino, nie łap się za stołek."
+  ],
+  [
+   "diabeł",
+   "Gdzie diabeł czuje się jak u siebie?"
+  ],
+  [
+   "śmieć",
+   "Więc, dlaczego się śmiejesz?"
+  ],
+  [
+   "śmieć",
+   "Czy ktoś się śmiał?"
+  ],
+  [
+   "rzeczywiście",
+   "A tak rzeczywiście."
+  ],
+  [
+   "usługa",
+   "Prowadzenie domu jest częścią twojej pracy jako dostawcy usług opieki społecznej."
+  ],
+  [
+   "natomiast",
+   "W innej płaszczyźnie natomiast rysowała się zapowiedź nowej ery."
+  ],
+  [
+   "przyszły",
+   "Przyszły do mnie jakieś listy?"
+  ],
+  [
+   "winien",
+   "Czy czujesz się winny?"
+  ],
+  [
+   "wspomnieć",
+   "Co za wspomnienie!"
+  ],
+  [
+   "wspomnieć",
+   "Próbowałem wymazać wspomnienie jej płaczu."
+  ],
+  [
+   "przód",
+   "Proszę wypełnić przód."
+  ],
+  [
+   "zabójstwo",
+   "Zabójstwo karane jest śmiercią."
+  ],
+  [
+   "występować",
+   "Zatrucie teobrominą występuje częściej u zwierząt domowych, niż u ludzi."
+  ],
+  [
+   "boski",
+   "Na litość boską, nie wziąłem twojego cholernego samochodu."
+  ],
+  [
+   "wina",
+   "Nie lubię wina."
+  ],
+  [
+   "umieścić",
+   "Gdzie należy umieścić swoje pranie?"
+  ],
+  [
+   "nadejść",
+   "Nie chcę tego, dopóki nie nadejdzie jutro."
+  ],
+  [
+   "lipiec",
+   "A będziesz na lipiec gotowy?"
+  ],
+  [
+   "towar",
+   "Ten towar nie bywa wszędzie."
+  ],
+  [
+   "towar",
+   "Handlować towarem z najwyższej półki."
+  ],
+  [
+   "agencja",
+   "Wynajmiemy agencję headhunterską, by znaleźć kandydata na to kierownicze stanowisko."
+  ],
+  [
+   "przedmiot",
+   "To bardzo popularny przedmiot."
+  ],
+  [
+   "stały",
+   "Każdy chce stałego miejsca."
+  ],
+  [
+   "wyciągnąć",
+   "Wyciągnęła pistolet i powiedziała: ..."
+  ],
+  [
+   "pomimo",
+   "Przyszli pomimo deszczu."
+  ],
+  [
+   "własność",
+   "Wygląda na to, że nie są dawane na własność, ale pożyczane."
+  ],
+  [
+   "wystąpić",
+   "Niestety nie zdążyłem na jego wystąpienie."
+  ],
+  [
+   "strzał",
+   "Mam łuk, ale nie mam strzał."
+  ],
+  [
+   "konferencja",
+   "My wiedzieliśmy o tym przed konferencją. Państwo chyba nie, prawda?"
+  ],
+  [
+   "zamykać",
+   "Już się zamykam."
+  ],
+  [
+   "bieg",
+   "Po biegu wszyscy stali i dyszeli przez pięć-dziesięć minut."
+  ],
+  [
+   "stanąć",
+   "Zawsze się bałem, że to się stanie."
+  ],
+  [
+   "stanąć",
+   "Nikt nie mógł wiedzieć, że to się stanie."
+  ],
+  [
+   "były",
+   "Staraliśmy się, żeby były cicho."
+  ],
+  [
+   "były",
+   "Na szczęście drzwi były otwarte."
+  ],
+  [
+   "samobójstwo",
+   "Nie da się popełnić samobójstwa przez wstrzymanie oddechu."
+  ],
+  [
+   "ucieczka",
+   "Sami rzucił się do ucieczki."
+  ],
+  [
+   "pojazd",
+   "Pojazd jest skradziony."
+  ],
+  [
+   "poruszać",
+   "Ten program porusza kwestie ciąży u nieletnich i homoseksualizmu."
+  ],
+  [
+   "przydać",
+   "Chciałbym się przydać do czegoś."
+  ],
+  [
+   "piąty",
+   "Przyjechałem tu około piątej."
+  ],
+  [
+   "piąty",
+   "Proszę poczekać do piątej, wtedy powinien wrócić."
+  ],
+  [
+   "odchodzić",
+   "Po mojej śmierci moja dusza odchodzi w niebyt."
+  ],
+  [
+   "odmówić",
+   "Tomowi trudno odmówić."
+  ],
+  [
+   "zechcieć",
+   "Jak Bóg zechce..."
+  ],
+  [
+   "skarb",
+   "Mądrość jest skarbem dla dziesiątek pokoleń."
+  ],
+  [
+   "obawa",
+   "Zamknął okno z obawy przed deszczem."
+  ],
+  [
+   "konsekwencja",
+   "Snom brak przede wszystkim konsekwencji."
+  ],
+  [
+   "zdać",
+   "Wszyscy zdają się być zajęci, tylko nie ja."
+  ],
+  [
+   "powrócić",
+   "Ziri powróciła na wyspę."
+  ],
+  [
+   "przedstawienie",
+   "Przedstawienie było do dupy."
+  ],
+  [
+   "gruby",
+   "Nie zrób się gruby."
+  ],
+  [
+   "paczka",
+   "Otrzymaliśmy wielką paczkę."
+  ],
+  [
+   "dostarczyć",
+   "Ich krew będzie dostarczona do wielu ludzi."
+  ],
+  [
+   "zawód",
+   "Wygrał wiele zawodów."
+  ],
+  [
+   "lada",
+   "Moja taksówka powinna być lada moment."
+  ],
+  [
+   "ciśnienie",
+   "Sprawdź ciśnienie w swoich oponach."
+  ],
+  [
+   "nick",
+   "Nick jest mi winny dziesięć dolarów."
+  ],
+  [
+   "uwolnić",
+   "Ta dziewczyna pozwoliła ptaka uwolnić."
+  ],
+  [
+   "darmo",
+   "Kupiłam ten rower za pół darmo."
+  ],
+  [
+   "krzywda",
+   "Tomowi stanie się krzywda."
+  ],
+  [
+   "mina",
+   "Ile czasu minie aż dotrzemy?"
+  ],
+  [
+   "użytkownik",
+   "By się porozumiewać, wcale nie trzeba mówić jak rodzimy użytkownik."
+  ],
+  [
+   "użytkownik",
+   "Myślisz, że kiedykolwiek będę mówić jak rodowity użytkownik?"
+  ],
+  [
+   "pilot",
+   "To jest pilotem."
+  ],
+  [
+   "cichy",
+   "To było bardzo ciche."
+  ],
+  [
+   "prędko",
+   "Wszyscy wiedzieliśmy, że to się prędzej czy później zdarzy."
+  ],
+  [
+   "organ",
+   "Ta sprawa została dokładnie przykryta przez wysokie organa rządowe."
+  ],
+  [
+   "pogrzeb",
+   "Kto widział dzisiejszy pogrzeb?"
+  ],
+  [
+   "platforma",
+   "Obecnie nie istnieje killer appka na tej platformie."
+  ],
+  [
+   "ustęp",
+   "Proszę, używaj często płynu do płukania ust."
+  ],
+  [
+   "środa",
+   "Dzisiaj jest środa."
+  ],
+  [
+   "równy",
+   "Pięć podzielone na trzy równa się jeden, reszta dwa."
+  ],
+  [
+   "pierś",
+   "Ona ma duże piersi."
+  ],
+  [
+   "łapa",
+   "Nie łap dwóch srok za ogon."
+  ],
+  [
+   "zerwać",
+   "Burza zerwała linie."
+  ],
+  [
+   "siadać",
+   "Nie, proszę siadać."
+  ],
+  [
+   "zaledwie",
+   "Mój ojciec ma zaledwie piętnaście lat."
+  ],
+  [
+   "drogi",
+   "Zejdź mi z drogi, chłopcze."
+  ],
+  [
+   "delikatny",
+   "Ciało twojego klienta jest delikatne."
+  ],
+  [
+   "troszkę",
+   "Musimy pojechać troszkę na około."
+  ],
+  [
+   "czoło",
+   "Twoja matka ma gładkie czoło!"
+  ],
+  [
+   "warta",
+   "Ta oferta jest warta rozważenia."
+  ],
+  [
+   "warta",
+   "Ta książka jest warta przeczytania dwa razy."
+  ],
+  [
+   "pochodzenie",
+   "Czy znasz pochodzenie?"
+  ],
+  [
+   "rodzić",
+   "Chciałbym się nauczyć mówić bardziej jak rodzimy użytkownik."
+  ],
+  [
+   "rodzić",
+   "Chciałbym mówić po angielsku jak rodzimy użytkownik."
+  ],
+  [
+   "późny",
+   "Mój bratanek miał zwyczaj siedzieć do późna."
+  ],
+  [
+   "domek",
+   "Ścieżka wiodąca od tego domku do lasku bambusowego wyłożona była kamieniami."
+  ],
+  [
+   "anioł",
+   "Czy stałaś się aniołem?"
+  ],
+  [
+   "przesłuchać",
+   "Sami został przesłuchany przez policję."
+  ],
+  [
+   "zapas",
+   "Oglądał zapasy sumo z założonymi rękoma."
+  ],
+  [
+   "przemysł",
+   "Nie jestem rekinem przemysłu."
+  ],
+  [
+   "strzelić",
+   "Co ci strzeliło do głowy, żeby tu teraz przychodzić?"
+  ],
+  [
+   "strategia",
+   "To świetna strategia."
+  ],
+  [
+   "brawo",
+   "Otrzymał wiele braw."
+  ],
+  [
+   "brawo",
+   "Wyszedł na scenę kiedy publiczność biła brawa."
+  ],
+  [
+   "ubezpieczenie",
+   "Zgubiłem ubezpieczenie zdrowotne."
+  ],
+  [
+   "zrozumienie",
+   "Dość trudno mi było osiągnąć zrozumienie."
+  ],
+  [
+   "rejon",
+   "Zapasy pomocy zostały ściągnięte w rejon klęski."
+  ],
+  [
+   "szeroki",
+   "Droga jest szeroka na dziesięć stóp."
+  ],
+  [
+   "pozbawić",
+   "Sędzia skazał go na rok pozbawienia wolności."
+  ],
+  [
+   "obrońca",
+   "Sami jest największym obrońcą jego córki."
+  ],
+  [
+   "raj",
+   "Mam klucz do raju."
+  ],
+  [
+   "rządowy",
+   "Ta sprawa została dokładnie przykryta przez wysokie organa rządowe."
+  ],
+  [
+   "tradycyjny",
+   "Sumo jest tradycyjnym japońskim sportem."
+  ],
+  [
+   "obserwacja",
+   "Nauka bazuje na bardzo wnikliwych obserwacjach."
+  ],
+  [
+   "kompletny",
+   "Żyję na kompletnym odludziu."
+  ],
+  [
+   "zapis",
+   "Zapis arabski został zastąpiony alfabetem rzymskim."
+  ],
+  [
+   "worek",
+   "Nareszcie wyszło szydło z worka."
+  ],
+  [
+   "wiązać",
+   "Byłoby lepiej gdybyś nie wiązała się z takimi ludźmi."
+  ],
+  [
+   "danie",
+   "Gdzie są dania?"
+  ],
+  [
+   "złość",
+   "Nie złość się."
+  ],
+  [
+   "złość",
+   "Nie złość się!"
+  ],
+  [
+   "litość",
+   "Na litość boską, nie wziąłem twojego cholernego samochodu."
+  ],
+  [
+   "prać",
+   "Kolor nie schodzi nawet po praniu."
+  ],
+  [
+   "prać",
+   "Pranie ubrań to moja praca."
+  ],
+  [
+   "szafa",
+   "Już czas otworzyć trzecią szafę."
+  ],
+  [
+   "gdziekolwiek",
+   "Powinienem był pójść gdziekolwiek."
+  ],
+  [
+   "liczny",
+   "Jak liczny jest zespół?"
+  ],
+  [
+   "spór",
+   "Niedaleko stąd jest spory supermarket."
+  ],
+  [
+   "spór",
+   "Mam spory problem."
+  ],
+  [
+   "płacz",
+   "Cokolwiek robisz, nie płacz."
+  ],
+  [
+   "zastrzelić",
+   "Dan zastrzelił kilka osób."
+  ],
+  [
+   "znajomość",
+   "Posiadła znajomość angielskiego."
+  ],
+  [
+   "świętować",
+   "Sami świętował ukończenie szkoły."
+  ],
+  [
+   "zamknięty",
+   "Ten mężczyzna był zamknięty za szpiegostwo."
+  ],
+  [
+   "starożytny",
+   "Droga miecza to starożytna japońska sztuka walki, wywodząca się z czasów samurajów."
+  ],
+  [
+   "godny",
+   "Jesteś godny zaufania."
+  ],
+  [
+   "żądać",
+   "Clay żąda dochodzenia."
+  ],
+  [
+   "przekonanie",
+   "Została poproszona o przekonanie go do pomalowania domu."
+  ],
+  [
+   "depresja",
+   "Wpadł w głęboką depresję i postanowił skończyć ze sobą."
+  ],
+  [
+   "medycyna",
+   "Pomagali sobie wzajemnie w medycynie."
+  ],
+  [
+   "lotniczy",
+   "Proszę pocztą lotniczą."
+  ],
+  [
+   "flaga",
+   "Proszę, zmień flagę."
+  ],
+  [
+   "przerażać",
+   "Twój współlokator jest przerażający."
+  ],
+  [
+   "kryć",
+   "Nie kryje, że jest gejem."
+  ],
+  [
+   "dobro",
+   "Nie szalej, dobra?"
+  ],
+  [
+   "postawa",
+   "Nie docenisz jego dobrych stron tylko na postawie jego wyglądu."
+  ],
+  [
+   "nerw",
+   "Zrobili się nerwowi."
+  ],
+  [
+   "aplikacja",
+   "Musimy wybrać jedną spośród tych aplikacji."
+  ],
+  [
+   "głosowanie",
+   "Międzynarodowi obserwatorzy liczyli na głosowanie."
+  ],
+  [
+   "modlić",
+   "Mogę cię nauczyć się modlić."
+  ],
+  [
+   "uspokoić",
+   "Wiatr pod wieczór uspokoił się."
+  ],
+  [
+   "zupa",
+   "Ta zupa smakuje jak wino."
+  ],
+  [
+   "cięcie",
+   "Pożycz mi coś do cięcia."
+  ],
+  [
+   "twórca",
+   "Zamenhof, twórca sztucznego języka esperanto, był okulistą."
+  ],
+  [
+   "odnieść",
+   "Pracuj ciężej jeśli planujesz odnieść sukces."
+  ],
+  [
+   "funkcjonować",
+   "Jak powinno funkcjonować?"
+  ],
+  [
+   "wysłuchać",
+   "Dziękuję za wysłuchanie mnie."
+  ],
+  [
+   "sława",
+   "Wy idioci przynosicie szkole złą sławę."
+  ],
+  [
+   "porzucić",
+   "Ziri boi się porzucenia."
+  ],
+  [
+   "kopać",
+   "Możemy dostać tego kopie?"
+  ],
+  [
+   "powszechny",
+   "Zdrowy rozsądek nie jest dość mało powszechny."
+  ],
+  [
+   "tatuś",
+   "Jestem twoją lalką, a nie żoną, tak jak w domu byłam laleczką tatusia."
+  ],
+  [
+   "prasowy",
+   "Premier zwołał konferencję prasową."
+  ],
+  [
+   "godność",
+   "Można prosić o pańską godność?"
+  ],
+  [
+   "zasłużyć",
+   "Dan nie zasłużył na śmierć."
+  ],
+  [
+   "sojusz",
+   "Czarnobrody zawarł sojusz z piratami."
+  ],
+  [
+   "łapać",
+   "On łapie przeziębienia bardzo łatwo."
+  ],
+  [
+   "szczur",
+   "Nareszcie szczury przyszły do rzeki."
+  ],
+  [
+   "marny",
+   "Nienawidzę patrzeć na to, jak marny jesteś."
+  ],
+  [
+   "porównać",
+   "Co za idiotyczne porównanie."
+  ],
+  [
+   "instrukcja",
+   "Trener dał instrukcje w godzinach popołudniowych."
+  ],
+  [
+   "żegnać",
+   "Wyszedł z domu nie żegnając się nawet."
+  ],
+  [
+   "smaczny",
+   "Dobre brandy uzupełnia smaczny posiłek."
+  ],
+  [
+   "tatuaż",
+   "Czy kiedykolwiek próbowałeś tatuażu?"
+  ],
+  [
+   "opowiadanie",
+   "Próbował napisać krótkie opowiadanie."
+  ],
+  [
+   "zmarły",
+   "Miał trzy siostry, ale dwie zmarły, kiedy były bardzo młode."
+  ],
+  [
+   "poddawać",
+   "Nie poddawaj się!"
+  ],
+  [
+   "jabłko",
+   "To jest jabłko, też."
+  ],
+  [
+   "wołać",
+   "Usłyszał wołanie o pomoc."
+  ],
+  [
+   "aborcja",
+   "Jesteś za czy przeciw aborcji?"
+  ],
+  [
+   "piec",
+   "Ogrzał się przy piecu."
+  ],
+  [
+   "piec",
+   "Proszę, usuń popiół z pieca."
+  ],
+  [
+   "dzik",
+   "On zabił dzika."
+  ],
+  [
+   "priorytet",
+   "Może pan to posłać priorytetem?"
+  ],
+  [
+   "ubierać",
+   "Co ubierasz na dzisiejszy wieczór?"
+  ],
+  [
+   "obrażać",
+   "Zamierzasz pozwalać, żebym obrażał cię w ten sposób?"
+  ],
+  [
+   "technik",
+   "W dżudo technika jest ważniejsza niż siła."
+  ],
+  [
+   "technik",
+   "Zastanawiam się, pod jakimi względami ta technika ma przewagę."
+  ],
+  [
+   "zidentyfikować",
+   "Jej zwłoki zidentyfikowano dzięki zegarkowi z symbolem pająka."
+  ],
+  [
+   "doradca",
+   "P. Brown to nasz doradca finansowy."
+  ],
+  [
+   "agresywny",
+   "On stanowi wzorcowy model agresywnego sprzedawcy."
+  ],
+  [
+   "akta",
+   "W szafie na akta szuflady są otwarte."
+  ],
+  [
+   "skandal",
+   "Mają coś do zrobienia w związku ze skandalem."
+  ],
+  [
+   "opozycja",
+   "Mowa premiera obliczona była na rozgniewanie opozycji."
+  ],
+  [
+   "męczyć",
+   "Czy kiedykolwiek męczysz się tańcem?"
+  ],
+  [
+   "ratunek",
+   "Ratunek przed tym nieszczęściem jest niewyobrażalny."
+  ],
+  [
+   "przebrać",
+   "Pomóż mu lub jej się przebrać po tym fakcie."
+  ],
+  [
+   "zaprowadzić",
+   "Toma zaprowadzono na miejsce."
+  ],
+  [
+   "marnować",
+   "Gdyby nie był marnował czasu, byłby już gotów."
+  ],
+  [
+   "naczynie",
+   "Kto robi naczynia ?"
+  ],
+  [
+   "tok",
+   "Liczby nie są ważne w toki ponie."
+  ],
+  [
+   "przysięga",
+   "Trzech mężczyzn złożyło zeznania pod przysięgą przeciwko niej."
+  ],
+  [
+   "powstanie",
+   "Spodziewam się, że w przyszłości powstanie tu stacja metra."
+  ],
+  [
+   "skakać",
+   "Szybki, brązowy lis skacze prosto przez leniwego psa."
+  ],
+  [
+   "popularność",
+   "Zebranie nie cieszyło się przesadną popularnością."
+  ],
+  [
+   "stypendium",
+   "Na twoim miejscu, ubiegałbym się o stypendium."
+  ],
+  [
+   "ukochać",
+   "Jesteś moją ukochaną."
+  ],
+  [
+   "zniszczeć",
+   "Zniszczenie środowiska jest duże."
+  ],
+  [
+   "udzielać",
+   "Czy udzielasz cię charytatywnie?"
+  ],
+  [
+   "dwukrotnie",
+   "Dwukrotnie kliknięcie powiększa fragment mapy."
+  ],
+  [
+   "dochodzenie",
+   "Clay żąda dochodzenia."
+  ],
+  [
+   "mechanik",
+   "Wcześniej mechanik wziął dużo więcej."
+  ],
+  [
+   "powiadomić",
+   "W tym przypadku, powiadomić jego rodzinę."
+  ],
+  [
+   "motor",
+   "Powiedziałeś mi, że kradniesz jego motor."
+  ],
+  [
+   "przebić",
+   "Gwóźdź przebił oponę samochodową."
+  ],
+  [
+   "przegrywać",
+   "Nie lubię przegrywać."
+  ],
+  [
+   "biznesowy",
+   "Wypowiedział się na temat swojej niepomyślnej negocjacji biznesowej."
+  ],
+  [
+   "usuwać",
+   "Wiele kultur ma specyficzne rytuały i wierzenia dotyczące usuwania łożyska."
+  ],
+  [
+   "niewiarygodny",
+   "Niewiarygodne, że byłaś cheerleaderką."
+  ],
+  [
+   "identyczny",
+   "Znam kobietę, która ma identyczne jak ja imię i nazwisko."
+  ],
+  [
+   "ranek",
+   "Czyż nie jest ładny ranek?"
+  ],
+  [
+   "przybywać",
+   "Przybywam by cię zabić."
+  ],
+  [
+   "ziemski",
+   "Księżyc ziemski jest jej naturalnym satelitą."
+  ],
+  [
+   "jaskinia",
+   "Wyjście z jaskini!"
+  ],
+  [
+   "bagaż",
+   "Zarejestrowałem swój bagaż."
+  ],
+  [
+   "dostrzec",
+   "Sami dostrzegła szansę."
+  ],
+  [
+   "piechota",
+   "Poszedłem na piechotę."
+  ],
+  [
+   "podanie",
+   "Które podania podobają ci się najbardziej?"
+  ],
+  [
+   "dostawca",
+   "Utrzymanie domu jest częścią twojej pracy jako dostawcy usług opieki społecznej."
+  ],
+  [
+   "średnio",
+   "Średnio dosmażony i ziemniaka, poproszę."
+  ],
+  [
+   "chłop",
+   "Jeśli spada chłop z traktora, to był wybuch reaktora."
+  ],
+  [
+   "pozostawiać",
+   "Nie pozostawiasz mi wyboru w tej kwestii."
+  ],
+  [
+   "tłumacz",
+   "Tłumacz zamiast ględzić!"
+  ],
+  [
+   "tłumacz",
+   "Nie tłumacz tego zdania!"
+  ],
+  [
+   "ląd",
+   "Najdroższą rzeczą jest ląd."
+  ],
+  [
+   "żywić",
+   "Myślałem, że nigdy nie wydostaniemy się żywi z płonącego budynku."
+  ],
+  [
+   "pochować",
+   "Tu leży pies pochowany."
+  ],
+  [
+   "rytuał",
+   "Wiele kultur ma specyficzne rytuały i wierzenia dotyczące usuwania łożyska."
+  ],
+  [
+   "jakkolwiek",
+   "Jakkolwiek mały by nie był, chcę mój własny dom."
+  ],
+  [
+   "jakkolwiek",
+   "Chcę ci pomóc, jakkolwiek mogę."
+  ],
+  [
+   "naruszyć",
+   "Mamy naruszenie bezpieczeństwa."
+  ],
+  [
+   "naruszyć",
+   "To jest zwyczajne naruszenie umowy."
+  ],
+  [
+   "fizycznie",
+   "Staram się jak mogę tak długo na ile jestem do tego zdolny fizycznie."
+  ],
+  [
+   "jakże",
+   "Jakże piękną jest ta róża!"
+  ],
+  [
+   "żarcie",
+   "Po jego żarcie wszyscy wybuchnęli śmiechem."
+  ],
+  [
+   "wyzwać",
+   "Ojciec cię wyzwa."
+  ],
+  [
+   "seryjny",
+   "Jesteś seryjnym mordercą."
+  ],
+  [
+   "zwolnienie",
+   "Nie miałem wyboru poza zwolnieniem go."
+  ],
+  [
+   "hobby",
+   "Aoi'ego hobby to tańczenie."
+  ],
+  [
+   "skup",
+   "Skup się na piłce."
+  ],
+  [
+   "skup",
+   "Skup się na jednej rzeczy i naucz się jej najlepiej."
+  ],
+  [
+   "deser",
+   "Który deser powinien zjeść?"
+  ],
+  [
+   "dyskutować",
+   "Ten problem dyskutowało wielu ekonomistów."
+  ],
+  [
+   "przemyśleć",
+   "Po przemyśleniu zmieniłem zdanie."
+  ],
+  [
+   "kolumna",
+   "Zaciekawiła mnie ta kolumna."
+  ],
+  [
+   "zapowiadać",
+   "Spotkanie zapowiada rozstanie."
+  ],
+  [
+   "podejrzeć",
+   "Są coraz większe podejrzenia, że to wewnętrzna robota."
+  ],
+  [
+   "wypowiedzieć",
+   "Wypowiedział się na temat swojej niepomyślnej negocjacji biznesowej."
+  ],
+  [
+   "szlachetny",
+   "Oni powinni mieć szlachetne umysły."
+  ],
+  [
+   "przyroda",
+   "Lubię zarówno przyrodę, jak i matematykę."
+  ],
+  [
+   "dążyć",
+   "On wspiera dążenie do pokoju na świecie."
+  ],
+  [
+   "tchórz",
+   "Sami to okropny tchórz."
+  ],
+  [
+   "przełożony",
+   "Mecz został przełożony na następny poniedziałek."
+  ],
+  [
+   "przewidywać",
+   "Ku naszemu zdziwieniu, jej przewidywania sprawdziły się."
+  ],
+  [
+   "zbieg",
+   "Co za dziwny zbieg okoliczności!"
+  ],
+  [
+   "igła",
+   "On wiecznie robi z igły widły."
+  ],
+  [
+   "śmietnik",
+   "Gdzie jest twój śmietnik?"
+  ],
+  [
+   "paskudny",
+   "Był to paskudny dziadyga."
+  ],
+  [
+   "zwariować",
+   "To najbardziej zwariowana rzecz, jaką w życiu słyszałem."
+  ],
+  [
+   "synek",
+   "Chciałbym umówić mojego trzyletniego synka."
+  ],
+  [
+   "semestr",
+   "Drugi semestr dobiegł końca."
+  ],
+  [
+   "zagrozić",
+   "Życie pacjenta było zagrożone."
+  ],
+  [
+   "staż",
+   "Musieli zadzwonić po staż pożarną żeby ugasić pożar."
+  ],
+  [
+   "dokumentacja",
+   "Próbujemy zrobić dokumentację."
+  ],
+  [
+   "robak",
+   "Moja krowa ma robaki w odbycie."
+  ],
+  [
+   "negocjacje",
+   "Nie podoba mi się sposób twoich negocjacji."
+  ],
+  [
+   "srebro",
+   "Umiesz odróżnić srebro od blachy?"
+  ],
+  [
+   "obchód",
+   "Przyjaciele urządzili mi obchody urodzin."
+  ],
+  [
+   "uroda",
+   "Mój ojciec jest dumny z mojej urody."
+  ],
+  [
+   "durny",
+   "Wszystko w twoim durnym kraju śmierdzi nogami i niezrealizowanymi marzeniami."
+  ],
+  [
+   "rozpoznawać",
+   "Myślałem, że rozpoznaję to miejsce."
+  ],
+  [
+   "odkrywać",
+   "Odkrywamy nowe źródła, takie jak solarna i atomowa energia."
+  ],
+  [
+   "opłacać",
+   "Skromność się na dłuższą metę nie opłaca."
+  ],
+  [
+   "karmić",
+   "Nie karmić trolla."
+  ],
+  [
+   "płaski",
+   "Dobrze jest mieć kilka kluczy płaskich, żeby można było naprawiać różne rzeczy."
+  ],
+  [
+   "rzec",
+   "Płyńcie łzy moje, rzekł policjant."
+  ],
+  [
+   "osiągać",
+   "Nawet jeśli masz własną drogę, nie zawsze będziesz osiągać sukcesy."
+  ],
+  [
+   "ustalać",
+   "Zwykle jak ustalasz, co będziesz jeść?"
+  ],
+  [
+   "porcja",
+   "Porcja druga zawiera mięso."
+  ],
+  [
+   "przejażdżka",
+   "Jeśli dobrze rozumiem, byłem zabrany na przejażdżkę."
+  ],
+  [
+   "pot",
+   "Nie ma słodyczy bez potu."
+  ],
+  [
+   "sucho",
+   "Zeżarłam na sucho."
+  ],
+  [
+   "sympatia",
+   "Mój przyjaciel pała do ciebie sympatią."
+  ],
+  [
+   "pseudonim",
+   "Mój pseudonim to \"Itch\"."
+  ],
+  [
+   "proszek",
+   "Proszek postawiłem za wanną."
+  ],
+  [
+   "świeżo",
+   "Jest świeżo po studiach."
+  ],
+  [
+   "plastyczny",
+   "Na twoja brzydotę nie pomoże nawet chirurgia plastyczna."
+  ],
+  [
+   "obrócić",
+   "Kto obrócił to do góry nogami?"
+  ],
+  [
+   "gol",
+   "Boże, gol królową!"
+  ],
+  [
+   "powracać",
+   "Aby ten dzień szczęśliwie powracał! Wszystkiego najlepszego z okazji urodzin!"
+  ],
+  [
+   "wieczność",
+   "Potrzebna wieczność, żeby wszystko wytłumaczyć."
+  ],
+  [
+   "buta",
+   "Jaki jest twój rozmiar buta?"
+  ],
+  [
+   "bułka",
+   "Rozwiązanie tego problemu to była bułka z masłem!"
+  ],
+  [
+   "głuchy",
+   "Nie jestem głucha."
+  ],
+  [
+   "cola",
+   "Mówią, że coca-cola rozpuszcza zęby."
+  ],
+  [
+   "ujrzeć",
+   "Ten fakt ujrzał światło dzienne."
+  ],
+  [
+   "zapowiedź",
+   "W innej płaszczyźnie natomiast rysowała się zapowiedź nowej ery."
+  ],
+  [
+   "uznany",
+   "Strzelec został uznany za niepoczytalnego."
+  ],
+  [
+   "podłączyć",
+   "Lampa jest podłączona do zegara."
+  ],
+  [
+   "trupa",
+   "Jest zalany w trupa."
+  ],
+  [
+   "specyficzny",
+   "Wiele kultur ma specyficzne rytuały i wierzenia dotyczące usuwania łożyska."
+  ],
+  [
+   "stos",
+   "Czy ogień serca może być ugaszony w płomieniach stosu pogrzebowego?"
+  ],
+  [
+   "tom",
+   "Czy tom przyszedł?"
+  ],
+  [
+   "tom",
+   "Chcę się upewnić, że tom jest bezpieczny."
+  ],
+  [
+   "łódka",
+   "Ta łódka płynie przez dżunglę."
+  ],
+  [
+   "średnia",
+   "Kiedy ukończyłeś szkołę średnią?"
+  ],
+  [
+   "średnia",
+   "Odkąd ukończył on szkołę średnią nic nie robi."
+  ],
+  [
+   "skomplikować",
+   "Mózg jest tylko skomplikowaną maszyną."
+  ],
+  [
+   "rozważać",
+   "Jeszcze rozważam swoje zaręczyny."
+  ],
+  [
+   "rozszerzyć",
+   "Jakie jest rozszerzenie pliku?"
+  ],
+  [
+   "dzwonek",
+   "To jest dzwonek."
+  ],
+  [
+   "zmienny",
+   "Jak rozdzielić dwie zmienne używając separatora?"
+  ],
+  [
+   "wściec",
+   "Musi być wściekła na mnie."
+  ],
+  [
+   "rasizm",
+   "To nie rasizm, to czysta prawda."
+  ],
+  [
+   "jedność",
+   "Nasza jedność może być doskonała."
+  ],
+  [
+   "krajobraz",
+   "Poświęciłem całą moją uwagę krajobrazowi na zewnątrz."
+  ],
+  [
+   "szkodliwy",
+   "Tak, komputer jest szkodliwy."
+  ],
+  [
+   "uroczo",
+   "Kim uśmiechnęła się uroczo."
+  ],
+  [
+   "wcisnąć",
+   "Możesz mnie tam wcisnąć?"
+  ],
+  [
+   "regularny",
+   "Czy masz regularną miesiączkę?"
+  ],
+  [
+   "regularny",
+   "Mam regularne miesiączki."
+  ],
+  [
+   "komisariat",
+   "Okrucieństwo, jakiego dopuszczono się na tym komisariacie, jest niewyobrażalne."
+  ],
+  [
+   "pluton",
+   "Pluton jest planetą karłowatą."
+  ],
+  [
+   "nielegalnie",
+   "Dan przekroczył nielegalnie granicę."
+  ],
+  [
+   "homoseksualista",
+   "A czy będąc homoseksualistą, popełniałbym grzech?"
+  ],
+  [
+   "zlikwidować",
+   "Nie wiem jak zlikwidować swój ostatni wpis."
+  ],
+  [
+   "luksusowy",
+   "Nawyk zmienia luksusowe rozrywki w nudne, codzienne potrzeby."
+  ],
+  [
+   "narta",
+   "Możesz iść na narty na tamto wzgórze."
+  ],
+  [
+   "przeczyć",
+   "Jej melancholijny uśmiech przeczył smutkowi, który czuła, mając odjeżdżać."
+  ],
+  [
+   "ocaleć",
+   "Dziękuję za ocalenie mi życia."
+  ],
+  [
+   "uzależniony",
+   "On jest uzależniony od ręczników."
+  ],
+  [
+   "przyjęty",
+   "Zostałem ciepło przyjęty."
+  ],
+  [
+   "dzieje",
+   "Powiedziałby mi ktoś, co się dzieje?"
+  ],
+  [
+   "dzieje",
+   "Coś się tu dzieje, prawda?"
+  ],
+  [
+   "czek",
+   "Czy mógłbym dostać czek?"
+  ],
+  [
+   "chirurgia",
+   "Na twoja brzydotę nie pomoże nawet chirurgia plastyczna."
+  ],
+  [
+   "trawnik",
+   "Czy możesz przystrzyc trawnik?"
+  ],
+  [
+   "szczerzyć",
+   "Bądźmy w tej sprawie szczerzy."
+  ],
+  [
+   "trwały",
+   "Nigdy nie wiadomo, ile te spotkania będą trwały."
+  ],
+  [
+   "trwały",
+   "Rozmowy będą trwały trzy dni."
+  ],
+  [
+   "zapić",
+   "Zapisz swoje nazwisko i adres."
+  ],
+  [
+   "zapić",
+   "Zapisz alfabet dużymi literami."
+  ],
+  [
+   "zapytanie",
+   "Twoje zapytanie nie jest rozsądne."
+  ],
+  [
+   "obserwator",
+   "Międzynarodowi obserwatorzy liczyli na głosowanie."
+  ],
+  [
+   "pogrzebowy",
+   "Czy ogień serca może być ugaszony w płomieniach stosu pogrzebowego?"
+  ],
+  [
+   "szkocki",
+   "Poproszę jeszcze jedną szkocką z wodą."
+  ],
+  [
+   "płód",
+   "Większe zbiory powinny pomóc skompensować spodziewany spadek cen płodów rolnych."
+  ],
+  [
+   "pokrój",
+   "Pokrój łososia na małe kawałki."
+  ],
+  [
+   "pióro",
+   "Czy masz dużo piór?"
+  ],
+  [
+   "zagranica",
+   "Czy twój wujek nadal jest zagranicą?"
+  ],
+  [
+   "organiczny",
+   "Czy jedzenie żywności organicznej jest warte swojej ceny?"
+  ],
+  [
+   "uboczny",
+   "To lekarstwo nie ma szkodliwych skutków ubocznych."
+  ],
+  [
+   "że",
+   "Wiedziałeś, że to pytanie?"
+  ],
+  [
+   "ten",
+   "Państwo to ja."
+  ],
+  [
+   "a",
+   "A tak rzeczywiście."
+  ],
+  [
+   "dla",
+   "Jak długo wybierasz jedzenie dla siebie?"
+  ],
+  [
+   "dobrze",
+   "Dobrze mi tu być."
+  ],
+  [
+   "wszystek",
+   "Nawet gdyby wszyscy inni, ja i tak nie."
+  ],
+  [
+   "nowy",
+   "Powinienem kupić nowy."
+  ],
+  [
+   "jako",
+   "Kura zniosła jako dziś rano."
+  ],
+  [
+   "około",
+   "Musimy pojechać troszkę na około."
+  ],
+  [
+   "śmierć",
+   "Dan nie zasłużył na śmierć."
+  ],
+  [
+   "prowadzić",
+   "Oczywiście, potrafię prowadzić samochód bardzo dobrze."
+  ],
+  [
+   "zabić",
+   "Nie wiadomo dlaczego się zabiła."
+  ],
+  [
+   "jeżeli",
+   "Jeżeli taki sposób ci podano, to prawdopodobnie on właściwy."
+  ],
+  [
+   "punkt",
+   "Moja siostra szaleje na punkcie tenisa."
+  ],
+  [
+   "wynik",
+   "Przegraliśmy wynikiem trzy do jednego."
+  ],
+  [
+   "raczej",
+   "Musisz to wszystko raczej sam wykonać."
+  ],
+  [
+   "stąd",
+   "Mógłbym się stąd przejść."
+  ],
+  [
+   "przyjąć",
+   "Spotkaliśmy się na przyjęciu."
+  ],
+  [
+   "pies",
+   "To mój pies."
+  ],
+  [
+   "zdanie",
+   "Cóż za zdanie!"
+  ],
+  [
+   "rodzaj",
+   "Oto pewien rodzaj jedzenia."
+  ],
+  [
+   "inaczej",
+   "Pospiesz się, inaczej spóźnisz się na pociąg."
+  ],
+  [
+   "robota",
+   "Nie mam teraz nic do roboty."
+  ],
+  [
+   "badanie",
+   "Nie będzie badań."
+  ],
+  [
+   "siedzieć",
+   "Nie możemy tu tak siedzieć."
+  ],
+  [
+   "ciąg",
+   "W dalszym ciągu mi się to nie podoba."
+  ],
+  [
+   "ciężko",
+   "Pracujesz zbyt ciężko. Odpuść sobie na jakiś czas."
+  ],
+  [
+   "pół",
+   "Kupiłam ten rower za pół darmo."
+  ],
+  [
+   "wolność",
+   "Oczyść mnie! Uwolnij mnie! Daj mi wolność!"
+  ],
+  [
+   "nauka",
+   "Jedna sprawa to nauka, a druga zdrowy rozsądek."
+  ],
+  [
+   "stopień",
+   "Pewnego dnia było trzydzieści stopni."
+  ],
+  [
+   "materiał",
+   "Już widzieliśmy ten materiał."
+  ],
+  [
+   "trafić",
+   "Niech to szlag jasny trafi!"
+  ],
+  [
+   "dawny",
+   "Od dawna nie czułam się tak dobrze."
+  ],
+  [
+   "dawny",
+   "Mieszkam tu od dawna."
+  ],
+  [
+   "dzieciak",
+   "Nie podoba mi się ten gruby dzieciak, który zjadł ci obiad."
+  ],
+  [
+   "czysty",
+   "To nie rasizm, to czysta prawda."
+  ],
+  [
+   "daleki",
+   "Każdy dzień ma ciąg dalszy."
+  ],
+  [
+   "daleki",
+   "Odsunęła się na dalszy plan."
+  ],
+  [
+   "dzwonić",
+   "Czy dzwon już dzwonił?"
+  ],
+  [
+   "sieć",
+   "Sami miał romans w sieci."
+  ],
+  [
+   "bronić",
+   "Najlepszą bronią przeciw wrogowi jest inny wróg."
+  ],
+  [
+   "rana",
+   "To nie może czekać do rana."
+  ],
+  [
+   "rana",
+   "Dlaczego nie zaczekacie tu do rana?"
+  ],
+  [
+   "niczym",
+   "Ale ona nie myślała o niczym, tylko płakała."
+  ],
+  [
+   "tytuł",
+   "Jaki jest tytuł tego filmu?"
+  ],
+  [
+   "zgoda",
+   "To nie była zgoda."
+  ],
+  [
+   "komputer",
+   "Tak, komputer jest szkodliwy."
+  ],
+  [
+   "wiedza",
+   "Kto takiego mógłby mieć o tym tylu wiedzy?"
+  ],
+  [
+   "opieka",
+   "Nie jesteś potrzebny do opieki nade mną."
+  ],
+  [
+   "domowy",
+   "Wreszcie skończyłem zadanie domowe, mogę iść spać."
+  ],
+  [
+   "kara",
+   "Powinniśmy znieść karę śmierci."
+  ],
+  [
+   "wola",
+   "Od ryb wolę mięso."
+  ],
+  [
+   "wola",
+   "Powinienem się uczyć angielskiego, ale wolę oglądać film."
+  ],
+  [
+   "wojskowy",
+   "Birma rządzona jest przez wojskową juntę."
+  ],
+  [
+   "opuścić",
+   "Chyba zima nas już nie opuści."
+  ],
+  [
+   "tył",
+   "Krok do tyłu, proszę."
+  ],
+  [
+   "smutny",
+   "Czemu miałbyś być taki smutny?"
+  ],
+  [
+   "naturalny",
+   "Praktykował naturalny styl obrony."
+  ],
+  [
+   "środowisko",
+   "Zniszczenie środowiska jest duże."
+  ],
+  [
+   "tona",
+   "Trzeba ci wiedzieć, że tonę po uszy w długach."
+  ],
+  [
+   "przeciw",
+   "Jesteś za czy przeciw aborcji?"
+  ],
+  [
+   "osiągnąć",
+   "Dość trudno mi było osiągnąć zrozumienie."
+  ],
+  [
+   "współpraca",
+   "Chciałbym ci podziękować za współpracę."
+  ],
+  [
+   "ruszyć",
+   "Pomógł mi się ruszyć."
+  ],
+  [
+   "zwać",
+   "Ta herbata zwana jest zieloną herbatą."
+  ],
+  [
+   "wewnętrzny",
+   "Są coraz większe podejrzenia, że to wewnętrzna robota."
+  ],
+  [
+   "otwarty",
+   "Kto zostawił otwarte drzwi?"
+  ],
+  [
+   "kierować",
+   "Nie wyjeżdżaj z Polski bez powiadamiania ambasady kraju, do którego się kierujesz."
+  ],
+  [
+   "niebieski",
+   "Toma ulubiony kolor to niebieski."
+  ],
+  [
+   "student",
+   "Student wykonał rozsądny wniosek."
+  ],
+  [
+   "rosnąć",
+   "Ciała rosną wolno a umierają szybko."
+  ],
+  [
+   "obóz",
+   "Poszedłeś z powrotem do obozu zostawiając mnie samego w dziewiczym lesie."
+  ],
+  [
+   "śmieć",
+   "Dlaczego zawsze się śmiejesz?"
+  ],
+  [
+   "usługa",
+   "Utrzymanie domu jest częścią twojej pracy jako dostawcy usług opieki społecznej."
+  ],
+  [
+   "przyszły",
+   "Nareszcie szczury przyszły do rzeki."
+  ],
+  [
+   "kamień",
+   "Proszę przesuń ten kamień stąd tam."
+  ],
+  [
+   "skutek",
+   "To lekarstwo nie ma szkodliwych skutków ubocznych."
+  ],
+  [
+   "budowa",
+   "Ta droga jest ciągle w budowie."
+  ],
+  [
+   "dyskusja",
+   "To pytanie jest poddane pod dyskusję."
+  ],
+  [
+   "dany",
+   "On nigdy nie złamałby danego słowa."
+  ],
+  [
+   "włączyć",
+   "Mój komputer już się nie włączy."
+  ],
+  [
+   "masa",
+   "Masa ludzi nie potrafi wznieść się ponad poziom własnego brzucha."
+  ],
+  [
+   "lipiec",
+   "Szczęśliwego czwartego lipca!"
+  ],
+  [
+   "gej",
+   "Nie jestem gejem, ale mój chłopak jest."
+  ],
+  [
+   "męski",
+   "Z pewnością wie, jak to znieść po męsku."
+  ],
+  [
+   "popełnić",
+   "Ktoś musiał tu popełnić jakiś błąd."
+  ],
+  [
+   "zebrać",
+   "Musiał przemawiać do zebranych."
+  ],
+  [
+   "sport",
+   "Piłka nożna to nie sport dla dziewczyn."
+  ],
+  [
+   "stanąć",
+   "Wiedziałem, że to się stanie."
+  ],
+  [
+   "stanąć",
+   "Nigdy się nie spodziewałem, że to się stanie."
+  ],
+  [
+   "były",
+   "Czy drzwi były otwarte?"
+  ],
+  [
+   "były",
+   "Wczoraj były moje urodziny."
+  ],
+  [
+   "ej",
+   "Ej! To nie fair."
+  ],
+  [
+   "bywać",
+   "Ten towar nie bywa wszędzie."
+  ],
+  [
+   "taniec",
+   "Taniec z aniołami."
+  ],
+  [
+   "piąty",
+   "Przyjechaliśmy na stację o piątej."
+  ],
+  [
+   "symbol",
+   "Jej zwłoki zidentyfikowano dzięki zegarkowi z symbolem pająka."
+  ],
+  [
+   "królowa",
+   "Boże, gol królową!"
+  ],
+  [
+   "sportowy",
+   "Kupiłem czerwony, sportowy samochód."
+  ],
+  [
+   "padać",
+   "Jak tylko tam dotarliśmy, zaczęło padać."
+  ],
+  [
+   "wyzwanie",
+   "Zagrajmy w prawda albo wyzwanie."
+  ],
+  [
+   "pokolenie",
+   "Mądrość jest skarbem dla dziesiątek pokoleń."
+  ],
+  [
+   "przeciwny",
+   "Dołączył do przeciwnej drużyny."
+  ],
+  [
+   "grzech",
+   "A czy będąc homoseksualistą, popełniałbym grzech?"
+  ],
+  [
+   "laboratorium",
+   "Sami musi iść do laboratorium."
+  ],
+  [
+   "zasięg",
+   "Sekretarka zawsze jest w zasięgu głosu."
+  ],
+  [
+   "wzór",
+   "Musi być jakiś wzór."
+  ],
+  [
+   "papież",
+   "Raper bez błyskotek jest jak papież bez krucyfiksu."
+  ],
+  [
+   "zarobić",
+   "Chcesz dzisiaj zarobić?"
+  ],
+  [
+   "ledwo",
+   "Wydaje mi się, że byłeś tu ledwo wczoraj."
+  ],
+  [
+   "wesoły",
+   "Mieliśmy wesoły dzień na plaży."
+  ],
+  [
+   "żartować",
+   "Czy wyglądam jakbym żartował?"
+  ],
+  [
+   "opis",
+   "Ta powieść to nader romantyczny opis cygańskich włóczęgów."
+  ],
+  [
+   "kurczak",
+   "Mój kurczak jest tutaj."
+  ],
+  [
+   "uwolnić",
+   "Medyczne innowacje są najlepszą drogą, by nas uwolnić od udręk."
+  ],
+  [
+   "budzić",
+   "Kobieta budzi się."
+  ],
+  [
+   "świnia",
+   "Nawet świnie potrafią wspiąć się na drzewo, gdy je pochwalić."
+  ],
+  [
+   "dzieciństwo",
+   "Ta piosenka przypomina mi dzieciństwo."
+  ],
+  [
+   "lider",
+   "Kent jest urodzonym liderem."
+  ],
+  [
+   "bitwa",
+   "To była matka wszystkich bitew."
+  ],
+  [
+   "tymczasem",
+   "Tymczasem mam ochotę na lody."
+  ],
+  [
+   "mina",
+   "Minie trochę czasu zanim wróci do zdrowia."
+  ],
+  [
+   "użytkownik",
+   "Chciałbym się nauczyć mówić bardziej jak rodzimy użytkownik."
+  ],
+  [
+   "użytkownik",
+   "Chciałbym mówić po angielsku jak rodzimy użytkownik."
+  ],
+  [
+   "tor",
+   "Wróćmy na właściwy tor."
+  ],
+  [
+   "gabinet",
+   "Utworzyli nowy gabinet."
+  ],
+  [
+   "nowoczesny",
+   "Nowoczesna greka to uroczy język."
+  ],
+  [
+   "nisko",
+   "Mieszkają piętro niżej."
+  ],
+  [
+   "ekran",
+   "Kliknij mnie aby schować ten ekran."
+  ],
+  [
+   "warta",
+   "Moja praca jest warta wiele więcej."
+  ],
+  [
+   "warta",
+   "Ta sprawa nie jest warta rozważania."
+  ],
+  [
+   "rodzić",
+   "By się porozumiewać, wcale nie trzeba mówić jak rodzimy użytkownik."
+  ],
+  [
+   "późny",
+   "Wczoraj siedział do późna."
+  ],
+  [
+   "uderzenie",
+   "Nie winiłem cię za to, że go uderzyłeś."
+  ],
+  [
+   "zapas",
+   "Zapasy pomocy zostały ściągnięte w rejon klęski."
+  ],
+  [
+   "płeć",
+   "Bądź ostrożny interpretując tłumaczenia pośrednie. Płeć mogła ulec zmianie."
+  ],
+  [
+   "zapamiętać",
+   "Myślę, że byś to zapamiętał."
+  ],
+  [
+   "ogólnie",
+   "Ogólnie rzecz biorąc, kobiety żyją dłużej niż mężczyźni."
+  ],
+  [
+   "budżet",
+   "Budżet filmu był bardzo ograniczony."
+  ],
+  [
+   "plotka",
+   "Plotka już się rozeszła."
+  ],
+  [
+   "cierpienie",
+   "Wielu uważa, iż eutanazja jest sposobem na ulżenie pacjentowi cierpień."
+  ],
+  [
+   "obrońca",
+   "Sami jest największym obrońcą swojej córki."
+  ],
+  [
+   "zbadać",
+   "Chciałabym, by zbadała mnie kobieta."
+  ],
+  [
+   "złość",
+   "To mnie okropnie złości."
+  ],
+  [
+   "prać",
+   "Pogoda jest na tyle dobra, że chyba powieszę pranie do wyschnięcia."
+  ],
+  [
+   "standard",
+   "Sposób, w jaki ubierają się turyści, uchybia miejscowym standardom przyzwoitości."
+  ],
+  [
+   "zamówić",
+   "Nie wiem, co zamówić."
+  ],
+  [
+   "spór",
+   "Masz spory problem."
+  ],
+  [
+   "wstać",
+   "Powinieneś wstać wcześnie."
+  ],
+  [
+   "osobowość",
+   "Nie ma lekarstwa na osobowość."
+  ],
+  [
+   "kopalnia",
+   "Nie jestem kopalnią pieniędzy."
+  ],
+  [
+   "życiowy",
+   "Nauka nie jest w stanie rozwiązać wszystkich życiowych problemów."
+  ],
+  [
+   "wykazać",
+   "Badania naukowe wykazały, że tak nie jest."
+  ],
+  [
+   "taksówka",
+   "Wziąłem taksówkę, żeby złapać pociąg."
+  ],
+  [
+   "gniew",
+   "Spowodowałem jej gniew."
+  ],
+  [
+   "sprzeciw",
+   "Lecz gdy faraon ogłosił swój zamiar wyjścia do ogrodu, nie wyrazili sprzeciwu."
+  ],
+  [
+   "zawrzeć",
+   "Czarnobrody zawarł sojusz z piratami."
+  ],
+  [
+   "ludność",
+   "Małe grupy ludności obawiają się imigracji."
+  ],
+  [
+   "nerw",
+   "Kiedy samolot zaczął drżeć, pasażerowie zaczęli robić się nerwowi."
+  ],
+  [
+   "górny",
+   "Nie sięgam niczego z górnej półki."
+  ],
+  [
+   "sięgać",
+   "Jak daleko sięga ta kolejka?"
+  ],
+  [
+   "sprzedawca",
+   "On stanowi wzorcowy model agresywnego sprzedawcy."
+  ],
+  [
+   "ginąć",
+   "Mnóstwo ludzi ginie co roku w wypadkach samochodowych."
+  ],
+  [
+   "wózek",
+   "Wygląda na to, że jedziemy na tym samym wózku."
+  ],
+  [
+   "popełniać",
+   "Bał się popełniać błędy."
+  ],
+  [
+   "potencjalny",
+   "Edukacja celuje w rozwój potencjalnych umiejętności."
+  ],
+  [
+   "śmiertelny",
+   "Ostatnia rana okazała się śmiertelną."
+  ],
+  [
+   "kodeks",
+   "Musisz przestrzegać kodeksu szkoły."
+  ],
+  [
+   "powszechny",
+   "Popularne ruchy wyrażają powszechne niezadowolenie."
+  ],
+  [
+   "sól",
+   "Gdzie jest sól, jest życie."
+  ],
+  [
+   "korona",
+   "Filiżanka kawy kosztuje jedną koronę."
+  ],
+  [
+   "trup",
+   "Jest zalany w trupa."
+  ],
+  [
+   "srebrny",
+   "Urodziła się ze srebrną łyżką w jej ustach."
+  ],
+  [
+   "porównać",
+   "Porównanie było trudne."
+  ],
+  [
+   "pocałunek",
+   "Mój ulubiony obraz to \"Pocałunek\"."
+  ],
+  [
+   "skończony",
+   "Oczywiście, teoria ta jest prawdziwa dla zbiorów skończonych."
+  ],
+  [
+   "akceptować",
+   "Sami zaczął to akceptować."
+  ],
+  [
+   "wygrana",
+   "Dał za wygraną."
+  ],
+  [
+   "poprowadzić",
+   "Mogę poprowadzić, jeśli jesteś zmęczony."
+  ],
+  [
+   "wyposażyć",
+   "To ma na celu wyposażenie fabryk i domów w zaawansowane roboty."
+  ],
+  [
+   "poddawać",
+   "Nie poddawajcie się!"
+  ],
+  [
+   "chwała",
+   "Chwała podąża za cnotą, jakby była jej cieniem."
+  ],
+  [
+   "otoczyć",
+   "Rozpoczął swoją historię otoczony swoimi dziećmi."
+  ],
+  [
+   "postrzegać",
+   "Chrześcijanie postrzegają naturę ludzką jako z natury grzeszną."
+  ],
+  [
+   "zgodny",
+   "Czy samolot jest zgodny z rozkładem?"
+  ],
+  [
+   "uszkodzić",
+   "Czy ten długi komin jest uszkodzony?"
+  ],
+  [
+   "krytyka",
+   "Gdybyś miał to uczynić, wystawisz się na surową krytykę."
+  ],
+  [
+   "krytyka",
+   "Zbyli jego krytykę jako objaw hipokryzji."
+  ],
+  [
+   "znaczny",
+   "Wysokie czoło znamionuje znaczną inteligencję."
+  ],
+  [
+   "wartościowy",
+   "Ona nosi wartościowy pierścionek."
+  ],
+  [
+   "dzienny",
+   "Senator nadal zajmował swoje stanowisko, gdy te wydarzenia ujrzały światło dzienne."
+  ],
+  [
+   "upaść",
+   "Mar zraniła się w łokieć, kiedy upadła."
+  ],
+  [
+   "atomowy",
+   "Naukowcy pracują nad atomową energią."
+  ],
+  [
+   "lis",
+   "Szybki, brązowy lis skacze prosto przez leniwego psa."
+  ],
+  [
+   "rozsądek",
+   "Zdrowy rozsądek nie jest dość mało powszechny."
+  ],
+  [
+   "kojarzyć",
+   "Einsteina kojarzymy z teorią względności."
+  ],
+  [
+   "kulka",
+   "Lecisz sobie w kulki czy co?"
+  ],
+  [
+   "piechota",
+   "Jak długo będzie piechotą?"
+  ],
+  [
+   "dramat",
+   "Studiuję angielski dramat."
+  ],
+  [
+   "tłumacz",
+   "Nie tłumacz angielskiego na japoński dosłownie."
+  ],
+  [
+   "elektroniczny",
+   "Ilość dymu, jaka wydobywa się z elektronicznego papierosa, wcale nie jest szkodliwa."
+  ],
+  [
+   "zepsuć",
+   "Emily zepsuła swój telefon."
+  ],
+  [
+   "naruszyć",
+   "Sami naruszył warunki umowy serwisowej."
+  ],
+  [
+   "miód",
+   "Pszczoły zapewniają nam miód."
+  ],
+  [
+   "przemówienie",
+   "Bała się dać przemówienie."
+  ],
+  [
+   "zachęcać",
+   "Zachęcamy naszych mieszkańców do interakcji z innymi."
+  ],
+  [
+   "róża",
+   "Jest tak piękne jak róża."
+  ],
+  [
+   "skup",
+   "Skup się na drodze."
+  ],
+  [
+   "zakładnik",
+   "Zabili jeszcze troje zakładników."
+  ],
+  [
+   "ewolucja",
+   "Czy naród stanowi ostatnie stadium ewolucji społeczeństwa ludzkiego?"
+  ],
+  [
+   "motywacja",
+   "Tomowi brakuje motywacji."
+  ],
+  [
+   "zorientować",
+   "Jest dobrze zorientowana w hiszpańskiej literaturze."
+  ],
+  [
+   "echo",
+   "Nie oczekuj niczego szczególnego od echa."
+  ],
+  [
+   "zapowiadać",
+   "Mówiłem ci, że zapowiadało się, że będzie ciekawe."
+  ],
+  [
+   "pobierać",
+   "Pobieramy się wiosną."
+  ],
+  [
+   "pobierać",
+   "Pobieramy się w październiku."
+  ],
+  [
+   "reforma",
+   "Wychowanie dzieci jest w interesie całej społeczności."
+  ],
+  [
+   "naciskać",
+   "To bezowocne naciskać go dalej."
+  ],
+  [
+   "rzymski",
+   "Zapis arabski został zastąpiony alfabetem rzymskim."
+  ],
+  [
+   "podwyżka",
+   "Ten rodzaj osoby prawie nigdy nie prosi o podwyżkę."
+  ],
+  [
+   "zwariować",
+   "Nie daj się zwariować na punkcie pieniędzy, włosów i ubrań."
+  ],
+  [
+   "zagrozić",
+   "Życie chorego człowieka jest zagrożone."
+  ],
+  [
+   "prawidłowo",
+   "Małpa, prawidłowo trenowana, będzie zdolna do robienia wielu sztuczek."
+  ],
+  [
+   "zaprzeczyć",
+   "Nie można temu zaprzeczyć."
+  ],
+  [
+   "zachodzić",
+   "Słońce zachodzi za horyzont."
+  ],
+  [
+   "komunista",
+   "Wszyscy zostaliśmy komunistami."
+  ],
+  [
+   "osiągać",
+   "Przy dobrym układzie, za rok powinniśmy już osiągać zyski."
+  ],
+  [
+   "docenić",
+   "Nie docenisz jego dobrych stron tylko na podstawie jego wyglądu."
+  ],
+  [
+   "zadowolić",
+   "Wyglądali na zadowolonych."
+  ],
+  [
+   "sucho",
+   "Tym razem nie ujdzie nam to na sucho."
+  ],
+  [
+   "aleja",
+   "Aleja jest pełna sygnalizacji świetlnej."
+  ],
+  [
+   "uczciwie",
+   "Uczciwie będzie powiedzieć, że obie piłki są równej wagi."
+  ],
+  [
+   "ring",
+   "Byk uciekł z ringu."
+  ],
+  [
+   "trupa",
+   "Był zalany w trupa."
+  ],
+  [
+   "doznać",
+   "Amerykańska gospodarka doznała recesji."
+  ],
+  [
+   "cyrk",
+   "Lubisz bułgarski cyrk?"
+  ],
+  [
+   "tom",
+   "Czy tom wie, że ty wiesz?"
+  ],
+  [
+   "tom",
+   "Jestem pewien, że tom będzie zły."
+  ],
+  [
+   "łódka",
+   "Wynajęliśmy łódkę na godziny."
+  ],
+  [
+   "średnia",
+   "Uwielbiałam szkołę średnią."
+  ],
+  [
+   "niechęć",
+   "Ich niechęć do kobiet jest obrzydliwa."
+  ],
+  [
+   "pościg",
+   "Tak jak wszystkie psy, jak zobaczy zająca, to ruszy za nim w pościg."
+  ],
+  [
+   "błękitny",
+   "Niebo było błękitne."
+  ],
+  [
+   "gniazdo",
+   "Wiosną ptaki wiją gniazdo, by wysiadywać młode."
+  ],
+  [
+   "wliczać",
+   "Zdecydowałem że opublikuję wszystkie moje zdania po angielsku, wliczając też to."
+  ],
+  [
+   "dzieje",
+   "To nie zawsze się dzieje."
+  ],
+  [
+   "dzieje",
+   "Od kiedy tak się dzieje?"
+  ],
+  [
+   "czek",
+   "Poproszę o czek."
+  ],
+  [
+   "nuta",
+   "Kłamie jak z nut."
+  ],
+  [
+   "horyzont",
+   "Widzę statek na horyzoncie."
+  ],
+  [
+   "babeczka",
+   "Cukier puder to najważniejszy składnik dobrej babeczki."
+  ],
+  [
+   "angażować",
+   "Nie uwzględniaj mnie w tym planie. Nie chcę się angażować."
+  ],
+  [
+   "zapić",
+   "Zapisz swoje uwagi na kartce papieru."
+  ],
+  [
+   "zapić",
+   "Kiedy wciśniesz\"zapisz\", rozpocznie się pobieranie."
+  ],
+  [
+   "zaglądać",
+   "Nie zaglądaj do mojego pokoju."
+  ],
+  [
+   "dotrzymać",
+   "Spróbuj dotrzymać mi kroku."
+  ],
+  [
+   "pióro",
+   "Mam kilka piór."
+  ],
+  [
+   "zagranica",
+   "Wczoraj wrócił z zagranicy."
+  ],
+  [
+   "ideał",
+   "Brakuje im ideału, powodu, by wstawać wcześnie rano."
+  ],
+  [
+   "reaktor",
+   "Jeśli spada chłop z traktora, to był wybuch reaktora."
+  ],
+  [
+   "zachowywać",
+   "Sami zaczęła zachowywać się dziwnie."
+  ],
+  [
+   "agencja",
+   "Moja ciocia pracuje w agencji reklamowej."
+  ],
+  [
+   "okoliczność",
+   "Jestem przygotowany na każdą okoliczność."
+  ],
+  [
+   "pobić",
+   "Nasza drużyna pobiła rywali w finale."
+  ],
+  [
+   "republika",
+   "Francja jest republiką."
+  ],
+  [
+   "świętować",
+   "Dziś wieczorem będziemy świętować urodziny brata."
+  ],
+  [
+   "generalny",
+   "Jakie jest twoje generalne wrażenie po koncercie?"
+  ],
+  [
+   "przekonanie",
+   "Co zmieniło twoje przekonanie o tej pracy?"
+  ],
+  [
+   "korona",
+   "Król miał na głowie złotą koronę."
+  ],
+  [
+   "masowy",
+   "W sobotę odbył się masowy bieg przez miasto."
+  ],
+  [
+   "akademia",
+   "Dziś w szkole jest akademia z okazji święta."
+  ],
+  [
+   "filozofia",
+   "Zadaniem filozofii jest odzyskanie całości przesłoniętej przez wybiórczość."
+  ],
+  [
+   "pozdrawiać",
+   "Zawsze pozdrawiam sąsiadów rano."
+  ],
+  [
+   "dywan",
+   "Ona mi da jeszcze jeden dywan."
+  ],
+  [
+   "przebić",
+   "Gwóźdź przebił oponę i musieliśmy zmienić koło."
+  ],
+  [
+   "hit",
+   "Ta piosenka to wielki hit tego lata."
+  ],
+  [
+   "ekonomia",
+   "Jak się teraz rozwija ekonomia w waszym kraju?"
+  ],
+  [
+   "łączność",
+   "W tunelu nie mam łączności z nikim."
+  ],
+  [
+   "fort",
+   "Dzieci zbudowały fort z koców i poduszek."
+  ],
+  [
+   "bractwo",
+   "Dawne bractwo spotyka się raz w roku."
+  ],
+  [
+   "obchód",
+   "Lekarz zaczyna poranny obchód o ósmej."
+  ],
+  [
+   "kadencja",
+   "Ta piosenka kończy się ładną kadencją na pianinie."
+  ],
+  [
+   "prześladować",
+   "Ta piosenka prześladuje mnie od rana."
+  ],
+  [
+   "narażać",
+   "Nie narażaj się na deszcz bez kurtki."
+  ],
+  [
+   "gol",
+   "Nasz napastnik strzelił gola w ostatniej minucie."
+  ],
+  [
+   "pozostałość",
+   "Wylej pozostałość kawy z filiżanki."
+  ],
+  [
+   "prawniczy",
+   "Potrzebuję porady prawniczej w sprawie umowy."
+  ],
+  [
+   "korpus",
+   "Korpus samolotu jest zrobiony z lekkiego metalu."
+  ],
+  [
+   "umieszczać",
+   "Zawsze umieszczam klucze w tej szufladzie."
+  ],
+  [
+   "ujść",
+   "Zając zdołał ujść przed lisem."
+  ],
+  [
+   "dramatyczny",
+   "Nie bądź taki dramatyczny, to tylko mały błąd."
+  ],
+  [
+   "ninja",
+   "Mój synek przebrał się za ninję."
+  ],
+  [
+   "gwardia",
+   "Gwardia przed pałacem zmienia się co godzinę."
+  ],
+  [
+   "gwardia",
+   "Turyści robili zdjęcia gwardii przed pałacem."
+  ],
+  [
+   "młot",
+   "Tata uderzył młotem w gwóźdź."
+  ],
+  [
+   "zlikwidować",
+   "Firma zlikwidowała to małe biuro."
+  ],
+  [
+   "twórczość",
+   "Dzieci lubią zajęcia, które rozwijają ich twórczość."
+  ],
+  [
+   "obraza",
+   "Nie traktuj tego jak obrazy, to był tylko żart."
+  ],
+  [
+   "ogromnie",
+   "Czy ogromnie ci się podobał ten film?"
+  ],
+  [
+   "kanclerz",
+   "Kanclerz uniwersytetu wręczył studentom dyplomy."
+  ]
+ ],
+ "fix": {
+  "Jak śmiesz mówić tak do mnie mówić.": {
+   "text": "Jak śmiesz tak do mnie mówić?",
+   "translation": "How dare you talk to me like that?"
+  },
+  "Chciałbym się upewnić co do tego.": {
+   "translation": "I'd like to make sure about this."
+  },
+  "Nie ma o co się martwić.": {
+   "translation": "There's nothing to worry about."
+  },
+  "Co ty na to?": {
+   "translation": "What do you think about that?"
+  },
+  "O co zapytałem?": {
+   "translation": "What did I ask about?"
+  },
+  "Czy skończyłeś to co robiłeś?": {
+   "text": "Czy skończyłeś to, co robiłeś?"
+  },
+  "Nie ja, tylko ty!": {
+   "translation": "It's not me, it's you!"
+  },
+  "Naprawdę chcesz kupić ten stary samochód?": {
+   "translation": "Do you really want to buy that old car?"
+  },
+  "Czy my się już nie spotkaliśmy wcześniej?": {
+   "translation": "Haven't we met before?"
+  },
+  "Próbowałem sobie coś przypomnieć, ale nie mogłem.": {
+   "translation": "I was trying to remember something, but I couldn't."
+  },
+  "Bardzo się zmieniłeś.": {
+   "translation": "You've changed a lot."
+  },
+  "Mógłbyś teraz tam iść.": {
+   "translation": "You could go there now."
+  },
+  "Zrobiłem już wszystko, co miałem zrobić.": {
+   "translation": "I've already done everything I was supposed to do."
+  },
+  "Nic nie widziałem, nic nie słyszałem.": {
+   "translation": "I didn't see anything, I didn't hear anything."
+  },
+  "Przyjdź też jutro!": {
+   "translation": "Come tomorrow too!"
+  },
+  "Ktoś wszystko zepsuł.": {
+   "translation": "Someone messed everything up."
+  },
+  "No co ty!": {
+   "translation": "Come on! / No way!"
+  },
+  "Straciłem chęć do życia.": {
+   "translation": "I've lost the will to live."
+  },
+  "Wyszedł wcześnie żeby się nie spóźnić.": {
+   "text": "Wyszedł wcześnie, żeby się nie spóźnić."
+  },
+  "To jest film który każdy powinien obejrzeć.": {
+   "text": "To jest film, który każdy powinien obejrzeć."
+  },
+  "Czy twój zegarek dobrze chodzi?": {
+   "translation": "Is your watch keeping good time?"
+  },
+  "Proszę odpowiedz mi na to pytanie.": {
+   "text": "Proszę, odpowiedz mi na to pytanie."
+  },
+  "To bardzo prosta sprawa.": {
+   "translation": "It's a very simple matter."
+  },
+  "Jak to się stało, że tam byłeś?": {
+   "translation": "How did it happen that you were there?"
+  },
+  "To nie nasz problem.": {
+   "translation": "It's not our problem."
+  },
+  "Znałem już ją, kiedy byłem mały.": {
+   "translation": "I already knew her when I was little."
+  },
+  "Ile dostałeś za swój stary samochód?": {
+   "translation": "How much did you get for your old car?"
+  },
+  "Nie mówiłem, że można jeść.": {
+   "translation": "I didn't say that it was OK to eat."
+  },
+  "Nikt nie powinien mieć, żeby to robić.": {
+   "text": "Nikt nie powinien mieć prawa tego robić."
+  },
+  "Rozumiem jak rozwiązać ten problem.": {
+   "text": "Rozumiem, jak rozwiązać ten problem."
+  },
+  "Zrobiłem tak nie dlatego że chciałem, ale dlatego że musiałem.": {
+   "text": "Zrobiłem tak nie dlatego, że chciałem, ale dlatego, że musiałem."
+  },
+  "Wciąż bardzo lubię ten rower.": {
+   "translation": "I still like this bike a lot."
+  },
+  "Musisz przestrzegać prawa.": {
+   "translation": "You have to abide by the law."
+  },
+  "Samochód potrzebuje naprawy.": {
+   "translation": "The car needs repair."
+  },
+  "Mogę przejść na angielski lub niemiecki.": {
+   "translation": "I can switch to English or German."
+  },
+  "Chciałbym czuć się ważny.": {
+   "translation": "I would like to feel important."
+  },
+  "To oczywiście twój błąd.": {
+   "translation": "That's obviously your mistake."
+  },
+  "A niech to!": {
+   "translation": "Damn it!"
+  },
+  "Niech nikt mi nie przeszkadza!": {
+   "translation": "Let no one disturb me!"
+  },
+  "Gdzie znalazłeś to zdjęcie?": {
+   "translation": "Where did you find this photo?"
+  },
+  "Nie miałem dziś czasu aby wziąć prysznic.": {
+   "text": "Nie miałem dziś czasu, aby wziąć prysznic."
+  },
+  "Chciałbym mieć powód żeby nie iść.": {
+   "text": "Chciałbym mieć powód, żeby nie iść."
+  },
+  "To ten człowiek na którego czekałem przez tydzień.": {
+   "text": "To ten człowiek, na którego czekałem przez tydzień.",
+   "translation": "That's the man I waited a week for."
+  },
+  "Pozwól mi na to rzucić okiem.": {
+   "translation": "Let me take a look at it."
+  },
+  "Widziałem to na własne oczy.": {
+   "translation": "I saw it with my own eyes."
+  },
+  "Nie chciałbym wyjść zbyt szybko.": {
+   "translation": "I wouldn't want to leave too soon."
+  },
+  "Dlaczego to zrobiłeś mój przyjacielu?": {
+   "text": "Dlaczego to zrobiłeś, mój przyjacielu?"
+  },
+  "Przepraszam, zgubiłem się, mógłbyś mi pomóc?": {
+   "translation": "Excuse me, I'm lost. Could you help me?"
+  },
+  "Mało za to zapłaciłem.": {
+   "translation": "I paid little for it."
+  },
+  "Nie potrafię ani pisać ani czytać.": {
+   "text": "Nie potrafię ani pisać, ani czytać.",
+   "translation": "I can neither write nor read."
+  },
+  "Dzisiaj przeczytałem wiecej niż wczoraj.": {
+   "text": "Dzisiaj przeczytałem więcej niż wczoraj."
+  },
+  "Wyjdźmy stąd wszyscy.": {
+   "translation": "Let's all get out of here."
+  },
+  "Czy dam radę?": {
+   "translation": "Will I manage?"
+  },
+  "Tyle wiem na pewno.": {
+   "translation": "I know that much for certain."
+  },
+  "Jak długo planujesz to zostać ?": {
+   "text": "Jak długo planujesz tu zostać?"
+  },
+  "Padnij na ziemię!": {
+   "translation": "Get down on the ground!"
+  },
+  "Byłem chory, gdyby nie to, przyszedłbym na spotkanie.": {
+   "text": "Byłem chory; gdyby nie to, przyszedłbym na spotkanie.",
+   "translation": "I was ill; if it weren't for that, I would have come to the meeting."
+  },
+  "Powinieneś słuchać uważnie.": {
+   "translation": "You should listen carefully."
+  },
+  "Można to zrobić zaraz?": {
+   "translation": "Can it be done right away?"
+  },
+  "Czułem się, jakbym miał zaraz umrzeć.": {
+   "translation": "I felt like I was about to die."
+  },
+  "Sklep znajdziesz między bankiem a szkołą.": {
+   "translation": "You'll find the shop between the bank and the school."
+  },
+  "Firma chciała pieniędzy.": {
+   "translation": "The company wanted money."
+  },
+  "Nie mógł przestać się śmiać.": {
+   "translation": "He couldn't stop laughing."
+  },
+  "Przecież nie mówiłyśmy, że to zrobimy.": {
+   "translation": "But we never said we would do it."
+  },
+  "Przecież ci mówiłem,że koncert będzie nudny. Czemu mi nie wierzyłeś?": {
+   "text": "Przecież ci mówiłem, że koncert będzie nudny. Czemu mi nie wierzyłeś?"
+  },
+  "Przegapiłem mój przystanek. Jak daleko jest do następnego?": {
+   "translation": "I missed my stop. How far is it to the next one?"
+  },
+  "Jak chcesz, możesz używać mój samochód.": {
+   "text": "Jak chcesz, możesz używać mojego samochodu."
+  },
+  "Wahał się przez moment.": {
+   "translation": "He hesitated for a moment."
+  },
+  "Nie zapomnij, żeby do mnie napisać.": {
+   "text": "Nie zapomnij do mnie napisać."
+  },
+  "Cześć, jest tam ktoś ?": {
+   "text": "Cześć, jest tam ktoś?"
+  },
+  "Jutro może znowu powinniśmy porozmawiać.": {
+   "text": "Może powinniśmy jutro znowu porozmawiać."
+  },
+  "Zgubiłem zegarek, który dostałem od taty.": {
+   "translation": "I lost the watch my dad gave me."
+  },
+  "Czy już nie wystarczy?": {
+   "translation": "Isn't that enough already?"
+  },
+  "Skoro chcesz, żebym poszedł, pójdę.": {
+   "translation": "Since you want me to go, I'll go."
+  },
+  "Da się tamto okno otworzyć?": {
+   "translation": "Can that window be opened?"
+  },
+  "Nie zapomnij otworzyć swój spadochron!": {
+   "text": "Nie zapomnij otworzyć spadochronu!"
+  },
+  "Wczoraj miałem tylko cztery trafienia.": {
+   "translation": "Yesterday I only had four hits."
+  },
+  "Sądzę, że to prawda.": {
+   "translation": "I think it's true."
+  },
+  "To, co powiedział, to świetny pomysł.": {
+   "translation": "What he said is a great idea."
+  },
+  "Co powinienem zrobić jeśli spotkam niedźwiedzia?": {
+   "text": "Co powinienem zrobić, jeśli spotkam niedźwiedzia?"
+  },
+  "Powinieneś patrzeć uważnie.": {
+   "translation": "You should look carefully."
+  },
+  "Ta rozmowa nic nam nie da.": {
+   "translation": "This conversation won't get us anywhere."
+  },
+  "Przez myśl by mi to nie przeszło.": {
+   "translation": "That wouldn't even cross my mind."
+  },
+  "Jak możesz o to pytać?": {
+   "translation": "How can you ask that?"
+  },
+  "Chciałbym wziąć udział w tym projekcie.": {
+   "translation": "I would like to take part in this project."
+  },
+  "Na razie ten projekt nie jest jeszcze pewny.": {
+   "translation": "For now, the project is still not certain."
+  },
+  "Jak poznać, czy to prawdziwa miłość?": {
+   "translation": "How can you tell if it's true love?"
+  },
+  "Jeśli nie masz nic przeciwko, to ja też nie.": {
+   "translation": "If you don't mind, then neither do I."
+  },
+  "Widziałem, że ciągle spałeś kiedy wychodziłem do pracy.": {
+   "text": "Widziałem, że ciągle spałeś, kiedy wychodziłem do pracy."
+  },
+  "Mimo, że padało, to musiałem wyjść.": {
+   "text": "Mimo że padało, musiałem wyjść."
+  },
+  "Próbował pan sprawdzić poziom oleju?": {
+   "translation": "Did you try checking the oil level?"
+  },
+  "Cóż za wspaniały pomysł!": {
+   "translation": "What a wonderful idea!"
+  },
+  "Myślisz że jestem super?": {
+   "text": "Myślisz, że jestem super?"
+  },
+  "Szukałem tego parę godzin, ale nie mogłem znaleźć.": {
+   "translation": "I searched for it for a few hours, but I couldn't find it."
+  },
+  "Co z ciebie za typ!": {
+   "translation": "What a character you are!"
+  },
+  "Nie wiedzieli co zrobić najpierw.": {
+   "text": "Nie wiedzieli, co zrobić najpierw."
+  },
+  "Nie wolno biegać na terenie szkoły.": {
+   "translation": "Running is not allowed on the school grounds."
+  },
+  "Kto to stworzył.": {
+   "text": "Kto to stworzył?",
+   "translation": "Who created this?"
+  },
+  "Nie miałem pojęcia.": {
+   "translation": "I had no idea."
+  },
+  "Mimo, że byłem zmęczony, zrobiłem wszystko co w mojej mocy.": {
+   "text": "Mimo że byłem zmęczony, zrobiłem wszystko, co w mojej mocy.",
+   "translation": "Although I was tired, I did everything in my power."
+  },
+  "Jest pora spać.": {
+   "text": "Już pora spać.",
+   "translation": "It's time to sleep."
+  },
+  "Na moje urodziny chciałbym iść sztukę.": {
+   "text": "Na urodziny chciałbym pójść na sztukę.",
+   "translation": "For my birthday I'd like to go and see a play."
+  },
+  "To naprawdę pomaga.": {
+   "translation": "That really helps."
+  },
+  "Prawdopodobnie jutro będzie znowu padać.": {
+   "translation": "It will probably rain again tomorrow."
+  },
+  "Mógłbym wyłączyć światła?": {
+   "translation": "Could I turn off the lights?"
+  },
+  "Moja babcia odeszła spokojnie tego wieczora.": {
+   "translation": "My grandmother passed away peacefully that evening."
+  },
+  "Szkoda, że musiałeś wyjść.": {
+   "translation": "It's a shame you had to leave."
+  },
+  "Szkoda, że nie pokazałeś mi jak to zrobić.": {
+   "translation": "It's a pity you didn't show me how to do it."
+  },
+  "Nie możesz jeszcze odejść.": {
+   "translation": "You can't leave yet."
+  },
+  "Mało prawdopodobne, byśmy wydali nowy album przed zimą.": {
+   "translation": "It's very unlikely that we will release a new album before winter."
+  },
+  "Związała włosy gumką.": {
+   "translation": "She tied her hair back with a hair tie."
+  },
+  "Ten lekarz specjalizuje się w leczeniu chorób związanych z jedzeniem.": {
+   "translation": "That doctor specialises in treating food-related illnesses."
+  },
+  "Po co mi potrzebny francuski?": {
+   "translation": "What do I need French for?"
+  },
+  "Nie potrzebny mi samochód.": {
+   "text": "Nie jest mi potrzebny samochód."
+  },
+  "Sąd wydał werdykt \"winny\".": {
+   "translation": "The court delivered a verdict of \"guilty\"."
+  },
+  "Chciałbym potrafić jakoś pomóc.": {
+   "translation": "I wish I could help somehow."
+  },
+  "Dzisiaj przespałem jakoś cały dzień.": {
+   "text": "Jakoś przespałem dzisiaj cały dzień.",
+   "translation": "Somehow I slept all day today."
+  },
+  "Czy mógłbyś zamknąć okno?": {
+   "translation": "Could you close the window?"
+  },
+  "To mój drugi lot samolotem.": {
+   "translation": "This is my second flight by plane."
+  },
+  "Zamierzałem przygotować samochód.": {
+   "translation": "I was going to get the car ready."
+  },
+  "Najwyższy czas aby dzieci poszły spać.": {
+   "text": "Najwyższy czas, aby dzieci poszły spać."
+  },
+  "Okazał się inny niż myślałem.": {
+   "translation": "He turned out to be different from what I thought."
+  },
+  "Cena nie gra roli.": {
+   "translation": "Price doesn't matter."
+  },
+  "Co za wspaniała impreza!": {
+   "translation": "What a great party!"
+  },
+  "Ktoś zniszczył mój aparat.": {
+   "translation": "Someone ruined my camera."
+  },
+  "To dobry interes.": {
+   "translation": "This is a good deal."
+  },
+  "Jest trochę zbyt wcześnie, żeby pić.": {
+   "translation": "It's a bit too early to drink."
+  },
+  "Zrobiliśmy poważny błąd.": {
+   "translation": "We made a serious mistake."
+  },
+  "To ładny pokój.": {
+   "translation": "It's a nice room."
+  },
+  "Chciałbym, żebyś coś dla mnie zdobył.": {
+   "translation": "I'd like you to get something for me."
+  },
+  "Zamierzam kupić nowy zegarek.": {
+   "translation": "I'm going to buy a new watch."
+  },
+  "Tego tylko mi jeszcze brakowało!": {
+   "translation": "That's all I needed!"
+  },
+  "Za wszystko trzeba płacić.": {
+   "translation": "You have to pay for everything."
+  },
+  "Każdy chce mieć kontakty społeczne.": {
+   "translation": "Everyone wants to have social contacts."
+  },
+  "Dajemy im możliwość organizacji własnych imprez.": {
+   "translation": "We give them the opportunity to organize their own events."
+  },
+  "Organizacje zdrowotne od dawna zachęcają do ograniczenia spożycia mięsa.": {
+   "translation": "Health organizations have long encouraged people to eat less meat."
+  },
+  "Nigdy nie wyszłam ponownie za mąż.": {
+   "translation": "I never married again."
+  },
+  "Gdzie chciałbyś się napić kawy?": {
+   "translation": "Where would you like to have your coffee?"
+  },
+  "Nie mam mowy!": {
+   "text": "Nie ma mowy!",
+   "translation": "No way!"
+  },
+  "Odsunęła się na dalszy plan.": {
+   "translation": "She stepped into the background."
+  },
+  "Potrafię czytać od kiedy skończyłem sześć lat.": {
+   "translation": "I've been able to read since I turned six."
+  },
+  "Szybko zapomniano o skandalu politycznym i wszyskto wróciło do codzienności.": {
+   "text": "Szybko zapomniano o skandalu politycznym i wszystko wróciło do codzienności."
+  },
+  "Łowię ryby w sieć.": {
+   "text": "Łowię ryby siecią.",
+   "translation": "I catch fish with a net."
+  },
+  "Czy mamy jakiś wpływ?": {
+   "translation": "Do we have any influence?"
+  },
+  "Znasz tą okolicę?": {
+   "text": "Znasz tę okolicę?",
+   "translation": "Do you know this area?"
+  },
+  "Po pierwsze, oblałem test.": {
+   "translation": "First of all, I failed the test."
+  },
+  "Szukaliśmy tego wszędzie.": {
+   "translation": "We looked for it everywhere."
+  },
+  "Pokaż mi tę listę.": {
+   "translation": "Show me that list."
+  },
+  "Mężczyzna, którego spotkałeś na stacji to mój ojciec.": {
+   "text": "Mężczyzna, którego spotkałeś na stacji, to mój ojciec."
+  },
+  "Nazwali prom kosmiczny \"Discovery\".": {
+   "translation": "They named the space shuttle \"Discovery.\""
+  },
+  "Powietrze dziś rano chłodne. Idzie zima.": {
+   "text": "Powietrze dziś rano jest chłodne. Idzie zima.",
+   "translation": "The air is cold this morning. Winter is coming."
+  },
+  "Co za pamięć!": {
+   "translation": "What a memory!"
+  },
+  "Nasz zespół piłkarski miał niezłą obronę.": {
+   "translation": "Our football team had a decent defence."
+  },
+  "Nie jestem przekonana.": {
+   "translation": "I'm not convinced."
+  },
+  "Jakie kierunek zamierzasz studiować?": {
+   "text": "Jaki kierunek zamierzasz studiować?"
+  },
+  "Nie muszę pić, żeby się dobrze bawić.": {
+   "translation": "I don't need to drink to have a good time."
+  },
+  "Jak minęła podróż?": {
+   "translation": "How was the trip?"
+  },
+  "Ludzie mają prawo by się bronić.": {
+   "text": "Ludzie mają prawo, by się bronić."
+  },
+  "Wypożyczyliśmy łódź na godziny.": {
+   "text": "Wypożyczyliśmy łódź na godzinę.",
+   "translation": "We rented a boat for an hour."
+  },
+  "Musiałem o tym zapomnieć.": {
+   "translation": "I had to forget about it."
+  },
+  "Ta baza zawiera bardzo dużo błędów.": {
+   "translation": "This database contains a lot of errors."
+  },
+  "To najgorszy film jaki kiedykolwiek widziałem.": {
+   "text": "To najgorszy film, jaki kiedykolwiek widziałem."
+  },
+  "Widziałam jak uciekał.": {
+   "text": "Widziałam, jak uciekał."
+  },
+  "Wyjaśnisz to po ludzku?": {
+   "translation": "Can you explain it in plain, human terms?"
+  },
+  "Ludzka natura mnie przeraża.": {
+   "translation": "Human nature scares me."
+  },
+  "Reszta zostaje dla ciebie!": {
+   "translation": "The rest is for you!"
+  },
+  "To nie była zgoda.": {
+   "translation": "It wasn't consent."
+  },
+  "Może świadek opisać, co się wydarzyło?": {
+   "translation": "Could the witness describe what happened?"
+  },
+  "Masz wszelkie prawo, bo to zrobić.": {
+   "text": "Masz wszelkie prawo to zrobić."
+  },
+  "Dyrektor o tym usłyszy.": {
+   "translation": "The director will hear about this."
+  },
+  "To nie trwało więcej niż trzy sekundy.": {
+   "translation": "It did not last more than three seconds."
+  },
+  "Zostaw mi kawałek ciasta.": {
+   "translation": "Save me a piece of cake."
+  },
+  "Tata powiedział mi gdzie byłoby miło pojechać.": {
+   "text": "Tata powiedział mi, gdzie byłoby miło pojechać.",
+   "translation": "Dad told me where it would be nice to go."
+  },
+  "Powinieneś się przedstawić tej dziewczynie.": {
+   "translation": "You should introduce yourself to the girl."
+  },
+  "On żyje bez dostępu do mediów.": {
+   "translation": "He lives without access to the media."
+  },
+  "Proszę przekazać dokument do przejrzenia przez biuro zadządu.": {
+   "text": "Proszę przekazać dokument do przejrzenia przez biuro zarządu.",
+   "translation": "Please pass the document to the management office for review."
+  },
+  "Chciałbym znać francuski.": {
+   "translation": "I would like to know French."
+  },
+  "Rząd wysłał misję za granicę.": {
+   "translation": "The government sent a mission abroad."
+  },
+  "Wyjaśnił mi dlaczego popełnił błąd.": {
+   "text": "Wyjaśnił mi, dlaczego popełnił błąd.",
+   "translation": "He explained to me why he had made a mistake."
+  },
+  "Mój chłopak się mną nie interesuje.": {
+   "translation": "My boyfriend isn't interested in me."
+  },
+  "Zachował się głupio.": {
+   "translation": "He behaved stupidly."
+  },
+  "Straciłem tak wiele, aż wreszcie zacząłem odnajdywać siebie.": {
+   "translation": "I lost so much that I finally started to find myself."
+  },
+  "Śnieg mi nie przeszkadza.": {
+   "translation": "Snow doesn't bother me."
+  },
+  "Nigdy nie opuściłem lekcji.": {
+   "translation": "I have never missed a lesson."
+  },
+  "Proszę nie biegać w sali.": {
+   "translation": "Please don't run in the hall."
+  },
+  "Nie mogła powstrzymać się od płaczu.": {
+   "translation": "She couldn't help crying."
+  },
+  "Nigdy się nie zgodzą, to za daleko.": {
+   "translation": "They will never agree, it's too far."
+  },
+  "Tutaj nie składa się zamówień.": {
+   "translation": "You don't place orders here."
+  },
+  "Chyba zima nas już nie opuści.": {
+   "translation": "It seems winter will never leave us."
+  },
+  "Jutro naprawię to radio.": {
+   "translation": "I'll repair this radio tomorrow."
+  },
+  "Rzadko dostaję zaproszenia na imprezy.": {
+   "translation": "I rarely get invitations to parties."
+  },
+  "Spokojnie, przyspieszanie spraw przyniesie efekt odwrotny.": {
+   "translation": "Take it easy, rushing things will have the opposite effect."
+  },
+  "Sędzia uznał oskarżonego za winnego.": {
+   "translation": "The judge found the defendant guilty."
+  },
+  "Profesor rozwiązał problem jako ostatni.": {
+   "translation": "The professor was the last to solve the problem."
+  },
+  "Czy język międzynarodowy jest potrzebny?": {
+   "translation": "Is an international language necessary?"
+  },
+  "Moja babcia wysłała dziś rano list.": {
+   "translation": "My grandmother sent a letter this morning."
+  },
+  "Cóż, właściwy człowiek na właściwym miejscu, prawda?": {
+   "translation": "Well, the right man in the right place, right?"
+  },
+  "Spóźniłeś się na pociąg, prawda?": {
+   "translation": "You missed the train, didn't you?"
+  },
+  "Potwierdzili, że była to prawda.": {
+   "translation": "They confirmed that it was true."
+  },
+  "Piękny widok, co?": {
+   "translation": "Beautiful view, huh?"
+  },
+  "Obawiamy się, że to zdarzy się ponownie.": {
+   "translation": "We fear that it will happen again."
+  },
+  "Premier twardo obstaje przy swoim zdaniu.": {
+   "translation": "The Prime Minister stubbornly sticks to his opinion."
+  },
+  "Jestem wegetarianinem który jada tony mięsa.": {
+   "text": "Jestem wegetarianinem, który jada tony mięsa.",
+   "translation": "I'm a vegetarian who eats tons of meat."
+  },
+  "Pierwotni ludzie mieli ciężkie życie, podobnie jak ich dzieci.": {
+   "translation": "Primitive people had a hard life, as did their children."
+  },
+  "Drzwi do kuchni się otwarły.": {
+   "text": "Drzwi do kuchni się otworzyły.",
+   "translation": "The kitchen door opened."
+  },
+  "To mój pierwszy lot samolotem.": {
+   "translation": "This is my first flight."
+  },
+  "Próbowałem być cicho.": {
+   "translation": "I tried to be quiet."
+  },
+  "Przerwa na obiad.": {
+   "translation": "Lunch break."
+  },
+  "Musimy zaraz pogadać.": {
+   "translation": "We need to talk right away."
+  },
+  "Kiedyś marzyłem, by zostać bardzo bogaty.": {
+   "text": "Kiedyś marzyłem, by zostać bardzo bogatym."
+  },
+  "Ta ziemia została wystawiona na sprzedaż.": {
+   "translation": "The land was put up for sale."
+  },
+  "Chętnie wpadnę kiedyś do ciebie na jedzenie.": {
+   "translation": "I'd gladly drop by your place for a meal sometime."
+  },
+  "Nie musisz się tłumaczyć.": {
+   "translation": "You don't have to explain yourself."
+  },
+  "Chciałabym wyjechać za granicę.": {
+   "translation": "I would like to go abroad."
+  },
+  "To wskazuje że jest on uczciwy.": {
+   "text": "To wskazuje, że jest on uczciwy.",
+   "translation": "This indicates that he is honest."
+  },
+  "Nie rozumiem, co autor chce powiedzieć.": {
+   "translation": "I don't understand what the author is trying to say."
+  },
+  "Położył się na plecach.": {
+   "translation": "He lay on his back."
+  },
+  "Poszedł do baru wypić kilka piw.": {
+   "translation": "He went to a bar to drink a few beers."
+  },
+  "A ty go wspierasz?": {
+   "translation": "And do you support him?"
+  },
+  "Już nie mam ochoty na słodycze.": {
+   "translation": "I don't feel like sweets anymore."
+  },
+  "Nauczyciela zdumiała moja reakcja.": {
+   "translation": "My reaction amazed the teacher."
+  },
+  "Zarówno matce i dziecku idzie dobrze.": {
+   "text": "Zarówno matce, jak i dziecku idzie dobrze."
+  },
+  "Byłem akurat na czas.": {
+   "text": "Przyszedłem akurat na czas.",
+   "translation": "I arrived just in time."
+  },
+  "Doszło do tego, że musiałem ukrywać się przed właścicielem.": {
+   "translation": "It came to the point that I had to hide from the landlord."
+  },
+  "Czekałem na ten autobus.": {
+   "translation": "I was waiting for that bus."
+  },
+  "Czy on musi tak szybko jeździć?": {
+   "translation": "Does he have to drive so fast?"
+  },
+  "Czuję się taki mądry... Szkoda że to tylko uczucie.": {
+   "translation": "I feel so smart... Too bad it's only a feeling."
+  },
+  "Nasz zespół odniósł wielkie zwycięstwo.": {
+   "translation": "Our team scored a great victory."
+  },
+  "Pragnę cię zobaczyć.": {
+   "translation": "I long to see you."
+  },
+  "Nie powinieneś się spieszyć na lotnisko.": {
+   "translation": "You shouldn't rush to the airport."
+  },
+  "Nikt nie przetrwa.": {
+   "translation": "No one will survive."
+  },
+  "Nauczyciel miał mocny, czysty głos.": {
+   "translation": "The teacher had a strong, clear voice."
+  },
+  "Co piątek chodzili się upić.": {
+   "translation": "Every Friday they went out to get drunk."
+  },
+  "Dzielę pokój z bratem.": {
+   "translation": "I share a room with my brother."
+  },
+  "Zostałem zmuszony zrobić to wszystko sam.": {
+   "text": "Zostałem zmuszony do zrobienia tego wszystkiego samemu.",
+   "translation": "I was forced to do all of it alone."
+  },
+  "Daj nam zaraz sygnał do wymarszu.": {
+   "translation": "Give us the signal to march right away."
+  },
+  "Jak mogę usunąć konto na tej stronie?": {
+   "translation": "How can I delete my account on this site?"
+  },
+  "Jak na razie jest tylko marzenie.": {
+   "translation": "So far it's only a dream."
+  },
+  "Ten produkt jest autentyczny.": {
+   "translation": "This product is genuine."
+  },
+  "Chciałbym zamówić stolik na jutro na czwartą po południu.": {
+   "translation": "I'd like to book a table for tomorrow at four in the afternoon."
+  },
+  "Mogę się dołączyć do drużyny?": {
+   "text": "Mogę dołączyć do drużyny?"
+  },
+  "Ku lepszym jutrom!": {
+   "translation": "Towards a better tomorrow!"
+  },
+  "Czy mógłbyś mi przypomnieć, kiedy zaczyna się spotkanie?": {
+   "translation": "Could you remind me when the meeting starts?"
+  },
+  "Czy mógłbyś mi przypomnieć, gdzie położyłeś klucz?": {
+   "translation": "Could you remind me where you put the key?"
+  },
+  "Powinien tutaj przybyć.": {
+   "translation": "He ought to arrive here."
+  },
+  "Chciałbym pojutrze zorganizować spotkanie.": {
+   "translation": "I'd like to organize a meeting the day after tomorrow."
+  },
+  "Co spodziewasz się tu znaleźć?": {
+   "text": "Czego spodziewasz się tu znaleźć?"
+  },
+  "To wspaniale, że się spotkaliśmy.": {
+   "translation": "It's wonderful that we met."
+  },
+  "Potrzebuję gdzieś usiąść.": {
+   "translation": "I need to sit down somewhere."
+  },
+  "Umieścił drabinę naprzeciwko płotu.": {
+   "translation": "He placed the ladder opposite the fence."
+  },
+  "Do stolicy nadchodzi zimna fala.": {
+   "text": "Do stolicy nadchodzi fala zimna.",
+   "translation": "A cold wave is approaching the capital."
+  },
+  "Dotknij zwierzę aby usłyszeć dźwięk.": {
+   "text": "Dotknij zwierzęcia, aby usłyszeć dźwięk.",
+   "translation": "Touch an animal to hear the sound."
+  },
+  "Czy pokój będzie dostępny na spotkania.": {
+   "text": "Czy pokój będzie dostępny na spotkania?"
+  },
+  "Uratowałeś mi tyłek.": {
+   "translation": "You saved my butt."
+  },
+  "Chciałbym opowiedzieć o mojej miłości.": {
+   "translation": "I would like to talk about my love."
+  },
+  "Zostałem zaproszony do niej na obiad.": {
+   "translation": "I was invited to her place for dinner."
+  },
+  "Ale to nie zmienia wymiaru kary.": {
+   "translation": "But that doesn't change the severity of the sentence."
+  },
+  "Na pewno chcesz się tego pozbyć?": {
+   "translation": "Are you sure that you want to get rid of this?"
+  },
+  "Tam jest łazienka.": {
+   "translation": "The bathroom is over there."
+  },
+  "Czy pokój ma łazienkę?": {
+   "translation": "Does the room have a bathroom?"
+  },
+  "Oto pani rachunek.": {
+   "translation": "Here is your bill, madam."
+  },
+  "Straciłam chęć do życia.": {
+   "translation": "I've lost my will to live."
+  },
+  "Powód szybko stało się oczywisty.": {
+   "text": "Powód szybko stał się oczywisty."
+  },
+  "Dom jest na wsi.": {
+   "translation": "The house is in the countryside."
+  },
+  "Ktoś ukradł moją własność.": {
+   "translation": "Someone stole my property."
+  },
+  "Z pewnością wie jak to znieść po męsku.": {
+   "text": "Z pewnością wie, jak to znieść po męsku.",
+   "translation": "He certainly knows how to take it like a man."
+  },
+  "Możesz wystąpić o zwrot kosztów podróźy.": {
+   "text": "Możesz wystąpić o zwrot kosztów podróży.",
+   "translation": "You can apply for a refund of your travel expenses."
+  },
+  "Wciśnij zielony przycisk, by odtworzyć nagranie, a czerwony, by je zatrzymać.": {
+   "translation": "Press the green button to play the recording and the red one to stop it."
+  },
+  "Mimo deszczu poszliśmy na piknik.": {
+   "translation": "In spite of the rain, we went on a picnic."
+  },
+  "Musiał przemawiać do zebranych.": {
+   "translation": "He had to speak to those assembled."
+  },
+  "On nadaje się na to stanowisko.": {
+   "translation": "He is suited to the post."
+  },
+  "Nie nadaje się do tego zadania.": {
+   "translation": "She isn't suited to this task."
+  },
+  "Nie rozmawiajmy o religii.": {
+   "translation": "Let's not talk about religion."
+  },
+  "Kiedy wydarzyło się to po raz pierwszy?": {
+   "translation": "When did this first happen?"
+  },
+  "Wybuch spowodował, że zobaczyłem gwiazdy.": {
+   "translation": "The explosion made me see stars."
+  },
+  "To mój letni kapelusz.": {
+   "translation": "This is my summer hat."
+  },
+  "Ona nie ma zdolności, by zostać nauczycielem.": {
+   "translation": "She has no ability to become a teacher.",
+   "text": "Ona nie ma zdolności, by zostać nauczycielką."
+  },
+  "Mamy drobny wypadek.": {
+   "translation": "We've had a minor accident."
+  },
+  "Dwukrotnie kliknięcie powiększa fragment mapy.": {
+   "text": "Dwukrotne kliknięcie powiększa fragment mapy.",
+   "translation": "Double-clicking enlarges a section of the map."
+  },
+  "Czy można dostać tylko herbatę?": {
+   "translation": "Can I just get tea?"
+  },
+  "Kazał mi ograniczyć koszty życia.": {
+   "translation": "He told me to cut down my living costs."
+  },
+  "Czy możemy przełożyć naszą jutrzejszą randkę?": {
+   "translation": "Can we postpone our date for tomorrow?"
+  },
+  "Jesteś w złym humorze.": {
+   "translation": "You're in a bad mood."
+  },
+  "Byliśmy przyparci do muru.": {
+   "translation": "We were backed into a corner."
+  },
+  "To niewielka różnica.": {
+   "translation": "It's a small difference."
+  },
+  "Nauczyciel zaczął często opuszczać zajęcia.": {
+   "translation": "The teacher started missing classes often."
+  },
+  "Byłem bardzo głodny.": {
+   "translation": "I was very hungry."
+  },
+  "Lepiej pomyśl, a potem decyduj.": {
+   "translation": "You'd better think first, and then decide."
+  },
+  "Muszę poszukać długopisu.": {
+   "translation": "I have to look for a pen."
+  },
+  "Poczułem okropny zapach.": {
+   "translation": "I noticed a terrible smell."
+  },
+  "Poprosiłam ją o pozwolenie.": {
+   "translation": "I asked her for permission."
+  },
+  "Całe miasto było bez prądu.": {
+   "translation": "The whole town was without power."
+  },
+  "Nie posiadam żadnych przeciwników.": {
+   "text": "Nie mam żadnych przeciwników.",
+   "translation": "I don't have any opponents."
+  },
+  "Dlaczego nie założyłaś sukienki ?": {
+   "text": "Dlaczego nie założyłaś sukienki?",
+   "translation": "Why didn't you wear a dress?"
+  },
+  "Jak się powinnam ubrać na tę okazję?": {
+   "translation": "How should I dress for this occasion?"
+  },
+  "Zaczęła grać w tenisa nie z zainteresowania, ale na pokaz.": {
+   "translation": "She started playing tennis not out of interest but for show."
+  },
+  "Nie martw się. Zapewniam cię że wszystko będzie dobrze.": {
+   "text": "Nie martw się. Zapewniam cię, że wszystko będzie dobrze."
+  },
+  "Zwolniono całą załogę.": {
+   "translation": "The whole crew was dismissed."
+  },
+  "Postanowiłem zostać adwokatem.": {
+   "translation": "I decided to become a lawyer."
+  },
+  "Powiedziała, że kradzież to zło.": {
+   "translation": "She said that theft is evil."
+  },
+  "Pod ziemią jest centrum handlowe.": {
+   "translation": "There is a shopping centre underground."
+  },
+  "Nigdy nie wyjeżdżamy nad morze.": {
+   "translation": "We never go to the seaside."
+  },
+  "Byłem właśnie na zewnątrz, kiedy zaczęło padać.": {
+   "translation": "I was just outside when it began to rain."
+  },
+  "Macie mniejszy rozmiar?": {
+   "translation": "Do you have a smaller size?"
+  },
+  "Krąży nowy wirus grypy.": {
+   "translation": "A new flu virus is going around."
+  },
+  "Nie wytrzymam już tego.": {
+   "translation": "I can't stand this anymore."
+  },
+  "Czy zwierzęta mają świadomość?": {
+   "translation": "Do animals have consciousness?"
+  },
+  "Niedługo wszystko wróci do poziomu sprzed kryzysu.": {
+   "translation": "Soon everything will return to pre-crisis levels."
+  },
+  "Wsyp czipsy do miski, nie jedz bezpośrednio z paczki.": {
+   "text": "Wsyp chipsy do miski, nie jedz bezpośrednio z paczki.",
+   "translation": "Put the chips in a bowl; don't eat them straight from the bag."
+  },
+  "To powinno być nielegalne.": {
+   "translation": "This should be illegal."
+  },
+  "Gdyby nie burza przybylibyśmy na spotkanie na czas.": {
+   "text": "Gdyby nie burza, przybylibyśmy na spotkanie na czas."
+  },
+  "Nie zgadzam się aby młoda pani przebywała tutaj sama.": {
+   "text": "Nie zgadzam się, aby młoda pani przebywała tutaj sama.",
+   "translation": "I don't agree to a young lady staying here alone."
+  },
+  "Jest zupełnie pijany.": {
+   "translation": "He's completely drunk."
+  },
+  "To dosłownie idiota.": {
+   "translation": "He's literally an idiot."
+  },
+  "Możesz mi pomóc przetłumaczyć to zdanie na chiński?": {
+   "translation": "Can you help me translate this sentence into Chinese?"
+  },
+  "Nie usłyszałem tego wyraźnie.": {
+   "translation": "I didn't hear it clearly."
+  },
+  "Rząd powinien współpracować.": {
+   "translation": "The government should cooperate."
+  },
+  "Każdy może współpracować.": {
+   "translation": "Anyone can collaborate."
+  },
+  "Nie wyobrażam sobie kiedykolwiek wziąć rozwód.": {
+   "text": "Nie wyobrażam sobie, żebym kiedykolwiek wzięła rozwód."
+  },
+  "Kapitan dowodzi statkiem i załogą.": {
+   "translation": "A captain commands his ship and its crew."
+  },
+  "Jest wszystkim znany jako świetny naukowiec.": {
+   "translation": "He is known to everyone as a great scientist."
+  },
+  "Zakaz wprowadzania psów.": {
+   "translation": "No dogs allowed."
+  },
+  "Wiem, dokąd to wszystko zmierza.": {
+   "translation": "I know where all this is heading."
+  },
+  "Porównanie było trudne.": {
+   "translation": "The comparison was difficult."
+  },
+  "Już dawno nie byłem na basenie.": {
+   "translation": "I haven't been to the pool for a long time."
+  },
+  "Plan spotkał się z poparciem wszystkich uczestników.": {
+   "translation": "The plan met with the support of all the participants."
+  },
+  "Czy umiesz przeczytać pismo japońskie?": {
+   "translation": "Can you read Japanese writing?"
+  },
+  "Nowi goście muszą się wpisać do księgi hotelowej.": {
+   "translation": "New guests must sign the hotel register."
+  },
+  "Pies rzadko gryzie nie atakowany.": {
+   "text": "Pies rzadko gryzie, jeśli nikt go nie atakuje.",
+   "translation": "A dog seldom bites unless it is attacked."
+  },
+  "Kto byłby na tyle głupi aby tego uczynić?": {
+   "text": "Kto byłby na tyle głupi, aby uczynić coś takiego?",
+   "translation": "Who would be stupid enough to do such a thing?"
+  },
+  "W muzeum jest wystawa starożytnych broni.": {
+   "text": "W muzeum jest wystawa starożytnej broni."
+  },
+  "Wygrała pierwsza nagrodę na wystawie.": {
+   "text": "Wygrała pierwszą nagrodę na wystawie."
+  },
+  "Kilka dziewczyn stoi za bramą.": {
+   "translation": "Several girls are standing behind the gate."
+  },
+  "Ma dobry wzrok.": {
+   "translation": "He has good eyesight."
+  },
+  "Szczerze mówiąc, przybyliśmy tu by cię porwać.": {
+   "translation": "To be honest, we came here to kidnap you."
+  },
+  "Plotka okazała się być fałszywa.": {
+   "text": "Plotka okazała się fałszywa."
+  },
+  "Bezdomne dziecko siedzi z psem przy torach.": {
+   "translation": "A homeless child sits with a dog by the railway tracks."
+  },
+  "Utworzyli nowy gabinet.": {
+   "translation": "They have formed a new cabinet."
+  },
+  "Po prostu niezbyt o to dbam.": {
+   "translation": "I just don't care much about it."
+  },
+  "Film otrzymał pozytywne recenzje.": {
+   "translation": "The film received positive reviews."
+  },
+  "Udzielił pozytywnej odpowiedzi.": {
+   "translation": "He gave a positive answer."
+  },
+  "Poszukiwał kluczy w szufladzie.": {
+   "translation": "He searched for his keys in the drawer."
+  },
+  "Czy jest w tym drugie dno?": {
+   "translation": "Is there a hidden meaning in this?"
+  },
+  "Zrobił to dla zysku.": {
+   "translation": "He did it for profit."
+  },
+  "Na biurku leży kartka.": {
+   "translation": "There is a piece of paper on the desk."
+  },
+  "Mój kierownik pozwolił mi na wzięcie wolnego dnia.": {
+   "text": "Mój kierownik pozwolił mi wziąć wolny dzień.",
+   "translation": "My manager allowed me to take a day off."
+  },
+  "Jest utalentowanym, młodym kierownikiem.": {
+   "translation": "He is a talented young manager."
+  },
+  "Uważam, że to rozsądny pogląd.": {
+   "translation": "I think that's a reasonable view."
+  },
+  "Ta praca nie była szczególnie ciekawa. Jednakże, pensja była dobra.": {
+   "text": "Ta praca nie była szczególnie ciekawa. Jednakże pensja była dobra."
+  },
+  "Wiem, że masz konflikt z matką.": {
+   "translation": "I know you are in conflict with your mother."
+  },
+  "Jeśli zjesz choćby jedno ciastko, dostaniesz w łeb.": {
+   "translation": "If you eat even one cookie, you'll get a smack on the head."
+  },
+  "Wicher łeb urywa.": {
+   "translation": "The wind is fierce, strong enough to take your head off."
+  },
+  "Nie unikaj tematu.": {
+   "translation": "Don't avoid the subject."
+  },
+  "Ta firma wydała oświadczenie dla prasy.": {
+   "translation": "The company issued a statement to the press."
+  },
+  "Dziś zjemy wczesny obiad.": {
+   "translation": "We'll have an early lunch today."
+  },
+  "Jestem bardzo głodny, bo nie jadłem nic od wczesnego rana.": {
+   "translation": "I'm very hungry because I haven't eaten anything since early morning."
+  },
+  "To, co nosisz na nogach, nie spełnia norm bezpieczeństwa.": {
+   "translation": "What you're wearing on your feet doesn't meet safety standards."
+  },
+  "Przez twoją głupotę przegraliśmy grę.": {
+   "translation": "Because of your stupidity, we lost the game."
+  },
+  "Czy tu jest bezpiecznie?": {
+   "translation": "Is it safe here?"
+  },
+  "Myślę, że jesteśmy równi.": {
+   "translation": "I think we're equals."
+  },
+  "Najwyższy czas, abym wymienił swoje okulary!": {
+   "translation": "It's high time I replaced my glasses!"
+  },
+  "Jeśli chcesz być wolny, zniszcz twój telewizor.": {
+   "text": "Jeśli chcesz być wolny, zniszcz swój telewizor."
+  },
+  "Podstawowym celem nauki jest poszukiwanie prawdy, nowej prawdy.": {
+   "translation": "The primary aim of science is the search for truth, new truth."
+  },
+  "Słyszałem, jak młoda dziewczynka wzywa pomoc.": {
+   "text": "Słyszałem, jak młoda dziewczynka wzywa pomocy."
+  },
+  "Telefon to jednak genialny wynalazek.": {
+   "translation": "The telephone is a brilliant invention after all."
+  },
+  "Ona jest genialna.": {
+   "translation": "She is brilliant."
+  },
+  "Często miewam koszmary.": {
+   "translation": "I often have nightmares."
+  },
+  "To był zaledwie początek.": {
+   "translation": "That was only the beginning."
+  },
+  "Będę czekał przy odbiorze bagażu.": {
+   "translation": "I will wait at baggage claim."
+  },
+  "Rozszerzenie tego pliku jest nieznane.": {
+   "translation": "This file's extension is unknown."
+  },
+  "Proszę, przejrzyj treść i przekaż nam swoją opinę na ten temat.": {
+   "text": "Proszę, przejrzyj treść i przekaż nam swoją opinię na ten temat."
+  },
+  "Muzyka to wspólny język ludzkości.": {
+   "translation": "Music is the common language of humanity."
+  },
+  "Ta tkanina jest bardzo delikatna.": {
+   "translation": "This fabric is very delicate."
+  },
+  "Przeprosił za spóźnienie.": {
+   "translation": "He apologized for being late."
+  },
+  "Może pan wypełnić ten formularz?": {
+   "translation": "Could you fill out this form?"
+  },
+  "Krótko mówiąc, człowiek to zbór komórek.": {
+   "text": "Krótko mówiąc, człowiek to zbiór komórek."
+  },
+  "Ten malarz to wieczne dziecko.": {
+   "translation": "That painter is an eternal child."
+  },
+  "Przeprowadzałem eksperymenty na zwierzętach.": {
+   "translation": "I conducted experiments on animals."
+  },
+  "We wszechświecie są miliardy gwiazd.": {
+   "translation": "There are billions of stars in the universe."
+  },
+  "Śmiech jest lekarstwem na wszystko.": {
+   "translation": "Laughter is a cure for everything."
+  },
+  "To słoneczny dzień.": {
+   "translation": "It's a sunny day."
+  },
+  "Musimy zamienić słówko.": {
+   "translation": "We need to have a word."
+  },
+  "Chciałbym zamienić z tobą dwa słowa.": {
+   "translation": "I'd like to have a word with you."
+  },
+  "Nie zdążą na czas na spotkanie.": {
+   "text": "Nie zdążą na spotkanie.",
+   "translation": "They won't make it to the meeting in time."
+  },
+  "Dyrektor chce poprawić strukturę przedsiębiorstwa.": {
+   "translation": "The manager wants to improve the structure of the company."
+  },
+  "Czy mogę coś zaproponować?": {
+   "translation": "May I suggest something?"
+  },
+  "Angielski i niemiecki mają wspólne pochodzenie.": {
+   "translation": "English and German have a common origin."
+  },
+  "Pomagamy naszym gościom we wszystkich dziedzinach życia.": {
+   "translation": "We help our guests in all areas of life."
+  },
+  "Widziałem go jak płynął przez rzekę.": {
+   "text": "Widziałem go, jak płynął przez rzekę."
+  },
+  "Ta oferta to maksimum, co możemy zaoferować.": {
+   "translation": "This offer is the most we can give."
+  },
+  "Niezależnie co robi, robi to porządnie.": {
+   "text": "Niezależnie od tego, co robi, robi to porządnie.",
+   "translation": "Regardless of what he does, he does it well."
+  },
+  "Nie ufaj mu niezależnie od tego co powie.": {
+   "text": "Nie ufaj mu, niezależnie od tego, co powie."
+  },
+  "Nagły dźwięk odwrócił ich uwagę od gry.": {
+   "translation": "A sudden noise distracted them from the game."
+  },
+  "Po godzinnym marszu, zatrzymaliśmy się aby odpocząć.": {
+   "text": "Po godzinnym marszu zatrzymaliśmy się, aby odpocząć."
+  },
+  "Nie winiłem cię za uderzenie go.": {
+   "text": "Nie winiłem cię za to, że go uderzyłeś."
+  },
+  "Spotkania odbywają się co tydzień.": {
+   "translation": "Meetings are held every week."
+  },
+  "Nie było mi przeznaczone znów ją zobaczyć.": {
+   "translation": "I was not destined to see her again."
+  },
+  "Masz śliczne oczy.": {
+   "translation": "You have lovely eyes."
+  },
+  "Bądź ostrożny interpretując tłumaczenia pośrednie. Płeć mogła ulec zmianie.": {
+   "translation": "Be careful interpreting indirect translations. The gender may have changed."
+  },
+  "Senator nada zajmował swoje stanowisko, gdy te wydarzenia ujrzały światło dzienne.": {
+   "translation": "The senator was still in office when these events came to light.",
+   "text": "Senator nadal zajmował swoje stanowisko, gdy te wydarzenia ujrzały światło dzienne."
+  },
+  "To aktywny polityk.": {
+   "translation": "He is an active politician."
+  },
+  "Ogólnie rzecz biorąc ona ma rację.": {
+   "translation": "Generally speaking, she is right."
+  },
+  "Uczestnicy zajęć mieli w tej kwestii rozbieżne opinie.": {
+   "translation": "The course participants had differing opinions on this matter."
+  },
+  "Polecam nauczyć się fancuskiego.": {
+   "text": "Polecam nauczyć się francuskiego."
+  },
+  "Życie to nie bajka.": {
+   "translation": "Life is not a fairy tale."
+  },
+  "Obsługa pokoi, słucham.": {
+   "translation": "Room service, how may I help you?"
+  },
+  "Któryś z nas musi iść.": {
+   "translation": "One of us has to go."
+  },
+  "Nie opierać się o drzwi!": {
+   "translation": "Do not lean on the door!"
+  },
+  "Stała się sławna jako tajemnicza pisarka.": {
+   "translation": "She became famous as a mysterious writer."
+  },
+  "Przepraszam, czy to nie pomyłka?": {
+   "translation": "Excuse me, isn't this a mistake?"
+  },
+  "Otrzymaliśmy nakaz eksmisji.": {
+   "translation": "We received an eviction order."
+  },
+  "Zastanawiam się, w jaki sposób można odróżnić sztuczny uśmiech od szczerego.": {
+   "translation": "I wonder how one can tell a fake smile from a sincere one."
+  },
+  "Spójrz na zegarek.": {
+   "translation": "Look at your watch."
+  },
+  "Założył czerwoną marynarkę.": {
+   "translation": "He put on a red jacket."
+  },
+  "To zbyt przerażające.": {
+   "translation": "It's too frightening."
+  },
+  "Proszę wyjaśnić sądowi, co zaszło.": {
+   "translation": "Please explain to the court what happened."
+  },
+  "Kosmos jest pełen niespodzianek.": {
+   "translation": "Space is full of surprises."
+  },
+  "Mama kazała mi pracować wbrew mej woli.": {
+   "text": "Mama kazała mi pracować wbrew mojej woli."
+  },
+  "Trudno jest wyrazić dokładne znaczenie.": {
+   "translation": "It is difficult to express the exact meaning."
+  },
+  "Chciałbym nadać ten list poleconym.": {
+   "translation": "I'd like to send this letter by registered mail.",
+   "text": "Chciałbym nadać ten list jako polecony."
+  },
+  "Nie powinieneś się wiązać z takimi ludźmi.": {
+   "translation": "You shouldn't get involved with such people."
+  },
+  "Nie chciałbym musieć tu kiedykolwiek znowu przyjeżdżać.": {
+   "translation": "I wouldn't want to have to come here again."
+  },
+  "On wygrał wiele turniejów.": {
+   "translation": "He won many tournaments."
+  },
+  "Sposób, w jaki ubierają się turyści uchybia miejscowym standardom przyzwoitości.": {
+   "text": "Sposób, w jaki ubierają się turyści, uchybia miejscowym standardom przyzwoitości."
+  },
+  "Dostawa przewidywana jest na czwartek.": {
+   "translation": "The delivery is scheduled to arrive on Thursday."
+  },
+  "Przypuszczam że to było gdzieś indziej.": {
+   "text": "Przypuszczam, że to było gdzieś indziej."
+  },
+  "Nauka nie jest w stanie rozwiązać wszystkich życiowych problemów.": {
+   "translation": "Science is not capable of solving all of life's problems."
+  },
+  "Ostatnie badania wykazały, że to nieprawda.": {
+   "translation": "Recent studies have shown that it is not true."
+  },
+  "Chciałbym się dowiedzieć, jak zablokować komentarze na moim blogu.": {
+   "translation": "I'd like to find out how to block comments on my blog."
+  },
+  "Powoli zaciera się granica między kibolami a zwykłymi przestępcami.": {
+   "translation": "The line between football hooligans and ordinary criminals is slowly blurring."
+  },
+  "To jest rysunek.": {
+   "translation": "This is a drawing."
+  },
+  "Ona ma depresję.": {
+   "translation": "She has depression."
+  },
+  "Opłata jest bardzo rozsądna.": {
+   "translation": "The fee is very reasonable."
+  },
+  "Czekaliśmy aż winda zjedzie.": {
+   "translation": "We waited for the elevator to come down."
+  },
+  "Małe grupy ludności obawiają się imigracji.": {
+   "translation": "Small groups of the population fear immigration."
+  },
+  "Trudno cie rozpoznać.": {
+   "text": "Trudno cię rozpoznać."
+  },
+  "Taka wypowiedź wywoła reakcję.": {
+   "translation": "A statement like that will provoke a reaction."
+  },
+  "Nie mógł dłużej trzymać na wodzy nerwów.": {
+   "text": "Nie mógł dłużej trzymać nerwów na wodzy.",
+   "translation": "He could no longer keep his nerves in check."
+  },
+  "Jaka koszula jest różowa?": {
+   "text": "Która koszula jest różowa?",
+   "translation": "Which shirt is pink?"
+  },
+  "On śpiewa słabo.": {
+   "translation": "He sings poorly."
+  },
+  "Zabawa ze szczeniakiem dostarcza dużo radości.": {
+   "translation": "Playing with a puppy brings a lot of joy."
+  },
+  "Czy potrafisz, na pierwszy rzut oka, odróźnić jęczmień od pszenicy?": {
+   "text": "Czy potrafisz, na pierwszy rzut oka, odróżnić jęczmień od pszenicy?"
+  },
+  "Dlaczego nie wykonałeś mojego polecenia?": {
+   "translation": "Why didn't you carry out my order?"
+  },
+  "Sprzedawca odmówił zwrotu pieniędzy, wobec tego zarządałem wezwania kierownika.": {
+   "text": "Sprzedawca odmówił zwrotu pieniędzy, wobec tego zażądałem wezwania kierownika."
+  },
+  "Chcę zjeść gorącą zupę.": {
+   "translation": "I want to eat some hot soup."
+  },
+  "Poszedłem na cmentarz odwiedzić zmarłą rodzinę.": {
+   "text": "Poszedłem na cmentarz odwiedzić zmarłych krewnych.",
+   "translation": "I went to the cemetery to visit my deceased relatives."
+  },
+  "Wszedłem na palcach do sypialni.": {
+   "translation": "I tiptoed into the bedroom."
+  },
+  "Jak zarabiasz na codzienne potrzeby?": {
+   "translation": "How do you earn money for your everyday needs?"
+  },
+  "Nie możemy funkcjonować bez jedzenia.": {
+   "translation": "We cannot function without food."
+  },
+  "Błagam, wysłuchaj do końca.": {
+   "translation": "Please, hear me out."
+  },
+  "Uważasz, że sława podobałaby ci się?": {
+   "text": "Myślisz, że podobałaby ci się sława?",
+   "translation": "Do you think you would enjoy fame?"
+  },
+  "Podajcie jakieś śmieszne kawały.": {
+   "text": "Opowiedzcie jakieś śmieszne kawały."
+  },
+  "Zostawiłem notatki w pokoju - pójdę po nie zaraz.": {
+   "translation": "I left my notes in the room; I'll go get them right now."
+  },
+  "Wieczorem wyprowadzę mojego psa na spacer.": {
+   "translation": "I'll take my dog for a walk in the evening."
+  },
+  "Jej pragnienia zostały całkowicie zaspokojone.": {
+   "translation": "Her desires were fully satisfied."
+  },
+  "Kiedy twoja powieść będzie opublikowana?": {
+   "translation": "When will your novel be published?"
+  },
+  "Mam papierowy kubek do napojów.": {
+   "translation": "I have a paper cup for drinks."
+  },
+  "Odsunąl się, by zrobić przejście.": {
+   "text": "Odsunął się, by zrobić przejście.",
+   "translation": "He moved aside to make way."
+  },
+  "Zamieścił ogłoszenie w gazecie.": {
+   "translation": "He placed an ad in the newspaper."
+  },
+  "Co muszę teraz zrobić teraz, gdy jestem zarejestrowany?": {
+   "text": "Co muszę teraz zrobić, gdy jestem zarejestrowany?"
+  },
+  "Prosiłbym o kontakt telefoniczny.": {
+   "translation": "I would ask for contact by phone."
+  },
+  "Motor uderzył w słup telefoniczny.": {
+   "translation": "The motorcycle hit the telephone pole."
+  },
+  "Trzeba ci wiedzieć, że mam obsesję punktualności.": {
+   "text": "Powinieneś wiedzieć, że mam obsesję na punkcie punktualności.",
+   "translation": "You should know that I'm obsessed with punctuality."
+  },
+  "Niedobrze mi. Chce mi się wymiotować.": {
+   "translation": "I feel sick. I want to throw up."
+  },
+  "Chcę ci pogratulować awansu.": {
+   "translation": "I want to congratulate you on your promotion."
+  },
+  "Pielęgniarka delikatnie owinęła bandaż dookoła mojej głowy.": {
+   "translation": "The nurse gently wrapped a bandage around my head."
+  },
+  "Czy potrzebujesz karetkę?": {
+   "text": "Czy potrzebujesz karetki?"
+  },
+  "Bardzo prawdopodobne, że się spóźni.": {
+   "text": "Jest bardzo prawdopodobne, że się spóźni."
+  },
+  "Chciałbym wiedzieć, jak to uruchomić.": {
+   "translation": "I'd like to know how to start this."
+  },
+  "Mam nerwowy tik.": {
+   "translation": "I have a nervous tic."
+  },
+  "Nasza wieś jest katolicka, ale sąsiednia wieś - ewangelicka.": {
+   "translation": "Our village is Catholic, but the neighboring village is Protestant."
+  },
+  "Nigdy nie byłem profesjonalnym muzykiem.": {
+   "translation": "I have never been a professional musician."
+  },
+  "Wielu studentów szuka tymczasowej pracy.": {
+   "translation": "Many students are looking for temporary work."
+  },
+  "Kazałem mu nieść walizkę.": {
+   "translation": "I made him carry the suitcase."
+  },
+  "Postawiła skrzynkę na stole.": {
+   "translation": "She put the box on the table."
+  },
+  "Poszliśmy też do świątynii.": {
+   "text": "Poszliśmy też do świątyni.",
+   "translation": "We also went to the temple."
+  },
+  "To największa świątynia jaką kiedykolwiek widziałam.": {
+   "text": "To największa świątynia, jaką kiedykolwiek widziałam.",
+   "translation": "This is the largest temple I have ever seen."
+  },
+  "Nie pokazał się na wczorajszej imprezie.": {
+   "translation": "He didn't show up at yesterday's party."
+  },
+  "I tak nie mogliśmy otowrzyć pudełka.": {
+   "text": "I tak nie mogliśmy otworzyć pudełka."
+  },
+  "Amerykańskie korporacje wróciły.": {
+   "translation": "American corporations are back."
+  },
+  "Pojmiesz wartość czasu dopiero wtedy, gdy ci go zabraknie.": {
+   "translation": "You only understand the value of time when you run out of it."
+  },
+  "Możesz ich powołać na świadków?": {
+   "translation": "Can you call them as witnesses?"
+  },
+  "Koniecznie musisz tam iść.": {
+   "translation": "You absolutely have to go there."
+  },
+  "Spośród jego powieści, tę lubię najbardziej.": {
+   "text": "Spośród jego powieści tę lubię najbardziej."
+  },
+  "To twój kapelusz.": {
+   "translation": "That is your hat."
+  },
+  "Ten chleb jest bardzo smaczny.": {
+   "translation": "This bread is very tasty."
+  },
+  "Nieupoważnionym wstęp wzbroniony.": {
+   "translation": "No entry for unauthorised persons."
+  },
+  "Ten indyk jest pyszny.": {
+   "translation": "This turkey is delicious."
+  },
+  "Nie wiem jak zlikwidować swój ostatni wpis.": {
+   "text": "Nie wiem, jak usunąć mój ostatni wpis.",
+   "translation": "I don't know how to delete my last post."
+  },
+  "Mój pies zjadł papierowy ręcznik. Ciekawe, czy mu zaszkodzi.": {
+   "translation": "My dog ate a paper towel. I wonder if it will harm him."
+  },
+  "Przesadnie palenie zaszkodzi twojemu zdrowiu.": {
+   "text": "Przesadne palenie zaszkodzi twojemu zdrowiu.",
+   "translation": "Excessive smoking will harm your health."
+  },
+  "Może to się wydawać znaczącą sumą, ale to dobrze ulokowane pieniądze.": {
+   "translation": "It may seem like a considerable sum, but it is money well invested."
+  },
+  "Jest wystarczająco dojrzała, żeby wychować dziecko.": {
+   "translation": "She is mature enough to raise a child."
+  },
+  "Codziennie powstają nowe słowa.": {
+   "translation": "New words come into being every day."
+  },
+  "Mogłem zranić twoje uczucie, lecz nie taki był mój zamiar.": {
+   "text": "Mogłem zranić twoje uczucia, lecz nie taki był mój zamiar."
+  },
+  "Transakcja którą przeprowadzałem nie powiodła się.": {
+   "text": "Transakcja, którą przeprowadzałem, nie powiodła się."
+  },
+  "Zginął na polu chwały.": {
+   "translation": "He died on the field of glory."
+  },
+  "Chwała podąża za cnotą jak by była jej cieniem.": {
+   "text": "Chwała podąża za cnotą, jakby była jej cieniem."
+  },
+  "Z powodu deszczu odłożono zawody sportowe.": {
+   "translation": "Because of the rain, the sports competition was postponed."
+  },
+  "To bardzo dobre określenie.": {
+   "translation": "That's a very good term."
+  },
+  "Prosze daj mi miękki ręcznik.": {
+   "text": "Proszę, daj mi miękki ręcznik."
+  },
+  "Bądź grzeczny wobec starszych.": {
+   "translation": "Be polite to your elders."
+  },
+  "Te krawaty różnią się od siebie.": {
+   "translation": "These ties are different from one another."
+  },
+  "Chcesz się przejechać?": {
+   "translation": "Do you want to go for a ride?"
+  },
+  "Całe życie mieszkam w tej dzielnicy, z tymi samymi sąsiadami.": {
+   "translation": "I've lived in this neighbourhood all my life, with the same neighbours."
+  },
+  "Chciałbym polecieć w kosmos.": {
+   "translation": "I would like to fly into space."
+  },
+  "Nie możemy się pomylić.": {
+   "translation": "We can't make a mistake."
+  },
+  "Jest profesjonalnym kierowcą.": {
+   "translation": "He's a professional driver."
+  },
+  "Muszę zająć się wyłącznie nauką do egzaminów wstępnych.": {
+   "translation": "I have to focus solely on studying for the entrance exams."
+  },
+  "Zdał wstępne egzaminy.": {
+   "text": "Zdał egzaminy wstępne."
+  },
+  "Moja mama przypadkiem tam była, gdy wybuchł ogień.": {
+   "text": "Moja mama przypadkiem tam była, gdy wybuchł pożar."
+  },
+  "Jest to częściowo wyjaśnione na końcu.": {
+   "translation": "It is partly explained at the end."
+  },
+  "Powinnaś słuchać uważnie.": {
+   "translation": "You should listen carefully."
+  },
+  "Telewizja jest ważnym medium przekazywania informacji.": {
+   "translation": "Television is an important medium for conveying information."
+  },
+  "Świat to dom wariatów.": {
+   "translation": "The world is a madhouse."
+  },
+  "Moją zasadą stał się codzienny poranny spacer.": {
+   "translation": "A daily morning walk has become my rule."
+  },
+  "To dobry podręcznik.": {
+   "translation": "This is a good textbook."
+  },
+  "Podążał za nią.": {
+   "translation": "He followed her."
+  },
+  "Akta zostały skradzione.": {
+   "translation": "The files were stolen."
+  },
+  "Nie umiem dojść, jak opublikować komentarz w tym blogu.": {
+   "text": "Nie wiem, jak opublikować komentarz na tym blogu.",
+   "translation": "I don't know how to post a comment on this blog."
+  },
+  "Jego sukces nie podlega dyskusji.": {
+   "translation": "His success is beyond dispute."
+  },
+  "Nie jest ani pilny ani bystry.": {
+   "text": "Nie jest ani pilny, ani bystry."
+  },
+  "Żaden system zabezpieczenia nie jest niezawodny.": {
+   "text": "Żaden system zabezpieczeń nie jest niezawodny.",
+   "translation": "No security system is foolproof."
+  },
+  "Ten most jest półtora raza dłuższy od tamtego.": {
+   "translation": "This bridge is one and a half times as long as that one."
+  },
+  "Muszę przebrać się.": {
+   "text": "Muszę się przebrać."
+  },
+  "Nie mam konta na tym forum.": {
+   "translation": "I don't have an account on this forum."
+  },
+  "Trzeba ci wiedzieć, że w głębi serca jestem wiejskim chłopakiem.": {
+   "text": "Powinieneś wiedzieć, że w głębi serca jestem wiejskim chłopakiem."
+  },
+  "Czasem polityczne konieczności okazują się być politycznymi pomyłkami.": {
+   "text": "Czasem polityczne konieczności okazują się politycznymi pomyłkami."
+  },
+  "On złapał ich jak kradli jabłka.": {
+   "text": "Przyłapał ich, jak kradli jabłka."
+  },
+  "Ten podatek jest kompletnie niepotrzebny.": {
+   "translation": "That tax is completely unnecessary."
+  },
+  "Wózek jest w pokoju dziecięcym.": {
+   "translation": "The stroller is in the children's room."
+  },
+  "Będziemy musieli usunąć ząb mądrości. Teraz.": {
+   "translation": "We're going to have to remove your wisdom tooth. Right now."
+  },
+  "Szykuje się jutro zajęty dzień.": {
+   "text": "Jutro szykuje się zajęty dzień."
+  },
+  "Jesteś chętny do pomocy.": {
+   "translation": "You're willing to help."
+  },
+  "Były dwa ciastka.": {
+   "translation": "There were two cookies."
+  },
+  "Napisz do swojego posła.": {
+   "translation": "Write to your MP."
+  },
+  "To znakomity skrzypek, nieprawdaż?": {
+   "text": "To znakomity skrzypek, prawda?",
+   "translation": "He's an excellent violinist, isn't he?"
+  },
+  "Ledwie dotarliśmy tam na czas.": {
+   "translation": "We barely got there on time."
+  },
+  "Wszyscy ludzie są w głębi serca dobrzy.": {
+   "translation": "Deep down, all people are good."
+  },
+  "Rząd wyznaczył komisję do zabadania wypadku.": {
+   "text": "Rząd wyznaczył komisję do zbadania wypadku."
+  },
+  "Podróżował pod przykrywką.": {
+   "translation": "He travelled undercover."
+  },
+  "Wzgórze jest jest nagie, bez drzew.": {
+   "text": "Wzgórze jest nagie, bez drzew."
+  },
+  "Myślałam że założysz swój nowy garnitur.": {
+   "text": "Myślałam, że założysz swój nowy garnitur."
+  },
+  "Chromosony w naszych komórkach zawierają nasz cały materiał genetyczny.": {
+   "text": "Chromosomy w naszych komórkach zawierają cały nasz materiał genetyczny."
+  },
+  "Ten staruszek jest bardzo bogaty.": {
+   "translation": "This old man is very rich."
+  },
+  "Przyszliśmy na dworzec na pół godziny przed odjazdem.": {
+   "translation": "We arrived at the station half an hour before departure."
+  },
+  "Byłem na dworcu odprowadzić kolegę.": {
+   "text": "Byłem na dworcu, żeby odprowadzić kolegę.",
+   "translation": "I was at the station to see my friend off."
+  },
+  "Informatyk naprawia problem techniczny z serwerem.": {
+   "translation": "The IT specialist is fixing a technical problem with the server."
+  },
+  "Jestem głodny jak wilk.": {
+   "translation": "I'm as hungry as a wolf."
+  },
+  "Założyłem czapkę przed wyjściem.": {
+   "translation": "I put on my cap before going out."
+  },
+  "Nie byliśmy powiadomieni.": {
+   "translation": "We were not notified."
+  },
+  "To doświadczenie pozostawiło nieprzyjemne wrażenie.": {
+   "translation": "That experience left an unpleasant impression."
+  },
+  "Jutro lecę po raz pierwszy samolotem. Niewiarygodne, prawda?": {
+   "translation": "Tomorrow I'm flying for the first time. Incredible, right?"
+  },
+  "Będzie kaczka i rozmaite dodatki; będziemy jedli jak królowie.": {
+   "translation": "There will be duck and various side dishes; we'll eat like kings."
+  },
+  "On zawsze przybywa punktualnie.": {
+   "translation": "He always arrives on time."
+  },
+  "Lecisz sobie w kulki czy co?": {
+   "translation": "Are you messing with me or what?"
+  },
+  "Jeśli zostanę wybrany, zrobię wszystko dla moich wyborców.": {
+   "translation": "If I'm elected, I will do everything for my voters."
+  },
+  "Metro jeździ częściej niż autobus.": {
+   "translation": "The metro runs more often than the bus."
+  },
+  "Cesarz nie miał telefonu komórkowego.": {
+   "translation": "The emperor had no mobile phone."
+  },
+  "Trudno było go nie polubić.": {
+   "translation": "It was hard not to like him."
+  },
+  "Dzieci troszczyły się o siebie nawzajem.": {
+   "translation": "The children took care of each other."
+  },
+  "Wychowanie dzieci jest w interesie całej społeczności. Będzie reforma edukacji.": {
+   "text": "Wychowanie dzieci jest w interesie całej społeczności.",
+   "translation": "Raising children is in the interest of the whole community."
+  },
+  "Próbuję tylko zarobić parę groszy.": {
+   "translation": "I'm just trying to earn a few pennies."
+  },
+  "Zapałki kosztują dziesięć groszy.": {
+   "translation": "Matches cost ten groszy."
+  },
+  "Może pan potwierdzić otrzymanie tej przesyłki?": {
+   "translation": "Can you confirm receipt of this shipment, sir?"
+  },
+  "Wygląda na to że jesteś adresatem przesyłki ale kto jest nadawacą?": {
+   "text": "Wygląda na to, że jesteś adresatem przesyłki, ale kto jest nadawcą?"
+  },
+  "Zmieniłam fryzurę, ale jemu nie spodobała się.": {
+   "text": "Zmieniłam fryzurę, ale jemu się nie spodobała.",
+   "translation": "I changed my hairstyle, but he didn't like it."
+  },
+  "Ten wiersz został napisany przez anonimowego poetę.": {
+   "translation": "This poem was written by an anonymous poet."
+  },
+  "Nie wiedziałem, że byłeś takim kretynem.": {
+   "translation": "I didn't know you were such an idiot."
+  },
+  "To, że jeszcze żyję, zawdzięczam tobie.": {
+   "translation": "I owe it to you that I am still alive."
+  },
+  "To zbiło mnie z tropu.": {
+   "translation": "That threw me off."
+  },
+  "Napijmy się kawy w tamtej kawiarni.": {
+   "translation": "Let's have a coffee at that café over there."
+  },
+  "Jest błąd w systemie elektronicznym.": {
+   "translation": "There is a fault in the electronic system."
+  },
+  "Widziałem wczoraj człowieka, który wyjadał resztki ze śmieci.": {
+   "translation": "Yesterday I saw a man eating leftovers out of the trash."
+  },
+  "Bardzo było ciekawie.": {
+   "text": "Było bardzo ciekawie.",
+   "translation": "It was very interesting."
+  },
+  "Byłbyś tak uprzejmy, żeby przekazać jej pozdrowienia ode mnie?": {
+   "translation": "Would you be so kind as to pass on my regards to her?"
+  },
+  "W ten sposób chwytają słonie żywcem.": {
+   "translation": "This is how they capture elephants alive."
+  },
+  "Wojna przynosi straszliwe nieszczęścia.": {
+   "translation": "War brings terrible misfortunes."
+  },
+  "Udało mu się złapać rzadki gatunek motyla.": {
+   "translation": "He managed to catch a rare species of butterfly."
+  },
+  "Pocałowała ją na pożegnanie.": {
+   "translation": "She kissed her goodbye."
+  },
+  "Kiedyś marzyłem, że będę bogatym przedsiębiorcą.": {
+   "translation": "I used to dream of being a rich entrepreneur."
+  },
+  "Mały przychód zobligował nas do oszczędności.": {
+   "text": "Mały dochód zmusił nas do oszczędności.",
+   "translation": "A small income forced us to economise."
+  },
+  "Mój wnuk jest jeszcze dzieckiem.": {
+   "translation": "My grandson is still a child."
+  },
+  "Już niebawem dojdzie do siebie.": {
+   "translation": "He will soon recover."
+  },
+  "Trzeba ci wiedzieć, że mam lęk wysokości.": {
+   "text": "Powinieneś wiedzieć, że mam lęk wysokości.",
+   "translation": "You should know that I'm afraid of heights."
+  },
+  "Dla rolnika, owoce są ważniejsze od kwiatów.": {
+   "text": "Dla rolnika owoce są ważniejsze od kwiatów.",
+   "translation": "For a farmer, fruit is more important than flowers."
+  },
+  "Mogę dyskutować z nią.": {
+   "text": "Mogę z nią dyskutować.",
+   "translation": "I can debate with her."
+  },
+  "Doktor mnie wyleczył.": {
+   "translation": "The doctor cured me."
+  },
+  "Jej odwaga podczas choroby jest motywacją dla nas wszystkich.": {
+   "translation": "Her courage during her illness is a motivation for all of us."
+  },
+  "Nie ma miłości bez zazdrości.": {
+   "translation": "There is no love without jealousy."
+  },
+  "Zrobił to z zazdrości.": {
+   "translation": "He did it out of jealousy."
+  },
+  "Chciałbym ubiegać się o tą posadę.": {
+   "text": "Chciałbym ubiegać się o tę posadę.",
+   "translation": "I would like to apply for that job."
+  },
+  "Wody podziemne są skażone.": {
+   "translation": "The groundwater is contaminated."
+  },
+  "Czy mógłbyś urządzić tak, aby być tutaj o piątej?": {
+   "text": "Czy mógłbyś to tak urządzić, żeby być tu o piątej?",
+   "translation": "Could you arrange it so that you are here at five?"
+  },
+  "Poszli urządzić piknik nad jeziorem.": {
+   "translation": "They went to have a picnic by the lake."
+  },
+  "Pobieramy się wiosną.": {
+   "translation": "We're getting married in the spring."
+  },
+  "Kto rozwalił imprezę?": {
+   "translation": "Who ruined the party?"
+  },
+  "Cukier jest słodki, masło jest tłuste.": {
+   "translation": "Sugar is sweet, butter is fatty."
+  },
+  "Sekretarka nie dość, że zna angielski to jest piękna.": {
+   "text": "Sekretarka nie dość, że zna angielski, to jest jeszcze piękna.",
+   "translation": "Not only does the secretary know English, she is also beautiful."
+  },
+  "To najgorszy dowcip jaki kiedykolwiek słyszałam.": {
+   "text": "To najgorszy dowcip, jaki kiedykolwiek słyszałam."
+  },
+  "Nie obracaj tego odwrotnie.": {
+   "translation": "Don't turn it the wrong way round."
+  },
+  "Obróć swoją torbę odwrotnie.": {
+   "translation": "Turn your bag the other way round."
+  },
+  "Jego występ był fascynujący.": {
+   "translation": "His performance was fascinating."
+  },
+  "Ten samochód wymaga przeglądu.": {
+   "translation": "This car needs an inspection."
+  },
+  "Lubię robić zdjęcia wiec zostanę fotografem.": {
+   "text": "Lubię robić zdjęcia, więc zostanę fotografem."
+  },
+  "Myślisz że jaką pracę dostaniesz z tym dyplomem?": {
+   "text": "Jak myślisz, jaką pracę dostaniesz z tym dyplomem?"
+  },
+  "Nie wykazuje skruchy za swoje bezprawne działania.": {
+   "translation": "He shows no remorse for his unlawful actions."
+  },
+  "Podczas rozmowy z nim, stwierdziłem, że jest zmartwiony, ale przyjazny.": {
+   "text": "Podczas rozmowy z nim stwierdziłem, że jest zmartwiony, ale przyjazny."
+  },
+  "Z wiekiem spada nasza szybkość reakcji.": {
+   "translation": "Our reaction speed decreases with age."
+  },
+  "Kiedy dwóch ludzi ma takie samo zdanie, jeden z nich jest zbędny.": {
+   "translation": "When two people have the same opinion, one of them is unnecessary."
+  },
+  "Ja tylko stwierdzam fakty.": {
+   "translation": "I'm just stating facts."
+  },
+  "Przede wszystkim niepokoi mnie zdrowie córki.": {
+   "translation": "First of all, the daughter's health worries me."
+  },
+  "Pastor wygłosił piękne kazanie.": {
+   "translation": "The pastor gave a beautiful sermon."
+  },
+  "Jak okiem sięgnąć, wszędzie ruiny po trzęsieniu ziemi.": {
+   "translation": "As far as the eye can see, there are ruins everywhere after the earthquake."
+  },
+  "Dom zapadł się tydzień później.": {
+   "translation": "The house collapsed a week later."
+  },
+  "Decyzja należy do czytelnika.": {
+   "translation": "The decision is up to the reader."
+  },
+  "Każda istota ma instynkt samozachowawczy.": {
+   "translation": "Every creature has a self-preservation instinct."
+  },
+  "Popatrz na to.": {
+   "translation": "Take a look at this."
+  },
+  "Chciałbym, żebyś mi pomógł zbierać drewno na ognisko.": {
+   "translation": "I'd like you to help me gather wood for the campfire."
+  },
+  "Aby zapobiegać porwanion, każdy bagaż ręczny jest dokładnie sprawdzany.": {
+   "text": "Aby zapobiegać porwaniom, każdy bagaż ręczny jest dokładnie sprawdzany.",
+   "translation": "To prevent hijackings, all carry-on baggage is carefully inspected."
+  },
+  "Państwo dotrzymało słowa swoim sojusznikom.": {
+   "translation": "The country kept its word to its allies."
+  },
+  "Bywa surowy, ale bywa i łagodny.": {
+   "translation": "He can be strict, but he can also be gentle."
+  },
+  "Widzieli w nim autorytet.": {
+   "translation": "They saw an authority in him."
+  },
+  "Nie mogę uwierzyć, że chcesz rozdać wszystkie swoje pieniądze.": {
+   "translation": "I can't believe you want to give away all your money."
+  },
+  "Umyj bakłażany i poobcinaj im końcówki.": {
+   "translation": "Wash the eggplants and trim off their ends."
+  },
+  "Rozwój edytorów tekstu ułatwił nam pisanie po japońsku.": {
+   "translation": "The development of word processors has made it easier for us to type in Japanese."
+  },
+  "Moją ulubioną dyscypliną jest futbol amerykański.": {
+   "translation": "My favourite sport is American football."
+  },
+  "W kraju demokratycznym ważna jest wolność prasy.": {
+   "translation": "In a democratic country, freedom of the press is important."
+  },
+  "Przestań krytykować mój świetny pomysł, on wcale nie jest naiwny!": {
+   "translation": "Stop criticizing my brilliant idea, it's not naive at all!"
+  },
+  "Chleba i igrzysk!": {
+   "translation": "Bread and circuses!"
+  },
+  "Chaty zbudowano w odległości pięćdziesięciu metrów między nimi.": {
+   "text": "Chaty zbudowano w odległości pięćdziesięciu metrów jedna od drugiej.",
+   "translation": "The huts were built fifty meters apart."
+  },
+  "Ta różna pachnie słodko.": {
+   "text": "Ta róża pachnie słodko."
+  },
+  "Nie robisz tego prawidłowo.": {
+   "translation": "You're not doing it correctly."
+  },
+  "Małpa, prawidłowo trenowana, będzie zdolna to robienia wielu sztuczek.": {
+   "text": "Małpa, prawidłowo trenowana, będzie zdolna do robienia wielu sztuczek."
+  },
+  "Czy masz może przeźroczystą teczkę?": {
+   "text": "Czy masz może przezroczystą teczkę?"
+  },
+  "On się z nią umawia tylko po to by wzbudzić w tobie zazdrość.": {
+   "text": "On się z nią umawia tylko po to, by wzbudzić w tobie zazdrość."
+  },
+  "Te słowa pojawią się na jego monitorze.": {
+   "translation": "The words will appear on his computer screen."
+  },
+  "Jeśli nie, będziemy musieli ponownie rozważyć ten zakup.": {
+   "translation": "If not, we will have to reconsider the purchase."
+  },
+  "Nie można tego zaprzeczyć.": {
+   "text": "Nie można temu zaprzeczyć."
+  },
+  "Jedyny deser jaki je mój syn to ciasto czekoladowe.": {
+   "text": "Jedyny deser, jaki je mój syn, to ciasto czekoladowe."
+  },
+  "Jego zachowanie nigdy nie pokrywało się z tym, co mówi.": {
+   "translation": "His behaviour never matched what he says."
+  },
+  "Powinna wcześnie kłaść się i wcześnie wstawać.": {
+   "text": "Powinna wcześnie się kłaść i wcześnie wstawać.",
+   "translation": "She should go to bed early and get up early."
+  },
+  "Ona kładzie chłopców spać.": {
+   "translation": "She is putting the boys to bed."
+  },
+  "Zbieracze śmieci wrzucają śmieci do śmieciarki.": {
+   "text": "Śmieciarze wrzucają śmieci do śmieciarki."
+  },
+  "Obraz osiągną rekordową cenę na aukcji.": {
+   "text": "Obraz osiągnął rekordową cenę na aukcji."
+  },
+  "Regulamin szkoły nakazuje uczniom noszenie fartuszków.": {
+   "translation": "The school rules require students to wear school smocks."
+  },
+  "Nie wiem jak można odczytać plik z rozszerzeniem .art.": {
+   "text": "Nie wiem, jak można odczytać plik z rozszerzeniem .art.",
+   "translation": "I don't know how to read a file with the .art extension."
+  },
+  "Nie miałem pojęcia co jest w tym pokoju... do niedawna.": {
+   "text": "Nie miałem pojęcia, co jest w tym pokoju... do niedawna."
+  },
+  "Nagle rozszalała się gwałtowna burza.": {
+   "translation": "Suddenly, a violent storm broke out."
+  },
+  "Odgłosy dochodzące z dżungli wystraszyły badaczy.": {
+   "translation": "The sounds coming from the jungle frightened the explorers."
+  },
+  "Polica ujęła przestępców.": {
+   "text": "Policja ujęła przestępców."
+  },
+  "Proponuję spotkanie w dogodnym dla pana terminie, by omówić sprawę poruszoną w mailu.": {
+   "translation": "I propose a meeting at a time convenient for you, to discuss the matter raised in the email."
+  },
+  "Po zrealizowaniu marzenia, wrócił do domu.": {
+   "text": "Po zrealizowaniu marzenia wrócił do domu.",
+   "translation": "After fulfilling his dream, he returned home."
+  },
+  "Pieniądze załatwiają wiele spraw.": {
+   "translation": "Money gets many things done."
+  },
+  "Uczę mojego kota załatwiać się w kuwecie.": {
+   "translation": "I'm teaching my cat to use the litter box."
+  },
+  "Nie był skłonny wysłuchać ich narzekań.": {
+   "translation": "He was not inclined to listen to their complaints."
+  },
+  "On nadużył przywilejów.": {
+   "translation": "He abused his privileges."
+  },
+  "Przyjmijmy, że był to komplement.": {
+   "translation": "Let's assume it was a compliment."
+  },
+  "Jak najszybciej dojechać stąd na lotnisko?": {
+   "translation": "What's the fastest way to get to the airport from here?"
+  },
+  "Muszę zmienić swoje nastawienie.": {
+   "translation": "I need to change my attitude."
+  },
+  "Jak tylko znajdę przyzwoitą kamerę, zaczynam kręcić filmy do internetu.": {
+   "text": "Jak tylko znajdę przyzwoitą kamerę, zacznę kręcić filmy do internetu."
+  },
+  "Nie docenisz jego dobrych stron tylko na postawie jego wyglądu.": {
+   "text": "Nie docenisz jego dobrych stron tylko na podstawie jego wyglądu."
+  },
+  "Trafiło się ślepej kurze ziarno.": {
+   "translation": "Even a blind hen sometimes finds a grain."
+  },
+  "Żyjące rzeczy na ziemi są od siebie uzależnione.": {
+   "translation": "All living things on earth depend on one another."
+  },
+  "Nie lubię marchewki jeszcze bardziej niż cebuli.": {
+   "translation": "I dislike carrots even more than onions."
+  },
+  "Bieda jest u źródeł wszelkiego zła.": {
+   "translation": "Poverty is at the root of all evil."
+  },
+  "Mógłbyś przetłumaczyć to na francuski?": {
+   "translation": "Could you translate this into French?"
+  },
+  "Potrzebuję masażu. Muszę się zrelaksować.": {
+   "translation": "I need a massage. I need to relax."
+  },
+  "Czy grałeś wczoraj w koszykówkę?": {
+   "translation": "Did you play basketball yesterday?"
+  },
+  "Jego palec krwawi.": {
+   "translation": "His finger is bleeding."
+  },
+  "Chcę wyrazić moją sympatię.": {
+   "translation": "I want to express my affection."
+  },
+  "Władze aktywnie zdławiły wystąpienia rebeliantów.": {
+   "translation": "The authorities actively suppressed the rebels' actions."
+  },
+  "Głód najlepszym kucharzem.": {
+   "translation": "Hunger is the best cook."
+  },
+  "Dlaczego to ujawniasz, nawet swoim konkurentom w branży?": {
+   "translation": "Why are you revealing this, even to your competitors in the industry?"
+  },
+  "Nie wystawiaj rąk za okno.": {
+   "translation": "Don't stick your hands out of the window."
+  },
+  "To była tylko niegrzeczna uwaga.": {
+   "translation": "It was just a rude remark."
+  },
+  "Zawsze spotykaliśmy się w określonym miejscu w mieście.": {
+   "translation": "We always met at a certain place in the city."
+  },
+  "Ten pomnik został wzniesniony na cześć wybitnego filozofa.": {
+   "text": "Ten pomnik został wzniesiony na cześć wybitnego filozofa."
+  },
+  "Tu spoczywają jego prochy.": {
+   "translation": "His ashes rest here."
+  },
+  "By się obronić musiałem skłamać.": {
+   "text": "By się obronić, musiałem skłamać."
+  },
+  "Ojciec powiedział mi abym zawsze był odważny i radosny.": {
+   "text": "Ojciec powiedział mi, abym zawsze był odważny i radosny."
+  },
+  "Japończyk nigdy nie zrobiłby czegoś takiego.": {
+   "translation": "A Japanese person would never do such a thing."
+  },
+  "Czy można tam dojść pieszo?": {
+   "translation": "Is it possible to get there on foot?"
+  },
+  "Naprzeciwko mnie jest żółty samochód.": {
+   "translation": "There's a yellow car opposite me."
+  },
+  "Zwykle naprzeciwko dworca są taksówki.": {
+   "translation": "There are usually taxis opposite the train station."
+  },
+  "Węgiel płonął czerwonym ogniem.": {
+   "translation": "The coal burned with a red flame."
+  },
+  "Obawiam się, że nie byłabym zachwycona, gdybym go spotkała.": {
+   "translation": "I'm afraid I wouldn't be delighted if I met him."
+  },
+  "Mała kropla oleju i troszeczkę chleba.": {
+   "translation": "A small drop of oil and a little bit of bread."
+  },
+  "Ta tendencja jest dość korzystna.": {
+   "translation": "This trend is quite favourable."
+  },
+  "Weźmy bilet bez oznaczonej daty.": {
+   "translation": "Let's get a ticket with no specified date."
+  },
+  "Wyrósł na wspaniałego młodzieńca.": {
+   "translation": "He grew up into a fine young man."
+  },
+  "Przełożył swój wyjazd o dwa dni.": {
+   "translation": "He postponed his departure by two days."
+  },
+  "Pamiętaj, żeby pochwalić jej nową sukienkę.": {
+   "translation": "Remember to compliment her new dress."
+  },
+  "Nie tylko go nie zaatakowała, ale wręcz go pochwaliła.": {
+   "translation": "Not only did she not attack him, she actually praised him."
+  },
+  "Wdrapał się na ogrodzenie.": {
+   "translation": "He climbed up onto the fence."
+  },
+  "Zastanawiam się co malarz chciał przekazać.": {
+   "text": "Zastanawiam się, co malarz chciał przekazać."
+  },
+  "Nie ma co ich przekonywać.": {
+   "translation": "There's no point trying to convince them."
+  },
+  "Francuza, na przykład, mogą nie śmieszyć rosyjskie dowcipy.": {
+   "translation": "A Frenchman, for example, might not find Russian jokes funny."
+  },
+  "To jest zasadniczo dobre poza pomniejszymi błędami.": {
+   "translation": "This is basically good, apart from minor mistakes."
+  },
+  "Chodźmy na piknik.": {
+   "translation": "Let's go on a picnic."
+  },
+  "Nie sposób skutecznie przeanalizować danych, jeśli się nie narysuje wykresu.": {
+   "translation": "You cannot analyse the data effectively unless you draw a plot."
+  },
+  "Niebezpiecznie jest pić za dużo.": {
+   "translation": "It is dangerous to drink too much."
+  },
+  "Niebezpiecznie jest iść po moście.": {
+   "translation": "It's dangerous to walk on the bridge."
+  },
+  "Nie mogłem powstrzymać łez współczucia.": {
+   "translation": "I couldn't hold back tears of compassion."
+  },
+  "Lubisz bułgarski cyrk?": {
+   "translation": "Do you like the Bulgarian circus?"
+  },
+  "Ma alergię na latex.": {
+   "text": "Ma alergię na lateks."
+  },
+  "O ile wiem, nie ma ograniczeń.": {
+   "translation": "As far as I know, there are no restrictions."
+  },
+  "Nie powinieneś wyłączać swojej komórki.": {
+   "text": "Nie powinieneś wyłączać swojej komórki.",
+   "translation": "You shouldn't turn off your cell phone."
+  },
+  "Teraz praca może być wykonana z łatwością.": {
+   "text": "Teraz praca może być wykonana z łatwością.",
+   "translation": "The work can now be done with ease."
+  },
+  "To sztuczna szczęka mojej babci.": {
+   "text": "To sztuczna szczęka mojej babci.",
+   "translation": "This is my grandmother's denture."
+  },
+  "Stadion był pełen kibiców baseballa.": {
+   "text": "Stadion był pełen kibiców baseballa.",
+   "translation": "The stadium was full of baseball fans."
+  },
+  "Lubi grać w piłkę nożną, gdy jest wielu kibiców.": {
+   "text": "Lubi grać w piłkę nożną, gdy jest wielu kibiców.",
+   "translation": "He likes playing football when there are many spectators."
+  },
+  "Czy powie mi pan, gdzie mam wysiąść?": {
+   "text": "Czy powie mi pan, gdzie mam wysiąść?",
+   "translation": "Could you tell me where I should get off?"
+  },
+  "Muszę wysiąść na następnym przystanku.": {
+   "text": "Muszę wysiąść na następnym przystanku.",
+   "translation": "I have to get off at the next stop."
+  },
+  "Moja żona świetnie wszystko ogarnia.": {
+   "text": "Moja żona świetnie wszystko ogarnia.",
+   "translation": "My wife has everything under control."
+  },
+  "Ucz cię na cudzych błędach.": {
+   "text": "Ucz się na cudzych błędach.",
+   "translation": "Learn from others' mistakes."
+  },
+  "Możesz nam pomóc przy dekoracjach na imprezę?": {
+   "text": "Możesz nam pomóc przy dekoracjach na imprezę?",
+   "translation": "Can you help us with the decorations for the party?"
+  },
+  "Na cmentarzu jest posąg węża zjadającego swój własny ogon.": {
+   "text": "Na cmentarzu jest posąg węża zjadającego swój własny ogon.",
+   "translation": "In the cemetery, there is a statue of a snake eating its own tail."
+  },
+  "Brakuje drewna w ognisku, płomienie już tracą na sile.": {
+   "text": "Brakuje drewna w ognisku, płomienie już tracą na sile.",
+   "translation": "The fire is running out of wood, and the flames are already losing strength."
+  },
+  "Ten przeźroczysty płyn zawiera truciznę.": {
+   "text": "Ten przezroczysty płyn zawiera truciznę.",
+   "translation": "This transparent liquid contains poison."
+  },
+  "Rząd rozważa zmianę stanowiska w kwestii eksportu broni.": {
+   "text": "Rząd rozważa zmianę stanowiska w kwestii eksportu broni.",
+   "translation": "The government is considering changing its position on arms exports."
+  },
+  "Zasugerowała bym odwołał spotkanie.": {
+   "text": "Zasugerowała, bym odwołał spotkanie.",
+   "translation": "She suggested that I call off the meeting."
+  },
+  "Ich niechęć do kobiet jest obrzydliwa.": {
+   "text": "Ich niechęć do kobiet jest obrzydliwa.",
+   "translation": "Their aversion to women is disgusting."
+  },
+  "Co powiedziałeś? Przepraszam, zgubiłem wątek.": {
+   "text": "Co powiedziałeś? Przepraszam, zgubiłem wątek.",
+   "translation": "What did you say? Sorry, I lost my train of thought."
+  },
+  "Spudłować o centymetr, to tak jak spudłować o kilometr.": {
+   "text": "Spudłować o centymetr, to tak jak spudłować o kilometr.",
+   "translation": "Missing by a centimetre is as good as missing by a kilometre."
+  },
+  "Hotel, w którym mieszka, znajduje się na przedmieściach.": {
+   "text": "Hotel, w którym mieszka, znajduje się na przedmieściach.",
+   "translation": "The hotel where he is staying is in the suburbs."
+  },
+  "Czy twój komputer dobrze się sprawuje?": {
+   "translation": "Is your computer working well?"
+  },
+  "Trudne czasy wymagają zdecydowanych działań.": {
+   "translation": "Difficult times require decisive action."
+  },
+  "Masz plamę na koszuli.": {
+   "translation": "You have a stain on your shirt."
+  },
+  "Dzieci naśladują przyjaciół niż rodziców.": {
+   "text": "Dzieci bardziej naśladują przyjaciół niż rodziców.",
+   "translation": "Children imitate their friends more than their parents."
+  },
+  "Była dla nas wspaniałym wzorem do naśladowania.": {
+   "translation": "She was a wonderful role model for us."
+  },
+  "Byliśmy naprawdę poruszeni tą lekturą.": {
+   "translation": "We were really moved by that reading."
+  },
+  "Mógłbyś pomóc mi spakować się w niedzielę?": {
+   "translation": "Could you give me a hand packing on Sunday?"
+  },
+  "Rozpoczął się pościg za złodziejem.": {
+   "translation": "A chase after the thief began."
+  },
+  "Bądź uprzejmy dla nieznajomych.": {
+   "translation": "Be kind to strangers."
+  },
+  "Ona powitała mnie przez \"dzień dobry\".": {
+   "text": "Powitała mnie słowami „dzień dobry”.",
+   "translation": "She greeted me with \"good morning.\""
+  },
+  "Jeśli to zrobisz, narazisz się na ostrą krytykę.": {
+   "translation": "If you do that, you'll expose yourself to harsh criticism."
+  },
+  "To był studolarowy banknot .": {
+   "text": "To był studolarowy banknot."
+  },
+  "W banknotach dziesięcio-dolarowych proszę.": {
+   "text": "W banknotach dziesięciodolarowych, proszę."
+  },
+  "Przestań zmarszczać brwi.": {
+   "text": "Przestań marszczyć brwi."
+  },
+  "Wolisz poranne czy wieczorne zmiany?": {
+   "translation": "Do you prefer morning or evening shifts?"
+  },
+  "Chcemy uczestniczyć w wieczornym koncercie.": {
+   "translation": "We want to attend the evening concert."
+  },
+  "On chwycił jej rękę.": {
+   "translation": "He grabbed her hand."
+  },
+  "Z roku na rok jest zanieczyszczenie środowiska większe.": {
+   "text": "Z roku na rok zanieczyszczenie środowiska jest większe."
+  },
+  "Jestem pewien jego uczciwości.": {
+   "translation": "I am sure of his honesty."
+  },
+  "Jestem uzależniony od telewizji.": {
+   "translation": "I'm addicted to TV."
+  },
+  "To człowiek bardzo utalentowany.": {
+   "translation": "He is a very talented man."
+  },
+  "Nie przeszkadza mi upał.": {
+   "translation": "The heat doesn't bother me."
+  },
+  "Powinieneś prosić o przebaczenie.": {
+   "translation": "You should ask for forgiveness."
+  },
+  "Nie ma przebaczenia.": {
+   "translation": "There is no forgiveness."
+  },
+  "Odrzut zmniejsza precyzyjność broni.": {
+   "text": "Odrzut zmniejsza celność broni.",
+   "translation": "The recoil reduces the weapon's accuracy."
+  },
+  "Wystarczy iskra żeby podpalić las.": {
+   "text": "Wystarczy iskra, żeby podpalić las."
+  },
+  "Jak skłonić dziecko do jedzenia warzyw?": {
+   "translation": "How can I get a child to eat vegetables?"
+  },
+  "Spychacz wyrównał powierzchnię ulicy.": {
+   "translation": "A bulldozer levelled the surface of the street."
+  },
+  "Nie miałem pojęcia, co powstrzymało mnie przed przeprowadzką.": {
+   "translation": "I had no idea what stopped me from moving."
+  },
+  "Ten akapit podsumowuje treść.": {
+   "translation": "This paragraph sums up the content."
+  },
+  "Niespodziewanie, znaleźliśmy w tym pudełku kota.": {
+   "text": "Niespodziewanie znaleźliśmy w tym pudełku kota."
+  },
+  "Nie ma sensu rozwiązywanie tej łamigłówki.": {
+   "text": "Nie ma sensu rozwiązywać tej łamigłówki."
+  },
+  "Nie chcę się w to angażować.": {
+   "translation": "I don't want to get involved in it."
+  },
+  "Obserwatorzy patrzyli, jak wchodził do samolotu.": {
+   "translation": "The observers watched him board the plane."
+  },
+  "Nie jestem pewien, czy to ironia, czy nie.": {
+   "translation": "I'm not sure if it's irony or not."
+  },
+  "To jest niepewne.": {
+   "translation": "It is uncertain."
+  },
+  "Wynik wyścigu był niepewny do samego końca.": {
+   "translation": "The result of the race was uncertain until the very end."
+  },
+  "Plan nie wypalił i straciliśmy mnóstwo pieniędzy.": {
+   "translation": "The plan didn't work out and we lost a lot of money."
+  },
+  "Jako bezrobotny, nic nie zaoszczędzę.": {
+   "text": "Jako bezrobotny nic nie zaoszczędzę."
+  },
+  "Gdyby był ptakiem, mógłby przylecieć do ciebie.": {
+   "translation": "If he were a bird, he could fly to you."
+  },
+  "Szukam pokoju z dwoma oddzielnymi łóżkami.": {
+   "translation": "I'm looking for a room with two separate beds."
+  },
+  "W krzakach znaleziono martwego człowieka.": {
+   "translation": "A dead man was found in the bushes."
+  },
+  "Chciałbym zarezerwować pokój.": {
+   "translation": "I'd like to reserve a room."
+  },
+  "Miała go za głąba.": {
+   "translation": "She took him for a blockhead."
+  },
+  "Niech Bóg nad tobą czuwa.": {
+   "translation": "May God watch over you."
+  },
+  "Był wkurzony do granic możliwości.": {
+   "translation": "He was as angry as it is possible to be."
+  },
+  "Musimy się upewnić, że to się nie dzieje.": {
+   "translation": "We have to make sure this isn't happening."
+  },
+  "Chyba każdy się czuje niezręcznie.": {
+   "translation": "I guess everyone feels awkward."
+  },
+  "Latanie pod silny wiatr to bardzo ciężka praca.": {
+   "translation": "Flying against a strong wind is very hard work."
+  },
+  "Chyba zostajemy tu na dziś wieczór.": {
+   "text": "Chyba zostajemy tu dziś wieczorem."
+  },
+  "Taki ten świat mały!": {
+   "text": "Jaki ten świat mały!",
+   "translation": "What a small world!"
+  },
+  "Czy pamiętasz, gdzie się spotkaliśmy po raz pierwszy?": {
+   "translation": "Do you remember where we first met?"
+  },
+  "Czy wciąż pamiętasz, jak się poznaliśmy?": {
+   "translation": "Do you still remember how we met?"
+  },
+  "Powinieneś pracować ciężej.": {
+   "translation": "You should work harder."
+  },
+  "Kiedyś chciałem grać świetnie w szachy.": {
+   "text": "Kiedyś chciałem świetnie grać w szachy.",
+   "translation": "I used to want to play chess really well."
+  },
+  "Udało się dodzwonić.": {
+   "translation": "I managed to get through (by phone)."
+  },
+  "Trzeba nie mieć serca, żeby coś takiego powiedzieć.": {
+   "translation": "You'd have to have no heart to say something like that."
+  },
+  "Nie zdziwiłbym się, gdyby się spóźniła na pociąg.": {
+   "translation": "I wouldn't be surprised if she missed the train."
+  },
+  "Skończyłem pisać raport.": {
+   "translation": "I've finished writing the report."
+  },
+  "Nie chciałbym, byśmy znowu kiedykolwiek musieli to robić.": {
+   "translation": "I wouldn't want us to ever have to do this again."
+  },
+  "Moglibyśmy oboje iść.": {
+   "text": "Moglibyśmy obaj iść.",
+   "translation": "We could both go."
+  },
+  "Zachowałem spokój i nic nie powiedziałem.": {
+   "translation": "I kept calm and said nothing."
+  },
+  "Bawiłem się świetnie, na przyjęciu.": {
+   "text": "Bawiłem się świetnie na przyjęciu."
+  },
+  "Dostałam twój list wczoraj.": {
+   "translation": "I got your letter yesterday."
+  },
+  "Nie miałem pojęcia jak zrobić to, co trzeba.": {
+   "text": "Nie miałem pojęcia, jak zrobić to, co trzeba.",
+   "translation": "I had no idea how to do what needed to be done."
+  },
+  "Życie, to nie nauki ścisłe, to sztuka.": {
+   "text": "Życie to nie nauki ścisłe, to sztuka."
+  },
+  "Znów zaczęliśmy chodzić, jak tylko wróciła do zdrowia.": {
+   "translation": "We began to walk again as soon as she had recovered."
+  },
+  "Burza zerwała linie.": {
+   "translation": "The storm brought down the lines."
+  },
+  "Czy to twój ulubiony klub golfowy?": {
+   "translation": "Is that your favorite golf club?"
+  },
+  "Kto jest oskarżycielem w tym procesie?": {
+   "translation": "Who is the accuser in this trial?"
+  },
+  "To ty, który złamałeś naszą umowę.": {
+   "text": "To ty złamałeś naszą umowę."
+  },
+  "Powinieneś starać się być bardziej optymistycznym.": {
+   "translation": "You should try to be more optimistic."
+  },
+  "Nie spodziewałem się, że do tego dojdzie.": {
+   "translation": "I didn't expect it to come to this."
+  },
+  "Moja siostra zagrała główną rolę.": {
+   "translation": "My sister played the lead role."
+  },
+  "Najwyższy czas iść do łóżka.": {
+   "translation": "It's high time to go to bed."
+  },
+  "Chciałam tylko porozmawiać.": {
+   "translation": "I just wanted to talk."
+  },
+  "Znam podstawy francuskiego.": {
+   "translation": "I know the basics of French."
+  },
+  "Wpadnę do ciebie przy najbliższej okazji.": {
+   "translation": "I'll drop by at the next opportunity."
+  },
+  "Postanowił rozpocząć nowe życie.": {
+   "translation": "He decided to start a new life."
+  },
+  "Zawsze jestem nieufny wobec ludzi takich, jak on.": {
+   "translation": "I'm always suspicious of people like him."
+  },
+  "Przynieś mi mleko.": {
+   "translation": "Bring me some milk."
+  },
+  "To mała różnica.": {
+   "translation": "It's a small difference."
+  },
+  "Ten dom nie ma dostępu do prądu.": {
+   "translation": "This house has no access to electricity."
+  },
+  "Nauczyciel nalegał, bym poszedł na studia.": {
+   "translation": "The teacher insisted that I go to college."
+  },
+  "Czy nie odpowiada ci obecny stan rzeczy?": {
+   "translation": "Aren't you happy with the current state of things?"
+  },
+  "Co ubierasz na dzisiejszy wieczór?": {
+   "text": "Co zakładasz na dzisiejszy wieczór?"
+  },
+  "Jak daleko się wybierasz?": {
+   "translation": "How far are you going?"
+  },
+  "Chcę łódź, która mnie zabierze stąd z dala.": {
+   "text": "Chcę łódź, która zabierze mnie stąd daleko."
+  },
+  "Haker zdobył dostęp do sensytywnych plików w bazie danych firmy.": {
+   "text": "Haker zdobył dostęp do poufnych plików w bazie danych firmy."
+  },
+  "Wolałbym rozwiązać ten problem szybko.": {
+   "translation": "I'd prefer to solve this problem quickly."
+  },
+  "Gdzie znalazłeś ten klucz?": {
+   "translation": "Where did you find this key?"
+  },
+  "Wszystko należy czynić starannie.": {
+   "translation": "Everything should be done carefully."
+  },
+  "Służyła w tym domu przez dwadzieścia lat.": {
+   "translation": "She served in this household for twenty years."
+  },
+  "Doszedłem do wniosku, że wszyscy jesteśmy jednakowi.": {
+   "translation": "I came to the conclusion that we are all the same."
+  },
+  "Czułem się całkiem nieźle.": {
+   "translation": "I felt pretty good."
+  },
+  "Cały obszar był pokryty śniegiem.": {
+   "translation": "The whole area was covered in snow."
+  },
+  "Jak długo ten pociąg tu stoi?": {
+   "translation": "How long has this train been standing here?"
+  },
+  "Uwaga na zagrożenie pożarowe.": {
+   "translation": "Beware of the fire hazard."
+  },
+  "To jest cudowny kraj.": {
+   "translation": "It's a wonderful country."
+  },
+  "Ta teoria dotyczy wszystkiego.": {
+   "translation": "This theory applies to everything."
+  },
+  "W przestrzeni, nikt nie słyszy twojego krzyku.": {
+   "text": "W przestrzeni kosmicznej nikt nie usłyszy twojego krzyku."
+  },
+  "Rząd zapewni firmom uczestniczącym w programie, kredyty wolne od odsetek.": {
+   "text": "Rząd zapewni firmom uczestniczącym w programie kredyty wolne od odsetek."
+  },
+  "To mój ulubiony kawałek na tej płycie.": {
+   "translation": "This is my favorite track on this album."
+  },
+  "Nigdy nie spotkaliśmy się osobiście.": {
+   "translation": "We have never met in person."
+  },
+  "Byłem tam osobiście.": {
+   "translation": "I was there in person."
+  },
+  "Czy życzy pan sobie jeszcze?": {
+   "text": "Czy życzy pan sobie coś jeszcze?",
+   "translation": "Would you like anything else?"
+  },
+  "Miała poważne kłopoty finansowe, mimo to robiła dobrą minę do złej gry.": {
+   "translation": "She was in serious financial trouble, but she still put on a brave face."
+  },
+  "Lekarstwo powinno podawać się miejscowo.": {
+   "text": "Lek należy podawać miejscowo."
+  },
+  "Jak u diabła miałabym to zrobić?": {
+   "translation": "How on earth would I do that?"
+  },
+  "Chciałbym nauczyć się kontrolować swój apetyt.": {
+   "translation": "I'd like to learn to control my appetite."
+  },
+  "Zapomniałem, jak tu jest pięknie.": {
+   "translation": "I forgot how beautiful it is here."
+  },
+  "Myślę, że teraz nadszedł czas na zadanie domowe.": {
+   "translation": "I think it's now time for homework."
+  },
+  "Te podatki poniosły ceny na wszystkie towary.": {
+   "text": "Te podatki podniosły ceny wszystkich towarów.",
+   "translation": "These taxes raised the prices of all goods."
+  },
+  "Naprawdę żałuję, że nie wiem, jak to zrobić.": {
+   "translation": "I really regret that I don't know how to do that."
+  },
+  "Nie brakuje dobrych chęci, jedynie odwagi.": {
+   "translation": "There is no shortage of good intentions, only of courage."
+  },
+  "Ten sport staje się coraz popularniejszy.": {
+   "translation": "This sport is becoming more and more popular."
+  },
+  "Rozumiem, że czasami mogą wystąpić trudności.": {
+   "translation": "I understand that difficulties may sometimes arise."
+  },
+  "Wstyd mi to zrobić.": {
+   "translation": "I'm ashamed to do it."
+  },
+  "Myślałem, że będziesz tym zainteresowany.": {
+   "translation": "I thought you'd be interested in this."
+  },
+  "Pomyślałam, że cię to zainteresuje.": {
+   "translation": "I thought it would interest you."
+  },
+  "Dlaczego ludzie popełniają samobójstwa?": {
+   "translation": "Why do people commit suicide?"
+  },
+  "To nie on ukradł mi portfel.": {
+   "translation": "He's not the one who stole my wallet."
+  },
+  "Przestań krzyczeć mi do uszu.": {
+   "text": "Przestań krzyczeć mi do ucha.",
+   "translation": "Stop screaming in my ear."
+  },
+  "Włamywacz wycelował swój pistolet na oficera policji.": {
+   "text": "Włamywacz wycelował pistolet w oficera policji."
+  },
+  "Proszę nie oddychać.": {
+   "translation": "Please don't breathe."
+  },
+  "Jesteś szczery czy kłamiesz?": {
+   "translation": "Are you being honest or are you lying?"
+  },
+  "Cóż za smakowity zapach!": {
+   "translation": "What a delicious smell!"
+  },
+  "Książę stał się królem tego dnia.": {
+   "text": "Książę został królem tego dnia."
+  },
+  "Dom na rogu wygląda na opuszczony.": {
+   "translation": "The house on the corner looks abandoned."
+  },
+  "Ten typ książek jest praktycznie bezwartościowy.": {
+   "translation": "These kinds of books are practically worthless."
+  },
+  "Czy on specjalnie popełnił ten błąd?": {
+   "translation": "Did he make that mistake on purpose?"
+  },
+  "W pokoju panowała cisza.": {
+   "translation": "Silence reigned in the room."
+  },
+  "Ten ekonomista przewidywał dłuższy kryzys.": {
+   "translation": "The economist predicted a prolonged crisis."
+  },
+  "W poniedziałek jest święto państwowe.": {
+   "translation": "Monday is a public holiday."
+  },
+  "Musieli zadzwonić po staż pożarną żeby ugasić pożar.": {
+   "text": "Musieli zadzwonić po straż pożarną, żeby ugasić pożar.",
+   "translation": "They had to call the fire brigade to put out the fire."
+  },
+  "Muszę zdać egzamin.": {
+   "translation": "I have to pass the exam."
+  },
+  "Byłbym wdzięczny gdybyś mi pomógł.": {
+   "text": "Byłbym wdzięczny, gdybyś mi pomógł.",
+   "translation": "I would be grateful if you helped me."
+  },
+  "Powiedź to wyraźnie.": {
+   "text": "Powiedz to wyraźnie.",
+   "translation": "Say it clearly."
+  },
+  "Ten posąg wyobraża wolność.": {
+   "translation": "The statue represents freedom."
+  },
+  "Jestem policjantem z zawodu.": {
+   "translation": "I am a policeman by profession."
+  },
+  "Życzę wesołych świąt.": {
+   "translation": "I wish you a happy holiday."
+  },
+  "Przyszli mimo mojego zakazu.": {
+   "translation": "They came despite my ban."
+  },
+  "Dla mnie, żal jest najcięższą karą.": {
+   "text": "Dla mnie żal jest najcięższą karą."
+  },
+  "Upił się jak świnia.": {
+   "translation": "He got drunk as a pig."
+  },
+  "Mój dom jest niedaleko ulicy.": {
+   "translation": "My house is not far from the street."
+  },
+  "Naprawdę chcesz się zaangażować?": {
+   "translation": "Do you really want to get involved?"
+  },
+  "Mogę sobie wyobrazić jak się czułeś.": {
+   "text": "Mogę sobie wyobrazić, jak się czułeś."
+  },
+  "Był młody, ale zdolny.": {
+   "translation": "He was young but talented."
+  },
+  "Nie będzie łatwo znaleźć kogoś, kto byłby odpowiedni by go zastąpić.": {
+   "text": "Nie będzie łatwo znaleźć kogoś, kto byłby odpowiedni, by go zastąpić."
+  },
+  "Wieża się zawaliła.": {
+   "translation": "The tower collapsed."
+  },
+  "Zobaczymy się w środę.": {
+   "translation": "See you on Wednesday."
+  },
+  "Wszyscy byliśmy wówczas zajęci.": {
+   "translation": "We were all busy then."
+  },
+  "Dopiero po trzech dniach dowiedziałem się, że zaginęła.": {
+   "translation": "Only after three days did I find out that she had gone missing."
+  },
+  "Ten zajazd oferuje dobrą obsługę.": {
+   "translation": "This inn offers good service."
+  },
+  "Przybył by mnie ocalić.": {
+   "text": "Przybył, by mnie ocalić."
+  },
+  "Czy chciałbyś jeszcze trochę sosu?": {
+   "translation": "Would you like some more sauce?"
+  },
+  "Ten sos jogurtowy jest kompletnie przereklamowany.": {
+   "translation": "This yogurt sauce is completely overrated!"
+  },
+  "To zachwiało moim zaufaniem w instytucje rządowe.": {
+   "text": "To zachwiało moim zaufaniem do instytucji rządowych."
+  },
+  "Jak zobaczysz moją kolekcję żab to włosy staną ci dęba.": {
+   "text": "Jak zobaczysz moją kolekcję żab, to włosy staną ci dęba."
+  },
+  "Uczenie się kolokacji to krok naprzód w znajomości języka.": {
+   "translation": "Learning collocations is a step forward in your knowledge of the language."
+  },
+  "Przyjemny dziś wietrzyk.": {
+   "translation": "There's a pleasant breeze today."
+  },
+  "Zbyli jego krytykę jako objaw hipokryzji.": {
+   "translation": "They dismissed his criticism as a sign of hypocrisy."
+  },
+  "To jest godne uwagi.": {
+   "translation": "It's worthy of attention."
+  },
+  "Ostrzegłem go, ale puścił to mimo uszu.": {
+   "translation": "I warned him, but he ignored it."
+  },
+  "Żądali by burmistrz zrezygnował ze stanowiska.": {
+   "text": "Żądali, by burmistrz zrezygnował ze stanowiska."
+  },
+  "Boję się, że on zamierza ujawnić sekret.": {
+   "translation": "I'm afraid he is going to reveal the secret."
+  },
+  "Niektórzy seniorzy po przejściu na emeryturę popadają w depresję.": {
+   "translation": "Some seniors fall into depression after they retire."
+  },
+  "Ten płaszcz kosztuje majątek, ale jest wart swojej ceny.": {
+   "translation": "That coat costs a fortune, but it's worth the price."
+  },
+  "Dziękuję za poprawkę.": {
+   "translation": "Thank you for the correction."
+  },
+  "W tej kamerze nie ma taśmy.": {
+   "translation": "There's no tape in this camera."
+  },
+  "Naturalnie można pływać w jeziorze, ale nie ma to sensu.": {
+   "translation": "Of course you can swim in the lake, but there's no point."
+  },
+  "Dan przekroczył nielegalnie granicę.": {
+   "translation": "Dan crossed the border illegally."
+  },
+  "Dzisiaj jest wyjątkowo gorąco.": {
+   "translation": "It is exceptionally hot today."
+  },
+  "Pracować w takich warunkach było wyjątkowo trudno.": {
+   "translation": "Working in such conditions was exceptionally difficult."
+  },
+  "Do diabła z fizyką!": {
+   "translation": "To hell with physics!"
+  },
+  "Poczuł nagły przypływ pewności siebie.": {
+   "translation": "He felt a sudden surge of self-confidence."
+  },
+  "Łańcuch jest zrobiony z wielu linek.": {
+   "text": "Łańcuch jest zrobiony z wielu ogniw."
+  },
+  "Populacja świata gwałtownie się zwiekszyła.": {
+   "text": "Populacja świata gwałtownie się zwiększyła."
+  },
+  "Opowiedzcie jakieś śmieszne kawały.": {
+   "translation": "Tell some funny jokes."
+  },
+  "Sumienie go dręczyło.": {
+   "translation": "His conscience tormented him."
+  },
+  "Gazeta jeszcze nie opublikowała swego artykułu.": {
+   "translation": "The newspaper hasn't published its article yet."
+  },
+  "To się często zdarza jesienią.": {
+   "translation": "This often happens in autumn."
+  },
+  "Jeśli szczur podskakuje za wysoko - zostaje złapany przez kota.": {
+   "translation": "If a rat jumps too high, it gets caught by the cat."
+  },
+  "Musimy wybrać jedną spośród tych aplikacji.": {
+   "translation": "We must choose one of these apps."
+  },
+  "Przesadne palenie zaszkodzi twojemu zdrowiu.": {
+   "text": "Nadmierne palenie zaszkodzi twojemu zdrowiu."
+  },
+  "Jestem dobrze wychowany.": {
+   "translation": "I am well brought up."
+  },
+  "Nie poddawaj się.": {
+   "translation": "Don't give up."
+  },
+  "Czy regularnie czytasz biblię?": {
+   "text": "Czy regularnie czytasz Biblię?"
+  },
+  "Najlepsze ciastka, jakie w życiu jadłem, to te, które piekła dla mnie mama.": {
+   "translation": "The best cookies I've ever eaten are the ones my mom baked for me."
+  },
+  "Chwycił mnie za kark.": {
+   "translation": "He grabbed me by the back of the neck."
+  },
+  "Sytuacja mieszkaniowa raczej nie rokowała nadziei na poprawę.": {
+   "text": "Sytuacja mieszkaniowa raczej nie rokowała poprawy.",
+   "translation": "The housing situation did not promise much improvement."
+  },
+  "Miło mi było panu towarzyszyć.": {
+   "translation": "It was a pleasure to accompany you."
+  },
+  "Pracował w ambasadzie przez trzy miesiące.": {
+   "translation": "He worked at the embassy for three months."
+  },
+  "Zapomniałem podnieść słuchawki przed wybraniem numeru.": {
+   "text": "Zapomniałem podnieść słuchawkę przed wybraniem numeru."
+  },
+  "Biblioteki publiczne uznajemy za podstawowe prawo obywatelskie.": {
+   "translation": "We regard public libraries as a basic civil right."
+  },
+  "Przepraszam, ale muszę się pożegnać.": {
+   "translation": "Excuse me, but I have to say goodbye."
+  },
+  "Ojciec spotkał tego sierżanta w zeszłym roku.": {
+   "translation": "My father met that sergeant last year."
+  },
+  "Rząd upadł, ale zamieszki wciąż trwają.": {
+   "translation": "The government has collapsed, but the riots are still going on."
+  },
+  "Producent dał gwarancję na ten nowy sprzęt na pięć lat.": {
+   "translation": "The manufacturer gave a five-year warranty on this new equipment."
+  },
+  "Niewiarygodne! Twoja mama zna sześć języków?!": {
+   "translation": "Unbelievable! Your mom speaks six languages?!"
+  },
+  "Złap tą kaczkę i przynieś ją tu.": {
+   "text": "Złap tę kaczkę i przynieś ją tu."
+  },
+  "Czy otrzymam gdzieś choćby minimalną pomoc?": {
+   "translation": "Will I get even minimal help anywhere?"
+  },
+  "Proszę wypełnić formularz rejestracji.": {
+   "translation": "Please fill out the registration form."
+  },
+  "Szukam kogoś z kim mógłbym wymieniać się wiedzą.": {
+   "text": "Szukam kogoś, z kim mógłbym wymieniać się wiedzą."
+  },
+  "Wszyscy mieszkamy w sąsiedztwie.": {
+   "translation": "We all live in the neighbourhood."
+  },
+  "Ile to dziewięć minus sześć?": {
+   "translation": "What is nine minus six?"
+  },
+  "Bąbelki szampana pojawiły się w kieliszku.": {
+   "translation": "Champagne bubbles appeared in the glass."
+  },
+  "Lekarz wyleczył moje ramię.": {
+   "translation": "The doctor cured my shoulder."
+  },
+  "Oni budują płot dookoła farmy.": {
+   "translation": "They are building a fence around the farm."
+  },
+  "Już nie jest mi smutno.": {
+   "translation": "I'm not sad anymore."
+  },
+  "Sól jest sprzedawana na kilogramy.": {
+   "translation": "Salt is sold by the kilogram."
+  },
+  "Lubię i przyrodę, i matematykę.": {
+   "translation": "I like both natural science and mathematics."
+  },
+  "Ta biżuteria jest droga.": {
+   "translation": "This jewelry is expensive."
+  },
+  "Nie wydaje mi się że to zbieg okoliczności.": {
+   "text": "Nie wydaje mi się, że to zbieg okoliczności.",
+   "translation": "I don't think that's a coincidence."
+  },
+  "Byłem zaskoczony jego podobieństwem do swojego ojca.": {
+   "translation": "I was surprised by how much he resembled his father."
+  },
+  "Nie zjadłem żadnych niebezpiecznych grzybów!": {
+   "translation": "I haven't eaten any dangerous mushrooms!"
+  },
+  "Setki żołnierzy jadło w spokoju wokół ognisk.": {
+   "translation": "Hundreds of soldiers were eating in peace around their campfires."
+  },
+  "Nie rozumiem jego psychologii.": {
+   "translation": "I can't understand his psychology."
+  },
+  "To ryzykowna gra.": {
+   "translation": "It's a risky game."
+  },
+  "Była gęsta mgła.": {
+   "translation": "There was a thick fog."
+  },
+  "Ten komputer często się psuje.": {
+   "translation": "This computer often breaks down."
+  },
+  "Potężny słup psuje mi widok na jezioro.": {
+   "translation": "A huge pillar spoils my view of the lake."
+  },
+  "Jeśli pan pozwoli, przeszukamy pański bagaż.": {
+   "translation": "If you don't mind, we'll search your luggage."
+  },
+  "Dzięki brandy wróciła mu przytomność.": {
+   "translation": "Thanks to the brandy, he regained consciousness."
+  },
+  "Kupię ten samochód tylko, gdy najpierw naprawią hamulce.": {
+   "text": "Kupię ten samochód tylko wtedy, gdy najpierw naprawią hamulce."
+  },
+  "Nie zawsze jest łatwo odróżnić prawdę od błędu.": {
+   "translation": "It is not always easy to tell truth from error."
+  },
+  "Umiesz odróżnić srebro od blachy?": {
+   "translation": "Can you tell silver from sheet metal?"
+  },
+  "To była najlepsza rzecz jaka mi się kiedykolwiek przytrafiła.": {
+   "text": "To była najlepsza rzecz, jaka mi się kiedykolwiek przytrafiła."
+  },
+  "Myślałam, że to osa, a to była pszczoła.": {
+   "translation": "I thought it was a wasp, but it was a bee."
+  },
+  "Starają się obniżyć koszty.": {
+   "translation": "They are trying to reduce costs."
+  },
+  "Masz jeszcze jakiś egzemplarz tego klucza?": {
+   "translation": "Do you have another copy of this key?"
+  },
+  "Z balkonu jest piękny widok.": {
+   "translation": "There is a beautiful view from the balcony."
+  },
+  "Ona jest głucha i niema , zaczyna również ślepnąć.": {
+   "text": "Ona jest głucha i niema, zaczyna również ślepnąć."
+  },
+  "Myślałem, że ta kobieta jest dziennikarką.": {
+   "translation": "I thought that woman was a journalist."
+  },
+  "Im bogatsze miasto tym więcej śmieci wytwarza.": {
+   "text": "Im bogatsze miasto, tym więcej śmieci wytwarza."
+  },
+  "Zawsze chciałem popłynąć na rejs statkiem.": {
+   "text": "Zawsze chciałem popłynąć w rejs statkiem."
+  },
+  "Starość to wyspa otoczona przez śmierć.": {
+   "text": "Starość to wyspa otoczona śmiercią."
+  },
+  "Czyż to nie jest piękny dzień na piknik?": {
+   "text": "Czy to nie jest piękny dzień na piknik?"
+  },
+  "Nie mogłem sobie pozwolić na kupno wszystkiego, co potrzebujemy.": {
+   "text": "Nie mogłem sobie pozwolić na kupno wszystkiego, czego potrzebowaliśmy.",
+   "translation": "I couldn't afford to buy everything we needed."
+  },
+  "Twoje zachowanie jest niezgodne z moimi oczekiwaniami.": {
+   "translation": "Your behavior does not match my expectations."
+  },
+  "Myślę, że mam alergię na mydło.": {
+   "translation": "I think I'm allergic to soap."
+  },
+  "Uwielbiam pomagać ludziom którzy są ambitni.": {
+   "text": "Uwielbiam pomagać ludziom, którzy są ambitni.",
+   "translation": "I love helping ambitious people."
+  },
+  "Oszczędzają, by zbudować nowy dom.": {
+   "translation": "They're saving up to build a new house."
+  },
+  "Pogoda jest zmienna.": {
+   "translation": "The weather is changeable."
+  },
+  "Nie mam kwalifikacji, by ich uczyć.": {
+   "translation": "I am not qualified to teach them."
+  },
+  "Regularne ćwiczenie jest korzystne dla zrowia.": {
+   "text": "Regularne ćwiczenie jest korzystne dla zdrowia."
+  },
+  "Oni ładują teraz węgiel na statek.": {
+   "translation": "They are loading coal onto a ship now."
+  },
+  "Jako bezrobotny nic nie zaoszczędzę.": {
+   "translation": "As an unemployed person, I can't save anything."
+  },
+  "Stanowczo cię popieramy.": {
+   "translation": "We firmly support you."
+  },
+  "Nie wiem jaki rozmiar bluzki powinienem kupić.": {
+   "translation": "I don't know what size blouse I should buy."
+  },
+  "Ważne jest, aby nasi mieszkańcy mieli poczucie niezależności.": {
+   "translation": "It's important for our residents to have a sense of independence."
+  },
+  "Przyjechaliśmy około czterdzieści pięć minut po zmierzchu.": {
+   "text": "Przyjechaliśmy około czterdziestu pięciu minut po zmierzchu."
+  },
+  "Nie gap się jak cielę na malowane wrota, tylko uważaj, co robisz.": {
+   "translation": "Don't gape like a calf at a painted gate; pay attention to what you're doing."
+  },
+  "Nie chcę cię straszyć.": {
+   "translation": "I don't want to scare you."
+  },
+  "Nie mogę wskoczyć do morza. Nie umiem pływać.": {
+   "translation": "I can't jump into the sea. I can't swim."
+  },
+  "Zaśmiał się uprzejmie.": {
+   "translation": "He laughed politely."
+  },
+  "On był raniony podczas strzelaniny z policją.": {
+   "text": "Został ranny podczas strzelaniny z policją."
+  },
+  "Nasz bramkarz zrobił dziś świetną obronę.": {
+   "text": "Nasz bramkarz zaliczył dziś świetną obronę.",
+   "translation": "Our goalkeeper made a great save today."
+  },
+  "Ta potrawa zwana jest w Polsce bigosem.": {
+   "text": "Ta potrawa jest w Polsce zwana bigosem.",
+   "translation": "This dish is called bigos in Poland."
+  },
+  "Jutro rano muszę iść do urzędu.": {
+   "translation": "Tomorrow morning I have to go to the (government) office."
+  },
+  "Czas oczekiwania przy okienku imigracyjnym wynosi pół godziny.": {
+   "text": "Czas oczekiwania w kolejce wynosi pół godziny.",
+   "translation": "The waiting time in the queue is half an hour."
+  },
+  "Muszę nagrać ten program w telewizji.": {
+   "text": "Muszę nagrać ten program z telewizji.",
+   "translation": "I have to record this programme from TV."
+  },
+  "W tym hotelu mamy pokój podwójny.": {
+   "text": "W tym hotelu zarezerwowaliśmy pokój podwójny.",
+   "translation": "We booked a double room at this hotel."
+  },
+  "Za pokój dodatkowo płacimy za śniadanie.": {
+   "text": "Za śniadanie płacimy dodatkowo.",
+   "translation": "We pay extra for breakfast."
+  },
+  "Ten portal codziennie publikuje nowe wiadomości.": {
+   "translation": "This portal publishes news every day."
+  },
+  "Powiąż te słowa z obrazkami.": {
+   "text": "Powiąż te słowa z obrazkami.",
+   "translation": "Link these words with the pictures."
+  },
+  "Po wojsku mój brat zaczął życie cywilne.": {
+   "text": "Po wojsku mój brat wrócił do życia cywilnego.",
+   "translation": "After the army, my brother returned to civilian life."
+  },
+  "Dlaczego te listy trafiają do złego domu?": {
+   "text": "Dlaczego te listy trafiają pod zły adres?",
+   "translation": "Why do these letters end up at the wrong address?"
+  },
+  "Czy ten lord naprawdę jest bardzo bogaty?": {
+   "text": "Czy ten lord jest naprawdę bogaty?",
+   "translation": "Is this lord really rich?"
+  },
+  "W dzisiejszym artykule piszą o przepisach dotyczących aborcji.": {
+   "translation": "Today's article discusses the regulations concerning abortion."
+  },
+  "Kupiłam w sklepie kilka tanich ciuchów.": {
+   "translation": "I bought some cheap clothes at the shop."
+  },
+  "Nie poszliśmy na spacer, pada bowiem deszcz.": {
+   "text": "Nie poszliśmy na spacer, padał bowiem deszcz.",
+   "translation": "We did not go for a walk, because it was raining."
+  },
+  "Mój telefon stale się wyłącza.": {
+   "translation": "My phone keeps switching itself off."
+  },
+  "Ta kawa to mój ratunek w poniedziałek rano.": {
+   "translation": "This coffee is my lifesaver on Monday morning."
+  },
+  "Zapisałem wszystkie pliki w archiwum na dysku.": {
+   "text": "Spakowałem wszystkie pliki do jednego archiwum.",
+   "translation": "I packed all the files into one archive."
+  },
+  "Jak wygląda tok nauki na tym kursie?": {
+   "translation": "What does the course of study look like on this programme?"
+  },
+  "Częstotliwość autobusów jest tu bardzo mała.": {
+   "text": "Częstotliwość kursowania autobusów jest tu bardzo niska.",
+   "translation": "The frequency of buses here is very low."
+  },
+  "Utworzyłem nowe konto w banku.": {
+   "text": "Utworzyłem nowe konto w sklepie internetowym.",
+   "translation": "I created a new account in an online shop."
+  },
+  "Wczoraj był pojedynek dwóch najlepszych szachistów.": {
+   "translation": "Yesterday there was a showdown between the two best chess players."
+  },
+  "Jak poszło ci przesłuchanie w teatrze?": {
+   "text": "Jak ci poszło na przesłuchaniu w teatrze?"
+  },
+  "Obiad zjedliśmy w gronie rodziny.": {
+   "translation": "We had dinner with just the family."
+  },
+  "Czy mogę cytować twoje zdanie w pracy?": {
+   "text": "Czy mogę cytować twoją opinię w pracy?",
+   "translation": "May I quote your opinion in my paper?"
+  },
+  "Czy ta szczepionka boli?": {
+   "text": "Czy ta szczepionka jest bezpieczna?",
+   "translation": "Is this vaccine safe?"
+  },
+  "Nie opłaca się kupować tak drogiego telefonu.": {
+   "translation": "It isn't worth buying such an expensive phone."
+  },
+  "Mój wujek jest działaczem w lokalnym klubie sportowym.": {
+   "translation": "My uncle is an official in the local sports club."
+  },
+  "Dopiero teraz doceniłem pomoc rodziców.": {
+   "translation": "Only now did I appreciate my parents' help."
+  },
+  "Ten parking jest płatny od ósmej rano.": {
+   "translation": "You have to pay for this car park from eight in the morning."
+  },
+  "Proszę wypełnić ten formularz długopisem.": {
+   "text": "Formularz proszę wypełniać długopisem.",
+   "translation": "Please fill in the form with a pen."
+  },
+  "Dzieci nieustannie pytają, kiedy wyjedziemy.": {
+   "translation": "The kids constantly ask when we are leaving."
+  },
+  "Ten sportowiec trenuje codziennie od rana.": {
+   "text": "Ten sportowiec trenuje codziennie rano.",
+   "translation": "This athlete trains every morning."
+  },
+  "Wiceprezydent miasta otworzył nowy basen.": {
+   "translation": "The deputy mayor opened a new swimming pool."
+  },
+  "Na zajęciach była ciekawa demonstracja doświadczenia.": {
+   "text": "Na zajęciach była ciekawa demonstracja eksperymentu.",
+   "translation": "In class there was an interesting demonstration of an experiment."
+  },
+  "Mój sąsiad jest japończykiem i świetnie gotuje.": {
+   "text": "Mój sąsiad jest Japończykiem i świetnie gotuje.",
+   "translation": "My neighbour is a Japanese man and cooks very well."
+  },
+  "Strzelanie z łuku to jego ulubiony sport.": {
+   "translation": "Shooting with a bow (archery) is his favourite sport."
+  },
+  "Co twoja mama zwykle mawiała o zdrowiu?": {
+   "text": "Co twoja mama mawiała o zdrowiu?",
+   "translation": "What did your mother use to say about health?"
+  },
+  "Lekarze mówią, że epidemia już się kończy.": {
+   "translation": "Doctors say the epidemic is coming to an end."
+  },
+  "Kot dopadł myszy w ogrodzie.": {
+   "text": "Kot dopadł mysz w ogrodzie."
+  },
+  "Obejrzeliśmy w kinie film o gejowskim małżeństwie.": {
+   "translation": "We watched a film about a gay marriage at the cinema."
+  },
+  "Dzieci grzecznie siedziały przy stole.": {
+   "translation": "The children sat nicely at the table."
+  },
+  "Czy domyślasz się, o co chodzi?": {
+   "text": "Czy domyśliłeś się, o co chodzi?",
+   "translation": "Did you figure out what this is about?"
+  },
+  "Na lekcji historii uczymy się o ideologii z dwudziestego wieku.": {
+   "text": "Na lekcji historii uczymy się o ideologiach dwudziestego wieku.",
+   "translation": "In history class we are learning about the ideologies of the twentieth century."
+  },
+  "Każdy wnosi coś do wspólnej kolacji.": {
+   "text": "Każdy wnosi coś do naszego projektu.",
+   "translation": "Everyone contributes something to our project."
+  },
+  "Wyślę ci przelew jeszcze dziś wieczorem.": {
+   "text": "Zrobię ci przelew jeszcze dziś wieczorem.",
+   "translation": "I will make you a bank transfer this evening."
+  },
+  "Szukamy kogoś o podobnym pokroju.": {
+   "text": "Szukamy kogoś podobnego pokroju.",
+   "translation": "We are looking for someone of a similar sort."
+  }
+ }
+}

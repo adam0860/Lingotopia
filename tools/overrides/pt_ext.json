@@ -1,0 +1,2254 @@
+{
+ "_comment": "Hand edits for ranks 5001-10000 of the Portuguese deck (tools/extend_deck_portuguese.py). Keys are lemmas. {\"drop\": true} removes a lemma from the extension; {\"gloss\": \"...\", \"pos\": \"...\", \"posName\": \"...\"} replace what the pipeline produced (and bypass the automatic filters for that lemma); {\"sentences\": [{\"text\": \"...\", \"translation\": \"...\"}]} adds sentences written for the app (marked original). Only ranks 5001+ are affected; the first 5,000 cards are never touched. Drops are mostly lookalike lemmas that spaCy credits with another word's frequency, proper-name-like or foreign words, and glosses that are not the main sense.",
+ "ebola": {
+  "drop": true
+ },
+ "amelia": {
+  "drop": true
+ },
+ "hobbit": {
+  "drop": true
+ },
+ "pedófilo": {
+  "drop": true
+ },
+ "gambá": {
+  "drop": true
+ },
+ "tapado": {
+  "drop": true
+ },
+ "homo": {
+  "drop": true
+ },
+ "tri": {
+  "drop": true
+ },
+ "prefixo": {
+  "drop": true
+ },
+ "adido": {
+  "drop": true
+ },
+ "bamba": {
+  "drop": true
+ },
+ "grado": {
+  "drop": true
+ },
+ "prognóstico": {
+  "drop": true
+ },
+ "adjetivo": {
+  "drop": true
+ },
+ "galileu": {
+  "drop": true
+ },
+ "mister": {
+  "drop": true
+ },
+ "meritíssimo": {
+  "drop": true
+ },
+ "sami": {
+  "drop": true
+ },
+ "zulu": {
+  "drop": true
+ },
+ "casarão": {
+  "drop": true
+ },
+ "abar": {
+  "drop": true
+ },
+ "tarar": {
+  "drop": true
+ },
+ "relvar": {
+  "drop": true
+ },
+ "ovar": {
+  "drop": true
+ },
+ "devir": {
+  "drop": true
+ },
+ "danar": {
+  "drop": true
+ },
+ "vide": {
+  "drop": true
+ },
+ "linguajar": {
+  "drop": true
+ },
+ "raiar": {
+  "drop": true
+ },
+ "bolear": {
+  "drop": true
+ },
+ "upar": {
+  "drop": true
+ },
+ "delir": {
+  "drop": true
+ },
+ "volver": {
+  "drop": true
+ },
+ "aceder": {
+  "drop": true
+ },
+ "alhear": {
+  "drop": true
+ },
+ "detergente": {
+  "drop": true
+ },
+ "corpus": {
+  "drop": true
+ },
+ "own": {
+  "drop": true
+ },
+ "feioso": {
+  "drop": true
+ },
+ "comer": {
+  "gloss": "to eat; to consume; (chess, board games) to capture"
+ },
+ "vir": {
+  "gloss": "to come; to arrive; to be from"
+ },
+ "programa": {
+  "gloss": "program; (TV, radio) show; schedule; (informal) outing, plan"
+ },
+ "negócio": {
+  "gloss": "business; deal, transaction; (informal) thing, stuff"
+ },
+ "membro": {
+  "gloss": "member; limb"
+ },
+ "temperamento": {
+  "gloss": "temperament; temper"
+ },
+ "violação": {
+  "gloss": "violation; infringement, breach"
+ },
+ "revistar": {
+  "gloss": "to search (a person or place); to frisk"
+ },
+ "tela": {
+  "gloss": "screen; canvas; painting"
+ },
+ "arder": {
+  "gloss": "to burn, blaze; to sting"
+ },
+ "deparar": {
+  "gloss": "to come across, run into; to face"
+ },
+ "desgraçado": {
+  "gloss": "wretched, miserable; (noun) wretch",
+  "sentences": [
+   {
+    "text": "Ele é um homem desgraçado e sozinho.",
+    "translation": "He is a wretched and lonely man."
+   }
+  ]
+ },
+ "raciocínio": {
+  "gloss": "reasoning; logic; line of thought"
+ },
+ "pendente": {
+  "gloss": "pending; hanging, dangling"
+ },
+ "atentar": {
+  "gloss": "to pay attention (to), take heed; to attempt (a crime)"
+ },
+ "papa": {
+  "gloss": "pope; (child's word) food, mush"
+ },
+ "timão": {
+  "gloss": "helm, tiller; (nautical) rudder"
+ },
+ "alvinegro": {
+  "gloss": "black-and-white; (football) of a black-and-white club"
+ },
+ "lotação": {
+  "gloss": "capacity; full house; minibus"
+ },
+ "cúmulo": {
+  "gloss": "heap, pile; the limit, the last straw; (meteorology) cumulus"
+ },
+ "comparsa": {
+  "gloss": "accomplice; extra (in a film, play); sidekick"
+ },
+ "isolante": {
+  "gloss": "insulating; insulator"
+ },
+ "invólucro": {
+  "gloss": "wrapper, covering; casing"
+ },
+ "astronômico": {
+  "gloss": "astronomical; (figuratively) enormous"
+ },
+ "desdobramento": {
+  "gloss": "unfolding; development; consequence, outcome"
+ },
+ "reduto": {
+  "gloss": "stronghold; redoubt; refuge"
+ },
+ "tromba": {
+  "gloss": "trunk (of an elephant); (colloquial) sulky face"
+ },
+ "palheiro": {
+  "gloss": "hayloft, hay barn; straw cigarette"
+ },
+ "trilhar": {
+  "gloss": "to follow (a path); to thresh grain"
+ },
+ "exalar": {
+  "gloss": "to exhale; to give off (a smell); to emit"
+ },
+ "encalhar": {
+  "gloss": "to run aground; (figuratively) to get stuck; (commerce) to go unsold"
+ },
+ "adentrar": {
+  "gloss": "to enter, go into"
+ },
+ "orquestrar": {
+  "gloss": "to orchestrate; to arrange, direct"
+ },
+ "abafado": {
+  "gloss": "stuffy, muggy; muffled; suffocated"
+ },
+ "temperado": {
+  "gloss": "seasoned; temperate; tempered"
+ },
+ "certeiro": {
+  "gloss": "well-aimed; accurate; on target"
+ },
+ "regar": {
+  "gloss": "to water (plants); to irrigate"
+ },
+ "comestível": {
+  "gloss": "edible"
+ },
+ "lecionar": {
+  "gloss": "to teach, give lessons"
+ },
+ "recuo": {
+  "gloss": "retreat; recoil; setback; (typography) indent"
+ },
+ "inválido": {
+  "gloss": "invalid; void; disabled"
+ },
+ "coberto": {
+  "gloss": "covered; roofed; (of a debt) paid"
+ },
+ "adiantado": {
+  "gloss": "advanced; ahead; early; (clock) fast"
+ },
+ "analfabeto": {
+  "gloss": "illiterate"
+ },
+ "faturar": {
+  "gloss": "to invoice; to earn money; (slang) to score, to profit"
+ },
+ "evocar": {
+  "gloss": "to evoke; to call to mind; to summon"
+ },
+ "ajuda": {
+  "gloss": "help, assistance, aid; (computing) help file"
+ },
+ "creme": {
+  "gloss": "cream (dairy, cosmetic, dessert)"
+ },
+ "corso": {
+  "gloss": "Corsican; parade of floats"
+ },
+ "gorila": {
+  "posName": "masculine noun"
+ },
+ "tucano": {
+  "pos": "n",
+  "posName": "masculine noun",
+  "gloss": "toucan; (politics) member of the PSDB party"
+ },
+ "prima": {
+  "dropSentences": [
+   "Prima a tecla."
+  ]
+ },
+ "taro": {
+  "drop": true
+ },
+ "carrasco": {
+  "gloss": "executioner; hangman; (informal) brute"
+ },
+ "porquinho": {
+  "drop": true
+ },
+ "valha": {
+  "drop": true
+ },
+ "sic": {
+  "drop": true
+ },
+ "convosco": {
+  "drop": true
+ },
+ "enfeite": {
+  "posName": "masculine noun"
+ },
+ "calção": {
+  "posName": "masculine noun"
+ },
+ "comunhão": {
+  "posName": "feminine noun"
+ },
+ "ápice": {
+  "pos": "n",
+  "posName": "masculine noun",
+  "gloss": "apex; peak; summit"
+ },
+ "coice": {
+  "pos": "n",
+  "posName": "masculine noun",
+  "gloss": "kick (by an animal); recoil; rude retort"
+ },
+ "pateta": {
+  "pos": "n",
+  "posName": "noun (mixed gender)",
+  "gloss": "fool; goof; silly person"
+ },
+ "agiota": {
+  "pos": "n",
+  "posName": "noun (mixed gender)",
+  "gloss": "loan shark; moneylender"
+ },
+ "caçula": {
+  "pos": "n",
+  "posName": "noun (mixed gender)",
+  "gloss": "youngest child"
+ },
+ "iniciante": {
+  "pos": "n",
+  "posName": "noun (mixed gender)",
+  "gloss": "beginner, novice"
+ },
+ "psicopata": {
+  "pos": "n",
+  "posName": "noun (mixed gender)",
+  "gloss": "psychopath"
+ },
+ "ranzinza": {
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "grumpy, cranky"
+ },
+ "trouxa": {
+  "pos": "n",
+  "posName": "noun (mixed gender)",
+  "gloss": "sucker, fool; bundle of clothes"
+ },
+ "xerox": {
+  "pos": "n",
+  "posName": "noun (mixed gender)",
+  "gloss": "photocopy; photocopier"
+ },
+ "consolo": {
+  "gloss": "consolation, comfort, solace",
+  "sentences": [
+   {
+    "text": "A música era o meu único consolo.",
+    "translation": "Music was my only consolation."
+   }
+  ]
+ },
+ "prateleira": {
+  "gloss": "shelf"
+ },
+ "mesquinho": {
+  "gloss": "stingy, mean, miserly"
+ },
+ "delatar": {
+  "gloss": "to inform on; to snitch"
+ },
+ "zagueiro": {
+  "gloss": "(soccer) defender; fullback",
+  "sentences": [
+   {
+    "text": "O zagueiro cometeu uma falta no fim do jogo.",
+    "translation": "The defender committed a foul at the end of the game."
+   }
+  ]
+ },
+ "marechal": {
+  "gloss": "marshal",
+  "sentences": [
+   {
+    "text": "O marechal inspecionou as tropas.",
+    "translation": "The marshal inspected the troops."
+   }
+  ]
+ },
+ "contração": {
+  "gloss": "contraction; shrinkage",
+  "sentences": [
+   {
+    "text": "A contração do músculo causa dor.",
+    "translation": "The muscle contraction causes pain."
+   }
+  ]
+ },
+ "cerâmico": {
+  "gloss": "ceramic",
+  "sentences": [
+   {
+    "text": "Comprei um vaso cerâmico para a sala.",
+    "translation": "I bought a ceramic vase for the living room."
+   }
+  ]
+ },
+ "mascarar": {
+  "gloss": "to mask; to disguise",
+  "sentences": [
+   {
+    "text": "Ele tentou mascarar o próprio nervosismo.",
+    "translation": "He tried to mask his own nervousness."
+   }
+  ]
+ },
+ "desencadear": {
+  "gloss": "to trigger; to unleash",
+  "sentences": [
+   {
+    "text": "Esse comentário pode desencadear uma discussão.",
+    "translation": "That comment could trigger an argument."
+   }
+  ]
+ },
+ "desabafar": {
+  "gloss": "to vent; to open up",
+  "sentences": [
+   {
+    "text": "Preciso desabafar com alguém.",
+    "translation": "I need to vent to someone."
+   }
+  ]
+ },
+ "chefiar": {
+  "gloss": "to head; to lead; to oversee",
+  "sentences": [
+   {
+    "text": "Ela vai chefiar o departamento.",
+    "translation": "She will head the department."
+   }
+  ]
+ },
+ "descolar": {
+  "gloss": "to unstick; to peel off",
+  "sentences": [
+   {
+    "text": "Tente descolar a etiqueta com cuidado.",
+    "translation": "Try to peel the label off carefully."
+   }
+  ]
+ },
+ "aperfeiçoar": {
+  "gloss": "to improve; to perfect",
+  "sentences": [
+   {
+    "text": "Quero aperfeiçoar meu inglês.",
+    "translation": "I want to improve my English."
+   }
+  ]
+ },
+ "vasculhar": {
+  "gloss": "to rummage through; to scour",
+  "sentences": [
+   {
+    "text": "Vasculhei a casa inteira atrás das chaves.",
+    "translation": "I searched the whole house for the keys."
+   }
+  ]
+ },
+ "estrelar": {
+  "gloss": "to star in; (of eggs) to fry",
+  "sentences": [
+   {
+    "text": "Ela vai estrelar o próximo filme.",
+    "translation": "She will star in the next film."
+   }
+  ]
+ },
+ "domiciliar": {
+  "gloss": "home-based, domestic",
+  "sentences": [
+   {
+    "text": "Ele cumpre prisão domiciliar.",
+    "translation": "He is under house arrest."
+   }
+  ]
+ },
+ "internado": {
+  "gloss": "hospitalized; interned",
+  "sentences": [
+   {
+    "text": "Meu avô está internado no hospital.",
+    "translation": "My grandfather is in the hospital."
+   }
+  ]
+ },
+ "machista": {
+  "gloss": "sexist, male chauvinist",
+  "sentences": [
+   {
+    "text": "Esse comentário foi muito machista.",
+    "translation": "That comment was very sexist."
+   }
+  ]
+ },
+ "eventual": {
+  "gloss": "possible; occasional; casual",
+  "sentences": [
+   {
+    "text": "Qualquer eventual mudança será avisada.",
+    "translation": "Any possible change will be announced."
+   }
+  ]
+ },
+ "deslocamento": {
+  "gloss": "displacement; travel, commute",
+  "sentences": [
+   {
+    "text": "O deslocamento até o trabalho leva uma hora.",
+    "translation": "The commute to work takes an hour."
+   }
+  ]
+ },
+ "grávido": {
+  "gloss": "pregnant; full, swollen"
+ },
+ "falsificação": {
+  "gloss": "forgery, counterfeiting; fake"
+ },
+ "vidente": {
+  "gloss": "seer; clairvoyant"
+ },
+ "contornar": {
+  "gloss": "to get around; to bypass; to outline"
+ },
+ "pregador": {
+  "gloss": "preacher; clothespin"
+ },
+ "roteirista": {
+  "gloss": "screenwriter"
+ },
+ "narcótico": {
+  "gloss": "narcotic"
+ },
+ "desgostar": {
+  "gloss": "to dislike; to displease"
+ },
+ "decomposição": {
+  "gloss": "decomposition; decay"
+ },
+ "paquerar": {
+  "gloss": "to flirt with; to chat up"
+ },
+ "entregador": {
+  "gloss": "delivery person"
+ },
+ "sedutor": {
+  "gloss": "seductive; attractive"
+ },
+ "fantasiar": {
+  "gloss": "to imagine; to fantasize; to dress up"
+ },
+ "desertor": {
+  "gloss": "(military) deserter"
+ },
+ "bis": {
+  "gloss": "encore; second helping"
+ },
+ "tapar": {
+  "gloss": "to cover; to close (with a lid); to block"
+ },
+ "afiado": {
+  "gloss": "sharp; (figuratively) witty; well prepared"
+ },
+ "destacamento": {
+  "gloss": "(military) detachment; prominence; emphasis"
+ },
+ "reconquistar": {
+  "gloss": "to reconquer; to win back"
+ },
+ "transformador": {
+  "gloss": "transformer"
+ },
+ "acorrentado": {
+  "gloss": "chained; (figuratively) bound"
+ },
+ "vulgo": {
+  "gloss": "commonly known as; alias"
+ },
+ "determinante": {
+  "gloss": "determining; decisive"
+ },
+ "comparável": {
+  "gloss": "comparable"
+ },
+ "embebedar": {
+  "gloss": "to get (someone) drunk"
+ },
+ "teclar": {
+  "gloss": "to type; to key in"
+ },
+ "zelar": {
+  "gloss": "to look after; to watch over"
+ },
+ "entrelinha": {
+  "gloss": "line spacing; something implied"
+ },
+ "telenovela": {
+  "gloss": "soap opera"
+ },
+ "gema": {
+  "gloss": "egg yolk; gem; (botany) bud"
+ },
+ "empanar": {
+  "gloss": "to bread, to coat in breadcrumbs"
+ },
+ "marisco": {
+  "gloss": "shellfish; seafood"
+ },
+ "natalidade": {
+  "gloss": "birth rate"
+ },
+ "desígnio": {
+  "gloss": "purpose, intent, design"
+ },
+ "desgastante": {
+  "gloss": "exhausting; wearing; tiring"
+ },
+ "infinidade": {
+  "gloss": "infinity; a huge number"
+ },
+ "amortecedor": {
+  "gloss": "shock absorber"
+ },
+ "abóbora": {
+  "gloss": "pumpkin; squash"
+ },
+ "carniceiro": {
+  "gloss": "butcher; (of an animal) carnivorous"
+ },
+ "saborear": {
+  "gloss": "to savor; to relish"
+ },
+ "profano": {
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "profane; secular"
+ },
+ "tranquilizante": {
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "calming, soothing; tranquilizing"
+ },
+ "homenagear": {
+  "sentences": [
+   {
+    "text": "Vamos homenagear os professores amanhã.",
+    "translation": "We are going to honor the teachers tomorrow."
+   }
+  ]
+ },
+ "feminista": {
+  "sentences": [
+   {
+    "text": "Ela tem um discurso muito feminista.",
+    "translation": "She has a very feminist speech."
+   }
+  ]
+ },
+ "afetado": {
+  "sentences": [
+   {
+    "text": "O bairro foi afetado pela enchente.",
+    "translation": "The neighborhood was affected by the flood."
+   }
+  ]
+ },
+ "sincronizar": {
+  "sentences": [
+   {
+    "text": "Preciso sincronizar o celular com o computador.",
+    "translation": "I need to sync my phone with the computer."
+   }
+  ]
+ },
+ "assado": {
+  "sentences": [
+   {
+    "text": "O frango assado estava delicioso.",
+    "translation": "The roasted chicken was delicious."
+   }
+  ]
+ },
+ "sabido": {
+  "sentences": [
+   {
+    "text": "É sabido que ele nunca mente.",
+    "translation": "It is known that he never lies."
+   }
+  ]
+ },
+ "sacramento": {
+  "sentences": [
+   {
+    "text": "O batismo é um sacramento da Igreja.",
+    "translation": "Baptism is a sacrament of the Church."
+   }
+  ]
+ },
+ "alavancar": {
+  "sentences": [
+   {
+    "text": "A empresa quer alavancar as vendas.",
+    "translation": "The company wants to boost sales."
+   }
+  ]
+ },
+ "coreografia": {
+  "sentences": [
+   {
+    "text": "A coreografia do show foi incrível.",
+    "translation": "The show's choreography was incredible."
+   }
+  ]
+ },
+ "contaminação": {
+  "sentences": [
+   {
+    "text": "A contaminação do rio preocupa os moradores.",
+    "translation": "The contamination of the river worries the residents."
+   }
+  ]
+ },
+ "contratação": {
+  "sentences": [
+   {
+    "text": "A contratação de novos funcionários começa hoje.",
+    "translation": "The hiring of new employees starts today."
+   }
+  ]
+ },
+ "observatório": {
+  "sentences": [
+   {
+    "text": "Visitamos o observatório à noite.",
+    "translation": "We visited the observatory at night."
+   }
+  ]
+ },
+ "transcrição": {
+  "sentences": [
+   {
+    "text": "Preciso da transcrição dessa entrevista.",
+    "translation": "I need the transcript of this interview."
+   }
+  ]
+ },
+ "legendado": {
+  "sentences": [
+   {
+    "text": "Prefiro assistir ao filme legendado.",
+    "translation": "I prefer to watch the subtitled movie."
+   }
+  ]
+ },
+ "cinematográfico": {
+  "sentences": [
+   {
+    "text": "Esse filme tem um estilo cinematográfico único.",
+    "translation": "This film has a unique cinematic style."
+   }
+  ]
+ },
+ "empreendedor": {
+  "sentences": [
+   {
+    "text": "Meu irmão é um empreendedor de sucesso.",
+    "translation": "My brother is a successful entrepreneur."
+   }
+  ]
+ },
+ "pertencente": {
+  "sentences": [
+   {
+    "text": "Esse terreno é pertencente à prefeitura.",
+    "translation": "This land belongs to the city government."
+   }
+  ]
+ },
+ "abdominal": {
+  "sentences": [
+   {
+    "text": "Sinto uma dor abdominal desde ontem.",
+    "translation": "I have felt abdominal pain since yesterday."
+   }
+  ]
+ },
+ "proeminente": {
+  "sentences": [
+   {
+    "text": "Ele é um médico proeminente na cidade.",
+    "translation": "He is a prominent doctor in the city."
+   }
+  ]
+ },
+ "atlas": {
+  "sentences": [
+   {
+    "text": "O professor pediu um atlas para a aula.",
+    "translation": "The teacher asked for an atlas for class."
+   }
+  ]
+ },
+ "esquecimento": {
+  "sentences": [
+   {
+    "text": "Isso foi apenas um esquecimento.",
+    "translation": "It was just an oversight."
+   }
+  ]
+ },
+ "mana": {
+  "sentences": [
+   {
+    "text": "Minha mana mora em outra cidade.",
+    "translation": "My sis lives in another city."
+   }
+  ]
+ },
+ "mosteiro": {
+  "sentences": [
+   {
+    "text": "O mosteiro fica no alto da montanha.",
+    "translation": "The monastery is at the top of the mountain."
+   }
+  ]
+ },
+ "hierarquia": {
+  "sentences": [
+   {
+    "text": "Respeite a hierarquia da empresa.",
+    "translation": "Respect the company's hierarchy."
+   }
+  ]
+ },
+ "psíquico": {
+  "sentences": [
+   {
+    "text": "Ela sofre de um distúrbio psíquico.",
+    "translation": "She suffers from a psychological disorder."
+   }
+  ]
+ },
+ "hacker": {
+  "sentences": [
+   {
+    "text": "Um hacker invadiu o sistema do banco.",
+    "translation": "A hacker broke into the bank's system."
+   }
+  ]
+ },
+ "faraó": {
+  "sentences": [
+   {
+    "text": "O faraó mandou construir uma pirâmide.",
+    "translation": "The pharaoh ordered a pyramid built."
+   }
+  ]
+ },
+ "densidade": {
+  "sentences": [
+   {
+    "text": "A densidade da água é maior que a do óleo.",
+    "translation": "The density of water is greater than that of oil."
+   }
+  ]
+ },
+ "estranhamente": {
+  "sentences": [
+   {
+    "text": "Estranhamente, ninguém atendeu o telefone.",
+    "translation": "Strangely, nobody answered the phone."
+   }
+  ]
+ },
+ "referente": {
+  "sentences": [
+   {
+    "text": "Leia o capítulo referente a esse assunto.",
+    "translation": "Read the chapter relating to this subject."
+   }
+  ]
+ },
+ "acelerado": {
+  "sentences": [
+   {
+    "text": "O ritmo da cidade é muito acelerado.",
+    "translation": "The pace of the city is very fast."
+   }
+  ]
+ },
+ "suspense": {
+  "sentences": [
+   {
+    "text": "O filme tem muito suspense.",
+    "translation": "The movie has a lot of suspense."
+   }
+  ]
+ },
+ "belga": {
+  "sentences": [
+   {
+    "text": "Adoro chocolate belga.",
+    "translation": "I love Belgian chocolate."
+   }
+  ]
+ },
+ "pavilhão": {
+  "sentences": [
+   {
+    "text": "O pavilhão da feira estava lotado.",
+    "translation": "The fair pavilion was packed."
+   }
+  ]
+ },
+ "consequentemente": {
+  "sentences": [
+   {
+    "text": "Choveu muito e, consequentemente, o rio subiu.",
+    "translation": "It rained a lot and, consequently, the river rose."
+   }
+  ]
+ },
+ "migração": {
+  "sentences": [
+   {
+    "text": "A migração das aves começa no outono.",
+    "translation": "The birds' migration begins in autumn."
+   }
+  ]
+ },
+ "magnitude": {
+  "sentences": [
+   {
+    "text": "O terremoto teve magnitude seis.",
+    "translation": "The earthquake had a magnitude of six."
+   }
+  ]
+ },
+ "preventivo": {
+  "sentences": [
+   {
+    "text": "O médico recomendou um exame preventivo.",
+    "translation": "The doctor recommended a preventive exam."
+   }
+  ]
+ },
+ "elevação": {
+  "sentences": [
+   {
+    "text": "Houve uma elevação da temperatura.",
+    "translation": "There was a rise in temperature."
+   }
+  ]
+ },
+ "portátil": {
+  "sentences": [
+   {
+    "text": "Comprei um carregador portátil.",
+    "translation": "I bought a portable charger."
+   }
+  ]
+ },
+ "imperatriz": {
+  "sentences": [
+   {
+    "text": "A imperatriz recebeu os visitantes no palácio.",
+    "translation": "The empress received the visitors at the palace."
+   }
+  ]
+ },
+ "repetidamente": {
+  "sentences": [
+   {
+    "text": "Ele ligou repetidamente, mas ninguém atendeu.",
+    "translation": "He called repeatedly, but nobody answered."
+   }
+  ]
+ },
+ "rabino": {
+  "sentences": [
+   {
+    "text": "O rabino leu um trecho da Torá.",
+    "translation": "The rabbi read a passage from the Torah."
+   }
+  ]
+ },
+ "apóstolo": {
+  "sentences": [
+   {
+    "text": "O apóstolo viajou para pregar a fé.",
+    "translation": "The apostle traveled to preach the faith."
+   }
+  ]
+ },
+ "batismo": {
+  "sentences": [
+   {
+    "text": "O batismo do bebê será no domingo.",
+    "translation": "The baby's baptism will be on Sunday."
+   }
+  ]
+ },
+ "rosário": {
+  "sentences": [
+   {
+    "text": "Minha avó reza o rosário todas as noites.",
+    "translation": "My grandmother prays the rosary every night."
+   }
+  ]
+ },
+ "contenção": {
+  "sentences": [
+   {
+    "text": "O governo anunciou medidas de contenção de gastos.",
+    "translation": "The government announced spending-containment measures."
+   }
+  ]
+ },
+ "justificativa": {
+  "sentences": [
+   {
+    "text": "Ele não deu nenhuma justificativa para o atraso.",
+    "translation": "He gave no justification for the delay."
+   }
+  ]
+ },
+ "mediterrâneo": {
+  "sentences": [
+   {
+    "text": "Adoro a comida mediterrânea.",
+    "translation": "I love Mediterranean food."
+   }
+  ]
+ },
+ "prosperar": {
+  "sentences": [
+   {
+    "text": "O negócio começou a prosperar rapidamente.",
+    "translation": "The business began to prosper quickly."
+   }
+  ]
+ },
+ "furto": {
+  "sentences": [
+   {
+    "text": "Houve um furto na loja ontem à noite.",
+    "translation": "There was a theft at the store last night."
+   }
+  ]
+ },
+ "sucessão": {
+  "sentences": [
+   {
+    "text": "A sucessão de erros custou o jogo.",
+    "translation": "The succession of mistakes cost the game."
+   }
+  ]
+ },
+ "marcação": {
+  "sentences": [
+   {
+    "text": "Preciso fazer a marcação da consulta.",
+    "translation": "I need to book the appointment."
+   }
+  ]
+ },
+ "óbito": {
+  "sentences": [
+   {
+    "text": "A família recebeu a certidão de óbito.",
+    "translation": "The family received the death certificate."
+   }
+  ]
+ },
+ "fundir": {
+  "sentences": [
+   {
+    "text": "O calor pode fundir o metal.",
+    "translation": "Heat can melt the metal."
+   }
+  ]
+ },
+ "renascimento": {
+  "sentences": [
+   {
+    "text": "O renascimento da cidade levou anos.",
+    "translation": "The city's revival took years."
+   }
+  ]
+ },
+ "reprimir": {
+  "sentences": [
+   {
+    "text": "Ela tentou reprimir o riso.",
+    "translation": "She tried to suppress her laughter."
+   }
+  ]
+ },
+ "demolição": {
+  "sentences": [
+   {
+    "text": "A demolição do prédio começa amanhã.",
+    "translation": "The demolition of the building begins tomorrow."
+   }
+  ]
+ },
+ "recrutamento": {
+  "sentences": [
+   {
+    "text": "O recrutamento de voluntários começou ontem.",
+    "translation": "The recruitment of volunteers began yesterday."
+   }
+  ]
+ },
+ "aplicado": {
+  "sentences": [
+   {
+    "text": "Ela é uma aluna muito aplicada.",
+    "translation": "She is a very diligent student."
+   }
+  ]
+ },
+ "retardar": {
+  "sentences": [
+   {
+    "text": "A chuva pode retardar a obra.",
+    "translation": "The rain may delay the construction."
+   }
+  ]
+ },
+ "israelense": {
+  "sentences": [
+   {
+    "text": "Conheci um engenheiro israelense.",
+    "translation": "I met an Israeli engineer."
+   }
+  ]
+ },
+ "substancial": {
+  "sentences": [
+   {
+    "text": "Houve uma melhora substancial nas notas.",
+    "translation": "There was a substantial improvement in grades."
+   }
+  ]
+ },
+ "assentamento": {
+  "sentences": [
+   {
+    "text": "O assentamento fica perto do rio.",
+    "translation": "The settlement is near the river."
+   }
+  ]
+ },
+ "humanitário": {
+  "sentences": [
+   {
+    "text": "A ONG presta ajuda humanitária.",
+    "translation": "The NGO provides humanitarian aid."
+   }
+  ]
+ },
+ "irregularidade": {
+  "sentences": [
+   {
+    "text": "A auditoria encontrou uma irregularidade.",
+    "translation": "The audit found an irregularity."
+   }
+  ]
+ },
+ "panorama": {
+  "sentences": [
+   {
+    "text": "Do alto, o panorama é lindo.",
+    "translation": "From above, the panorama is beautiful."
+   }
+  ]
+ },
+ "repensar": {
+  "sentences": [
+   {
+    "text": "Precisamos repensar nossa estratégia.",
+    "translation": "We need to rethink our strategy."
+   }
+  ]
+ },
+ "remorso": {
+  "sentences": [
+   {
+    "text": "Ele sente muito remorso pelo que fez.",
+    "translation": "He feels a lot of remorse for what he did."
+   }
+  ]
+ },
+ "figurino": {
+  "sentences": [
+   {
+    "text": "O figurino da peça era lindo.",
+    "translation": "The costumes in the play were beautiful."
+   }
+  ]
+ },
+ "ecossistema": {
+  "sentences": [
+   {
+    "text": "A poluição ameaça o ecossistema do lago.",
+    "translation": "Pollution threatens the lake's ecosystem."
+   }
+  ]
+ },
+ "pentágono": {
+  "sentences": [
+   {
+    "text": "Um pentágono tem cinco lados.",
+    "translation": "A pentagon has five sides."
+   }
+  ]
+ },
+ "surgimento": {
+  "sentences": [
+   {
+    "text": "O surgimento da internet mudou tudo.",
+    "translation": "The emergence of the internet changed everything."
+   }
+  ]
+ },
+ "presidir": {
+  "sentences": [
+   {
+    "text": "Ela vai presidir a reunião de amanhã.",
+    "translation": "She will chair tomorrow's meeting."
+   }
+  ]
+ },
+ "bilionário": {
+  "sentences": [
+   {
+    "text": "O bilionário doou parte da fortuna.",
+    "translation": "The billionaire donated part of his fortune."
+   }
+  ]
+ },
+ "passarela": {
+  "sentences": [
+   {
+    "text": "Atravesse a rua pela passarela.",
+    "translation": "Cross the street by the footbridge."
+   }
+  ]
+ },
+ "sanção": {
+  "sentences": [
+   {
+    "text": "O país sofreu uma sanção econômica.",
+    "translation": "The country suffered an economic sanction."
+   }
+  ]
+ },
+ "logístico": {
+  "sentences": [
+   {
+    "text": "Tivemos um problema logístico na entrega.",
+    "translation": "We had a logistical problem with the delivery."
+   }
+  ]
+ },
+ "depressivo": {
+  "sentences": [
+   {
+    "text": "Ele passou por um período depressivo.",
+    "translation": "He went through a depressive period."
+   }
+  ]
+ },
+ "geográfico": {
+  "sentences": [
+   {
+    "text": "Qual é a localização geográfica do hotel?",
+    "translation": "What is the hotel's geographic location?"
+   }
+  ]
+ },
+ "mundialmente": {
+  "sentences": [
+   {
+    "text": "Esse cantor é mundialmente famoso.",
+    "translation": "This singer is world famous."
+   }
+  ]
+ },
+ "iraquiano": {
+  "sentences": [
+   {
+    "text": "O jornalista iraquiano deu uma entrevista.",
+    "translation": "The Iraqi journalist gave an interview."
+   }
+  ]
+ },
+ "dígito": {
+  "sentences": [
+   {
+    "text": "A senha tem seis dígitos.",
+    "translation": "The password has six digits."
+   }
+  ]
+ },
+ "seita": {
+  "sentences": [
+   {
+    "text": "Ele foi preso por liderar uma seita.",
+    "translation": "He was arrested for leading a cult."
+   }
+  ]
+ },
+ "trajeto": {
+  "sentences": [
+   {
+    "text": "O trajeto até a escola é curto.",
+    "translation": "The route to school is short."
+   }
+  ]
+ },
+ "simplificar": {
+  "sentences": [
+   {
+    "text": "Vamos simplificar o processo.",
+    "translation": "Let's simplify the process."
+   }
+  ]
+ },
+ "filosófico": {
+  "sentences": [
+   {
+    "text": "Tivemos uma conversa muito filosófica.",
+    "translation": "We had a very philosophical conversation."
+   }
+  ]
+ },
+ "bendito": {
+  "sentences": [
+   {
+    "text": "Bendito seja o dia em que nos conhecemos.",
+    "translation": "Blessed be the day we met."
+   }
+  ]
+ },
+ "afirmativo": {
+  "sentences": [
+   {
+    "text": "Ele respondeu com um gesto afirmativo.",
+    "translation": "He answered with an affirmative gesture."
+   }
+  ]
+ },
+ "apreender": {
+  "sentences": [
+   {
+    "text": "A polícia vai apreender as mercadorias.",
+    "translation": "The police will seize the goods."
+   }
+  ]
+ },
+ "hipotecar": {
+  "sentences": [
+   {
+    "text": "Eles tiveram que hipotecar a casa.",
+    "translation": "They had to mortgage the house."
+   }
+  ]
+ },
+ "inquilino": {
+  "sentences": [
+   {
+    "text": "O inquilino pagou o aluguel ontem.",
+    "translation": "The tenant paid the rent yesterday."
+   }
+  ]
+ },
+ "planalto": {
+  "sentences": [
+   {
+    "text": "A cidade fica em um planalto.",
+    "translation": "The city is on a plateau."
+   }
+  ]
+ },
+ "sequestrador": {
+  "sentences": [
+   {
+    "text": "A polícia prendeu o sequestrador.",
+    "translation": "The police arrested the kidnapper."
+   }
+  ]
+ },
+ "centrar": {
+  "sentences": [
+   {
+    "text": "Tente centrar a imagem na página.",
+    "translation": "Try to center the image on the page."
+   }
+  ]
+ },
+ "gerenciamento": {
+  "sentences": [
+   {
+    "text": "O gerenciamento do projeto está atrasado.",
+    "translation": "The project management is behind schedule."
+   }
+  ]
+ },
+ "reciclagem": {
+  "sentences": [
+   {
+    "text": "A reciclagem ajuda o meio ambiente.",
+    "translation": "Recycling helps the environment."
+   }
+  ]
+ },
+ "injetar": {
+  "sentences": [
+   {
+    "text": "O médico vai injetar a vacina no braço.",
+    "translation": "The doctor will inject the vaccine into the arm."
+   }
+  ]
+ },
+ "incapacidade": {
+  "sentences": [
+   {
+    "text": "Ele sofre de incapacidade para o trabalho.",
+    "translation": "He suffers from an incapacity to work."
+   }
+  ]
+ },
+ "acionista": {
+  "sentences": [
+   {
+    "text": "O acionista votou contra a proposta.",
+    "translation": "The shareholder voted against the proposal."
+   }
+  ]
+ },
+ "saquear": {
+  "sentences": [
+   {
+    "text": "Os ladrões vieram para saquear a vila.",
+    "translation": "The thieves came to plunder the village."
+   }
+  ]
+ },
+ "socialmente": {
+  "sentences": [
+   {
+    "text": "Ele é socialmente responsável.",
+    "translation": "He is socially responsible."
+   }
+  ]
+ },
+ "convés": {
+  "sentences": [
+   {
+    "text": "Os marinheiros limparam o convés do navio.",
+    "translation": "The sailors cleaned the ship's deck."
+   }
+  ]
+ },
+ "curador": {
+  "sentences": [
+   {
+    "text": "O curador organizou a exposição.",
+    "translation": "The curator organized the exhibition."
+   }
+  ]
+ },
+ "denúncia": {
+  "sentences": [
+   {
+    "text": "A denúncia foi feita por um vizinho.",
+    "translation": "The complaint was made by a neighbor."
+   }
+  ]
+ },
+ "forca": {
+  "sentences": [
+   {
+    "text": "O condenado foi levado à forca.",
+    "translation": "The convict was taken to the gallows."
+   }
+  ]
+ },
+ "transportador": {
+  "sentences": [
+   {
+    "text": "O transportador entregou a carga cedo.",
+    "translation": "The carrier delivered the cargo early."
+   }
+  ]
+ },
+ "moralidade": {
+  "sentences": [
+   {
+    "text": "Eles discutiram a moralidade da guerra.",
+    "translation": "They discussed the morality of war."
+   }
+  ]
+ },
+ "desrespeitar": {
+  "sentences": [
+   {
+    "text": "Não devemos desrespeitar os mais velhos.",
+    "translation": "We must not disrespect our elders."
+   }
+  ]
+ },
+ "medição": {
+  "sentences": [
+   {
+    "text": "A medição da temperatura é feita aqui.",
+    "translation": "The temperature measurement is done here."
+   }
+  ]
+ },
+ "auditoria": {
+  "sentences": [
+   {
+    "text": "A auditoria começa na segunda-feira.",
+    "translation": "The audit starts on Monday."
+   }
+  ]
+ },
+ "avante": {
+  "sentences": [
+   {
+    "text": "Avante, pessoal! Vamos terminar isso.",
+    "translation": "Onward, everyone! Let's finish this."
+   }
+  ]
+ },
+ "localidade": {
+  "sentences": [
+   {
+    "text": "A localidade é pequena e tranquila.",
+    "translation": "The town is small and quiet."
+   }
+  ]
+ },
+ "rapto": {
+  "sentences": [
+   {
+    "text": "O rapto da criança chocou o país.",
+    "translation": "The abduction of the child shocked the country."
+   }
+  ]
+ },
+ "escavação": {
+  "sentences": [
+   {
+    "text": "A escavação revelou ruínas antigas.",
+    "translation": "The excavation revealed ancient ruins."
+   }
+  ]
+ },
+ "telecomunicação": {
+  "sentences": [
+   {
+    "text": "Ele trabalha com telecomunicação.",
+    "translation": "He works in telecommunications."
+   }
+  ]
+ },
+ "delgado": {
+  "sentences": [
+   {
+    "text": "Ele tem dedos longos e delgados.",
+    "translation": "He has long, slender fingers."
+   }
+  ]
+ },
+ "encenar": {
+  "sentences": [
+   {
+    "text": "Os alunos vão encenar uma peça.",
+    "translation": "The students will stage a play."
+   }
+  ]
+ },
+ "historicamente": {
+  "sentences": [
+   {
+    "text": "Historicamente, a região sempre foi pobre.",
+    "translation": "Historically, the region has always been poor."
+   }
+  ]
+ },
+ "surfista": {
+  "sentences": [
+   {
+    "text": "O surfista pegou uma onda enorme.",
+    "translation": "The surfer caught a huge wave."
+   }
+  ]
+ },
+ "cruz": {
+  "sentences": [
+   {
+    "text": "Ela usa uma cruz no pescoço.",
+    "translation": "She wears a cross around her neck."
+   }
+  ]
+ },
+ "algemar": {
+  "sentences": [
+   {
+    "text": "O policial vai algemar o suspeito.",
+    "translation": "The officer will handcuff the suspect."
+   }
+  ]
+ },
+ "puramente": {
+  "sentences": [
+   {
+    "text": "Foi puramente por acaso.",
+    "translation": "It was purely by chance."
+   }
+  ]
+ },
+ "contusão": {
+  "sentences": [
+   {
+    "text": "O jogador sofreu uma contusão no joelho.",
+    "translation": "The player suffered a knee injury."
+   }
+  ]
+ },
+ "rastreador": {
+  "sentences": [
+   {
+    "text": "O carro tem um rastreador.",
+    "translation": "The car has a tracker."
+   }
+  ]
+ },
+ "fuzil": {
+  "sentences": [
+   {
+    "text": "O soldado carregava um fuzil.",
+    "translation": "The soldier was carrying a rifle."
+   }
+  ]
+ },
+ "luxuoso": {
+  "sentences": [
+   {
+    "text": "Eles ficaram em um hotel luxuoso.",
+    "translation": "They stayed in a luxurious hotel."
+   }
+  ]
+ },
+ "salvamento": {
+  "sentences": [
+   {
+    "text": "A equipe de salvamento chegou rápido.",
+    "translation": "The rescue team arrived quickly."
+   }
+  ]
+ },
+ "estático": {
+  "sentences": [
+   {
+    "text": "A imagem ficou estática na tela.",
+    "translation": "The image stayed static on the screen."
+   }
+  ]
+ },
+ "donzela": {
+  "sentences": [
+   {
+    "text": "O cavaleiro salvou a donzela.",
+    "translation": "The knight rescued the damsel."
+   }
+  ]
+ },
+ "proclamar": {
+  "sentences": [
+   {
+    "text": "Eles vão proclamar o resultado hoje.",
+    "translation": "They will proclaim the result today."
+   }
+  ]
+ },
+ "paradoxo": {
+  "sentences": [
+   {
+    "text": "Isso é um paradoxo interessante.",
+    "translation": "That is an interesting paradox."
+   }
+  ]
+ },
+ "aprofundar": {
+  "sentences": [
+   {
+    "text": "Vamos aprofundar esse assunto depois.",
+    "translation": "Let's go deeper into this subject later."
+   }
+  ]
+ },
+ "perfuração": {
+  "sentences": [
+   {
+    "text": "A perfuração do poço levou duas semanas.",
+    "translation": "Drilling the well took two weeks."
+   }
+  ]
+ },
+ "ceia": {
+  "sentences": [
+   {
+    "text": "Teremos uma ceia simples hoje à noite.",
+    "translation": "We will have a simple supper tonight."
+   }
+  ]
+ },
+ "arqueológico": {
+  "sentences": [
+   {
+    "text": "Encontraram um sítio arqueológico na região.",
+    "translation": "They found an archaeological site in the region."
+   }
+  ]
+ },
+ "datar": {
+  "sentences": [
+   {
+    "text": "Este templo data do século passado.",
+    "translation": "This temple dates back to the last century."
+   }
+  ]
+ },
+ "fantoche": {
+  "sentences": [
+   {
+    "text": "A criança brincava com um fantoche.",
+    "translation": "The child was playing with a puppet."
+   }
+  ]
+ },
+ "gerado": {
+  "sentences": [
+   {
+    "text": "O relatório foi gerado automaticamente.",
+    "translation": "The report was generated automatically."
+   }
+  ]
+ },
+ "profissionalmente": {
+  "sentences": [
+   {
+    "text": "Ela cresceu profissionalmente nesta empresa.",
+    "translation": "She grew professionally at this company."
+   }
+  ]
+ },
+ "inverso": {
+  "sentences": [
+   {
+    "text": "Fiz o caminho inverso para casa.",
+    "translation": "I took the reverse route home."
+   }
+  ]
+ },
+ "mobilização": {
+  "sentences": [
+   {
+    "text": "A mobilização dos estudantes foi enorme.",
+    "translation": "The students' mobilization was huge."
+   }
+  ]
+ },
+ "diminuição": {
+  "sentences": [
+   {
+    "text": "Houve uma diminuição nas vendas.",
+    "translation": "There was a decrease in sales."
+   }
+  ]
+ },
+ "anestesia": {
+  "sentences": [
+   {
+    "text": "O paciente recebeu anestesia local.",
+    "translation": "The patient received local anesthesia."
+   }
+  ]
+ },
+ "misto": {
+  "sentences": [
+   {
+    "text": "Eles formam um grupo misto.",
+    "translation": "They form a mixed group."
+   }
+  ]
+ },
+ "provedor": {
+  "sentences": [
+   {
+    "text": "Troquei de provedor de internet.",
+    "translation": "I switched internet providers."
+   }
+  ]
+ },
+ "chicote": {
+  "sentences": [
+   {
+    "text": "O cavaleiro estalou o chicote.",
+    "translation": "The rider cracked the whip."
+   }
+  ]
+ },
+ "tomografia": {
+  "sentences": [
+   {
+    "text": "O médico pediu uma tomografia.",
+    "translation": "The doctor ordered a CT scan."
+   }
+  ]
+ },
+ "vaidade": {
+  "sentences": [
+   {
+    "text": "A vaidade dele é enorme.",
+    "translation": "His vanity is huge."
+   }
+  ]
+ },
+ "fundado": {
+  "sentences": [
+   {
+    "text": "O clube foi fundado há muito tempo.",
+    "translation": "The club was founded long ago."
+   }
+  ]
+ },
+ "vil": {
+  "sentences": [
+   {
+    "text": "Foi um ato vil e covarde.",
+    "translation": "It was a vile and cowardly act."
+   }
+  ]
+ },
+ "tradicionalmente": {
+  "sentences": [
+   {
+    "text": "Tradicionalmente, a festa acontece no verão.",
+    "translation": "Traditionally, the party takes place in summer."
+   }
+  ]
+ },
+ "especificação": {
+  "sentences": [
+   {
+    "text": "Leia a especificação do produto.",
+    "translation": "Read the product specification."
+   }
+  ]
+ },
+ "regente": {
+  "sentences": [
+   {
+    "text": "O regente levantou a batuta.",
+    "translation": "The conductor raised the baton."
+   }
+  ]
+ },
+ "soberania": {
+  "sentences": [
+   {
+    "text": "O país defende sua soberania.",
+    "translation": "The country defends its sovereignty."
+   }
+  ]
+ },
+ "rendição": {
+  "sentences": [
+   {
+    "text": "O general aceitou a rendição do inimigo.",
+    "translation": "The general accepted the enemy's surrender."
+   }
+  ]
+ },
+ "blindado": {
+  "sentences": [
+   {
+    "text": "O presidente viaja em um carro blindado.",
+    "translation": "The president travels in an armored car."
+   }
+  ]
+ },
+ "renascer": {
+  "sentences": [
+   {
+    "text": "A floresta começou a renascer.",
+    "translation": "The forest began to grow back."
+   }
+  ]
+ },
+ "diabólico": {
+  "sentences": [
+   {
+    "text": "Ele teve um plano diabólico.",
+    "translation": "He had a diabolical plan."
+   }
+  ]
+ },
+ "mobilizar": {
+  "sentences": [
+   {
+    "text": "Vamos mobilizar todos os voluntários.",
+    "translation": "Let's mobilize all the volunteers."
+   }
+  ]
+ },
+ "cartola": {
+  "sentences": [
+   {
+    "text": "O mágico tirou um coelho da cartola.",
+    "translation": "The magician pulled a rabbit out of the hat."
+   }
+  ]
+ },
+ "sintonia": {
+  "sentences": [
+   {
+    "text": "Os dois estão em perfeita sintonia.",
+    "translation": "The two are in perfect sync."
+   }
+  ]
+ },
+ "reparação": {
+  "sentences": [
+   {
+    "text": "Eles exigem reparação pelos danos.",
+    "translation": "They demand compensation for the damage."
+   }
+  ]
+ },
+ "dominicano": {
+  "sentences": [
+   {
+    "text": "Conheci um músico dominicano.",
+    "translation": "I met a Dominican musician."
+   }
+  ]
+ },
+ "distorção": {
+  "sentences": [
+   {
+    "text": "Há uma distorção no som.",
+    "translation": "There is a distortion in the sound."
+   }
+  ]
+ },
+ "vaqueiro": {
+  "sentences": [
+   {
+    "text": "O vaqueiro conduzia o gado.",
+    "translation": "The cowboy was herding the cattle."
+   }
+  ]
+ },
+ "individualmente": {
+  "sentences": [
+   {
+    "text": "Cada aluno será avaliado individualmente.",
+    "translation": "Each student will be assessed individually."
+   }
+  ]
+ },
+ "radiante": {
+  "sentences": [
+   {
+    "text": "Ela estava radiante com a notícia.",
+    "translation": "She was radiant with the news."
+   }
+  ]
+ },
+ "clicar": {
+  "sentences": [
+   {
+    "text": "Basta clicar no botão azul.",
+    "translation": "Just click the blue button."
+   }
+  ]
+ },
+ "desejado": {
+  "sentences": [
+   {
+    "text": "Esse é o resultado desejado.",
+    "translation": "That is the desired result."
+   }
+  ]
+ },
+ "obediência": {
+  "sentences": [
+   {
+    "text": "A obediência é importante para os cães.",
+    "translation": "Obedience is important for dogs."
+   }
+  ]
+ },
+ "neutralizar": {
+  "sentences": [
+   {
+    "text": "O antídoto pode neutralizar o veneno.",
+    "translation": "The antidote can neutralize the poison."
+   }
+  ]
+ },
+ "requisitar": {
+  "sentences": [
+   {
+    "text": "A escola vai requisitar mais materiais.",
+    "translation": "The school will request more materials."
+   }
+  ]
+ },
+ "comprometimento": {
+  "sentences": [
+   {
+    "text": "Admiro o comprometimento dela com o trabalho.",
+    "translation": "I admire her commitment to work."
+   }
+  ]
+ },
+ "canino": {
+  "sentences": [
+   {
+    "text": "O dentista tratou o meu canino.",
+    "translation": "The dentist treated my canine tooth."
+   }
+  ]
+ },
+ "genocídio": {
+  "sentences": [
+   {
+    "text": "O genocídio chocou o mundo inteiro.",
+    "translation": "The genocide shocked the whole world."
+   }
+  ]
+ },
+ "confinar": {
+  "sentences": [
+   {
+    "text": "Eles vão confinar os animais ao curral.",
+    "translation": "They will confine the animals to the corral."
+   }
+  ]
+ },
+ "hospedeiro": {
+  "sentences": [
+   {
+    "text": "O vírus precisa de um hospedeiro.",
+    "translation": "The virus needs a host."
+   }
+  ]
+ },
+ "velório": {
+  "sentences": [
+   {
+    "text": "O velório começa às dez da manhã.",
+    "translation": "The wake begins at ten in the morning."
+   }
+  ]
+ },
+ "voadora": {
+  "gloss": "flying kick"
+ },
+ "discretamente": {
+  "gloss": "discreetly"
+ },
+ "chaga": {
+  "gloss": "open sore; wound"
+ },
+ "corretora": {
+  "gloss": "brokerage firm; female broker"
+ },
+ "desabafo": {
+  "gloss": "venting; outburst; rant"
+ },
+ "incumbência": {
+  "gloss": "duty, task, charge"
+ },
+ "vaia": {
+  "gloss": "booing, boos"
+ },
+ "sobrado": {
+  "gloss": "two-story house; townhouse"
+ },
+ "veado": {
+  "gloss": "deer (also an offensive slur; do not use for people)"
+ },
+ "precoce": {
+  "dropSentences": [
+   "Não há insulto maior à vida do que a ejaculação precoce."
+  ]
+ },
+ "aura": {
+  "dropSentences": [
+   "Ela era uma mulher inteligente com uma aura erótica."
+  ]
+ },
+ "rebolar": {
+  "gloss": "to sway one's hips; to wiggle"
+ },
+ "fiação": {
+  "gloss": "wiring; spinning (of thread)"
+ },
+ "arrombar": {
+  "gloss": "to break down (a door); to break into"
+ },
+ "protagonizar": {
+  "gloss": "to star in"
+ },
+ "cético": {
+  "gloss": "skeptical"
+ },
+ "enxofre": {
+  "gloss": "(chemistry) sulfur"
+ },
+ "lavrador": {
+  "gloss": "farmer; plowman"
+ },
+ "analógico": {
+  "gloss": "analog"
+ },
+ "catalogar": {
+  "gloss": "to catalog"
+ },
+ "joalheiro": {
+  "gloss": "jeweler"
+ },
+ "hipnótico": {
+  "gloss": "hypnotic; (by extension) enthralling; mesmerizing"
+ },
+ "matricular": {
+  "gloss": "to enroll, register"
+ },
+ "inaugural": {
+  "gloss": "inaugural"
+ },
+ "recordista": {
+  "gloss": "record-breaking; record-holding"
+ },
+ "agropecuária": {
+  "gloss": "agribusiness; farming and livestock"
+ },
+ "pecuária": {
+  "gloss": "livestock farming; cattle ranching"
+ },
+ "cadastro": {
+  "gloss": "registry; registration; record"
+ },
+ "farmácia": {
+  "gloss": "pharmacy; drugstore"
+ },
+ "arbítrio": {
+  "gloss": "will, discretion, judgment"
+ },
+ "arranco": {
+  "gloss": "tug, jerk; sudden start"
+ },
+ "graxa": {
+  "gloss": "grease; shoe polish"
+ },
+ "ocasionar": {
+  "gloss": "to cause; to bring about"
+ },
+ "convívio": {
+  "gloss": "coexistence; social contact; get-together"
+ },
+ "casualidade": {
+  "gloss": "chance, coincidence"
+ },
+ "chamativo": {
+  "gloss": "flashy, showy, eye-catching"
+ },
+ "lavra": {
+  "gloss": "authorship; cultivation; tilling"
+ },
+ "evidenciar": {
+  "gloss": "to demonstrate; to make evident"
+ },
+ "cursar": {
+  "gloss": "to take (a course); to attend; to study"
+ },
+ "contundente": {
+  "gloss": "blunt; (figuratively) forceful, emphatic"
+ },
+ "instância": {
+  "gloss": "instance; (law) level of court; insistence"
+ },
+ "nascente": {
+  "gloss": "rising; budding; nascent"
+ },
+ "insensato": {
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "foolish, unwise"
+ },
+ "mínimo": {
+  "pos": "adj",
+  "posName": "adjective",
+  "gloss": "minimum; least; slightest"
+ },
+ "criminalidade": {
+  "gloss": "crime; criminality"
+ },
+ "talão": {
+  "gloss": "receipt book; stub; ticket"
+ },
+ "grunhir": {
+  "gloss": "to grunt; to oink"
+ },
+ "genialidade": {
+  "gloss": "genius, brilliance"
+ },
+ "treco": {
+  "gloss": "thingy; gadget; whatchamacallit"
+ },
+ "vinha": {
+  "gloss": "vineyard; grapevine"
+ }
+}

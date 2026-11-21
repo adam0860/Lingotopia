@@ -1,0 +1,8062 @@
+{
+ "_comment": "Hand and review-pass corrections for tools/generate_deck_chinese.py. _drop removes a word; other keys override gloss/reading/pos/posName for that word.",
+ "_drop": [
+  "自",
+  "其",
+  "子",
+  "任",
+  "力",
+  "法",
+  "室",
+  "型",
+  "员",
+  "安",
+  "化",
+  "夏",
+  "放到",
+  "保",
+  "亦",
+  "妹",
+  "院",
+  "见过",
+  "宝",
+  "原",
+  "获",
+  "一种",
+  "经",
+  "德",
+  "结",
+  "其它",
+  "玩儿",
+  "制",
+  "几个",
+  "情",
+  "运",
+  "罗",
+  "不好",
+  "赛",
+  "末",
+  "文",
+  "价",
+  "权",
+  "丁",
+  "礼",
+  "感",
+  "台上",
+  "眼里",
+  "他妈的",
+  "产",
+  "测",
+  "库",
+  "注",
+  "老子",
+  "来看",
+  "回事",
+  "晓得",
+  "想像",
+  "解",
+  "处女",
+  "国务院",
+  "乃",
+  "公",
+  "族",
+  "一句",
+  "宫",
+  "界",
+  "谱",
+  "马克",
+  "精",
+  "几年",
+  "致",
+  "味儿",
+  "呵",
+  "故",
+  "母",
+  "社",
+  "园",
+  "报导",
+  "许",
+  "须",
+  "麦克",
+  "能不能",
+  "已",
+  "有没有",
+  "秋",
+  "弟",
+  "除",
+  "冬",
+  "虽",
+  "不知",
+  "画儿",
+  "空儿"
+ ],
+ "_drop_reasons": {
+  "自": "bound/literary morpheme; learners meet it inside 自己, 自从, 自然, 来自",
+  "其": "literary pronoun, not used alone in modern speech; learners meet it in 其他/其实/其中",
+  "子": "bound noun suffix (子), not a standalone learner word; sentences are only a name",
+  "任": "bound morpheme (only occurs in compounds like 责任, 任务, 任何); sentences use 责任 instead",
+  "力": "bound morpheme (-力 as in 能力, 努力, 力量); learn via compounds",
+  "法": "bound morpheme (occurs in 法律, 方法, 法国); example sentences use it in names",
+  "室": "bound morpheme (appears in 教室, 卧室, etc.), not a standalone learner word",
+  "型": "bound suffix (血型, 大型, etc.), not used alone",
+  "员": "bound suffix (球员, 演员, etc.), not used alone",
+  "安": "bound morpheme used here only as a transliterated name (Ann)",
+  "化": "bound suffix (-ize); sentences actually illustrate 化妆, not the card sense",
+  "夏": "bound morpheme/surname; the word to learn is 夏天; sentences are a transliterated name and an odd compound",
+  "放到": "transparent verb + resultative complement, not a lexical item",
+  "保": "bound morpheme, occurs almost only in compounds (保护, 保证); sentence is a place name",
+  "亦": "literary/classical word, not used in modern speech",
+  "妹": "bound morpheme; learners say 妹妹 or 妹妹/姐妹, not 妹 alone",
+  "院": "bound morpheme (院子/医院/学院); not used alone as a learner word",
+  "见过": "not a lexical item (verb + experiential 过)",
+  "宝": "bound morpheme; sentences are a name and traditional characters",
+  "原": "bound morpheme (原来, 原因); sentences are poor",
+  "获": "literary bound morpheme (获得, 获奖)",
+  "一种": "not a lexical item (numeral + measure word)",
+  "经": "bound morpheme; occurs in compounds like 已经, 经济, 经过; sentences also contain a typo (己经)",
+  "德": "bound morpheme; sentences use it in a name and as abbreviation for Germany",
+  "结": "bound morpheme (covered by 结果/结束/结婚); sample sentences are poor",
+  "其它": "spelling variant of 其他",
+  "玩儿": "erhua duplicate of 玩",
+  "制": "bound morpheme (appears in 限制, 制度, 制造); not used alone by learners",
+  "几个": "phrase 几 + 个, covered by 几; not a separate lexical item",
+  "情": "bound morpheme; example sentences actually use 事情",
+  "运": "bound morpheme; sentences use 运离 and 走运",
+  "罗": "surname/transliteration character; sentences are names",
+  "不好": "not a lexical item; sentences are 睡不好 and 不好笑",
+  "赛": "bound morpheme (occurs in 比赛, 赛跑 etc.); only sentence is a name",
+  "末": "bound morpheme, rarely used alone (周末, 月末, 末期)",
+  "文": "bound morpheme, appears only in compounds (上文, 法文)",
+  "价": "bound morpheme; the word is 价格/价钱",
+  "权": "bound morpheme, occurs in compounds (权利, 权力)",
+  "丁": "surname / Heavenly Stem character, not a standalone learner word",
+  "礼": "bound morpheme; learners should learn 礼物/礼貌 instead",
+  "感": "bound morpheme (感觉, 感到, 好感), not used alone",
+  "台上": "transparent phrase 台+上, not a lexical item",
+  "眼里": "not a lexical item (眼 + 里 fragment); invalid reading format",
+  "他妈的": "vulgar taboo curse",
+  "产": "bound morpheme; occurs in words like 生产, 产品",
+  "测": "bound morpheme; occurs in words like 测试, 测量",
+  "库": "bound morpheme (仓库, 数据库); sentence only a name transliteration",
+  "注": "bound morpheme; occurs in words like 注意, 注册",
+  "老子": "rude/arrogant first-person usage or the philosopher's name; not a learner word",
+  "来看": "not a lexical item; just 来 + 看 phrase, wrong pos",
+  "回事": "archaic sense only; modern use is inside phrases like 怎么回事 / 一回事, not a standalone word",
+  "晓得": "regional (Southwestern) / colloquial variant of 知道",
+  "想像": "spelling variant of the more common 想象",
+  "解": "bound morpheme; sentences use 了解, not 解 alone",
+  "处女": "sexual term ('virgin'); not suitable",
+  "国务院": "institutional proper noun, not a learner word",
+  "乃": "literary-only usage",
+  "公": "bound morpheme, occurs mainly in compounds",
+  "族": "bound morpheme/suffix, occurs mainly in compounds",
+  "一句": "number + measure word phrase, not a lexical item",
+  "宫": "bound morpheme (only occurs in compounds like 宫殿, 故宫)",
+  "界": "bound morpheme (only occurs in compounds like 世界, 外界)",
+  "谱": "bound morpheme (occurs in 乐谱, 靠谱, 食谱); sentence uses 靠谱",
+  "马克": "personal name (Mark); the currency sense is obsolete",
+  "精": "bound morpheme (occurs in 精神, 精彩, 精通); gloss is of the noun sense only",
+  "几年": "transparent phrase 几 + 年, not a lexical item",
+  "致": "bound morpheme; mostly occurs in compounds (导致, 致力, 致谢)",
+  "味儿": "erhua duplicate of 味道",
+  "呵": "rare single-character interjection/fragment",
+  "故": "literary conjunction/bound form; sentences actually use 事故",
+  "母": "bound morpheme (literary 母); not used alone",
+  "社": "bound morpheme (社 only in compounds like 社会/社团)",
+  "园": "bound morpheme (园 only in compounds)",
+  "报导": "variant spelling of 报道",
+  "许": "bound/literary form; learners meet it in 允许, 或许, 也许",
+  "须": "literary/bound form; learners use 必须 / 需要; example is a Japanese name",
+  "麦克": "mostly a transliterated name (Mike); microphone is 麦克风",
+  "能不能": "A-not-A question form of 能, not a separate word; malformed reading",
+  "已": "literary variant of 已经, which ranks higher",
+  "有没有": "transparent 有 + 没 + 有 question pattern, not a lexical item",
+  "秋": "bound form; the standalone word is 秋天",
+  "弟": "bound form; learners use 弟弟 dìdi",
+  "除": "fragment of 除了 / 除非 etc.; learners should learn 除了",
+  "冬": "bound form; learners use 冬天 (winter)",
+  "虽": "literary short form of 虽然; learners should use 虽然",
+  "不知": "fragment of 不知道, which is a separate higher-ranked word; sentences only use 不知道",
+  "画儿": "erhua duplicate of 画",
+  "空儿": "erhua duplicate of 空 (kòng, free time)"
+ },
+ "的": {
+  "gloss": "(particle) links a modifier to a noun, like 's or of (我的书 'my book'); also forms noun phrases (红的 'the red one')"
+ },
+ "是": {
+  "gloss": "to be (links two nouns: A 是 B); yes, that's right; correct; true"
+ },
+ "在": {
+  "gloss": "(preposition) at, in, on; (before a verb) marks an action in progress; to be located at, to be present"
+ },
+ "不": {
+  "gloss": "not; no (negates verbs and adjectives)"
+ },
+ "和": {
+  "gloss": "and (joins nouns); with, together with"
+ },
+ "就": {
+  "gloss": "then, right away; (after a condition or earlier event) then, as soon as; just, exactly; only"
+ },
+ "他": {
+  "gloss": "he; him"
+ },
+ "也": {
+  "gloss": "also, too; (in negatives) not ... either"
+ },
+ "吗": {
+  "gloss": "(question particle) turns a statement into a yes/no question"
+ },
+ "要": {
+  "gloss": "to want; to need, to ask for; (modal) will, be going to; should, must; (before a verb) about to"
+ },
+ "好": {
+  "gloss": "good; well; fine, OK; (before an adjective) so, very; (before a verb) easy to"
+ },
+ "对": {
+  "gloss": "right, correct; (preposition) towards, to; regarding; to treat (sb a certain way)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "很": {
+  "gloss": "very, quite (often just a light linker before adjectives: 很好 'good')"
+ },
+ "还": {
+  "gloss": "hái: still, yet; even more; in addition | huán: to return, give back"
+ },
+ "去": {
+  "gloss": "to go; to go to (a place); to go and do (sth)"
+ },
+ "上": {
+  "gloss": "on, above, up; (after a noun) on, on top of; to go up, get on; to attend (class)"
+ },
+ "吧": {
+  "gloss": "(particle) softens a suggestion or request ('let's...'); or marks a guess ('...right?', '...I suppose')"
+ },
+ "没有": {
+  "gloss": "to not have; there is not; (before a verb) have not, did not"
+ },
+ "想": {
+  "gloss": "to want (to); to think; to miss (someone); to think of"
+ },
+ "啊": {
+  "gloss": "(particle) softens or adds emotion to a sentence (exclamation, explanation, greeting); (interjection) ah, oh"
+ },
+ "让": {
+  "gloss": "to let, to allow; to make or have sb do sth; to yield, give way"
+ },
+ "年": {
+  "gloss": "year",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "给": {
+  "gloss": "to give; (preposition) to, for (the benefit of)",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "没": {
+  "gloss": "(adverb) not have, did not (negates 有 and past actions)"
+ },
+ "那": {
+  "gloss": "that; those (colloquially also pronounced nèi); (conjunction) in that case, then"
+ },
+ "做": {
+  "gloss": "to do; to make; to be, to act as (做医生 'be a doctor'); to hold (a party etc)"
+ },
+ "被": {
+  "gloss": "(passive marker) by; introduces the doer of an action done to the subject"
+ },
+ "过": {
+  "gloss": "(particle after a verb) has ever done sth; to pass, to cross over; to spend (time); to celebrate (a holiday)"
+ },
+ "把": {
+  "gloss": "(preposition) brings the object before the verb (把门关上 'close the door'); to hold; (MW for chairs, knives etc.)"
+ },
+ "得": {
+  "reading": "de",
+  "gloss": "de: (particle) links a verb to a complement of degree or result (做得好 'did well') | děi: must, have to | dé: to obtain, get"
+ },
+ "等": {
+  "gloss": "to wait, to wait for; and so on, etc.; class, grade"
+ },
+ "怎么": {
+  "gloss": "how; why, how come; (你怎么了) what's wrong?"
+ },
+ "里": {
+  "gloss": "inside; in (placed after a noun: 房间里 'in the room'); interior; lining"
+ },
+ "后": {
+  "gloss": "behind, back; after, later"
+ },
+ "因为": {
+  "gloss": "because; because of",
+  "pos": "conj",
+  "posName": "conjunction"
+ },
+ "呢": {
+  "gloss": "(particle) 'What about...?' follow-up question; also adds emphasis or marks an ongoing state (还饿着呢)"
+ },
+ "下": {
+  "gloss": "to go down; to get off (a vehicle); to fall (rain, snow); below, under; next (下周 'next week')"
+ },
+ "月": {
+  "gloss": "month; moon (MW: 个 gè)"
+ },
+ "开始": {
+  "gloss": "to begin, to start; beginning"
+ },
+ "跟": {
+  "gloss": "with, and; (preposition) to, from (跟他说 'tell him'); to follow; heel"
+ },
+ "只": {
+  "gloss": "(adverb) only, merely, just"
+ },
+ "才": {
+  "gloss": "(adverb) only then, not until; only (just now); talent, ability"
+ },
+ "新": {
+  "gloss": "new; newly, recently"
+ },
+ "与": {
+  "gloss": "and; with (written style); to give"
+ },
+ "地": {
+  "reading": "de",
+  "gloss": "de: (particle) turns an adjective into an adverb (小心地 'carefully') | dì: earth, ground; place (MW: 片 piàn)"
+ },
+ "快": {
+  "gloss": "fast, quick; soon, about to"
+ },
+ "吃": {
+  "gloss": "to eat; to have (a meal); to consume"
+ },
+ "一起": {
+  "gloss": "together; in the same place; altogether (in total)",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "时": {
+  "gloss": "when, at the time of (after a clause); time; hour"
+ },
+ "当": {
+  "gloss": "to work as, serve as, be (当医生 'be a doctor'); to treat as; (当...时) when, at the time of",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "还是": {
+  "gloss": "or (offering a choice in questions); still, nevertheless; had better"
+ },
+ "这么": {
+  "gloss": "so, such; like this, this way"
+ },
+ "比": {
+  "gloss": "(preposition) than, compared with (A 比 B + adj); to compare; ratio"
+ },
+ "请": {
+  "gloss": "please; to invite; to treat (to a meal); to ask (sb to do sth)"
+ },
+ "日": {
+  "gloss": "day of the month, date; day; sun"
+ },
+ "天": {
+  "pos": "n",
+  "posName": "noun"
+ },
+ "一样": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "太": {
+  "gloss": "too (much); extremely, very (often 太...了)"
+ },
+ "并": {
+  "gloss": "(before a negative) actually, in fact (stresses the denial: 并不难 'not hard at all'); and, also"
+ },
+ "听": {
+  "gloss": "to listen; to hear; to obey"
+ },
+ "前": {
+  "gloss": "front, ahead; before (in time); previous, former"
+ },
+ "生活": {
+  "gloss": "life; livelihood; to live",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "或": {
+  "gloss": "or; either...or (used in statements); perhaps"
+ },
+ "点": {
+  "gloss": "o'clock; a little, a bit (点儿); point; dot; to order (a dish); to nod"
+ },
+ "钱": {
+  "gloss": "money; coin (MW: 笔 bǐ)"
+ },
+ "东西": {
+  "reading": "dōng xi",
+  "gloss": "thing; stuff; object | dōng xī: east and west"
+ },
+ "发现": {
+  "gloss": "to discover; to find out; to notice; to realize; a discovery"
+ },
+ "大家": {
+  "gloss": "everyone; everybody; all of us"
+ },
+ "起来": {
+  "reading": "qǐ lai",
+  "gloss": "to get up; to stand up; (after a verb) indicates upward motion or the start of an action or state, e.g. 笑起来 to start laughing"
+ },
+ "叫": {
+  "gloss": "to call; to be called (named); to shout; to bark; to ask or tell (someone to do something)"
+ },
+ "地方": {
+  "reading": "dì fang",
+  "gloss": "place; area; space | dì fāng: region; local (as opposed to central)"
+ },
+ "所有": {
+  "gloss": "all; every"
+ },
+ "家": {
+  "gloss": "home; family; household; (measure word for families, shops and companies)"
+ },
+ "一直": {
+  "gloss": "always; all along; continuously; straight (ahead); all the way"
+ },
+ "找": {
+  "gloss": "to look for; to seek; to call on (someone); to give change"
+ },
+ "向": {
+  "gloss": "toward; to (a person, in 向…求助); to face; direction"
+ },
+ "不过": {
+  "gloss": "but; however; only; merely; no more than"
+ },
+ "打": {
+  "gloss": "to hit; to beat; to play (ball games); to make (a phone call); to fight"
+ },
+ "别": {
+  "gloss": "don't (imperative); other, another (别的); to leave; to part from; to pin"
+ },
+ "带": {
+  "gloss": "to bring; to take along; to carry; to lead; band; belt"
+ },
+ "死": {
+  "gloss": "to die; dead; (after a verb or adjective) extremely; inflexible"
+ },
+ "已": {
+  "gloss": "already (literary; same as 已经)"
+ },
+ "一些": {
+  "gloss": "some; a few; a little; (after an adjective) slightly more",
+  "pos": "det",
+  "posName": "determiner"
+ },
+ "告诉": {
+  "reading": "gào su",
+  "gloss": "to tell; to inform; to let know"
+ },
+ "所": {
+  "gloss": "(particle) used before a verb, usually with 的, meaning \"that which\" (我所知道的); place; (MW for houses, schools, hospitals)"
+ },
+ "话": {
+  "gloss": "speech; words; what is said; talk (MW: 句 jù)"
+ },
+ "将": {
+  "gloss": "will; shall; be going to (formal); to take; to use"
+ },
+ "最后": {
+  "gloss": "finally; in the end; last; final",
+  "pos": "n",
+  "posName": "time word"
+ },
+ "玩": {
+  "gloss": "to play; to have fun; to hang out; to amuse oneself"
+ },
+ "拿": {
+  "gloss": "to take; to hold; to get; to fetch; to carry"
+ },
+ "号": {
+  "gloss": "number (e.g. room number); day of the month; size; mark; sign"
+ },
+ "第": {
+  "gloss": "(ordinal prefix) -st/-nd/-th, as in 第一 first",
+  "posName": "prefix"
+ },
+ "感觉": {
+  "gloss": "to feel; to sense; feeling; sensation; impression",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "由": {
+  "gloss": "by (indicating who does it); from; because of; up to (someone)"
+ },
+ "哪": {
+  "gloss": "which; what; where (in 哪儿/哪里)"
+ },
+ "每": {
+  "pos": "det",
+  "posName": "determiner"
+ },
+ "准备": {
+  "gloss": "to prepare; to get ready; to plan to; preparation"
+ },
+ "只有": {
+  "gloss": "only if (often with 才); only; there is only"
+ },
+ "进行": {
+  "gloss": "to carry out; to conduct; to proceed; to be in progress"
+ },
+ "开": {
+  "gloss": "to open; to turn on; to start; to drive (a vehicle); to hold (a meeting)"
+ },
+ "长": {
+  "gloss": "zhǎng: to grow; to look (a certain way); chief; elder | cháng: long; length",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "谢谢": {
+  "gloss": "thank you; thanks; to thank"
+ },
+ "岁": {
+  "gloss": "years old; age (measure word for age)"
+ },
+ "以": {
+  "gloss": "to use; by means of; according to; with; in order to"
+ },
+ "过去": {
+  "gloss": "guò qu: to go over; to pass by; to elapse; (after a verb) away, over | guò qù: the past; former",
+  "reading": "guò qu"
+ },
+ "还有": {
+  "gloss": "there is still (more); and also; in addition"
+ },
+ "活动": {
+  "gloss": "activity; event; to exercise; to move about; to operate (MW: 项 xiàng, 个 gè)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "两": {
+  "gloss": "two (used before measure words); a couple of; a few; tael (unit of weight)"
+ },
+ "先生": {
+  "gloss": "Mr.; sir; gentleman; husband; teacher (old usage)"
+ },
+ "通过": {
+  "gloss": "through; by means of; via; to pass (a test, a law); to pass through"
+ },
+ "结果": {
+  "reading": "jié guǒ",
+  "gloss": "jié guǒ: result; outcome; as a result; in the end | jiē guǒ: to bear fruit"
+ },
+ "先": {
+  "gloss": "first; before; earlier; in advance"
+ },
+ "行": {
+  "gloss": "xíng: to be OK; all right; capable; to walk; to travel | háng: row; line; profession"
+ },
+ "分": {
+  "gloss": "minute; point (in scores); fen (1/100 of a yuan); to divide; to separate"
+ },
+ "干": {
+  "gloss": "gàn: to do; to work (at); to manage | gān: dry; clean"
+ },
+ "老": {
+  "gloss": "old (of people or things); experienced; (prefix of familiarity, as in 老师, 老王)"
+ },
+ "正在": {
+  "gloss": "(adverb) in the middle of doing; currently"
+ },
+ "决定": {
+  "gloss": "to decide; decision; to determine; to resolve (MW: 个 gè, 项 xiàng)"
+ },
+ "多少": {
+  "reading": "duō shao",
+  "gloss": "how many; how much | duō shǎo: number; amount; more or less"
+ },
+ "站": {
+  "gloss": "to stand; station; stop; to halt"
+ },
+ "可": {
+  "gloss": "may; can; -able (as in 可能, 可以, 可爱); (emphatic adverb) really, certainly; but",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "游戏": {
+  "gloss": "game; (video) game; to play"
+ },
+ "送": {
+  "gloss": "to give (as a gift); to see (someone) off; to take or drive (someone somewhere); to deliver; to send"
+ },
+ "成": {
+  "gloss": "to become; to turn into; to succeed; to complete; OK (成了)"
+ },
+ "次": {
+  "gloss": "(measure word) time, occurrence; next; second; secondary"
+ },
+ "完全": {
+  "gloss": "completely; totally; entirely; whole",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "正": {
+  "gloss": "just (in the middle of doing); exactly; straight; upright; positive; main"
+ },
+ "只要": {
+  "gloss": "as long as; provided that (often paired with 就 jiù)"
+ },
+ "就是": {
+  "gloss": "exactly; precisely; simply; just (for emphasis); (with 也) even if",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "回": {
+  "gloss": "to return; to go back; to turn around; to reply; (MW for occurrences) time"
+ },
+ "以后": {
+  "gloss": "after; afterwards; later; in the future"
+ },
+ "帮助": {
+  "gloss": "to help; to assist; help; assistance"
+ },
+ "故事": {
+  "reading": "gù shi",
+  "gloss": "story; tale; narrative; plot (MW: 个 gè)"
+ },
+ "的话": {
+  "gloss": "(particle) if; in case (placed at the end of a conditional clause)"
+ },
+ "女": {
+  "gloss": "female; woman; girl; daughter"
+ },
+ "当然": {
+  "gloss": "of course; certainly; naturally; only natural"
+ },
+ "以为": {
+  "gloss": "to think; to assume (often implying the belief was mistaken)"
+ },
+ "明白": {
+  "gloss": "to understand; to realize; clear; obvious"
+ },
+ "永远": {
+  "gloss": "forever; eternally; always (with negation: never)"
+ },
+ "或者": {
+  "gloss": "or; either... or...; perhaps (less common)"
+ },
+ "手": {
+  "gloss": "hand; person skilled in a certain job (MW: 双 shuāng, 只 zhī)"
+ },
+ "要求": {
+  "gloss": "to ask for; to demand; to require; requirement (MW: 个 gè, 项 xiàng)"
+ },
+ "意思": {
+  "gloss": "meaning; idea; intention; (in 有意思) interesting (MW: 个 gè)"
+ },
+ "本": {
+  "gloss": "(measure word for books, volumes); root; origin; this, one's own (as in 本地)",
+  "pos": "n",
+  "posName": "measure word"
+ },
+ "不错": {
+  "reading": "bú cuò",
+  "gloss": "not bad; pretty good; correct"
+ },
+ "关系": {
+  "gloss": "relationship; connection; relevance; to involve (MW: 个 gè)"
+ },
+ "妈": {
+  "gloss": "mom; mum; mother"
+ },
+ "车": {
+  "gloss": "car; vehicle (MW: 辆 liàng)"
+ },
+ "选择": {
+  "gloss": "to choose; to select; choice; option"
+ },
+ "真正": {
+  "gloss": "real; genuine; true; truly"
+ },
+ "发": {
+  "gloss": "to send out; to issue; to emit; to develop; to get (a fever etc.)"
+ },
+ "种": {
+  "gloss": "zhǒng: kind; type; sort (MW); seed; species | zhòng: to plant; to grow"
+ },
+ "影响": {
+  "gloss": "to influence; to affect; influence; effect (MW: 种 zhǒng)"
+ },
+ "成功": {
+  "gloss": "to succeed; success; successful (MW: 次 cì)",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "努力": {
+  "gloss": "to try hard; to make an effort; hard-working"
+ },
+ "名": {
+  "gloss": "(measure word for people in a role or profession, e.g. 一名学生) | name; fame; famous"
+ },
+ "刚": {
+  "gloss": "just; only just; just now; barely"
+ },
+ "当时": {
+  "gloss": "at that time; back then; then"
+ },
+ "元": {
+  "gloss": "yuan (basic unit of Chinese currency); first; primary"
+ },
+ "总": {
+  "gloss": "always; all along; after all; in any case; total; overall"
+ },
+ "开心": {
+  "gloss": "happy; joyful; to enjoy oneself; to have fun"
+ },
+ "来自": {
+  "gloss": "to come from (a place)"
+ },
+ "信": {
+  "gloss": "letter; to believe; to trust; message (MW: 封 fēng)"
+ },
+ "最近": {
+  "gloss": "recently; lately; these days; nearest"
+ },
+ "二": {
+  "gloss": "two; 2 (use 两 liǎng before measure words)"
+ },
+ "爸爸": {
+  "gloss": "dad; father (MW: 个 gè, 位 wèi)"
+ },
+ "连": {
+  "gloss": "even (as in 连...都/也 lián... dōu/yě); to link; to connect; in a row",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "直接": {
+  "gloss": "direct; straightforward; immediate"
+ },
+ "结束": {
+  "gloss": "to end; to finish; to conclude; end"
+ },
+ "水": {
+  "gloss": "water; liquid; river (literary)"
+ },
+ "发展": {
+  "gloss": "to develop; development; growth; to grow"
+ },
+ "早": {
+  "gloss": "early; (greeting) good morning; long ago"
+ },
+ "那样": {
+  "gloss": "like that; that way; that kind of"
+ },
+ "些": {
+  "gloss": "(measure word) some; a few; a little"
+ },
+ "错": {
+  "gloss": "wrong; incorrect; mistake; error; to be mistaken",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "原来": {
+  "gloss": "originally; formerly; as it turns out (realization)"
+ },
+ "坐": {
+  "gloss": "to sit; to take (a bus, train, plane etc.); to travel by"
+ },
+ "求": {
+  "gloss": "to beg; to request; to seek"
+ },
+ "美": {
+  "gloss": "beautiful; pretty; good; (abbr.) the United States"
+ },
+ "到底": {
+  "gloss": "(in questions) on earth; exactly; in the end; after all"
+ },
+ "许多": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "国际": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "了解": {
+  "gloss": "to understand; to know well; to find out"
+ },
+ "身体": {
+  "gloss": "body; health"
+ },
+ "花": {
+  "gloss": "flower; blossom (MW: 朵 duǒ); to spend (money or time)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "刚刚": {
+  "reading": "gāng gāng"
+ },
+ "行动": {
+  "gloss": "to take action; to act; action; operation; to move about"
+ },
+ "难": {
+  "gloss": "difficult; hard; (nàn) disaster, hardship"
+ },
+ "愿意": {
+  "gloss": "to be willing; to be happy to; to wish to"
+ },
+ "靠": {
+  "gloss": "to depend on; to rely on; to lean on; to be near"
+ },
+ "服务": {
+  "gloss": "to serve; to provide service for; service (MW: 项 xiàng)"
+ },
+ "书": {
+  "gloss": "book; letter; document (MW: 本 běn, 册 cè)"
+ },
+ "约": {
+  "gloss": "to make an appointment; to invite; appointment; agreement; (adv) approximately, about",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "生": {
+  "gloss": "to give birth; to be born; to grow; raw, uncooked; life"
+ },
+ "间": {
+  "gloss": "(measure word for rooms); between; among; room"
+ },
+ "一般": {
+  "gloss": "ordinary; common; average; (adv) generally, usually"
+ },
+ "于": {
+  "gloss": "(preposition) in; at; on (time or place); from; to; than"
+ },
+ "不要": {
+  "gloss": "don't (do sth); must not; (also) do not want"
+ },
+ "倒": {
+  "gloss": "dào: to pour out; to reverse, invert; (adv) contrary to expectation | dǎo: to fall over; to collapse; to go bankrupt"
+ },
+ "道": {
+  "gloss": "road; path; way; principle; (measure word for long narrow things, doors, dishes, questions); to say"
+ },
+ "呀": {
+  "gloss": "(modal particle) softens a statement or exclamation; variant of 啊 after a, e, i, o, u"
+ },
+ "头": {
+  "gloss": "head; top; end; first; (measure word for cattle, pigs, etc.)"
+ },
+ "之后": {
+  "gloss": "after; afterwards; later"
+ },
+ "越": {
+  "gloss": "the more... the more (越…越…); more and more; to exceed; to surpass"
+ },
+ "全部": {
+  "gloss": "all; whole; entire",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "位": {
+  "gloss": "(polite measure word for people); position; place; seat"
+ },
+ "根本": {
+  "gloss": "(adv, with negation) at all; simply; fundamental; basic; root"
+ },
+ "比较": {
+  "gloss": "comparatively; relatively; rather; to compare; to contrast"
+ },
+ "最好": {
+  "gloss": "had better; it would be best to; best"
+ },
+ "称": {
+  "gloss": "to call; to name; to claim; to say; to weigh"
+ },
+ "经过": {
+  "gloss": "to pass through; to go through; after; through; process; course (MW: 个 gè)",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "条": {
+  "gloss": "(measure word for long thin things: rivers, roads, fish, dogs, trousers); strip; article (of a law)"
+ },
+ "感谢": {
+  "gloss": "to thank; to be grateful; thanks; gratitude"
+ },
+ "米": {
+  "gloss": "meter (unit of length); (uncooked) rice (MW: 粒 lì for grains)"
+ },
+ "健康": {
+  "gloss": "healthy; health"
+ },
+ "张": {
+  "gloss": "(measure word for flat things: paper, tables, tickets, photos, faces); to open; to stretch"
+ },
+ "担心": {
+  "gloss": "to worry; to be anxious about; worried; anxious"
+ },
+ "下来": {
+  "gloss": "to come down; (verb complement) down, indicating completion or fixing in place, e.g. 写下来 write down"
+ },
+ "男": {
+  "gloss": "male; man"
+ },
+ "拍": {
+  "gloss": "to pat; to clap; to slap; to take (a photo); to shoot (a film)"
+ },
+ "无法": {
+  "gloss": "unable to; cannot; there is no way to"
+ },
+ "身边": {
+  "gloss": "at one's side; beside one; nearby",
+  "pos": "n",
+  "posName": "location word"
+ },
+ "无": {
+  "gloss": "(literary) not to have; without; no"
+ },
+ "比赛": {
+  "gloss": "competition; match; game; to compete (MW: 场 chǎng, 次 cì)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "算": {
+  "gloss": "to calculate; to count; to count as; to include"
+ },
+ "运动": {
+  "gloss": "sports; exercise; movement; to exercise (MW: 场 chǎng)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "曾经": {
+  "gloss": "once; formerly; at one time (indicates a past experience)"
+ },
+ "系": {
+  "gloss": "xì: university department; system | jì: to tie; to fasten",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "解决": {
+  "gloss": "to solve; to resolve; to settle; to deal with"
+ },
+ "网站": {
+  "gloss": "website"
+ },
+ "早上": {
+  "gloss": "morning; early morning (MW: 个 gè)"
+ },
+ "睡觉": {
+  "gloss": "to sleep; to go to bed"
+ },
+ "挺": {
+  "gloss": "quite; rather; very; to stand straight; to stick out"
+ },
+ "马上": {
+  "gloss": "at once; right away; immediately"
+ },
+ "打开": {
+  "gloss": "to open; to turn on; to switch on"
+ },
+ "一下": {
+  "gloss": "(after a verb) a bit; for a moment; softens the action; one time; once",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "报告": {
+  "gloss": "report; to report; to inform (MW: 篇 piān, 份 fèn)"
+ },
+ "处理": {
+  "gloss": "to handle; to deal with; to process; to dispose of; to punish"
+ },
+ "样子": {
+  "gloss": "appearance; look; manner; shape; model"
+ },
+ "各": {
+  "gloss": "each; every; various",
+  "pos": "det",
+  "posName": "determiner"
+ },
+ "忙": {
+  "gloss": "busy; to be busy with; hurried",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "件": {
+  "gloss": "(measure word for clothes, matters, events, luggage); item; component"
+ },
+ "小姐": {
+  "gloss": "Miss; young lady (polite address); (in some regions, slang) prostitute"
+ },
+ "够": {
+  "gloss": "to be enough; sufficient; (before adj.) quite, rather; to reach"
+ },
+ "地区": {
+  "gloss": "area; region; district (MW: 个 gè)"
+ },
+ "教育": {
+  "gloss": "education; (verb) to educate; to teach (someone a lesson)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "根据": {
+  "gloss": "according to; based on; basis, grounds (MW: 个 gè)"
+ },
+ "此": {
+  "gloss": "this; these (formal, written)"
+ },
+ "黑": {
+  "gloss": "black; dark; (of the sky) to get dark; shady, illegal"
+ },
+ "字": {
+  "gloss": "(written) character; word; letter (MW: 个 gè)"
+ },
+ "学": {
+  "gloss": "to learn; to study; to imitate"
+ },
+ "啦": {
+  "gloss": "(modal particle) fusion of 了+啊; adds an exclamatory or softening tone to a statement"
+ },
+ "节目": {
+  "gloss": "program (TV, radio, stage); show; performance item (MW: 台 tái, 个 gè)"
+ },
+ "场": {
+  "gloss": "(MW for games, performances, speeches, storms, wars etc.) | open area; field; venue"
+ },
+ "外": {
+  "gloss": "outside; external; foreign; besides, except (除了…外)"
+ },
+ "哦": {
+  "reading": "ò",
+  "gloss": "oh; I see (interjection of realization) | ó: oh? (doubt, surprise) | o: (final particle) softens a statement",
+  "pos": "interj",
+  "posName": "interjection"
+ },
+ "确定": {
+  "gloss": "to confirm; to determine; to fix; (adj) sure, certain"
+ },
+ "不断": {
+  "gloss": "(adverb) continuously; incessantly; without stopping | (adjective) unceasing, constant"
+ },
+ "幸福": {
+  "gloss": "happy; blessed; (noun) happiness"
+ },
+ "作为": {
+  "gloss": "as (in the capacity of); to regard as; to act as | (noun) conduct, deeds"
+ },
+ "绝对": {
+  "gloss": "absolutely; definitely | (adjective) absolute; unconditional"
+ },
+ "画": {
+  "gloss": "picture; painting; (verb) to draw; to paint (MW: 幅 fú, 张 zhāng)"
+ },
+ "结婚": {
+  "gloss": "to get married; to marry"
+ },
+ "有人": {
+  "gloss": "someone; anyone; there is someone (who...)"
+ },
+ "以及": {
+  "gloss": "and; as well as; along with (formal, links nouns or phrases)"
+ },
+ "方面": {
+  "gloss": "aspect; side; respect; field (MW: 个 gè)"
+ },
+ "联系": {
+  "gloss": "to contact; to get in touch with; (noun) connection, relation"
+ },
+ "经常": {
+  "gloss": "often; frequently; constantly"
+ },
+ "关注": {
+  "gloss": "to pay attention to; to follow closely; to follow (on social media); (noun) concern"
+ },
+ "同样": {
+  "gloss": "same; equal; likewise"
+ },
+ "日子": {
+  "gloss": "day; date; days (of one's life); life"
+ },
+ "掉": {
+  "gloss": "to fall; to drop; to lose; (verb complement) away, off"
+ },
+ "离": {
+  "gloss": "(in giving distances) from, away from; to leave; to part from",
+  "pos": "post",
+  "posName": "preposition"
+ },
+ "难道": {
+  "gloss": "(adverb) could it be that...?; don't tell me...; surely not (rhetorical question)"
+ },
+ "妻子": {
+  "reading": "qī zi",
+  "gloss": "wife"
+ },
+ "区": {
+  "gloss": "area; district; zone (MW: 个 gè)"
+ },
+ "家人": {
+  "gloss": "family members; family"
+ },
+ "介绍": {
+  "gloss": "to introduce (sb to sb); to present; introduction"
+ },
+ "下去": {
+  "gloss": "(after a verb) to go on, to keep (doing); to go down"
+ },
+ "至少": {
+  "gloss": "at least"
+ },
+ "小心": {
+  "gloss": "to be careful; to take care; careful",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "受到": {
+  "gloss": "to receive; to be subjected to (praise, criticism, punishment, education etc.)"
+ },
+ "身上": {
+  "gloss": "on one's body; on one's person (e.g. money on me)",
+  "posName": "location word"
+ },
+ "曾": {
+  "gloss": "once; previously; ever (written style; 曾经 in speech)"
+ },
+ "证明": {
+  "gloss": "to prove; to confirm; (noun) proof; certificate (MW: 个 gè)"
+ },
+ "赢": {
+  "gloss": "to win; to beat; to profit"
+ },
+ "刚才": {
+  "gloss": "just now; a moment ago"
+ },
+ "弄": {
+  "gloss": "to do; to make; to get (versatile colloquial verb); to handle; to fiddle with"
+ },
+ "实在": {
+  "gloss": "really; truly; honestly | (adjective) honest, down-to-earth"
+ },
+ "调查": {
+  "gloss": "to investigate; to survey; (noun) investigation, survey (MW: 项 xiàng, 个 gè)"
+ },
+ "保证": {
+  "gloss": "to guarantee; to promise; to ensure; (noun) guarantee"
+ },
+ "确实": {
+  "gloss": "indeed; really; truly | (adjective) true, reliable",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "打算": {
+  "gloss": "to plan; to intend; (noun) plan, intention"
+ },
+ "表现": {
+  "gloss": "to show; to display; to behave; (noun) performance, behavior"
+ },
+ "意见": {
+  "gloss": "opinion; view; suggestion; objection (MW: 个 gè, 条 tiáo)"
+ },
+ "坏": {
+  "gloss": "bad; broken; out of order; (of food) spoiled"
+ },
+ "习惯": {
+  "gloss": "to be used to; to get accustomed to; (noun) habit; custom",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "晚安": {
+  "gloss": "good night!",
+  "pos": "interj",
+  "posName": "phrase"
+ },
+ "不用": {
+  "gloss": "no need; need not; don't bother (polite refusal)"
+ },
+ "酒": {
+  "gloss": "alcoholic drink; liquor; wine (esp. rice wine) (MW: 杯 bēi, 瓶 píng)"
+ },
+ "店": {
+  "gloss": "shop; store; (old) inn (MW: 家 jiā)"
+ },
+ "动": {
+  "gloss": "to move; to stir; to touch (emotionally); to use"
+ },
+ "几": {
+  "gloss": "how many; how much (for small numbers); several; a few"
+ },
+ "是否": {
+  "gloss": "whether or not; whether (formal)",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "从来": {
+  "gloss": "(with a negative) never, not ever; all along; always"
+ },
+ "加油": {
+  "gloss": "come on!; go for it! (cheering); to make an extra effort; to refuel"
+ },
+ "好看": {
+  "gloss": "good-looking; nice-looking; (of a film, book, show) good, enjoyable"
+ },
+ "面": {
+  "gloss": "face; side; surface; noodles; (MW for mirrors, flags etc.)"
+ },
+ "级": {
+  "gloss": "level; grade; rank; step; (MW for earthquake magnitude, stairs)"
+ },
+ "教": {
+  "reading": "jiāo",
+  "gloss": "to teach; to instruct | jiào: religion; teachings"
+ },
+ "建议": {
+  "gloss": "suggestion; proposal; (verb) to suggest, to recommend (MW: 个 gè, 条 tiáo)"
+ },
+ "不是": {
+  "reading": "bù shì",
+  "gloss": "is not; am/are not; no (it isn't) | bú shi: (noun) fault, blame",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "块": {
+  "gloss": "(measure word) yuan, kuai (colloquial currency unit); piece, lump, chunk (of stone, cake, soap, cloth, a watch)"
+ },
+ "久": {
+  "gloss": "(for) a long time; long-lasting"
+ },
+ "单位": {
+  "gloss": "workplace; work unit, organization, employer; unit (of measurement) (MW: 个 gè)"
+ },
+ "敢": {
+  "gloss": "to dare; to have the courage to"
+ },
+ "记录": {
+  "gloss": "record (written account; also in sports etc); to record; note-taker (MW: 个 gè)"
+ },
+ "台": {
+  "gloss": "(measure word) for machines, TVs, computers, performances; stage; platform; counter; desk"
+ },
+ "试": {
+  "gloss": "to try; to test; to attempt"
+ },
+ "不管": {
+  "gloss": "no matter (what/how); regardless of; to not care about"
+ },
+ "活": {
+  "gloss": "to live; to be alive; alive; lively; (n.) work, job"
+ },
+ "休息": {
+  "gloss": "to rest; to take a break; to be off work"
+ },
+ "怎么办": {
+  "gloss": "what to do?; what's to be done?",
+  "pos": "v",
+  "posName": "phrase"
+ },
+ "肯定": {
+  "gloss": "sure; certain; definitely; to affirm, confirm",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "组织": {
+  "gloss": "organization; to organize; (biology) tissue"
+ },
+ "假": {
+  "gloss": "fake; false; artificial"
+ },
+ "份": {
+  "gloss": "(measure word) for copies of newspapers/documents, meals, jobs, gifts; portion; share"
+ },
+ "要是": {
+  "gloss": "if; in case (colloquial)"
+ },
+ "按": {
+  "gloss": "to press; to push down; (preposition) according to, in accordance with",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "本来": {
+  "gloss": "originally; at first; (what should be) naturally, of course; original"
+ },
+ "指": {
+  "gloss": "to point at; to refer to; to mean; finger"
+ },
+ "经历": {
+  "gloss": "to experience; to go through; experience (n.) (MW: 个 gè, 次 cì)"
+ },
+ "热": {
+  "gloss": "hot; heat; to heat up; (fig.) popular, in vogue"
+ },
+ "包": {
+  "gloss": "to wrap; to include, contain; to guarantee; bag, package (MW: 个 gè)"
+ },
+ "汽车": {
+  "gloss": "car; automobile; motor vehicle (MW: 辆 liàng)"
+ },
+ "同学": {
+  "gloss": "classmate; schoolmate; fellow student (also a form of address for students) (MW: 位 wèi, 个 gè)"
+ },
+ "研究": {
+  "gloss": "to research; to study; to look into; research (n.) (MW: 项 xiàng)"
+ },
+ "领导": {
+  "gloss": "leader; boss (in an organization); to lead; leadership (MW: 位 wèi, 个 gè)"
+ },
+ "较": {
+  "gloss": "relatively, comparatively; (formal) compared with; to compare"
+ },
+ "想法": {
+  "gloss": "idea; opinion; thought; way of thinking"
+ },
+ "检查": {
+  "gloss": "to check; to examine; to inspect; check-up, inspection (MW: 次 cì)"
+ },
+ "唱": {
+  "gloss": "to sing; to chant"
+ },
+ "多久": {
+  "gloss": "how long? (of time)"
+ },
+ "后面": {
+  "gloss": "behind; at the back; the rear; later, afterwards"
+ },
+ "晚": {
+  "gloss": "late; evening; night",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "常": {
+  "gloss": "often; frequently"
+ },
+ "另外": {
+  "gloss": "in addition; besides; separately; (det.) another, other",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "派": {
+  "gloss": "to send; to dispatch; to assign; faction; school (of thought); (loanword) pie"
+ },
+ "听说": {
+  "gloss": "to hear (it said) that; I hear that; to hear about"
+ },
+ "痛苦": {
+  "gloss": "painful; anguished; pain, suffering (n.) (MW: 个 gè)"
+ },
+ "往": {
+  "gloss": "towards; to (a direction); to go (towards)"
+ },
+ "条件": {
+  "gloss": "condition; requirement; prerequisite; (circumstances) terms (MW: 个 gè)"
+ },
+ "多么": {
+  "gloss": "how (exclamatory, e.g. how cold!); what a ...; however (difficult etc.)"
+ },
+ "金": {
+  "gloss": "gold; metal; (in compounds) money",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "对不起": {
+  "gloss": "I'm sorry; excuse me; to let (someone) down"
+ },
+ "读": {
+  "gloss": "to read; to read aloud; to study (at a school); to pronounce"
+ },
+ "段": {
+  "gloss": "(measure word) for sections, stretches, passages (of story, road, time); paragraph; segment; stage"
+ },
+ "不少": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "喂": {
+  "gloss": "to feed (an animal, child, etc.); (interjection) hey, hello (on the phone)"
+ },
+ "白": {
+  "gloss": "white; blank; in vain, for nothing; free of charge"
+ },
+ "差": {
+  "gloss": "poor; bad; to fall short of; to lack"
+ },
+ "度": {
+  "gloss": "degree (of temperature, angle); extent, degree; to spend (time)"
+ },
+ "卡": {
+  "gloss": "card (loanword); to be stuck, to block; (coll.) laggy, slow (computing) (MW: 张 zhāng)"
+ },
+ "错误": {
+  "gloss": "mistake; error; wrong, mistaken (MW: 个 gè)"
+ },
+ "关": {
+  "gloss": "to close; to shut; to turn off; mountain pass; customs"
+ },
+ "猫": {
+  "gloss": "cat (MW: 只 zhǐ)"
+ },
+ "产生": {
+  "gloss": "to produce; to give rise to; to arise; to emerge"
+ },
+ "没什么": {
+  "posName": "phrase"
+ },
+ "危险": {
+  "gloss": "dangerous; danger"
+ },
+ "年代": {
+  "gloss": "decade (e.g. the 1960s); era; period"
+ },
+ "包括": {
+  "gloss": "to include; to comprise; to incorporate"
+ },
+ "边": {
+  "gloss": "(边…边…) doing one thing while doing another; side; edge; border",
+  "posName": "noun"
+ },
+ "装": {
+  "gloss": "to load; to pack; to put in; to install; to pretend"
+ },
+ "提": {
+  "gloss": "to mention; to bring up; to raise; to carry (with the arm hanging down)"
+ },
+ "歌": {
+  "gloss": "song (MW: 首 shǒu, 支 zhī)"
+ },
+ "红": {
+  "gloss": "red; popular; successful"
+ },
+ "麻烦": {
+  "gloss": "troublesome; inconvenient; trouble; to bother (someone)"
+ },
+ "反正": {
+  "gloss": "anyway; in any case; anyhow"
+ },
+ "再见": {
+  "pos": "interj",
+  "posName": "interjection"
+ },
+ "表演": {
+  "gloss": "to perform; to act; performance; show (MW: 场 chǎng)"
+ },
+ "网": {
+  "gloss": "net; web; the internet; network"
+ },
+ "哪儿": {
+  "gloss": "where?; anywhere; (in rhetorical questions) how could ...?"
+ },
+ "兄弟": {
+  "gloss": "brothers; (younger) brother; (friendly address) bro, buddy"
+ },
+ "以上": {
+  "gloss": "above; more than; over (a number); the above-mentioned"
+ },
+ "处": {
+  "gloss": "chù: place; point; department | chǔ: to deal with; to get along with; to reside",
+  "reading": "chù"
+ },
+ "发表": {
+  "gloss": "to publish; to issue; to announce; to express (an opinion)"
+ },
+ "部": {
+  "gloss": "(MW for movies, books, phones, machines); ministry; department; part"
+ },
+ "山": {
+  "gloss": "mountain; hill (MW: 座 zuò)"
+ },
+ "饿": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "外面": {
+  "gloss": "outside; the exterior; the outer surface"
+ },
+ "病": {
+  "gloss": "illness; disease; to fall ill (MW: 场 chǎng)"
+ },
+ "态度": {
+  "gloss": "attitude; manner; approach (MW: 个 gè)"
+ },
+ "队": {
+  "gloss": "team; squad; group; line (of people) (MW: 个 gè, 支 zhī)"
+ },
+ "酒店": {
+  "gloss": "hotel; (older/regional) restaurant; wine shop"
+ },
+ "作用": {
+  "gloss": "effect; function; role; to act on; to affect"
+ },
+ "上面": {
+  "gloss": "above; on top (of); the top surface; the above-mentioned"
+ },
+ "市": {
+  "gloss": "city; municipality; market"
+ },
+ "广告": {
+  "gloss": "advertisement; commercial; ad (MW: 个 gè, 则 zé)"
+ },
+ "重点": {
+  "gloss": "key point; main point; focus; (adj) key (project etc)"
+ },
+ "占": {
+  "gloss": "to take up (space); to occupy; to account for (a proportion)"
+ },
+ "感受": {
+  "gloss": "feeling; impression; to feel; to experience",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "附近": {
+  "gloss": "nearby; vicinity; neighborhood"
+ },
+ "伟大": {
+  "gloss": "great; mighty; worthy of the greatest admiration"
+ },
+ "一点": {
+  "gloss": "a little; a bit; a dot"
+ },
+ "肉": {
+  "gloss": "meat; flesh; pulp (of a fruit)"
+ },
+ "班": {
+  "gloss": "class (of students); work shift; (MW for scheduled trains, buses, flights)"
+ },
+ "组": {
+  "gloss": "group; team; set; to form; to organize"
+ },
+ "省": {
+  "gloss": "province; to save; to economize; to omit; to leave out"
+ },
+ "祝": {
+  "gloss": "to wish (someone something); to express good wishes"
+ },
+ "克": {
+  "gloss": "gram; (literary) to overcome; to subdue"
+ },
+ "通知": {
+  "pos": "v",
+  "posName": "verb"
+ },
+ "相当": {
+  "gloss": "quite; fairly; considerably; (adj) equivalent, appropriate"
+ },
+ "大量": {
+  "gloss": "a large amount of; a lot of; numerous; large-scale",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "是不是": {
+  "gloss": "is it (the case) that...?; whether or not",
+  "posName": "phrase"
+ },
+ "记": {
+  "gloss": "to remember; to memorize; to record; to note down"
+ },
+ "干什么": {
+  "gloss": "what are you doing?; what's he up to?; why on earth ...?",
+  "posName": "phrase"
+ },
+ "全球": {
+  "gloss": "global; worldwide; the whole world"
+ },
+ "风": {
+  "gloss": "wind; style; custom; news (MW: 阵 zhèn, 股 gǔ)"
+ },
+ "看看": {
+  "gloss": "to have a look; to take a look at; to see"
+ },
+ "生气": {
+  "gloss": "angry; to get angry; to take offense"
+ },
+ "看来": {
+  "gloss": "it seems; apparently; it looks as if",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "随便": {
+  "gloss": "as you like; casual; informal; at random; careless"
+ },
+ "一边": {
+  "gloss": "(一边…一边…) while doing ... and doing ...; one side"
+ },
+ "味道": {
+  "gloss": "taste; flavor; smell; hint (of something)"
+ },
+ "紧张": {
+  "gloss": "nervous; tense; intense; in short supply"
+ },
+ "顺利": {
+  "gloss": "smooth; going well; without a hitch"
+ },
+ "星期": {
+  "gloss": "week; day of the week (星期一 = Monday) (MW: 个 gè)"
+ },
+ "相关": {
+  "gloss": "related; relevant; to be connected",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "比如": {
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "左": {
+  "gloss": "left (direction or side); the political left; unorthodox"
+ },
+ "票": {
+  "gloss": "ticket; ballot; vote; banknote (MW: 张 zhāng)"
+ },
+ "解释": {
+  "gloss": "to explain; to interpret; explanation"
+ },
+ "体验": {
+  "gloss": "to experience for oneself; experience"
+ },
+ "超级": {
+  "gloss": "super; extremely; ultra-"
+ },
+ "胜利": {
+  "gloss": "victory; triumph; to win (MW: 个 gè)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "爸": {
+  "gloss": "dad; father"
+ },
+ "感情": {
+  "gloss": "feelings; emotion; affection; bond between people (MW: 个 gè, 种 zhǒng)"
+ },
+ "奇怪": {
+  "gloss": "strange; odd; weird; to find it strange",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "腿": {
+  "gloss": "leg (MW: 条 tiáo)"
+ },
+ "美好": {
+  "gloss": "wonderful; fine; happy (of life, the future, memories)"
+ },
+ "周": {
+  "gloss": "week; to circle; circumference; all around",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "血": {
+  "gloss": "blood (colloquially often read xiě) (MW: 滴 dī)"
+ },
+ "不仅": {
+  "gloss": "not only; not just (often followed by 也/还/而且 ... 'but also')"
+ },
+ "取得": {
+  "gloss": "to obtain; to achieve; to gain (success, results, progress)"
+ },
+ "饭": {
+  "gloss": "cooked rice; meal; food (MW: 碗 wǎn, 顿 dùn)"
+ },
+ "大概": {
+  "gloss": "probably; roughly; approximately; rough"
+ },
+ "心里": {
+  "gloss": "in the heart; in the mind; inwardly; deep down",
+  "posName": "location word"
+ },
+ "片": {
+  "gloss": "slice; flake; thin piece; film; (MW for slices, flat things, tracts of land)"
+ },
+ "某": {
+  "pos": "det",
+  "posName": "determiner"
+ },
+ "受伤": {
+  "gloss": "to be injured; to get hurt; wounded"
+ },
+ "旅游": {
+  "gloss": "to travel (for pleasure); to tour; tourism"
+ },
+ "左右": {
+  "gloss": "about; approximately (after a number); left and right",
+  "pos": "part",
+  "posName": "suffix"
+ },
+ "黄": {
+  "gloss": "yellow; (slang) pornographic",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "充满": {
+  "gloss": "to be full of; to be filled with; to brim with"
+ },
+ "持续": {
+  "gloss": "to continue; to last; to persist; sustained"
+ },
+ "查": {
+  "gloss": "to check; to look up; to investigate; to examine"
+ },
+ "资料": {
+  "gloss": "data; information; materials (MW: 份 fèn, 个 gè)"
+ },
+ "交易": {
+  "gloss": "deal; transaction; to trade; to do business (MW: 笔 bǐ)"
+ },
+ "事业": {
+  "gloss": "career; cause; enterprise; undertaking (MW: 个 gè)"
+ },
+ "鸟": {
+  "gloss": "bird (MW: 只 zhǐ, 群 qún)"
+ },
+ "知识": {
+  "gloss": "knowledge; learning (MW: 门 mén)"
+ },
+ "追": {
+  "gloss": "to chase; to pursue; to run after; to trace back"
+ },
+ "实际": {
+  "gloss": "actual; real; practical; reality",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "成长": {
+  "gloss": "to grow up; to develop; growth"
+ },
+ "那个": {
+  "gloss": "that; that one; (filler word) um"
+ },
+ "城": {
+  "gloss": "city; town; city wall (MW: 座 zuò)"
+ },
+ "难过": {
+  "gloss": "sad; upset; feeling bad; (of life) hard"
+ },
+ "气": {
+  "gloss": "air; gas; breath; anger; to get angry; to anger"
+ },
+ "国内": {
+  "gloss": "domestic; at home; within the country",
+  "posName": "location word"
+ },
+ "好吃": {
+  "gloss": "delicious; tasty"
+ },
+ "标准": {
+  "gloss": "standard; criterion; norm; (adj) standard, proper"
+ },
+ "颜色": {
+  "gloss": "color"
+ },
+ "简直": {
+  "gloss": "simply; virtually; just (emphasizes an extreme)"
+ },
+ "药": {
+  "gloss": "medicine; drug (MW: 种 zhǒng, 服 fú)"
+ },
+ "共同": {
+  "gloss": "common; shared; joint; jointly",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "答应": {
+  "gloss": "to agree; to promise; to answer, respond"
+ },
+ "双": {
+  "gloss": "pair; two; double; both",
+  "pos": "n",
+  "posName": "measure word"
+ },
+ "口": {
+  "gloss": "mouth; opening; (MW for family members, wells, pigs, etc.)"
+ },
+ "规定": {
+  "gloss": "to stipulate; to prescribe; rule; regulation",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "动作": {
+  "gloss": "movement; action; motion (MW: 个 gè)"
+ },
+ "毛": {
+  "gloss": "body hair; fur; feather; wool; (colloquial) one tenth of a yuan",
+  "posName": "noun"
+ },
+ "那时": {
+  "pos": "n",
+  "posName": "time word"
+ },
+ "成绩": {
+  "gloss": "grades; results; achievement (MW: 项 xiàng, 个 gè)"
+ },
+ "楼": {
+  "gloss": "building (multi-story); floor, storey (MW: 层 céng, 座 zuò)"
+ },
+ "传说": {
+  "gloss": "legend; folk tale; (v) it is said that..."
+ },
+ "另": {
+  "pos": "det",
+  "posName": "determiner"
+ },
+ "便": {
+  "gloss": "(literary adverb) then, right away (= 就); convenient; informal"
+ },
+ "破坏": {
+  "gloss": "to damage; to destroy; to ruin; destruction"
+ },
+ "期": {
+  "gloss": "period; phase; term; (MW) for issues, installments or courses"
+ },
+ "非": {
+  "gloss": "non-; not; wrong; (in 非…不可) must"
+ },
+ "奶奶": {
+  "gloss": "paternal grandmother; grandma; (polite address for an elderly woman) (MW: 位 wèi)"
+ },
+ "数": {
+  "gloss": "shù: number; several; a few | shǔ: to count"
+ },
+ "训练": {
+  "gloss": "to train; to drill; training"
+ },
+ "亲": {
+  "gloss": "to kiss; parent; relative; related; close, dear (as in 亲爱)"
+ },
+ "至": {
+  "gloss": "to; until; up to (as in 至今); extremely (as in 至少)"
+ },
+ "光": {
+  "gloss": "light; ray; (after a verb) used up, all gone; only, merely; bare (MW: 道 dào)"
+ },
+ "性": {
+  "gloss": "-ness, -ity (suffix forming abstract nouns); nature; character; sex, gender",
+  "pos": "n",
+  "posName": "suffix"
+ },
+ "杯": {
+  "gloss": "cup; glass; trophy cup; (MW) for cupfuls or glassfuls of liquid"
+ },
+ "接着": {
+  "gloss": "then; next; to continue; to catch (something thrown)",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "高中": {
+  "gloss": "senior high school; high school"
+ },
+ "差不多": {
+  "gloss": "almost; nearly; about the same; similar",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "建设": {
+  "gloss": "to build; to construct; construction; development"
+ },
+ "交": {
+  "gloss": "to hand in; to hand over; to pay; to make (friends); to turn over"
+ },
+ "秘密": {
+  "gloss": "secret; a secret; confidential; clandestine (MW: 个 gè)"
+ },
+ "网络": {
+  "gloss": "the Internet; network (computer, telecom)"
+ },
+ "乱": {
+  "gloss": "messy; in disorder; chaotic; (adv.) randomly, recklessly; disturbance",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "南": {
+  "pos": "n",
+  "posName": "location word"
+ },
+ "路上": {
+  "gloss": "on the road; on the way; during the journey",
+  "posName": "location word"
+ },
+ "方便": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "太太": {
+  "gloss": "wife (polite); Mrs.; Madam; married woman (MW: 位 wèi)"
+ },
+ "旧": {
+  "gloss": "old (of things); used, worn; former"
+ },
+ "中间": {
+  "gloss": "middle; center; between; among"
+ },
+ "套": {
+  "gloss": "set; suit (MW for sets of things); cover; sleeve; to slip a cover over"
+ },
+ "应": {
+  "gloss": "yīng: should; ought to | yìng: to answer; to respond; to comply with"
+ },
+ "报": {
+  "gloss": "newspaper; to report; to announce; to repay (as in 报仇)"
+ },
+ "吹": {
+  "gloss": "to blow; to play (a wind instrument); (coll.) to brag"
+ },
+ "鸡": {
+  "gloss": "chicken; fowl"
+ },
+ "强大": {
+  "gloss": "powerful; strong; formidable"
+ },
+ "照": {
+  "gloss": "to shine on; to illuminate; to take (a photo); to reflect; according to"
+ },
+ "通常": {
+  "gloss": "usually; normally; usual; regular"
+ },
+ "看起来": {
+  "gloss": "to look; to seem; it looks like; apparently"
+ },
+ "随": {
+  "gloss": "to follow; to go along with; according to; depending on",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "则": {
+  "gloss": "(MW) for news items, jokes, notices and short texts (一则新闻); (literary) then, in that case",
+  "pos": "n",
+  "posName": "measure word"
+ },
+ "座": {
+  "gloss": "(MW) for mountains, buildings, bridges, cities and other large fixed objects; seat; base; stand"
+ },
+ "输": {
+  "gloss": "to lose; to be beaten; to be defeated"
+ },
+ "交通": {
+  "gloss": "traffic; transportation"
+ },
+ "送给": {
+  "gloss": "to give as a gift; to present to"
+ },
+ "大部分": {
+  "gloss": "most; the majority; for the most part",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "初": {
+  "gloss": "beginning; early part (of a period); at first; first (as in 初一, the 1st of the lunar month)"
+ },
+ "想要": {
+  "gloss": "to want; to would like to (do something)"
+ },
+ "懂得": {
+  "gloss": "to understand; to know (how to); to grasp"
+ },
+ "推": {
+  "gloss": "to push; to shove; to push away; to decline; to put off; to recommend"
+ },
+ "满意": {
+  "gloss": "satisfied; pleased; content",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "承认": {
+  "gloss": "to admit; to acknowledge; to recognize (a fact, a government)"
+ },
+ "科": {
+  "gloss": "subject (of study); department; section; (biology) family"
+ },
+ "当地": {
+  "gloss": "local; in the local area"
+ },
+ "急": {
+  "gloss": "anxious; in a hurry; urgent; rapid; to worry",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "出口": {
+  "gloss": "exit; to export; to utter (words)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "基础": {
+  "gloss": "foundation; basis; base"
+ },
+ "深": {
+  "gloss": "deep; dark (of colours); profound; close (of relationships)"
+ },
+ "嘛": {
+  "reading": "ma",
+  "gloss": "(modal particle) indicates something is obvious, or coaxes or urges"
+ },
+ "失败": {
+  "gloss": "to fail; to be defeated; to lose; failure (MW: 次 cì)"
+ },
+ "龙": {
+  "gloss": "dragon (MW: 条 tiáo)"
+ },
+ "电": {
+  "gloss": "electricity; electric; lightning; to give an electric shock"
+ },
+ "阳光": {
+  "gloss": "sunshine; sunlight; (of personality) upbeat, sunny"
+ },
+ "好处": {
+  "gloss": "benefit; advantage; good (that something does)"
+ },
+ "设备": {
+  "gloss": "equipment; facilities; installations (MW: 套 tào, 台 tái)"
+ },
+ "分别": {
+  "gloss": "respectively; separately; to part; to distinguish; difference"
+ },
+ "背": {
+  "gloss": "bèi: back (of the body); to memorize; to turn one's back on | bēi: to carry on one's back",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "收入": {
+  "gloss": "income; revenue; to take in (MW: 笔 bǐ, 个 gè)"
+ },
+ "讲话": {
+  "gloss": "to speak; to talk; speech, talk (MW: 个 gè)",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "作家": {
+  "gloss": "writer; author (MW: 位 wèi, 个 gè)"
+ },
+ "破": {
+  "gloss": "broken; torn; worn out; to break; lousy",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "成立": {
+  "gloss": "to establish; to set up; to be valid; to hold true"
+ },
+ "眼": {
+  "gloss": "eye (MW: 只 zhī, 双 shuāng); small hole; crux (of a matter)"
+ },
+ "竟然": {
+  "gloss": "unexpectedly; to one's surprise; actually (surprising)"
+ },
+ "痛": {
+  "gloss": "painful; to ache, to hurt; pain; (fig.) deeply, bitterly"
+ },
+ "立刻": {
+  "gloss": "immediately; at once; right away"
+ },
+ "梦想": {
+  "gloss": "dream; aspiration; to dream of"
+ },
+ "上去": {
+  "gloss": "to go up; to ascend; (after a verb) up, as it seems (e.g. 看上去 looks like)"
+ },
+ "只能": {
+  "gloss": "can only; have no choice but to"
+ },
+ "爬": {
+  "gloss": "to climb; to crawl; to scramble up"
+ },
+ "内心": {
+  "gloss": "inner heart; innermost feelings; inside"
+ },
+ "有点": {
+  "gloss": "a little; somewhat; a bit (often of undesirable qualities)",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "一部分": {
+  "gloss": "part; portion; some (of)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "重复": {
+  "gloss": "to repeat; to duplicate; repetition"
+ },
+ "身份": {
+  "gloss": "identity; status; capacity; role"
+ },
+ "开发": {
+  "gloss": "to develop; to exploit (resources); to open up (for development)"
+ },
+ "表": {
+  "gloss": "watch; wristwatch; table; chart; form; (literary) to show, to express"
+ },
+ "火": {
+  "gloss": "fire; anger (as in 发火); fiery; popular, hot"
+ },
+ "句": {
+  "gloss": "sentence; (measure word for sentences, remarks, lines of verse)"
+ },
+ "影片": {
+  "gloss": "film; movie; motion picture (MW: 部 bù)"
+ },
+ "传统": {
+  "gloss": "tradition; traditional; conventional (MW: 个 gè)"
+ },
+ "足球": {
+  "gloss": "soccer; football; soccer ball (MW: 个 gè)"
+ },
+ "轻": {
+  "gloss": "light (in weight); soft; gentle; slight; easy; young"
+ },
+ "开放": {
+  "gloss": "to be open (to the public); to open up (to the outside); to bloom"
+ },
+ "期间": {
+  "gloss": "period of time; (after a noun) during, while",
+  "pos": "n",
+  "posName": "time word"
+ },
+ "投资": {
+  "gloss": "to invest; investment"
+ },
+ "没关系": {
+  "gloss": "it doesn't matter; never mind; it's OK; no problem (reply to an apology)",
+  "pos": "v",
+  "posName": "phrase"
+ },
+ "对象": {
+  "gloss": "target; object (of study, etc.); partner (boyfriend or girlfriend)"
+ },
+ "丰富": {
+  "gloss": "rich; abundant; plentiful; to enrich"
+ },
+ "项目": {
+  "gloss": "project; item; (sports) event (MW: 个 gè)"
+ },
+ "白色": {
+  "gloss": "white; white color"
+ },
+ "接下来": {
+  "gloss": "next; following; from now on",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "发出": {
+  "gloss": "to send out; to give off; to emit (a sound, light); to issue (an order, invitation)"
+ },
+ "演出": {
+  "gloss": "performance; show; to perform; to act (in a play) (MW: 场 chǎng, 次 cì)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "既": {
+  "gloss": "both...and... (既…又/也…); already"
+ },
+ "感动": {
+  "gloss": "to be moved; to move, to touch (emotionally); moving"
+ },
+ "成熟": {
+  "gloss": "ripe; mature; to ripen; to mature"
+ },
+ "少年": {
+  "gloss": "boy; youth; adolescent"
+ },
+ "刀": {
+  "gloss": "knife; blade; sword (MW: 把 bǎ)"
+ },
+ "大多数": {
+  "gloss": "most; the great majority",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "显然": {
+  "gloss": "obvious; clear; (adv.) obviously, evidently"
+ },
+ "导演": {
+  "gloss": "director (of a film, play etc.); to direct",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "流行": {
+  "gloss": "popular; fashionable; in vogue; (of disease) to spread, be prevalent",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "通": {
+  "gloss": "tōng: to go through; to be open, connected; to understand | tòng: (measure word) for a bout of an activity (tirade, stint, etc.)"
+ },
+ "现代": {
+  "gloss": "modern; contemporary; modern times",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "西方": {
+  "reading": "xī fāng",
+  "gloss": "west (direction); the West, Western countries",
+  "posName": "location word"
+ },
+ "俩": {
+  "gloss": "two (people); both; the two of (you, them etc.)"
+ },
+ "因": {
+  "gloss": "because of; due to; (n.) cause, reason"
+ },
+ "便宜": {
+  "gloss": "pián yi: cheap; inexpensive; (n.) petty advantage | biàn yí: convenient; expedient"
+ },
+ "人家": {
+  "reading": "rén jia",
+  "gloss": "rén jia: other people; he/she/they; (coquettish) I, me | rén jiā: household; family; dwelling (MW: 户 hù, 家 jiā)"
+ },
+ "作业": {
+  "gloss": "homework; school assignment; (formal) work, task (MW: 个 gè)"
+ },
+ "节": {
+  "gloss": "festival; holiday; (measure word) class period, section, segment; joint, node"
+ },
+ "开玩笑": {
+  "gloss": "to joke; to kid; to make fun of"
+ },
+ "果然": {
+  "gloss": "sure enough; as expected; indeed (as predicted)"
+ },
+ "自动": {
+  "gloss": "automatic; automatically; of one's own accord",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "仅仅": {
+  "gloss": "only; merely; just"
+ },
+ "直播": {
+  "gloss": "to livestream; to broadcast live; live broadcast"
+ },
+ "男生": {
+  "gloss": "boy; male student; guy"
+ },
+ "外国": {
+  "gloss": "foreign country; abroad; foreign"
+ },
+ "厉害": {
+  "gloss": "impressive; awesome (informal); formidable, fierce; terrible, severe"
+ },
+ "民族": {
+  "gloss": "ethnic group; nation (as a people); nationality (MW: 个 gè)"
+ },
+ "值": {
+  "gloss": "to be worth; to be worthwhile; value; to be on duty"
+ },
+ "进步": {
+  "gloss": "to make progress; to improve; progress, improvement (MW: 个 gè)"
+ },
+ "尽管": {
+  "gloss": "although; even though; despite; (adv.) go ahead, feel free to"
+ },
+ "替": {
+  "gloss": "for, on behalf of; to replace, take the place of"
+ },
+ "千万": {
+  "gloss": "be sure to; must by all means (usu. with 不要/别); ten million",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "生意": {
+  "reading": "shēng yi",
+  "gloss": "shēng yi: business; trade | shēng yì: (literary) vitality, life force"
+ },
+ "层": {
+  "gloss": "floor, storey (MW for floors); layer; tier"
+ },
+ "赶": {
+  "gloss": "to hurry; to rush; to catch (a bus etc.); to catch up with; to drive away"
+ },
+ "有意思": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "快速": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "结合": {
+  "gloss": "to combine; to integrate; to link; combination"
+ },
+ "骑": {
+  "gloss": "to ride (a horse, bike etc.)"
+ },
+ "国外": {
+  "gloss": "abroad; overseas; outside the country",
+  "posName": "location word"
+ },
+ "不久": {
+  "gloss": "soon; before long; not long after",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "版": {
+  "gloss": "edition; version; (printing) plate; page (of a newspaper)"
+ },
+ "团": {
+  "gloss": "group; regiment; ball, lump; to roll into a ball"
+ },
+ "宣传": {
+  "gloss": "to publicize; to promote; propaganda; publicity (MW: 个 gè)"
+ },
+ "骗": {
+  "gloss": "to deceive; to cheat; to swindle; to fool"
+ },
+ "正好": {
+  "gloss": "exactly; just right; just in time; to happen to",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "没错": {
+  "gloss": "that's right; you're right; correct; no mistake"
+ },
+ "草": {
+  "gloss": "grass; straw (MW: 棵 kē)"
+ },
+ "不会": {
+  "gloss": "will not; unlikely to; not know how to"
+ },
+ "同": {
+  "gloss": "same; similar; (formal) with, together with",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "伤心": {
+  "gloss": "sad; heartbroken; to grieve"
+ },
+ "应用": {
+  "gloss": "to apply; to put to use; application; app; applied (science)"
+ },
+ "上来": {
+  "gloss": "to come up; to approach; (verb complement) up toward the speaker"
+ },
+ "平时": {
+  "gloss": "usually; normally; at ordinary times"
+ },
+ "真是": {
+  "gloss": "really (is); indeed; (colloquial) expresses annoyance: 'for goodness' sake!'"
+ },
+ "中学": {
+  "gloss": "middle school; secondary school; high school"
+ },
+ "极": {
+  "gloss": "extremely; utterly; pole (geography, physics); utmost"
+ },
+ "篇": {
+  "gloss": "(measure word) for articles, essays, papers etc.; piece of writing"
+ },
+ "叔叔": {
+  "gloss": "uncle (father's younger brother); form of address for a man about one's father's age (MW: 个 gè)"
+ },
+ "机构": {
+  "gloss": "organization; institution; agency; mechanism (MW: 所 suǒ)"
+ },
+ "就要": {
+  "gloss": "be about to; will soon (often with 了)"
+ },
+ "一点点": {
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "夫人": {
+  "gloss": "madam; lady; wife (polite, of a man of standing) (MW: 位 wèi)"
+ },
+ "右": {
+  "gloss": "right; right-hand side; (politics) right-wing"
+ },
+ "乐": {
+  "gloss": "lè: happy; cheerful; to laugh | yuè: music"
+ },
+ "可惜": {
+  "gloss": "a pity; too bad; unfortunately",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "人才": {
+  "gloss": "talented person; talent"
+ },
+ "资格": {
+  "gloss": "qualification; eligibility; seniority"
+ },
+ "反": {
+  "gloss": "to reverse; opposite; inside out; upside down; (after a verb) the wrong way round"
+ },
+ "直": {
+  "gloss": "straight; upright; frank; directly; to straighten",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "农民": {
+  "gloss": "farmer; peasant (MW: 个 gè)"
+ },
+ "老公": {
+  "gloss": "(colloquial) husband"
+ },
+ "送到": {
+  "gloss": "to deliver; to send to; to take (someone) to"
+ },
+ "朝": {
+  "gloss": "(preposition) toward, facing; to face; dynasty; imperial court"
+ },
+ "门口": {
+  "posName": "location word"
+ },
+ "形象": {
+  "gloss": "image (esp. public image); figure; form; (adj) vivid"
+ },
+ "踢": {
+  "gloss": "to kick; to play (soccer, shuttlecock, etc.)"
+ },
+ "接到": {
+  "gloss": "to receive (a call, letter, etc.)"
+ },
+ "坚强": {
+  "gloss": "strong; resilient; firm"
+ },
+ "计算": {
+  "gloss": "to calculate; to compute; to count; calculation"
+ },
+ "可怜": {
+  "gloss": "pitiful; pathetic; poor; to take pity on",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "部长": {
+  "gloss": "minister; head of a department; section chief (MW: 个 gè, 位 wèi)"
+ },
+ "实力": {
+  "gloss": "strength; actual capability"
+ },
+ "嗯": {
+  "gloss": "(interjection) uh-huh; yeah; OK (agreement); hm; um (hesitation)"
+ },
+ "怪": {
+  "gloss": "strange; odd; to blame; (colloquial adv) rather, quite",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "念": {
+  "gloss": "to read aloud; to study (a subject); to attend (school); to miss, think of"
+ },
+ "搬": {
+  "gloss": "to move (heavy objects); to carry; to move house; to shift"
+ },
+ "实验": {
+  "gloss": "experiment; test; to experiment (MW: 个 gè, 次 cì)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "练习": {
+  "gloss": "to practice; exercise; drill"
+ },
+ "戴": {
+  "gloss": "to wear; to put on (glasses, hat, gloves, etc.)"
+ },
+ "考": {
+  "gloss": "to take an exam; to give an exam; to test; to examine"
+ },
+ "文明": {
+  "gloss": "civilization; culture; (adj) civilized, polite (MW: 个 gè)"
+ },
+ "空": {
+  "gloss": "kōng: empty; hollow; sky; in vain | kòng: free (time); vacant; spare"
+ },
+ "顿": {
+  "gloss": "(measure word) for meals, scoldings, beatings, etc.; to pause; to stop"
+ },
+ "家长": {
+  "gloss": "parent or guardian (of a child); head of a household"
+ },
+ "官方": {
+  "gloss": "official; the authorities; government"
+ },
+ "当初": {
+  "gloss": "back then; originally; at the outset"
+ },
+ "选手": {
+  "gloss": "contestant; player; athlete"
+ },
+ "布": {
+  "gloss": "cloth; (in rock-paper-scissors) paper; to announce; to spread"
+ },
+ "需求": {
+  "gloss": "demand; need; requirement"
+ },
+ "封": {
+  "gloss": "(measure word) for letters, emails, sealed items; to seal; to confer (a title)"
+ },
+ "神": {
+  "gloss": "god; deity; spirit (MW: 个 gè)"
+ },
+ "属": {
+  "gloss": "to belong to; to be born in the year of (zodiac animal); category; genus"
+ },
+ "举办": {
+  "gloss": "to hold (an event); to organize"
+ },
+ "哪些": {
+  "gloss": "which ones; which; what (plural)"
+ },
+ "大声": {
+  "gloss": "loudly; in a loud voice; loud"
+ },
+ "断": {
+  "gloss": "to break; to snap; to cut off; to stop; to run out of"
+ },
+ "专门": {
+  "gloss": "specially; specifically; specialized"
+ },
+ "关键": {
+  "gloss": "crux; key; crucial (MW: 个 gè)"
+ },
+ "尽量": {
+  "gloss": "as much as possible; to the best of one's ability"
+ },
+ "访问": {
+  "gloss": "to visit (formally); to interview; to call on; (computing) to access (MW: 次 cì)"
+ },
+ "对话": {
+  "gloss": "dialogue; conversation; to talk (with sb)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "多数": {
+  "pos": "n",
+  "posName": "noun"
+ },
+ "土地": {
+  "gloss": "land; soil; territory (MW: 片 piàn, 块 kuài)"
+ },
+ "共": {
+  "gloss": "altogether; in total; together; to share"
+ },
+ "车上": {
+  "gloss": "in the car; on board (a vehicle); on the car",
+  "posName": "location word"
+ },
+ "全面": {
+  "gloss": "comprehensive; all-round; overall; full-scale"
+ },
+ "没用": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "排": {
+  "gloss": "to arrange; to put in order; to line up; row; line"
+ },
+ "经典": {
+  "gloss": "classic; classical; a classic work; the classics; scriptures"
+ },
+ "若": {
+  "gloss": "(literary) if; supposing; to seem; like"
+ },
+ "令": {
+  "gloss": "to make; to cause (esp. 令人...); to order; to command; an order"
+ },
+ "不然": {
+  "gloss": "otherwise; or else; if not"
+ },
+ "组合": {
+  "gloss": "combination; to combine; to put together; to form",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "零": {
+  "gloss": "zero; nil; (used in numbers to mark a skipped place, e.g. 一百零五 = 105)"
+ },
+ "大小": {
+  "gloss": "size; dimensions; magnitude"
+ },
+ "主动": {
+  "gloss": "proactive; taking the initiative; on one's own accord; active (opp. 被动)"
+ },
+ "申请": {
+  "gloss": "to apply for; application (MW: 份 fèn)"
+ },
+ "评价": {
+  "gloss": "to evaluate; to assess; evaluation; opinion"
+ },
+ "直到": {
+  "gloss": "until; up to (a point in time)",
+  "pos": "post",
+  "posName": "preposition"
+ },
+ "校长": {
+  "gloss": "principal; headmaster; (university) president (MW: 个 gè, 位 wèi)"
+ },
+ "紧": {
+  "gloss": "tight; taut; strict; urgent; (money) tight"
+ },
+ "心中": {
+  "gloss": "in one's heart; in one's mind; in one's thoughts",
+  "posName": "location word"
+ },
+ "响": {
+  "gloss": "to sound; to ring; (of sound) loud; noise; echo"
+ },
+ "双方": {
+  "gloss": "both sides; both parties; bilateral"
+ },
+ "恐怕": {
+  "gloss": "I'm afraid (that); probably; perhaps (usually of unwelcome things)"
+ },
+ "毕业": {
+  "gloss": "to graduate; graduation"
+ },
+ "抽": {
+  "gloss": "to pull out; to draw out; to smoke (抽烟); to take out (a sample)"
+ },
+ "修": {
+  "gloss": "to repair; to fix; to build; to trim"
+ },
+ "轻松": {
+  "gloss": "relaxed; light-hearted; easy; effortless"
+ },
+ "亮": {
+  "gloss": "bright; light; to shine; (of a light) to be on",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "钟": {
+  "gloss": "clock; bell; o'clock (as in 三点钟)"
+ },
+ "纸": {
+  "gloss": "paper (MW: 张 zhāng)"
+ },
+ "明确": {
+  "gloss": "clear; explicit; definite; to clarify"
+ },
+ "烟": {
+  "gloss": "smoke; cigarette; tobacco; mist (MW: 根 gēn, 缕 lǚ)"
+ },
+ "爱人": {
+  "gloss": "spouse (husband or wife; mainland usage); lover (elsewhere)"
+ },
+ "在于": {
+  "gloss": "to lie in; to consist in; to depend on; to rest with"
+ },
+ "好人": {
+  "gloss": "good person; kind-hearted person; decent guy"
+ },
+ "全体": {
+  "gloss": "all (members); the whole body of people; entire"
+ },
+ "宝宝": {
+  "gloss": "baby; darling"
+ },
+ "铁": {
+  "gloss": "iron (metal); (fig.) hard; firm; unyielding"
+ },
+ "熟": {
+  "gloss": "ripe; cooked; familiar; skilled"
+ },
+ "演": {
+  "gloss": "to perform; to act; to play (a role); to put on (a show); to develop"
+ },
+ "好久": {
+  "gloss": "a long time; quite a while",
+  "pos": "n",
+  "posName": "time word"
+ },
+ "博士": {
+  "gloss": "doctorate; Ph.D.; Dr. (holder of a doctorate)"
+ },
+ "升": {
+  "gloss": "to rise; to go up; to be promoted; to hoist; litre (a unit of volume)"
+ },
+ "全身": {
+  "gloss": "the whole body; all over (the body)"
+ },
+ "究竟": {
+  "gloss": "(emphasizes a question) on earth; exactly; after all; actually"
+ },
+ "待": {
+  "reading": "dāi",
+  "gloss": "dāi: to stay; to remain | dài: to treat; to deal with; to wait for"
+ },
+ "各种": {
+  "pos": "det",
+  "posName": "determiner"
+ },
+ "路线": {
+  "gloss": "route; itinerary; (political) line (MW: 条 tiáo)"
+ },
+ "冲": {
+  "gloss": "chōng: to rush; to charge; to flush or rinse with water; to steep (tea, coffee) | chòng: facing; pungent; strong"
+ },
+ "抢": {
+  "gloss": "to rob; to snatch; to grab; to scramble for"
+ },
+ "广播": {
+  "gloss": "to broadcast; broadcast; radio program (MW: 个 gè)"
+ },
+ "姓": {
+  "gloss": "to be surnamed; surname; family name (MW: 个 gè)"
+ },
+ "笔": {
+  "gloss": "pen; pencil; writing brush (MW: 支 zhī, 枝 zhī)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "配合": {
+  "gloss": "to cooperate; to coordinate; to work in concert with; to fit in with"
+ },
+ "啤酒": {
+  "gloss": "beer (MW: 杯 bēi, 瓶 píng)"
+ },
+ "兴奋": {
+  "gloss": "excited; thrilled; to excite",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "文字": {
+  "gloss": "writing; written language; script; text"
+ },
+ "所谓": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "车站": {
+  "gloss": "station (train or bus); bus stop (MW: 处 chù, 个 gè)"
+ },
+ "性格": {
+  "gloss": "personality; temperament; disposition; character (MW: 个 gè)"
+ },
+ "大门": {
+  "gloss": "main entrance; front gate; front door"
+ },
+ "疯": {
+  "gloss": "crazy; insane; mad; wild",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "邻居": {
+  "gloss": "neighbor (MW: 个 gè, 位 wèi)"
+ },
+ "入口": {
+  "gloss": "entrance; way in; entry point"
+ },
+ "拿出": {
+  "gloss": "to take out; to produce; to put forward (a proposal)"
+ },
+ "尊重": {
+  "gloss": "to respect; to esteem; to value; to honor"
+ },
+ "即将": {
+  "gloss": "about to; soon to be; on the verge of"
+ },
+ "古": {
+  "gloss": "ancient; old; of olden times"
+ },
+ "相机": {
+  "gloss": "camera (MW: 台 tái, 部 bù)"
+ },
+ "原谅": {
+  "gloss": "to forgive; to excuse; to pardon"
+ },
+ "优势": {
+  "gloss": "advantage; superiority; dominance"
+ },
+ "皮": {
+  "gloss": "skin; peel; leather; fur; (of a child) naughty (MW: 张 zhāng)"
+ },
+ "先进": {
+  "gloss": "advanced; (technologically) developed"
+ },
+ "阿姨": {
+  "gloss": "auntie (polite address for a woman of one's parents' generation); mother's sister; maid; nanny (MW: 个 gè)"
+ },
+ "情感": {
+  "gloss": "emotion; feeling; affection"
+ },
+ "指导": {
+  "gloss": "to guide; to direct; to coach; guidance (MW: 个 gè)"
+ },
+ "主意": {
+  "gloss": "idea; plan; decision (MW: 个 gè)"
+ },
+ "系列": {
+  "pos": "n",
+  "posName": "noun"
+ },
+ "少数": {
+  "gloss": "a small number; few; minority",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "打破": {
+  "gloss": "to break; to smash; to break through (a record, silence)"
+ },
+ "主席": {
+  "gloss": "chairperson; chairman; president (of a state or organization) (MW: 个 gè, 位 wèi)"
+ },
+ "合": {
+  "gloss": "to fit; to suit; to combine; to close"
+ },
+ "哈": {
+  "gloss": "ha! (sound of laughter); to breathe out with the mouth open",
+  "pos": "interj",
+  "posName": "interjection"
+ },
+ "好事": {
+  "gloss": "hǎo shì: good thing; good deed; (ironic) a fine thing | hào shì: to be meddlesome"
+ },
+ "步": {
+  "gloss": "step; pace; stage; (MW for steps)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "辛苦": {
+  "gloss": "hard; toilsome; exhausting; (as thanks) thanks for your hard work"
+ },
+ "从事": {
+  "gloss": "to engage in; to be engaged in; to undertake; to deal with"
+ },
+ "不到": {
+  "gloss": "less than; not reaching; (after a verb) unable to achieve, as in 做不到 'can't do it'"
+ },
+ "游客": {
+  "gloss": "tourist; visitor (MW: 个 gè, 位 wèi)"
+ },
+ "代": {
+  "gloss": "to act on behalf of; to replace; generation; era"
+ },
+ "事实上": {
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "传播": {
+  "gloss": "to spread; to disseminate; to propagate"
+ },
+ "汤": {
+  "gloss": "soup; broth"
+ },
+ "吵": {
+  "gloss": "noisy; to quarrel; to make noise; to disturb with noise",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "教练": {
+  "gloss": "coach; instructor; trainer (MW: 个 gè, 位 wèi)"
+ },
+ "建": {
+  "gloss": "to build; to construct; to establish; to found"
+ },
+ "领": {
+  "gloss": "to lead; to take (someone somewhere); to receive; to collect; collar"
+ },
+ "眼前": {
+  "gloss": "before one's eyes; in front of; at present; at hand"
+ },
+ "费": {
+  "gloss": "to spend; to cost (effort, time, money); wasteful; fee, charge (in compounds like 车费)",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "自身": {
+  "gloss": "oneself; itself; one's own"
+ },
+ "不论": {
+  "gloss": "no matter (what, who, how); regardless of; whatever"
+ },
+ "革命": {
+  "gloss": "revolution; to carry out a revolution (MW: 次 cì)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "随着": {
+  "gloss": "as; along with; in step with (a change)"
+ },
+ "香": {
+  "gloss": "fragrant; aromatic; appetizing; incense (MW: 根 gēn)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "年龄": {
+  "gloss": "age (of a person) (MW: 个 gè)"
+ },
+ "录": {
+  "gloss": "to record (audio/video); to copy down; to write down"
+ },
+ "整": {
+  "gloss": "whole; entire; exactly; to put in order; to fix",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "模式": {
+  "gloss": "pattern; model; mode"
+ },
+ "调": {
+  "gloss": "tiáo: to adjust; to blend; to mix; to tune | diào: to transfer; to investigate; tone",
+  "reading": "tiáo"
+ },
+ "死亡": {
+  "gloss": "death; to die",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "刺激": {
+  "gloss": "to stimulate; to excite; to provoke; to irritate; stimulus"
+ },
+ "钱包": {
+  "gloss": "wallet; purse"
+ },
+ "瓶": {
+  "gloss": "bottle; (measure word) bottle of, for liquids",
+  "posName": "measure word"
+ },
+ "功夫": {
+  "gloss": "kung fu; skill; effort; time (spent on something)"
+ },
+ "北方": {
+  "gloss": "north; the northern part of a country; (esp.) northern China",
+  "posName": "location word"
+ },
+ "欢乐": {
+  "gloss": "joyful; merry; joy; merriment"
+ },
+ "互联网": {
+  "reading": "hù lián wǎng",
+  "gloss": "the Internet"
+ },
+ "对面": {
+  "gloss": "opposite side; across from; directly in front"
+ },
+ "闻": {
+  "gloss": "to smell; to sniff; (literary) to hear"
+ },
+ "架": {
+  "gloss": "(measure word) for aircraft, pianos, cameras, large machines; frame; rack; to support; fight (in 打架)"
+ },
+ "周年": {
+  "gloss": "anniversary",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "在家": {
+  "gloss": "to be at home"
+ },
+ "避免": {
+  "gloss": "to avoid; to avert; to prevent; to refrain from"
+ },
+ "创新": {
+  "gloss": "innovation; to innovate"
+ },
+ "出租车": {
+  "gloss": "taxi; cab (MW: 辆 liàng)"
+ },
+ "作": {
+  "gloss": "to do; to make (variant of 做, mostly in compounds); to write; to compose; to act as"
+ },
+ "即": {
+  "gloss": "namely; that is (to say); i.e.; (literary) to be; immediately"
+ },
+ "半夜": {
+  "gloss": "in the middle of the night; midnight"
+ },
+ "大大": {
+  "gloss": "greatly; considerably; by a large margin"
+ },
+ "特色": {
+  "gloss": "characteristic; distinguishing feature; special flavor"
+ },
+ "不满": {
+  "gloss": "dissatisfied; discontented; resentful; discontent"
+ },
+ "就算": {
+  "gloss": "even if; even though; suppose",
+  "pos": "conj",
+  "posName": "conjunction"
+ },
+ "计算机": {
+  "gloss": "computer (MW: 台 tái)"
+ },
+ "大陆": {
+  "gloss": "continent; mainland (esp. mainland China)"
+ },
+ "哇": {
+  "gloss": "wow (expresses surprise); sound of a baby crying",
+  "pos": "interj",
+  "posName": "interjection"
+ },
+ "单": {
+  "gloss": "bill; list; form; single; (bed) sheet",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "激动": {
+  "gloss": "excited; agitated; emotional; to excite"
+ },
+ "主持": {
+  "gloss": "to host; to preside over; to chair; to take charge of"
+ },
+ "更新": {
+  "gloss": "to update; to renew; to replace the old with new"
+ },
+ "石油": {
+  "gloss": "petroleum; oil"
+ },
+ "付出": {
+  "gloss": "to put in (effort, time); to give; to pay (a price)"
+ },
+ "恶心": {
+  "reading": "ě xin",
+  "gloss": "disgusting; nauseating; to feel sick; to disgust"
+ },
+ "愿": {
+  "gloss": "to wish; to hope; to be willing; may (expressing a wish)"
+ },
+ "投": {
+  "gloss": "to throw; to cast (a vote); to put in; to invest; to send (a letter)"
+ },
+ "归": {
+  "gloss": "to belong to; to be the responsibility of; to return; to go back to"
+ },
+ "配": {
+  "gloss": "to match; to go well with; to pair; to mix; to deserve"
+ },
+ "早就": {
+  "gloss": "long since; already (a long time ago)"
+ },
+ "暂时": {
+  "gloss": "temporarily; for the time being"
+ },
+ "祝福": {
+  "gloss": "to wish well; blessing; best wishes"
+ },
+ "准": {
+  "gloss": "accurate; precise; to allow; to grant"
+ },
+ "等等": {
+  "gloss": "and so on; etcetera; wait a moment; hold on"
+ },
+ "最终": {
+  "gloss": "finally; ultimately; final; ultimate"
+ },
+ "在乎": {
+  "gloss": "to care about; to mind"
+ },
+ "感冒": {
+  "gloss": "to catch a cold; common cold (MW: 场 chǎng, 次 cì)"
+ },
+ "晚会": {
+  "gloss": "evening party; soirée (MW: 个 gè)"
+ },
+ "这种": {
+  "pos": "det",
+  "posName": "determiner"
+ },
+ "眼镜": {
+  "gloss": "glasses; eyeglasses (MW: 副 fù)"
+ },
+ "整体": {
+  "gloss": "whole; entirety; (as a) whole"
+ },
+ "微笑": {
+  "gloss": "to smile; smile"
+ },
+ "声": {
+  "gloss": "sound; voice; (measure word) for sounds or calls, e.g. 说声谢谢"
+ },
+ "遍": {
+  "gloss": "(measure word) time, for the full course of an action; all over; everywhere"
+ },
+ "声明": {
+  "gloss": "statement; declaration; to declare publicly (MW: 份 fèn)"
+ },
+ "表情": {
+  "gloss": "(facial) expression; look"
+ },
+ "找出": {
+  "gloss": "to find out; to identify; to locate"
+ },
+ "阶段": {
+  "gloss": "stage; phase; period (MW: 个 gè)"
+ },
+ "销售": {
+  "gloss": "to sell; to market; sales"
+ },
+ "板": {
+  "gloss": "board; plank; plate (MW: 块 kuài)"
+ },
+ "推动": {
+  "gloss": "to promote; to drive forward; to push"
+ },
+ "建筑": {
+  "gloss": "building; architecture; to construct (MW: 座 zuò)"
+ },
+ "电台": {
+  "gloss": "radio station; broadcaster; transmitter-receiver (MW: 个 gè, 家 jiā)"
+ },
+ "关闭": {
+  "gloss": "to close; to shut down; to turn off (a device)"
+ },
+ "进展": {
+  "gloss": "progress; headway; to make progress",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "碗": {
+  "gloss": "bowl (MW: 只 zhǐ, 个 gè)"
+ },
+ "东北": {
+  "posName": "location word",
+  "gloss": "northeast; Northeast China (Dōngběi)"
+ },
+ "支": {
+  "gloss": "(measure word) for pens, cigarettes and other stick-like things, also songs and teams; to support; to prop up"
+ },
+ "密码": {
+  "gloss": "password; PIN; secret code; cipher"
+ },
+ "聚会": {
+  "gloss": "party; gathering; get-together; to get together",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "副": {
+  "gloss": "(measure word) for pairs or sets, e.g. glasses, gloves, cards; deputy; vice-; secondary",
+  "pos": "n",
+  "posName": "measure word"
+ },
+ "为何": {
+  "gloss": "why (formal, written)",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "烧": {
+  "gloss": "to burn; to heat; to boil; to cook (roast, stew); to have a fever"
+ },
+ "程序": {
+  "gloss": "procedure; process; (computer) program; sequence"
+ },
+ "愉快": {
+  "gloss": "happy; pleasant; delightful"
+ },
+ "卫生": {
+  "gloss": "hygiene; sanitation; clean (hygienic); cleaning (housework)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "评论": {
+  "gloss": "comment; commentary; to comment on (MW: 篇 piān)"
+ },
+ "友好": {
+  "gloss": "friendly; amicable"
+ },
+ "游": {
+  "gloss": "to swim; to travel for pleasure; to tour; to roam"
+ },
+ "而已": {
+  "gloss": "(sentence-final particle) that's all; merely; nothing more"
+ },
+ "冷静": {
+  "gloss": "calm; composed; cool-headed"
+ },
+ "棒": {
+  "gloss": "great; excellent; awesome; (n.) stick; club"
+ },
+ "行业": {
+  "gloss": "industry; line of business; profession"
+ },
+ "角": {
+  "gloss": "jiǎo: corner; angle; horn; 1/10 of a yuan (MW: 个 gè) | jué: role (in a play)"
+ },
+ "相比": {
+  "gloss": "to compare; in comparison with"
+ },
+ "题": {
+  "gloss": "question; problem (on a test); topic; title (MW: 道 dào)"
+ },
+ "深入": {
+  "gloss": "to go deep into; in-depth; thorough"
+ },
+ "官": {
+  "gloss": "(government) official; officer (MW: 个 gè)"
+ },
+ "货": {
+  "gloss": "goods; merchandise; commodity"
+ },
+ "纪录": {
+  "gloss": "(sports/world) record; record of achievement"
+ },
+ "看上去": {
+  "gloss": "to look; to seem; to appear"
+ },
+ "成果": {
+  "gloss": "result; achievement; fruits (of one's labor) (MW: 个 gè)"
+ },
+ "记忆": {
+  "gloss": "memory; to remember (MW: 个 gè)"
+ },
+ "呆": {
+  "gloss": "to stay (at a place); dull; stupid; blank (as in 发呆, to space out)"
+ },
+ "卷": {
+  "gloss": "juǎn: to roll up; to curl; roll (MW for rolls) | juàn: scroll; volume; exam paper"
+ },
+ "这时": {
+  "gloss": "at this moment; just then",
+  "pos": "n",
+  "posName": "time word"
+ },
+ "县": {
+  "gloss": "county (administrative division); prefecture (Japan)"
+ },
+ "一旦": {
+  "gloss": "once (something happens...); as soon as; if ever; in case",
+  "pos": "conj",
+  "posName": "conjunction"
+ },
+ "亚洲": {
+  "gloss": "Asia",
+  "posName": "noun"
+ },
+ "摆": {
+  "gloss": "to put; to place; to arrange; to display; to sway; to wag"
+ },
+ "教学": {
+  "gloss": "jiào xué: teaching; instruction | jiāo xué: to teach",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "民主": {
+  "gloss": "democracy; democratic",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "体现": {
+  "gloss": "to embody; to reflect; to give expression to"
+ },
+ "楼上": {
+  "gloss": "upstairs; the floor above",
+  "posName": "location word"
+ },
+ "撞": {
+  "gloss": "to hit; to collide with; to bump into; to run into"
+ },
+ "决心": {
+  "gloss": "determination; resolve; to be determined to (do sth) (MW: 个 gè)"
+ },
+ "姐": {
+  "gloss": "older sister (also a form of address for a young woman)"
+ },
+ "发送": {
+  "gloss": "to send (messages, data, signals); to transmit; to dispatch"
+ },
+ "篮球": {
+  "gloss": "basketball (the sport or the ball) (MW: 个 gè)"
+ },
+ "左边": {
+  "gloss": "left; the left side"
+ },
+ "保安": {
+  "gloss": "security guard; security; to ensure public safety",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "投入": {
+  "gloss": "to put in (money, effort); to throw oneself into; to invest"
+ },
+ "头脑": {
+  "gloss": "brain; mind; mental ability; head"
+ },
+ "沙发": {
+  "gloss": "sofa; couch (MW: 张 zhāng)"
+ },
+ "骄傲": {
+  "gloss": "proud; arrogant; conceited; (n.) pride"
+ },
+ "恢复": {
+  "gloss": "to recover; to restore; to resume; to reinstate"
+ },
+ "脑袋": {
+  "gloss": "head (colloquial); brains; mind (MW: 个 gè)"
+ },
+ "院长": {
+  "gloss": "head of a hospital, academy or institute; dean; president (MW: 个 gè)"
+ },
+ "谈判": {
+  "gloss": "to negotiate; negotiation; talks (MW: 次 cì)"
+ },
+ "顶": {
+  "gloss": "top; peak; roof; (MW for hats, tents); (v.) to push against; to withstand",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "总结": {
+  "gloss": "to sum up; to summarize; summary (MW: 个 gè)"
+ },
+ "医疗": {
+  "gloss": "medical treatment; healthcare"
+ },
+ "完善": {
+  "gloss": "to perfect; to improve; to refine; (adj.) complete, well-developed"
+ },
+ "邮件": {
+  "gloss": "email; mail; post"
+ },
+ "没事": {
+  "gloss": "it's nothing; never mind; (to be) all right, fine; to have nothing to do"
+ },
+ "小朋友": {
+  "gloss": "little kid; child (friendly term for young children) (MW: 个 gè)"
+ },
+ "电梯": {
+  "gloss": "elevator; lift (MW: 部 bù, 台 tái)"
+ },
+ "情绪": {
+  "gloss": "mood; emotions; state of mind (MW: 种 zhǒng)"
+ },
+ "把握": {
+  "gloss": "to seize; to grasp; (n.) confidence, assurance (有把握 = to be sure)"
+ },
+ "圈": {
+  "gloss": "quān: circle; ring; loop; to circle; (MW for laps, rounds) | juàn: animal pen; pigsty | juān: to confine; to lock up"
+ },
+ "春节": {
+  "posName": "time word"
+ },
+ "不好意思": {
+  "gloss": "embarrassed; shy; (polite) sorry, excuse me",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "中央": {
+  "gloss": "center; middle; central authorities (of a state)"
+ },
+ "决赛": {
+  "gloss": "final (of a competition); finals (MW: 场 chǎng)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "翻": {
+  "gloss": "to turn over; to flip (through); to rummage; to translate; to climb over"
+ },
+ "银": {
+  "gloss": "silver; silver-colored; (in compounds) relating to money",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "事物": {
+  "gloss": "thing; object; matter (abstract)"
+ },
+ "缺": {
+  "gloss": "to lack; to be short of; to be missing; (n.) vacancy"
+ },
+ "收获": {
+  "gloss": "harvest; gains; rewards; to harvest; to reap"
+ },
+ "联合国": {
+  "posName": "noun"
+ },
+ "体会": {
+  "gloss": "to experience; to come to appreciate; to realize; (n.) understanding, insight"
+ },
+ "刻": {
+  "gloss": "to carve; to engrave; quarter of an hour; moment"
+ },
+ "厂": {
+  "gloss": "factory; plant; works"
+ },
+ "咱": {
+  "gloss": "we, us (including the listener); (dialect) I, me"
+ },
+ "轮": {
+  "gloss": "wheel; to take turns; (MW for rounds, turns; sun, moon)"
+ },
+ "光明": {
+  "gloss": "light; brightness; (fig.) hope; (adj.) bright, promising"
+ },
+ "困": {
+  "gloss": "sleepy; tired; to trap; to be stuck; hard-pressed",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "学会": {
+  "gloss": "to learn (how to); to master; to pick up (a skill)"
+ },
+ "旅客": {
+  "gloss": "traveler; passenger"
+ },
+ "必然": {
+  "gloss": "inevitable; bound to happen; (n.) necessity",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "偷": {
+  "gloss": "to steal; to do secretly"
+ },
+ "例子": {
+  "gloss": "example; instance; case (MW: 个 gè)"
+ },
+ "不安": {
+  "gloss": "uneasy; anxious; unsettled"
+ },
+ "方": {
+  "gloss": "square; side; party (in a contract or dispute); direction; (math) power",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "据": {
+  "gloss": "according to; based on; to occupy, hold (a position)"
+ },
+ "比例": {
+  "gloss": "ratio; proportion; scale"
+ },
+ "订": {
+  "gloss": "to book; to reserve; to order; to subscribe to; to set (a plan)"
+ },
+ "设置": {
+  "gloss": "to set up; to configure; to establish; (n.) settings"
+ },
+ "发挥": {
+  "gloss": "to bring into play; to display (one's talent); to give free rein to; to elaborate on"
+ },
+ "局": {
+  "gloss": "bureau; office; situation; (MW for games, rounds)"
+ },
+ "输入": {
+  "gloss": "to input; to type in; to enter; to import"
+ },
+ "干嘛": {
+  "gloss": "(colloquial) what are you doing?; what for?; why on earth?",
+  "pos": "pron",
+  "posName": "pronoun"
+ },
+ "烦": {
+  "gloss": "annoying; irritated; to bother, annoy",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "之中": {
+  "posName": "location word"
+ },
+ "恐怖": {
+  "gloss": "terrifying; horrifying; (n.) terror, horror"
+ },
+ "天上": {
+  "gloss": "in the sky; up in the sky; in heaven",
+  "posName": "location word"
+ },
+ "遗憾": {
+  "gloss": "regrettable; a pity; regret; to regret"
+ },
+ "路边": {
+  "gloss": "roadside; wayside; curb",
+  "posName": "location word"
+ },
+ "婚姻": {
+  "gloss": "marriage; matrimony (MW: 桩 zhuāng, 次 cì)"
+ },
+ "饱": {
+  "gloss": "full (from eating); satiated"
+ },
+ "发言": {
+  "gloss": "to speak (at a meeting); to make a statement; (n.) speech, statement (MW: 个 gè)"
+ },
+ "季": {
+  "gloss": "season; quarter (of a year); (MW for seasons, harvests)"
+ },
+ "加上": {
+  "gloss": "to add; to add on; plus"
+ },
+ "尽": {
+  "reading": "jìn",
+  "gloss": "jìn: to exhaust; to do one's utmost; to fulfil (a duty); all | jǐn: as far as possible; to the utmost"
+ },
+ "首": {
+  "gloss": "(measure word for poems and songs); first; head; chief",
+  "pos": "n",
+  "posName": "measure word"
+ },
+ "特": {
+  "gloss": "especially; particularly; very (colloquial); special; unique (as in 特有, 特别)"
+ },
+ "项": {
+  "gloss": "(measure word for items, projects, tasks, events); item; term (in a formula)"
+ },
+ "集": {
+  "gloss": "(measure word for TV episodes); collection; set (math); to gather"
+ },
+ "盖": {
+  "gloss": "to build; to cover; to put a lid on; to stamp (a seal); lid; cover"
+ },
+ "操作": {
+  "gloss": "to operate (a machine, system); to handle; to manipulate; operation"
+ },
+ "仔细": {
+  "gloss": "careful; meticulous; attentive; to be careful"
+ },
+ "春": {
+  "gloss": "spring (the season); (fig.) youth, vitality"
+ },
+ "攻击": {
+  "gloss": "to attack; to assault; to criticize; an attack"
+ },
+ "将军": {
+  "gloss": "general (military rank); to check (chess); (fig.) to put sb on the spot"
+ },
+ "采访": {
+  "gloss": "to interview; to cover (a news story); to gather news"
+ },
+ "落后": {
+  "gloss": "backward; behind the times; to fall behind; to lag"
+ },
+ "欧洲": {
+  "reading": "Ōu zhōu",
+  "gloss": "Europe"
+ },
+ "笔记": {
+  "gloss": "notes (taken in class or at a meeting); jottings"
+ },
+ "综合": {
+  "gloss": "to synthesize; to sum up; comprehensive; composite; synthesis"
+ },
+ "提问": {
+  "gloss": "to ask a question; to question (sb)"
+ },
+ "冰箱": {
+  "gloss": "refrigerator; fridge (MW: 台 tái, 个 gè)"
+ },
+ "家伙": {
+  "gloss": "guy; fellow; chap (colloquial)"
+ },
+ "快点": {
+  "gloss": "hurry up!; (do sth) a bit faster/sooner"
+ },
+ "承受": {
+  "gloss": "to bear; to endure; to withstand"
+ },
+ "硬": {
+  "gloss": "hard; stiff; firm; (fig.) tough; (adv) stubbornly, forcibly"
+ },
+ "齐": {
+  "gloss": "neat; even; in order; complete; all together (as in 整齐, 齐全, 到齐)"
+ },
+ "嗨": {
+  "gloss": "hi!; hey!; (also) oh; alas"
+ },
+ "环": {
+  "gloss": "ring; loop; link; to surround (as in 环境, 耳环)"
+ },
+ "爱好": {
+  "gloss": "hobby; interest; to be fond of; to like (MW: 个 gè)"
+ },
+ "季节": {
+  "gloss": "season; time of year (MW: 个 gè)"
+ },
+ "符合": {
+  "gloss": "to conform to; to accord with; to match; to meet (requirements)"
+ },
+ "党": {
+  "gloss": "(political) party; the Party; faction"
+ },
+ "证": {
+  "gloss": "certificate; card; proof; evidence; to prove"
+ },
+ "约会": {
+  "gloss": "to go on a date; to arrange to meet; date; appointment (MW: 次 cì, 个 gè)"
+ },
+ "分配": {
+  "gloss": "to distribute; to assign; to allocate"
+ },
+ "吻": {
+  "gloss": "to kiss; kiss"
+ },
+ "海边": {
+  "posName": "location word"
+ },
+ "基地": {
+  "gloss": "base (of operations); military or industrial base"
+ },
+ "锻炼": {
+  "gloss": "to exercise; to work out; to toughen; to temper"
+ },
+ "一次": {
+  "gloss": "once; one time; a single occasion"
+ },
+ "命令": {
+  "gloss": "order; command; to order sb to do sth (MW: 道 dào)"
+ },
+ "屋子": {
+  "gloss": "room; (colloquial) house (MW: 间 jiān)"
+ },
+ "干吗": {
+  "gloss": "(colloquial) why; what for; what are you doing"
+ },
+ "规律": {
+  "gloss": "pattern; regularity; (natural) law; (adj) regular"
+ },
+ "演唱会": {
+  "gloss": "concert (esp. by a singer); vocal recital"
+ },
+ "刮": {
+  "gloss": "to blow (of wind); to shave; to scrape"
+ },
+ "自信": {
+  "gloss": "self-confident; confident; self-confidence",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "姐妹": {
+  "gloss": "sisters; (attributive) sister (e.g. sister city, sister school)"
+ },
+ "存": {
+  "gloss": "to deposit; to save (up); to store; to keep; to exist"
+ },
+ "根": {
+  "gloss": "root; basis; (measure word for long thin objects, e.g. cigarettes, strings)"
+ },
+ "缺少": {
+  "gloss": "to lack; to be short of; shortage"
+ },
+ "交换": {
+  "gloss": "to exchange; to swap; to trade"
+ },
+ "底下": {
+  "gloss": "underneath; below; (also) afterwards"
+ },
+ "男女": {
+  "gloss": "men and women; male and female"
+ },
+ "闹": {
+  "gloss": "to make a racket; to cause trouble; to disturb; (adj) noisy"
+ },
+ "胜": {
+  "gloss": "to win; to beat; to defeat; to surpass; victory"
+ },
+ "还好": {
+  "gloss": "not bad; okay; fine; (adv) fortunately",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "私人": {
+  "gloss": "private; personal",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "一路": {
+  "gloss": "all the way; throughout the journey; going the same way",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "香蕉": {
+  "gloss": "banana (MW: 根 gēn, 串 chuàn)"
+ },
+ "啥": {
+  "gloss": "(colloquial, northern) what; whatever"
+ },
+ "本事": {
+  "reading": "běn shi",
+  "gloss": "ability; skill; capability"
+ },
+ "土": {
+  "gloss": "soil; earth; dirt; rustic; unfashionable"
+ },
+ "射": {
+  "gloss": "to shoot; to fire; to emit"
+ },
+ "难以": {
+  "gloss": "hard to; difficult to (do something)"
+ },
+ "滚": {
+  "gloss": "to roll; to boil; Get lost!"
+ },
+ "影视": {
+  "gloss": "film and television; movies and TV",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "摆脱": {
+  "gloss": "to get rid of; to break free from; to shake off"
+ },
+ "烦恼": {
+  "gloss": "worried; vexed; worries; troubles"
+ },
+ "实习": {
+  "gloss": "to intern; internship; to do fieldwork; to practice"
+ },
+ "无限": {
+  "gloss": "unlimited; infinite; boundless",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "公寓": {
+  "gloss": "apartment; apartment building; flat (MW: 套 tào, 栋 dòng)"
+ },
+ "突出": {
+  "gloss": "prominent; outstanding; to stick out; to highlight"
+ },
+ "教训": {
+  "gloss": "lesson (learned from experience); to lecture; to scold; a talking-to"
+ },
+ "餐厅": {
+  "gloss": "restaurant; dining hall; dining room (MW: 家 jiā, 间 jiān)"
+ },
+ "歌声": {
+  "gloss": "singing voice; sound of singing"
+ },
+ "接触": {
+  "gloss": "to come into contact with; to touch; to get in touch with"
+ },
+ "半天": {
+  "gloss": "half a day; a long time; quite a while",
+  "pos": "n",
+  "posName": "time word"
+ },
+ "临时": {
+  "gloss": "temporary; interim; at the last moment"
+ },
+ "同志": {
+  "gloss": "comrade; (slang) gay person (MW: 位 wèi)"
+ },
+ "人士": {
+  "gloss": "person (of a certain field or group); public figure"
+ },
+ "娱乐": {
+  "gloss": "entertainment; recreation; to entertain; to amuse",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "似的": {
+  "gloss": "(particle) like; as if; seeming"
+ },
+ "天下": {
+  "gloss": "the whole world; all under heaven; the whole of China; realm"
+ },
+ "师傅": {
+  "gloss": "master craftsman; polite address for a driver or skilled worker (MW: 位 wèi)"
+ },
+ "一致": {
+  "gloss": "consistent; unanimous; identical"
+ },
+ "唉": {
+  "reading": "ài",
+  "gloss": "ài: (sigh) alas; oh dear; ugh | āi: (response) yes; hey"
+ },
+ "到来": {
+  "gloss": "to arrive; to come; arrival; advent"
+ },
+ "培养": {
+  "gloss": "to foster; to train; to cultivate; to nurture"
+ },
+ "脱": {
+  "gloss": "to take off (clothes); to shed; to escape"
+ },
+ "移民": {
+  "gloss": "immigrant; emigrant; to immigrate; to emigrate"
+ },
+ "牌": {
+  "gloss": "card; playing card; mahjong tile; signboard (MW: 张 zhāng)"
+ },
+ "打败": {
+  "gloss": "to defeat; to beat"
+ },
+ "整整": {
+  "gloss": "a full; a whole; entire (of time or quantity)"
+ },
+ "晒": {
+  "gloss": "to dry in the sun; to bask in the sun; (of the sun) to shine on; to show off (online)"
+ },
+ "推广": {
+  "gloss": "to promote; to popularize; to extend; to spread"
+ },
+ "切": {
+  "reading": "qiē",
+  "gloss": "to cut; to slice; to chop"
+ },
+ "挑": {
+  "gloss": "to choose; to pick; to nitpick; to carry on a shoulder pole"
+ },
+ "大夫": {
+  "reading": "dài fu",
+  "gloss": "doctor; physician"
+ },
+ "奖励": {
+  "gloss": "to reward; reward; incentive"
+ },
+ "近期": {
+  "gloss": "the near term; recent period; lately"
+ },
+ "本人": {
+  "gloss": "oneself; in person; the person concerned; I (formal)"
+ },
+ "无数": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "发达": {
+  "gloss": "developed; advanced; flourishing"
+ },
+ "漫画": {
+  "gloss": "comic; manga; cartoon; caricature"
+ },
+ "自我": {
+  "gloss": "self; ego; (as prefix) self-",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "认可": {
+  "gloss": "to approve; to recognize; approval"
+ },
+ "公务员": {
+  "gloss": "civil servant; government employee"
+ },
+ "主": {
+  "gloss": "master; owner; host; main; primary"
+ },
+ "你好": {
+  "pos": "interj",
+  "posName": "phrase"
+ },
+ "轻易": {
+  "gloss": "easily; rashly; lightly (often negated: 不轻易 = not lightly)"
+ },
+ "擦": {
+  "gloss": "to wipe; to rub; to scrub; to apply (lipstick, lotion etc)"
+ },
+ "出租": {
+  "gloss": "to rent out; to let"
+ },
+ "购物": {
+  "gloss": "to shop; shopping"
+ },
+ "赶到": {
+  "gloss": "to arrive in time; to hurry to (a place)"
+ },
+ "量": {
+  "gloss": "liàng: quantity; amount; capacity | liáng: to measure"
+ },
+ "反复": {
+  "gloss": "repeatedly; over and over again; to waver; to relapse"
+ },
+ "松": {
+  "gloss": "loose; slack; to loosen; to relax; pine tree (MW: 棵 kē)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "药物": {
+  "gloss": "medicine; medication; drugs"
+ },
+ "外交": {
+  "gloss": "diplomacy; diplomatic; foreign affairs"
+ },
+ "比如说": {
+  "pos": "adv",
+  "posName": "phrase"
+ },
+ "色": {
+  "gloss": "color; hue; look; appearance (MW: 种 zhǒng)"
+ },
+ "地面": {
+  "gloss": "ground; floor; surface"
+ },
+ "刺": {
+  "gloss": "thorn; splinter; sting; to prick; to stab",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "人工": {
+  "gloss": "artificial; man-made; manual labor; manpower"
+ },
+ "刷": {
+  "gloss": "to brush; to scrub; to paint; to swipe (a card)"
+ },
+ "尽力": {
+  "gloss": "to do one's best; to spare no effort",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "固定": {
+  "gloss": "fixed; regular; set; to fix in place"
+ },
+ "各地": {
+  "gloss": "various places; every part of (a country or region)",
+  "pos": "n",
+  "posName": "location word"
+ },
+ "相反": {
+  "gloss": "opposite; contrary; on the contrary",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "星期天": {
+  "reading": "xīng qī tiān"
+ },
+ "群众": {
+  "gloss": "the masses; the general public; crowd"
+ },
+ "相处": {
+  "gloss": "to get along (with); to interact; to be in contact"
+ },
+ "帅": {
+  "gloss": "handsome; dashing; (colloquial) cool; stylish",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "多年": {
+  "pos": "n",
+  "posName": "time word"
+ },
+ "耐心": {
+  "gloss": "patience; patient",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "大多": {
+  "gloss": "mostly; for the most part; the majority"
+ },
+ "不幸": {
+  "gloss": "unfortunate; unlucky; misfortune"
+ },
+ "帅哥": {
+  "gloss": "handsome guy; hunk; (form of address for a young man)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "友谊": {
+  "gloss": "friendship; companionship"
+ },
+ "说不定": {
+  "gloss": "maybe; perhaps; can't say for sure",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "弹": {
+  "reading": "tán",
+  "gloss": "to play (a stringed or keyboard instrument); to pluck; to flick; to bounce | dàn: bullet; shell"
+ },
+ "前后": {
+  "gloss": "around (a time); about; front and back; from start to finish"
+ },
+ "妇女": {
+  "gloss": "women; woman (formal)"
+ },
+ "恋爱": {
+  "gloss": "to be in love; to date (romantically); romantic love"
+ },
+ "戏": {
+  "gloss": "drama; play; theatrical show; opera"
+ },
+ "冰": {
+  "gloss": "ice; to chill; icy cold"
+ },
+ "建成": {
+  "gloss": "to complete the construction of; to build; to be built"
+ },
+ "宾馆": {
+  "gloss": "hotel; guesthouse"
+ },
+ "说法": {
+  "reading": "shuō fa",
+  "gloss": "way of saying; wording; statement; version | shuō fǎ: to expound Buddhist teachings"
+ },
+ "担任": {
+  "gloss": "to serve as; to hold the post of; to take charge of"
+ },
+ "智慧": {
+  "gloss": "wisdom; intelligence"
+ },
+ "统计": {
+  "gloss": "to count; to tally; statistics"
+ },
+ "怀念": {
+  "gloss": "to miss (the past or someone); to think fondly of; to cherish the memory of"
+ },
+ "善良": {
+  "gloss": "kind; kind-hearted; good-natured"
+ },
+ "跑步": {
+  "gloss": "to run; to jog"
+ },
+ "依靠": {
+  "gloss": "to rely on; to depend on; to count on"
+ },
+ "大众": {
+  "gloss": "the public; the masses; popular (of music, science etc)"
+ },
+ "回复": {
+  "gloss": "to reply; to respond; to return to a previous state; reply"
+ },
+ "愤怒": {
+  "gloss": "angry; indignant; anger; fury"
+ },
+ "结论": {
+  "gloss": "conclusion; verdict (MW: 个 gè)"
+ },
+ "西瓜": {
+  "gloss": "watermelon (MW: 个 gè)"
+ },
+ "爆炸": {
+  "gloss": "to explode; to blow up; explosion"
+ },
+ "规范": {
+  "gloss": "norm; standard; specification; (adj) standardized; (v) to standardize",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "幻想": {
+  "gloss": "fantasy; illusion; to fantasize"
+ },
+ "矮": {
+  "gloss": "short (in height); low"
+ },
+ "脾气": {
+  "gloss": "temper; disposition; temperament (MW: 个 gè)"
+ },
+ "骗子": {
+  "gloss": "swindler; con artist; liar"
+ },
+ "合格": {
+  "gloss": "qualified; up to standard; to pass (an inspection or test)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "届": {
+  "gloss": "(measure word) for sessions, terms, or graduating classes, e.g. 第一届 the 1st session"
+ },
+ "命": {
+  "gloss": "life; fate; destiny"
+ },
+ "培训": {
+  "gloss": "to train; training; to cultivate"
+ },
+ "不太": {
+  "gloss": "not very; not too",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "惊喜": {
+  "gloss": "(pleasant) surprise; to be pleasantly surprised",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "门票": {
+  "gloss": "admission ticket; entrance ticket"
+ },
+ "装置": {
+  "gloss": "device; apparatus; equipment; installation"
+ },
+ "哎": {
+  "gloss": "(interjection) hey; oh; ah (to attract attention or express surprise or dissatisfaction)"
+ },
+ "欠": {
+  "gloss": "to owe; to lack; to be short of"
+ },
+ "不想": {
+  "gloss": "not want to; not feel like (doing sth)"
+ },
+ "反映": {
+  "gloss": "to reflect; to mirror; to report (a problem) to superiors; reflection"
+ },
+ "镇": {
+  "gloss": "town; township; to suppress; to press down"
+ },
+ "演讲": {
+  "gloss": "speech; lecture; to give a speech",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "算是": {
+  "gloss": "to count as; to be considered; can be said to be"
+ },
+ "掌握": {
+  "gloss": "to master; to grasp; to have in hand; to control"
+ },
+ "拜托": {
+  "gloss": "to ask (someone) a favor; please!"
+ },
+ "孤单": {
+  "gloss": "lonely; alone; loneliness"
+ },
+ "生物": {
+  "gloss": "living thing; organism; biological"
+ },
+ "色彩": {
+  "gloss": "color; hue; (fig.) flavor; tone"
+ },
+ "雷": {
+  "gloss": "thunder; mine (explosive)"
+ },
+ "得分": {
+  "gloss": "to score; score"
+ },
+ "剑": {
+  "gloss": "sword; double-edged sword (MW: 把 bǎ)"
+ },
+ "男性": {
+  "gloss": "male; the male sex; man"
+ },
+ "脏": {
+  "reading": "zāng",
+  "gloss": "zāng: dirty; filthy | zàng: internal organ (as in 心脏)"
+ },
+ "治": {
+  "gloss": "to cure; to treat; to govern; to manage"
+ },
+ "底": {
+  "gloss": "bottom; base; background; end (of a period)"
+ },
+ "搬家": {
+  "gloss": "to move house; to relocate"
+ },
+ "可乐": {
+  "gloss": "cola; Coke"
+ },
+ "故乡": {
+  "gloss": "hometown; homeland; native place"
+ },
+ "含": {
+  "gloss": "to include; to contain; to hold in the mouth"
+ },
+ "道德": {
+  "gloss": "morality; ethics; moral (MW: 种 zhǒng)"
+ },
+ "定期": {
+  "gloss": "regularly; periodic; at set intervals"
+ },
+ "守": {
+  "gloss": "to keep (a promise); to abide by; to guard; to defend"
+ },
+ "编": {
+  "gloss": "to weave; to plait; to compile; to edit; to make up (a story)"
+ },
+ "神奇": {
+  "gloss": "magical; miraculous; amazing"
+ },
+ "典型": {
+  "gloss": "typical; representative; typical case; model",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "负担": {
+  "gloss": "burden; load; to bear (an expense or responsibility); to cover (a cost)"
+ },
+ "放学": {
+  "gloss": "to get out of school (for the day); to let students out at the end of the school day"
+ },
+ "回头": {
+  "gloss": "to turn one's head; to turn back; (adverb) later, in a little while",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "扫": {
+  "gloss": "sǎo: to sweep; to clear away; to scan | sào: broom (as in 扫把 sào bǎ)"
+ },
+ "臭": {
+  "gloss": "smelly; stinky; (colloquial) lousy, terrible; stench"
+ },
+ "燃烧": {
+  "gloss": "to burn; to be on fire; to combust; combustion"
+ },
+ "必": {
+  "gloss": "must; certainly; necessarily; will surely"
+ },
+ "查看": {
+  "gloss": "to check; to look over; to inspect; to examine"
+ },
+ "高度": {
+  "gloss": "height; altitude; high degree; (adverb) highly, to a high degree",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "亲切": {
+  "gloss": "kind; warm; cordial; amiable"
+ },
+ "修复": {
+  "gloss": "to repair; to restore; to renovate; (computing) to fix (a corrupted file etc)"
+ },
+ "证件": {
+  "gloss": "identification papers; ID; credentials; certificate"
+ },
+ "暗": {
+  "gloss": "dark; dim; secret; hidden; to turn dark"
+ },
+ "自觉": {
+  "gloss": "self-motivated; conscientious; to be aware of; conscious"
+ },
+ "奇迹": {
+  "gloss": "miracle; wonder; marvel"
+ },
+ "登记": {
+  "gloss": "to register; to check in; to sign up (one's name)"
+ },
+ "频道": {
+  "gloss": "(TV or radio) channel; frequency band"
+ },
+ "一辈子": {
+  "reading": "yí bèi zi",
+  "gloss": "a lifetime; all one's life",
+  "pos": "n",
+  "posName": "time word"
+ },
+ "身材": {
+  "gloss": "figure; physique; build; stature"
+ },
+ "着急": {
+  "gloss": "anxious; worried; to feel a sense of urgency; to be in a hurry"
+ },
+ "初步": {
+  "gloss": "preliminary; initial; tentative",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "论文": {
+  "gloss": "paper; thesis; dissertation; treatise (MW: 篇 piān)"
+ },
+ "吸": {
+  "gloss": "to inhale; to breathe in; to suck in; to absorb"
+ },
+ "因素": {
+  "gloss": "factor; element (MW: 个 gè)"
+ },
+ "记载": {
+  "gloss": "to record; to put down in writing; written account"
+ },
+ "转身": {
+  "gloss": "to turn around; to turn one's body"
+ },
+ "课堂": {
+  "gloss": "classroom; class (a lesson period)"
+ },
+ "编辑": {
+  "gloss": "editor; to edit; to compile"
+ },
+ "武术": {
+  "gloss": "martial arts; wushu"
+ },
+ "登录": {
+  "gloss": "to log in; to sign in; to register"
+ },
+ "外地": {
+  "gloss": "other places; somewhere else outside one's own area; out of town",
+  "pos": "n",
+  "posName": "location word"
+ },
+ "年度": {
+  "gloss": "annual; yearly; (school or fiscal) year"
+ },
+ "升级": {
+  "gloss": "to upgrade; to level up; to be promoted to a higher grade; to escalate"
+ },
+ "问候": {
+  "gloss": "to send one's regards; to greet; to ask after"
+ },
+ "斤": {
+  "gloss": "jin, a unit of weight equal to 500 g (about 1.1 lb)"
+ },
+ "沟通": {
+  "gloss": "to communicate; to connect; to link up"
+ },
+ "打扮": {
+  "gloss": "to dress up; to make up; to adorn; style of dress"
+ },
+ "诗人": {
+  "gloss": "poet; bard"
+ },
+ "亲密": {
+  "gloss": "close; intimate"
+ },
+ "此时": {
+  "gloss": "at this time; now; at this moment",
+  "pos": "n",
+  "posName": "time word"
+ },
+ "烂": {
+  "gloss": "rotten; spoiled; mushy; worn out; (colloquial) lousy"
+ },
+ "代价": {
+  "gloss": "price; cost (paid for something)"
+ },
+ "乡村": {
+  "gloss": "countryside; village; rural"
+ },
+ "为止": {
+  "gloss": "until; up to; as far as (used in 到…为止 constructions)"
+ },
+ "搭": {
+  "gloss": "to take (a train, plane, etc.); to put up; to build; to hang over; to connect"
+ },
+ "自主": {
+  "gloss": "autonomous; independent; to decide for oneself"
+ },
+ "市民": {
+  "gloss": "citizen; city resident; townspeople"
+ },
+ "挡": {
+  "gloss": "to block; to obstruct; to get in the way of; to shield"
+ },
+ "犯": {
+  "gloss": "to commit (a mistake or crime); to violate; to offend; criminal"
+ },
+ "这时候": {
+  "reading": "zhè shí hou",
+  "gloss": "at this time; at this moment; then",
+  "pos": "n",
+  "posName": "time word"
+ },
+ "做出": {
+  "gloss": "to make (a decision, choice, contribution); to produce; to come up with"
+ },
+ "屋": {
+  "gloss": "room; house"
+ },
+ "脑子": {
+  "gloss": "brain; mind; head"
+ },
+ "画面": {
+  "gloss": "picture; image; scene (on screen or in the mind)"
+ },
+ "模型": {
+  "gloss": "model (of an object or a theory); mold"
+ },
+ "老虎": {
+  "gloss": "tiger (MW: 只 zhī)"
+ },
+ "塔": {
+  "gloss": "tower; pagoda; stupa; minaret (MW: 座 zuò)"
+ },
+ "熊": {
+  "gloss": "bear; (colloquial) to scold; (colloquial) weak, cowardly"
+ },
+ "围": {
+  "gloss": "to surround; to gather around; to wrap around (e.g. a scarf)"
+ },
+ "奖金": {
+  "gloss": "bonus; prize money; cash award"
+ },
+ "认出": {
+  "gloss": "to recognize; to identify (by sight)"
+ },
+ "舒适": {
+  "gloss": "comfortable; cozy"
+ },
+ "老太太": {
+  "gloss": "old lady; elderly woman (respectful)"
+ },
+ "渴望": {
+  "gloss": "to long for; to yearn for; to crave"
+ },
+ "参考": {
+  "gloss": "to consult; to refer to; reference"
+ },
+ "开学": {
+  "gloss": "to start a new school term; school opens"
+ },
+ "现代化": {
+  "gloss": "to modernize; modernization; modernized"
+ },
+ "面试": {
+  "gloss": "interview (job or admissions); to have an interview",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "最新": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "祝贺": {
+  "gloss": "to congratulate; congratulations"
+ },
+ "动手": {
+  "gloss": "to start work; to get hands-on; to hit; to touch"
+ },
+ "回报": {
+  "gloss": "reward; return; payback; to repay; to reciprocate",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "造型": {
+  "gloss": "modeling; shape; style; look"
+ },
+ "战胜": {
+  "gloss": "to defeat; to overcome; to triumph over"
+ },
+ "签名": {
+  "gloss": "to sign one's name; signature; autograph"
+ },
+ "请客": {
+  "gloss": "to treat (someone to a meal); to host; to invite guests"
+ },
+ "玻璃": {
+  "gloss": "glass (the material); windowpane (MW: 块 kuài)"
+ },
+ "登": {
+  "gloss": "to climb; to ascend; to board; to publish (in a newspaper)"
+ },
+ "弟": {
+  "gloss": "younger brother"
+ },
+ "温柔": {
+  "gloss": "gentle; tender; soft-spoken"
+ },
+ "粮食": {
+  "gloss": "grain; cereals; food supply"
+ },
+ "神经": {
+  "gloss": "nerve; nervous system; (slang) crazy"
+ },
+ "照相": {
+  "gloss": "to take a photo"
+ },
+ "恐惧": {
+  "gloss": "fear; dread; terror; to be frightened",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "除": {
+  "gloss": "(preposition) except; apart from (usually 除了); to remove; to divide"
+ },
+ "名人": {
+  "gloss": "celebrity; famous person"
+ },
+ "题目": {
+  "gloss": "topic; title; exam question"
+ },
+ "开机": {
+  "gloss": "to turn on (a device); to boot up; to start filming"
+ },
+ "投诉": {
+  "gloss": "to complain; to file a complaint; complaint"
+ },
+ "某些": {
+  "pos": "det",
+  "posName": "determiner"
+ },
+ "性感": {
+  "gloss": "sexy; (physically) attractive"
+ },
+ "湿": {
+  "gloss": "wet; damp; moist"
+ },
+ "饺子": {
+  "gloss": "dumpling (jiaozi); pot-sticker (MW: 个 gè)"
+ },
+ "木头": {
+  "gloss": "wood; timber; log (MW: 块 kuài, 根 gēn); (fig.) dull person"
+ },
+ "微信": {
+  "gloss": "WeChat (Chinese messaging and payment app)"
+ },
+ "解放": {
+  "gloss": "to liberate; to emancipate; liberation"
+ },
+ "站住": {
+  "gloss": "to stop; to halt (often a command: 站住!); to stand steady"
+ },
+ "兵": {
+  "gloss": "soldier; troops; arms (MW: 个 gè)"
+ },
+ "托": {
+  "gloss": "to hold up on the palm; to support; to entrust; to rely on"
+ },
+ "嘴巴": {
+  "gloss": "mouth; (colloq.) slap (MW: 张 zhāng)"
+ },
+ "感兴趣": {
+  "gloss": "to be interested; to take an interest (in)"
+ },
+ "品质": {
+  "gloss": "quality; character (of a person)"
+ },
+ "要么": {
+  "gloss": "either...or...; or"
+ },
+ "冲动": {
+  "gloss": "impulsive; impulse; urge; to be impetuous"
+ },
+ "客气": {
+  "gloss": "polite; courteous; to stand on ceremony; modest"
+ },
+ "清": {
+  "gloss": "clear; distinct; pure; (as complement) clearly"
+ },
+ "贡献": {
+  "gloss": "contribution; to contribute; to devote"
+ },
+ "牺牲": {
+  "gloss": "to sacrifice (one's life or something valued); to give up"
+ },
+ "打印": {
+  "gloss": "to print (with a printer); to affix a seal"
+ },
+ "幽默": {
+  "gloss": "humorous; humor"
+ },
+ "透": {
+  "gloss": "(as complement) thoroughly, completely; to penetrate; to leak; to reveal"
+ },
+ "怀孕": {
+  "gloss": "to be pregnant; to conceive; pregnancy"
+ },
+ "相对": {
+  "gloss": "relatively; relative; opposite; to face each other"
+ },
+ "作战": {
+  "gloss": "to fight; to wage war; combat"
+ },
+ "另一方面": {
+  "gloss": "on the other hand"
+ },
+ "列": {
+  "gloss": "to list; to arrange in a row; row; column; (measure word for trains)"
+ },
+ "队伍": {
+  "gloss": "team; group; troops; line (of people)"
+ },
+ "星期日": {
+  "reading": "xīng qī rì"
+ },
+ "消灭": {
+  "gloss": "to eliminate; to wipe out; to annihilate"
+ },
+ "厚": {
+  "gloss": "thick; deep; generous"
+ },
+ "矛盾": {
+  "gloss": "contradiction; conflict; contradictory",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "舞": {
+  "gloss": "dance; to dance; to brandish"
+ },
+ "奶": {
+  "gloss": "milk; to breastfeed"
+ },
+ "平衡": {
+  "gloss": "balance; equilibrium; to balance",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "待遇": {
+  "gloss": "treatment; pay and benefits; remuneration"
+ },
+ "引": {
+  "gloss": "to lead; to guide; to attract; to cause; to quote"
+ },
+ "规划": {
+  "gloss": "to plan; to map out; a plan; a program",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "抓紧": {
+  "gloss": "to grasp firmly; to make the most of (time); to lose no time in doing sth"
+ },
+ "皆": {
+  "gloss": "(literary) all; each and every"
+ },
+ "冲突": {
+  "gloss": "conflict; clash; to conflict; to clash"
+ },
+ "插": {
+  "gloss": "to insert; to stick in; to pierce; to interpose"
+ },
+ "半年": {
+  "pos": "n",
+  "posName": "time word"
+ },
+ "肥": {
+  "gloss": "fat; plump (of animals); fertile; loose-fitting (of clothes)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "高潮": {
+  "gloss": "climax; high point; peak; high tide"
+ },
+ "圆": {
+  "gloss": "round; circular; spherical; (n) circle"
+ },
+ "洞": {
+  "gloss": "hole; cave; hollow; (spoken) zero"
+ },
+ "依旧": {
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "天才": {
+  "gloss": "genius; natural talent; gift"
+ },
+ "巧": {
+  "gloss": "coincidental; fortunate; skillful; clever"
+ },
+ "老年": {
+  "gloss": "old age; one's senior years"
+ },
+ "伙": {
+  "gloss": "group; gang (classifier for bands of people); companion; partner"
+ },
+ "使得": {
+  "gloss": "to make; to cause; to result in (also: usable; workable)"
+ },
+ "绝望": {
+  "gloss": "desperate; hopeless; to despair"
+ },
+ "签": {
+  "gloss": "to sign (one's name); to autograph; slip or lot (for divination); label"
+ },
+ "骨头": {
+  "gloss": "bone; (fig.) backbone; character"
+ },
+ "展现": {
+  "gloss": "to show; to reveal; to display; to unfold (before one's eyes)"
+ },
+ "一会": {
+  "pos": "n",
+  "posName": "time word"
+ },
+ "毁": {
+  "gloss": "to destroy; to ruin; to damage; to slander"
+ },
+ "冒": {
+  "gloss": "to brave; to risk; to emit; to give off (smoke, bubbles); to pretend to be"
+ },
+ "炒": {
+  "gloss": "to stir-fry; to sauté; to fire (someone); to speculate; to hype"
+ },
+ "众多": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "引导": {
+  "gloss": "to guide; to lead; to direct"
+ },
+ "世界杯": {
+  "reading": "shì jiè bēi"
+ },
+ "给予": {
+  "gloss": "to give; to grant; to render (formal)"
+ },
+ "盘子": {
+  "gloss": "plate; dish; tray"
+ },
+ "精力": {
+  "gloss": "energy; vigor; stamina"
+ },
+ "遗产": {
+  "gloss": "inheritance; legacy; heritage; bequest"
+ },
+ "哪个": {
+  "gloss": "which; which one"
+ },
+ "劳动": {
+  "gloss": "labor; physical work; to do manual labor",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "失业": {
+  "gloss": "to lose one's job; to be unemployed; unemployment"
+ },
+ "向前": {
+  "gloss": "forward; onward; ahead",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "保守": {
+  "gloss": "conservative; to keep (a secret); to guard"
+ },
+ "语音": {
+  "gloss": "pronunciation; speech sounds"
+ },
+ "堵": {
+  "gloss": "to block; to stop up; to jam (traffic); (MW for walls: 一堵墙 yì dǔ qiáng)"
+ },
+ "晴": {
+  "gloss": "clear; sunny; fine (weather)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "迷": {
+  "gloss": "to be fascinated by; to be crazy about; to bewilder; to lose one's way; (suffix) fan, enthusiast (e.g. 球迷)"
+ },
+ "酸": {
+  "gloss": "sour; tart; (of muscles) sore; aching"
+ },
+ "收听": {
+  "gloss": "to listen to (a broadcast)"
+ },
+ "关机": {
+  "gloss": "to shut down; to turn off (a phone, computer, etc.)"
+ },
+ "腰": {
+  "gloss": "waist; lower back; middle"
+ },
+ "闪": {
+  "gloss": "to flash; to sparkle; to dodge; to sprain"
+ },
+ "老鼠": {
+  "gloss": "mouse; rat"
+ },
+ "州": {
+  "gloss": "state (e.g. of the US); province; prefecture (old)"
+ },
+ "崇拜": {
+  "gloss": "to worship; to idolize; to admire; worship"
+ },
+ "此刻": {
+  "pos": "n",
+  "posName": "time word"
+ },
+ "再说": {
+  "gloss": "to deal with it later (e.g. 以后再说); (conj) besides; moreover",
+  "pos": "conj",
+  "posName": "conjunction"
+ },
+ "机关": {
+  "gloss": "government office; organ; agency; mechanism; trap"
+ },
+ "平台": {
+  "gloss": "platform; terrace; flat roof"
+ },
+ "沉重": {
+  "gloss": "heavy; weighty; serious; grave"
+ },
+ "之类": {
+  "gloss": "and so on; and the like; such as",
+  "pos": "part",
+  "posName": "particle"
+ },
+ "案件": {
+  "gloss": "(legal or criminal) case"
+ },
+ "好玩": {
+  "gloss": "fun; amusing; entertaining",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "性质": {
+  "gloss": "nature; character; quality"
+ },
+ "安慰": {
+  "gloss": "to comfort; to console"
+ },
+ "敲": {
+  "gloss": "to knock; to tap; to strike; to hit"
+ },
+ "前途": {
+  "gloss": "future; prospects; promise"
+ },
+ "不许": {
+  "gloss": "to not allow; to forbid; must not",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "资本": {
+  "gloss": "capital (finance); (fig.) asset, advantage"
+ },
+ "含有": {
+  "gloss": "to contain; to include"
+ },
+ "贷款": {
+  "gloss": "a loan; to take out or grant a loan (MW: 笔 bǐ)"
+ },
+ "没想到": {
+  "gloss": "to not have expected; unexpectedly; who would have thought",
+  "pos": "v",
+  "posName": "phrase"
+ },
+ "罪": {
+  "gloss": "crime; guilt; sin; blame"
+ },
+ "折": {
+  "gloss": "to fold; to break; to snap; discount (as in 打折 dǎ zhé); to turn"
+ },
+ "老家": {
+  "gloss": "hometown; ancestral home; one's original home region"
+ },
+ "股票": {
+  "gloss": "stock; share (finance)"
+ },
+ "报警": {
+  "gloss": "to call the police; to report to the police; to sound an alarm"
+ },
+ "大爷": {
+  "reading": "dà ye",
+  "gloss": "dà ye: (coll.) uncle (polite address for an older man); father's older brother | dà yé: arrogant idler; self-centered show-off"
+ },
+ "真心": {
+  "gloss": "sincere; heartfelt; sincerely; genuinely (MW: 片 piàn)"
+ },
+ "外卖": {
+  "gloss": "takeout; food delivery; (of a restaurant) to offer takeout or delivery",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "力气": {
+  "gloss": "physical strength; energy; effort"
+ },
+ "胸部": {
+  "gloss": "chest; thorax; (of a woman) bust"
+ },
+ "上衣": {
+  "gloss": "top; jacket; upper garment (MW: 件 jiàn)"
+ },
+ "包裹": {
+  "gloss": "parcel; package; to wrap up; to bundle up (MW: 个 gè)"
+ },
+ "红包": {
+  "gloss": "red envelope (cash gift); bonus payment; bribe"
+ },
+ "推出": {
+  "gloss": "to launch; to release; to put out; to push out"
+ },
+ "箱子": {
+  "gloss": "box; case; trunk; suitcase (MW: 个 gè, 只 zhǐ)"
+ },
+ "灯光": {
+  "gloss": "light (from a lamp); lighting"
+ },
+ "夜间": {
+  "gloss": "at night; nighttime"
+ },
+ "鲜花": {
+  "gloss": "fresh flowers; flowers (MW: 朵 duǒ)"
+ },
+ "提升": {
+  "gloss": "to raise; to improve; to promote (to a higher position); to lift"
+ },
+ "多次": {
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "疑问": {
+  "gloss": "doubt; question"
+ },
+ "心灵": {
+  "gloss": "soul; mind; inner world; spirit"
+ },
+ "智能": {
+  "gloss": "intelligent; smart (phone, system etc); intelligence",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "营业": {
+  "gloss": "to be open for business; to do business"
+ },
+ "老爸": {
+  "gloss": "dad (colloquial); old man"
+ },
+ "借口": {
+  "gloss": "excuse; pretext; to use as an excuse"
+ },
+ "中医": {
+  "reading": "zhōng yī",
+  "gloss": "traditional Chinese medicine; a practitioner of Chinese medicine"
+ },
+ "行人": {
+  "gloss": "pedestrian; passer-by"
+ },
+ "装修": {
+  "gloss": "to renovate; to decorate; interior decoration; to fit up"
+ },
+ "婴儿": {
+  "gloss": "baby; infant (MW: 个 gè)"
+ },
+ "乡": {
+  "gloss": "township (PRC administrative unit); countryside; native place; home village"
+ },
+ "不了": {
+  "gloss": "bù liǎo: (after a verb) unable to; cannot | bù le: no thanks (polite refusal)"
+ },
+ "对比": {
+  "gloss": "to contrast; to compare; contrast; comparison"
+ },
+ "请假": {
+  "gloss": "to ask for leave; to request time off"
+ },
+ "辣": {
+  "gloss": "spicy; hot; pungent; to sting; to burn"
+ },
+ "狂": {
+  "gloss": "wild; crazy; unrestrained; arrogant"
+ },
+ "贸易": {
+  "gloss": "(commercial) trade",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "早安": {
+  "pos": "interj",
+  "posName": "phrase"
+ },
+ "词语": {
+  "gloss": "word; term; expression"
+ },
+ "我国": {
+  "gloss": "our country; my country (said by the speaker about their own country)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "旁": {
+  "gloss": "side; beside (as in 桌旁); other"
+ },
+ "没法": {
+  "gloss": "to be unable to; there is no way to; can't"
+ },
+ "违法": {
+  "gloss": "to break the law; illegal"
+ },
+ "分布": {
+  "gloss": "to be distributed (over an area); distribution"
+ },
+ "粗": {
+  "gloss": "thick (for cylindrical objects); coarse; rough; crude"
+ },
+ "饼干": {
+  "gloss": "cookie; biscuit; cracker (MW: 片 piàn, 块 kuài)"
+ },
+ "聊": {
+  "gloss": "to chat; to talk"
+ },
+ "划": {
+  "reading": "huá",
+  "gloss": "huá: to row; to paddle; to scratch; to strike (a match) | huà: to delimit; to divide; to plan; stroke (of a Chinese character)"
+ },
+ "羊肉": {
+  "gloss": "lamb; mutton"
+ },
+ "那天": {
+  "pos": "n",
+  "posName": "time word"
+ },
+ "地狱": {
+  "gloss": "hell; the underworld"
+ },
+ "透明": {
+  "gloss": "transparent; (fig.) open to scrutiny"
+ },
+ "成本": {
+  "gloss": "cost (of production); expenses"
+ },
+ "作文": {
+  "gloss": "composition; essay (school assignment); to write an essay"
+ },
+ "趁": {
+  "gloss": "while; taking advantage of (a time or opportunity)"
+ },
+ "混乱": {
+  "gloss": "chaotic; confused; in disorder; (n.) chaos"
+ },
+ "剪": {
+  "gloss": "to cut with scissors; to trim; to clip"
+ },
+ "第一次": {
+  "gloss": "the first time; first occasion",
+  "pos": "n",
+  "posName": "phrase"
+ },
+ "醒来": {
+  "gloss": "to wake up; to awaken"
+ },
+ "世上": {
+  "gloss": "in the world; on earth",
+  "posName": "location word"
+ },
+ "逛": {
+  "gloss": "to stroll; to wander around; to go window-shopping"
+ },
+ "潮": {
+  "gloss": "damp; humid; trendy; fashionable; (n.) tide",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "老朋友": {
+  "gloss": "old friend"
+ },
+ "不停": {
+  "gloss": "nonstop; without stopping; incessantly",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "逻辑": {
+  "gloss": "logic"
+ },
+ "小子": {
+  "reading": "xiǎo zi",
+  "gloss": "boy; kid; guy (colloquial, often slightly rude or familiar)"
+ },
+ "宝贵": {
+  "gloss": "valuable; precious"
+ },
+ "端": {
+  "gloss": "end; extremity; to carry level with both hands",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "利": {
+  "gloss": "advantage; benefit; profit; sharp"
+ },
+ "泡": {
+  "gloss": "to soak; to steep (tea); to infuse; bubble; foam; blister"
+ },
+ "随意": {
+  "gloss": "as one pleases; casual; at will"
+ },
+ "每天": {
+  "gloss": "every day; daily",
+  "pos": "n",
+  "posName": "time word"
+ },
+ "密切": {
+  "gloss": "close; intimate; closely connected"
+ },
+ "极了": {
+  "gloss": "(particle after an adjective/verb) extremely; to the extreme"
+ },
+ "惩罚": {
+  "gloss": "to punish; punishment; penalty"
+ },
+ "普通话": {
+  "gloss": "Mandarin Chinese; Putonghua (standard spoken Chinese)"
+ },
+ "当前": {
+  "gloss": "current; present; at the present time"
+ },
+ "样": {
+  "gloss": "appearance; shape; manner; kind; sort"
+ },
+ "随后": {
+  "gloss": "soon after; afterwards; subsequently"
+ },
+ "主管": {
+  "gloss": "person in charge; manager; supervisor; to be in charge of",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "战略": {
+  "reading": "zhàn lüè"
+ },
+ "增强": {
+  "gloss": "to strengthen; to enhance; to boost"
+ },
+ "老大": {
+  "gloss": "eldest child in a family; boss; leader of a group"
+ },
+ "有所": {
+  "gloss": "(before a verb) somewhat; to some extent; to a degree",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "咳嗽": {
+  "gloss": "to cough; a cough (MW: 阵 zhèn)"
+ },
+ "减": {
+  "gloss": "to subtract; to reduce; to decrease; minus"
+ },
+ "批": {
+  "gloss": "batch; lot (measure word for goods, groups of people); to approve; to criticize"
+ },
+ "砍": {
+  "gloss": "to chop; to hack; to cut down"
+ },
+ "穿越": {
+  "gloss": "to pass through; to cross; to traverse; (fiction) to travel through time"
+ },
+ "塞": {
+  "gloss": "sāi: to stuff; to squeeze in; to cram; to stop up | sài: frontier pass; border fortress"
+ },
+ "糟": {
+  "gloss": "bad; messy; ruined; rotten (as in 糟糕)"
+ },
+ "手套": {
+  "gloss": "glove; mitten (MW: 双 shuāng, 只 zhī)"
+ },
+ "快递": {
+  "gloss": "express delivery; courier service; express parcel",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "呵呵": {
+  "gloss": "(onomatopoeia) ha ha; (online slang) hehe, often a noncommittal or dismissive reply",
+  "pos": "interj",
+  "posName": "onomatopoeia"
+ },
+ "小声": {
+  "gloss": "quietly; in a low voice; (of volume) low",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "差点": {
+  "gloss": "almost; nearly; just barely (narrowly missing something)",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "皇后": {
+  "gloss": "empress; queen consort"
+ },
+ "丑": {
+  "gloss": "ugly; unsightly; (traditional opera) clown role"
+ },
+ "提示": {
+  "gloss": "hint; tip; prompt; to give a hint; to point out; to remind (sb of sth)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "熟人": {
+  "gloss": "acquaintance; someone one knows"
+ },
+ "过度": {
+  "gloss": "excessive; undue; over-; to go too far",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "口味": {
+  "gloss": "flavor; taste (in food); a person's food preferences"
+ },
+ "不止": {
+  "gloss": "not only; more than; not limited to; (literary) incessantly",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "格": {
+  "gloss": "grid; square; compartment; standard; style; (grammar) case"
+ },
+ "遇": {
+  "gloss": "to meet; to encounter; to come across"
+ },
+ "延长": {
+  "gloss": "to extend; to prolong; to lengthen"
+ },
+ "尾巴": {
+  "gloss": "tail"
+ },
+ "崩溃": {
+  "gloss": "to collapse; to fall apart; to break down (also emotionally)"
+ },
+ "答": {
+  "gloss": "dá: to answer; to reply | dā: only in 答应 dā ying (to agree; to answer)"
+ },
+ "粉丝": {
+  "gloss": "fan (of a person, team, etc.); bean-thread noodles; cellophane noodles (MW: 把 bǎ)"
+ },
+ "象征": {
+  "gloss": "symbol; emblem; to symbolize",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "也好": {
+  "gloss": "(X也好，Y也好) whether X or Y; (particle) all right, that's fine, may as well"
+ },
+ "通讯": {
+  "gloss": "communications; correspondence; news dispatch"
+ },
+ "器官": {
+  "gloss": "organ (of the body)"
+ },
+ "礼拜": {
+  "gloss": "week (colloquial); Sunday (in 礼拜天); religious service; to worship",
+  "posName": "noun"
+ },
+ "袜子": {
+  "gloss": "socks; stockings (MW: 双 shuāng, 只 zhī)"
+ },
+ "拼": {
+  "gloss": "to spell (a word); to piece together; to go all out"
+ },
+ "冬": {
+  "gloss": "winter (usually 冬天 dōng tiān)"
+ },
+ "一方面": {
+  "reading": "yì fāng miàn",
+  "gloss": "on the one hand (usually followed by 另一方面 on the other hand)"
+ },
+ "瞎": {
+  "gloss": "blind; (adverb) blindly, aimlessly, for no reason",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "睡眠": {
+  "gloss": "sleep; to sleep; (computing) sleep mode",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "箱": {
+  "gloss": "box; chest; trunk; (measure word) boxful, case"
+ },
+ "指数": {
+  "gloss": "index (numerical/statistical); (math) exponent"
+ },
+ "仿佛": {
+  "gloss": "as if; seemingly; (literary) to seem"
+ },
+ "滴": {
+  "gloss": "to drip; a drop; (measure word for drops)"
+ },
+ "绝": {
+  "gloss": "absolutely; by no means (as in 绝不); to cut off; to cease"
+ },
+ "有钱": {
+  "gloss": "rich; wealthy; well-off",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "全世界": {
+  "gloss": "the whole world; all over the world"
+ },
+ "单元": {
+  "gloss": "unit (of a course or textbook); entrance/section of an apartment building"
+ },
+ "那种": {
+  "gloss": "that kind of; that sort of; that type of",
+  "pos": "det",
+  "posName": "determiner"
+ },
+ "肯": {
+  "gloss": "to be willing to; to agree; to consent"
+ },
+ "兔子": {
+  "gloss": "rabbit; hare (MW: 只 zhī)"
+ },
+ "尺寸": {
+  "gloss": "size; dimensions; measurements (esp. of clothes)"
+ },
+ "博客": {
+  "gloss": "blog; weblog"
+ },
+ "用于": {
+  "gloss": "to be used for; to be used in; to be applied to"
+ },
+ "觉": {
+  "gloss": "jué: to feel; to sense; to realize | jiào: sleep (in 睡觉 shuì jiào)"
+ },
+ "变态": {
+  "gloss": "(offensive) pervert; perverted; abnormal; (biology) metamorphosis"
+ },
+ "零下": {
+  "pos": "n",
+  "posName": "noun"
+ },
+ "情报": {
+  "gloss": "intelligence (information); (secret) information"
+ },
+ "外边": {
+  "gloss": "outside; the outer side; out of town, abroad"
+ },
+ "布置": {
+  "gloss": "to arrange; to decorate; to set up; to assign (work, homework)"
+ },
+ "晚点": {
+  "gloss": "(of trains, flights) to be late; delayed | (adverb) a bit later"
+ },
+ "装饰": {
+  "gloss": "to decorate; decoration; ornament",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "传递": {
+  "gloss": "to pass on; to transmit; to convey"
+ },
+ "沉": {
+  "gloss": "to sink; to submerge; heavy; deep"
+ },
+ "何时": {
+  "gloss": "when (formal; = 什么时候)"
+ },
+ "大胆": {
+  "gloss": "bold; daring; audacious; brazen"
+ },
+ "惊讶": {
+  "gloss": "surprised; astonished; amazed"
+ },
+ "书包": {
+  "gloss": "schoolbag; satchel; bookbag (MW: 个 gè)"
+ },
+ "原始": {
+  "gloss": "primitive; original; raw (data)"
+ },
+ "字典": {
+  "gloss": "dictionary (of individual characters) (MW: 本 běn)"
+ },
+ "惨": {
+  "gloss": "miserable; tragic; wretched; awful"
+ },
+ "积累": {
+  "gloss": "to accumulate; to build up; accumulation"
+ },
+ "金钱": {
+  "gloss": "money; wealth"
+ },
+ "能否": {
+  "gloss": "(formal) can or can't; whether or not (one) can; could (you) ...?"
+ },
+ "理": {
+  "gloss": "to pay attention to (usually negated); to tidy up; to get (a haircut: 理发); reason; logic; texture"
+ },
+ "规矩": {
+  "gloss": "rules; established practice; (adj) well-behaved, proper"
+ },
+ "维修": {
+  "gloss": "to repair and maintain; maintenance"
+ },
+ "洗手间": {
+  "gloss": "restroom; bathroom; toilet"
+ },
+ "摔": {
+  "gloss": "to fall (down); to tumble; to throw down; to drop and break"
+ },
+ "倒霉": {
+  "gloss": "unlucky; out of luck; to have bad luck"
+ },
+ "混蛋": {
+  "gloss": "(insult) jerk; scoundrel; bastard"
+ },
+ "美金": {
+  "pos": "n",
+  "posName": "noun",
+  "reading": "měi jīn"
+ },
+ "袋": {
+  "gloss": "bag; sack; pocket; (MW) bag of (一袋米 a bag of rice)"
+ },
+ "出于": {
+  "gloss": "(motive) out of; due to; to stem from"
+ },
+ "监督": {
+  "gloss": "to supervise; to oversee; to monitor"
+ },
+ "广泛": {
+  "gloss": "extensive; widespread; wide-ranging"
+ },
+ "活着": {
+  "gloss": "to be alive; to live; alive"
+ },
+ "厅": {
+  "gloss": "hall; large room (esp. 客厅 living room, 餐厅 dining hall); provincial government department"
+ },
+ "新人": {
+  "gloss": "newlyweds (bride and groom); newcomer; fresh talent"
+ },
+ "灰": {
+  "gloss": "ash; dust; (adj) gray"
+ },
+ "机械": {
+  "gloss": "machinery; mechanical; rigid, inflexible"
+ },
+ "爹": {
+  "gloss": "dad; father (colloquial)"
+ },
+ "周边": {
+  "gloss": "surrounding area; periphery; surroundings"
+ },
+ "得以": {
+  "gloss": "(formal) to be able to; so that (one) can"
+ },
+ "围绕": {
+  "gloss": "to surround; to revolve around; to center on (an issue)"
+ },
+ "黑人": {
+  "gloss": "Black person (of African descent)"
+ },
+ "审判": {
+  "gloss": "to try (in court); trial"
+ },
+ "魔法": {
+  "gloss": "magic; sorcery; spell"
+ },
+ "遭遇": {
+  "pos": "v",
+  "posName": "verb"
+ },
+ "指示": {
+  "gloss": "instructions; directives; to instruct; to indicate"
+ },
+ "爆": {
+  "gloss": "to explode; to burst; (slang) to expose, leak; to flash-fry"
+ },
+ "坑": {
+  "gloss": "pit; hole; (fig.) to cheat, to trick"
+ },
+ "遗传": {
+  "gloss": "to inherit (genetically); to pass on (a trait); heredity"
+ },
+ "本子": {
+  "gloss": "notebook; exercise book; (printed) edition (MW: 本 běn)"
+ },
+ "企图": {
+  "gloss": "to attempt (usually something bad); attempt, scheme"
+ },
+ "优先": {
+  "gloss": "to have priority; to take precedence; priority; preferential"
+ },
+ "普及": {
+  "gloss": "to become widespread; to popularize; widespread; universal"
+ },
+ "解除": {
+  "gloss": "to lift; to cancel; to terminate; to relieve (sb of duties)"
+ },
+ "优惠": {
+  "gloss": "discount; preferential treatment; preferential (adj)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "斗争": {
+  "gloss": "to struggle; to fight; struggle"
+ },
+ "童话": {
+  "gloss": "fairy tale"
+ },
+ "哼": {
+  "gloss": "(interjection) humph (disdain or displeasure); to hum; to groan"
+ },
+ "测量": {
+  "gloss": "to measure; to survey; to gauge; to determine"
+ },
+ "废话": {
+  "gloss": "nonsense; rubbish; superfluous words"
+ },
+ "剧本": {
+  "gloss": "script (for a play, film, etc.); screenplay; play"
+ },
+ "心态": {
+  "gloss": "mentality; mindset; attitude; state of mind"
+ },
+ "碎": {
+  "gloss": "to break into pieces; to shatter; broken; in pieces; fragmentary"
+ },
+ "分散": {
+  "gloss": "to scatter; to disperse; to distract (attention); to decentralize"
+ },
+ "宠物": {
+  "gloss": "pet"
+ },
+ "户": {
+  "gloss": "household; family; (measure word for households)"
+ },
+ "撑": {
+  "gloss": "to prop up; to hold up; to bear; to push (a boat) with a pole; (after 吃) to be stuffed"
+ },
+ "争议": {
+  "gloss": "controversy; dispute; (v.) to dispute",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "创意": {
+  "gloss": "creativity; original idea; creative"
+ },
+ "各个": {
+  "gloss": "each; every; various; separately, one by one",
+  "pos": "det",
+  "posName": "determiner"
+ },
+ "干脆": {
+  "gloss": "simply; might as well; just (do it); (adj.) straightforward; blunt"
+ },
+ "相片": {
+  "gloss": "photograph; photo (MW: 张 zhāng)"
+ },
+ "困扰": {
+  "gloss": "to trouble; to bother; to plague; (n.) distress"
+ },
+ "辩论": {
+  "gloss": "to debate; to argue; (n.) debate (MW: 场 chǎng, 次 cì)"
+ },
+ "泪水": {
+  "gloss": "tears; teardrops"
+ },
+ "手工": {
+  "gloss": "handicraft; handwork; handmade; manual labor"
+ },
+ "这位": {
+  "gloss": "this (polite way to refer to a person)",
+  "pos": "det",
+  "posName": "determiner"
+ },
+ "全场": {
+  "gloss": "the whole audience; everyone present; the whole venue"
+ },
+ "买卖": {
+  "gloss": "business; trade; buying and selling (MW: 桩 zhuāng, 次 cì)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "汉字": {
+  "gloss": "Chinese character (MW: 个 gè)"
+ },
+ "单身": {
+  "gloss": "single; unmarried; (n.) single person",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "带走": {
+  "gloss": "to take away; to take along"
+ },
+ "毁灭": {
+  "gloss": "to destroy; to ruin; to wipe out; to perish"
+ },
+ "甩": {
+  "gloss": "to swing; to fling; to throw off; to dump (a lover)"
+ },
+ "何必": {
+  "gloss": "why bother; there is no need to"
+ },
+ "包装": {
+  "gloss": "to pack; to wrap; (n.) packaging",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "电源": {
+  "gloss": "power supply; power source"
+ },
+ "默默": {
+  "gloss": "silently; quietly; without a word"
+ },
+ "不知": {
+  "gloss": "not to know; to be unaware; unknowingly"
+ },
+ "暂停": {
+  "gloss": "to pause; to suspend temporarily; time-out (sports)"
+ },
+ "偶然": {
+  "gloss": "by chance; accidental; fortuitous; occasional"
+ },
+ "伞": {
+  "gloss": "umbrella; parasol (MW: 把 bǎ)"
+ },
+ "土豆": {
+  "gloss": "potato (MW: 个 gè, 颗 kē)"
+ },
+ "个别": {
+  "gloss": "individual; separate; one or two; isolated (cases)"
+ },
+ "结实": {
+  "reading": "jiē shi",
+  "gloss": "jiē shi: sturdy; solid; strong | jiē shí: to bear fruit"
+ },
+ "不光": {
+  "gloss": "not only; not just"
+ },
+ "传奇": {
+  "gloss": "legend; legendary tale; (adj.) legendary, fantastic"
+ },
+ "拆": {
+  "gloss": "to demolish; to tear down; to take apart; to open (a package)"
+ },
+ "眼光": {
+  "gloss": "judgment; taste (in choosing); insight; vision; gaze"
+ },
+ "吨": {
+  "gloss": "ton; tonne (MW)"
+ },
+ "大事": {
+  "gloss": "important matter; major event; big thing (MW: 件 jiàn, 桩 zhuāng)"
+ },
+ "联邦": {
+  "gloss": "federation; commonwealth; federal union; (as modifier) federal"
+ },
+ "人性": {
+  "gloss": "human nature; humanity"
+ },
+ "浅": {
+  "gloss": "shallow; light (of color); (of sleep) light; superficial"
+ },
+ "乘": {
+  "gloss": "to ride; to travel by (vehicle); to take advantage of; (math) to multiply"
+ },
+ "武装": {
+  "gloss": "to arm; armed; armed forces",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "受不了": {
+  "pos": "v",
+  "posName": "phrase"
+ },
+ "后边": {
+  "gloss": "behind; the back; the rear; the area at the back"
+ },
+ "搞定": {
+  "gloss": "to get (something) done; to sort out; to settle; to handle successfully"
+ },
+ "江": {
+  "pos": "n",
+  "posName": "noun"
+ },
+ "秩序": {
+  "gloss": "order; orderliness; social order; sequence"
+ },
+ "绕": {
+  "gloss": "to go around; to circle; to wind; to coil (thread); to bypass"
+ },
+ "露": {
+  "gloss": "lù: to show; to reveal; to expose (露出, 暴露); dew | lòu: to show up; to let slip (colloquial, 露面, 露馅)"
+ },
+ "一向": {
+  "reading": "yí xiàng",
+  "gloss": "always; all along; consistently (up to now)"
+ },
+ "耍": {
+  "gloss": "to play tricks on; to toy with; to wield; to show off (a skill); to act (cool etc.)"
+ },
+ "瞬间": {
+  "gloss": "moment; instant; (as adverb) in an instant",
+  "pos": "n",
+  "posName": "time word"
+ },
+ "对抗": {
+  "gloss": "to resist; to fight against; to oppose; to confront; antagonism"
+ },
+ "永恒": {
+  "gloss": "eternal; everlasting; permanent"
+ },
+ "舌头": {
+  "gloss": "tongue (MW: 个 gè)"
+ },
+ "一块": {
+  "reading": "yí kuài",
+  "gloss": "one piece; one yuan (colloquial); together (= 一块儿)"
+ },
+ "饼": {
+  "gloss": "flat round cake; pancake; pastry; cookie (MW: 张 zhāng)"
+ },
+ "犹豫": {
+  "gloss": "to hesitate; hesitant",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "早点": {
+  "gloss": "earlier; a bit sooner; (n.) breakfast (esp. Chinese-style)",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "毒品": {
+  "gloss": "illegal drugs; narcotics"
+ },
+ "预报": {
+  "gloss": "to forecast; forecast"
+ },
+ "走向": {
+  "gloss": "to head toward; to walk toward; (n.) direction; trend; course of development"
+ },
+ "临": {
+  "gloss": "to face; to be about to; just before; to overlook; to arrive"
+ },
+ "股": {
+  "gloss": "(MW for smells, currents, strands, forces); share (of stock); thigh; portion"
+ },
+ "陆续": {
+  "gloss": "one after another; in succession; successively"
+ },
+ "罢了": {
+  "gloss": "(particle) that's all; nothing more; merely"
+ },
+ "年前": {
+  "gloss": "(after a number) years ago; shortly before the Chinese New Year"
+ },
+ "恶劣": {
+  "gloss": "terrible; awful (weather, conditions); vile; nasty"
+ },
+ "策略": {
+  "reading": "cè lüè",
+  "gloss": "strategy; tactics; policy"
+ },
+ "光荣": {
+  "gloss": "glorious; honorable; (n.) honor; glory"
+ },
+ "白痴": {
+  "gloss": "idiot; fool (insulting); idiocy",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "尺": {
+  "gloss": "ruler; chi, a traditional unit of length (about one-third of a meter) (MW: 把 bǎ)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "模样": {
+  "gloss": "appearance; look; approximation"
+ },
+ "高手": {
+  "gloss": "expert; master; ace"
+ },
+ "教会": {
+  "gloss": "jiào huì: the (Christian) church | jiāo huì: to teach (someone) how to do something"
+ },
+ "业余": {
+  "gloss": "amateur; spare-time; (done) outside working hours"
+ },
+ "救命": {
+  "gloss": "(interj.) Help!; Save me!; to save sb's life"
+ },
+ "著作": {
+  "gloss": "literary work; writings; book (MW: 部 bù)"
+ },
+ "小小": {
+  "gloss": "tiny; little; mere"
+ },
+ "认定": {
+  "gloss": "to firmly believe; to be convinced; to conclude; to identify (as)"
+ },
+ "群体": {
+  "gloss": "group; community; collective"
+ },
+ "大妈": {
+  "gloss": "(colloquial) auntie; middle-aged or elderly woman; (dialect) father's elder brother's wife"
+ },
+ "南边": {
+  "gloss": "south; south side; southern part"
+ },
+ "快餐": {
+  "gloss": "fast food; quick meal"
+ },
+ "望": {
+  "gloss": "to gaze; to look into the distance; to hope for; to expect; to visit"
+ },
+ "分子": {
+  "gloss": "fēn zǐ: molecule; (math) numerator | fèn zǐ: member of a group; (political) element",
+  "reading": "fēn zǐ"
+ },
+ "机制": {
+  "gloss": "mechanism"
+ },
+ "赞助": {
+  "gloss": "to sponsor; to support financially; sponsorship"
+ },
+ "坏处": {
+  "gloss": "disadvantage; harm; drawback"
+ },
+ "干燥": {
+  "gloss": "dry; arid (of air, weather, skin)"
+ },
+ "一下子": {
+  "gloss": "all of a sudden; all at once; in a moment",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "行李箱": {
+  "gloss": "suitcase; luggage case"
+ },
+ "透露": {
+  "gloss": "to reveal; to disclose; to divulge; to leak"
+ },
+ "总裁": {
+  "gloss": "CEO; president (of a company); chairman"
+ },
+ "哥们": {
+  "gloss": "buddy; pal; bro (colloquial, among men)"
+ },
+ "上下": {
+  "gloss": "up and down; top and bottom; about, or so (after a number); all levels"
+ },
+ "分类": {
+  "gloss": "to classify; category; classification"
+ },
+ "派对": {
+  "gloss": "party (social gathering)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "大战": {
+  "gloss": "major battle; (fig.) big showdown or contest",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "注定": {
+  "gloss": "to be destined to; to be bound to; to be doomed to"
+ },
+ "尿": {
+  "gloss": "niào: urine; to urinate | suī: (coll.) urine"
+ },
+ "爽": {
+  "gloss": "refreshing; (slang) satisfying, great; crisp; frank",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "烫": {
+  "gloss": "to scald; to burn with hot liquid; (adj) scalding hot; to iron; to perm (hair)"
+ },
+ "活跃": {
+  "gloss": "active; lively; to liven up",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "玩笑": {
+  "gloss": "joke; jest; to joke",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "目光": {
+  "gloss": "gaze; look; eyes; (fig.) attention; vision"
+ },
+ "美味": {
+  "gloss": "delicious; tasty; delicacy",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "即便": {
+  "gloss": "even if; even though"
+ },
+ "为主": {
+  "gloss": "to be primarily based on; to focus mainly on (usually 以…为主)"
+ },
+ "促销": {
+  "gloss": "to promote sales; sales promotion"
+ },
+ "四处": {
+  "gloss": "all over the place; everywhere; in all directions"
+ },
+ "推开": {
+  "gloss": "to push open; to push away; to reject"
+ },
+ "搞笑": {
+  "gloss": "funny; hilarious; to make people laugh",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "物品": {
+  "gloss": "items; articles; goods"
+ },
+ "尝": {
+  "gloss": "to taste; to try (food); to experience"
+ },
+ "窝": {
+  "gloss": "nest; den; lair; (MW) a nest or litter of"
+ },
+ "佛": {
+  "reading": "fó",
+  "gloss": "Buddha; Buddhist"
+ },
+ "许可": {
+  "gloss": "permission; permit; to allow",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "乐园": {
+  "gloss": "paradise; amusement park (as in 迪士尼乐园)"
+ },
+ "引进": {
+  "gloss": "to introduce (from outside); to import; to bring in"
+ },
+ "一家": {
+  "gloss": "a family; the whole family; (with 家 as measure word) one shop, company, restaurant, etc.",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "当天": {
+  "gloss": "the same day; that very day"
+ },
+ "挣": {
+  "gloss": "to earn (money); to struggle free of (挣脱)"
+ },
+ "招": {
+  "gloss": "to recruit; to beckon; to provoke; to incur; (n) a move, trick"
+ },
+ "密": {
+  "gloss": "dense; thick; close; secret; confidential"
+ },
+ "天生": {
+  "gloss": "innate; inborn; by nature; natural"
+ },
+ "例外": {
+  "gloss": "exception; to be an exception",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "广": {
+  "gloss": "wide; vast; extensive; widely; to spread"
+ },
+ "首次": {
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "动摇": {
+  "gloss": "to waver; to shake; to sway"
+ },
+ "圣诞节": {
+  "gloss": "Christmas; Christmas Day"
+ },
+ "局面": {
+  "gloss": "situation; state of affairs"
+ },
+ "青": {
+  "gloss": "blue-green; green; (dark) black; young, youth"
+ },
+ "面子": {
+  "gloss": "face (social prestige); reputation; outer surface"
+ },
+ "负": {
+  "gloss": "to bear (responsibility); to carry on the back; to owe; to lose; negative"
+ },
+ "无奈": {
+  "gloss": "helpless; having no alternative; (adv) reluctantly, can't help but",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "多谢": {
+  "pos": "interj",
+  "posName": "phrase"
+ },
+ "在内": {
+  "gloss": "included; among them (as in 包括…在内 'including')",
+  "pos": "v",
+  "posName": "phrase"
+ },
+ "设": {
+  "gloss": "to set up; to establish; to arrange; (math) let, suppose"
+ },
+ "设计师": {
+  "gloss": "designer"
+ },
+ "败": {
+  "gloss": "to be defeated; to lose; to defeat; to spoil"
+ },
+ "富有": {
+  "gloss": "rich; wealthy; to be rich in",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "转向": {
+  "gloss": "to change direction; to turn; (fig.) to change one's stance"
+ },
+ "酷": {
+  "gloss": "cool (loanword); cruel; ruthless",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "玫瑰": {
+  "gloss": "rose (flower)"
+ },
+ "有的是": {
+  "pos": "v",
+  "posName": "phrase"
+ },
+ "痛快": {
+  "gloss": "happy and satisfied; to one's heart's content; straightforward, forthright"
+ },
+ "一时": {
+  "gloss": "for the moment; momentarily; a short while; a period of time"
+ },
+ "罚款": {
+  "gloss": "to fine; a fine (monetary penalty)"
+ },
+ "走出": {
+  "gloss": "to walk out; to go out of (a room, etc.)"
+ },
+ "闭嘴": {
+  "gloss": "to shut one's mouth; shut up! (rude)"
+ },
+ "前来": {
+  "gloss": "to come (to a place; formal)"
+ },
+ "部位": {
+  "gloss": "part (of the body, etc.); position; region"
+ },
+ "上市": {
+  "gloss": "to go on the market (of a new product); to be listed on the stock market"
+ },
+ "大叔": {
+  "gloss": "uncle (friendly address for a man about one's father's age); middle-aged man"
+ },
+ "降临": {
+  "gloss": "to descend upon; to arrive; to befall"
+ },
+ "本地": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "动态": {
+  "gloss": "developments; trends; (social media) status update; movement; dynamic"
+ },
+ "星球": {
+  "gloss": "planet; celestial body"
+ },
+ "撒": {
+  "gloss": "sā: to let go; to give vent to (as in 撒谎 to lie) | sǎ: to scatter; to sprinkle; to spill"
+ },
+ "抢劫": {
+  "gloss": "to rob; robbery"
+ },
+ "倾向": {
+  "gloss": "tendency; inclination; to be inclined towards"
+ },
+ "安置": {
+  "gloss": "to settle (someone) in; to find a place for; to arrange for"
+ },
+ "失误": {
+  "gloss": "mistake; error; slip; to make a mistake",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "神圣": {
+  "gloss": "sacred; holy"
+ },
+ "朵": {
+  "gloss": "(measure word) for flowers, clouds, etc.; flower; earlobe"
+ },
+ "交警": {
+  "gloss": "traffic police; traffic officer"
+ },
+ "模特": {
+  "gloss": "(fashion) model",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "同性恋": {
+  "gloss": "homosexuality; gay person",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "无辜": {
+  "gloss": "innocent; (law) not guilty; innocence",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "忽略": {
+  "reading": "hū lüè"
+ },
+ "甜蜜": {
+  "gloss": "sweet; happy and loving"
+ },
+ "大方": {
+  "reading": "dà fang",
+  "gloss": "generous; natural and poised (not shy or stingy); tasteful"
+ },
+ "简历": {
+  "gloss": "résumé; CV"
+ },
+ "终身": {
+  "gloss": "lifelong; for life",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "选项": {
+  "gloss": "option; choice"
+ },
+ "一流": {
+  "gloss": "first-class; top-notch"
+ },
+ "损害": {
+  "gloss": "to damage; to harm; damage; harm"
+ },
+ "车子": {
+  "gloss": "car; vehicle"
+ },
+ "滑": {
+  "gloss": "slippery; to slide; to slip; smooth; sly",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "自愿": {
+  "gloss": "voluntary; of one's own free will; to volunteer"
+ },
+ "码": {
+  "gloss": "yard (unit of length); number; size; code; to pile up"
+ },
+ "银行卡": {
+  "pos": "n",
+  "posName": "noun"
+ },
+ "受害者": {
+  "gloss": "victim; casualty"
+ },
+ "紧密": {
+  "gloss": "close; tight; closely knit"
+ },
+ "诚信": {
+  "gloss": "honesty; integrity; good faith",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "摩托车": {
+  "gloss": "motorcycle; motorbike"
+ },
+ "回归": {
+  "gloss": "to return (to); to revert; (statistics) regression"
+ },
+ "长江": {
+  "gloss": "the Yangtze River"
+ },
+ "束": {
+  "gloss": "(measure word) bunch, bundle, beam (of light) | to bind; to tie"
+ },
+ "淘汰": {
+  "gloss": "to eliminate; to knock out; to phase out; to weed out"
+ },
+ "大赛": {
+  "gloss": "major competition; grand contest",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "以便": {
+  "pos": "conj",
+  "posName": "conjunction"
+ },
+ "游行": {
+  "gloss": "to march; to parade; to demonstrate; a march; a demonstration"
+ },
+ "客厅": {
+  "gloss": "living room; drawing room"
+ },
+ "师父": {
+  "gloss": "master; mentor (of a craft, martial art, etc.); title for a monk or Daoist priest"
+ },
+ "大奖": {
+  "gloss": "grand prize; major award"
+ },
+ "上门": {
+  "gloss": "to come to someone's door (to visit or provide a service); to call at a home"
+ },
+ "国会": {
+  "reading": "guó huì",
+  "gloss": "congress; parliament; national legislature"
+ },
+ "进化": {
+  "gloss": "to evolve; evolution"
+ },
+ "休闲": {
+  "gloss": "leisure; casual; to relax",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "阵": {
+  "gloss": "(measure word) for spells or bursts of activity, rain, wind, etc.; battle formation"
+ },
+ "上床": {
+  "gloss": "to go to bed"
+ },
+ "城里": {
+  "reading": "chéng lǐ",
+  "gloss": "in town; in the city"
+ },
+ "零食": {
+  "gloss": "snack; between-meal nibbles"
+ },
+ "开花": {
+  "gloss": "to bloom; to blossom; (fig.) to flourish"
+ },
+ "制服": {
+  "gloss": "uniform; (verb) to subdue; to bring under control (MW: 套 tào)"
+ },
+ "赞美": {
+  "gloss": "to praise; to extol; praise"
+ },
+ "一面": {
+  "reading": "yí miàn",
+  "gloss": "(adv) at the same time (一面…一面… doing A while doing B); one side; one aspect",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "赏": {
+  "gloss": "to reward; to give a reward (from a superior); to appreciate, enjoy (as in 欣赏)"
+ },
+ "兼": {
+  "gloss": "to hold two or more roles at once; concurrently; as well as"
+ },
+ "法规": {
+  "gloss": "laws and regulations; statute"
+ },
+ "曝光": {
+  "gloss": "to expose (a scandal); to be exposed; (photography) exposure"
+ },
+ "点击": {
+  "gloss": "to click (a link, button); click; to hit (a key)"
+ },
+ "特工": {
+  "gloss": "secret agent; special agent; secret service"
+ },
+ "大厦": {
+  "gloss": "high-rise; large building (often in building names, e.g. 帝国大厦 Empire State Building)"
+ },
+ "主演": {
+  "gloss": "to star in; to play the lead role; lead actor",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "名义": {
+  "gloss": "name (in which something is done); title; nominal; 名义上 in name only"
+ },
+ "甲": {
+  "gloss": "first of the ten Heavenly Stems; A (as in party A); armor; shell; nail (指甲)"
+ },
+ "现状": {
+  "gloss": "current situation; status quo"
+ },
+ "带有": {
+  "gloss": "to carry; to have (a quality, element or feature)"
+ },
+ "盒": {
+  "gloss": "box; case; (measure word) box of"
+ },
+ "叶子": {
+  "gloss": "leaf; leaves (MW: 片 piàn)"
+ },
+ "基因": {
+  "gloss": "gene"
+ },
+ "与其": {
+  "gloss": "(conj) rather than...; 与其 A，不如 B: instead of A, it would be better to B"
+ },
+ "税": {
+  "gloss": "tax; duty"
+ },
+ "药片": {
+  "gloss": "pill; tablet (MW: 片 piàn)"
+ },
+ "预订": {
+  "gloss": "to book; to reserve; reservation"
+ },
+ "研究所": {
+  "gloss": "research institute; (Taiwan) graduate school (MW: 个 gè)"
+ },
+ "女神": {
+  "gloss": "goddess; (fig.) a woman one idolizes"
+ },
+ "汇": {
+  "gloss": "to remit (money); to converge; to gather together"
+ },
+ "服": {
+  "gloss": "fú: to take (medicine); to be convinced, to obey; to serve; clothing | fù: dose (of medicine)"
+ },
+ "深深": {
+  "gloss": "deeply; profoundly"
+ },
+ "之所以": {
+  "gloss": "the reason why...; used with 是因为/因为: 之所以…是因为… 'the reason that... is because...'"
+ },
+ "定位": {
+  "gloss": "to locate; to pinpoint; positioning; to characterize (as)"
+ },
+ "引擎": {
+  "gloss": "engine (MW: 台 tái)"
+ },
+ "赔偿": {
+  "gloss": "to compensate; to pay damages; compensation"
+ },
+ "鞋子": {
+  "gloss": "shoe; shoes"
+ },
+ "蛮": {
+  "gloss": "quite; rather; pretty (colloquial adverb)"
+ },
+ "过敏": {
+  "gloss": "to be allergic; allergy; oversensitive"
+ },
+ "不该": {
+  "gloss": "should not; ought not to"
+ },
+ "灰色": {
+  "gloss": "gray (color); (fig.) gloomy; shady"
+ },
+ "剧": {
+  "gloss": "drama; play; opera; TV series; (in compounds) dramatic, intense"
+ },
+ "鸭子": {
+  "gloss": "duck (MW: 只 zhī)"
+ },
+ "种种": {
+  "pos": "det",
+  "posName": "determiner"
+ },
+ "胡子": {
+  "gloss": "beard; mustache; facial hair (MW: 撮 cuō, 根 gēn)"
+ },
+ "一带": {
+  "reading": "yí dài",
+  "gloss": "area; vicinity (after a place name)"
+ },
+ "打包": {
+  "gloss": "to pack; to wrap up; to get (leftover food) to go"
+ },
+ "凉快": {
+  "gloss": "pleasantly cool"
+ },
+ "相应": {
+  "gloss": "corresponding; relevant; to correspond",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "伸出": {
+  "gloss": "to stretch out; to extend"
+ },
+ "可见": {
+  "gloss": "it can be seen that; evidently; visible",
+  "pos": "conj",
+  "posName": "conjunction"
+ },
+ "老天": {
+  "gloss": "heavens; God (as an exclamation)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "蹲": {
+  "gloss": "to squat; to crouch; (colloq.) to stay somewhere; to serve (time)"
+ },
+ "牵": {
+  "gloss": "to lead (by hand or rope); to hold (hands); to pull"
+ },
+ "赶上": {
+  "gloss": "to catch up with; to keep up with; to be in time for; to run into (a situation)"
+ },
+ "灭": {
+  "gloss": "to go out (of a fire, light); to put out; to extinguish; to wipe out"
+ },
+ "分组": {
+  "gloss": "to divide into groups; group; subgroup"
+ },
+ "公告": {
+  "gloss": "announcement; notice; bulletin"
+ },
+ "构造": {
+  "gloss": "structure; composition; makeup (MW: 个 gè)"
+ },
+ "带给": {
+  "gloss": "to bring to (sb); to give to; to provide to"
+ },
+ "足": {
+  "gloss": "enough; sufficient; ample; foot (in compounds)"
+ },
+ "气象": {
+  "gloss": "meteorology; weather; (fig.) atmosphere; scene (MW: 个 gè)"
+ },
+ "淡": {
+  "gloss": "light (in flavor or color); weak; diluted; bland; (of business) slack"
+ },
+ "极端": {
+  "gloss": "extreme; radical; (n.) an extreme",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "在线": {
+  "gloss": "online",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "终点": {
+  "gloss": "finish line; end point; destination; terminus (MW: 个 gè)"
+ },
+ "迷路": {
+  "gloss": "to get lost; to lose one's way"
+ },
+ "黄瓜": {
+  "gloss": "cucumber (MW: 根 gēn, 条 tiáo)"
+ },
+ "品": {
+  "gloss": "to taste; to savor; to appraise; grade; kind (in compounds)"
+ },
+ "悄悄": {
+  "gloss": "quietly; stealthily; secretly"
+ },
+ "热心": {
+  "gloss": "warm-hearted; enthusiastic; keen to help"
+ },
+ "车厢": {
+  "gloss": "railway carriage; train car; compartment (MW: 节 jié)"
+ },
+ "留给": {
+  "gloss": "to leave for; to save for; to reserve for"
+ },
+ "审查": {
+  "gloss": "to examine; to review; to investigate; to censor"
+ },
+ "并非": {
+  "gloss": "(formal) is not; by no means; not actually the case that"
+ },
+ "疼痛": {
+  "gloss": "pain; ache; (of a body part) to hurt, be sore",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "赔": {
+  "gloss": "to compensate; to pay for (damage); to lose money"
+ },
+ "握": {
+  "gloss": "to hold; to grasp; to clench; to shake (hands)"
+ },
+ "工夫": {
+  "reading": "gōng fu",
+  "gloss": "gōng fu: time; spare time; effort; skill | gōng fū: (old) laborer"
+ },
+ "有事": {
+  "gloss": "to be busy; to have something to do; there is something the matter"
+ },
+ "娘": {
+  "gloss": "mother (colloquial); young woman (in compounds)"
+ },
+ "幅": {
+  "gloss": "(measure word for paintings, pictures, maps, cloth); width of cloth"
+ },
+ "任意": {
+  "gloss": "arbitrary; any; at will; as one pleases"
+ },
+ "每年": {
+  "pos": "n",
+  "posName": "time word"
+ },
+ "出卖": {
+  "gloss": "to betray; to sell out; to sell"
+ },
+ "亏": {
+  "gloss": "to lose money; to be in deficit; to be lacking; luckily; (ironic) fancy that"
+ },
+ "每次": {
+  "pos": "n",
+  "posName": "time word"
+ },
+ "搭配": {
+  "gloss": "to match; to go well with; to pair up; to combine"
+ },
+ "冻": {
+  "gloss": "to freeze; to be freezing cold; (n.) jelly, aspic"
+ },
+ "斗": {
+  "gloss": "dòu: to fight; to struggle; to compete | dǒu: dry measure for grain; ladle-shaped object"
+ },
+ "诊断": {
+  "gloss": "to diagnose; diagnosis"
+ },
+ "现有": {
+  "gloss": "existing; currently available",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "骑士": {
+  "gloss": "knight; horseman; cavalryman"
+ },
+ "宁可": {
+  "gloss": "would rather; would prefer to (even if...)"
+ },
+ "算了": {
+  "gloss": "forget it; never mind; let it be; (V+算了) might as well"
+ },
+ "牧师": {
+  "gloss": "pastor; minister (Protestant clergy)"
+ },
+ "愈": {
+  "gloss": "the more... the more... (愈...愈...); increasingly; (literary) to recover"
+ },
+ "火灾": {
+  "gloss": "fire (a disaster); conflagration"
+ },
+ "难免": {
+  "gloss": "hard to avoid; inevitable; bound to happen",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "阴谋": {
+  "gloss": "conspiracy; plot; scheme; to conspire"
+ },
+ "凡": {
+  "gloss": "every; all; any (as in 凡是); ordinary; mundane"
+ },
+ "驻": {
+  "gloss": "to be stationed (at); to be based in (diplomats, troops); to halt; to stay"
+ },
+ "闲": {
+  "gloss": "idle; free; unoccupied; leisure",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "可笑": {
+  "gloss": "ridiculous; laughable; funny"
+ },
+ "冲击": {
+  "gloss": "to pound against; to hit; to impact; (n.) impact; shock"
+ },
+ "说好": {
+  "gloss": "to agree on; to arrange; to say OK; to come to an agreement"
+ },
+ "策划": {
+  "gloss": "to plan; to organize; to plot; planner"
+ },
+ "罚": {
+  "gloss": "to punish; to penalize; to fine"
+ },
+ "通道": {
+  "gloss": "passage; corridor; aisle; (communications) channel"
+ },
+ "小吃": {
+  "gloss": "snack; street food; light refreshments"
+ },
+ "摘": {
+  "gloss": "to pick (flowers, fruit etc); to pluck; to take off (a hat, glasses); to remove"
+ },
+ "社交": {
+  "gloss": "social interaction; socializing; social contact"
+ },
+ "咸": {
+  "gloss": "salty"
+ },
+ "录像": {
+  "gloss": "video recording; video footage; to make a video recording (MW: 盘 pán)"
+ },
+ "四周": {
+  "gloss": "all around; surroundings"
+ },
+ "判决": {
+  "gloss": "judgment (by a court of law); verdict; to pass judgment on; to sentence"
+ },
+ "台阶": {
+  "gloss": "steps; stairs; (fig.) a way out of an awkward situation"
+ },
+ "多云": {
+  "gloss": "cloudy (weather)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "玩意": {
+  "gloss": "thing; stuff (colloquial, often slightly dismissive); toy; plaything"
+ },
+ "关怀": {
+  "gloss": "to show concern for; care; solicitude"
+ },
+ "档": {
+  "gloss": "file; records; grade or level (as in 高档 high-end); (MW for TV programs and shows)"
+ },
+ "老头": {
+  "gloss": "old man (informal, can be disrespectful); (colloquial) father; husband"
+ },
+ "野": {
+  "gloss": "wild; untamed; open country; unruly"
+ },
+ "创建": {
+  "gloss": "to found; to establish; to create"
+ },
+ "死刑": {
+  "gloss": "death penalty; capital punishment",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "料": {
+  "gloss": "material; ingredients; (animal) feed; to expect, to anticipate"
+ },
+ "咋": {
+  "gloss": "(dialect) how; why; what (= 怎么)",
+  "reading": "zǎ"
+ },
+ "扣": {
+  "gloss": "to fasten; to button up; to deduct; to detain; button; knot"
+ },
+ "支撑": {
+  "gloss": "to support; to prop up; to sustain"
+ },
+ "远远": {
+  "gloss": "by far; far (more/less than); far away"
+ },
+ "环节": {
+  "gloss": "stage or step (of a process); link (in a chain)"
+ },
+ "令人": {
+  "gloss": "to make one (feel or do sth); with an adjective, e.g. 令人高兴 delightful",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "透过": {
+  "gloss": "through; by means of; via; to pass through",
+  "pos": "post",
+  "posName": "preposition"
+ },
+ "外汇": {
+  "gloss": "foreign currency; foreign exchange"
+ },
+ "线路": {
+  "gloss": "(telephone/electric) line; circuit; route"
+ },
+ "祖先": {
+  "gloss": "ancestors; forebears"
+ },
+ "逗": {
+  "gloss": "to amuse; to tease (playfully); to entice; (colloquial) funny"
+ },
+ "书记": {
+  "gloss": "Party secretary (head of a Communist Party branch); clerk"
+ },
+ "频繁": {
+  "gloss": "frequent; frequently"
+ },
+ "幼稚": {
+  "gloss": "childish; naive; immature"
+ },
+ "认同": {
+  "gloss": "to agree with; to approve of; to identify with; to recognize"
+ },
+ "艘": {
+  "gloss": "(measure word) for ships and boats"
+ },
+ "有的": {
+  "gloss": "some (people or things); 有的…有的… some…others…"
+ },
+ "一遍": {
+  "reading": "yí biàn"
+ },
+ "酱": {
+  "gloss": "sauce; paste; jam; (esp.) soy paste"
+ },
+ "以内": {
+  "gloss": "within; inside; less than"
+ },
+ "哎呀": {
+  "gloss": "(interjection) oh!; oops!; my!; expresses surprise, dismay or mild annoyance"
+ },
+ "加以": {
+  "gloss": "(before a two-syllable verb) to subject it to, to give it, e.g. 加以解释 to explain it; (conj.) in addition"
+ },
+ "多种": {
+  "gloss": "many kinds of; various; diverse; multi-",
+  "pos": "det",
+  "posName": "determiner"
+ },
+ "体内": {
+  "gloss": "inside the body; within the body",
+  "posName": "location word"
+ },
+ "基于": {
+  "gloss": "based on; on the basis of; in view of"
+ },
+ "性能": {
+  "gloss": "performance; function (of a machine, product, software)"
+ },
+ "果实": {
+  "gloss": "fruit; (fig.) fruits (of labor, success); results"
+ },
+ "外表": {
+  "gloss": "outward appearance; exterior; looks"
+ },
+ "手下": {
+  "gloss": "subordinate; underling; under one's command; (money etc.) on hand",
+  "posName": "noun"
+ },
+ "上边": {
+  "gloss": "above; on top; the top side"
+ },
+ "中华": {
+  "gloss": "China (formal or literary name, as in 中华民族)"
+ },
+ "钻": {
+  "gloss": "zuān: to drill; to bore; to burrow into | zuàn: diamond; drill"
+ },
+ "深处": {
+  "gloss": "depths; deepest or most remote part",
+  "posName": "location word"
+ },
+ "辐射": {
+  "gloss": "radiation; to radiate",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "情侣": {
+  "gloss": "couple (romantic partners); lovers"
+ },
+ "颇": {
+  "gloss": "rather; quite; considerably"
+ },
+ "抄": {
+  "gloss": "to copy; to transcribe; to plagiarize; to search and seize; to raid"
+ },
+ "转化": {
+  "gloss": "to transform; to convert; to change"
+ },
+ "导航": {
+  "gloss": "navigation; to navigate"
+ },
+ "僵尸": {
+  "gloss": "zombie; jiangshi (Chinese hopping vampire)"
+ },
+ "尚": {
+  "gloss": "(literary) still; yet; even; to value, to esteem"
+ },
+ "显": {
+  "gloss": "to show; to display; to appear (to be); prominent"
+ },
+ "害死": {
+  "gloss": "to cause (sb's) death; to kill (through harm or negligence)"
+ },
+ "抬头": {
+  "gloss": "to raise one's head; to look up; (fig.) to gain ground; letterhead; payee line on a check or bill"
+ },
+ "干活": {
+  "gloss": "to work; to do manual work",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "合成": {
+  "gloss": "to synthesize; to combine; to compose; synthesis"
+ },
+ "出事": {
+  "gloss": "to have an accident; for something to go wrong"
+ },
+ "指定": {
+  "gloss": "to appoint; to assign; to designate; designated, specified"
+ },
+ "乐意": {
+  "gloss": "to be willing to; to be glad to (do sth)"
+ },
+ "隐瞒": {
+  "gloss": "to conceal; to hide the truth; to cover up"
+ },
+ "用力": {
+  "gloss": "to exert oneself; to use force; to make an effort",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "勉强": {
+  "gloss": "reluctant; barely enough; (do) with difficulty; to force sb to do sth",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "穿过": {
+  "gloss": "to pass through; to cross"
+ },
+ "硕士": {
+  "gloss": "person with a master's degree; master's (degree)"
+ },
+ "港": {
+  "gloss": "harbor; port; (abbr.) Hong Kong"
+ },
+ "家园": {
+  "gloss": "homeland; home; native place"
+ },
+ "奇妙": {
+  "gloss": "wonderful; marvelous; ingeniously strange"
+ },
+ "行程": {
+  "gloss": "itinerary; trip; journey; distance traveled"
+ },
+ "讲座": {
+  "gloss": "lecture; talk (MW: 场 chǎng)"
+ },
+ "演奏": {
+  "gloss": "to play (a musical instrument); to perform (music)"
+ },
+ "好笑": {
+  "gloss": "funny; amusing; laughable; ridiculous"
+ },
+ "调节": {
+  "gloss": "to adjust; to regulate"
+ },
+ "掌控": {
+  "gloss": "to control; to have in hand; to be in command of",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "枚": {
+  "gloss": "(measure word) for coins, rings, badges, medals, rockets, satellites, etc."
+ },
+ "岗位": {
+  "gloss": "post; position; job"
+ },
+ "称号": {
+  "gloss": "title (of honor); designation; term of address"
+ },
+ "转告": {
+  "gloss": "to pass on (a message); to relay"
+ },
+ "来临": {
+  "gloss": "to arrive; to approach; to be at hand"
+ },
+ "大臣": {
+  "gloss": "minister (of a monarchy or imperial court); cabinet minister"
+ },
+ "不可思议": {
+  "gloss": "inconceivable; unimaginable; incredible",
+  "pos": "adj",
+  "posName": "idiom"
+ },
+ "交代": {
+  "gloss": "to give instructions; to hand over (duties); to explain; to confess"
+ },
+ "将会": {
+  "gloss": "will; is going to (formal future marker)",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "分成": {
+  "gloss": "to divide into; to split into; to break into"
+ },
+ "生态": {
+  "gloss": "ecology; ecosystem; ecological"
+ },
+ "扩张": {
+  "gloss": "to expand; to extend (power, territory); expansion"
+ },
+ "培育": {
+  "gloss": "to cultivate; to breed; to nurture; to foster"
+ },
+ "拼命": {
+  "gloss": "desperately; with all one's might; to go all out (as if risking one's life)"
+ },
+ "弥补": {
+  "gloss": "to make up for; to compensate for; to remedy"
+ },
+ "缩短": {
+  "gloss": "to shorten; to cut down; to reduce"
+ },
+ "隔离": {
+  "gloss": "to isolate; to quarantine; to separate"
+ },
+ "一口气": {
+  "gloss": "in one breath; in one go; (noun) a breath, as in 松一口气 to sigh with relief"
+ },
+ "某人": {
+  "gloss": "someone; a certain person"
+ },
+ "扯": {
+  "gloss": "to pull; to tear off; to chat idly; to digress"
+ },
+ "光线": {
+  "gloss": "light; ray of light; illumination; lighting (MW: 条 tiáo, 道 dào)"
+ },
+ "阴影": {
+  "gloss": "shadow; (fig.) lingering psychological shadow"
+ },
+ "吸血鬼": {
+  "gloss": "vampire; (fig.) bloodsucker; leech"
+ },
+ "言论": {
+  "gloss": "speech; views; remarks (on public matters)"
+ },
+ "中介": {
+  "gloss": "intermediary; agent; agency (e.g. real estate agent)"
+ },
+ "流氓": {
+  "gloss": "hoodlum; thug; gangster; rogue; (sexual) indecency"
+ },
+ "中小学": {
+  "gloss": "primary and secondary schools"
+ },
+ "痒": {
+  "gloss": "itchy; to itch; to tickle"
+ },
+ "数码": {
+  "gloss": "digital; numeral; digit",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "册": {
+  "gloss": "(measure word) for volumes or copies of books; booklet"
+ },
+ "点名": {
+  "gloss": "to call the roll; to name (sb) publicly; to single out by name"
+ },
+ "海上": {
+  "gloss": "at sea; on the sea; maritime",
+  "posName": "location word"
+ },
+ "体检": {
+  "gloss": "medical checkup; physical exam; to have a checkup"
+ },
+ "学位": {
+  "gloss": "academic degree"
+ },
+ "捉": {
+  "gloss": "to catch; to capture; to seize"
+ },
+ "下边": {
+  "gloss": "below; underneath; the lower part"
+ },
+ "嘿嘿": {
+  "gloss": "heh heh (sly or mischievous chuckle)"
+ },
+ "议论": {
+  "gloss": "to discuss; to comment on; to talk about; discussion; comments"
+ },
+ "窗口": {
+  "gloss": "window; service counter; (computer) window",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "扇": {
+  "gloss": "shàn: (measure word) for doors, windows; fan; leaf of a door | shān: to fan; to slap"
+ },
+ "有意": {
+  "gloss": "intentionally; deliberately; to have a mind to; interested in"
+ },
+ "花费": {
+  "gloss": "to spend (time or money); to cost; expense"
+ },
+ "海岸": {
+  "gloss": "coast; seashore"
+ },
+ "伙计": {
+  "gloss": "mate; buddy; fellow; (dated) shop assistant or waiter; partner"
+ },
+ "蒙": {
+  "gloss": "méng: to cover; to suffer (as in 蒙受) | mēng: to deceive; to guess; dazed"
+ },
+ "对外": {
+  "gloss": "external; foreign; outward-facing (e.g. foreign affairs); to the outside world",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "点燃": {
+  "gloss": "to ignite; to light; to set on fire"
+ },
+ "竞赛": {
+  "gloss": "contest; competition; match; to compete",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "正面": {
+  "gloss": "front; right side (of an object); positive aspect; head-on",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "招待": {
+  "gloss": "to receive (guests); to entertain; to serve (customers); hospitality"
+ },
+ "皇家": {
+  "gloss": "royal; imperial household",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "当场": {
+  "gloss": "on the spot; at the scene"
+ },
+ "出名": {
+  "gloss": "famous; well-known; to become famous"
+ },
+ "存款": {
+  "gloss": "bank deposit; savings; to deposit money"
+ },
+ "合约": {
+  "gloss": "contract; agreement; treaty"
+ },
+ "名叫": {
+  "gloss": "to be called; to be named"
+ },
+ "原创": {
+  "gloss": "original (work, idea); to create originally"
+ },
+ "先后": {
+  "gloss": "successively; one after another; (order of) precedence"
+ },
+ "故障": {
+  "gloss": "malfunction; breakdown; fault"
+ },
+ "媳妇": {
+  "reading": "xí fu",
+  "gloss": "wife (colloquial); daughter-in-law"
+ },
+ "中餐": {
+  "gloss": "Chinese food; Chinese meal; lunch (less common) (MW: 份 fèn, 顿 dùn)"
+ },
+ "一道": {
+  "reading": "yí dào",
+  "gloss": "together | yí dào + noun (道 as measure word): a course, question, streak or bolt, e.g. 一道菜 a dish"
+ },
+ "人为": {
+  "gloss": "man-made; artificial; caused by human action"
+ },
+ "丝毫": {
+  "gloss": "the slightest bit; (with negation) not in the least",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "致命": {
+  "gloss": "fatal; deadly; lethal",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "案子": {
+  "gloss": "(legal) case; long narrow table"
+ },
+ "无意": {
+  "gloss": "to have no intention of (doing sth); unintentional; inadvertent"
+ },
+ "魔术": {
+  "gloss": "magic trick; magic show; conjuring"
+ },
+ "赚钱": {
+  "gloss": "to make money; to earn money"
+ },
+ "赋予": {
+  "gloss": "to endow; to bestow; to give (a quality, right or mission)"
+ },
+ "白人": {
+  "gloss": "white person; Caucasian"
+ },
+ "关门": {
+  "gloss": "to close the door; to lock up; (of a shop) to close for the day or for good",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "战役": {
+  "gloss": "battle; military campaign"
+ },
+ "为啥": {
+  "gloss": "why (colloquial form of 为什么)"
+ },
+ "上演": {
+  "gloss": "to stage (a play); to screen (a film); to be shown or performed"
+ },
+ "心想": {
+  "gloss": "to think to oneself; to say to oneself",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "通用": {
+  "gloss": "to be in common use (of a language, card, currency, etc.); to be interchangeable",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "奉献": {
+  "gloss": "to dedicate; to devote; to contribute selflessly; to offer up"
+ },
+ "鲜明": {
+  "gloss": "distinct; clear-cut; vivid; bright (of colors)"
+ },
+ "初期": {
+  "pos": "n",
+  "posName": "time word"
+ },
+ "隐私": {
+  "gloss": "privacy; private matters"
+ },
+ "脸色": {
+  "gloss": "complexion; facial expression; look on one's face"
+ },
+ "毫无": {
+  "gloss": "completely without; utterly lacking (毫无 + noun)"
+ },
+ "飘": {
+  "gloss": "to float; to drift; to flutter"
+ },
+ "炮": {
+  "gloss": "pào: cannon; artillery; firecracker (MW: 门 mén) | bāo: to flash-fry | páo: to dry-roast (herbal medicine)",
+  "reading": "pào"
+ },
+ "接收": {
+  "gloss": "to receive; to accept; to take over; to admit"
+ },
+ "心愿": {
+  "gloss": "heartfelt wish; cherished desire"
+ },
+ "素质": {
+  "gloss": "quality (of a person); caliber; basic qualities"
+ },
+ "用心": {
+  "gloss": "diligent; attentive; careful; (noun) motive, intention",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "火星": {
+  "gloss": "Mars; spark"
+ },
+ "哭泣": {
+  "gloss": "to weep; to sob; to cry"
+ },
+ "不要紧": {
+  "reading": "bú yào jǐn",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "爱护": {
+  "gloss": "to take good care of; to cherish; to protect"
+ },
+ "罪恶": {
+  "gloss": "evil; sin; crime"
+ },
+ "通话": {
+  "gloss": "to talk by phone; phone call"
+ },
+ "酒精": {
+  "gloss": "alcohol; ethanol"
+ },
+ "赖": {
+  "gloss": "to deny or go back on (what one said or did); to blame wrongly; to loiter; bad, poor"
+ },
+ "一行": {
+  "reading": "yì xíng",
+  "gloss": "party; delegation; group travelling together"
+ },
+ "慌": {
+  "gloss": "flustered; panicky; (after 得) unbearably, terribly"
+ },
+ "引用": {
+  "gloss": "to quote; to cite"
+ },
+ "优雅": {
+  "gloss": "graceful; elegant; refined"
+ },
+ "想来": {
+  "gloss": "I suppose; presumably; it seems that",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "星座": {
+  "gloss": "constellation; star sign; zodiac sign (MW: 个 gè)"
+ },
+ "略": {
+  "reading": "lüè",
+  "gloss": "slightly; roughly; brief; outline; to omit"
+ },
+ "诉讼": {
+  "gloss": "lawsuit; litigation; legal proceedings",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "摇滚": {
+  "gloss": "rock music; rock 'n' roll"
+ },
+ "一身": {
+  "reading": "yì shēn",
+  "gloss": "a whole outfit; one's whole body; all over; from head to toe"
+ },
+ "搭档": {
+  "gloss": "partner; teammate; to team up"
+ },
+ "膝盖": {
+  "gloss": "knee"
+ },
+ "骗人": {
+  "gloss": "to deceive; to lie to people; to cheat"
+ },
+ "计": {
+  "gloss": "plan; scheme; trick; to calculate; to count",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "不得了": {
+  "gloss": "(after 得) extremely, terribly; terrible; dreadful; serious (trouble)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "神父": {
+  "gloss": "(Catholic) priest; Father"
+ },
+ "委托": {
+  "gloss": "to entrust; to commission; to authorize"
+ },
+ "西红柿": {
+  "gloss": "tomato (MW: 个 gè)"
+ },
+ "专利": {
+  "gloss": "patent; monopoly; exclusive privilege"
+ },
+ "手臂": {
+  "gloss": "arm"
+ },
+ "奔": {
+  "gloss": "bēn: to run quickly; to rush; to hurry | bèn: to head for; to go towards"
+ },
+ "总监": {
+  "gloss": "director; head of a department; chief"
+ },
+ "救援": {
+  "gloss": "to rescue; to come to the aid of; rescue"
+ },
+ "嫌": {
+  "gloss": "to dislike; to complain about; to find fault with"
+ },
+ "指控": {
+  "gloss": "to accuse; to charge; accusation"
+ },
+ "境界": {
+  "gloss": "state; realm; level of attainment; boundary"
+ },
+ "背包": {
+  "gloss": "backpack; rucksack (MW: 个 gè)"
+ },
+ "携带": {
+  "gloss": "to carry (on one's person)"
+ },
+ "虐待": {
+  "reading": "nüè dài"
+ },
+ "偏": {
+  "gloss": "slanted; leaning; biased; (adv.) stubbornly, contrary to expectation",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "复活": {
+  "gloss": "to come back to life; to revive; resurrection (religion)"
+ },
+ "书写": {
+  "gloss": "to write (formal); writing"
+ },
+ "挨": {
+  "gloss": "ái: to suffer; to endure; to get (scolded, beaten); to drag out (time) | āi: to be next to; to be close to; in turn"
+ },
+ "熬": {
+  "gloss": "áo: to stay up late; to endure (hardship); to simmer; to stew | āo: to boil (vegetables)"
+ },
+ "总体": {
+  "gloss": "overall; as a whole; the whole"
+ },
+ "陪伴": {
+  "gloss": "to accompany; to keep company; company"
+ },
+ "启发": {
+  "gloss": "to inspire; to enlighten; to stimulate thinking; inspiration"
+ },
+ "货物": {
+  "gloss": "goods; cargo; merchandise"
+ },
+ "顺": {
+  "gloss": "to follow; to go along with; smooth; (prep) along",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "天赋": {
+  "gloss": "natural talent; gift"
+ },
+ "随手": {
+  "gloss": "conveniently; casually; (do sth) in passing, without extra trouble; at hand"
+ },
+ "证书": {
+  "gloss": "certificate; credentials (MW: 张 zhāng)"
+ },
+ "骚扰": {
+  "gloss": "to harass; to disturb; to pester"
+ },
+ "喜悦": {
+  "gloss": "joy; delight; (adj) joyful",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "人心": {
+  "gloss": "people's hearts; popular sentiment; public feeling"
+ },
+ "同胞": {
+  "gloss": "fellow countryman; compatriot; (full) sibling"
+ },
+ "特性": {
+  "gloss": "characteristic; property; feature"
+ },
+ "专用": {
+  "gloss": "dedicated; for exclusive use; for a specific purpose",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "融合": {
+  "gloss": "to fuse; to merge; to blend; fusion"
+ },
+ "支票": {
+  "gloss": "check; cheque (MW: 张 zhāng)"
+ },
+ "研发": {
+  "gloss": "to research and develop; R&D"
+ },
+ "干掉": {
+  "gloss": "to get rid of; to knock off; to bump off (colloquial)"
+ },
+ "比起": {
+  "pos": "post",
+  "posName": "preposition"
+ },
+ "有毒": {
+  "gloss": "poisonous; toxic",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "净": {
+  "gloss": "only; nothing but; all the time (doing sth); net (weight, income); clean",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "内地": {
+  "gloss": "mainland (China, as opposed to Hong Kong/Macau/Taiwan); inland",
+  "pos": "n",
+  "posName": "location word"
+ },
+ "漏": {
+  "gloss": "to leak; to leave out by mistake; to omit; to divulge"
+ },
+ "琴": {
+  "gloss": "stringed instrument (zither, piano, etc.); guqin"
+ },
+ "超人": {
+  "gloss": "Superman; superhuman (person)"
+ },
+ "配备": {
+  "gloss": "to equip with; to provide; to allocate"
+ },
+ "一号": {
+  "gloss": "the 1st (day of the month); number one; No. 1"
+ },
+ "捐": {
+  "gloss": "to donate; to contribute (money, blood)"
+ },
+ "体操": {
+  "gloss": "gymnastics; calisthenics"
+ },
+ "有害": {
+  "gloss": "harmful"
+ },
+ "荣耀": {
+  "pos": "n",
+  "posName": "noun"
+ },
+ "出身": {
+  "gloss": "family background; origin; (verb) to come from a certain background",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "妹子": {
+  "gloss": "girl; young woman (colloquial); younger sister (regional)"
+ },
+ "灿烂": {
+  "gloss": "brilliant; splendid; radiant"
+ },
+ "不明": {
+  "gloss": "unknown; unclear; unidentified",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "珠宝": {
+  "gloss": "jewelry; jewels; gems"
+ },
+ "高清": {
+  "gloss": "high-definition; HD",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "主导": {
+  "gloss": "to lead; to dominate; (adj) leading, dominant",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "强盗": {
+  "gloss": "robber; bandit (MW: 个 gè)"
+ },
+ "同步": {
+  "gloss": "to synchronize; synchronous; in sync"
+ },
+ "决策": {
+  "gloss": "decision-making; policy decision; to make strategic decisions"
+ },
+ "寸": {
+  "gloss": "cun, a traditional unit of length (about 3.3 cm); inch"
+ },
+ "从中": {
+  "gloss": "from among them; from it; therein"
+ },
+ "不得": {
+  "gloss": "must not; may not; not allowed to (formal)"
+ },
+ "警官": {
+  "gloss": "police officer"
+ },
+ "众人": {
+  "gloss": "everyone; the crowd; all people"
+ },
+ "请进": {
+  "gloss": "please come in"
+ },
+ "小事": {
+  "gloss": "trifle; trivial matter; small thing"
+ },
+ "分解": {
+  "gloss": "to break down; to decompose; to resolve"
+ },
+ "折腾": {
+  "gloss": "to toss and turn; to mess about; to torment; to make a fuss"
+ },
+ "番": {
+  "gloss": "(MW for actions/events, e.g. 一番) a round of; time(s); foreign (dated)"
+ },
+ "一律": {
+  "gloss": "uniformly; without exception; all; (all) the same"
+ },
+ "浏览": {
+  "gloss": "to browse (e.g. web pages, galleries); to skim through"
+ },
+ "磅": {
+  "gloss": "pound (unit of weight, about 454 g); platform scale; to weigh"
+ },
+ "不顾": {
+  "gloss": "to disregard; to ignore; in spite of; regardless of"
+ },
+ "要死": {
+  "gloss": "to be going to die; (after 得) extremely, awfully, e.g. 累得要死 'dead tired'"
+ },
+ "扑": {
+  "gloss": "to pounce on; to throw oneself at; to beat out (a fire); to devote oneself to"
+ },
+ "多多": {
+  "gloss": "much; a lot; as much as possible (e.g. 多多保重 'take good care of yourself')",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "沿着": {
+  "gloss": "along; to follow (a road, river, etc.)"
+ },
+ "上台": {
+  "gloss": "to go on stage; to step onto the platform; to come to power"
+ },
+ "铜": {
+  "gloss": "copper (the metal) (MW: 块 kuài)"
+ },
+ "应对": {
+  "gloss": "to deal with; to cope with; to respond to"
+ },
+ "过后": {
+  "gloss": "afterwards; after it is over"
+ },
+ "长久": {
+  "gloss": "long-lasting; (for a) long time; lasting"
+ },
+ "创": {
+  "gloss": "chuàng: to create; to start; to found; to set (a record) | chuāng: a wound (in compounds)"
+ },
+ "大片": {
+  "gloss": "a large expanse (of); a vast stretch; blockbuster (film)"
+ },
+ "摩托": {
+  "gloss": "motorcycle (short for 摩托车); motor"
+ },
+ "先前": {
+  "gloss": "previously; earlier; before"
+ },
+ "拿下": {
+  "gloss": "to take down; to capture; to win (a game, contract); to arrest"
+ },
+ "告": {
+  "gloss": "to sue; to tell; to announce; to report (mostly in compounds like 告诉)"
+ },
+ "验证": {
+  "gloss": "to verify; to validate; to test (a theory); to authenticate"
+ },
+ "强度": {
+  "gloss": "strength; intensity"
+ },
+ "汉堡": {
+  "gloss": "hamburger; Hamburg (city in Germany)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "一手": {
+  "gloss": "a skill; a knack (as in 有一手); a fine hand at something (写得一手好字)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "部署": {
+  "gloss": "to deploy; to arrange; deployment"
+ },
+ "坚固": {
+  "gloss": "sturdy; solid; firm"
+ },
+ "漏洞": {
+  "gloss": "loophole; hole; leak; (security) vulnerability"
+ },
+ "不准": {
+  "gloss": "not allowed; to forbid; (of a clock, aim, etc.) not accurate"
+ },
+ "露出": {
+  "gloss": "to show; to reveal; to expose"
+ },
+ "终结": {
+  "gloss": "to end; to terminate; to come to an end; end; conclusion"
+ },
+ "喷": {
+  "gloss": "pēn: to spurt; to spray; to puff out | pèn: (in compounds like 喷香) strongly fragrant"
+ },
+ "高层": {
+  "gloss": "senior leadership; high level; upper floors"
+ },
+ "无人": {
+  "gloss": "nobody; no one; unmanned (e.g. 无人机 drone)"
+ },
+ "无力": {
+  "gloss": "powerless; lacking strength; unable (to do something)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "前方": {
+  "gloss": "ahead; in front; the front (area)",
+  "posName": "location word"
+ },
+ "自行": {
+  "gloss": "by oneself; on one's own; of one's own accord"
+ },
+ "蠢": {
+  "gloss": "stupid; foolish; clumsy"
+ },
+ "明日": {
+  "gloss": "tomorrow (written/formal; spoken: 明天)"
+ },
+ "公共汽车": {
+  "pos": "n",
+  "posName": "noun"
+ },
+ "堵车": {
+  "gloss": "to be stuck in a traffic jam; (of traffic) to get congested; traffic jam"
+ },
+ "课文": {
+  "gloss": "text of a lesson; lesson text (in a textbook) (MW: 篇 piān)"
+ },
+ "打篮球": {
+  "pos": "v",
+  "posName": "verb"
+ },
+ "湿润": {
+  "gloss": "moist; damp; humid"
+ },
+ "一路顺风": {
+  "gloss": "have a good trip; bon voyage",
+  "posName": "idiom"
+ },
+ "读音": {
+  "gloss": "pronunciation (of a character); reading"
+ },
+ "前边": {
+  "gloss": "front; in front; ahead"
+ },
+ "挺好": {
+  "gloss": "pretty good; quite well; fine",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "连忙": {
+  "gloss": "hurriedly; promptly; at once"
+ },
+ "绿茶": {
+  "gloss": "green tea"
+ },
+ "不一定": {
+  "gloss": "not necessarily; not certain",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "听写": {
+  "gloss": "dictation; to take dictation; to write down what is read aloud"
+ },
+ "一路平安": {
+  "gloss": "bon voyage; have a safe trip",
+  "pos": "v",
+  "posName": "idiom"
+ },
+ "预习": {
+  "gloss": "to prepare lessons before class; to preview"
+ },
+ "有一些": {
+  "gloss": "to have some; there are some; (before adjectives) somewhat, a bit",
+  "pos": "v",
+  "posName": "phrase"
+ },
+ "不客气": {
+  "gloss": "you're welcome; don't mention it; (to be) impolite, to not stand on ceremony",
+  "pos": "interj",
+  "posName": "phrase"
+ },
+ "请坐": {
+  "pos": "v",
+  "posName": "phrase"
+ },
+ "填空": {
+  "gloss": "to fill in a blank (on an exam or form); to fill a vacancy"
+ },
+ "分之": {
+  "gloss": "(fraction marker) as in 五分之四 'four fifths'"
+ },
+ "放暑假": {
+  "pos": "v",
+  "posName": "phrase"
+ },
+ "了": {
+  "gloss": "(particle) marks a completed action (after a verb); (sentence-final) marks a new situation or change of state"
+ },
+ "说": {
+  "gloss": "to say; to speak, talk; to explain; to scold"
+ },
+ "会": {
+  "gloss": "can, to know how to (a learned skill); will, to be likely to; to meet, get together | kuài: (in 会计) accounting"
+ },
+ "为": {
+  "gloss": "(preposition) for, for the benefit of; because of | wéi: to be; to act as; to do"
+ },
+ "他们": {
+  "gloss": "they; them"
+ },
+ "现在": {
+  "gloss": "now; at present; at the moment"
+ },
+ "用": {
+  "gloss": "to use; to employ; (in negatives) to need to (不用 'no need'); (formal) to eat or drink"
+ },
+ "爱": {
+  "gloss": "to love; to like, be fond of; to be inclined to, tend to; love, affection"
+ },
+ "真的": {
+  "gloss": "really, truly; real, true, genuine"
+ },
+ "虽然": {
+  "gloss": "although; even though (often paired with 但是, 可是 or 却)"
+ },
+ "自由": {
+  "pos": "n",
+  "posName": "noun"
+ },
+ "生命": {
+  "gloss": "life; living being (MW: 个 gè, 条 tiáo)"
+ },
+ "办": {
+  "gloss": "to handle; to do; to manage; to hold (an event); to set up"
+ },
+ "卖": {
+  "gloss": "to sell; to betray; to show off"
+ },
+ "房子": {
+  "gloss": "house; building; apartment (MW: 栋 dòng, 幢 chuáng)"
+ },
+ "马": {
+  "gloss": "horse; (chess) horse or knight (MW: 匹 pǐ)"
+ },
+ "门": {
+  "gloss": "door; gate; entrance (MW: 扇 shàn, 个 gè)"
+ },
+ "后来": {
+  "gloss": "afterwards; later (only for past events)"
+ },
+ "增加": {
+  "gloss": "to increase; to add; to raise"
+ },
+ "说明": {
+  "gloss": "to explain; to indicate, show; (n.) explanation, directions"
+ },
+ "办公室": {
+  "gloss": "office (MW: 间 jiān, 个 gè)"
+ },
+ "妹妹": {
+  "gloss": "younger sister"
+ },
+ "随时": {
+  "gloss": "at any time; at all times; whenever necessary"
+ },
+ "这儿": {
+  "reading": "zhèr"
+ },
+ "留": {
+  "gloss": "to stay; to remain; to keep; to leave behind (a message etc)"
+ },
+ "兴趣": {
+  "gloss": "interest (in sth); hobby (MW: 个 gè)"
+ },
+ "大人": {
+  "gloss": "adult; grown-up; (archaic) title of respect for a superior"
+ },
+ "那边": {
+  "gloss": "over there; that side"
+ },
+ "菜": {
+  "gloss": "dish (type of food); vegetable; cuisine (MW: 盘 pán, 道 dào)"
+ },
+ "足够": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "满": {
+  "gloss": "full; filled; packed; to fill"
+ },
+ "一生": {
+  "gloss": "one's whole life; lifetime"
+ },
+ "宝贝": {
+  "gloss": "darling; sweetheart; baby (term of endearment); treasure"
+ },
+ "空间": {
+  "gloss": "space; room; (fig.) scope; leeway; outer space"
+ },
+ "不行": {
+  "gloss": "not okay; won't do; no good; not allowed; (colloq.) not capable"
+ },
+ "交流": {
+  "gloss": "to communicate; to exchange (ideas, experiences); communication; interaction"
+ },
+ "主人": {
+  "gloss": "owner; host; master (MW: 个 gè)"
+ },
+ "导致": {
+  "gloss": "to lead to; to result in; to cause; to bring about"
+ },
+ "高级": {
+  "gloss": "high-grade; upscale; advanced; high-ranking"
+ },
+ "地上": {
+  "posName": "location word"
+ },
+ "页": {
+  "gloss": "page (measure word for pages); leaf"
+ },
+ "东方": {
+  "gloss": "east; the East (the Orient)",
+  "posName": "location word"
+ },
+ "形式": {
+  "gloss": "form; type; format; outward appearance; formality (MW: 种 zhǒng)"
+ },
+ "积极": {
+  "gloss": "positive; proactive; active; energetic"
+ },
+ "将来": {
+  "gloss": "future; in the future (MW: 个 gè)"
+ },
+ "长期": {
+  "gloss": "long-term; over a long period"
+ },
+ "教授": {
+  "gloss": "jiào shòu: professor (MW: 位 wèi) | jiāo shòu: to teach; to instruct"
+ },
+ "蓝": {
+  "gloss": "blue"
+ },
+ "绿": {
+  "gloss": "green; (slang) to cheat on one's partner"
+ },
+ "游泳": {
+  "gloss": "to swim; swimming"
+ },
+ "估计": {
+  "gloss": "to estimate; to reckon; (colloquial) to guess, to suppose"
+ },
+ "黑暗": {
+  "gloss": "dark; darkness"
+ },
+ "南方": {
+  "pos": "n",
+  "posName": "location word"
+ },
+ "儿童": {
+  "gloss": "child; children"
+ },
+ "好奇": {
+  "gloss": "curious; inquisitive; curiosity"
+ },
+ "播放": {
+  "gloss": "to play (audio/video); to broadcast; to air"
+ },
+ "高速": {
+  "gloss": "high speed; expressway (short for 高速公路)"
+ },
+ "星星": {
+  "gloss": "star; the stars in the sky"
+ },
+ "网上": {
+  "gloss": "on the Internet; online",
+  "pos": "n",
+  "posName": "location word"
+ },
+ "工程": {
+  "gloss": "engineering project; construction project; engineering (field of study) (MW: 个 gè, 项 xiàng)"
+ },
+ "号码": {
+  "gloss": "number (telephone number, serial number, etc.) (MW: 个 gè)"
+ },
+ "消费": {
+  "gloss": "to consume; to spend; consumption"
+ },
+ "利益": {
+  "gloss": "interests; benefit; advantage"
+ },
+ "右边": {
+  "gloss": "right side; the right; to the right"
+ },
+ "服装": {
+  "gloss": "clothing; clothes; apparel; costume (MW: 身 shēn)"
+ },
+ "详细": {
+  "gloss": "detailed; thorough; in detail"
+ },
+ "椅子": {
+  "gloss": "chair (MW: 把 bǎ)"
+ },
+ "材料": {
+  "gloss": "material; ingredients; data, documents; (fig.) person suited for a job"
+ },
+ "集体": {
+  "gloss": "collective; group; team; (as adj.) joint, group"
+ },
+ "推进": {
+  "gloss": "to advance; to push forward; to carry forward; to impel"
+ },
+ "老是": {
+  "reading": "lǎo shì"
+ },
+ "傻": {
+  "gloss": "silly; foolish; stupid"
+ },
+ "不必": {
+  "gloss": "need not; does not have to; there is no need to"
+ },
+ "试验": {
+  "gloss": "experiment; test; trial; to experiment (MW: 次 cì, 个 gè)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "而是": {
+  "gloss": "but rather; instead (follows a negative clause)"
+ },
+ "收费": {
+  "gloss": "to charge a fee; (n.) charge, fee"
+ },
+ "最高": {
+  "gloss": "highest; tallest; supreme (court etc)"
+ },
+ "俱乐部": {
+  "gloss": "club (the organisation or its premises) (MW: 个 gè)"
+ },
+ "巧克力": {
+  "gloss": "chocolate (MW: 块 kuài)"
+ },
+ "气候": {
+  "gloss": "climate; (fig.) prevailing conditions or trends (MW: 种 zhǒng)"
+ },
+ "沉默": {
+  "gloss": "silent; to keep silent; silence; taciturn"
+ },
+ "演唱": {
+  "gloss": "to sing in performance; to perform a song; vocal performance"
+ },
+ "凭": {
+  "gloss": "to rely on; on the basis of; (凭什么) on what grounds; to lean against"
+ },
+ "公交车": {
+  "gloss": "bus (public transit); city bus (MW: 辆 liàng)"
+ },
+ "除非": {
+  "gloss": "(conjunction) unless; only if (..., otherwise ...)"
+ },
+ "通信": {
+  "gloss": "communication; telecommunications; to correspond (by letter)"
+ },
+ "西北": {
+  "pos": "n",
+  "posName": "location word"
+ },
+ "西南": {
+  "pos": "n",
+  "posName": "location word"
+ },
+ "创业": {
+  "gloss": "to start a business; to launch a venture; to begin an undertaking"
+ },
+ "展示": {
+  "gloss": "to display; to show; to exhibit; to reveal"
+ },
+ "牌子": {
+  "gloss": "brand; trademark; sign; plate"
+ },
+ "初级": {
+  "gloss": "elementary; beginner-level; primary"
+ },
+ "华人": {
+  "reading": "huá rén"
+ },
+ "盘": {
+  "gloss": "plate; dish; tray; (measure word) for dishes of food, tapes, discs, board games"
+ },
+ "薄": {
+  "reading": "báo",
+  "gloss": "báo: thin (not thick); cold in manner | bó: meager; slight; weak"
+ },
+ "醉": {
+  "gloss": "drunk; intoxicated; to get drunk",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "胖子": {
+  "gloss": "fat person; fatty (can be impolite)"
+ },
+ "家族": {
+  "gloss": "clan; extended family; lineage"
+ },
+ "不足": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "不见": {
+  "gloss": "to have disappeared; to be missing (usually 不见了); not to see; not to meet"
+ },
+ "弱": {
+  "gloss": "weak; feeble; inferior; not as good as"
+ },
+ "杀人": {
+  "gloss": "to kill (a person); to murder; homicide",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "袭击": {
+  "gloss": "to attack (esp. by surprise); to raid; to strike (of storms, disasters); surprise attack"
+ },
+ "微博": {
+  "gloss": "microblog; Weibo (Chinese microblogging site); a microblog post"
+ },
+ "中级": {
+  "gloss": "intermediate level; mid-level"
+ },
+ "空中": {
+  "posName": "location word"
+ },
+ "代理": {
+  "gloss": "to act on behalf of; to act as agent; agent; (computing) proxy"
+ },
+ "资产": {
+  "gloss": "assets; property (wealth)"
+ },
+ "志愿": {
+  "gloss": "aspiration; ambition; (university) application choice; to volunteer"
+ },
+ "最佳": {
+  "gloss": "best; optimal; ideal (e.g. best choice, best actor)"
+ },
+ "短裤": {
+  "gloss": "shorts (MW: 条 tiáo)"
+ },
+ "新型": {
+  "gloss": "new-type; of a new kind"
+ },
+ "线索": {
+  "gloss": "clue; lead; thread (of a story)"
+ },
+ "脱离": {
+  "gloss": "to break away from; to separate oneself from; to be divorced from"
+ },
+ "封闭": {
+  "gloss": "to seal off; to close (a road, etc.); closed; isolated"
+ },
+ "细": {
+  "gloss": "thin; slender (of thread, sticks); fine; detailed"
+ },
+ "街头": {
+  "gloss": "streets; street corner; (out) on the street"
+ },
+ "隔壁": {
+  "pos": "n",
+  "posName": "location word"
+ },
+ "专心": {
+  "gloss": "absorbed; focused; to concentrate one's attention (on doing sth)"
+ },
+ "堆": {
+  "gloss": "pile; heap; (MW) for piles, crowds, masses (一堆书 a pile of books); to pile up"
+ },
+ "大姐": {
+  "gloss": "elder sister; eldest sister; (polite address to a woman somewhat older than oneself)"
+ },
+ "眼神": {
+  "gloss": "look in one's eyes; expression of the eyes; meaningful glance"
+ },
+ "残酷": {
+  "gloss": "cruel; brutal; harsh; (n.) cruelty"
+ },
+ "风暴": {
+  "gloss": "storm; (fig.) turmoil, crisis (e.g. political or financial)"
+ },
+ "诱惑": {
+  "gloss": "to tempt; to entice; to lure; (n.) temptation"
+ },
+ "情节": {
+  "gloss": "plot; storyline; (legal) circumstances of a case"
+ },
+ "询问": {
+  "gloss": "to ask about; to inquire"
+ },
+ "收藏": {
+  "gloss": "to collect (art, stamps, antiques); to save/bookmark; (n.) collection"
+ },
+ "做事": {
+  "gloss": "to do things; to handle matters; to work (at a job)"
+ },
+ "塑料": {
+  "gloss": "plastic (the material)"
+ },
+ "脆弱": {
+  "gloss": "fragile; frail; vulnerable"
+ },
+ "腐败": {
+  "gloss": "corruption; corrupt; to rot; rotten"
+ },
+ "无比": {
+  "gloss": "extremely; incomparably (before an adjective); matchless"
+ },
+ "常识": {
+  "gloss": "common sense; general knowledge"
+ },
+ "闯": {
+  "gloss": "to rush; to barge in; to break through; to run (a red light); to venture out"
+ },
+ "高尚": {
+  "gloss": "noble; lofty; refined (of character)"
+ },
+ "晕": {
+  "gloss": "yūn: dizzy; to faint, pass out | yùn: dizzy (as in 晕车 carsick); halo"
+ },
+ "名片": {
+  "gloss": "business card; name card"
+ },
+ "严": {
+  "gloss": "strict; stern; tight (closely sealed); rigorous"
+ },
+ "转动": {
+  "reading": "zhuǎn dòng",
+  "gloss": "zhuǎn dòng: to turn; to swivel; to move around | zhuàn dòng: to rotate; to revolve"
+ },
+ "讲究": {
+  "gloss": "to be particular about; to pay attention to; (adj.) exquisite, tasteful"
+ },
+ "裁判": {
+  "gloss": "referee; umpire; (v.) to referee; judgment (MW: 个 gè, 位 wèi)"
+ },
+ "诗歌": {
+  "gloss": "poetry; poem (MW: 首 shǒu)"
+ },
+ "注射": {
+  "gloss": "to inject; injection"
+ },
+ "贵族": {
+  "gloss": "aristocrat; nobleman or noblewoman; the nobility"
+ },
+ "养成": {
+  "gloss": "to form (a habit); to cultivate; to acquire; to raise"
+ },
+ "地带": {
+  "gloss": "zone; area; region (of land)"
+ },
+ "孙女": {
+  "gloss": "granddaughter (son's daughter)"
+ },
+ "全力": {
+  "gloss": "all one's strength; full effort; (adverbially) with all one's might, fully",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "抹": {
+  "gloss": "mǒ: to apply (ointment, paint); to smear; to wipe; to erase | mā: to wipe | mò: to plaster"
+ },
+ "学问": {
+  "gloss": "learning; knowledge; a field of study (MW: 门 mén)"
+ },
+ "艺人": {
+  "gloss": "entertainer; performer; performing artist"
+ },
+ "悲哀": {
+  "gloss": "sorrowful; grieved; (noun) sorrow, sadness"
+ },
+ "代码": {
+  "gloss": "(computer) code; code (identifying number or symbol)"
+ },
+ "首席": {
+  "gloss": "chief; principal; top-ranking (e.g. first-chair player, chief designer)"
+ },
+ "见证": {
+  "gloss": "to witness; to bear witness to; witness; testimony",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "支配": {
+  "gloss": "to allocate; to manage (money, time); to have at one's disposal; to control"
+ },
+ "模拟": {
+  "gloss": "to simulate; to imitate; mock; simulated; analog (as opposed to digital)"
+ },
+ "预约": {
+  "gloss": "to book; to make an appointment or reservation; appointment; reservation"
+ },
+ "那会儿": {
+  "reading": "nà huìr",
+  "pos": "n",
+  "posName": "time word"
+ },
+ "坏事": {
+  "gloss": "bad thing; misdeed; (verb) to spoil things"
+ },
+ "划船": {
+  "gloss": "to row a boat; rowing (sport)"
+ },
+ "跳高": {
+  "gloss": "high jump (athletics); to do the high jump",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "跳远": {
+  "gloss": "long jump (athletics); to do the long jump",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "婆婆": {
+  "gloss": "mother-in-law (husband's mother); respectful term for an elderly woman"
+ },
+ "地下": {
+  "pos": "n",
+  "posName": "location word"
+ },
+ "球场": {
+  "gloss": "sports field; court; pitch; stadium (MW: 个 gè, 处 chù)"
+ }
+}

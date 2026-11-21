@@ -1,0 +1,9027 @@
+{
+ "_comment": "Hand and review-pass corrections for tools/generate_deck_tr.py. _drop removes a word; other keys override gloss/gloss/pos/posName for that word.",
+ "_drop": [
+  "da",
+  "mı",
+  "olur",
+  "mu",
+  "bilemek",
+  "in",
+  "dilmek",
+  "se",
+  "gelen",
+  "al",
+  "mü",
+  "yanında",
+  "çıktı",
+  "tabi",
+  "la",
+  "bulamak",
+  "karı",
+  "te",
+  "geçer",
+  "seks",
+  "le",
+  "üstüne",
+  "ABD",
+  "döner",
+  "tan",
+  "yâd",
+  "verici",
+  "imek",
+  "is",
+  "has",
+  "koy",
+  "ettirmek",
+  "ak",
+  "it",
+  "sürümek",
+  "hatun",
+  "bası",
+  "doğan",
+  "testi",
+  "sav",
+  "çekecek",
+  "he",
+  "keser",
+  "re",
+  "zenci",
+  "susanmak",
+  "tak",
+  "halim",
+  "sin",
+  "aleyh",
+  "yâr",
+  "murat",
+  "onlar",
+  "sunu",
+  "batman",
+  "harp",
+  "peder",
+  "gözlü",
+  "âmâ",
+  "fatih",
+  "yılmaz",
+  "kut",
+  "aya",
+  "nice",
+  "ab",
+  "yağı",
+  "Akdeniz",
+  "recep",
+  "akı",
+  "ağı",
+  "yak",
+  "ar",
+  "kadir",
+  "adem",
+  "hadis",
+  "azmak",
+  "cenk",
+  "ilmek",
+  "mersin",
+  "akar",
+  "akis",
+  "oba",
+  "je",
+  "amber",
+  "gayri",
+  "us",
+  "muş",
+  "sperm",
+  "suna",
+  "ziya",
+  "ge",
+  "seda",
+  "ozan",
+  "som",
+  "erotik",
+  "zarfında",
+  "kari",
+  "orgazm",
+  "nan",
+  "sör",
+  "aş",
+  "esen",
+  "ışıl",
+  "mösyö",
+  "müdafaa",
+  "cihan",
+  "fe",
+  "striptiz",
+  "karamak",
+  "Karadeniz",
+  "aza",
+  "yavuz",
+  "tanış",
+  "berk",
+  "yedi",
+  "kâmil",
+  "matmazel",
+  "majeste",
+  "karlamak",
+  "pe",
+  "sahra",
+  "denet",
+  "serdar",
+  "camii",
+  "levent",
+  "alp",
+  "bayraktar",
+  "basma",
+  "hazret",
+  "ilhan",
+  "travesti",
+  "arya",
+  "okey",
+  "met",
+  "yalçın",
+  "polat",
+  "balkan",
+  "cihat",
+  "titan",
+  "elif",
+  "pin",
+  "erkân",
+  "planet",
+  "single",
+  "stat",
+  "hadım",
+  "saka",
+  "yeğ",
+  "çat",
+  "fire",
+  "haydamak",
+  "genelev",
+  "çökermek",
+  "tin",
+  "ezel",
+  "keş",
+  "ereksiyon",
+  "izzet",
+  "efe",
+  "irfan",
+  "cenap",
+  "bun",
+  "ağızlı",
+  "ensest",
+  "necip",
+  "yataklık",
+  "hiper",
+  "bacı",
+  "server",
+  "ser",
+  "pir",
+  "tor",
+  "duy",
+  "beşer",
+  "faik",
+  "sual",
+  "üzümlü",
+  "altılı",
+  "programlanmak",
+  "özge",
+  "cumhur",
+  "chat",
+  "burunlu",
+  "çeçe",
+  "köse",
+  "erte",
+  "frengi",
+  "abdest",
+  "ülkücü",
+  "hidayet",
+  "kavim",
+  "müge",
+  "tulû",
+  "şaşılmak",
+  "sikke",
+  "kadı",
+  "piercing",
+  "acun",
+  "kıvanç",
+  "cariye",
+  "meni",
+  "funda",
+  "sağlıcakla",
+  "mektep",
+  "attırmak",
+  "bostancı",
+  "Ünye",
+  "baran",
+  "buğra",
+  "maarif",
+  "şark",
+  "şe",
+  "hicret",
+  "lala",
+  "abdal",
+  "yeniçeri",
+  "başsız",
+  "ardıç",
+  "Gediz",
+  "engerek",
+  "biberli",
+  "reva",
+  "subaşı",
+  "akdoğan",
+  "zekât",
+  "kıyafetli",
+  "jale",
+  "kıble",
+  "kulaklı",
+  "utku",
+  "lanse",
+  "ortaç",
+  "musiki",
+  "mücahit",
+  "torbalı",
+  "talebe",
+  "aymak",
+  "nazır",
+  "kamer",
+  "Fatsa",
+  "alperen",
+  "buse",
+  "seki",
+  "sevmemek",
+  "alacak",
+  "han",
+  "ala",
+  "sözleşmek",
+  "atışmak",
+  "yazın",
+  "gebermek",
+  "nam",
+  "katar",
+  "holding",
+  "oya",
+  "iskender",
+  "bora",
+  "bakir",
+  "start",
+  "bebe",
+  "ekler",
+  "dilli",
+  "testis",
+  "ümmet",
+  "çolak",
+  "zikir",
+  "vız",
+  "jokey"
+ ],
+ "_drop_reasons": {
+  "da": "vowel-harmony variant of de",
+  "mı": "vowel-harmony variant of mi",
+  "olur": "inflected form of olmak (aorist)",
+  "mu": "vowel-harmony variant of mi",
+  "bilemek": "analyser artefact (bilmek/bilet wrongly matched)",
+  "in": "analyser artefact: sentences are the verb inmek (to go down); not a core noun",
+  "dilmek": "analyser artefact: sentences are dil (language) and dilemek (to wish/ask for); dilmek (to slice) is rare",
+  "se": "analyser artefact: letter name 'se'; sentences are sence",
+  "gelen": "participle (gelen) of gelmek, not an ordinary headword",
+  "al": "analyser artefact: frequency comes from the imperative of almak; the colour word is rare",
+  "mü": "vowel-harmony variant of mi (question particle)",
+  "yanında": "possessive-locative form of yan",
+  "çıktı": "finite past form of çıkmak; noun sense is niche",
+  "tabi": "obscure sense; sentences use misspelled tabii ki",
+  "la": "vulgar interjection (ulan), not core vocabulary",
+  "bulamak": "analyser artefact; learner needs bulmak (sentences use bulmak)",
+  "karı": "derogatory term; sentence 2 is a homograph (kar + accusative)",
+  "te": "name of the letter T; sentences do not contain the word",
+  "geçer": "finite verb form (aorist of geçmek)",
+  "seks": "sexual/vulgar",
+  "le": "letter name / analyser artefact",
+  "üstüne": "inflected form (possessive+dative) of üst; not a headword",
+  "ABD": "abbreviation / proper noun",
+  "döner": "finite verb form of dönmek (analyser artefact)",
+  "tan": "obscure/poetic word; sentences match other words (tanım, tanınmış)",
+  "yâd": "archaic/Ottoman word (yâd)",
+  "verici": "participle/suffix-like form (heyecan verici, utanç verici), not a real standalone headword",
+  "imek": "analyser artefact (copula imek); learner needs the suffix/copula, not a headword",
+  "is": "frequency artefact of English 'is'; 'is' (soot) is rare for a core list",
+  "has": "frequency artefact of English 'has'; sentences use hasta; rare headword",
+  "koy": "analyser artefact: sentences are imperative of koymak; koy (cove) is rare",
+  "ettirmek": "rare causative of etmek, analyser artefact",
+  "ak": "poetic/archaic variant of beyaz",
+  "it": "derogatory/archaic word for dog (köpek is the normal word); confusable with English 'it'",
+  "sürümek": "analyser artefact / rare variant of sürmek (to drive; to lead; to last)",
+  "hatun": "slang/dated word for woman; sentences also contain a name",
+  "bası": "wrong headword (analyser artefact for basın); bası is not the word taught",
+  "doğan": "sentences use the participle doğan; the falcon sense is rare and mostly a name",
+  "testi": "matches the loan 'test'; jug sense is rare and sentences use a different word",
+  "sav": "obscure legal/math term; sentences use savcılık and savmak",
+  "çekecek": "analyser artefact: çekecek (shoehorn) matched the future of çekmek",
+  "he": "letter name / rare interjection; not a useful entry",
+  "keser": "obscure tool term; sentences use verb kesmek",
+  "re": "letter/musical note name; sentences are about 'ren' (reindeer)",
+  "zenci": "dated and offensive term for Black people",
+  "susanmak": "rare variant; learners need susamak",
+  "tak": "obscure noun (arch); sentences use imperative of takmak",
+  "halim": "analyser artefact; sentences use hal + possessive (halim = my state)",
+  "sin": "analyser artefact: sin (grave) is not what the sentences use (sinmek); rare",
+  "aleyh": "bound form, occurs only as aleyhine/aleyhinde; not a standalone core headword",
+  "yâr": "archaic/poetic word; attached sentence does not contain it",
+  "murat": "archaic/literary word and common personal name",
+  "onlar": "duplicate of the earlier core card onlar",
+  "sunu": "obscure; learners need sunum; sentences use sunum",
+  "batman": "proper noun (Batman / city); obscure Ottoman weight unit",
+  "harp": "dated/Ottoman-origin word for war (savaş is standard)",
+  "peder": "obscure/dated word (priest, archaic 'father')",
+  "gözlü": "bound derived form (-li) only meaningful in compounds like aç gözlü",
+  "âmâ": "archaic Ottoman word; sentences are homographs of ama/amaç",
+  "fatih": "mainly a personal name; obscure as a common noun",
+  "yılmaz": "surname/proper name (Yılmaz); negative aorist of yılmak",
+  "kut": "archaic word (kut); sentences actually use kutu",
+  "aya": "analyser artefact: sentences use dative of ay (moon)",
+  "nice": "literary/archaic word; sentences use nicelik (quantity)",
+  "ab": "analyser artefact: sentences use the abbreviation AB (EU)",
+  "yağı": "analyser artefact: sentences use yağ (oil, fat); yağı is archaic",
+  "Akdeniz": "proper noun (sea name)",
+  "recep": "personal name (Recep)",
+  "akı": "obscure physics term; sentences actually use akıcı",
+  "ağı": "analyser artefact (ağ 'net' in possessive form; sentences use ağ)",
+  "yak": "obscure animal; sentences use yakmak imperative",
+  "ar": "analyser artefact; sentences are corrupted 'var'",
+  "kadir": "mainly a personal name; rare adjective (her şeye kadir) and obscure astronomy sense",
+  "adem": "personal name (Adam); archaic 'nonexistence' sense",
+  "hadis": "religious technical term, obscure for a core list",
+  "azmak": "rare verb; sentences use az (few), not azmak",
+  "cenk": "archaic/literary word for war",
+  "ilmek": "analyser artefact (ilmek); sentences are from ilerlemek",
+  "mersin": "obscure (myrtle); sentences use yaban mersini",
+  "akar": "analyser artefact: 'akar' is the aorist of akmak (to flow)",
+  "akis": "analyser artefact: sentences and common word are aksi (opposite, contrary); akis is obscure",
+  "oba": "obscure historical/regional term (nomad camp, clan)",
+  "je": "name of a letter; not a vocabulary word",
+  "amber": "obscure (ambergris); sentences confuse it with kehribar",
+  "gayri": "prefix-like element (gayri resmi is two words), not a standalone headword",
+  "us": "archaic/obscure; sentences use usta (master)",
+  "muş": "evidential suffix -muş / analyser artefact",
+  "sperm": "sexual/bodily term, not core vocabulary",
+  "suna": "obscure word (drake); sentences use sunmak",
+  "ziya": "archaic/name-like",
+  "ge": "name of the letter G; sentences mismatched",
+  "seda": "mostly a name; sentences use sedan",
+  "ozan": "name-like/obscure (bard)",
+  "som": "analyser artefact: som balığı is catfish (salmon is somon); sentences are about somun",
+  "erotik": "sexual",
+  "zarfında": "inflected (locative-possessive) form of zarf, not a headword",
+  "kari": "obscure religious term",
+  "orgazm": "sexual",
+  "nan": "archaic/Persian-origin word",
+  "sör": "foreign word (English 'sir') spelled in Turkish; colloquial",
+  "aş": "archaic/obscure word; its sentences match aşı and aşmak",
+  "esen": "participle of esmek (to blow); the 'healthy' sense is archaic",
+  "ışıl": "bare stem that only occurs in the reduplication ışıl ışıl",
+  "mösyö": "foreign (French) word, dated",
+  "müdafaa": "dated Arabic-origin variant of savunma",
+  "cihan": "literary/archaic; dünya is the everyday word",
+  "fe": "name of the letter F; sentences use fen",
+  "striptiz": "sexual content",
+  "karamak": "analyser artefact; sentences use kararmak and kâr; karamak is rare",
+  "Karadeniz": "proper noun (place)",
+  "aza": "archaic Ottoman word (üye is modern); sentences use az",
+  "yavuz": "mainly a personal name / archaic",
+  "tanış": "rare noun; analyser artefact of tanışmak",
+  "berk": "archaic/obscure",
+  "yedi": "duplicate of the earlier hand-written card for yedi (seven)",
+  "kâmil": "archaic/obscure, also a personal name",
+  "matmazel": "archaic/foreign (mademoiselle)",
+  "majeste": "only used in majesteleri; archaic/obscure",
+  "karlamak": "analyser artefact; rare verb, sentences use kâr/kar nouns",
+  "pe": "letter name; sentence uses pense",
+  "sahra": "proper noun (Sahara); çöl is the ordinary word",
+  "denet": "analyser artefact; real headword is denetim",
+  "serdar": "historical Ottoman title",
+  "camii": "spelling variant of cami",
+  "levent": "mostly a given name; obscure",
+  "alp": "obscure/archaic; mostly a given name; sentence uses Alp as the Alps",
+  "bayraktar": "obscure/historical; also a brand and surname",
+  "basma": "analyser artefact: negative imperative of basmak, not the noun",
+  "hazret": "title of respect used with names; archaic/religious",
+  "ilhan": "historical title / personal name",
+  "travesti": "offensive term; sentence shows a different word (travesty)",
+  "arya": "technical music term, too obscure for core list",
+  "okey": "foreign word 'OK' respelled; duplicate of loan interjection",
+  "met": "obscure; sentence uses English-derived abbreviation 'meth'",
+  "yalçın": "obscure poetic word, mostly a personal name",
+  "polat": "archaic; mostly a personal name (modern word is çelik)",
+  "balkan": "proper noun (Balkans) / obscure geographic term",
+  "cihat": "religious/historical term, politically loaded, also a personal name",
+  "titan": "ambiguous/obscure (titanium); modern word is titanyum",
+  "elif": "letter of the Arabic alphabet / personal name",
+  "pin": "wrong sense and English word (PIN)",
+  "erkân": "obscure Ottoman term",
+  "planet": "rare variant of common gezegen",
+  "single": "English word (single)",
+  "stat": "colloquial clipping of stadyum (duplicate)",
+  "hadım": "obscure/graphic term (eunuch)",
+  "saka": "obscure bird species (goldfinch); sentence matches a different word",
+  "yeğ": "archaic/literary; sentence is wrong",
+  "çat": "obscure/analyser artefact; sentences use other words",
+  "fire": "obscure technical term, looks like English word",
+  "haydamak": "archaic/obscure verb, only proverb",
+  "genelev": "sexual/vulgar topic",
+  "çökermek": "analyser artefact: sentence form is from çökmek; çökermek is not a real headword",
+  "tin": "archaic/literary rare word",
+  "ezel": "archaic/religious-philosophical term, obscure for core list",
+  "keş": "derogatory slang",
+  "ereksiyon": "sexual/vulgar",
+  "izzet": "archaic term / personal name",
+  "efe": "historical/regional term and personal name",
+  "irfan": "archaic/literary and a personal name",
+  "cenap": "archaic honorific / personal name",
+  "bun": "analyser artefact: bun is not a modern headword (sentences are bu + n)",
+  "ağızlı": "derived suffix-form adjective used only in compounds (-mouthed)",
+  "ensest": "sexual taboo term",
+  "necip": "archaic/literary; now mainly a personal name",
+  "yataklık": "obscure derived word",
+  "hiper": "prefix, not a standalone word",
+  "bacı": "dialectal/regional; standard word is kız kardeş",
+  "server": "English word spelled as in source language; gloss is wrong",
+  "ser": "archaic/Ottoman sense; sentences use serin (cool)",
+  "pir": "obscure religious term; sentences use other words (pirinç, pire)",
+  "tor": "obscure; sentences use other words (Tor, torun)",
+  "duy": "analyser artefact (imperative of duymak); obscure sense",
+  "beşer": "literary/archaic; homograph with beşer 'five each'; sentences use beşeri",
+  "faik": "archaic/literary and mostly a personal name",
+  "sual": "dated/Ottoman-style word, replaced by soru",
+  "üzümlü": "transparent derivative of üzüm; low value",
+  "altılı": "obscure for core list",
+  "programlanmak": "passive form; real headword is programlamak",
+  "özge": "archaic/literary; also a personal name",
+  "cumhur": "archaic/Ottoman; occurs mainly in compounds (cumhuriyet, cumhurbaşkanı)",
+  "chat": "English/French word spelled as in the source language",
+  "burunlu": "rare derived -lı adjective; not needed in core list",
+  "çeçe": "extremely obscure (tsetse fly)",
+  "köse": "obscure/rare adjective",
+  "erte": "analyser artefact (fragment of ertelemek, 'to postpone')",
+  "frengi": "sexually transmitted disease; obscure medical term",
+  "abdest": "ritual/religious technical term",
+  "ülkücü": "politically loaded term; gloss incorrect",
+  "hidayet": "religious term, rare in everyday use",
+  "kavim": "archaic; gloss incorrect (kavim = people, tribe)",
+  "müge": "obscure flower; also a personal name",
+  "tulû": "obscure Arabic-origin term; sentences actually use tulum",
+  "şaşılmak": "impersonal passive of şaşmak, only used in fixed forms like şaşılacak",
+  "sikke": "archaic/Ottoman word for coin (modern: madeni para, bozuk para)",
+  "kadı": "qadi: historical/Islamic-law term, obscure for core list; sentences do not contain the word",
+  "piercing": "English word spelled as in English",
+  "acun": "archaic/poetic word for world",
+  "kıvanç": "obscure, mostly known as a personal name",
+  "cariye": "historical term (female slave/concubine), obscure",
+  "meni": "sexual/anatomical vocabulary, explicit example",
+  "funda": "obscure plant (heath/heather)",
+  "sağlıcakla": "fixed farewell phrase element (sağlıcakla kalın), gloss wrong, not a core entry",
+  "mektep": "archaic/Ottoman word for school (modern: okul)",
+  "attırmak": "analyser artefact (causative of atmak); sentences use at 'horse'",
+  "bostancı": "historical Ottoman term",
+  "Ünye": "place name",
+  "baran": "personal name / obscure",
+  "buğra": "personal name / obscure",
+  "maarif": "archaic/official term; eğitim is the common word",
+  "şark": "archaic variant of doğu; sentences use şarkı",
+  "şe": "letter name; sentences use şey",
+  "hicret": "historical/religious term",
+  "lala": "obscure historical term",
+  "abdal": "obscure religious term",
+  "yeniçeri": "historical term",
+  "başsız": "obscure derived adjective",
+  "ardıç": "specific plant species, obscure",
+  "Gediz": "proper noun (river)",
+  "engerek": "specific animal species, obscure",
+  "biberli": "derived adjective of low value; sentences are about pepperoni, not biber",
+  "reva": "archaic/obscure (only in reva gormek)",
+  "subaşı": "historical Ottoman term",
+  "akdoğan": "specific bird species, obscure",
+  "zekât": "ritual/religious technical term",
+  "kıyafetli": "obscure derived adjective",
+  "jale": "obscure literary word, also a personal name",
+  "kıble": "ritual/religious technical term",
+  "kulaklı": "obscure derived adjective",
+  "utku": "rare purist word, also a personal name",
+  "lanse": "not a standalone word (lanse etmek, to launch)",
+  "ortaç": "grammar term (participle), too technical for core list",
+  "musiki": "archaic/literary variant of müzik",
+  "mücahit": "religious/political term, obscure for core list",
+  "torbalı": "analyser artefact / mostly a place name; transparent derivative",
+  "talebe": "archaic word for student (öğrenci); sentences are actually talep (demand)",
+  "aymak": "obscure verb; sentences match ay (month)",
+  "nazır": "Ottoman/archaic (minister, superintendent)",
+  "kamer": "archaic/poetic Arabic word (only in kameri ay)",
+  "Fatsa": "place name",
+  "alperen": "obscure and mostly a personal name",
+  "buse": "literary/poetic (öpücük is standard) and mostly a personal name",
+  "seki": "obscure word (raised stone platform)",
+  "sevmemek": "negated form of sevmek, not a separate headword",
+  "alacak": "analyser artefact: sentences use the future form of almak (alacak); noun sense is niche",
+  "han": "obscure/historical term (inn, caravanserai, khan)",
+  "ala": "analyser artefact; sentences are from almak (alalım); ala is an obscure adjective",
+  "sözleşmek": "analyser artefact: sözleşmek is rare, sentences use the noun sözleşme (contract)",
+  "atışmak": "analyser artefact: sentences are about atış (shot); atışmak rare",
+  "yazın": "analyser artefact: yazın is mainly 'in summer' (yaz+ın) or imperative of yazmak; rare neologism sense",
+  "gebermek": "vulgar slang (derogatory 'to croak')",
+  "nam": "archaic/obscure; only appears in compounds like namlı, nam salmak",
+  "katar": "rare word; sentences come from hesaba katmak; also confusable with Qatar",
+  "holding": "English word spelled as in the source language (holding)",
+  "oya": "obscure craft term (also a personal name); sentences actually contain oyalanmak",
+  "iskender": "specific dish name, also a personal name (İskender); too narrow for core list",
+  "bora": "obscure literary word, mainly known as a personal name",
+  "bakir": "ill-formed headword (noun is bakire); sexual sense, obscure adjective",
+  "start": "English word spelled as in English",
+  "bebe": "colloquial variant of standard bebek",
+  "ekler": "analyser artefact: sentences use verb ekler (adds); not a useful headword",
+  "dilli": "not a standalone dictionary headword; suffixed form (-li) used in compounds like iki dilli",
+  "testis": "anatomical genital term, low value for a core deck",
+  "ümmet": "specialised religious term, too narrow for a core deck",
+  "çolak": "rare term for a physical disability, potentially offensive",
+  "zikir": "religious ritual term, too specialised for core list",
+  "vız": "interjection-like fragment only used in the idiom 'vız gelmek'; not a standalone headword",
+  "jokey": "obscure for a core list (jockey)"
+ },
+ "de": {
+  "gloss": "also, too; and, as for (clitic, also da, te, ta)"
+ },
+ "var": {
+  "gloss": "there is, there are; (with possessive) to have"
+ },
+ "mi": {
+  "gloss": "question particle (also mı, mu, mü)"
+ },
+ "etmek": {
+  "gloss": "to do; to make (light verb, e.g. yardım etmek, teşekkür etmek)"
+ },
+ "yok": {
+  "gloss": "there is not, there are none; (with possessive) not to have"
+ },
+ "en": {
+  "gloss": "most (superlative marker, e.g. en iyi 'best'); width",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "kendi": {
+  "gloss": "own; self, oneself"
+ },
+ "ki": {
+  "gloss": "(conjunction) that; (emphatic particle) e.g. tabii ki 'of course', Ne fark eder ki? 'what difference does it make?'"
+ },
+ "ya": {
+  "gloss": "either ... or (ya ... ya da); (colloquial) hey, you know; what about ...?",
+  "pos": "conj",
+  "posName": "conjunction"
+ },
+ "bura": {
+  "gloss": "this place, here (stem of burada, buraya, buradan)",
+  "pos": "pron",
+  "posName": "pronoun"
+ },
+ "neden": {
+  "gloss": "why; reason, cause",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "nasıl": {
+  "gloss": "how; what kind of",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "son": {
+  "gloss": "end; last, final"
+ },
+ "böyle": {
+  "gloss": "like this, in this way; so, such"
+ },
+ "ara": {
+  "gloss": "break, pause, interval; gap, space between"
+ },
+ "bile": {
+  "gloss": "even; (with a negative) not even",
+  "pos": "part",
+  "posName": "particle"
+ },
+ "tek": {
+  "gloss": "single, sole, only; odd (number); alone"
+ },
+ "öyle": {
+  "gloss": "like that, such; so; that way",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "ilk": {
+  "gloss": "first"
+ },
+ "yüz": {
+  "gloss": "hundred; face"
+ },
+ "geri": {
+  "gloss": "back; backward; behind; rear",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "işte": {
+  "gloss": "here it is; there you go; that's it; you see"
+ },
+ "ora": {
+  "gloss": "that place, there (stem of orada, oraya, oradan)"
+ },
+ "karşı": {
+  "gloss": "against, toward, facing; opposite side",
+  "pos": "post",
+  "posName": "postposition"
+ },
+ "iç": {
+  "gloss": "inside, interior; inner part"
+ },
+ "yani": {
+  "gloss": "that is, I mean, in other words; you know (filler)",
+  "pos": "conj",
+  "posName": "conjunction"
+ },
+ "fazla": {
+  "gloss": "too much, too many; excess; extra"
+ },
+ "kimse": {
+  "gloss": "anybody, nobody (with a negative verb); somebody"
+ },
+ "devam": {
+  "gloss": "continuation; (devam etmek) to continue, go on"
+ },
+ "geçmek": {
+  "gloss": "to pass; to cross; to go by; (of time) to pass; to be over"
+ },
+ "orta": {
+  "gloss": "middle, center; medium; average"
+ },
+ "eğer": {
+  "gloss": "if; in case"
+ },
+ "yan": {
+  "gloss": "side; (adj.) adjacent, next"
+ },
+ "gerçek": {
+  "gloss": "truth, reality; (adj.) real, true"
+ },
+ "hiçbir": {
+  "gloss": "no; not any (used with a negative verb or yok)"
+ },
+ "süre": {
+  "gloss": "duration; period, length of time"
+ },
+ "tam": {
+  "gloss": "exact, precise; complete, whole; (tam da) just, exactly"
+ },
+ "bırakmak": {
+  "gloss": "to leave; to let go, release; to put down; to quit, give up"
+ },
+ "ise": {
+  "gloss": "(clitic, written separately) if (it is); as for; whereas"
+ },
+ "sahip": {
+  "gloss": "owner; master; (sahip olmak) to have, own"
+ },
+ "az": {
+  "gloss": "little, few; not much"
+ },
+ "alt": {
+  "gloss": "bottom, lower part; under, below"
+ },
+ "alan": {
+  "gloss": "area; field (of study); open space"
+ },
+ "gerek": {
+  "gloss": "need, necessity; (gerek var/yok) it is necessary / there is no need"
+ },
+ "aramak": {
+  "gloss": "to look for, search; to call (by phone)"
+ },
+ "hak": {
+  "gloss": "right, entitlement; justice; (hak etmek) to deserve"
+ },
+ "yine": {
+  "gloss": "again; (yine de) still, nevertheless"
+ },
+ "sıra": {
+  "gloss": "turn; queue, line; row; order, sequence"
+ },
+ "yaş": {
+  "gloss": "age (in years); wet, fresh; tear"
+ },
+ "oyun": {
+  "gloss": "game; play (theatre); performance"
+ },
+ "tarafından": {
+  "gloss": "by (agent of a passive verb); on the part of",
+  "pos": "post",
+  "posName": "postposition"
+ },
+ "hal": {
+  "gloss": "state, condition; situation; mood"
+ },
+ "kardeş": {
+  "gloss": "sibling; brother or sister"
+ },
+ "gelecek": {
+  "gloss": "future; (adj.) coming, next"
+ },
+ "hala": {
+  "gloss": "still, yet (standard spelling hâlâ); also: paternal aunt",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "zaten": {
+  "gloss": "anyway, in any case; after all; already"
+ },
+ "ilgili": {
+  "gloss": "related, relevant; interested, concerned"
+ },
+ "dış": {
+  "gloss": "outside, exterior; foreign, external"
+ },
+ "bulunmak": {
+  "gloss": "to be (located), be present; to be found"
+ },
+ "öldürmek": {
+  "gloss": "to kill; to murder"
+ },
+ "film": {
+  "gloss": "movie, film"
+ },
+ "dönmek": {
+  "gloss": "to return, come back; to turn; to rotate"
+ },
+ "kabul": {
+  "gloss": "acceptance; (kabul etmek) to accept, agree"
+ },
+ "yalnız": {
+  "gloss": "alone, lonely; only, but"
+ },
+ "ancak": {
+  "gloss": "only, just; barely; but, however"
+ },
+ "fakat": {
+  "gloss": "but, however"
+ },
+ "hem": {
+  "gloss": "both ... and (hem ... hem de); also",
+  "pos": "conj",
+  "posName": "conjunction"
+ },
+ "bayan": {
+  "gloss": "woman; lady; Ms., Mrs."
+ },
+ "hava": {
+  "gloss": "weather; air"
+ },
+ "izin": {
+  "gloss": "permission; permit; leave (time off)"
+ },
+ "taraf": {
+  "gloss": "side; direction; party (in a dispute)"
+ },
+ "parti": {
+  "gloss": "party (celebration); political party; batch"
+ },
+ "çıkarmak": {
+  "gloss": "to take out; to remove; to take off; to subtract; to deduce"
+ },
+ "gelir": {
+  "gloss": "income, revenue"
+ },
+ "kontrol": {
+  "gloss": "check; control; inspection"
+ },
+ "dost": {
+  "gloss": "friend; close ally"
+ },
+ "hareket": {
+  "gloss": "movement; motion; action; departure"
+ },
+ "pek": {
+  "gloss": "very, quite; (with negative) not very, not really"
+ },
+ "arka": {
+  "gloss": "back; rear; behind"
+ },
+ "içeri": {
+  "gloss": "inside; in (as in come in, go in)",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "kapı": {
+  "gloss": "door; gate"
+ },
+ "bitmek": {
+  "gloss": "to end; to finish; to run out"
+ },
+ "biri": {
+  "gloss": "someone, somebody; one (of them)"
+ },
+ "resim": {
+  "gloss": "picture; painting; drawing; photograph"
+ },
+ "gerekmek": {
+  "gloss": "to be necessary; to be needed"
+ },
+ "genç": {
+  "gloss": "young; young person"
+ },
+ "uzak": {
+  "gloss": "far; distant",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "atmak": {
+  "gloss": "to throw; to throw away; to fire (a shot); to toss"
+ },
+ "takım": {
+  "gloss": "team; squad; set; suit (clothing)"
+ },
+ "parça": {
+  "gloss": "piece; part; fragment; bit"
+ },
+ "bebek": {
+  "gloss": "baby"
+ },
+ "yakın": {
+  "gloss": "near, close; close (relative or friend)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "üzerinde": {
+  "gloss": "(postposition) on; on top of; over",
+  "pos": "post",
+  "posName": "postposition"
+ },
+ "tane": {
+  "gloss": "piece, item (counter for objects); grain"
+ },
+ "anlaşmak": {
+  "gloss": "to come to an agreement; to get along; to understand each other"
+ },
+ "fikir": {
+  "gloss": "idea; opinion"
+ },
+ "suç": {
+  "gloss": "crime; guilt; fault"
+ },
+ "sanmak": {
+  "gloss": "to think; to suppose; to assume"
+ },
+ "geçen": {
+  "gloss": "last; previous; past"
+ },
+ "göstermek": {
+  "gloss": "to show; to point out; to display"
+ },
+ "yardımcı": {
+  "gloss": "helper, assistant; (yardımcı olmak) to help, be helpful"
+ },
+ "sağ": {
+  "gloss": "right (side); alive; (sağ ol) thank you",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "halk": {
+  "gloss": "the people; the public; folk"
+ },
+ "yüksek": {
+  "gloss": "high; tall; loud"
+ },
+ "tanımak": {
+  "gloss": "to know (someone); to recognize"
+ },
+ "iz": {
+  "gloss": "trace; mark; track; footprint"
+ },
+ "grup": {
+  "gloss": "group; band"
+ },
+ "ayak": {
+  "gloss": "foot; leg"
+ },
+ "üzere": {
+  "gloss": "(postposition) about to (-mek üzere); in order to; on the condition that"
+ },
+ "ne zaman": {
+  "gloss": "when; at what time",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "takip": {
+  "gloss": "following; pursuit; follow-up; (takip etmek) to follow"
+ },
+ "tutmak": {
+  "gloss": "to hold; to grab; to catch; to keep; to cost (of a price)"
+ },
+ "selam": {
+  "gloss": "hi, hello; greeting"
+ },
+ "bay": {
+  "gloss": "Mr; gentleman; man"
+ },
+ "maç": {
+  "gloss": "match; game (sports)"
+ },
+ "çekmek": {
+  "gloss": "to pull; to drag; to attract; to draw; to suffer; to take (a photo)"
+ },
+ "numara": {
+  "gloss": "number (e.g. phone, shoe size); trick, act"
+ },
+ "üzerine": {
+  "gloss": "(postposition) onto; on; about (a topic)",
+  "pos": "post",
+  "posName": "postposition"
+ },
+ "merak": {
+  "gloss": "curiosity; worry (merak etmek: to worry; to wonder)"
+ },
+ "ilişki": {
+  "gloss": "relationship; connection; relation"
+ },
+ "tür": {
+  "gloss": "kind; type; genre; species"
+ },
+ "falan": {
+  "gloss": "and so on; or something; or so",
+  "pos": "part",
+  "posName": "particle"
+ },
+ "tatlı": {
+  "gloss": "sweet; dessert; cute",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "nerede": {
+  "gloss": "where",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "devlet": {
+  "gloss": "state; government; nation"
+ },
+ "oynamak": {
+  "gloss": "to play; to dance; to fool around"
+ },
+ "ölü": {
+  "gloss": "dead; dead person, corpse",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "boyunca": {
+  "gloss": "(postposition) throughout; during; along",
+  "pos": "post",
+  "posName": "postposition"
+ },
+ "at": {
+  "gloss": "horse"
+ },
+ "dışarı": {
+  "gloss": "outside; out",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "hayal": {
+  "gloss": "dream; imagination; fantasy"
+ },
+ "aşağı": {
+  "gloss": "down; below; lower part",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "değiştirmek": {
+  "gloss": "to change; to replace; to exchange"
+ },
+ "ayrılmak": {
+  "gloss": "to leave; to separate; to part"
+ },
+ "korumak": {
+  "gloss": "to protect; to guard; to preserve"
+ },
+ "bey": {
+  "gloss": "Mr (title after a first name); gentleman; lord"
+ },
+ "gider": {
+  "gloss": "expense, expenditure"
+ },
+ "geçirmek": {
+  "gloss": "to spend (time); to pass; to go through, undergo"
+ },
+ "sevgili": {
+  "gloss": "boyfriend, girlfriend; beloved; dear (in address)"
+ },
+ "ait": {
+  "gloss": "belonging to; relating to (takes the dative)"
+ },
+ "ders": {
+  "gloss": "lesson; class; lecture"
+ },
+ "değer": {
+  "gloss": "value; worth"
+ },
+ "düşmek": {
+  "gloss": "to fall, fall down; to drop, decrease"
+ },
+ "program": {
+  "gloss": "program; schedule; software"
+ },
+ "dönem": {
+  "gloss": "period; term (of office); semester"
+ },
+ "ateş": {
+  "gloss": "fire; fever; gunfire"
+ },
+ "üzeri": {
+  "gloss": "(postposition) on, over; about; more than"
+ },
+ "ana": {
+  "gloss": "main, primary; mother (colloquial, dated)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "destek": {
+  "gloss": "support; backing"
+ },
+ "acı": {
+  "gloss": "pain, suffering; grief; bitter; spicy, hot"
+ },
+ "dava": {
+  "gloss": "lawsuit; case; cause"
+ },
+ "emin": {
+  "gloss": "sure, certain"
+ },
+ "izlemek": {
+  "gloss": "to watch; to follow; to observe"
+ },
+ "çıkar": {
+  "gloss": "benefit, self-interest; profit"
+ },
+ "hizmet": {
+  "gloss": "service"
+ },
+ "haklı": {
+  "gloss": "right, correct (in an argument); justified"
+ },
+ "seçim": {
+  "gloss": "choice; election"
+ },
+ "ulaşmak": {
+  "gloss": "to reach; to arrive at; to contact"
+ },
+ "koca": {
+  "gloss": "husband; huge, big (before a noun)"
+ },
+ "kaynak": {
+  "gloss": "source; resource; spring (of water)"
+ },
+ "rahat": {
+  "gloss": "comfortable; relaxed, at ease; comfort",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "kayıt": {
+  "gloss": "registration; record; recording"
+ },
+ "herhangi": {
+  "gloss": "any (herhangi bir = any, some)"
+ },
+ "birçok": {
+  "gloss": "many, a lot of"
+ },
+ "bağlı": {
+  "gloss": "attached, connected; loyal; dependent on"
+ },
+ "kısım": {
+  "gloss": "part, section; portion"
+ },
+ "köpek": {
+  "gloss": "dog"
+ },
+ "katılmak": {
+  "gloss": "to join; to take part in; to attend; to agree (with)"
+ },
+ "ummak": {
+  "gloss": "to hope; to expect (esp. umarım 'I hope')"
+ },
+ "sefer": {
+  "gloss": "time, occasion; trip, voyage; expedition"
+ },
+ "emir": {
+  "gloss": "order, command"
+ },
+ "ışık": {
+  "gloss": "light"
+ },
+ "belli": {
+  "gloss": "clear, obvious; certain, specific; known"
+ },
+ "efendim": {
+  "gloss": "(polite) pardon?; yes? (reply to being called); sir, madam"
+ },
+ "normal": {
+  "gloss": "normal; standard",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "yıldız": {
+  "gloss": "star; celebrity"
+ },
+ "kaldırmak": {
+  "gloss": "to lift, raise; to remove; to pick up; to put up with"
+ },
+ "asıl": {
+  "gloss": "main, real; original, essential",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "neyse": {
+  "gloss": "anyway; never mind; oh well"
+ },
+ "uygun": {
+  "gloss": "suitable, appropriate; convenient; reasonable (price)"
+ },
+ "üzgün": {
+  "gloss": "sad; sorry"
+ },
+ "kol": {
+  "gloss": "arm; sleeve; handle; branch"
+ },
+ "zarar": {
+  "gloss": "damage; harm; loss"
+ },
+ "be": {
+  "gloss": "(emphatic particle) hey!, man!, damn! (as in Tüh be!, Vay be!)"
+ },
+ "hatta": {
+  "gloss": "even; moreover, what is more"
+ },
+ "vurmak": {
+  "gloss": "to hit, strike, beat; to shoot"
+ },
+ "ortak": {
+  "gloss": "common, shared; partner, associate",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "alınmak": {
+  "gloss": "to be taken; to be offended, take offense"
+ },
+ "güneş": {
+  "gloss": "sun; sunshine"
+ },
+ "hesap": {
+  "gloss": "bill, check; calculation; account"
+ },
+ "rağmen": {
+  "gloss": "(postposition, takes dative) despite, in spite of",
+  "pos": "post",
+  "posName": "postposition"
+ },
+ "sağlamak": {
+  "gloss": "to provide, supply; to ensure; to achieve"
+ },
+ "yayın": {
+  "gloss": "broadcast; publication"
+ },
+ "ağız": {
+  "gloss": "mouth; dialect, accent"
+ },
+ "canlı": {
+  "gloss": "alive; lively; living being",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "yukarı": {
+  "gloss": "up, upward; above; upper",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "henüz": {
+  "gloss": "yet (usually with negatives); only just, just now; still"
+ },
+ "uçak": {
+  "gloss": "airplane"
+ },
+ "kaçmak": {
+  "gloss": "to run away, escape; to skip (a class)"
+ },
+ "kesin": {
+  "gloss": "certain, definite"
+ },
+ "kurtarmak": {
+  "gloss": "to save, rescue; to set free"
+ },
+ "şöyle": {
+  "gloss": "like this, in this way; as follows"
+ },
+ "derece": {
+  "gloss": "degree; extent; rank"
+ },
+ "ekip": {
+  "gloss": "team, crew"
+ },
+ "deli": {
+  "gloss": "crazy, mad; madman"
+ },
+ "evlenmek": {
+  "gloss": "to get married; to marry (someone: with -le/-la)"
+ },
+ "etraf": {
+  "gloss": "surroundings; around"
+ },
+ "çift": {
+  "gloss": "pair; couple; double; even (of numbers)"
+ },
+ "toprak": {
+  "gloss": "soil, earth; land"
+ },
+ "tanışmak": {
+  "gloss": "to meet, get acquainted"
+ },
+ "acaba": {
+  "gloss": "I wonder (expresses curiosity or doubt)"
+ },
+ "sakin": {
+  "gloss": "calm, quiet"
+ },
+ "ağır": {
+  "gloss": "heavy; severe, serious; slow"
+ },
+ "ha": {
+  "gloss": "huh?, right?; yeah, I see"
+ },
+ "kural": {
+  "gloss": "rule; regulation"
+ },
+ "peş": {
+  "gloss": "rear, tail; (peşinde/peşinden) after, in pursuit of, following"
+ },
+ "lanet": {
+  "gloss": "curse; damn (mild expletive)"
+ },
+ "yazı": {
+  "gloss": "writing, text; article"
+ },
+ "din": {
+  "gloss": "religion"
+ },
+ "tahmin": {
+  "gloss": "guess, estimate; prediction"
+ },
+ "ceza": {
+  "gloss": "punishment, penalty; sentence"
+ },
+ "kurmak": {
+  "gloss": "to set up, establish; to assemble; to wind (a clock)"
+ },
+ "sanat": {
+  "gloss": "art; craft"
+ },
+ "spor": {
+  "gloss": "sport"
+ },
+ "beyin": {
+  "gloss": "brain; mind, intelligence"
+ },
+ "taşımak": {
+  "gloss": "to carry, transport; to bear"
+ },
+ "Amerika": {
+  "gloss": "America; the United States",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "mal": {
+  "gloss": "goods, property; merchandise; livestock"
+ },
+ "teklif": {
+  "gloss": "offer, proposal; suggestion"
+ },
+ "çalmak": {
+  "gloss": "to steal; to play (an instrument); to ring"
+ },
+ "kuru": {
+  "gloss": "dry"
+ },
+ "giriş": {
+  "gloss": "entrance; entry; introduction"
+ },
+ "bağlantı": {
+  "gloss": "connection; link"
+ },
+ "teknik": {
+  "gloss": "technique; technical"
+ },
+ "ileri": {
+  "gloss": "forward, ahead; advanced; fast (of a clock)",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "dizi": {
+  "gloss": "TV series; row, sequence"
+ },
+ "yönetim": {
+  "gloss": "management, administration"
+ },
+ "dolayı": {
+  "gloss": "(postposition, takes ablative) because of, due to"
+ },
+ "boy": {
+  "gloss": "height, stature; size; length"
+ },
+ "kaza": {
+  "gloss": "accident"
+ },
+ "değişmek": {
+  "gloss": "to change, become different"
+ },
+ "yaklaşık": {
+  "gloss": "approximate; about, approximately"
+ },
+ "dair": {
+  "gloss": "(postposition, takes dative) about, concerning"
+ },
+ "aptal": {
+  "gloss": "stupid, foolish; idiot"
+ },
+ "sürü": {
+  "gloss": "herd, flock; (bir sürü) a lot of"
+ },
+ "kayıp": {
+  "gloss": "missing; loss; casualties",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "kara": {
+  "gloss": "black; dark; land",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "mücadele": {
+  "gloss": "struggle, fight"
+ },
+ "galiba": {
+  "gloss": "probably, I guess"
+ },
+ "ilgilenmek": {
+  "gloss": "to be interested in (with -le); to take care of, deal with"
+ },
+ "alacak": {
+  "gloss": "money owed to one, receivable; credit"
+ },
+ "sayın": {
+  "gloss": "dear, esteemed (formal title before names)"
+ },
+ "aman": {
+  "gloss": "oh!; for heaven's sake!; mercy!"
+ },
+ "oluşturmak": {
+  "gloss": "to form; to create; to constitute"
+ },
+ "yara": {
+  "gloss": "wound; injury; (figuratively) pain, sorrow"
+ },
+ "sahne": {
+  "gloss": "stage; scene"
+ },
+ "toplantı": {
+  "gloss": "meeting; gathering"
+ },
+ "dalga": {
+  "gloss": "wave; (dalga geçmek) to make fun of, to kid"
+ },
+ "düşünce": {
+  "gloss": "thought; idea"
+ },
+ "rapor": {
+  "gloss": "report"
+ },
+ "mahkeme": {
+  "gloss": "court; trial"
+ },
+ "taş": {
+  "gloss": "stone; rock"
+ },
+ "site": {
+  "gloss": "website; housing complex"
+ },
+ "sessiz": {
+  "gloss": "quiet, silent",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "yeterli": {
+  "gloss": "sufficient, enough; adequate"
+ },
+ "basit": {
+  "gloss": "simple; easy; basic"
+ },
+ "katil": {
+  "gloss": "murderer, killer"
+ },
+ "tercih": {
+  "gloss": "preference; choice (tercih etmek: to prefer)"
+ },
+ "terk": {
+  "gloss": "abandonment, leaving (terk etmek: to abandon, to leave)"
+ },
+ "acil": {
+  "gloss": "urgent; emergency"
+ },
+ "madde": {
+  "gloss": "substance, material; item; article (of a law)"
+ },
+ "ta": {
+  "gloss": "(intensifier) all the way, right up to, as far as",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "saye": {
+  "gloss": "thanks to, owing to (in sayesinde); shade; protection"
+ },
+ "sık": {
+  "gloss": "frequent; dense, thick (sık sık: often)"
+ },
+ "meydan": {
+  "gloss": "square (public); open space; arena"
+ },
+ "rahatsız": {
+  "gloss": "uncomfortable; uneasy; unwell"
+ },
+ "büyümek": {
+  "gloss": "to grow; to grow up"
+ },
+ "dayanmak": {
+  "gloss": "to endure, withstand; to lean on; to be based on"
+ },
+ "çevre": {
+  "gloss": "environment; surroundings"
+ },
+ "not": {
+  "gloss": "note; grade, mark"
+ },
+ "bahsetmek": {
+  "gloss": "to mention, to talk about"
+ },
+ "özgür": {
+  "gloss": "free; independent"
+ },
+ "görüntü": {
+  "gloss": "image; view, sight; footage"
+ },
+ "karanlık": {
+  "gloss": "dark; darkness"
+ },
+ "memnun": {
+  "gloss": "pleased, glad; satisfied"
+ },
+ "yakalamak": {
+  "gloss": "to catch; to grab; to arrest"
+ },
+ "tip": {
+  "gloss": "type, kind; (colloquial) character, guy"
+ },
+ "karşılaşmak": {
+  "gloss": "to meet, run into; to encounter, face"
+ },
+ "uyanmak": {
+  "gloss": "to wake up"
+ },
+ "benzemek": {
+  "gloss": "to resemble, be like; to look like"
+ },
+ "uygulamak": {
+  "gloss": "to apply; to implement; to put into practice"
+ },
+ "vay": {
+  "gloss": "wow; oh my; whoa"
+ },
+ "sakın": {
+  "gloss": "(with negative imperative) don't you dare; be careful not to"
+ },
+ "garip": {
+  "gloss": "strange, odd"
+ },
+ "test": {
+  "gloss": "test; quiz"
+ },
+ "avukat": {
+  "gloss": "lawyer, attorney"
+ },
+ "serbest": {
+  "gloss": "free (unrestricted); permitted; freelance"
+ },
+ "temel": {
+  "gloss": "foundation; basics; basic, fundamental"
+ },
+ "davet": {
+  "gloss": "invitation"
+ },
+ "kurul": {
+  "gloss": "board, committee, council"
+ },
+ "dahil": {
+  "gloss": "included, including (dahil olmak: to be part of)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "yaramak": {
+  "gloss": "to be useful; to be good for; to serve a purpose"
+ },
+ "yük": {
+  "gloss": "load; burden; cargo"
+ },
+ "işaret": {
+  "gloss": "sign; signal; mark"
+ },
+ "çiçek": {
+  "gloss": "flower"
+ },
+ "gelişmek": {
+  "gloss": "to develop; to improve; to grow"
+ },
+ "baskı": {
+  "gloss": "pressure; print; edition; oppression"
+ },
+ "yaka": {
+  "gloss": "collar; side, shore"
+ },
+ "benzer": {
+  "gloss": "similar",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "iddia": {
+  "gloss": "claim; assertion; allegation; bet"
+ },
+ "öldürülmek": {
+  "gloss": "to be killed"
+ },
+ "doğmak": {
+  "gloss": "to be born; to rise (sun)"
+ },
+ "parmak": {
+  "gloss": "finger; toe"
+ },
+ "hapis": {
+  "gloss": "prison; imprisonment"
+ },
+ "indirmek": {
+  "gloss": "to lower; to take down; to download"
+ },
+ "koku": {
+  "gloss": "smell; odor; scent"
+ },
+ "dua": {
+  "gloss": "prayer"
+ },
+ "yemin": {
+  "gloss": "oath; vow"
+ },
+ "tat": {
+  "gloss": "taste; flavor"
+ },
+ "ters": {
+  "gloss": "reverse, opposite; wrong, contrary; upside down"
+ },
+ "teslim": {
+  "gloss": "delivery; handover; surrender"
+ },
+ "rol": {
+  "gloss": "role; part"
+ },
+ "tarz": {
+  "gloss": "style; kind, sort; genre"
+ },
+ "dokunmak": {
+  "gloss": "to touch; to affect"
+ },
+ "uç": {
+  "gloss": "tip; end; extreme"
+ },
+ "motor": {
+  "gloss": "engine; motor; motorcycle"
+ },
+ "araç": {
+  "gloss": "vehicle; tool; means"
+ },
+ "elektrik": {
+  "gloss": "electricity; electric"
+ },
+ "kurt": {
+  "gloss": "wolf; worm, maggot"
+ },
+ "sert": {
+  "gloss": "hard; harsh, severe; tough; strict",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "kesmek": {
+  "gloss": "to cut; to cut off; to interrupt; to stop"
+ },
+ "yakında": {
+  "gloss": "soon; shortly; nearby"
+ },
+ "tatil": {
+  "gloss": "holiday; vacation; break"
+ },
+ "patlamak": {
+  "gloss": "to explode; to burst; to go off"
+ },
+ "futbol": {
+  "gloss": "football; soccer"
+ },
+ "metre": {
+  "gloss": "meter (unit of length)"
+ },
+ "ata": {
+  "gloss": "ancestor; forefather"
+ },
+ "düşman": {
+  "gloss": "enemy"
+ },
+ "türlü": {
+  "gloss": "kind, sort; various; mixed vegetable stew"
+ },
+ "daire": {
+  "gloss": "apartment; office, department; circle"
+ },
+ "düğün": {
+  "gloss": "wedding"
+ },
+ "kapalı": {
+  "gloss": "closed; shut; off"
+ },
+ "yasa": {
+  "gloss": "law; statute"
+ },
+ "sınav": {
+  "gloss": "exam; test"
+ },
+ "yıllık": {
+  "gloss": "annual; yearly; -year-old"
+ },
+ "keyif": {
+  "gloss": "pleasure; enjoyment; good mood"
+ },
+ "memur": {
+  "gloss": "civil servant; official; clerk"
+ },
+ "salon": {
+  "gloss": "living room; hall; lounge"
+ },
+ "sonsuz": {
+  "gloss": "endless; infinite; eternal",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "çıkış": {
+  "gloss": "exit; way out; departure"
+ },
+ "akıllı": {
+  "gloss": "smart; intelligent; clever"
+ },
+ "kedi": {
+  "gloss": "cat"
+ },
+ "günlük": {
+  "gloss": "daily; per day; diary",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "müdür": {
+  "gloss": "director; manager; principal"
+ },
+ "kanal": {
+  "gloss": "channel; canal"
+ },
+ "tebrik": {
+  "gloss": "congratulations"
+ },
+ "durdurmak": {
+  "gloss": "to stop; to halt (something)"
+ },
+ "sır": {
+  "gloss": "secret"
+ },
+ "kimlik": {
+  "gloss": "identity; ID card"
+ },
+ "kaçırmak": {
+  "gloss": "to miss; to kidnap; to hijack"
+ },
+ "öte": {
+  "gloss": "the other side; beyond"
+ },
+ "saha": {
+  "gloss": "field; pitch; court; area"
+ },
+ "toplu": {
+  "gloss": "collective; group; mass"
+ },
+ "ürün": {
+  "gloss": "product; produce, crop"
+ },
+ "yatmak": {
+  "gloss": "to lie down; to go to bed; to sleep"
+ },
+ "eşya": {
+  "gloss": "things, belongings, items; furniture"
+ },
+ "itibaren": {
+  "gloss": "(postposition) from, starting from",
+  "pos": "post",
+  "posName": "postposition"
+ },
+ "cep": {
+  "gloss": "pocket"
+ },
+ "değerli": {
+  "gloss": "valuable, precious; dear"
+ },
+ "eser": {
+  "gloss": "work (of art or literature); trace, sign; effect"
+ },
+ "hat": {
+  "gloss": "line (telephone, transport); handwriting, calligraphy"
+ },
+ "kurtulmak": {
+  "gloss": "to escape; to get rid of; to be saved, survive"
+ },
+ "kasaba": {
+  "gloss": "town, small town"
+ },
+ "idare": {
+  "gloss": "administration, management; idare etmek: to manage, get by"
+ },
+ "sinir": {
+  "gloss": "nerve; anger, irritation"
+ },
+ "yazık": {
+  "gloss": "pity, shame; ne yazık ki: unfortunately"
+ },
+ "dikkatli": {
+  "gloss": "careful, attentive; cautious"
+ },
+ "abi": {
+  "gloss": "older brother; (informal) address for an older man"
+ },
+ "kale": {
+  "gloss": "castle, fortress; (sports) goal; (chess) rook"
+ },
+ "alaka": {
+  "gloss": "connection, relevance; interest"
+ },
+ "herhâlde": {
+  "gloss": "probably, presumably; I suppose"
+ },
+ "köşe": {
+  "gloss": "corner; nook; bend"
+ },
+ "ağlamak": {
+  "gloss": "to cry, weep"
+ },
+ "biçim": {
+  "gloss": "shape, form; style, manner"
+ },
+ "diş": {
+  "gloss": "tooth"
+ },
+ "tavsiye": {
+  "gloss": "advice; recommendation"
+ },
+ "aşık": {
+  "gloss": "in love; lover (âşık olmak: to fall in love)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "şart": {
+  "gloss": "condition; requirement, stipulation"
+ },
+ "başkan": {
+  "gloss": "president; chairman, head"
+ },
+ "karakter": {
+  "gloss": "character (personality; person in a story); symbol, letter"
+ },
+ "herif": {
+  "gloss": "(derogatory) guy, fellow"
+ },
+ "geniş": {
+  "gloss": "wide, broad; spacious"
+ },
+ "beden": {
+  "gloss": "body; size (clothing)"
+ },
+ "hoşlanmak": {
+  "gloss": "to like, be fond of (takes ablative)"
+ },
+ "bol": {
+  "gloss": "plentiful, abundant; loose (of clothing)"
+ },
+ "ermek": {
+  "gloss": "to reach, attain; sona ermek: to come to an end"
+ },
+ "tartışmak": {
+  "gloss": "to argue; to discuss, debate"
+ },
+ "sokmak": {
+  "gloss": "to put in, insert; to sting, bite (insects)"
+ },
+ "burun": {
+  "gloss": "nose; cape (headland)"
+ },
+ "efendi": {
+  "gloss": "gentleman; master, sir"
+ },
+ "fena": {
+  "gloss": "bad; ill (fena değil: not bad)"
+ },
+ "tespit": {
+  "gloss": "identification, determination; establishing (tespit etmek: to determine, identify)"
+ },
+ "gol": {
+  "gloss": "goal (scored in a game)"
+ },
+ "bağ": {
+  "gloss": "bond, tie, link; vineyard"
+ },
+ "çevirmek": {
+  "gloss": "to translate; to turn, rotate; to dial; to surround"
+ },
+ "hücre": {
+  "gloss": "cell (biological; prison)"
+ },
+ "anı": {
+  "gloss": "memory, recollection; memoir"
+ },
+ "kalın": {
+  "gloss": "thick; deep (of a voice)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "kilo": {
+  "gloss": "kilogram, kilo; body weight"
+ },
+ "düzenlemek": {
+  "gloss": "to arrange, organize; to edit"
+ },
+ "korkunç": {
+  "gloss": "terrible, horrible; frightening"
+ },
+ "bacak": {
+  "gloss": "leg"
+ },
+ "puan": {
+  "gloss": "point; score, mark"
+ },
+ "sıkıntı": {
+  "gloss": "trouble, difficulty; distress; boredom"
+ },
+ "hariç": {
+  "gloss": "except, apart from; excluded",
+  "pos": "post",
+  "posName": "postposition"
+ },
+ "bakım": {
+  "gloss": "care, upkeep, maintenance"
+ },
+ "çizgi": {
+  "gloss": "line; stripe"
+ },
+ "takmak": {
+  "gloss": "to put on, wear (tie, glasses, jewellery); to attach, fix"
+ },
+ "tepe": {
+  "gloss": "hill; top, summit"
+ },
+ "kuvvet": {
+  "gloss": "strength, power; force; (plural) armed forces"
+ },
+ "genelde": {
+  "gloss": "usually; in general"
+ },
+ "salak": {
+  "gloss": "stupid, silly (informal, mildly rude); idiot"
+ },
+ "kutsal": {
+  "gloss": "holy, sacred"
+ },
+ "ilçe": {
+  "gloss": "district (administrative subdivision of a province)"
+ },
+ "hoca": {
+  "gloss": "teacher; professor; (Islamic) cleric, hodja"
+ },
+ "kırık": {
+  "gloss": "broken; fracture",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "sahte": {
+  "gloss": "fake, counterfeit; false"
+ },
+ "cam": {
+  "gloss": "glass (material); window pane"
+ },
+ "hani": {
+  "gloss": "(particle) where is/are ...?; you know; remember (when)",
+  "pos": "part",
+  "posName": "particle"
+ },
+ "karın": {
+  "gloss": "belly, abdomen"
+ },
+ "saklamak": {
+  "gloss": "to hide; to keep, store away"
+ },
+ "han": {
+  "gloss": "inn, caravanserai; khan"
+ },
+ "usta": {
+  "gloss": "skilled craftsman, master; skilled, expert"
+ },
+ "sağlam": {
+  "gloss": "sturdy, solid; strong; sound, reliable"
+ },
+ "yangın": {
+  "gloss": "fire (blaze)"
+ },
+ "düşük": {
+  "gloss": "low; poor, inferior"
+ },
+ "cihaz": {
+  "gloss": "device, apparatus; appliance"
+ },
+ "ince": {
+  "gloss": "thin; slim; delicate, refined"
+ },
+ "bakış": {
+  "gloss": "look, glance; view"
+ },
+ "gezegen": {
+  "gloss": "planet"
+ },
+ "yorum": {
+  "gloss": "comment; interpretation"
+ },
+ "işlem": {
+  "gloss": "process, procedure; transaction; (maths) operation"
+ },
+ "dert": {
+  "gloss": "trouble, worry; sorrow, pain"
+ },
+ "alay": {
+  "gloss": "mockery, ridicule (alay etmek: to make fun of); procession; regiment"
+ },
+ "seri": {
+  "gloss": "series; (adj) rapid, quick"
+ },
+ "bar": {
+  "gloss": "bar, pub"
+ },
+ "ten": {
+  "gloss": "skin (complexion); body"
+ },
+ "sunmak": {
+  "gloss": "to offer, present; to submit; to introduce"
+ },
+ "kapmak": {
+  "gloss": "to snatch, grab; to catch (an illness)"
+ },
+ "tuvalet": {
+  "gloss": "toilet, restroom"
+ },
+ "malzeme": {
+  "gloss": "material; supplies, equipment; ingredient"
+ },
+ "saray": {
+  "gloss": "palace; court"
+ },
+ "dolaşmak": {
+  "gloss": "to walk around, wander; to tour"
+ },
+ "pardon": {
+  "gloss": "excuse me; sorry; pardon?"
+ },
+ "evren": {
+  "gloss": "universe, cosmos"
+ },
+ "boyun": {
+  "gloss": "neck"
+ },
+ "şef": {
+  "gloss": "chef; boss, chief; (orchestra) conductor"
+ },
+ "çöp": {
+  "gloss": "garbage, trash, rubbish; twig"
+ },
+ "yarar": {
+  "gloss": "benefit, use"
+ },
+ "zayıf": {
+  "gloss": "weak; thin, skinny"
+ },
+ "uğramak": {
+  "gloss": "to drop by, stop by; (with dative) to suffer, undergo"
+ },
+ "kanat": {
+  "gloss": "wing"
+ },
+ "bitki": {
+  "gloss": "plant"
+ },
+ "hafif": {
+  "gloss": "light (weight); mild, slight"
+ },
+ "delik": {
+  "gloss": "hole"
+ },
+ "uğur": {
+  "gloss": "luck; good omen"
+ },
+ "ün": {
+  "gloss": "fame, reputation"
+ },
+ "inşa": {
+  "gloss": "construction; building (inşa etmek = to build)"
+ },
+ "cinsel": {
+  "gloss": "sexual"
+ },
+ "çözüm": {
+  "gloss": "solution"
+ },
+ "taşınmak": {
+  "gloss": "to move (house); to relocate"
+ },
+ "yaptırmak": {
+  "gloss": "to have something done/made; to get something done"
+ },
+ "ayırmak": {
+  "gloss": "to separate; to set aside; to reserve; to choose, pick out"
+ },
+ "toplanmak": {
+  "gloss": "to gather; to assemble; to be collected"
+ },
+ "paket": {
+  "gloss": "package; packet; pack"
+ },
+ "buyurmak": {
+  "gloss": "(buyurun) please; here you are; go ahead; to command (formal)"
+ },
+ "değişik": {
+  "gloss": "different; varied; unusual"
+ },
+ "doldurmak": {
+  "gloss": "to fill; to fill up; to fill in (a form)"
+ },
+ "yerleşmek": {
+  "gloss": "to settle; to settle in; to be situated"
+ },
+ "değişiklik": {
+  "gloss": "change; alteration; difference"
+ },
+ "karışmak": {
+  "gloss": "to interfere; to get involved; to get mixed up; to blend"
+ },
+ "form": {
+  "gloss": "form (document); shape, fitness"
+ },
+ "savaşmak": {
+  "gloss": "to fight; to wage war"
+ },
+ "üzülmek": {
+  "gloss": "to be sad; to be upset; to feel sorry"
+ },
+ "ikna": {
+  "gloss": "persuasion (ikna olmak = to be convinced; ikna etmek = to convince)"
+ },
+ "koltuk": {
+  "gloss": "armchair; seat"
+ },
+ "mutlaka": {
+  "gloss": "definitely; without fail; necessarily"
+ },
+ "müthiş": {
+  "gloss": "great, amazing; tremendous; terrible"
+ },
+ "hanım": {
+  "gloss": "lady; Mrs/Ms (after a name); wife"
+ },
+ "belirtmek": {
+  "gloss": "to state; to indicate; to specify"
+ },
+ "kurşun": {
+  "gloss": "bullet; lead (metal); kurşun kalem = pencil"
+ },
+ "melek": {
+  "gloss": "angel"
+ },
+ "cadde": {
+  "gloss": "street; avenue"
+ },
+ "önermek": {
+  "gloss": "to suggest; to propose; to offer"
+ },
+ "ocak": {
+  "gloss": "January; stove; fireplace, hearth"
+ },
+ "yavru": {
+  "gloss": "young animal; cub; puppy"
+ },
+ "düzgün": {
+  "gloss": "neat; regular; smooth; proper"
+ },
+ "hakim": {
+  "gloss": "judge; dominant, prevailing (hakim olmak = to dominate; to overlook)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "kânun": {
+  "gloss": "law; statute"
+ },
+ "bahis": {
+  "gloss": "bet, wager; (formal) subject, topic"
+ },
+ "güvenmek": {
+  "gloss": "to trust; to rely on (with dative)"
+ },
+ "takdir": {
+  "gloss": "appreciation, recognition; discretion; fate, destiny"
+ },
+ "ek": {
+  "gloss": "addition; supplement, appendix; suffix"
+ },
+ "emekli": {
+  "gloss": "retired; retiree"
+ },
+ "şikâyet": {
+  "gloss": "complaint"
+ },
+ "mezun": {
+  "gloss": "graduate; graduated (mezun olmak = to graduate)"
+ },
+ "kaya": {
+  "gloss": "rock; boulder; cliff"
+ },
+ "yazılı": {
+  "gloss": "written; written exam",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "eğlenmek": {
+  "gloss": "to have fun; to enjoy oneself; to make fun of (with ile)"
+ },
+ "günah": {
+  "gloss": "sin"
+ },
+ "bedel": {
+  "gloss": "price; cost; value paid"
+ },
+ "dahi": {
+  "gloss": "genius; (formal) even, also, too",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "boyut": {
+  "gloss": "dimension; size"
+ },
+ "fayda": {
+  "gloss": "benefit; use, usefulness"
+ },
+ "bayram": {
+  "gloss": "religious holiday (Eid); festival, holiday"
+ },
+ "devre": {
+  "gloss": "period; term; phase; circuit"
+ },
+ "yolculuk": {
+  "gloss": "journey; trip; travel"
+ },
+ "karıştırmak": {
+  "gloss": "to mix; to stir; to confuse, mix up; to shuffle"
+ },
+ "çözmek": {
+  "gloss": "to solve; to untie, undo; to unravel"
+ },
+ "işlemek": {
+  "gloss": "to work, function; to commit (a crime, sin); to process; to embroider"
+ },
+ "aralık": {
+  "gloss": "December; gap, interval; ajar"
+ },
+ "net": {
+  "gloss": "clear, distinct; net (of amounts)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "birer": {
+  "gloss": "one each, one apiece (distributive of bir)"
+ },
+ "kullanım": {
+  "gloss": "use; usage"
+ },
+ "mantıklı": {
+  "gloss": "logical; sensible, makes sense"
+ },
+ "seyahat": {
+  "gloss": "travel; trip, journey"
+ },
+ "ray": {
+  "gloss": "rail; track"
+ },
+ "suçlamak": {
+  "gloss": "to accuse; to blame"
+ },
+ "çene": {
+  "gloss": "chin; jaw"
+ },
+ "pis": {
+  "gloss": "dirty; filthy; nasty"
+ },
+ "bildirmek": {
+  "gloss": "to report; to notify; to announce"
+ },
+ "ayı": {
+  "gloss": "bear; (colloquial) boor, lout"
+ },
+ "resmen": {
+  "gloss": "officially; (colloquial) literally, totally"
+ },
+ "sivil": {
+  "gloss": "civilian; civil"
+ },
+ "eşit": {
+  "gloss": "equal"
+ },
+ "çekici": {
+  "gloss": "attractive, charming; tow truck",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "ima": {
+  "gloss": "hint; implication"
+ },
+ "gazeteci": {
+  "gloss": "journalist"
+ },
+ "sahil": {
+  "gloss": "coast; shore; beach"
+ },
+ "roman": {
+  "gloss": "novel"
+ },
+ "yenmek": {
+  "gloss": "to beat, defeat; to be eaten"
+ },
+ "basın": {
+  "gloss": "the press; media"
+ },
+ "temsil": {
+  "gloss": "representation"
+ },
+ "demir": {
+  "gloss": "iron"
+ },
+ "banyo": {
+  "gloss": "bathroom; bath"
+ },
+ "aktif": {
+  "gloss": "active"
+ },
+ "vazgeçmek": {
+  "gloss": "to give up; to abandon"
+ },
+ "sözleşme": {
+  "gloss": "contract, agreement"
+ },
+ "parlak": {
+  "gloss": "bright, shiny; brilliant"
+ },
+ "civar": {
+  "gloss": "vicinity, neighbourhood"
+ },
+ "öz": {
+  "gloss": "essence, core; own, self-"
+ },
+ "ton": {
+  "gloss": "tonne, metric ton; tone"
+ },
+ "çizmek": {
+  "gloss": "to draw (a line, picture); to sketch; to scratch"
+ },
+ "alışveriş": {
+  "gloss": "shopping"
+ },
+ "alo": {
+  "gloss": "hello (answering the phone)"
+ },
+ "yasal": {
+  "gloss": "legal, lawful"
+ },
+ "düzeltmek": {
+  "gloss": "to correct; to fix; to straighten"
+ },
+ "yerli": {
+  "gloss": "local; native; domestic",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "madem": {
+  "gloss": "since, now that (also madem ki)"
+ },
+ "tavuk": {
+  "gloss": "chicken; hen"
+ },
+ "uğraşmak": {
+  "gloss": "to struggle, strive; to deal with"
+ },
+ "tekne": {
+  "gloss": "boat"
+ },
+ "oluşmak": {
+  "gloss": "to form, come into being; to consist (of)"
+ },
+ "devrim": {
+  "gloss": "revolution"
+ },
+ "şifre": {
+  "gloss": "password; code, cipher"
+ },
+ "aşama": {
+  "gloss": "stage, phase"
+ },
+ "yurt": {
+  "gloss": "student dormitory; homeland (yurt dışı: abroad)"
+ },
+ "kalabalık": {
+  "gloss": "crowded; crowd",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "randevu": {
+  "gloss": "appointment; date"
+ },
+ "tasarım": {
+  "gloss": "design"
+ },
+ "niçin": {
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "matematik": {
+  "gloss": "mathematics"
+ },
+ "dip": {
+  "gloss": "bottom"
+ },
+ "kapak": {
+  "gloss": "lid, cover"
+ },
+ "hasar": {
+  "gloss": "damage"
+ },
+ "yakmak": {
+  "gloss": "to burn; to light, set on fire"
+ },
+ "âşık": {
+  "gloss": "in love; lover; folk poet",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "düzey": {
+  "gloss": "level"
+ },
+ "terörist": {
+  "pos": "n",
+  "posName": "noun"
+ },
+ "adet": {
+  "gloss": "number, piece (counter for items); custom"
+ },
+ "zavallı": {
+  "gloss": "poor, wretched; poor thing"
+ },
+ "umur": {
+  "gloss": "care, concern (umurumda değil: I don't care)"
+ },
+ "bozuk": {
+  "gloss": "broken, out of order; spoiled; (bozuk para) small change"
+ },
+ "bedava": {
+  "gloss": "free (of charge); dirt cheap"
+ },
+ "gök": {
+  "gloss": "sky, heavens"
+ },
+ "final": {
+  "gloss": "final (round, match); finale; final exam"
+ },
+ "aziz": {
+  "gloss": "saint; dear, esteemed"
+ },
+ "harf": {
+  "gloss": "letter (of the alphabet)"
+ },
+ "başarısız": {
+  "gloss": "unsuccessful, failed",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "çağrı": {
+  "gloss": "call, summons; appeal"
+ },
+ "kapanmak": {
+  "gloss": "to close, shut; to be closed; to turn off (a device)"
+ },
+ "kokmak": {
+  "gloss": "to smell; to stink"
+ },
+ "fakülte": {
+  "gloss": "faculty (university department), school"
+ },
+ "kör": {
+  "gloss": "blind; blunt, dull"
+ },
+ "saf": {
+  "gloss": "pure; naive, gullible; row, rank",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "bozmak": {
+  "gloss": "to spoil; to ruin; to break; to upset"
+ },
+ "kaydetmek": {
+  "gloss": "to record; to save (a file); to register"
+ },
+ "kare": {
+  "gloss": "square (shape); square (of a number); frame (of a photo or film)"
+ },
+ "surat": {
+  "gloss": "face (informal, esp. a sulky one)"
+ },
+ "uyarmak": {
+  "gloss": "to warn; to alert"
+ },
+ "ağ": {
+  "gloss": "net; web; network"
+ },
+ "iletmek": {
+  "gloss": "to convey; to transmit; to forward; to conduct"
+ },
+ "zekâ": {
+  "gloss": "intelligence; wits"
+ },
+ "atlamak": {
+  "gloss": "to jump; to leap; to skip"
+ },
+ "yarmak": {
+  "gloss": "to split; to cleave; to cut through"
+ },
+ "ekim": {
+  "gloss": "October; sowing"
+ },
+ "terör": {
+  "gloss": "terror; terrorism"
+ },
+ "dinlenmek": {
+  "gloss": "to rest; to relax"
+ },
+ "ekonomi": {
+  "gloss": "economy; economics"
+ },
+ "böcek": {
+  "gloss": "insect; bug"
+ },
+ "tablo": {
+  "gloss": "painting; chart, table (of data)"
+ },
+ "yetkili": {
+  "gloss": "authorized; person in charge, official",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "don": {
+  "gloss": "frost; (old-fashioned) underpants"
+ },
+ "acımak": {
+  "gloss": "to hurt, ache; to feel pity for; to turn bitter"
+ },
+ "nihayet": {
+  "gloss": "finally, at last; end",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "karışık": {
+  "gloss": "complicated; mixed; confused"
+ },
+ "uyarı": {
+  "gloss": "warning; notice"
+ },
+ "susmak": {
+  "gloss": "to be quiet; to shut up"
+ },
+ "pay": {
+  "gloss": "share, portion; (math) numerator"
+ },
+ "bozulmak": {
+  "gloss": "to break down; to go bad, spoil; to be upset"
+ },
+ "kupa": {
+  "gloss": "mug; cup, trophy; hearts (card suit)"
+ },
+ "tel": {
+  "gloss": "wire; string (of an instrument); thread"
+ },
+ "ücret": {
+  "gloss": "fee; charge; wage"
+ },
+ "esas": {
+  "gloss": "main, fundamental; basis, principle",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "havuz": {
+  "gloss": "pool; swimming pool; ornamental pond"
+ },
+ "çağ": {
+  "gloss": "era, age, epoch"
+ },
+ "çarpmak": {
+  "gloss": "to hit, bump into; to multiply; (slang) to steal"
+ },
+ "eşlik": {
+  "gloss": "accompaniment; company (eşlik etmek = to accompany)"
+ },
+ "bağımsız": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "albüm": {
+  "gloss": "album"
+ },
+ "eleman": {
+  "gloss": "employee, staff member; element, component"
+ },
+ "sarmak": {
+  "gloss": "to wrap; to wind around; to surround; to bandage"
+ },
+ "atılmak": {
+  "gloss": "to be thrown; to be dismissed; to lunge"
+ },
+ "tarif": {
+  "gloss": "description; recipe; directions"
+ },
+ "basmak": {
+  "gloss": "to step on; to press; to print; to flood (a place)"
+ },
+ "saymak": {
+  "gloss": "to count; to respect, regard"
+ },
+ "âlâ": {
+  "gloss": "excellent, first-rate"
+ },
+ "reddetmek": {
+  "gloss": "to reject; to refuse; to deny"
+ },
+ "içecek": {
+  "gloss": "drink, beverage"
+ },
+ "kıyı": {
+  "gloss": "shore, coast; edge"
+ },
+ "uzanmak": {
+  "gloss": "to lie down; to stretch out; to reach"
+ },
+ "birleşik": {
+  "gloss": "combined; united; compound"
+ },
+ "bağlanmak": {
+  "gloss": "to connect; to get attached; to be tied"
+ },
+ "gönüllü": {
+  "gloss": "volunteer; voluntary"
+ },
+ "hızla": {
+  "gloss": "quickly; at speed"
+ },
+ "hele": {
+  "gloss": "especially, above all; just (emphasis); at last (hele şükür = thank goodness)"
+ },
+ "pilot": {
+  "gloss": "pilot"
+ },
+ "gene": {
+  "gloss": "again; still, yet; nevertheless"
+ },
+ "düz": {
+  "gloss": "flat; straight; plain"
+ },
+ "işkence": {
+  "gloss": "torture; torment"
+ },
+ "kıç": {
+  "gloss": "backside, rear; butt (informal, mildly vulgar)"
+ },
+ "uzatmak": {
+  "gloss": "to lengthen; to extend; to hold out; to grow (a beard)"
+ },
+ "etkilemek": {
+  "gloss": "to affect; to influence; to impress"
+ },
+ "virüs": {
+  "gloss": "virus"
+ },
+ "diz": {
+  "gloss": "knee"
+ },
+ "depo": {
+  "gloss": "storeroom; warehouse; tank (for fuel or water)"
+ },
+ "çete": {
+  "gloss": "gang"
+ },
+ "sabit": {
+  "gloss": "fixed; constant; stable",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "yönetmek": {
+  "gloss": "to manage; to run; to govern; to direct"
+ },
+ "ekonomik": {
+  "gloss": "economic; economical"
+ },
+ "yüzük": {
+  "gloss": "ring (worn on the finger)"
+ },
+ "koyun": {
+  "gloss": "sheep"
+ },
+ "hayran": {
+  "gloss": "admirer; fan; admiring (hayran olmak = to admire)"
+ },
+ "boya": {
+  "gloss": "paint; dye"
+ },
+ "yüzmek": {
+  "gloss": "to swim; to float"
+ },
+ "sigorta": {
+  "gloss": "insurance; fuse"
+ },
+ "boğaz": {
+  "gloss": "throat; strait"
+ },
+ "ölçü": {
+  "gloss": "measurement; measure; size"
+ },
+ "çaba": {
+  "gloss": "effort; endeavour"
+ },
+ "onca": {
+  "gloss": "so much; so many; all that"
+ },
+ "er": {
+  "gloss": "private (conscript soldier); early (in er geç = sooner or later)"
+ },
+ "azalmak": {
+  "gloss": "to decrease; to diminish"
+ },
+ "zorlamak": {
+  "gloss": "to force; to push; to strain"
+ },
+ "içermek": {
+  "gloss": "to contain; to include"
+ },
+ "hâlen": {
+  "gloss": "currently; at present"
+ },
+ "dilemek": {
+  "gloss": "to wish; to request; (özür dilemek) to apologize"
+ },
+ "vurulmak": {
+  "gloss": "to be shot; to be hit; (with dative) to fall for, fall in love with"
+ },
+ "çare": {
+  "gloss": "remedy; solution; way out"
+ },
+ "değerlendirmek": {
+  "gloss": "to evaluate; to assess; to consider; to make use of"
+ },
+ "cümle": {
+  "gloss": "sentence"
+ },
+ "kalıp": {
+  "gloss": "mold; form; pattern"
+ },
+ "bahar": {
+  "gloss": "spring (season)"
+ },
+ "dolamak": {
+  "gloss": "to wind around; to wrap; to twist"
+ },
+ "kasa": {
+  "gloss": "cash register; checkout; safe; case"
+ },
+ "şov": {
+  "gloss": "show (performance)"
+ },
+ "kızıl": {
+  "gloss": "red; scarlet; (figuratively) communist",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "aylık": {
+  "gloss": "monthly; month-old; monthly salary",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "hain": {
+  "gloss": "traitor; treacherous"
+ },
+ "kaçak": {
+  "gloss": "illegal; smuggled; fugitive; leak",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "müdahale": {
+  "gloss": "intervention; interference"
+ },
+ "defter": {
+  "gloss": "notebook; ledger"
+ },
+ "dolap": {
+  "gloss": "cupboard; cabinet; wardrobe"
+ },
+ "cadı": {
+  "gloss": "witch"
+ },
+ "dolmak": {
+  "gloss": "to fill up; to become full; to expire"
+ },
+ "seçilmek": {
+  "gloss": "to be elected; to be chosen"
+ },
+ "gölge": {
+  "gloss": "shadow; shade"
+ },
+ "belirli": {
+  "gloss": "certain; specific; definite"
+ },
+ "kap": {
+  "gloss": "container; vessel; dish"
+ },
+ "dede": {
+  "gloss": "grandfather"
+ },
+ "bas": {
+  "gloss": "bass (music)"
+ },
+ "bel": {
+  "gloss": "waist; lower back"
+ },
+ "dar": {
+  "gloss": "narrow; tight",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "romantik": {
+  "gloss": "romantic",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "borçlu": {
+  "gloss": "in debt; owing"
+ },
+ "denilmek": {
+  "gloss": "to be called; to be said"
+ },
+ "söylenmek": {
+  "gloss": "to grumble; to mutter; to be said"
+ },
+ "hüküm": {
+  "gloss": "ruling; verdict; judgment; rule (sovereignty)"
+ },
+ "heyecanlı": {
+  "gloss": "excited; exciting"
+ },
+ "bulut": {
+  "gloss": "cloud"
+ },
+ "tahta": {
+  "gloss": "board; plank; wood; throne"
+ },
+ "dernek": {
+  "gloss": "association; society"
+ },
+ "yenilmek": {
+  "gloss": "to be defeated; to be eaten"
+ },
+ "bilinç": {
+  "gloss": "consciousness; awareness"
+ },
+ "yuva": {
+  "gloss": "nest; home"
+ },
+ "ezmek": {
+  "gloss": "to crush; to squash; to mash; to grind"
+ },
+ "senaryo": {
+  "gloss": "scenario; screenplay, script"
+ },
+ "ısrar": {
+  "gloss": "insistence; persistence"
+ },
+ "kanun": {
+  "gloss": "law; statute; code"
+ },
+ "inşaat": {
+  "gloss": "construction; building site"
+ },
+ "zirve": {
+  "gloss": "summit; peak"
+ },
+ "gönül": {
+  "gloss": "heart (as the seat of feelings); mind; will, inclination"
+ },
+ "savaşçı": {
+  "gloss": "warrior; fighter"
+ },
+ "iyileşmek": {
+  "gloss": "to get better; to heal; to recover"
+ },
+ "kızgın": {
+  "gloss": "angry; red-hot"
+ },
+ "kas": {
+  "gloss": "muscle"
+ },
+ "bağlamak": {
+  "gloss": "to tie; to bind; to connect; to fasten"
+ },
+ "dik": {
+  "gloss": "steep; upright, vertical; perpendicular"
+ },
+ "kopya": {
+  "gloss": "copy; cheat sheet; cheating (in an exam)"
+ },
+ "hassas": {
+  "gloss": "sensitive; delicate; precise"
+ },
+ "rahip": {
+  "gloss": "priest; monk"
+ },
+ "firma": {
+  "gloss": "company; firm"
+ },
+ "nazik": {
+  "gloss": "polite; kind"
+ },
+ "acayip": {
+  "gloss": "strange; weird; bizarre"
+ },
+ "emmek": {
+  "gloss": "to suck; to absorb"
+ },
+ "temsilci": {
+  "gloss": "representative; agent"
+ },
+ "manzara": {
+  "gloss": "view; scenery"
+ },
+ "kurum": {
+  "gloss": "institution; organization; soot"
+ },
+ "perde": {
+  "gloss": "curtain; (theatre) act"
+ },
+ "minik": {
+  "gloss": "tiny; little"
+ },
+ "gerçi": {
+  "gloss": "although; admittedly, though",
+  "pos": "conj",
+  "posName": "conjunction"
+ },
+ "emretmek": {
+  "gloss": "to order; to command"
+ },
+ "hatır": {
+  "gloss": "sake; regard, respect; memory"
+ },
+ "okur": {
+  "gloss": "reader (of books, newspapers)"
+ },
+ "varlık": {
+  "gloss": "existence; being; wealth"
+ },
+ "ot": {
+  "gloss": "grass; herb; weed"
+ },
+ "dudak": {
+  "gloss": "lip"
+ },
+ "keskin": {
+  "gloss": "sharp; pungent, strong"
+ },
+ "ayarlamak": {
+  "gloss": "to adjust; to arrange; to set"
+ },
+ "Meksika": {
+  "posName": "noun"
+ },
+ "dikmek": {
+  "gloss": "to sew; to plant; to erect"
+ },
+ "domuz": {
+  "gloss": "pig; swine"
+ },
+ "renkli": {
+  "gloss": "colorful; colored"
+ },
+ "varmak": {
+  "gloss": "to arrive; to reach"
+ },
+ "sürdürmek": {
+  "gloss": "to continue; to maintain; to carry on"
+ },
+ "süreç": {
+  "gloss": "process"
+ },
+ "çelik": {
+  "gloss": "steel"
+ },
+ "yönelik": {
+  "gloss": "aimed at; directed toward (takes dative)"
+ },
+ "boşanmak": {
+  "gloss": "to get divorced"
+ },
+ "yem": {
+  "gloss": "animal feed, fodder; bait"
+ },
+ "vaka": {
+  "gloss": "case; incident"
+ },
+ "geçit": {
+  "gloss": "passage; pass; crossing"
+ },
+ "sürücü": {
+  "gloss": "driver; (computing) driver"
+ },
+ "tecrübe": {
+  "gloss": "experience"
+ },
+ "arzu": {
+  "gloss": "desire; wish"
+ },
+ "bıkmak": {
+  "gloss": "to get tired of; to be fed up with (+ablative)"
+ },
+ "neşe": {
+  "gloss": "joy; cheerfulness"
+ },
+ "yedek": {
+  "gloss": "spare; backup; substitute"
+ },
+ "sultan": {
+  "gloss": "sultan"
+ },
+ "kuruluş": {
+  "gloss": "organization; establishment; founding"
+ },
+ "sıkılmak": {
+  "gloss": "to get bored; to be embarrassed; to be squeezed"
+ },
+ "lisans": {
+  "gloss": "bachelor's degree; licence"
+ },
+ "tahliye": {
+  "gloss": "evacuation; release (from prison)"
+ },
+ "ibaret": {
+  "gloss": "consisting of (+ablative); nothing but"
+ },
+ "işgal": {
+  "gloss": "occupation; invasion; (işgal etmek) to occupy, take up"
+ },
+ "nöbet": {
+  "gloss": "shift, watch, duty; fit, attack (medical)"
+ },
+ "yetiştirmek": {
+  "gloss": "to raise; to bring up; to grow; to train; to manage to catch"
+ },
+ "iken": {
+  "gloss": "while, when (also the suffix -ken)",
+  "pos": "conj",
+  "posName": "conjunction"
+ },
+ "uydu": {
+  "gloss": "satellite; moon"
+ },
+ "ateşli": {
+  "gloss": "feverish; fiery, passionate"
+ },
+ "ertesi": {
+  "gloss": "next; following (as in the next day)"
+ },
+ "jüri": {
+  "gloss": "jury; panel of judges"
+ },
+ "kır": {
+  "gloss": "countryside; open country; grey (of hair, animals)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "silmek": {
+  "gloss": "to wipe; to wipe away; to erase, delete"
+ },
+ "çekinmek": {
+  "gloss": "to hesitate; to hold back; to be wary of (ablative)"
+ },
+ "uymak": {
+  "gloss": "to fit; to match, suit; to comply with, conform to (dative)"
+ },
+ "şirin": {
+  "gloss": "cute, charming; pleasant"
+ },
+ "elektronik": {
+  "gloss": "electronics; electronic"
+ },
+ "temin": {
+  "gloss": "supply, provision; securing (mostly in temin etmek, to provide)"
+ },
+ "alçak": {
+  "gloss": "low; base, despicable; scoundrel"
+ },
+ "isyan": {
+  "gloss": "revolt, rebellion, uprising"
+ },
+ "miras": {
+  "gloss": "inheritance; legacy, heritage"
+ },
+ "sektör": {
+  "gloss": "sector; industry"
+ },
+ "alışmak": {
+  "gloss": "to get used to, become accustomed to (dative)"
+ },
+ "fazlasıyla": {
+  "gloss": "more than enough; excessively, abundantly"
+ },
+ "boru": {
+  "gloss": "pipe, tube; horn, trumpet"
+ },
+ "zannetmek": {
+  "gloss": "to suppose, assume; to think; to mistake (for)"
+ },
+ "duman": {
+  "gloss": "smoke; fog, haze"
+ },
+ "erimek": {
+  "gloss": "to melt; to dissolve; to waste away"
+ },
+ "yıldırım": {
+  "gloss": "lightning; thunderbolt"
+ },
+ "gönderi": {
+  "gloss": "(social media) post; shipment, consignment"
+ },
+ "iğne": {
+  "gloss": "needle; injection, shot"
+ },
+ "hile": {
+  "gloss": "trick, ruse; cheating, deceit"
+ },
+ "sıkışmak": {
+  "gloss": "to get stuck, jam; to be squeezed; to be in a tight spot"
+ },
+ "istihbarat": {
+  "gloss": "intelligence (information gathering); intelligence service"
+ },
+ "fatura": {
+  "gloss": "bill; invoice"
+ },
+ "mahkûm": {
+  "gloss": "prisoner, convict; condemned"
+ },
+ "değmek": {
+  "gloss": "to be worth it, be worthwhile; to touch"
+ },
+ "taramak": {
+  "gloss": "to comb; to scan; to search thoroughly"
+ },
+ "birim": {
+  "gloss": "unit"
+ },
+ "dövmek": {
+  "gloss": "to beat, hit; to pound"
+ },
+ "kalkan": {
+  "gloss": "shield"
+ },
+ "denk": {
+  "gloss": "equal, match, peer; well-matched"
+ },
+ "makyaj": {
+  "gloss": "makeup, cosmetics"
+ },
+ "kıymet": {
+  "gloss": "value, worth"
+ },
+ "rakam": {
+  "gloss": "digit, numeral; figure"
+ },
+ "direkt": {
+  "gloss": "direct; directly"
+ },
+ "torun": {
+  "gloss": "grandchild, grandson, granddaughter"
+ },
+ "gergin": {
+  "gloss": "tense; nervous, on edge"
+ },
+ "yanmak": {
+  "gloss": "to burn, be on fire; to burn down"
+ },
+ "röportaj": {
+  "gloss": "interview (press); news report"
+ },
+ "emek": {
+  "gloss": "labour, effort, hard work"
+ },
+ "kibar": {
+  "gloss": "polite, courteous; refined"
+ },
+ "mantık": {
+  "gloss": "logic; reasoning"
+ },
+ "gömlek": {
+  "gloss": "shirt"
+ },
+ "inşallah": {
+  "gloss": "God willing; I hope so"
+ },
+ "oran": {
+  "gloss": "ratio; rate; proportion"
+ },
+ "rehber": {
+  "gloss": "guide; guidebook; directory (e.g. phone book)"
+ },
+ "atışmak": {
+  "gloss": "to bicker; to quarrel"
+ },
+ "kötülük": {
+  "gloss": "evil; wickedness; harm"
+ },
+ "temizlik": {
+  "gloss": "cleaning; cleanliness"
+ },
+ "cin": {
+  "gloss": "jinn; genie"
+ },
+ "milletvekili": {
+  "gloss": "member of parliament"
+ },
+ "boşluk": {
+  "gloss": "emptiness; gap; space; void"
+ },
+ "korkak": {
+  "gloss": "coward; cowardly"
+ },
+ "market": {
+  "gloss": "supermarket; grocery store"
+ },
+ "metro": {
+  "gloss": "subway; metro"
+ },
+ "bağımlı": {
+  "gloss": "addicted; dependent; addict",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "ısı": {
+  "gloss": "heat; temperature"
+ },
+ "cilt": {
+  "gloss": "skin; volume (of a book); binding"
+ },
+ "itibar": {
+  "gloss": "reputation; prestige; esteem; credit"
+ },
+ "yayılmak": {
+  "gloss": "to spread; to extend"
+ },
+ "kaplan": {
+  "gloss": "tiger"
+ },
+ "dökmek": {
+  "gloss": "to pour; to spill; to shed"
+ },
+ "çukur": {
+  "gloss": "hole; pit"
+ },
+ "aşmak": {
+  "gloss": "to cross over; to exceed; to overcome"
+ },
+ "öteki": {
+  "gloss": "the other; the other one"
+ },
+ "tüy": {
+  "gloss": "feather; body hair; fur"
+ },
+ "halletmek": {
+  "gloss": "to sort out; to settle; to take care of"
+ },
+ "kurumak": {
+  "gloss": "to dry; to dry up; to wither"
+ },
+ "yay": {
+  "gloss": "bow (weapon); spring; arch"
+ },
+ "yaygın": {
+  "gloss": "widespread; common"
+ },
+ "içerik": {
+  "gloss": "content; contents; ingredients"
+ },
+ "zorluk": {
+  "gloss": "difficulty; hardship; challenge"
+ },
+ "duruşma": {
+  "gloss": "hearing; trial"
+ },
+ "vefat": {
+  "gloss": "death (formal); passing"
+ },
+ "giyinmek": {
+  "gloss": "to get dressed; to put on"
+ },
+ "çakmak": {
+  "gloss": "to strike (a match); to hammer in; to flash; (noun) lighter"
+ },
+ "uydurmak": {
+  "gloss": "to make up, invent; to adapt; to fit; (ayak uydurmak) to keep up with"
+ },
+ "beyefendi": {
+  "gloss": "gentleman; sir"
+ },
+ "öylesine": {
+  "gloss": "casually, for no particular reason; so, such"
+ },
+ "pozitif": {
+  "gloss": "positive"
+ },
+ "tükenmek": {
+  "gloss": "to run out; to be exhausted"
+ },
+ "gezmek": {
+  "gloss": "to walk around; to tour; to go out; to travel"
+ },
+ "belirsiz": {
+  "gloss": "uncertain; vague; (grammar) indefinite"
+ },
+ "tavır": {
+  "gloss": "attitude; manner; behavior"
+ },
+ "çökmek": {
+  "gloss": "to collapse; to sink; to kneel"
+ },
+ "şiddetli": {
+  "gloss": "severe; intense; violent"
+ },
+ "küresel": {
+  "gloss": "global; spherical"
+ },
+ "kaliteli": {
+  "gloss": "high-quality"
+ },
+ "inek": {
+  "gloss": "cow; (slang) nerd, swot"
+ },
+ "kül": {
+  "gloss": "ash"
+ },
+ "dağıtmak": {
+  "gloss": "to distribute; to scatter; to hand out; to mess up"
+ },
+ "keşif": {
+  "gloss": "discovery; exploration; (military) reconnaissance"
+ },
+ "dişi": {
+  "gloss": "female (of animals)"
+ },
+ "zar": {
+  "gloss": "dice (sing. die); membrane; thin film"
+ },
+ "minnettar": {
+  "gloss": "grateful, thankful; indebted",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "pizza": {
+  "gloss": "pizza"
+ },
+ "kulübe": {
+  "gloss": "hut, cabin; shed"
+ },
+ "blok": {
+  "gloss": "block of flats; block; bloc"
+ },
+ "ağırlık": {
+  "gloss": "weight; heaviness"
+ },
+ "birleştirmek": {
+  "gloss": "to unite; to combine; to merge"
+ },
+ "samimi": {
+  "gloss": "sincere; friendly, warm; intimate"
+ },
+ "delirmek": {
+  "gloss": "to go mad; to go crazy"
+ },
+ "alıcı": {
+  "gloss": "buyer; receiver"
+ },
+ "yargı": {
+  "gloss": "judgment; verdict; the judiciary"
+ },
+ "ırk": {
+  "gloss": "race (ethnic group); breed"
+ },
+ "evvel": {
+  "gloss": "before, earlier (formal; same as önce)",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "sıkmak": {
+  "gloss": "to squeeze; to tighten; to bore, annoy; to press"
+ },
+ "leke": {
+  "gloss": "stain; spot; blemish"
+ },
+ "gülmek": {
+  "gloss": "to laugh; to smile"
+ },
+ "taklit": {
+  "gloss": "imitation; fake; copy"
+ },
+ "örümcek": {
+  "gloss": "spider"
+ },
+ "yıkamak": {
+  "gloss": "to wash"
+ },
+ "sesli": {
+  "gloss": "loud; voiced; vowel (sesli harf)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "utanmak": {
+  "gloss": "to be ashamed; to be embarrassed"
+ },
+ "sıcaklık": {
+  "gloss": "temperature; warmth; heat"
+ },
+ "haberdar": {
+  "gloss": "aware, informed"
+ },
+ "geçinmek": {
+  "gloss": "to get by, make a living; to get along (with)"
+ },
+ "serseri": {
+  "gloss": "vagabond, tramp; hoodlum",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "but": {
+  "gloss": "thigh; drumstick (of poultry)"
+ },
+ "lira": {
+  "gloss": "lira (currency)"
+ },
+ "bölmek": {
+  "gloss": "to divide, split; to interrupt"
+ },
+ "kabuk": {
+  "gloss": "shell; peel, rind; bark; scab"
+ },
+ "tutku": {
+  "gloss": "passion; desire; craving"
+ },
+ "moral": {
+  "gloss": "morale, spirits"
+ },
+ "vekil": {
+  "gloss": "deputy; proxy, representative; substitute"
+ },
+ "hayırlı": {
+  "gloss": "auspicious, blessed; good, beneficial"
+ },
+ "devir": {
+  "gloss": "era, age; period; cycle"
+ },
+ "kuruş": {
+  "gloss": "kuruş (one hundredth of a lira); penny"
+ },
+ "kiralık": {
+  "gloss": "for rent; rented, rental; hired"
+ },
+ "servet": {
+  "gloss": "wealth, fortune"
+ },
+ "nişan": {
+  "gloss": "engagement (to marry); aim, target; sign, mark"
+ },
+ "kuyruk": {
+  "gloss": "tail; queue, line"
+ },
+ "kavuşmak": {
+  "gloss": "to be reunited with; to reach, attain"
+ },
+ "yaratıcı": {
+  "gloss": "creative; creator",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "aykırı": {
+  "gloss": "contrary (to); against; incompatible"
+ },
+ "başlık": {
+  "gloss": "title, heading; headline; headgear"
+ },
+ "maya": {
+  "gloss": "yeast; leaven"
+ },
+ "kutlu": {
+  "gloss": "blessed; happy (as in doğum günün kutlu olsun)"
+ },
+ "amin": {
+  "gloss": "amen",
+  "pos": "interj",
+  "posName": "interjection"
+ },
+ "ebeveyn": {
+  "gloss": "parent"
+ },
+ "müsait": {
+  "gloss": "available, free; suitable"
+ },
+ "füze": {
+  "gloss": "missile; rocket"
+ },
+ "makam": {
+  "gloss": "office, position, post; authority"
+ },
+ "taktik": {
+  "gloss": "tactic"
+ },
+ "pratik": {
+  "gloss": "practical; handy"
+ },
+ "işlenmek": {
+  "gloss": "to be committed; to be processed; to be worked"
+ },
+ "düzen": {
+  "gloss": "order; system; arrangement"
+ },
+ "sinirli": {
+  "gloss": "irritable; angry; on edge"
+ },
+ "yönlendirmek": {
+  "gloss": "to direct, steer; to guide"
+ },
+ "anlamsız": {
+  "gloss": "meaningless; senseless",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "başvuru": {
+  "gloss": "application; appeal; reference"
+ },
+ "üvey": {
+  "gloss": "step- (as in üvey anne, üvey baba)"
+ },
+ "bez": {
+  "gloss": "cloth, rag; (anatomy) gland"
+ },
+ "artı": {
+  "gloss": "plus; advantage, plus point"
+ },
+ "hamle": {
+  "gloss": "move (in a game); attack; initiative"
+ },
+ "taban": {
+  "gloss": "sole (of the foot); base; floor"
+ },
+ "kucak": {
+  "gloss": "lap; arms, embrace"
+ },
+ "uçmak": {
+  "gloss": "to fly; to go quickly",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "zorlu": {
+  "gloss": "tough, challenging; formidable"
+ },
+ "bastırmak": {
+  "gloss": "to press down; to suppress; to come over (night, hunger, heat)"
+ },
+ "muhabbet": {
+  "gloss": "chat, conversation; fondness"
+ },
+ "espri": {
+  "gloss": "joke; wit, humor"
+ },
+ "oylamak": {
+  "gloss": "to vote on; to put to a vote"
+ },
+ "soy": {
+  "gloss": "ancestry, lineage; family"
+ },
+ "anayasa": {
+  "gloss": "constitution"
+ },
+ "fırın": {
+  "gloss": "oven; bakery"
+ },
+ "bit": {
+  "gloss": "louse; (computing) bit"
+ },
+ "amir": {
+  "gloss": "superior; commanding officer"
+ },
+ "şaşırtıcı": {
+  "gloss": "surprising; astonishing"
+ },
+ "kraliyet": {
+  "gloss": "royalty; royal (as in kraliyet ailesi, royal family)"
+ },
+ "masraf": {
+  "gloss": "expense; cost; charge"
+ },
+ "paşa": {
+  "gloss": "pasha (Ottoman title for senior officials); general"
+ },
+ "dönüştürmek": {
+  "gloss": "to convert; to transform; to recycle (geri dönüştürmek)"
+ },
+ "muazzam": {
+  "gloss": "enormous, immense; tremendous, magnificent"
+ },
+ "hitap": {
+  "gloss": "address; addressing (hitap etmek, to address)"
+ },
+ "batmak": {
+  "gloss": "to sink; to set (of the sun, moon); to prick, pierce"
+ },
+ "taraftar": {
+  "gloss": "supporter; fan"
+ },
+ "memleket": {
+  "gloss": "hometown; homeland; country"
+ },
+ "tohum": {
+  "gloss": "seed"
+ },
+ "uyanık": {
+  "gloss": "awake; alert; shrewd, streetwise"
+ },
+ "yeğen": {
+  "gloss": "nephew or niece"
+ },
+ "af": {
+  "gloss": "pardon; amnesty; forgiveness"
+ },
+ "şaşırtmak": {
+  "gloss": "to surprise; to confuse, puzzle"
+ },
+ "lastik": {
+  "gloss": "tire; rubber; elastic"
+ },
+ "başlı": {
+  "gloss": "-headed; having a head (as in üç başlı, three-headed)"
+ },
+ "muhafız": {
+  "gloss": "guard; bodyguard"
+ },
+ "filo": {
+  "gloss": "fleet; squadron"
+ },
+ "çalı": {
+  "gloss": "bush; shrub"
+ },
+ "mantar": {
+  "gloss": "mushroom; fungus; cork (stopper)"
+ },
+ "becermek": {
+  "gloss": "to manage to do; to be able to do well"
+ },
+ "kimya": {
+  "gloss": "chemistry"
+ },
+ "favori": {
+  "gloss": "favorite",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "amatör": {
+  "gloss": "amateur; amateurish"
+ },
+ "teker": {
+  "gloss": "wheel"
+ },
+ "sönmek": {
+  "gloss": "to go out; to die down (of a fire or light)"
+ },
+ "nakil": {
+  "gloss": "transfer; transplant; transport"
+ },
+ "hatıra": {
+  "gloss": "memory; keepsake, souvenir; (pl.) memoirs"
+ },
+ "çekirdek": {
+  "gloss": "seed, pit (of a fruit); kernel; nucleus; core (of a processor)"
+ },
+ "nitelik": {
+  "gloss": "quality; attribute; qualification"
+ },
+ "şahin": {
+  "gloss": "hawk; falcon"
+ },
+ "olgun": {
+  "gloss": "mature; ripe"
+ },
+ "göçmen": {
+  "gloss": "immigrant; migrant; migratory",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "avantaj": {
+  "gloss": "advantage"
+ },
+ "komiser": {
+  "gloss": "police inspector; commissioner"
+ },
+ "şarj": {
+  "gloss": "charge (of a battery); charging"
+ },
+ "sapık": {
+  "gloss": "pervert (insulting); deviant, perverted"
+ },
+ "tanıtmak": {
+  "gloss": "to introduce, present (a product, a person to the public); to promote"
+ },
+ "emanet": {
+  "gloss": "something entrusted; deposit; safekeeping"
+ },
+ "sade": {
+  "gloss": "plain; simple"
+ },
+ "nefis": {
+  "gloss": "delicious; exquisite, superb",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "atmosfer": {
+  "gloss": "atmosphere; ambiance"
+ },
+ "şube": {
+  "gloss": "branch; branch office"
+ },
+ "âlem": {
+  "gloss": "world; universe; realm; (biology) kingdom"
+ },
+ "asil": {
+  "gloss": "noble; aristocratic"
+ },
+ "mahal": {
+  "gloss": "place, location (formal)"
+ },
+ "mor": {
+  "gloss": "purple; violet",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "yetişmek": {
+  "gloss": "to catch up with; to arrive in time; to grow, be raised"
+ },
+ "aldatmak": {
+  "gloss": "to deceive; to cheat on (a partner)"
+ },
+ "bilek": {
+  "gloss": "wrist; ankle (ayak bileği)"
+ },
+ "ihtiyar": {
+  "gloss": "old person, elderly man or woman; (adj.) old, aged"
+ },
+ "beslemek": {
+  "gloss": "to feed, nourish; to keep (a pet); to harbor (a feeling)"
+ },
+ "as": {
+  "gloss": "ace (playing card)"
+ },
+ "dönüşüm": {
+  "gloss": "transformation; conversion; recycling (geri dönüşüm)"
+ },
+ "asistan": {
+  "gloss": "assistant; resident doctor"
+ },
+ "negatif": {
+  "gloss": "negative"
+ },
+ "yeraltı": {
+  "gloss": "underground; subterranean place"
+ },
+ "dehşet": {
+  "gloss": "terror, horror"
+ },
+ "mutsuz": {
+  "gloss": "unhappy, sad"
+ },
+ "işletmek": {
+  "gloss": "to run (a business, vehicle); to operate; to manage"
+ },
+ "ziyade": {
+  "gloss": "(after ablative) rather than, more than; excess",
+  "pos": "post",
+  "posName": "postposition"
+ },
+ "muamele": {
+  "gloss": "treatment (of a person); handling; formal procedure"
+ },
+ "tabanca": {
+  "gloss": "pistol; handgun"
+ },
+ "zehirli": {
+  "gloss": "poisonous; venomous"
+ },
+ "plaka": {
+  "gloss": "license plate; plate, slab"
+ },
+ "eşek": {
+  "gloss": "donkey; (insult) fool, idiot"
+ },
+ "hakem": {
+  "gloss": "referee; umpire"
+ },
+ "terfi": {
+  "gloss": "promotion (at work)"
+ },
+ "yitirmek": {
+  "gloss": "to lose (esp. hope, life, a person)"
+ },
+ "sayılı": {
+  "gloss": "numbered; limited, few"
+ },
+ "örtü": {
+  "gloss": "cover; cloth, covering"
+ },
+ "ulan": {
+  "gloss": "(rude, colloquial) hey; you idiot; dude"
+ },
+ "bilge": {
+  "gloss": "wise"
+ },
+ "saçlı": {
+  "gloss": "having hair; -haired (siyah saçlı = black-haired)"
+ },
+ "damat": {
+  "gloss": "groom, bridegroom; son-in-law"
+ },
+ "boşaltmak": {
+  "gloss": "to empty; to unload; to evacuate"
+ },
+ "şık": {
+  "gloss": "stylish, elegant; (noun) option in a multiple-choice question",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "muhabir": {
+  "gloss": "reporter, correspondent"
+ },
+ "özgü": {
+  "gloss": "peculiar to, specific to, characteristic of (takes dative)"
+ },
+ "tarla": {
+  "gloss": "field (farmland)"
+ },
+ "seslenmek": {
+  "gloss": "to call out to; to address"
+ },
+ "kazı": {
+  "gloss": "excavation, dig"
+ },
+ "muhtemel": {
+  "gloss": "probable, likely"
+ },
+ "iktidar": {
+  "gloss": "power (political); the government in power"
+ },
+ "kumanda": {
+  "gloss": "remote control; command, control"
+ },
+ "cami": {
+  "gloss": "mosque"
+ },
+ "lüks": {
+  "gloss": "luxury; luxurious, deluxe"
+ },
+ "papaz": {
+  "gloss": "priest, clergyman (Christian)"
+ },
+ "göç": {
+  "gloss": "migration; immigration, emigration"
+ },
+ "disiplin": {
+  "gloss": "discipline; field of study"
+ },
+ "cüzdan": {
+  "gloss": "wallet"
+ },
+ "usul": {
+  "gloss": "method, procedure; (usul usul) slowly, gently"
+ },
+ "akmak": {
+  "gloss": "to flow; to run; to leak"
+ },
+ "pist": {
+  "gloss": "track; runway; dance floor"
+ },
+ "tırnak": {
+  "gloss": "nail (finger/toe); claw; quotation mark"
+ },
+ "tıkmak": {
+  "gloss": "to stuff, cram, shove in"
+ },
+ "paha": {
+  "gloss": "price, value; cost"
+ },
+ "çubuk": {
+  "gloss": "stick, rod, bar"
+ },
+ "kapasite": {
+  "gloss": "capacity"
+ },
+ "eğilmek": {
+  "gloss": "to bend down; to lean over"
+ },
+ "felç": {
+  "gloss": "paralysis; stroke"
+ },
+ "asmak": {
+  "gloss": "to hang (up); to suspend"
+ },
+ "gözlük": {
+  "gloss": "glasses (eyewear)"
+ },
+ "kıyamet": {
+  "gloss": "doomsday, apocalypse; uproar, chaos"
+ },
+ "sporcu": {
+  "gloss": "athlete, sportsperson"
+ },
+ "hacı": {
+  "gloss": "hajji, pilgrim (one who has made the pilgrimage to Mecca)"
+ },
+ "huzurlu": {
+  "gloss": "peaceful, serene"
+ },
+ "kıskanmak": {
+  "gloss": "to be jealous of; to envy; to begrudge"
+ },
+ "dayak": {
+  "gloss": "beating, thrashing"
+ },
+ "direktör": {
+  "gloss": "director (of a company or institution); manager"
+ },
+ "plaj": {
+  "gloss": "beach"
+ },
+ "göbek": {
+  "gloss": "navel; belly, paunch; middle, core"
+ },
+ "fener": {
+  "gloss": "lantern; flashlight; lighthouse"
+ },
+ "iyileştirmek": {
+  "gloss": "to improve; to heal, cure"
+ },
+ "yepyeni": {
+  "gloss": "brand new"
+ },
+ "hatalı": {
+  "gloss": "faulty, wrong, erroneous"
+ },
+ "sadakat": {
+  "gloss": "loyalty, faithfulness"
+ },
+ "haç": {
+  "gloss": "cross (Christian symbol)"
+ },
+ "biber": {
+  "gloss": "pepper (spice or vegetable); chili"
+ },
+ "verimli": {
+  "gloss": "productive; efficient; fertile"
+ },
+ "eğitmek": {
+  "gloss": "to train; to educate"
+ },
+ "ahmak": {
+  "gloss": "stupid, foolish; fool"
+ },
+ "fıstık": {
+  "gloss": "peanut; pistachio; nut"
+ },
+ "alım": {
+  "gloss": "purchase, buying; recruitment (işe alım)"
+ },
+ "marş": {
+  "gloss": "march (music); anthem"
+ },
+ "yakışmak": {
+  "gloss": "to suit, befit; to look good on (someone)"
+ },
+ "dağılmak": {
+  "gloss": "to scatter; to disperse; to break up; to fall apart"
+ },
+ "soyunmak": {
+  "gloss": "to undress, take off one's clothes"
+ },
+ "atom": {
+  "gloss": "atom"
+ },
+ "sinek": {
+  "gloss": "fly (insect); clubs (card suit)"
+ },
+ "ağrımak": {
+  "gloss": "to ache, hurt"
+ },
+ "döndürmek": {
+  "gloss": "to turn; to rotate, spin; to return (something)"
+ },
+ "ışın": {
+  "gloss": "ray; beam"
+ },
+ "makul": {
+  "gloss": "reasonable; sensible"
+ },
+ "masal": {
+  "gloss": "fairy tale; tale, story; (colloquial) nonsense"
+ },
+ "şah": {
+  "gloss": "shah; (chess) check, king"
+ },
+ "üçlü": {
+  "gloss": "trio; triple, three-part"
+ },
+ "kese": {
+  "gloss": "pouch, small bag; (bath) scrubbing mitt"
+ },
+ "telsiz": {
+  "gloss": "walkie-talkie, two-way radio; wireless",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "sakat": {
+  "gloss": "disabled, handicapped; injured, lame"
+ },
+ "sanık": {
+  "gloss": "defendant; accused",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "iblis": {
+  "gloss": "devil, demon; Satan"
+ },
+ "amma": {
+  "gloss": "(colloquial) how...!, what a...! (intensifier); (conj.) but"
+ },
+ "dayalı": {
+  "gloss": "based (on); founded (on)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "aşı": {
+  "gloss": "vaccine; (botany) graft"
+ },
+ "yoldaş": {
+  "gloss": "comrade; companion, fellow traveller"
+ },
+ "faydalı": {
+  "gloss": "useful; beneficial"
+ },
+ "köken": {
+  "gloss": "origin; root; (of a word) etymology"
+ },
+ "çatlak": {
+  "gloss": "crack, fissure; cracked"
+ },
+ "çıldırmak": {
+  "gloss": "to go mad, go crazy, lose one's mind"
+ },
+ "sızmak": {
+  "gloss": "to seep, leak, ooze; to leak out (become known); to infiltrate"
+ },
+ "küfür": {
+  "gloss": "swearing, cursing; blasphemy"
+ },
+ "yüklemek": {
+  "gloss": "to load; to upload; to install"
+ },
+ "baraj": {
+  "gloss": "dam; barrier; (election) threshold"
+ },
+ "sonuncu": {
+  "gloss": "last, final (in a series)"
+ },
+ "donmak": {
+  "gloss": "to freeze; to freeze up; to feel very cold"
+ },
+ "saygısız": {
+  "gloss": "disrespectful, rude"
+ },
+ "tanım": {
+  "gloss": "definition; description"
+ },
+ "endişeli": {
+  "gloss": "anxious, worried"
+ },
+ "nişanlı": {
+  "gloss": "fiancé, fiancée; engaged"
+ },
+ "antrenman": {
+  "gloss": "training, workout"
+ },
+ "etkin": {
+  "gloss": "active; effective; efficient"
+ },
+ "doğrulamak": {
+  "gloss": "to verify, confirm; to straighten up, sit upright"
+ },
+ "ulu": {
+  "gloss": "great, exalted, supreme"
+ },
+ "kopmak": {
+  "gloss": "to break off, snap; to come off; (of a storm, etc.) to break out"
+ },
+ "dana": {
+  "gloss": "calf; veal"
+ },
+ "yılmak": {
+  "gloss": "to be daunted, lose heart; to be intimidated"
+ },
+ "soluk": {
+  "gloss": "breath, breathing; pale, faded"
+ },
+ "sağlanmak": {
+  "gloss": "to be provided; to be achieved, ensured"
+ },
+ "öd": {
+  "gloss": "gall, bile (in idioms: fear, guts)"
+ },
+ "güncel": {
+  "gloss": "current, up-to-date; topical"
+ },
+ "dâhil": {
+  "gloss": "included, including; involved",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "reis": {
+  "gloss": "boss, chief, head; (nautical) skipper"
+ },
+ "dolanmak": {
+  "gloss": "to wander, stroll around; to get entangled"
+ },
+ "cinsiyet": {
+  "gloss": "gender; sex"
+ },
+ "delmek": {
+  "gloss": "to pierce; to drill, make a hole in; to puncture"
+ },
+ "meraklı": {
+  "gloss": "curious; keen, interested (in)"
+ },
+ "pazarlık": {
+  "gloss": "bargaining, haggling; negotiation"
+ },
+ "yıkmak": {
+  "gloss": "to demolish, tear down; to knock down; to ruin"
+ },
+ "aldırmak": {
+  "gloss": "to mind, care about (mostly negative: aldırma = never mind); to make someone take/gain"
+ },
+ "büyüklük": {
+  "gloss": "size; greatness; magnitude"
+ },
+ "mod": {
+  "gloss": "mode; mood"
+ },
+ "madam": {
+  "gloss": "madam, ma'am"
+ },
+ "yığın": {
+  "gloss": "pile, heap; mass; (colloquial) loads of"
+ },
+ "gecelik": {
+  "gloss": "nightgown, nightdress; for the night; ...-night (iki gecelik = two-night)"
+ },
+ "afiyet": {
+  "gloss": "health, well-being; (afiyet olsun) bon appétit, enjoy your meal"
+ },
+ "olanak": {
+  "gloss": "possibility; opportunity, chance"
+ },
+ "rehin": {
+  "gloss": "pledge, pawn; hostage (rehin tutmak = to hold hostage; rehine also common)"
+ },
+ "muayene": {
+  "gloss": "medical examination, check-up; inspection"
+ },
+ "ezik": {
+  "gloss": "loser (slang); bruised, crushed"
+ },
+ "öfkeli": {
+  "gloss": "angry, furious"
+ },
+ "mesai": {
+  "gloss": "working hours; overtime (fazla mesai); shift"
+ },
+ "sınırsız": {
+  "gloss": "unlimited, limitless; boundless"
+ },
+ "elçi": {
+  "gloss": "envoy, ambassador (büyükelçi); messenger"
+ },
+ "solunum": {
+  "gloss": "breathing, respiration"
+ },
+ "rejim": {
+  "gloss": "regime; diet (for weight loss)"
+ },
+ "ideal": {
+  "gloss": "ideal; perfect",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "dağıtım": {
+  "gloss": "distribution; delivery"
+ },
+ "kalkışmak": {
+  "gloss": "to venture, to dare to attempt (something risky or difficult)"
+ },
+ "tez": {
+  "gloss": "thesis, dissertation; (formal) quick, prompt"
+ },
+ "büyüleyici": {
+  "gloss": "fascinating, captivating, enchanting"
+ },
+ "çerçeve": {
+  "gloss": "frame; framework, scope"
+ },
+ "uşak": {
+  "gloss": "servant, male attendant; lackey"
+ },
+ "yanık": {
+  "gloss": "burn (injury); burnt",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "canlandırmak": {
+  "gloss": "to enliven, revive; to bring to life; to portray (a character)"
+ },
+ "kapsam": {
+  "gloss": "scope, extent; coverage"
+ },
+ "ayıp": {
+  "gloss": "shame, shameful or improper thing; (interj.) shame!"
+ },
+ "gebermek": {
+  "gloss": "(vulgar slang) to croak, to die (derogatory)"
+ },
+ "gömmek": {
+  "gloss": "to bury"
+ },
+ "olağan": {
+  "gloss": "usual, normal, ordinary"
+ },
+ "cins": {
+  "gloss": "kind, sort, type; breed"
+ },
+ "ahbap": {
+  "gloss": "buddy, pal, mate; friend"
+ },
+ "seçkin": {
+  "gloss": "distinguished, select, elite; outstanding"
+ },
+ "tuş": {
+  "gloss": "key, button (on a keyboard or device)"
+ },
+ "buhar": {
+  "gloss": "steam, vapor"
+ },
+ "devriye": {
+  "gloss": "patrol"
+ },
+ "gövde": {
+  "gloss": "torso, body; trunk (of a tree)"
+ },
+ "kürek": {
+  "gloss": "shovel; oar, paddle"
+ },
+ "titremek": {
+  "gloss": "to tremble, shiver; to shake"
+ },
+ "ehliyet": {
+  "gloss": "driver's license; competence, qualification"
+ },
+ "infaz": {
+  "gloss": "execution (of a sentence or death penalty)"
+ },
+ "koparmak": {
+  "gloss": "to tear off, pluck, break off; (yaygara koparmak) to raise a fuss"
+ },
+ "yargılamak": {
+  "gloss": "to judge; to try (in court)"
+ },
+ "heyet": {
+  "gloss": "delegation; committee, board"
+ },
+ "nereden": {
+  "gloss": "from where, where from",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "gen": {
+  "gloss": "gene"
+ },
+ "namaz": {
+  "gloss": "Islamic ritual prayer (namaz kılmak: to perform the prayer)"
+ },
+ "çetin": {
+  "gloss": "hard, tough, difficult",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "kutup": {
+  "gloss": "pole (North/South Pole); polar"
+ },
+ "besin": {
+  "gloss": "nutrient; nourishment"
+ },
+ "parçalanmak": {
+  "gloss": "to be broken into pieces, shattered; to be fragmented"
+ },
+ "hayli": {
+  "gloss": "quite, considerably; quite a lot (of)",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "imdat": {
+  "gloss": "help (cry for help); assistance"
+ },
+ "fedakâr": {
+  "gloss": "self-sacrificing, selfless"
+ },
+ "mücevher": {
+  "gloss": "jewel, gem; jewellery"
+ },
+ "kuşak": {
+  "gloss": "generation; belt, sash; zone"
+ },
+ "işletme": {
+  "gloss": "business, enterprise; management"
+ },
+ "fen": {
+  "gloss": "science (natural sciences)"
+ },
+ "karma": {
+  "gloss": "mixed; coeducational; karma",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "başrol": {
+  "gloss": "leading role, starring role"
+ },
+ "kızarmak": {
+  "gloss": "to turn red; to blush; to brown (while cooking)"
+ },
+ "suikast": {
+  "gloss": "assassination; assassination plot"
+ },
+ "uzamak": {
+  "gloss": "to grow longer or taller; to take a long time"
+ },
+ "hane": {
+  "gloss": "household; column (in accounts); (formal) house"
+ },
+ "dayanıklı": {
+  "gloss": "durable, sturdy; resilient"
+ },
+ "kesim": {
+  "gloss": "cut, cutting (as in haircut); section, segment; slaughter"
+ },
+ "anlık": {
+  "gloss": "momentary, brief; instant",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "duyurmak": {
+  "gloss": "to announce; to make known"
+ },
+ "kısmen": {
+  "gloss": "partly, partially; to some extent"
+ },
+ "takdim": {
+  "gloss": "presentation, introduction (of a person); offering"
+ },
+ "bakıcı": {
+  "gloss": "babysitter, nanny; caregiver"
+ },
+ "kapsamlı": {
+  "gloss": "comprehensive, extensive"
+ },
+ "nam": {
+  "gloss": "fame, renown; reputation"
+ },
+ "rahatsızlık": {
+  "gloss": "discomfort; illness, ailment; inconvenience"
+ },
+ "acıkmak": {
+  "gloss": "to get hungry"
+ },
+ "müddet": {
+  "gloss": "period of time, duration; a while"
+ },
+ "dayamak": {
+  "gloss": "to lean (something) against; to prop"
+ },
+ "sinsi": {
+  "gloss": "sly, sneaky; insidious"
+ },
+ "yutmak": {
+  "gloss": "to swallow"
+ },
+ "kızmak": {
+  "gloss": "to get angry; to get hot, heat up"
+ },
+ "çember": {
+  "gloss": "circle (outline); hoop"
+ },
+ "malum": {
+  "gloss": "known, well-known; obvious",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "galip": {
+  "gloss": "victorious, winning (galip gelmek: to prevail)"
+ },
+ "zam": {
+  "gloss": "increase (in price or pay); raise, hike"
+ },
+ "nevi": {
+  "gloss": "kind, sort, type"
+ },
+ "kamyonet": {
+  "gloss": "pickup truck; light delivery van"
+ },
+ "askı": {
+  "gloss": "hanger; strap; suspension (askıya almak: to suspend)"
+ },
+ "santral": {
+  "gloss": "power plant; telephone exchange, switchboard"
+ },
+ "mağlup": {
+  "gloss": "defeated, beaten"
+ },
+ "esrar": {
+  "gloss": "hashish, cannabis; mystery, secret"
+ },
+ "izinsiz": {
+  "gloss": "without permission; unauthorized"
+ },
+ "dere": {
+  "gloss": "stream, brook, creek"
+ },
+ "formül": {
+  "gloss": "formula"
+ },
+ "uçurum": {
+  "gloss": "cliff; precipice, abyss"
+ },
+ "akın": {
+  "gloss": "rush, influx; raid, invasion"
+ },
+ "tava": {
+  "gloss": "frying pan"
+ },
+ "arıza": {
+  "gloss": "breakdown, malfunction, fault"
+ },
+ "galeri": {
+  "gloss": "gallery; (car) showroom"
+ },
+ "pop": {
+  "gloss": "pop music"
+ },
+ "paylaşım": {
+  "gloss": "sharing; (social media) post"
+ },
+ "mekanik": {
+  "gloss": "mechanical",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "sakız": {
+  "gloss": "chewing gum; mastic resin"
+ },
+ "bozukluk": {
+  "gloss": "small change (coins); defect, malfunction; disorder"
+ },
+ "yen": {
+  "gloss": "yen (Japanese currency)"
+ },
+ "şahıs": {
+  "gloss": "person, individual"
+ },
+ "muhafaza": {
+  "gloss": "protection, preservation (muhafaza etmek: to protect, keep)"
+ },
+ "sürgün": {
+  "gloss": "exile, banishment; exiled person"
+ },
+ "balina": {
+  "gloss": "whale"
+ },
+ "egemen": {
+  "gloss": "sovereign; dominant, ruling"
+ },
+ "görgü": {
+  "gloss": "good manners, etiquette; (görgü tanığı) eyewitness"
+ },
+ "yırtmak": {
+  "gloss": "to tear, rip"
+ },
+ "değişken": {
+  "gloss": "changeable, fickle; variable",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "evcil": {
+  "gloss": "domestic, tame (evcil hayvan: pet)"
+ },
+ "fiş": {
+  "gloss": "receipt, slip; (electrical) plug"
+ },
+ "yaban": {
+  "gloss": "wild, untamed; strange, foreign"
+ },
+ "gizlemek": {
+  "gloss": "to hide, conceal"
+ },
+ "mahsur": {
+  "gloss": "stuck, trapped, stranded"
+ },
+ "ihmal": {
+  "gloss": "negligence, neglect"
+ },
+ "dağınık": {
+  "gloss": "messy, untidy; scattered"
+ },
+ "kayak": {
+  "gloss": "skiing; ski"
+ },
+ "şerit": {
+  "gloss": "lane; strip, band, ribbon"
+ },
+ "şimşek": {
+  "gloss": "lightning"
+ },
+ "mama": {
+  "gloss": "baby food; pet food"
+ },
+ "harekât": {
+  "gloss": "(military) operation; movement"
+ },
+ "muhtaç": {
+  "gloss": "in need (of); needy; dependent"
+ },
+ "sahtekâr": {
+  "gloss": "fraud, swindler, impostor; dishonest"
+ },
+ "asi": {
+  "gloss": "rebellious; unruly; rebel"
+ },
+ "büyülü": {
+  "gloss": "magical; enchanted"
+ },
+ "zararlı": {
+  "gloss": "harmful; damaging"
+ },
+ "akciğer": {
+  "gloss": "lung"
+ },
+ "körfez": {
+  "gloss": "gulf; bay"
+ },
+ "teşkil": {
+  "gloss": "formation, constitution; mostly in teşkil etmek 'to constitute, pose, form'"
+ },
+ "salgın": {
+  "gloss": "epidemic, outbreak"
+ },
+ "kaynamak": {
+  "gloss": "to boil; to simmer"
+ },
+ "sığınak": {
+  "gloss": "shelter, refuge; bunker"
+ },
+ "fişek": {
+  "gloss": "cartridge, round; firecracker (havai fişek = fireworks)"
+ },
+ "grip": {
+  "gloss": "flu, influenza"
+ },
+ "paramparça": {
+  "gloss": "in pieces, shattered; torn to shreds"
+ },
+ "post": {
+  "gloss": "animal hide, pelt, fur"
+ },
+ "satır": {
+  "gloss": "line (of text); row; cleaver"
+ },
+ "bildirilmek": {
+  "gloss": "to be reported; to be announced"
+ },
+ "birader": {
+  "gloss": "brother, buddy (colloquial)"
+ },
+ "üzmek": {
+  "gloss": "to upset, sadden, distress"
+ },
+ "esmer": {
+  "gloss": "dark-complexioned; brunette",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "engin": {
+  "gloss": "vast, boundless; open (of sea)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "ahşap": {
+  "gloss": "wooden; wood"
+ },
+ "kapsamak": {
+  "gloss": "to cover, include, encompass"
+ },
+ "şeyh": {
+  "gloss": "sheikh (head of a Sufi order; Arab leader)"
+ },
+ "tahammül": {
+  "gloss": "tolerance, endurance; patience"
+ },
+ "parçalamak": {
+  "gloss": "to tear to pieces, rip up; to break up, shred"
+ },
+ "etik": {
+  "gloss": "ethical; ethics",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "çarpı": {
+  "gloss": "times, multiplied by; multiplication sign (×)"
+ },
+ "katmak": {
+  "gloss": "to add; to mix in; to include"
+ },
+ "yağmak": {
+  "gloss": "to fall as rain, snow or hail; to rain down"
+ },
+ "azgın": {
+  "gloss": "raging, fierce; rampant; wild"
+ },
+ "feci": {
+  "gloss": "disastrous; tragic; terrible"
+ },
+ "biçmek": {
+  "gloss": "to mow, cut down; to cut out (fabric); to assess (paha biçmek)"
+ },
+ "konmak": {
+  "gloss": "to land, perch (on); to be placed, set"
+ },
+ "prova": {
+  "gloss": "rehearsal; fitting, trial"
+ },
+ "salim": {
+  "gloss": "safe, unharmed (mostly in sağ salim)"
+ },
+ "ördek": {
+  "gloss": "duck"
+ },
+ "tercüme": {
+  "gloss": "translation; interpretation"
+ },
+ "namus": {
+  "gloss": "honor; integrity; chastity"
+ },
+ "çürümek": {
+  "gloss": "to rot; to decay"
+ },
+ "nişancı": {
+  "gloss": "marksman, sharpshooter"
+ },
+ "uğratmak": {
+  "gloss": "to make suffer or meet with (hayal kırıklığına uğratmak = to disappoint)"
+ },
+ "sığır": {
+  "gloss": "cattle; cow, ox"
+ },
+ "aksiyon": {
+  "gloss": "action (in films, games, etc.)"
+ },
+ "ayarlanmak": {
+  "gloss": "to be adjusted; to be arranged, set up"
+ },
+ "kolay gelsin": {
+  "gloss": "(said to someone working) may your work go easy; good luck with the work"
+ },
+ "aydınlık": {
+  "gloss": "bright, light; brightness",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "silinmek": {
+  "gloss": "to be deleted; to be erased, wiped"
+ },
+ "kanepe": {
+  "gloss": "sofa, couch"
+ },
+ "dondurmak": {
+  "gloss": "to freeze (something)"
+ },
+ "konsantre": {
+  "gloss": "concentrated; (konsantre olmak) to concentrate, focus"
+ },
+ "çiğ": {
+  "gloss": "raw, uncooked; harsh, garish"
+ },
+ "karmak": {
+  "gloss": "to mix, blend; to shuffle (cards)"
+ },
+ "demokrat": {
+  "gloss": "democrat; democratic"
+ },
+ "kimi": {
+  "gloss": "some (kimi ... kimi = some ... others)",
+  "pos": "det",
+  "posName": "determiner"
+ },
+ "tırmanmak": {
+  "gloss": "to climb"
+ },
+ "aktarmak": {
+  "gloss": "to transfer; to convey, relay; to pass on"
+ },
+ "doğurmak": {
+  "gloss": "to give birth (to); to bear; to give rise to"
+ },
+ "övgü": {
+  "gloss": "praise; compliment"
+ },
+ "ilkel": {
+  "gloss": "primitive; primal"
+ },
+ "icap": {
+  "gloss": "necessity, requirement; (icap etmek) to be necessary"
+ },
+ "köfte": {
+  "gloss": "meatballs; kofta"
+ },
+ "bekçi": {
+  "gloss": "guard; watchman"
+ },
+ "kalça": {
+  "gloss": "hip; buttock"
+ },
+ "akım": {
+  "gloss": "current (of water, electricity); stream; trend, movement"
+ },
+ "takviye": {
+  "gloss": "reinforcement; strengthening; supplement"
+ },
+ "süs": {
+  "gloss": "decoration; ornament"
+ },
+ "vesile": {
+  "gloss": "occasion; means, pretext"
+ },
+ "kızartmak": {
+  "gloss": "to fry; to roast"
+ },
+ "donanım": {
+  "gloss": "hardware; equipment"
+ },
+ "çağdaş": {
+  "gloss": "contemporary; modern"
+ },
+ "kurbağa": {
+  "gloss": "frog; toad"
+ },
+ "çapraz": {
+  "gloss": "diagonal; crosswise; cross",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "güreş": {
+  "gloss": "wrestling"
+ },
+ "estetik": {
+  "gloss": "aesthetic; aesthetics; cosmetic (estetik ameliyat = cosmetic surgery)"
+ },
+ "dengesiz": {
+  "gloss": "unbalanced; unstable"
+ },
+ "demin": {
+  "gloss": "just now; a moment ago"
+ },
+ "yörünge": {
+  "gloss": "orbit"
+ },
+ "şefkat": {
+  "gloss": "compassion; tenderness; affection"
+ },
+ "düşkün": {
+  "gloss": "fond of, devoted to, keen on; down-and-out"
+ },
+ "teyit": {
+  "gloss": "confirmation, verification"
+ },
+ "iskele": {
+  "gloss": "pier, quay, jetty; scaffolding; port (left) side"
+ },
+ "giyim": {
+  "gloss": "clothing, clothes"
+ },
+ "manken": {
+  "gloss": "model; mannequin"
+ },
+ "diyar": {
+  "gloss": "land, region, realm"
+ },
+ "aparmak": {
+  "gloss": "to swipe, to pinch (slang); to take away"
+ },
+ "teşebbüs": {
+  "gloss": "attempt; initiative"
+ },
+ "maliye": {
+  "gloss": "public finance; the treasury; finance ministry"
+ },
+ "yüzleşmek": {
+  "gloss": "to face, to confront (with -le)"
+ },
+ "ortaokul": {
+  "gloss": "middle school, junior high school"
+ },
+ "aptallık": {
+  "gloss": "foolishness, stupidity"
+ },
+ "yansımak": {
+  "gloss": "to be reflected; to reflect"
+ },
+ "bulaşık": {
+  "gloss": "dirty dishes; the dishes"
+ },
+ "kılmak": {
+  "gloss": "to perform (namaz kılmak = to pray); to settle on (karar kılmak)"
+ },
+ "sezmek": {
+  "gloss": "to sense, to perceive; to suspect"
+ },
+ "bereket": {
+  "gloss": "abundance, plenty; blessing"
+ },
+ "uçurmak": {
+  "gloss": "to fly (a plane, kite); to make something fly"
+ },
+ "ayrıcalık": {
+  "gloss": "privilege"
+ },
+ "bulgu": {
+  "gloss": "finding; discovery"
+ },
+ "sıçramak": {
+  "gloss": "to jump, to leap; to splash"
+ },
+ "koz": {
+  "gloss": "trump (card)"
+ },
+ "pul": {
+  "gloss": "stamp; scale (of a fish)"
+ },
+ "menü": {
+  "gloss": "menu"
+ },
+ "atak": {
+  "gloss": "attack, fit (of an illness); attack (in sports)"
+ },
+ "ırak": {
+  "gloss": "far, distant"
+ },
+ "üşümek": {
+  "gloss": "to feel cold; to shiver with cold"
+ },
+ "klip": {
+  "gloss": "music video; clip"
+ },
+ "gey": {
+  "gloss": "gay (man)"
+ },
+ "yormak": {
+  "gloss": "to tire, to exhaust; (kafa yormak) to rack one's brain"
+ },
+ "muhakkak": {
+  "gloss": "definitely, surely, without fail; certain",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "sulu": {
+  "gloss": "juicy; watery"
+ },
+ "yenilik": {
+  "gloss": "innovation; novelty; newness"
+ },
+ "yalamak": {
+  "gloss": "to lick"
+ },
+ "şerefe": {
+  "gloss": "cheers! (toast)",
+  "pos": "interj",
+  "posName": "interjection"
+ },
+ "yaymak": {
+  "gloss": "to spread; to scatter; to broadcast; to emit"
+ },
+ "vallahi": {
+  "gloss": "I swear (to God); really, honestly"
+ },
+ "nezaket": {
+  "gloss": "politeness, courtesy; kindness"
+ },
+ "arz": {
+  "gloss": "supply (economics); submission, presentation"
+ },
+ "uzmanlık": {
+  "gloss": "expertise; specialization"
+ },
+ "ortam": {
+  "gloss": "environment; atmosphere; surroundings"
+ },
+ "kaldırım": {
+  "gloss": "sidewalk; pavement"
+ },
+ "görkemli": {
+  "gloss": "magnificent; splendid; majestic"
+ },
+ "istekli": {
+  "gloss": "eager; willing; keen"
+ },
+ "kaplumbağa": {
+  "gloss": "turtle; tortoise"
+ },
+ "ergen": {
+  "gloss": "teenager; adolescent"
+ },
+ "boğmak": {
+  "gloss": "to strangle; to choke; to drown; to suffocate"
+ },
+ "üyelik": {
+  "gloss": "membership"
+ },
+ "kazak": {
+  "gloss": "sweater; pullover"
+ },
+ "kaz": {
+  "gloss": "goose"
+ },
+ "tarikat": {
+  "gloss": "religious order; sect; cult"
+ },
+ "atlı": {
+  "gloss": "mounted (on horseback); horseman; horse-drawn"
+ },
+ "soğumak": {
+  "gloss": "to get cold; to cool down"
+ },
+ "çekiç": {
+  "gloss": "hammer"
+ },
+ "iltifat": {
+  "gloss": "compliment; flattery"
+ },
+ "azap": {
+  "gloss": "torment; agony; suffering"
+ },
+ "susamak": {
+  "gloss": "to get thirsty; to be thirsty"
+ },
+ "sivri": {
+  "gloss": "pointed; sharp"
+ },
+ "bellek": {
+  "gloss": "memory"
+ },
+ "çikolatalı": {
+  "gloss": "chocolate-flavored; with chocolate"
+ },
+ "istatistik": {
+  "gloss": "statistics; statistic"
+ },
+ "hamam": {
+  "gloss": "Turkish bath; hammam"
+ },
+ "anıt": {
+  "gloss": "monument"
+ },
+ "ihraç": {
+  "gloss": "export; expulsion"
+ },
+ "ahır": {
+  "gloss": "barn; stable; cowshed"
+ },
+ "havalanmak": {
+  "gloss": "to take off (aircraft); to get airborne"
+ },
+ "sancak": {
+  "gloss": "flag, banner; starboard"
+ },
+ "baz": {
+  "gloss": "(chemistry) base; basis"
+ },
+ "popo": {
+  "gloss": "(informal, childish) bottom, butt"
+ },
+ "öpüşmek": {
+  "gloss": "to kiss (each other)"
+ },
+ "destan": {
+  "gloss": "epic; saga"
+ },
+ "kasıt": {
+  "gloss": "intent; intention; deliberateness"
+ },
+ "hakikat": {
+  "gloss": "truth; reality"
+ },
+ "çim": {
+  "gloss": "grass; lawn; turf"
+ },
+ "tasarruf": {
+  "gloss": "saving; economy; thrift"
+ },
+ "rezalet": {
+  "gloss": "disgrace; scandal; outrage"
+ },
+ "gümrük": {
+  "gloss": "customs; customs duty"
+ },
+ "emlak": {
+  "gloss": "real estate; property"
+ },
+ "şantaj": {
+  "gloss": "blackmail"
+ },
+ "çürük": {
+  "gloss": "rotten; decayed; bruise; cavity (in a tooth)"
+ },
+ "çaylak": {
+  "gloss": "rookie; newbie; novice"
+ },
+ "mekik": {
+  "gloss": "shuttle; sit-up (mekik çekmek)"
+ },
+ "oyunculuk": {
+  "gloss": "acting; acting profession"
+ },
+ "germek": {
+  "gloss": "to stretch; to pull taut; to tense"
+ },
+ "temelli": {
+  "gloss": "permanently, for good; (after a noun) based on"
+ },
+ "hah": {
+  "gloss": "aha; there you go; that's it (expresses relief or satisfaction)"
+ },
+ "haz": {
+  "gloss": "pleasure; enjoyment"
+ },
+ "ısınmak": {
+  "gloss": "to get warm; to warm up"
+ },
+ "ciğer": {
+  "gloss": "liver (esp. as food); lungs"
+ },
+ "nur": {
+  "gloss": "radiance; divine light"
+ },
+ "boşalmak": {
+  "gloss": "to become empty; to pour out; to flow (into)"
+ },
+ "pişmek": {
+  "gloss": "to cook, be cooked; to ripen"
+ },
+ "cüret": {
+  "gloss": "audacity; boldness; nerve"
+ },
+ "bekâr": {
+  "gloss": "single, unmarried; bachelor",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "trajik": {
+  "gloss": "tragic"
+ },
+ "ürkütücü": {
+  "gloss": "scary; frightening; eerie"
+ },
+ "asgari": {
+  "gloss": "minimum; minimal"
+ },
+ "çörek": {
+  "gloss": "sweet bun; pastry"
+ },
+ "şiş": {
+  "gloss": "swollen; puffy; skewer"
+ },
+ "idrar": {
+  "gloss": "urine"
+ },
+ "damga": {
+  "gloss": "stamp; brand; stigma"
+ },
+ "düşünceli": {
+  "gloss": "thoughtful, considerate; pensive, lost in thought"
+ },
+ "varis": {
+  "gloss": "heir; varicose vein"
+ },
+ "anmak": {
+  "gloss": "to remember (with respect); to commemorate; to mention"
+ },
+ "işitmek": {
+  "gloss": "to hear"
+ },
+ "refah": {
+  "gloss": "prosperity; welfare"
+ },
+ "hüzünlü": {
+  "gloss": "sad, melancholy; gloomy"
+ },
+ "yengeç": {
+  "gloss": "crab; Cancer (zodiac sign)"
+ },
+ "şifa": {
+  "gloss": "healing, cure; recovery"
+ },
+ "adamak": {
+  "gloss": "to dedicate; to devote; to vow"
+ },
+ "rütbe": {
+  "gloss": "rank"
+ },
+ "kütle": {
+  "gloss": "mass; bulk"
+ },
+ "kılavuz": {
+  "gloss": "guide; guidebook, manual"
+ },
+ "katar": {
+  "gloss": "string of linked vehicles or animals; train"
+ },
+ "kardeşlik": {
+  "gloss": "brotherhood; fraternity"
+ },
+ "harap": {
+  "gloss": "ruined, dilapidated; devastated"
+ },
+ "kısmak": {
+  "gloss": "to shorten; to reduce; to turn down (volume)"
+ },
+ "lokma": {
+  "gloss": "bite, mouthful; lokma (fried dough dessert in syrup)"
+ },
+ "eyvah": {
+  "gloss": "oh no!; alas"
+ },
+ "ateşkes": {
+  "gloss": "ceasefire; truce"
+ },
+ "tansiyon": {
+  "gloss": "blood pressure; (eye) pressure"
+ },
+ "tost": {
+  "gloss": "toasted sandwich; toast"
+ },
+ "tertemiz": {
+  "gloss": "spotless, perfectly clean"
+ },
+ "örtmek": {
+  "gloss": "to cover; to hide, cover up; to close"
+ },
+ "küstah": {
+  "gloss": "insolent, cheeky; arrogant"
+ },
+ "vites": {
+  "gloss": "gear (of a vehicle)"
+ },
+ "yapım": {
+  "gloss": "production; construction, making"
+ },
+ "zulüm": {
+  "gloss": "oppression, cruelty; atrocity"
+ },
+ "ücretli": {
+  "gloss": "paid; salaried"
+ },
+ "acemi": {
+  "gloss": "beginner, novice; inexperienced"
+ },
+ "kudret": {
+  "gloss": "power, might"
+ },
+ "gizlenmek": {
+  "gloss": "to hide (oneself); to be hidden"
+ },
+ "muhalif": {
+  "gloss": "dissident, opponent; opposed, dissenting"
+ },
+ "eşik": {
+  "gloss": "threshold, doorstep; brink"
+ },
+ "keman": {
+  "gloss": "violin"
+ },
+ "sure": {
+  "gloss": "sura (chapter of the Quran)"
+ },
+ "seans": {
+  "gloss": "session; screening, showing (of a film)"
+ },
+ "poşet": {
+  "gloss": "plastic bag; sachet"
+ },
+ "sürüklemek": {
+  "gloss": "to drag; to pull along; to drive (into a situation)"
+ },
+ "dolandırıcı": {
+  "gloss": "fraudster, swindler, con artist"
+ },
+ "oto": {
+  "gloss": "car (short for otomobil); auto-"
+ },
+ "stadyum": {
+  "gloss": "stadium"
+ },
+ "kahkaha": {
+  "gloss": "loud laughter, guffaw"
+ },
+ "soğutmak": {
+  "gloss": "to cool, to chill; to put off, make reluctant"
+ },
+ "müzikal": {
+  "gloss": "musical (stage show or film); of music, musical"
+ },
+ "mayın": {
+  "gloss": "mine (land or sea)"
+ },
+ "kargaşa": {
+  "gloss": "chaos, confusion, turmoil"
+ },
+ "gardiyan": {
+  "gloss": "prison guard, warder"
+ },
+ "leş": {
+  "gloss": "carcass, carrion; (slang) awful, rotten"
+ },
+ "tedirgin": {
+  "gloss": "uneasy, anxious, nervous"
+ },
+ "sünnet": {
+  "gloss": "circumcision; Sunna (the Prophet's practice)"
+ },
+ "kürsü": {
+  "gloss": "podium, lectern; pulpit; witness stand; university chair"
+ },
+ "sıralamak": {
+  "gloss": "to arrange in order; to rank; to list"
+ },
+ "sefil": {
+  "gloss": "miserable, wretched",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "yönelmek": {
+  "gloss": "to head towards; to turn towards; to be directed at"
+ },
+ "şaşmak": {
+  "gloss": "to be surprised, be astonished; to go astray, err"
+ },
+ "foto": {
+  "gloss": "photo (short for fotoğraf)"
+ },
+ "piyade": {
+  "gloss": "infantryman, foot soldier; infantry"
+ },
+ "çılgınlık": {
+  "gloss": "madness; craziness"
+ },
+ "cisim": {
+  "gloss": "physical body, object; substance"
+ },
+ "yiğit": {
+  "gloss": "brave, valiant; brave man, hero",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "dalmak": {
+  "gloss": "to dive; to plunge into; to burst in"
+ },
+ "aşçı": {
+  "gloss": "cook, chef"
+ },
+ "kupon": {
+  "gloss": "coupon"
+ },
+ "müzakere": {
+  "gloss": "negotiation; discussion"
+ },
+ "rahim": {
+  "gloss": "womb, uterus"
+ },
+ "çiş": {
+  "gloss": "(colloquial) pee, urine"
+ },
+ "tabir": {
+  "gloss": "expression, phrase; term"
+ },
+ "hindi": {
+  "gloss": "turkey (bird or meat)"
+ },
+ "birikmek": {
+  "gloss": "to accumulate, pile up; to gather"
+ },
+ "merhum": {
+  "gloss": "the late; deceased (person)"
+ },
+ "üremek": {
+  "gloss": "to reproduce, breed; to multiply, proliferate"
+ },
+ "kurutmak": {
+  "gloss": "to dry (something)"
+ },
+ "rahmet": {
+  "gloss": "mercy (esp. God's); blessing; (colloquial) rain"
+ },
+ "mübarek": {
+  "gloss": "blessed, holy"
+ },
+ "koordinat": {
+  "gloss": "coordinate"
+ },
+ "tezgâh": {
+  "gloss": "counter (in a shop); stall; workbench"
+ },
+ "antrenör": {
+  "gloss": "coach; trainer"
+ },
+ "holding": {
+  "gloss": "holding company; conglomerate"
+ },
+ "topçu": {
+  "gloss": "artilleryman, gunner; (colloquial) football player"
+ },
+ "esmek": {
+  "gloss": "to blow (of wind)"
+ },
+ "doğruluk": {
+  "gloss": "truth; accuracy; honesty"
+ },
+ "kelle": {
+  "gloss": "head (colloquial; esp. a severed head)"
+ },
+ "pasif": {
+  "gloss": "passive; inactive"
+ },
+ "eksi": {
+  "gloss": "minus; negative"
+ },
+ "hurda": {
+  "gloss": "scrap, junk; clunker (old car)"
+ },
+ "gülünç": {
+  "gloss": "ridiculous, laughable"
+ },
+ "sızıntı": {
+  "gloss": "leak; seepage"
+ },
+ "buzlu": {
+  "gloss": "icy; iced, with ice"
+ },
+ "bulaşıcı": {
+  "gloss": "contagious; infectious"
+ },
+ "tüketmek": {
+  "gloss": "to consume; to use up, exhaust"
+ },
+ "şişmek": {
+  "gloss": "to swell; to become inflated"
+ },
+ "taslak": {
+  "gloss": "draft; outline, sketch"
+ },
+ "mevki": {
+  "gloss": "position, rank, status; place, location"
+ },
+ "kefalet": {
+  "gloss": "bail; guarantee, surety"
+ },
+ "şebeke": {
+  "gloss": "network, grid (water, electricity); gang, ring"
+ },
+ "hükümdar": {
+  "gloss": "ruler, monarch, sovereign"
+ },
+ "değin": {
+  "gloss": "(postposition) until, up to"
+ },
+ "işletim": {
+  "gloss": "operation, running, management (as in işletim sistemi, operating system)"
+ },
+ "vasiyet": {
+  "gloss": "will, testament"
+ },
+ "gerilmek": {
+  "gloss": "to be stretched; to become tense"
+ },
+ "kabin": {
+  "gloss": "cabin; booth, cubicle"
+ },
+ "dinamik": {
+  "gloss": "dynamic",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "topuk": {
+  "gloss": "heel (of the foot, shoe or sock)"
+ },
+ "suçsuz": {
+  "gloss": "innocent; blameless"
+ },
+ "tır": {
+  "gloss": "semi-trailer truck, lorry"
+ },
+ "hırs": {
+  "gloss": "ambition, drive; greed"
+ },
+ "zan": {
+  "gloss": "suspicion; assumption, supposition"
+ },
+ "lezzet": {
+  "gloss": "taste, flavour; delight"
+ },
+ "halka": {
+  "gloss": "ring, circle, hoop; link (of a chain)"
+ },
+ "esnaf": {
+  "gloss": "tradespeople, shopkeepers; tradesman"
+ },
+ "gür": {
+  "gloss": "thick, abundant (hair, beard); strong (voice)"
+ },
+ "cumhuriyetçi": {
+  "gloss": "republican; Republican (US)"
+ },
+ "element": {
+  "gloss": "element (chemistry); component"
+ },
+ "zararsız": {
+  "gloss": "harmless; innocuous"
+ },
+ "çakal": {
+  "gloss": "jackal; (derogatory) sly opportunist"
+ },
+ "kurnaz": {
+  "gloss": "cunning, sly, crafty"
+ },
+ "kaygı": {
+  "gloss": "worry, anxiety, concern"
+ },
+ "üstat": {
+  "gloss": "master, maestro, expert"
+ },
+ "nane": {
+  "gloss": "mint"
+ },
+ "saman": {
+  "gloss": "straw"
+ },
+ "zerre": {
+  "gloss": "tiny bit, speck; particle (zerre kadar = a tiny bit; in negatives: not at all)"
+ },
+ "bağımlılık": {
+  "gloss": "dependence; addiction"
+ },
+ "temyiz": {
+  "gloss": "appeal (law)"
+ },
+ "mert": {
+  "gloss": "brave, manly; honest, trustworthy"
+ },
+ "ecza": {
+  "gloss": "medicines, drugs (as in ecza dolabı, medicine cabinet)"
+ },
+ "yürürlük": {
+  "gloss": "force, effect (of a law); yürürlükte = in force"
+ },
+ "pınar": {
+  "gloss": "spring (of water)"
+ },
+ "havale": {
+  "gloss": "money transfer; money order; referral"
+ },
+ "kasırga": {
+  "gloss": "hurricane; tornado; cyclone"
+ },
+ "börek": {
+  "gloss": "börek (savoury pastry with thin layers of dough and a filling)"
+ },
+ "alışkın": {
+  "gloss": "accustomed, used to"
+ },
+ "evlatlık": {
+  "gloss": "adopted child; foster child"
+ },
+ "canlanmak": {
+  "gloss": "to come to life; to liven up, pick up; to be revived"
+ },
+ "demet": {
+  "gloss": "bunch, bouquet; bundle"
+ },
+ "tay": {
+  "gloss": "foal, colt"
+ },
+ "kuyruklu": {
+  "gloss": "having a tail, tailed (kuyruklu yıldız = comet; kuyruklu yalan = whopping lie)"
+ },
+ "boynuz": {
+  "gloss": "horn (of an animal)"
+ },
+ "zıplamak": {
+  "gloss": "to jump, to hop; to bounce"
+ },
+ "vade": {
+  "gloss": "term, maturity date; (uzun vadede) in the long run"
+ },
+ "mani": {
+  "gloss": "obstacle, hindrance (mani olmak = to prevent); folk quatrain"
+ },
+ "tüylü": {
+  "gloss": "hairy; furry; feathery"
+ },
+ "köpük": {
+  "gloss": "foam; lather, froth"
+ },
+ "mikrop": {
+  "gloss": "germ, microbe"
+ },
+ "enfes": {
+  "gloss": "exquisite, superb; delicious"
+ },
+ "salt": {
+  "gloss": "pure, sheer, mere; solely",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "peynirli": {
+  "gloss": "with cheese, cheesy"
+ },
+ "yaya": {
+  "gloss": "pedestrian; on foot (yaya gitmek = to go on foot)"
+ },
+ "çip": {
+  "gloss": "chip (electronic or gambling)"
+ },
+ "hıyar": {
+  "gloss": "jerk, idiot (colloquial); cucumber (older word, usual: salatalık)"
+ },
+ "kardinal": {
+  "gloss": "cardinal (Catholic church official)"
+ },
+ "yapıştırmak": {
+  "gloss": "to stick, glue; to paste"
+ },
+ "tövbe": {
+  "gloss": "repentance (tövbe etmek = to repent)"
+ },
+ "kovalamak": {
+  "gloss": "to chase; to drive away"
+ },
+ "taburcu": {
+  "gloss": "discharged from hospital (taburcu olmak/etmek = to be/to get discharged)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "kıt": {
+  "gloss": "scarce, in short supply; meagre"
+ },
+ "cici": {
+  "gloss": "cute, sweet, nice (informal)"
+ },
+ "reçete": {
+  "gloss": "prescription; recipe"
+ },
+ "aciz": {
+  "gloss": "helpless, powerless, incapable",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "eğmek": {
+  "gloss": "to bend, to bow, to tilt (boyun eğmek = to submit)"
+ },
+ "izole": {
+  "gloss": "isolated; insulated"
+ },
+ "yegâne": {
+  "gloss": "only, sole, unique"
+ },
+ "yararlanmak": {
+  "gloss": "to benefit (from); to make use of, take advantage of"
+ },
+ "vagon": {
+  "gloss": "railway car, carriage; wagon"
+ },
+ "narin": {
+  "gloss": "delicate, fragile; slender"
+ },
+ "fail": {
+  "gloss": "perpetrator, culprit (of a crime); (grammar) subject"
+ },
+ "babalık": {
+  "gloss": "fatherhood; stepfather; (informal) pops, old man"
+ },
+ "lens": {
+  "gloss": "lens; contact lens"
+ },
+ "çarşaf": {
+  "gloss": "bedsheet; full-length veil worn by some women"
+ },
+ "kullanışlı": {
+  "gloss": "useful, handy, practical"
+ },
+ "krema": {
+  "gloss": "cream (for cakes, coffee, skin)"
+ },
+ "asa": {
+  "gloss": "walking stick, staff; scepter"
+ },
+ "yenge": {
+  "gloss": "brother's wife, sister-in-law; uncle's wife; polite address for a married woman"
+ },
+ "öncülük": {
+  "gloss": "leadership; pioneering (öncülük etmek = to lead the way)"
+ },
+ "heves": {
+  "gloss": "enthusiasm, eagerness; fancy, whim"
+ },
+ "yelek": {
+  "gloss": "vest; waistcoat"
+ },
+ "şenlik": {
+  "gloss": "festival; celebration"
+ },
+ "sofra": {
+  "gloss": "table set for a meal; dining table"
+ },
+ "tasarlamak": {
+  "gloss": "to design; to plan, devise"
+ },
+ "muhtar": {
+  "gloss": "village or neighbourhood headman (elected local official)"
+ },
+ "velet": {
+  "gloss": "brat; kid (often derogatory)"
+ },
+ "beceriksiz": {
+  "gloss": "clumsy, inept; incompetent"
+ },
+ "heyecanlanmak": {
+  "gloss": "to get excited; to get nervous"
+ },
+ "ucube": {
+  "gloss": "freak, weirdo, monstrosity"
+ },
+ "kuşatmak": {
+  "gloss": "to surround, encircle; to besiege"
+ },
+ "karavan": {
+  "gloss": "camper van, motorhome; caravan"
+ },
+ "çeşme": {
+  "gloss": "public drinking fountain; spout, tap"
+ },
+ "saçmak": {
+  "gloss": "to scatter, sprinkle; to spread, radiate"
+ },
+ "gevşek": {
+  "gloss": "loose, slack; lax"
+ },
+ "aygıt": {
+  "gloss": "device, apparatus"
+ },
+ "moruk": {
+  "gloss": "(colloquial) old man; dude, pal"
+ },
+ "hortum": {
+  "gloss": "hose; tornado; trunk (of an elephant)"
+ },
+ "özürlü": {
+  "gloss": "disabled, handicapped (dated; engelli is now preferred)"
+ },
+ "argo": {
+  "gloss": "slang; argot, jargon"
+ },
+ "iyimser": {
+  "gloss": "optimistic"
+ },
+ "vadeli": {
+  "gloss": "with a fixed term or maturity; (uzun vadeli) long-term"
+ },
+ "kahramanlık": {
+  "gloss": "heroism; bravery"
+ },
+ "çiğnemek": {
+  "gloss": "to chew; to break (a rule); to trample, tread on"
+ },
+ "stajyer": {
+  "gloss": "intern; trainee"
+ },
+ "bağışlamak": {
+  "gloss": "to forgive; to donate; to spare"
+ },
+ "dikey": {
+  "gloss": "vertical; perpendicular"
+ },
+ "yayımlanmak": {
+  "gloss": "to be published; to be released"
+ },
+ "şen": {
+  "gloss": "cheerful, merry; lively"
+ },
+ "düdük": {
+  "gloss": "whistle"
+ },
+ "iskender": {
+  "gloss": "iskender kebab (thin slices of döner on pita with tomato sauce, butter and yogurt)"
+ },
+ "divan": {
+  "gloss": "sofa, couch; divan"
+ },
+ "alkollü": {
+  "gloss": "containing alcohol, alcoholic; under the influence of alcohol"
+ },
+ "huy": {
+  "gloss": "character, temperament; habit (esp. a bad habit)"
+ },
+ "elemek": {
+  "gloss": "to sift, sieve; to screen out, eliminate"
+ },
+ "basket": {
+  "gloss": "basketball (short form); basket (scored in basketball)"
+ },
+ "röntgen": {
+  "gloss": "X-ray (image); X-ray examination"
+ },
+ "paten": {
+  "gloss": "skate (ice or roller); skating"
+ },
+ "yıkanmak": {
+  "gloss": "to wash oneself, bathe; to be washed"
+ },
+ "susuz": {
+  "gloss": "waterless, without water; dry, arid"
+ },
+ "eyvallah": {
+  "gloss": "(colloquial) thanks; cheers; OK, all right",
+  "pos": "interj",
+  "posName": "interjection"
+ },
+ "öğüt": {
+  "gloss": "advice, counsel"
+ },
+ "fıkra": {
+  "gloss": "joke; anecdote; short column or article"
+ },
+ "köstebek": {
+  "gloss": "mole (animal); mole (spy)"
+ },
+ "lütuf": {
+  "gloss": "favor, kindness; blessing, divine grace"
+ },
+ "boza": {
+  "gloss": "boza (thick fermented millet or wheat drink)"
+ },
+ "motive": {
+  "gloss": "motivated (as in motive olmak 'to be motivated', motive etmek 'to motivate')"
+ },
+ "sersem": {
+  "gloss": "dazed, groggy; silly, foolish"
+ },
+ "yummak": {
+  "gloss": "to close, shut (esp. the eyes); göz yummak = to turn a blind eye"
+ },
+ "iftira": {
+  "gloss": "slander, libel; false accusation"
+ },
+ "süpürge": {
+  "gloss": "broom; (elektrik süpürgesi) vacuum cleaner"
+ },
+ "dişli": {
+  "gloss": "gear, cogwheel; toothed, having teeth"
+ },
+ "karargâh": {
+  "gloss": "(military) headquarters, base"
+ },
+ "müebbet": {
+  "gloss": "life (as in life imprisonment); permanent"
+ },
+ "ısıtmak": {
+  "gloss": "to heat, warm up"
+ },
+ "ayaklı": {
+  "gloss": "having legs or feet, footed; walking, on legs"
+ },
+ "öküz": {
+  "gloss": "ox; (insult) oaf, idiot"
+ },
+ "açıklık": {
+  "gloss": "openness, clarity; open space, clearing; gap"
+ },
+ "oha": {
+  "gloss": "(colloquial) wow!, whoa!; expression of surprise or disbelief"
+ },
+ "hol": {
+  "gloss": "hall, hallway; lobby"
+ },
+ "vatansever": {
+  "gloss": "patriotic; patriot"
+ },
+ "birtakım": {
+  "gloss": "some, a number of, certain"
+ },
+ "memnuniyet": {
+  "gloss": "satisfaction; pleasure"
+ },
+ "afet": {
+  "gloss": "disaster, calamity"
+ },
+ "ikramiye": {
+  "gloss": "bonus; lottery prize, jackpot"
+ },
+ "jandarma": {
+  "gloss": "gendarmerie; gendarme"
+ },
+ "ılık": {
+  "gloss": "lukewarm, tepid; mild, warm"
+ },
+ "günahkâr": {
+  "gloss": "sinful; sinner"
+ },
+ "ikamet": {
+  "gloss": "residence; residing (ikamet etmek = to reside)"
+ },
+ "kanalizasyon": {
+  "gloss": "sewer; sewerage system"
+ },
+ "gevrek": {
+  "gloss": "crisp, crunchy; brittle",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "manga": {
+  "gloss": "manga (Japanese comic); squad, section (military)"
+ },
+ "sirke": {
+  "gloss": "vinegar"
+ },
+ "tahlil": {
+  "gloss": "analysis; lab test"
+ },
+ "yalın": {
+  "gloss": "plain, simple; bare (as in yalın ayak, barefoot)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "seminer": {
+  "gloss": "seminar"
+ },
+ "kabak": {
+  "gloss": "squash; zucchini; pumpkin"
+ },
+ "altüst": {
+  "gloss": "upside down; in disorder (altüst olmak: to be upset, thrown into turmoil)"
+ },
+ "şeftali": {
+  "gloss": "peach"
+ },
+ "hemfikir": {
+  "gloss": "in agreement, of one mind (hemfikir olmak: to agree)"
+ },
+ "hevesli": {
+  "gloss": "eager, enthusiastic; keen"
+ },
+ "tabaka": {
+  "gloss": "layer; sheet; social class"
+ },
+ "hür": {
+  "gloss": "free (not enslaved); independent"
+ },
+ "kayıtsız": {
+  "gloss": "indifferent, unconcerned; unregistered",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "haberleşmek": {
+  "gloss": "to correspond; to keep in touch; to communicate"
+ },
+ "biftek": {
+  "gloss": "steak"
+ },
+ "şımarık": {
+  "gloss": "spoiled; naughty, cheeky"
+ },
+ "başarısızlık": {
+  "gloss": "failure"
+ },
+ "kaide": {
+  "gloss": "pedestal, base; (formal) rule, principle"
+ },
+ "devirmek": {
+  "gloss": "to knock over; to topple; to overthrow"
+ },
+ "sökmek": {
+  "gloss": "to take apart, dismantle; to tear out; to unstitch"
+ },
+ "dam": {
+  "gloss": "roof (flat roof of a house)"
+ },
+ "ambar": {
+  "gloss": "storehouse, warehouse; granary; barn; (ship's) hold"
+ },
+ "şut": {
+  "gloss": "shot (a kick at goal in football)"
+ },
+ "yama": {
+  "gloss": "patch (for mending); (computing) patch"
+ },
+ "yapayalnız": {
+  "gloss": "all alone, completely alone"
+ },
+ "çarşı": {
+  "gloss": "market, bazaar; shopping district"
+ },
+ "salmak": {
+  "gloss": "to release, let go; to let loose; to send"
+ },
+ "şanlı": {
+  "gloss": "glorious, illustrious"
+ },
+ "hırslı": {
+  "gloss": "ambitious, driven"
+ },
+ "titiz": {
+  "gloss": "meticulous, fastidious; particular"
+ },
+ "kombinasyon": {
+  "gloss": "combination"
+ },
+ "torpido": {
+  "gloss": "torpedo; glove compartment"
+ },
+ "üstün": {
+  "gloss": "superior; outstanding, excellent"
+ },
+ "alem": {
+  "gloss": "world, realm; universe"
+ },
+ "fiil": {
+  "gloss": "verb; (formal) deed, act"
+ },
+ "gerginlik": {
+  "gloss": "tension; tightness"
+ },
+ "savmak": {
+  "gloss": "to get rid of; to brush off"
+ },
+ "bahşiş": {
+  "gloss": "tip, gratuity"
+ },
+ "batırmak": {
+  "gloss": "to dip, immerse; to sink (a ship); to stick into, prick; (colloquial) to botch"
+ },
+ "kâfir": {
+  "gloss": "infidel, non-believer (derogatory)"
+ },
+ "kaçamak": {
+  "gloss": "evasive, noncommittal; evasion, dodge",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "kapamak": {
+  "gloss": "to close, shut; to block, plug up; to cover"
+ },
+ "kabine": {
+  "gloss": "cabinet (government); booth, cubicle"
+ },
+ "ceylan": {
+  "gloss": "gazelle"
+ },
+ "adapte": {
+  "gloss": "adapted (adapte olmak: to adapt, adjust oneself)"
+ },
+ "gerzek": {
+  "gloss": "(slang, derogatory) idiotic; idiot, dimwit"
+ },
+ "teneke": {
+  "gloss": "tin, tinplate; made of tin",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "türkü": {
+  "gloss": "folk song"
+ },
+ "montaj": {
+  "gloss": "assembly, installation; (film) editing"
+ },
+ "meçhul": {
+  "gloss": "unknown, unidentified; unsolved",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "bilişim": {
+  "gloss": "information technology; informatics"
+ },
+ "yüzüstü": {
+  "gloss": "face down, on one's stomach"
+ },
+ "ampul": {
+  "gloss": "light bulb; ampoule"
+ },
+ "baharat": {
+  "gloss": "spice; seasoning"
+ },
+ "seramik": {
+  "gloss": "ceramic; ceramics"
+ },
+ "kasmak": {
+  "gloss": "to tense, tighten; to strain oneself; (colloquial) to lag, freeze up (of a computer)"
+ },
+ "kısır": {
+  "gloss": "barren, sterile (as in kısır döngü, vicious circle); bulgur salad",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "seçici": {
+  "gloss": "selective, choosy; voter, elector",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "çektirmek": {
+  "gloss": "to have (a photo etc.) taken; to make someone suffer"
+ },
+ "kılıf": {
+  "gloss": "case, cover; sheath"
+ },
+ "yulaf": {
+  "gloss": "oats"
+ },
+ "kontak": {
+  "gloss": "ignition switch; electrical contact"
+ },
+ "kıllı": {
+  "gloss": "hairy; (colloquial) shady, annoying"
+ },
+ "bazlı": {
+  "gloss": "-based, based on (e.g. çözüm bazlı)"
+ },
+ "safra": {
+  "gloss": "bile; ballast"
+ },
+ "terbiyesiz": {
+  "gloss": "rude, ill-mannered; naughty; shameless"
+ },
+ "etap": {
+  "gloss": "stage, phase (ilk etapta: at first); (sports) leg, lap"
+ },
+ "kaçıncı": {
+  "gloss": "which (in order), what number in a sequence"
+ },
+ "eğri": {
+  "gloss": "crooked, bent; curve",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "mısırlı": {
+  "gloss": "Egyptian; with corn"
+ },
+ "kulaklık": {
+  "gloss": "headphones, earphones"
+ },
+ "cansız": {
+  "gloss": "lifeless; inanimate; listless"
+ },
+ "tas": {
+  "gloss": "bowl (usually metal); (sefer tası) lunch pail"
+ },
+ "Cezayir": {
+  "gloss": "Algeria",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "hac": {
+  "gloss": "Hajj, pilgrimage to Mecca"
+ },
+ "palavra": {
+  "gloss": "(colloquial) nonsense, hot air; tall tale, bluff"
+ },
+ "kayalık": {
+  "gloss": "rocky area, crag"
+ },
+ "pusula": {
+  "gloss": "compass; ballot slip (oy pusulası)"
+ },
+ "kümes": {
+  "gloss": "chicken coop, henhouse"
+ },
+ "enayi": {
+  "gloss": "(derogatory) sucker, fool, dupe"
+ },
+ "varlıklı": {
+  "gloss": "wealthy, well-off"
+ },
+ "külot": {
+  "gloss": "panties; underpants, briefs"
+ },
+ "gazoz": {
+  "gloss": "fizzy soft drink, soda pop"
+ },
+ "sulamak": {
+  "gloss": "to water; to irrigate"
+ },
+ "tayfa": {
+  "gloss": "ship's crew; gang, group of friends"
+ },
+ "uyuşmak": {
+  "gloss": "to go numb; to agree, get along; to match"
+ },
+ "gıcık": {
+  "gloss": "annoying, irritating; tickle in the throat"
+ },
+ "ilke": {
+  "gloss": "principle; policy"
+ },
+ "sabretmek": {
+  "gloss": "to be patient, to bear patiently"
+ },
+ "port": {
+  "gloss": "port (socket for connecting a device, e.g. USB port)"
+ },
+ "pijama": {
+  "gloss": "pyjamas"
+ },
+ "taviz": {
+  "gloss": "concession; compromise"
+ },
+ "tabiat": {
+  "gloss": "nature; character, temperament"
+ },
+ "gelinlik": {
+  "gloss": "wedding dress"
+ },
+ "arife": {
+  "gloss": "eve (of a holiday or event)"
+ },
+ "yazlık": {
+  "gloss": "summer house, holiday home; for summer use"
+ },
+ "yosun": {
+  "gloss": "algae; moss; seaweed"
+ },
+ "gereksinim": {
+  "gloss": "need; requirement"
+ },
+ "psişik": {
+  "gloss": "psychic; mental",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "kul": {
+  "gloss": "servant (of God); human being; slave"
+ },
+ "sürülmek": {
+  "gloss": "to be plowed; to be driven away, banished; to be rubbed or spread on"
+ },
+ "muzaffer": {
+  "gloss": "victorious; triumphant"
+ },
+ "kefil": {
+  "gloss": "guarantor, surety (kefil olmak: to vouch for)"
+ },
+ "nimet": {
+  "gloss": "blessing; boon"
+ },
+ "anestezi": {
+  "gloss": "anesthesia"
+ },
+ "ısmarlamak": {
+  "gloss": "to order (food, goods); to treat someone to"
+ },
+ "karpuz": {
+  "gloss": "watermelon"
+ },
+ "kuduz": {
+  "gloss": "rabies; rabid"
+ },
+ "atlet": {
+  "gloss": "athlete; undershirt, tank top"
+ },
+ "yeşim": {
+  "gloss": "jade"
+ },
+ "başıboş": {
+  "gloss": "stray; unattended; aimless, idle"
+ },
+ "yoğunluk": {
+  "gloss": "density; intensity; congestion, busyness"
+ },
+ "becerikli": {
+  "gloss": "resourceful, capable, skillful"
+ },
+ "psikiyatrist": {
+  "gloss": "psychiatrist"
+ },
+ "sümük": {
+  "gloss": "snot, mucus; booger"
+ },
+ "ızgara": {
+  "gloss": "grill; grilled dish"
+ },
+ "sütun": {
+  "gloss": "column; pillar"
+ },
+ "tünaydın": {
+  "gloss": "good afternoon (greeting)"
+ },
+ "demirci": {
+  "gloss": "blacksmith; ironmonger"
+ },
+ "turistik": {
+  "gloss": "tourist, tourism-related; touristy"
+ },
+ "alıştırma": {
+  "gloss": "exercise; practice, drill"
+ },
+ "kaslı": {
+  "gloss": "muscular"
+ },
+ "vesaire": {
+  "gloss": "et cetera, and so on",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "vahim": {
+  "gloss": "grave, serious (of a situation or mistake)"
+ },
+ "olta": {
+  "gloss": "fishing rod; fishing line"
+ },
+ "çapkın": {
+  "gloss": "womanizer, philanderer; flirt",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "dirilmek": {
+  "gloss": "to come back to life, be resurrected; to revive"
+ },
+ "silindir": {
+  "gloss": "cylinder; roller"
+ },
+ "çarmıh": {
+  "gloss": "cross (of crucifixion)"
+ },
+ "ebe": {
+  "gloss": "midwife; (in children's games) the one who is 'it'"
+ },
+ "broşür": {
+  "gloss": "brochure, pamphlet"
+ },
+ "ilim": {
+  "gloss": "knowledge; science, learning"
+ },
+ "iddialı": {
+  "gloss": "assertive, self-assured; ambitious; pretentious"
+ },
+ "makbul": {
+  "gloss": "acceptable, welcome; valid"
+ },
+ "yün": {
+  "gloss": "wool; woolen",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "pastırma": {
+  "gloss": "pastirma (spiced, air-dried cured beef)"
+ },
+ "kavşak": {
+  "gloss": "intersection, junction"
+ },
+ "omurga": {
+  "gloss": "spine, backbone"
+ },
+ "bakkal": {
+  "gloss": "grocer; grocery store"
+ },
+ "centilmen": {
+  "gloss": "gentleman; gentlemanly",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "kötüleşmek": {
+  "gloss": "to get worse, worsen"
+ },
+ "kederli": {
+  "gloss": "sad, sorrowful; grieving"
+ },
+ "yazıcı": {
+  "gloss": "printer (device); clerk, scribe (dated)"
+ },
+ "simit": {
+  "gloss": "simit (sesame-covered ring of bread, like a Turkish bagel)"
+ },
+ "görüşlü": {
+  "gloss": "-minded; having particular views"
+ },
+ "yel": {
+  "gloss": "wind (poetic; rüzgâr is the usual word)"
+ },
+ "uysal": {
+  "gloss": "docile; obedient; gentle, easygoing"
+ },
+ "ikmal": {
+  "gloss": "resupply; replenishment; (military) reinforcement"
+ },
+ "akademisyen": {
+  "gloss": "academic; university scholar"
+ },
+ "enişte": {
+  "gloss": "brother-in-law (husband of one's sister or aunt)"
+ },
+ "tecrit": {
+  "gloss": "isolation; solitary confinement; segregation"
+ },
+ "çiçekli": {
+  "gloss": "flowery, flower-patterned; in bloom"
+ },
+ "özgüven": {
+  "gloss": "self-confidence"
+ },
+ "sakatlık": {
+  "gloss": "disability; injury; defect"
+ },
+ "eskimek": {
+  "gloss": "to get old; to wear out; to become outdated"
+ },
+ "tabip": {
+  "gloss": "physician, doctor (formal)"
+ },
+ "uçuk": {
+  "gloss": "cold sore; (adjective) pale, faded"
+ },
+ "heyecanlandırmak": {
+  "gloss": "to excite; to thrill"
+ },
+ "takla": {
+  "gloss": "somersault; flip"
+ },
+ "sek": {
+  "gloss": "neat, straight (of drinks); dry"
+ },
+ "bakir": {
+  "gloss": "virgin; untouched, pristine"
+ },
+ "depresif": {
+  "gloss": "depressed; depressive"
+ },
+ "bembeyaz": {
+  "gloss": "snow-white; pure white"
+ },
+ "kısmet": {
+  "gloss": "fate, destiny; luck"
+ },
+ "barmen": {
+  "gloss": "bartender"
+ },
+ "soytarı": {
+  "gloss": "jester; buffoon, clown"
+ },
+ "sicil": {
+  "gloss": "register; official record (criminal, school, service)"
+ },
+ "akustik": {
+  "gloss": "acoustic; acoustics",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "dizüstü": {
+  "gloss": "laptop (short for dizüstü bilgisayar)"
+ },
+ "sabote": {
+  "gloss": "sabotage (sabote etmek = to sabotage)"
+ },
+ "idman": {
+  "gloss": "training, workout; practice"
+ },
+ "öksüz": {
+  "gloss": "orphan; motherless or fatherless child",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "doruk": {
+  "gloss": "peak, summit; climax"
+ },
+ "hayırsever": {
+  "gloss": "philanthropist, charitable person; benevolent"
+ },
+ "kolaylık": {
+  "gloss": "ease; convenience"
+ },
+ "nutuk": {
+  "gloss": "speech, oration; lecture, sermon"
+ },
+ "vurgu": {
+  "gloss": "emphasis; stress (of a syllable)"
+ },
+ "facia": {
+  "gloss": "disaster; tragedy"
+ },
+ "çark": {
+  "gloss": "wheel, cogwheel; paddle wheel"
+ },
+ "muaf": {
+  "gloss": "exempt; (medicine) immune",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "bacaklı": {
+  "gloss": "having legs; -legged"
+ },
+ "beygir": {
+  "gloss": "horse (draught); nag; horsepower (beygir gücü)"
+ },
+ "katiyen": {
+  "gloss": "absolutely not, never; definitely"
+ },
+ "anneanne": {
+  "gloss": "grandmother (maternal)"
+ },
+ "sıyırmak": {
+  "gloss": "to scrape, graze; to strip off; kafayı sıyırmak = to go crazy"
+ },
+ "çocuklu": {
+  "gloss": "having children; with a child"
+ },
+ "dünyevi": {
+  "gloss": "worldly, earthly; secular"
+ },
+ "kısık": {
+  "gloss": "hoarse, husky; low (of a voice)"
+ },
+ "talim": {
+  "gloss": "drill, training; exercise"
+ },
+ "hacim": {
+  "gloss": "volume; bulk, size"
+ },
+ "süzülmek": {
+  "gloss": "to glide, soar; to seep, ooze; to be strained"
+ },
+ "birliktelik": {
+  "gloss": "togetherness; relationship, union"
+ },
+ "müstehcen": {
+  "gloss": "obscene, indecent"
+ },
+ "çar": {
+  "gloss": "tsar, czar"
+ },
+ "bere": {
+  "gloss": "beanie, knit cap; bruise"
+ },
+ "fal": {
+  "gloss": "fortune-telling; fortune told from cards, coffee grounds, etc."
+ },
+ "nazar": {
+  "gloss": "evil eye; gaze, look"
+ },
+ "deplasman": {
+  "gloss": "(sports) away game; away trip"
+ },
+ "yankı": {
+  "gloss": "echo; repercussion"
+ },
+ "ekspres": {
+  "gloss": "express (train, bus, mail)"
+ },
+ "şer": {
+  "gloss": "evil; harm, mischief"
+ },
+ "kalibre": {
+  "gloss": "caliber (of a weapon)"
+ },
+ "kasvet": {
+  "gloss": "gloom; dreariness"
+ },
+ "tezahürat": {
+  "gloss": "cheering; ovation; public demonstration of support"
+ },
+ "kâinat": {
+  "gloss": "universe; cosmos"
+ },
+ "sancı": {
+  "gloss": "sharp pain; stomach cramp; labor pain"
+ },
+ "kutsamak": {
+  "gloss": "to bless; to sanctify"
+ },
+ "zorba": {
+  "gloss": "bully; tyrant",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "gözleme": {
+  "gloss": "savory stuffed flatbread (a Turkish specialty); observation"
+ },
+ "papatya": {
+  "gloss": "daisy; chamomile"
+ },
+ "mahsus": {
+  "gloss": "peculiar to; intended for; on purpose"
+ },
+ "göçmek": {
+  "gloss": "to move away, migrate; to collapse, cave in; to die (euphemistic)"
+ },
+ "bertaraf": {
+  "gloss": "removal, elimination (bertaraf etmek: to eliminate, get rid of)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "çırılçıplak": {
+  "gloss": "stark naked"
+ },
+ "kabadayı": {
+  "gloss": "tough guy; bully; swaggering local strongman"
+ },
+ "kamaştırmak": {
+  "gloss": "to dazzle; to blind (the eyes)"
+ },
+ "sevkiyat": {
+  "gloss": "shipment; dispatch; delivery"
+ },
+ "huylu": {
+  "gloss": "having a (certain) temperament, as in iyi huylu (good-natured)"
+ },
+ "tasma": {
+  "gloss": "dog collar; leash"
+ },
+ "sapmak": {
+  "gloss": "to turn off (into a road); to deviate, stray; to veer"
+ },
+ "sinmek": {
+  "gloss": "to cower, crouch down; to soak in; (içime sinmek) to sit well with one"
+ },
+ "müstakbel": {
+  "gloss": "future, prospective (to-be)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "darp": {
+  "gloss": "beating; assault"
+ },
+ "bip": {
+  "gloss": "beep"
+ },
+ "kabarık": {
+  "gloss": "fluffy; puffy; swollen"
+ },
+ "yokuş": {
+  "gloss": "slope; steep road; uphill climb"
+ },
+ "dilim": {
+  "gloss": "slice; segment; zone"
+ },
+ "davacı": {
+  "gloss": "plaintiff; claimant"
+ },
+ "balıkçılık": {
+  "gloss": "fishing (as a trade or activity); fishing industry"
+ },
+ "kayın": {
+  "gloss": "(in compounds) in-law, as in kayınpeder, kayınvalide, kayınbirader; beech (tree)",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "kılıklı": {
+  "gloss": "looking like; dressed as (e.g. acayip kılıklı: odd-looking)"
+ },
+ "lağım": {
+  "gloss": "sewer; underground drain"
+ },
+ "vurgun": {
+  "gloss": "big (often illicit) gain, killing; the bends (decompression sickness)"
+ },
+ "sığmak": {
+  "gloss": "to fit (in or into)"
+ },
+ "hareketlilik": {
+  "gloss": "mobility; liveliness, activity"
+ },
+ "aktive": {
+  "gloss": "activated (mostly in aktive etmek: to activate)"
+ },
+ "büfe": {
+  "gloss": "kiosk, snack stand; buffet; sideboard"
+ },
+ "arsa": {
+  "gloss": "plot of land; building lot"
+ },
+ "gözlüklü": {
+  "gloss": "wearing glasses, bespectacled",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "antlaşmak": {
+  "gloss": "to come to an agreement; to make a pact or treaty"
+ },
+ "ikişer": {
+  "gloss": "two each; two at a time"
+ },
+ "koli": {
+  "gloss": "parcel; carton, package"
+ },
+ "müşterek": {
+  "gloss": "common, shared; joint"
+ },
+ "bebe": {
+  "gloss": "baby"
+ },
+ "kibir": {
+  "gloss": "arrogance; pride"
+ },
+ "öldürtmek": {
+  "gloss": "to have someone killed"
+ },
+ "sahipsiz": {
+  "gloss": "ownerless; stray; unclaimed"
+ },
+ "tramvay": {
+  "gloss": "tram; streetcar"
+ },
+ "istifade": {
+  "gloss": "benefit, advantage; use (istifade etmek: to take advantage of)"
+ },
+ "tapu": {
+  "gloss": "title deed; land registry office"
+ },
+ "muharebe": {
+  "gloss": "battle; combat"
+ },
+ "ailevi": {
+  "gloss": "family-related; domestic"
+ },
+ "karamsar": {
+  "gloss": "pessimistic; gloomy"
+ },
+ "çıkmaz": {
+  "gloss": "dead end; impasse",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "yaman": {
+  "gloss": "formidable; skilful, capable; fierce"
+ },
+ "dirsek": {
+  "gloss": "elbow"
+ },
+ "palto": {
+  "gloss": "overcoat"
+ },
+ "burç": {
+  "gloss": "zodiac sign; tower, bastion"
+ },
+ "boyamak": {
+  "gloss": "to paint; to dye; to color"
+ },
+ "düş": {
+  "gloss": "dream; fantasy"
+ },
+ "masumiyet": {
+  "gloss": "innocence"
+ },
+ "haraç": {
+  "gloss": "tribute; protection money; (historical) tax"
+ },
+ "nakavt": {
+  "gloss": "knockout"
+ },
+ "sıfat": {
+  "gloss": "adjective; quality, attribute"
+ },
+ "tombul": {
+  "gloss": "plump, chubby"
+ },
+ "kamış": {
+  "gloss": "reed; cane"
+ },
+ "alamet": {
+  "gloss": "sign, omen"
+ },
+ "ihale": {
+  "gloss": "tender (competitive bidding for a contract); auction"
+ },
+ "kızlık": {
+  "gloss": "girlhood; virginity (kızlık soyadı: maiden name)"
+ },
+ "bitişik": {
+  "gloss": "adjacent; next door"
+ },
+ "seferber": {
+  "gloss": "mobilized (seferber etmek: to mobilize)"
+ },
+ "bükmek": {
+  "gloss": "to bend; to fold; to twist"
+ },
+ "istiridye": {
+  "gloss": "oyster"
+ },
+ "kauçuk": {
+  "gloss": "rubber"
+ },
+ "arınmak": {
+  "gloss": "to be cleansed, purified; to rid oneself (of)"
+ },
+ "cevher": {
+  "gloss": "ore; jewel, gem; essence"
+ },
+ "çekirge": {
+  "gloss": "grasshopper; locust"
+ },
+ "asık": {
+  "gloss": "frowning, sullen (of a face)"
+ },
+ "ibret": {
+  "gloss": "lesson, warning (to be learned from something)"
+ },
+ "taarruz": {
+  "gloss": "attack, offensive; aggression"
+ },
+ "alçı": {
+  "gloss": "plaster (gypsum); cast"
+ },
+ "yeti": {
+  "gloss": "faculty, ability, capacity"
+ },
+ "talip": {
+  "gloss": "suitor; applicant, one who wants (something)"
+ },
+ "kompozisyon": {
+  "gloss": "composition; essay"
+ },
+ "promosyon": {
+  "gloss": "promotion (special offer, free giveaway)"
+ },
+ "kremalı": {
+  "gloss": "with cream; creamy"
+ },
+ "manipüle": {
+  "gloss": "manipulated (manipüle etmek: to manipulate)"
+ },
+ "navigasyon": {
+  "gloss": "navigation; GPS navigation system"
+ },
+ "küçülmek": {
+  "gloss": "to shrink; to become smaller"
+ },
+ "vasat": {
+  "gloss": "mediocre; average, ordinary"
+ },
+ "kabahat": {
+  "gloss": "fault, blame; offense, misdemeanor"
+ },
+ "babaanne": {
+  "gloss": "paternal grandmother"
+ },
+ "suret": {
+  "gloss": "image, likeness; form; manner"
+ },
+ "düet": {
+  "gloss": "duet"
+ },
+ "fizikçi": {
+  "gloss": "physicist; physics teacher"
+ },
+ "yüksekokul": {
+  "gloss": "college; higher vocational school"
+ },
+ "çilekli": {
+  "gloss": "strawberry-flavored; with strawberries"
+ },
+ "pıhtı": {
+  "gloss": "clot (of blood)"
+ },
+ "sakar": {
+  "gloss": "clumsy; klutz",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "sürünmek": {
+  "gloss": "to crawl; to creep"
+ },
+ "bloke": {
+  "gloss": "blocked (bloke etmek: to block)"
+ },
+ "çınar": {
+  "gloss": "plane tree"
+ },
+ "sağanak": {
+  "gloss": "downpour, heavy shower; squall"
+ },
+ "caymak": {
+  "gloss": "to back out; to go back on (one's word); to give up on (with ablative)"
+ },
+ "dayanıklılık": {
+  "gloss": "durability; endurance, stamina"
+ },
+ "gaga": {
+  "gloss": "beak"
+ },
+ "fitil": {
+  "gloss": "wick; fuse; suppository"
+ },
+ "jöle": {
+  "gloss": "jelly; hair gel"
+ },
+ "tükürük": {
+  "gloss": "saliva; spit"
+ },
+ "konuşmacı": {
+  "gloss": "speaker (at a conference, meeting, etc.)"
+ },
+ "kordon": {
+  "gloss": "cordon; cord, cable"
+ },
+ "labirent": {
+  "gloss": "maze; labyrinth"
+ },
+ "müteahhit": {
+  "gloss": "contractor (building)"
+ },
+ "mezhep": {
+  "gloss": "religious sect; denomination"
+ },
+ "öğreti": {
+  "gloss": "doctrine; teaching"
+ },
+ "nal": {
+  "gloss": "horseshoe"
+ },
+ "koklamak": {
+  "gloss": "to smell; to sniff"
+ },
+ "umumî": {
+  "gloss": "general; public"
+ },
+ "çerez": {
+  "gloss": "snack (nuts, seeds); appetizer; (computing) cookie"
+ },
+ "çiçekçi": {
+  "gloss": "florist; flower shop"
+ },
+ "klon": {
+  "gloss": "clone"
+ },
+ "akü": {
+  "gloss": "(car) battery; storage battery"
+ },
+ "âdet": {
+  "gloss": "custom; habit; menstruation, period"
+ },
+ "bürümek": {
+  "gloss": "to cover, envelop; to spread over"
+ },
+ "sevda": {
+  "gloss": "(romantic) love; passion; infatuation"
+ },
+ "kireç": {
+  "gloss": "lime (mineral); limescale"
+ },
+ "nafile": {
+  "gloss": "futile, in vain"
+ },
+ "sarkmak": {
+  "gloss": "to hang down; to sag; to lean out"
+ },
+ "ovmak": {
+  "gloss": "to rub; to scrub; to massage"
+ },
+ "çakma": {
+  "gloss": "fake, counterfeit; knock-off",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "çatmak": {
+  "gloss": "to knit (the brows), frown; to nail together, put up; to pile up"
+ },
+ "sermek": {
+  "gloss": "to spread out; to lay out; to hang up"
+ },
+ "kayış": {
+  "gloss": "strap; belt; leash"
+ },
+ "adaletsiz": {
+  "gloss": "unjust, unfair"
+ },
+ "jilet": {
+  "gloss": "razor blade; razor"
+ },
+ "dalgalanmak": {
+  "gloss": "to wave, flutter; to fluctuate"
+ },
+ "bozgun": {
+  "gloss": "rout, crushing defeat"
+ },
+ "ütü": {
+  "gloss": "iron (for clothes)"
+ },
+ "küme": {
+  "gloss": "set (mathematics); cluster, group"
+ },
+ "kapıcı": {
+  "gloss": "doorman; building caretaker, janitor"
+ },
+ "rövanş": {
+  "gloss": "rematch; return match; getting even"
+ },
+ "yağma": {
+  "gloss": "plunder, looting"
+ },
+ "sosyete": {
+  "gloss": "high society; the upper classes"
+ },
+ "avcılık": {
+  "gloss": "hunting (the activity)"
+ },
+ "toy": {
+  "gloss": "inexperienced, green; naive",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "ebru": {
+  "gloss": "ebru (traditional paper marbling art)"
+ },
+ "sidik": {
+  "gloss": "urine"
+ },
+ "tebliğ": {
+  "gloss": "official notification, announcement; communiqué"
+ },
+ "yuvarlamak": {
+  "gloss": "to roll (something); to round off"
+ },
+ "sistemli": {
+  "gloss": "systematic, methodical"
+ },
+ "meltem": {
+  "gloss": "(light) breeze; sea breeze"
+ },
+ "nebze": {
+  "gloss": "bit, a little, slightest amount"
+ },
+ "gevşemek": {
+  "gloss": "to relax; to loosen; to unwind"
+ },
+ "gar": {
+  "gloss": "railway station"
+ },
+ "ihtiyat": {
+  "gloss": "caution; precaution; reserve"
+ },
+ "sandal": {
+  "gloss": "small boat; sandalwood; sandal (footwear)"
+ },
+ "erkeklik": {
+  "gloss": "manhood; masculinity; virility"
+ },
+ "safha": {
+  "gloss": "phase; stage"
+ },
+ "fok": {
+  "gloss": "seal (animal)"
+ },
+ "birincilik": {
+  "gloss": "first place; first prize; being first"
+ },
+ "kararmak": {
+  "gloss": "to get dark; to darken; to turn black"
+ },
+ "yapmacık": {
+  "gloss": "affected; artificial; fake (of behaviour)"
+ },
+ "yamuk": {
+  "gloss": "crooked; lopsided; (geometry) trapezoid",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "vurgulamak": {
+  "gloss": "to emphasize; to stress"
+ },
+ "midye": {
+  "gloss": "mussel"
+ },
+ "geveze": {
+  "gloss": "talkative; chatty; chatterbox"
+ },
+ "gedik": {
+  "gloss": "gap; breach; notch (taşı gediğine koymak = to say just the right thing)"
+ },
+ "esaret": {
+  "gloss": "captivity; slavery"
+ },
+ "harç": {
+  "gloss": "fee; duty; mortar"
+ },
+ "zurna": {
+  "gloss": "zurna (loud double-reed folk instrument)"
+ },
+ "amansız": {
+  "gloss": "merciless; relentless; fierce"
+ },
+ "yaratıcılık": {
+  "gloss": "creativity"
+ },
+ "oyalamak": {
+  "gloss": "to keep busy; to distract; to stall; to string along"
+ },
+ "ekler": {
+  "gloss": "éclair (pastry)"
+ },
+ "tüyo": {
+  "gloss": "tip-off; hint (informal)"
+ },
+ "pervane": {
+  "gloss": "propeller; fan blade; (literary) moth"
+ },
+ "ahiret": {
+  "gloss": "the hereafter; afterlife"
+ },
+ "derya": {
+  "gloss": "sea; ocean (literary)"
+ },
+ "piyon": {
+  "gloss": "pawn (chess)"
+ },
+ "reel": {
+  "gloss": "real (math: real numbers; economics: inflation-adjusted)"
+ },
+ "dekor": {
+  "gloss": "(stage or film) set; scenery; decor"
+ },
+ "enjeksiyon": {
+  "gloss": "injection"
+ },
+ "ritüel": {
+  "gloss": "ritual; rite"
+ },
+ "varil": {
+  "gloss": "barrel; drum (large container)"
+ },
+ "ahali": {
+  "gloss": "inhabitants; populace; people (of a place)"
+ },
+ "aygır": {
+  "gloss": "stallion"
+ },
+ "suistimal": {
+  "gloss": "abuse; misuse (of trust, power)"
+ },
+ "hatasız": {
+  "gloss": "error-free; flawless"
+ },
+ "köpüklü": {
+  "gloss": "foamy; frothy; sparkling"
+ },
+ "mukaddes": {
+  "gloss": "holy; sacred"
+ },
+ "parıltı": {
+  "gloss": "gleam; glitter; sparkle"
+ },
+ "eşkıya": {
+  "gloss": "bandit; brigand"
+ },
+ "fotoğrafçılık": {
+  "gloss": "photography"
+ },
+ "turna": {
+  "gloss": "crane (bird)"
+ },
+ "pancar": {
+  "gloss": "beet; beetroot"
+ },
+ "istirahat": {
+  "gloss": "rest; break; relaxation"
+ },
+ "cılız": {
+  "gloss": "puny; frail; scrawny; weak"
+ },
+ "şarjör": {
+  "gloss": "magazine (of a firearm)"
+ },
+ "fırtınalı": {
+  "gloss": "stormy; turbulent"
+ },
+ "tümen": {
+  "gloss": "(military) division; huge number; ten thousand"
+ },
+ "kopyalamak": {
+  "gloss": "to copy"
+ },
+ "mazi": {
+  "gloss": "the past (literary); past tense"
+ },
+ "namlu": {
+  "gloss": "(gun) barrel"
+ },
+ "hülya": {
+  "gloss": "daydream; fantasy; reverie"
+ },
+ "karmakarışık": {
+  "gloss": "messy; jumbled; chaotic"
+ },
+ "sürüm": {
+  "gloss": "version; release; edition"
+ },
+ "öğe": {
+  "gloss": "element; component; item"
+ },
+ "krom": {
+  "gloss": "chromium; chrome"
+ },
+ "doktorluk": {
+  "gloss": "medical profession; practice of medicine"
+ },
+ "kaplıca": {
+  "gloss": "hot spring; thermal spa"
+ },
+ "taahhüt": {
+  "gloss": "commitment; undertaking; pledge"
+ },
+ "güvensizlik": {
+  "gloss": "distrust; insecurity; lack of confidence"
+ },
+ "nota": {
+  "gloss": "musical note; sheet music; diplomatic note"
+ },
+ "imar": {
+  "gloss": "urban development; zoning"
+ },
+ "kilolu": {
+  "gloss": "overweight"
+ },
+ "merasim": {
+  "gloss": "ceremony"
+ },
+ "azat": {
+  "gloss": "freed; released (azat etmek: to set free)"
+ },
+ "oluk": {
+  "gloss": "gutter; groove; channel"
+ },
+ "kınamak": {
+  "gloss": "to condemn; to reproach; to criticize"
+ },
+ "bolluk": {
+  "gloss": "abundance; plenty; prosperity"
+ },
+ "kambur": {
+  "gloss": "hump; hunchback"
+ },
+ "keten": {
+  "gloss": "linen; flax"
+ },
+ "nezle": {
+  "gloss": "head cold; the sniffles"
+ },
+ "define": {
+  "gloss": "buried treasure; treasure"
+ },
+ "serap": {
+  "gloss": "mirage"
+ },
+ "buyruk": {
+  "gloss": "command, order; (başına buyruk) headstrong"
+ },
+ "tonik": {
+  "gloss": "tonic water; (medicine) tonic"
+ },
+ "mumya": {
+  "gloss": "mummy"
+ },
+ "menfaat": {
+  "gloss": "benefit; interest; advantage"
+ },
+ "barışmak": {
+  "gloss": "to make peace; to reconcile; to make up"
+ },
+ "teneffüs": {
+  "gloss": "break between classes; respiration"
+ },
+ "çakı": {
+  "gloss": "pocketknife; penknife"
+ },
+ "bakla": {
+  "gloss": "broad bean; fava bean"
+ },
+ "gereç": {
+  "gloss": "material; equipment; tool"
+ },
+ "embesil": {
+  "gloss": "imbecile; moronic (insulting)"
+ },
+ "jenerik": {
+  "gloss": "film credits; generic (of drugs)"
+ },
+ "prostat": {
+  "gloss": "prostate"
+ },
+ "lisan": {
+  "gloss": "language (formal/literary)"
+ },
+ "müsamaha": {
+  "gloss": "tolerance; leniency; indulgence"
+ },
+ "daktilo": {
+  "gloss": "typewriter"
+ },
+ "boşaltılmak": {
+  "gloss": "to be emptied; to be evacuated"
+ },
+ "marifet": {
+  "gloss": "skill; talent; feat"
+ },
+ "caba": {
+  "gloss": "extra; something thrown in for free (cabası: on top of that)"
+ },
+ "dilli": {
+  "gloss": "-lingual (iki dilli: bilingual); having a tongue"
+ },
+ "aba": {
+  "gloss": "coarse woolen cloth; cloak made of it (abayı yakmak: to fall head over heels for someone)"
+ },
+ "militan": {
+  "gloss": "militant"
+ },
+ "gergedan": {
+  "gloss": "rhinoceros"
+ },
+ "pala": {
+  "gloss": "machete; scimitar; (pala bıyık) handlebar moustache"
+ },
+ "münasebet": {
+  "gloss": "relation; connection; suitability"
+ },
+ "aşçılık": {
+  "gloss": "cooking; profession of a cook"
+ },
+ "nezaret": {
+  "gloss": "supervision; detention (custody)"
+ },
+ "gözde": {
+  "gloss": "favorite; popular",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "ötmek": {
+  "gloss": "to sing (of birds); to crow; to sound, toot"
+ },
+ "ela": {
+  "gloss": "hazel (of eyes)"
+ },
+ "tenezzül": {
+  "gloss": "condescension (tenezzül etmek: to deign, stoop)"
+ },
+ "egzoz": {
+  "gloss": "exhaust (of a vehicle)"
+ },
+ "kumral": {
+  "gloss": "light brown, chestnut (of hair); brown-haired",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "asist": {
+  "gloss": "assist (in sports)"
+ },
+ "seksüel": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "cereyan": {
+  "gloss": "draft (of air); current, flow; (cereyan etmek) to take place"
+ },
+ "iltica": {
+  "gloss": "asylum; seeking refuge"
+ },
+ "dinç": {
+  "gloss": "vigorous, energetic, fit"
+ },
+ "kıpkırmızı": {
+  "gloss": "bright red; red all over"
+ },
+ "dörtlük": {
+  "gloss": "quatrain; (dört dörtlük) perfect, flawless"
+ },
+ "eksen": {
+  "gloss": "axis"
+ },
+ "tımarhane": {
+  "gloss": "madhouse; insane asylum (dated, derogatory)"
+ },
+ "ezan": {
+  "gloss": "call to prayer (adhan)"
+ },
+ "maestro": {
+  "gloss": "maestro (master conductor or composer)"
+ },
+ "cellat": {
+  "gloss": "executioner"
+ },
+ "araf": {
+  "gloss": "limbo; (in Islam) the realm between Heaven and Hell"
+ },
+ "pansiyon": {
+  "gloss": "guesthouse; boarding house"
+ },
+ "kunduz": {
+  "gloss": "beaver"
+ },
+ "medrese": {
+  "gloss": "madrasa; Islamic religious school"
+ },
+ "teyp": {
+  "gloss": "tape recorder; cassette player"
+ },
+ "polen": {
+  "gloss": "pollen"
+ },
+ "örmek": {
+  "gloss": "to knit; to braid, plait; to weave; to build (a wall)"
+ },
+ "kandil": {
+  "gloss": "oil lamp; (Islam) holy night"
+ },
+ "sarsmak": {
+  "gloss": "to shake, jolt; to shock"
+ },
+ "çoğalmak": {
+  "gloss": "to increase, multiply; to breed"
+ },
+ "sülfür": {
+  "gloss": "sulfide (the element sulfur is kükürt)"
+ },
+ "fermuar": {
+  "gloss": "zipper"
+ },
+ "karalama": {
+  "gloss": "scribble; doodle; rough draft"
+ },
+ "çeyiz": {
+  "gloss": "trousseau; dowry"
+ },
+ "yufka": {
+  "gloss": "thin sheet of dough (for börek, wraps); thin flatbread",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "kurultay": {
+  "gloss": "party congress; convention"
+ },
+ "haciz": {
+  "gloss": "seizure of property; distraint"
+ },
+ "önlük": {
+  "gloss": "apron; smock (school or lab)"
+ },
+ "kayık": {
+  "gloss": "rowboat; small boat"
+ },
+ "doymak": {
+  "gloss": "to be full (after eating); to be satisfied"
+ },
+ "taksit": {
+  "gloss": "installment"
+ },
+ "tsunami": {
+  "gloss": "tsunami; tidal wave"
+ },
+ "dedikoducu": {
+  "gloss": "gossip; gossiper"
+ },
+ "yağsız": {
+  "gloss": "lean; fat-free; without oil"
+ },
+ "güdümlü": {
+  "gloss": "guided (e.g. of a missile); controlled"
+ },
+ "oymak": {
+  "gloss": "to carve; to engrave; to gouge out",
+  "pos": "v",
+  "posName": "verb"
+ },
+ "hostes": {
+  "gloss": "flight attendant (female); hostess"
+ },
+ "parsel": {
+  "gloss": "plot of land, lot; parcel"
+ },
+ "ikaz": {
+  "gloss": "warning, caution"
+ },
+ "aksak": {
+  "gloss": "limping, lame; faulty, halting"
+ },
+ "kışlık": {
+  "gloss": "for winter; winter (clothes)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "tetkik": {
+  "gloss": "examination, investigation; (medical) test"
+ },
+ "saltanat": {
+  "gloss": "reign; sultanate; pomp, splendor"
+ },
+ "şişlik": {
+  "gloss": "swelling; puffiness"
+ },
+ "defne": {
+  "gloss": "bay laurel; bay leaf"
+ },
+ "paragraf": {
+  "gloss": "paragraph"
+ },
+ "geliştirici": {
+  "gloss": "developer"
+ },
+ "adliye": {
+  "gloss": "courthouse; judiciary"
+ },
+ "yapışık": {
+  "gloss": "stuck together; attached, adhering"
+ },
+ "arıtmak": {
+  "gloss": "to purify; to refine; to clean"
+ },
+ "maskara": {
+  "gloss": "laughingstock, buffoon; (colloquial) mascara"
+ },
+ "kesinlik": {
+  "gloss": "certainty; precision; definiteness"
+ },
+ "çağlamak": {
+  "gloss": "to babble, murmur, gurgle (of running water)"
+ },
+ "belde": {
+  "gloss": "small town; locality"
+ },
+ "kışkırtmak": {
+  "gloss": "to incite; to provoke; to stir up"
+ },
+ "köşk": {
+  "gloss": "mansion; villa; pavilion"
+ },
+ "gelgit": {
+  "gloss": "tide"
+ },
+ "sosyoloji": {
+  "gloss": "sociology"
+ },
+ "benekli": {
+  "gloss": "spotted; speckled"
+ },
+ "kepçe": {
+  "gloss": "ladle; scoop (e.g. of ice cream); bucket of an excavator"
+ },
+ "tayt": {
+  "gloss": "tights; leggings"
+ },
+ "isteksiz": {
+  "gloss": "unwilling; reluctant; listless"
+ },
+ "yaşlılık": {
+  "gloss": "old age"
+ },
+ "ümmet": {
+  "gloss": "ummah (the worldwide community of Muslims)"
+ },
+ "adaletli": {
+  "gloss": "fair; just; equitable"
+ },
+ "süslenmek": {
+  "gloss": "to be decorated; to be adorned; to dress up"
+ },
+ "dublör": {
+  "gloss": "stunt double; stuntman"
+ },
+ "erk": {
+  "gloss": "power; authority"
+ },
+ "tulum": {
+  "gloss": "overalls; jumpsuit; sleeping bag (uyku tulumu); bagpipes"
+ },
+ "üslup": {
+  "gloss": "style; manner of expression; tone"
+ },
+ "iyon": {
+  "gloss": "ion"
+ },
+ "şakacı": {
+  "gloss": "playful, fond of joking; joker"
+ },
+ "lüzumsuz": {
+  "gloss": "unnecessary; needless; superfluous"
+ },
+ "toka": {
+  "gloss": "buckle; clasp; hair clip"
+ },
+ "makara": {
+  "gloss": "spool; reel; bobbin; pulley"
+ },
+ "şeriat": {
+  "gloss": "Sharia; Islamic law"
+ },
+ "fiilen": {
+  "gloss": "in fact; in actual practice; de facto"
+ },
+ "masmavi": {
+  "gloss": "bright blue; deep blue"
+ },
+ "soba": {
+  "gloss": "heating stove; heater"
+ },
+ "alıkoymak": {
+  "gloss": "to hold back; to detain; to prevent; to keep from"
+ },
+ "idealist": {
+  "gloss": "idealist; idealistic",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "hukukçu": {
+  "gloss": "jurist; legal expert; lawyer"
+ },
+ "beyhude": {
+  "gloss": "futile; vain; pointless"
+ },
+ "mors": {
+  "gloss": "Morse (as in mors alfabesi, Morse code); walrus"
+ },
+ "poliçe": {
+  "gloss": "insurance policy; bill of exchange"
+ },
+ "dürüm": {
+  "gloss": "wrap (rolled flatbread filled with döner or similar)"
+ },
+ "mazlum": {
+  "gloss": "oppressed; wronged; downtrodden"
+ },
+ "doçent": {
+  "gloss": "associate professor (Turkish academic title)"
+ },
+ "emsal": {
+  "gloss": "precedent; equal, peer; similar case"
+ },
+ "peyzaj": {
+  "gloss": "landscape; landscaping"
+ },
+ "korkuluk": {
+  "gloss": "railing; guardrail; scarecrow"
+ },
+ "Gürcistan": {
+  "gloss": "Georgia (the country)"
+ },
+ "asal": {
+  "gloss": "prime (as in asal sayı, prime number); noble (as in asal gaz)"
+ },
+ "dalgın": {
+  "gloss": "absent-minded; distracted"
+ },
+ "çiğdem": {
+  "gloss": "crocus"
+ },
+ "bone": {
+  "gloss": "swimming cap; bonnet"
+ },
+ "saz": {
+  "gloss": "saz (long-necked lute, baglama); reeds, rushes"
+ },
+ "zat": {
+  "gloss": "person (formal); essence"
+ },
+ "yapıt": {
+  "gloss": "work (of art or literature)"
+ },
+ "entrika": {
+  "gloss": "intrigue; plot; scheming"
+ },
+ "abide": {
+  "gloss": "monument; monumental figure or work"
+ },
+ "mahzen": {
+  "gloss": "cellar; underground storeroom"
+ },
+ "vuku": {
+  "gloss": "event, occurrence (mostly in vuku bulmak, 'to occur, take place')"
+ },
+ "türban": {
+  "gloss": "headscarf worn in the Islamic style (a man's turban is sarık)"
+ },
+ "yoğunlaşmak": {
+  "gloss": "to concentrate, focus; to become dense; to intensify"
+ },
+ "porsuk": {
+  "gloss": "badger",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "saldırganlık": {
+  "gloss": "aggression; aggressiveness"
+ },
+ "hantal": {
+  "gloss": "clumsy, unwieldy; bulky"
+ },
+ "ozon": {
+  "gloss": "ozone"
+ },
+ "kalamar": {
+  "gloss": "squid; calamari"
+ },
+ "esneklik": {
+  "gloss": "flexibility; elasticity"
+ },
+ "celp": {
+  "gloss": "(law) summons, subpoena"
+ },
+ "loca": {
+  "gloss": "box (in a theater); lodge"
+ },
+ "vekâlet": {
+  "gloss": "power of attorney; proxy; acting on behalf of someone"
+ },
+ "zifir": {
+  "gloss": "pitch, tar (as in zifiri karanlık, 'pitch dark')"
+ },
+ "derlemek": {
+  "gloss": "to collect, gather; to compile"
+ },
+ "smaç": {
+  "gloss": "(volleyball) spike, smash; (basketball) slam dunk"
+ },
+ "tenha": {
+  "gloss": "deserted, empty; quiet, not crowded"
+ },
+ "daracık": {
+  "gloss": "very narrow; very tight"
+ },
+ "kitapçı": {
+  "gloss": "bookseller; bookshop"
+ },
+ "müessese": {
+  "gloss": "establishment, institution"
+ },
+ "sıralanmak": {
+  "gloss": "to line up; to be arranged in order"
+ },
+ "fazlalık": {
+  "gloss": "excess, surplus"
+ },
+ "asalak": {
+  "gloss": "parasite; (figurative) freeloader"
+ },
+ "bütünlük": {
+  "gloss": "wholeness; unity; integrity"
+ },
+ "girdap": {
+  "gloss": "whirlpool; vortex"
+ },
+ "pankart": {
+  "gloss": "banner, placard"
+ },
+ "taşmak": {
+  "gloss": "to overflow; to spill over; to boil over"
+ },
+ "evliya": {
+  "gloss": "saint (Muslim holy man)"
+ },
+ "panzehir": {
+  "gloss": "antidote"
+ },
+ "zürafa": {
+  "gloss": "giraffe"
+ },
+ "Makedonya": {
+  "gloss": "Macedonia (North Macedonia; also the historical region)"
+ },
+ "misket": {
+  "gloss": "marble (toy); muscat grape; grapeshot"
+ },
+ "mahşer": {
+  "gloss": "place of assembly on Judgment Day; (figurative) huge chaotic crowd"
+ },
+ "istikamet": {
+  "gloss": "direction; course"
+ },
+ "devretmek": {
+  "gloss": "to hand over, transfer; to take over"
+ },
+ "iskambil": {
+  "gloss": "playing cards; card game"
+ },
+ "dertli": {
+  "gloss": "troubled, sorrowful; worried"
+ },
+ "banliyö": {
+  "gloss": "suburb; suburban (commuter) train"
+ },
+ "kazan": {
+  "gloss": "cauldron; large pot; boiler"
+ },
+ "süzmek": {
+  "gloss": "to strain; to filter"
+ },
+ "perakende": {
+  "gloss": "retail"
+ },
+ "dingil": {
+  "gloss": "axle; (slang) dimwit, fool",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "yemyeşil": {
+  "gloss": "bright green; lush green"
+ },
+ "süslemek": {
+  "gloss": "to decorate; to adorn"
+ },
+ "solmak": {
+  "gloss": "to fade; to wilt; to turn pale"
+ },
+ "sinüs": {
+  "gloss": "sinus; (mathematics) sine"
+ },
+ "kalleş": {
+  "gloss": "treacherous, underhanded"
+ },
+ "cık": {
+  "gloss": "tsk (sound of disapproval or 'no')"
+ },
+ "pelin": {
+  "gloss": "wormwood"
+ },
+ "devrilmek": {
+  "gloss": "to fall over, topple; to be overthrown"
+ },
+ "şişkin": {
+  "gloss": "swollen; bloated"
+ },
+ "kıymak": {
+  "gloss": "to mince, chop finely; to take (a life); to treat cruelly"
+ },
+ "kâtip": {
+  "gloss": "clerk; scribe"
+ },
+ "özenli": {
+  "gloss": "careful, meticulous"
+ },
+ "küsur": {
+  "gloss": "and a bit, -odd (after a number: yirmi küsur = twenty-odd); fractional part"
+ },
+ "vapur": {
+  "gloss": "ferry; steamboat"
+ },
+ "bej": {
+  "gloss": "beige"
+ },
+ "sıklet": {
+  "gloss": "weight class (in sports); weight"
+ },
+ "müdürlük": {
+  "gloss": "directorship; directorate; manager's office"
+ },
+ "bent": {
+  "gloss": "dam; clause, paragraph (of a text)"
+ },
+ "dinmek": {
+  "gloss": "to stop, subside (rain, pain, wind); to calm down"
+ },
+ "yumru": {
+  "gloss": "lump; bump; swelling"
+ },
+ "yığılmak": {
+  "gloss": "to pile up; to collapse in a heap; to crowd"
+ },
+ "terazi": {
+  "gloss": "scales; balance; Libra (zodiac sign)"
+ },
+ "çolak": {
+  "gloss": "one-armed; with a crippled hand or arm"
+ },
+ "avare": {
+  "gloss": "idle, aimless; vagrant"
+ },
+ "çıkarcı": {
+  "gloss": "opportunist; self-seeking person"
+ },
+ "leğen": {
+  "gloss": "basin; washtub; pelvis"
+ },
+ "muhallebi": {
+  "gloss": "muhallebi (milk pudding thickened with rice flour)"
+ },
+ "şizofren": {
+  "gloss": "schizophrenic; person with schizophrenia"
+ },
+ "kazımak": {
+  "gloss": "to scrape (off); to scratch off; to shave off"
+ },
+ "rakı": {
+  "gloss": "raki (anise-flavoured Turkish spirit)"
+ },
+ "güzergâh": {
+  "gloss": "route; itinerary"
+ },
+ "çıngırak": {
+  "gloss": "rattle; jingle bell"
+ },
+ "menemen": {
+  "gloss": "menemen (Turkish eggs scrambled with tomatoes and peppers)"
+ },
+ "oğlak": {
+  "gloss": "kid (young goat); Capricorn"
+ },
+ "çöküntü": {
+  "gloss": "collapse; slump; mental depression; subsidence"
+ },
+ "zikir": {
+  "gloss": "mention; dhikr (Sufi ritual repetition of God's names)"
+ },
+ "havasız": {
+  "gloss": "stuffy; airless"
+ },
+ "iyileştirici": {
+  "gloss": "healing; curative"
+ },
+ "zayiat": {
+  "gloss": "casualties; losses (esp. military)"
+ },
+ "muhakeme": {
+  "gloss": "reasoning, judgment; trial, hearing"
+ },
+ "tutsak": {
+  "gloss": "prisoner; captive"
+ },
+ "ahududu": {
+  "gloss": "raspberry"
+ },
+ "kapkara": {
+  "gloss": "pitch-black; jet-black"
+ },
+ "kansız": {
+  "gloss": "bloodless; anaemic"
+ },
+ "kolonya": {
+  "gloss": "cologne (Turkish lemon-scented splash cologne)"
+ },
+ "jeton": {
+  "gloss": "token (for phones, machines); gaming chip"
+ },
+ "uyuşuk": {
+  "gloss": "numb; sluggish, lethargic"
+ },
+ "ezberlemek": {
+  "gloss": "to memorize; to learn by heart"
+ },
+ "işemek": {
+  "gloss": "to pee, urinate (informal)"
+ },
+ "dayanışmak": {
+  "gloss": "to show solidarity; to support one another"
+ },
+ "iftihar": {
+  "gloss": "pride; honor"
+ },
+ "övmek": {
+  "gloss": "to praise; to compliment"
+ },
+ "dağcı": {
+  "gloss": "mountaineer; climber"
+ },
+ "simsiyah": {
+  "gloss": "jet-black; pitch-black"
+ },
+ "koşturmak": {
+  "gloss": "to bustle about, run around; to make (someone) run"
+ },
+ "gecekondu": {
+  "gloss": "shanty house (illegally built squatter dwelling)"
+ },
+ "iskân": {
+  "gloss": "settlement, habitation; housing"
+ },
+ "matbaa": {
+  "gloss": "printing house; printing press"
+ },
+ "şahsiyet": {
+  "gloss": "personality; prominent figure"
+ },
+ "hararet": {
+  "gloss": "heat; fever; (engine) overheating"
+ },
+ "astronomik": {
+  "gloss": "astronomical; enormous (of prices, figures)"
+ },
+ "yapboz": {
+  "gloss": "jigsaw puzzle"
+ },
+ "sac": {
+  "gloss": "sheet metal; griddle for baking bread"
+ },
+ "telli": {
+  "gloss": "stringed; wired"
+ },
+ "şema": {
+  "gloss": "diagram; scheme"
+ },
+ "sevap": {
+  "gloss": "good deed (rewarded by God); religious merit"
+ },
+ "saplı": {
+  "gloss": "with a handle; stalked"
+ },
+ "epik": {
+  "gloss": "epic"
+ },
+ "spiker": {
+  "gloss": "announcer; newsreader"
+ },
+ "yitmek": {
+  "gloss": "to be lost; to disappear; to perish"
+ },
+ "yelpaze": {
+  "gloss": "hand fan; range, spectrum"
+ },
+ "varoş": {
+  "gloss": "city outskirts (usually poor, working-class areas)"
+ },
+ "dalak": {
+  "gloss": "spleen"
+ },
+ "türemek": {
+  "gloss": "to spring up; to multiply; to be derived"
+ },
+ "özne": {
+  "gloss": "subject (grammatical or acting subject)"
+ },
+ "levrek": {
+  "gloss": "sea bass"
+ },
+ "yetkisiz": {
+  "gloss": "unauthorized; without authority"
+ },
+ "damlamak": {
+  "gloss": "to drip, trickle; to drop in unannounced"
+ },
+ "kirletmek": {
+  "gloss": "to make dirty; to pollute"
+ },
+ "kakmak": {
+  "gloss": "to drive in, tap in; to inlay; (itip kakmak) to push around"
+ },
+ "töre": {
+  "gloss": "custom, tradition; unwritten law"
+ },
+ "öğrencilik": {
+  "gloss": "student life; being a student"
+ },
+ "anlatıcı": {
+  "gloss": "narrator; storyteller"
+ },
+ "minare": {
+  "gloss": "minaret"
+ },
+ "vız": {
+  "gloss": "buzz; (vız gelmek) to not care at all, be indifferent"
+ },
+ "dobra": {
+  "gloss": "blunt, frank, outspoken"
+ },
+ "arabalı": {
+  "gloss": "having a car; with a car"
+ },
+ "yalı": {
+  "gloss": "waterside mansion; (rare) shore"
+ },
+ "sedef": {
+  "gloss": "mother-of-pearl, nacre"
+ },
+ "kemikli": {
+  "gloss": "bony; with bones"
+ },
+ "yüzbinlerce": {
+  "gloss": "hundreds of thousands of"
+ },
+ "döşek": {
+  "gloss": "mattress; bedding"
+ },
+ "aranmak": {
+  "gloss": "to be searched for; to be called (phoned)"
+ },
+ "kadavra": {
+  "gloss": "cadaver; carcass"
+ },
+ "imtiyaz": {
+  "gloss": "privilege; concession, franchise"
+ },
+ "ayran": {
+  "gloss": "ayran (salty yogurt drink)"
+ },
+ "münakaşa": {
+  "gloss": "argument, quarrel; debate"
+ },
+ "tomar": {
+  "gloss": "roll, scroll; bundle (of paper or money)"
+ },
+ "iğrenmek": {
+  "gloss": "to be disgusted (by); to loathe"
+ },
+ "muhtelif": {
+  "gloss": "various; diverse"
+ },
+ "mühlet": {
+  "gloss": "time limit, grace period; respite"
+ },
+ "serpilmek": {
+  "gloss": "to thrive, flourish, grow vigorously; to be sprinkled"
+ },
+ "aort": {
+  "gloss": "aorta"
+ },
+ "matem": {
+  "gloss": "mourning; grief"
+ },
+ "paydos": {
+  "gloss": "end of work, break; (paydos etmek) to call it a day"
+ },
+ "priz": {
+  "gloss": "electrical socket, outlet"
+ },
+ "şaşı": {
+  "gloss": "cross-eyed; squinting"
+ },
+ "ağıt": {
+  "gloss": "lament, dirge; elegy"
+ },
+ "sevdalı": {
+  "gloss": "in love, infatuated; lover",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "bebeklik": {
+  "gloss": "babyhood, infancy"
+ },
+ "tüzük": {
+  "gloss": "statute, regulations; bylaws"
+ },
+ "figüran": {
+  "gloss": "extra (in a film); walk-on actor"
+ },
+ "utandırmak": {
+  "gloss": "to embarrass, shame"
+ },
+ "güzelleşmek": {
+  "gloss": "to become beautiful; to get better"
+ },
+ "köhne": {
+  "gloss": "old, dilapidated; run-down"
+ },
+ "selamet": {
+  "gloss": "safety, well-being; (selametle) safely"
+ },
+ "beyanname": {
+  "gloss": "declaration; tax return; customs declaration"
+ },
+ "kötümser": {
+  "gloss": "pessimistic"
+ },
+ "ayaz": {
+  "gloss": "frost; freezing, clear cold weather"
+ },
+ "insafsız": {
+  "gloss": "merciless, ruthless; unfair, harsh"
+ },
+ "darı": {
+  "gloss": "millet"
+ },
+ "basmakalıp": {
+  "gloss": "clichéd, stereotyped, hackneyed"
+ },
+ "âlim": {
+  "gloss": "scholar, learned person"
+ },
+ "dershane": {
+  "gloss": "private tutoring school, cram school"
+ },
+ "külçe": {
+  "gloss": "ingot, bar; lump"
+ },
+ "argüman": {
+  "gloss": "argument (line of reasoning)"
+ },
+ "aşure": {
+  "gloss": "ashure, a sweet pudding of grains, fruits and nuts"
+ },
+ "metres": {
+  "gloss": "mistress, lover (of a married man)"
+ },
+ "fetva": {
+  "gloss": "fatwa, Islamic legal opinion"
+ },
+ "paçavra": {
+  "gloss": "rag; (figuratively) worthless thing"
+ },
+ "pehlivan": {
+  "gloss": "wrestler (esp. oil wrestler); strongman"
+ },
+ "rant": {
+  "gloss": "unearned income, windfall (economic rent)"
+ },
+ "doğramak": {
+  "gloss": "to chop, dice; to cut into pieces"
+ },
+ "ulamak": {
+  "gloss": "to join, splice; to add on"
+ },
+ "çubuklu": {
+  "gloss": "striped; with bars"
+ },
+ "gözetmek": {
+  "gloss": "to look after, protect; to take into account"
+ },
+ "loş": {
+  "gloss": "dim, dimly lit"
+ },
+ "derman": {
+  "gloss": "strength, energy; remedy, cure"
+ },
+ "kült": {
+  "gloss": "cult (as in cult film, cult following)"
+ },
+ "sufle": {
+  "gloss": "soufflé"
+ },
+ "taklitçi": {
+  "gloss": "imitator, copycat; impersonator"
+ },
+ "istikbal": {
+  "gloss": "future (more formal/dated than gelecek)"
+ },
+ "kundak": {
+  "gloss": "swaddling clothes; rifle stock"
+ },
+ "müfredat": {
+  "gloss": "curriculum, syllabus"
+ },
+ "eylemci": {
+  "gloss": "activist; protester"
+ },
+ "yöneltmek": {
+  "gloss": "to direct (something) at; to address (a question) to"
+ },
+ "cari": {
+  "gloss": "current (as in cari hesap, current account); in effect, prevailing"
+ },
+ "çaydanlık": {
+  "gloss": "teapot; tea kettle"
+ },
+ "buzağı": {
+  "gloss": "calf"
+ },
+ "hamsi": {
+  "gloss": "anchovy"
+ },
+ "gazino": {
+  "gloss": "nightclub with live music; (dated) outdoor cafe-restaurant"
+ },
+ "banker": {
+  "gloss": "banker; (dated) private moneylender"
+ },
+ "salça": {
+  "gloss": "tomato paste; pepper paste"
+ },
+ "muafiyet": {
+  "gloss": "exemption, immunity"
+ },
+ "mevzi": {
+  "gloss": "military position, emplacement; place"
+ },
+ "esinlenmek": {
+  "gloss": "to be inspired (by), draw inspiration (from)"
+ },
+ "ilerici": {
+  "gloss": "progressive; forward-looking"
+ },
+ "kıraç": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "süreklilik": {
+  "gloss": "continuity; permanence"
+ },
+ "üçer": {
+  "gloss": "three each, three at a time",
+  "pos": "num",
+  "posName": "numeral"
+ },
+ "deve": {
+  "gloss": "camel"
+ },
+ "mevzuat": {
+  "gloss": "legislation, regulations"
+ },
+ "sosisli": {
+  "gloss": "with sausage; hot dog (as in sosisli sandviç)"
+ },
+ "mazot": {
+  "gloss": "diesel fuel"
+ },
+ "sınamak": {
+  "gloss": "to test, put to the test; to try out"
+ },
+ "hapsolmak": {
+  "gloss": "to be imprisoned; to be trapped, shut in"
+ },
+ "olgunluk": {
+  "gloss": "maturity; ripeness"
+ },
+ "tütmek": {
+  "gloss": "to give off smoke (of a stove, chimney)"
+ },
+ "ulak": {
+  "gloss": "messenger, courier"
+ },
+ "zabıta": {
+  "gloss": "municipal police (enforcing local regulations, markets, etc.)"
+ },
+ "buruk": {
+  "gloss": "astringent, tart (of unripe fruit, tea); bittersweet"
+ },
+ "dürmek": {
+  "gloss": "to roll up; to fold up"
+ },
+ "ıhlamur": {
+  "gloss": "linden tree; linden-flower tea"
+ },
+ "tere": {
+  "gloss": "cress"
+ },
+ "mahsul": {
+  "gloss": "crop, harvest; produce"
+ },
+ "pekmez": {
+  "gloss": "pekmez (fruit/grape molasses)"
+ },
+ "akaryakıt": {
+  "gloss": "fuel (petrol, diesel)"
+ },
+ "avanak": {
+  "gloss": "gullible, naive; foolish (colloquial)"
+ },
+ "hüner": {
+  "gloss": "skill, talent; trick"
+ },
+ "iletken": {
+  "gloss": "conductive; conductor (of heat, electricity)",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "habis": {
+  "gloss": "malignant; wicked, vile"
+ },
+ "kalorifer": {
+  "gloss": "central heating; radiator"
+ },
+ "akıbet": {
+  "gloss": "fate, outcome; consequence"
+ },
+ "obur": {
+  "gloss": "gluttonous, greedy; big eater"
+ },
+ "Fiji": {
+  "pos": "n",
+  "posName": "noun"
+ },
+ "başparmak": {
+  "gloss": "thumb"
+ },
+ "nesnel": {
+  "gloss": "objective; impartial",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "Slovenya": {
+  "pos": "n",
+  "posName": "noun"
+ },
+ "münzevi": {
+  "gloss": "recluse; hermit",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "sekmek": {
+  "gloss": "to bounce; to ricochet; to hop, skip"
+ },
+ "bostan": {
+  "gloss": "vegetable garden; melon field"
+ },
+ "iffet": {
+  "gloss": "chastity; decency; virtue"
+ },
+ "ifa": {
+  "gloss": "fulfillment; performance (of a duty)"
+ },
+ "ikindi": {
+  "gloss": "late afternoon"
+ },
+ "karbonat": {
+  "gloss": "carbonate"
+ },
+ "patinaj": {
+  "gloss": "(ice) skating; wheelspin (loss of traction)"
+ },
+ "gütmek": {
+  "gloss": "to herd; to tend (livestock); to pursue (an aim)"
+ },
+ "şalter": {
+  "gloss": "circuit breaker; (main) switch"
+ },
+ "ışıltı": {
+  "gloss": "glimmer; sparkle"
+ },
+ "çözelti": {
+  "gloss": "solution (chemical mixture)"
+ },
+ "cadılık": {
+  "gloss": "witchcraft; shrewishness, spitefulness"
+ },
+ "işlek": {
+  "gloss": "busy, bustling (of a street or place)"
+ },
+ "Angola": {
+  "pos": "n",
+  "posName": "noun"
+ },
+ "ölçüm": {
+  "gloss": "measurement"
+ },
+ "icraat": {
+  "gloss": "deeds, actions; (official) activities"
+ },
+ "manifesto": {
+  "gloss": "manifesto"
+ },
+ "mantı": {
+  "gloss": "mantı (small filled dumplings)"
+ },
+ "yeterlilik": {
+  "gloss": "competence; qualification; adequacy"
+ },
+ "canlandırıcı": {
+  "gloss": "refreshing; invigorating",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "pim": {
+  "gloss": "pin (e.g. of a grenade or plug)"
+ },
+ "kafile": {
+  "gloss": "group of travelers; convoy"
+ },
+ "gösterişsiz": {
+  "gloss": "modest, unpretentious; plain"
+ },
+ "petek": {
+  "gloss": "honeycomb; radiator (panel)"
+ },
+ "tire": {
+  "gloss": "hyphen; dash"
+ },
+ "yurtsever": {
+  "gloss": "patriotic; patriot"
+ },
+ "tokmak": {
+  "gloss": "mallet; gavel; door knocker"
+ },
+ "ambalaj": {
+  "gloss": "packaging; package"
+ },
+ "bilgisayarlı": {
+  "gloss": "computerized; equipped with a computer"
+ },
+ "tespih": {
+  "gloss": "prayer beads; rosary"
+ },
+ "ebediyet": {
+  "gloss": "eternity"
+ },
+ "nasır": {
+  "gloss": "corn (on the foot); callus"
+ },
+ "artık": {
+  "gloss": "anymore, no longer (with negative); now, by now"
+ },
+ "hâl": {
+  "gloss": "state, condition, situation; (grammar) case"
+ },
+ "bazı": {
+  "gloss": "some, certain"
+ },
+ "güç": {
+  "gloss": "strength, power, force; (adj.) difficult, hard"
+ },
+ "can": {
+  "gloss": "life; soul; dear (term of endearment)"
+ },
+ "üst": {
+  "gloss": "top, upper part; (üst üste) one on top of another, in a row"
+ },
+ "hepsi": {
+  "gloss": "all of them; everything; all",
+  "pos": "pron",
+  "posName": "pronoun"
+ },
+ "sonuç": {
+  "gloss": "result, outcome; consequence"
+ },
+ "ayrıca": {
+  "gloss": "also, besides; separately"
+ },
+ "tanrı": {
+  "gloss": "god; God"
+ },
+ "öğrenmek": {
+  "gloss": "to learn; to find out"
+ },
+ "kesinlikle": {
+  "gloss": "definitely; absolutely; certainly"
+ },
+ "art": {
+  "gloss": "back, rear; what follows (as in art arda 'one after another', ardından 'after')"
+ },
+ "üye": {
+  "gloss": "member"
+ },
+ "özür": {
+  "gloss": "apology; excuse"
+ },
+ "millet": {
+  "gloss": "nation, people; (colloquial) folks, everybody"
+ },
+ "saldırı": {
+  "gloss": "attack, assault"
+ },
+ "gelin": {
+  "gloss": "bride; daughter-in-law"
+ },
+ "yön": {
+  "gloss": "direction; aspect, side"
+ },
+ "sağlık": {
+  "gloss": "health; wellbeing"
+ },
+ "belediye": {
+  "gloss": "municipality; city hall"
+ },
+ "sürmek": {
+  "gloss": "to last, take (time); to drive (a vehicle); to spread, rub on"
+ },
+ "kalkmak": {
+  "gloss": "to get up, stand up; to depart, take off; to be cancelled"
+ },
+ "yabancı": {
+  "gloss": "foreigner; stranger; foreign"
+ },
+ "kuş": {
+  "gloss": "bird"
+ },
+ "başarmak": {
+  "gloss": "to succeed; to achieve, accomplish"
+ },
+ "katı": {
+  "gloss": "hard, solid; strict, rigid"
+ },
+ "yarım": {
+  "gloss": "half; incomplete, unfinished",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "çek": {
+  "gloss": "cheque, check (payment)"
+ },
+ "yarışmak": {
+  "gloss": "to compete; to race"
+ },
+ "özlemek": {
+  "gloss": "to miss (someone or something); to long for"
+ },
+ "hazırlanmak": {
+  "gloss": "to get ready, prepare (for something, takes dative); to be prepared"
+ },
+ "karşılık": {
+  "gloss": "response, reply; equivalent; return"
+ },
+ "saçma": {
+  "gloss": "absurd, nonsensical; nonsense",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "şiir": {
+  "gloss": "poem; poetry"
+ },
+ "beğenmek": {
+  "gloss": "to like; to approve of; to choose (out of several)"
+ },
+ "elbise": {
+  "gloss": "dress; clothes, garment"
+ },
+ "toplamak": {
+  "gloss": "to gather, collect; to pick (fruit); to add up; to tidy up"
+ },
+ "satış": {
+  "gloss": "sale, selling; sales"
+ },
+ "davranmak": {
+  "gloss": "to behave, act; to treat (dative)"
+ },
+ "kent": {
+  "gloss": "city, town"
+ },
+ "görüş": {
+  "gloss": "opinion, view; sight, vision"
+ },
+ "uzay": {
+  "gloss": "outer space; space"
+ },
+ "şükür": {
+  "gloss": "gratitude, thanks (to God); (çok şükür) thank goodness"
+ },
+ "yetmek": {
+  "gloss": "to be enough, suffice; to reach"
+ },
+ "laf": {
+  "gloss": "talk, words; remark"
+ },
+ "yasak": {
+  "gloss": "forbidden, prohibited; ban",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "bayılmak": {
+  "gloss": "to faint, pass out; (dative) to love, adore"
+ },
+ "dönüşmek": {
+  "gloss": "to turn into, become; to transform"
+ },
+ "sıkı": {
+  "gloss": "tight; strict, rigorous; firm"
+ },
+ "özellik": {
+  "gloss": "feature, characteristic; trait"
+ },
+ "ilerlemek": {
+  "gloss": "to progress; to advance; to proceed"
+ },
+ "artmak": {
+  "gloss": "to increase, rise, go up; to be left over, remain"
+ },
+ "geliştirmek": {
+  "gloss": "to develop; to improve; to advance"
+ },
+ "iyilik": {
+  "gloss": "favor; kindness, goodness"
+ },
+ "incelemek": {
+  "gloss": "to examine, study closely; to inspect; to review"
+ },
+ "mezar": {
+  "gloss": "grave; tomb"
+ },
+ "toplum": {
+  "gloss": "society; community"
+ },
+ "öpmek": {
+  "gloss": "to kiss"
+ },
+ "büyü": {
+  "gloss": "magic; spell"
+ },
+ "konser": {
+  "gloss": "concert"
+ },
+ "anlayış": {
+  "gloss": "understanding; sense (as in mizah anlayışı, sense of humor)"
+ },
+ "sohbet": {
+  "gloss": "chat; conversation"
+ },
+ "gökyüzü": {
+  "gloss": "sky"
+ },
+ "eylem": {
+  "gloss": "action; act; (grammar) verb"
+ },
+ "kanamak": {
+  "gloss": "to bleed"
+ },
+ "ip": {
+  "gloss": "rope; string"
+ },
+ "şaşırmak": {
+  "gloss": "to be surprised; to be astonished; to be confused"
+ },
+ "endişe": {
+  "gloss": "worry; anxiety; concern"
+ },
+ "çap": {
+  "gloss": "diameter; caliber; scale, scope (as in dünya çapında)"
+ },
+ "dilek": {
+  "gloss": "wish; desire"
+ },
+ "pasta": {
+  "gloss": "cake; pastry"
+ },
+ "birleşmek": {
+  "gloss": "to unite; to merge; to join together"
+ },
+ "hanımefendi": {
+  "gloss": "madam, ma'am (polite); lady"
+ },
+ "efsane": {
+  "gloss": "legend; myth"
+ },
+ "kule": {
+  "gloss": "tower; (chess) rook"
+ },
+ "liman": {
+  "gloss": "port; harbor"
+ },
+ "zincir": {
+  "gloss": "chain; chain of stores"
+ },
+ "kandırmak": {
+  "gloss": "to deceive; to trick; to fool"
+ },
+ "karşılamak": {
+  "gloss": "to meet, greet (on arrival); to meet (a need); to cover (a cost)"
+ },
+ "konferans": {
+  "gloss": "conference; lecture, talk"
+ },
+ "koyu": {
+  "gloss": "dark (of colours); thick, strong (of coffee, tea)"
+ },
+ "vatan": {
+  "gloss": "homeland; fatherland, motherland"
+ },
+ "cephe": {
+  "gloss": "front (military or political); façade; side, aspect"
+ },
+ "Hindistan": {
+  "posName": "noun"
+ },
+ "üs": {
+  "gloss": "(military) base; (mathematics) exponent, power"
+ },
+ "kıl": {
+  "gloss": "strand of hair, body hair; bristle"
+ },
+ "giysi": {
+  "gloss": "clothing; garment"
+ },
+ "acımasız": {
+  "gloss": "ruthless, merciless"
+ },
+ "meme": {
+  "gloss": "breast"
+ },
+ "korkutmak": {
+  "gloss": "to scare, frighten; to intimidate"
+ },
+ "pembe": {
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "ölümcül": {
+  "gloss": "deadly; lethal; fatal"
+ },
+ "alternatif": {
+  "gloss": "alternative; option"
+ },
+ "teşvik": {
+  "gloss": "encouragement; incentive"
+ },
+ "sınırlı": {
+  "gloss": "limited; restricted"
+ },
+ "kâbus": {
+  "gloss": "nightmare"
+ },
+ "barbar": {
+  "gloss": "barbarian; barbaric, savage"
+ },
+ "İrlanda": {
+  "pos": "n",
+  "posName": "noun"
+ },
+ "sapan": {
+  "gloss": "slingshot; (saçma sapan) nonsensical, absurd"
+ },
+ "gitar": {
+  "gloss": "guitar"
+ },
+ "soymak": {
+  "gloss": "to peel; to skin; to undress, strip; to rob"
+ },
+ "akademik": {
+  "gloss": "academic"
+ },
+ "yelken": {
+  "gloss": "sail; sailing"
+ },
+ "gösteriş": {
+  "gloss": "showing off, ostentation; display"
+ },
+ "yapışmak": {
+  "gloss": "to stick, adhere; to cling to"
+ },
+ "nabız": {
+  "gloss": "pulse"
+ },
+ "lazer": {
+  "gloss": "laser"
+ },
+ "editör": {
+  "gloss": "editor"
+ },
+ "kıta": {
+  "gloss": "continent; military unit"
+ },
+ "manastır": {
+  "gloss": "monastery; abbey"
+ },
+ "tuzlu": {
+  "gloss": "salty"
+ },
+ "perişan": {
+  "gloss": "miserable; wretched; distraught"
+ },
+ "kovmak": {
+  "gloss": "to fire, sack; to kick out, expel; to chase away"
+ },
+ "bakire": {
+  "gloss": "virgin; maiden"
+ },
+ "fındık": {
+  "gloss": "hazelnut"
+ },
+ "eziyet": {
+  "gloss": "torment; mistreatment, cruelty"
+ },
+ "süvari": {
+  "gloss": "cavalry; cavalryman, horseman"
+ },
+ "kıskançlık": {
+  "gloss": "jealousy; envy"
+ },
+ "lavabo": {
+  "gloss": "sink, washbasin; restroom"
+ },
+ "azim": {
+  "gloss": "determination, perseverance, resolve"
+ },
+ "yorgunluk": {
+  "gloss": "tiredness, fatigue"
+ },
+ "isimsiz": {
+  "gloss": "nameless; anonymous"
+ },
+ "güldürmek": {
+  "gloss": "to make (someone) laugh; to amuse, entertain"
+ },
+ "denizaltı": {
+  "gloss": "submarine"
+ },
+ "güncellemek": {
+  "gloss": "to update"
+ },
+ "algı": {
+  "gloss": "perception; awareness"
+ },
+ "dokumak": {
+  "gloss": "to weave"
+ },
+ "figür": {
+  "gloss": "figure (shape of the body; outline); figure (in art or geometry)"
+ },
+ "sarf": {
+  "gloss": "expenditure, consumption (sarf etmek = to expend, spend)"
+ },
+ "akrep": {
+  "gloss": "scorpion; hour hand (of a clock)"
+ },
+ "tahrip": {
+  "gloss": "destruction, devastation (tahrip etmek = to destroy)"
+ },
+ "çalışkan": {
+  "gloss": "hard-working, diligent"
+ },
+ "kaleci": {
+  "gloss": "goalkeeper"
+ },
+ "tedarik": {
+  "gloss": "supply, provision, procurement (tedarik etmek = to supply, procure)"
+ },
+ "kor": {
+  "gloss": "ember, glowing coal"
+ },
+ "güverte": {
+  "gloss": "deck (of a ship)"
+ },
+ "annelik": {
+  "gloss": "motherhood"
+ },
+ "piramit": {
+  "gloss": "pyramid"
+ },
+ "kompleks": {
+  "gloss": "complex (of buildings, etc.); (psychology) complex"
+ },
+ "yapışkan": {
+  "gloss": "sticky; adhesive",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "ertelemek": {
+  "gloss": "to postpone; to put off, delay"
+ },
+ "şato": {
+  "gloss": "chateau, castle"
+ },
+ "ayva": {
+  "gloss": "quince; (ayvayı yemek) to get into trouble"
+ },
+ "testere": {
+  "gloss": "saw"
+ },
+ "abartılı": {
+  "gloss": "exaggerated; over the top, extravagant"
+ },
+ "doldurulmak": {
+  "gloss": "to be filled"
+ },
+ "ekşi": {
+  "gloss": "sour; tart",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "bisküvi": {
+  "gloss": "biscuit; cookie"
+ },
+ "defans": {
+  "gloss": "defence (in sports); defenders"
+ },
+ "dümen": {
+  "gloss": "rudder; helm; (colloquial) trick, scheme"
+ },
+ "tapmak": {
+  "gloss": "to worship; to adore, idolize"
+ },
+ "karikatür": {
+  "gloss": "cartoon; caricature"
+ },
+ "radyoaktif": {
+  "gloss": "radioactive"
+ },
+ "fert": {
+  "gloss": "individual (person); member (aile fertleri: family members)"
+ },
+ "Fas": {
+  "posName": "noun"
+ },
+ "kıvırcık": {
+  "gloss": "curly (hair); curly-leaf lettuce",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "talan": {
+  "gloss": "plunder; pillage; ransacking (talan etmek = to plunder)"
+ },
+ "devralmak": {
+  "gloss": "to take over; to inherit"
+ },
+ "gırtlak": {
+  "gloss": "larynx; throat"
+ },
+ "susuzluk": {
+  "gloss": "thirst; lack of water"
+ },
+ "söyleşi": {
+  "gloss": "chat; informal talk; (published) interview"
+ },
+ "enstrüman": {
+  "gloss": "musical instrument"
+ },
+ "uzunluk": {
+  "gloss": "length"
+ },
+ "algoritma": {
+  "gloss": "algorithm"
+ },
+ "kavurmak": {
+  "gloss": "to roast; to sauté; to scorch"
+ },
+ "zorbalık": {
+  "gloss": "bullying; tyranny"
+ },
+ "farksız": {
+  "gloss": "no different; indistinguishable"
+ },
+ "tatmak": {
+  "gloss": "to taste; to try; to experience"
+ },
+ "Peru": {
+  "posName": "noun"
+ },
+ "dalgıç": {
+  "gloss": "diver"
+ },
+ "anlatım": {
+  "gloss": "expression, way of expressing; explanation; wording"
+ },
+ "güvensiz": {
+  "gloss": "insecure; distrustful; unreliable"
+ },
+ "gafil": {
+  "gloss": "unaware, heedless (gafil avlamak: to catch off guard, take by surprise)"
+ },
+ "dalgalı": {
+  "gloss": "wavy; choppy, rough (of water)"
+ },
+ "kraker": {
+  "gloss": "cracker"
+ },
+ "elektron": {
+  "gloss": "electron"
+ },
+ "feribot": {
+  "gloss": "ferry"
+ },
+ "sararmak": {
+  "gloss": "to turn yellow; to turn pale"
+ },
+ "Kongo": {
+  "posName": "noun"
+ },
+ "entegre": {
+  "gloss": "integrated; entegre olmak = to integrate"
+ },
+ "beka": {
+  "gloss": "survival; continued existence (esp. of a state)"
+ },
+ "soyguncu": {
+  "gloss": "robber"
+ },
+ "yanak": {
+  "gloss": "cheek"
+ },
+ "gölet": {
+  "gloss": "pond; small lake"
+ },
+ "çevreci": {
+  "gloss": "environmentalist; environmentally friendly, green"
+ },
+ "kıvrım": {
+  "gloss": "curve; fold; crease"
+ },
+ "salya": {
+  "gloss": "drool; spittle"
+ },
+ "tükürmek": {
+  "gloss": "to spit"
+ },
+ "alkışlamak": {
+  "gloss": "to applaud; to clap; to praise"
+ },
+ "çıt": {
+  "gloss": "faint sound; click; snap (as in çıt çıkmamak, 'to be dead silent')"
+ },
+ "kâhya": {
+  "gloss": "steward; manager of a household or estate; butler"
+ },
+ "adaletsizlik": {
+  "gloss": "injustice"
+ },
+ "uykucu": {
+  "gloss": "sleepyhead; heavy sleeper"
+ },
+ "psikiyatr": {
+  "gloss": "psychiatrist"
+ },
+ "havza": {
+  "gloss": "basin, river basin; catchment area"
+ },
+ "kanserli": {
+  "gloss": "cancerous; having cancer"
+ },
+ "orgeneral": {
+  "gloss": "four-star general (army)"
+ },
+ "verimsiz": {
+  "gloss": "inefficient; unproductive"
+ },
+ "katsayı": {
+  "gloss": "coefficient"
+ },
+ "totem": {
+  "gloss": "totem"
+ },
+ "tüzel": {
+  "gloss": "legal (as in tüzel kişi, legal entity)"
+ },
+ "poyraz": {
+  "gloss": "north-easterly wind; north wind"
+ },
+ "itimat": {
+  "gloss": "trust, confidence; reliance"
+ },
+ "işgalci": {
+  "gloss": "invader; occupier"
+ },
+ "şerbet": {
+  "gloss": "sweet fruit-syrup drink; sherbet"
+ },
+ "çil": {
+  "gloss": "freckle; speckle"
+ },
+ "alaca": {
+  "gloss": "mottled, multicoloured, dappled",
+  "pos": "adj",
+  "posName": "adjective"
+ },
+ "turnike": {
+  "gloss": "turnstile; tourniquet"
+ },
+ "hurma": {
+  "gloss": "date (fruit)"
+ },
+ "ödem": {
+  "gloss": "edema (swelling from fluid retention)"
+ }
+}

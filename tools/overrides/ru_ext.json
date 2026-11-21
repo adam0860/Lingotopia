@@ -1,0 +1,42 @@
+{
+ "_comment": "Hand edits for ranks 5001-10000 of the Russian deck (tools/extend_deck_russian.py). Keys are lemmas. {\"drop\": true} removes a lemma from the extension; {\"gloss\": \"...\"} replaces the automatic gloss (and bypasses the vulgar/form-of filters). Only the extension (ranks 5001+) is affected; the first 5,000 cards are never touched.",
+ "карета": {
+  "gloss": "carriage, coach (a horse-drawn vehicle); (colloquial) ambulance"
+ },
+ "столик": {
+  "gloss": "small table; (restaurant) table; coffee table"
+ },
+ "декрет": {
+  "gloss": "decree, edict; (colloquial) maternity leave"
+ },
+ "флагман": {
+  "gloss": "flagship; flag officer; (figuratively) leading company or product"
+ },
+ "профилактика": {
+  "gloss": "prevention, preventive measures, prophylaxis; maintenance, servicing"
+ },
+ "лягушка": {
+  "gloss": "frog"
+ },
+ "кросс": {
+  "gloss": "cross-country race; (boxing) cross"
+ },
+ "чулок": {
+  "gloss": "stocking"
+ },
+ "скотина": {
+  "gloss": "cattle, livestock; (colloquial, rude) brute, boor"
+ },
+ "прислуга": {
+  "gloss": "servant, domestic help; (military) gun crew"
+ },
+ "мыло": {
+  "gloss": "soap; lather; (slang) e-mail"
+ },
+ "фараон": {
+  "gloss": "pharaoh"
+ },
+ "силовик": {
+  "gloss": "member of the security services or armed forces; (politics) silovik"
+ }
+}

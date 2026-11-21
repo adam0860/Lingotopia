@@ -1,0 +1,2522 @@
+[
+ {
+  "id": "en_k_1_01",
+  "tier": 1,
+  "category": "nature",
+  "text": "How many legs does a dog have?",
+  "correct": {
+   "text": "Four"
+  },
+  "distractors": [
+   {
+    "text": "Two"
+   },
+   {
+    "text": "Six"
+   },
+   {
+    "text": "Eight"
+   }
+  ],
+  "explanation": "A dog has four legs."
+ },
+ {
+  "id": "en_k_1_02",
+  "tier": 1,
+  "category": "society",
+  "text": "How many days are in a week?",
+  "correct": {
+   "text": "Seven"
+  },
+  "distractors": [
+   {
+    "text": "Five"
+   },
+   {
+    "text": "Six"
+   },
+   {
+    "text": "Ten"
+   }
+  ],
+  "explanation": "There are seven days in a week."
+ },
+ {
+  "id": "en_k_1_03",
+  "tier": 1,
+  "category": "geography",
+  "text": "Which city is the capital of France?",
+  "correct": {
+   "text": "Paris"
+  },
+  "distractors": [
+   {
+    "text": "London"
+   },
+   {
+    "text": "Berlin"
+   },
+   {
+    "text": "Madrid"
+   }
+  ],
+  "explanation": "Paris is the capital of France."
+ },
+ {
+  "id": "en_k_1_04",
+  "tier": 1,
+  "category": "food",
+  "text": "Which fruit is yellow and long?",
+  "correct": {
+   "text": "Banana"
+  },
+  "distractors": [
+   {
+    "text": "Apple"
+   },
+   {
+    "text": "Watermelon"
+   },
+   {
+    "text": "Cherry"
+   }
+  ],
+  "explanation": "A banana is yellow and long."
+ },
+ {
+  "id": "en_k_1_05",
+  "tier": 1,
+  "category": "nature",
+  "text": "Which animal says \"meow\"?",
+  "correct": {
+   "text": "Cat"
+  },
+  "distractors": [
+   {
+    "text": "Dog"
+   },
+   {
+    "text": "Cow"
+   },
+   {
+    "text": "Horse"
+   }
+  ],
+  "explanation": "A cat says \"meow\"."
+ },
+ {
+  "id": "en_k_1_06",
+  "tier": 1,
+  "category": "science",
+  "text": "Which planet do we live on?",
+  "correct": {
+   "text": "Earth"
+  },
+  "distractors": [
+   {
+    "text": "Mars"
+   },
+   {
+    "text": "Venus"
+   },
+   {
+    "text": "Jupiter"
+   }
+  ],
+  "explanation": "We live on the planet Earth."
+ },
+ {
+  "id": "en_k_1_07",
+  "tier": 1,
+  "category": "society",
+  "text": "Which color on a traffic light means \"stop\"?",
+  "correct": {
+   "text": "Red"
+  },
+  "distractors": [
+   {
+    "text": "Green"
+   },
+   {
+    "text": "Yellow"
+   },
+   {
+    "text": "Blue"
+   }
+  ],
+  "explanation": "A red light means \"stop\"."
+ },
+ {
+  "id": "en_k_1_08",
+  "tier": 1,
+  "category": "food",
+  "text": "What is made from milk?",
+  "correct": {
+   "text": "Cheese"
+  },
+  "distractors": [
+   {
+    "text": "Bread"
+   },
+   {
+    "text": "Tea"
+   },
+   {
+    "text": "Juice"
+   }
+  ],
+  "explanation": "Cheese is made from milk."
+ },
+ {
+  "id": "en_k_1_09",
+  "tier": 1,
+  "category": "nature",
+  "text": "Where does a fish live?",
+  "correct": {
+   "text": "In water"
+  },
+  "distractors": [
+   {
+    "text": "In a forest"
+   },
+   {
+    "text": "In the sky"
+   },
+   {
+    "text": "On a tree"
+   }
+  ],
+  "explanation": "A fish lives in water."
+ },
+ {
+  "id": "en_k_1_10",
+  "tier": 1,
+  "category": "society",
+  "text": "How many months are in a year?",
+  "correct": {
+   "text": "Twelve"
+  },
+  "distractors": [
+   {
+    "text": "Six"
+   },
+   {
+    "text": "Ten"
+   },
+   {
+    "text": "Twenty"
+   }
+  ],
+  "explanation": "There are twelve months in a year."
+ },
+ {
+  "id": "en_k_1_11",
+  "tier": 1,
+  "category": "geography",
+  "text": "Which country is the largest in the world by area?",
+  "correct": {
+   "text": "Russia"
+  },
+  "distractors": [
+   {
+    "text": "Germany"
+   },
+   {
+    "text": "France"
+   },
+   {
+    "text": "Italy"
+   }
+  ],
+  "explanation": "Russia is the largest country in the world by area."
+ },
+ {
+  "id": "en_k_1_12",
+  "tier": 1,
+  "category": "health",
+  "text": "Which part of the body do we hear with?",
+  "correct": {
+   "text": "Ears"
+  },
+  "distractors": [
+   {
+    "text": "Eyes"
+   },
+   {
+    "text": "Nose"
+   },
+   {
+    "text": "Mouth"
+   }
+  ],
+  "explanation": "We hear with our ears."
+ },
+ {
+  "id": "en_k_1_13",
+  "tier": 1,
+  "category": "health",
+  "text": "What do we use to brush our teeth?",
+  "correct": {
+   "text": "A toothbrush"
+  },
+  "distractors": [
+   {
+    "text": "A spoon"
+   },
+   {
+    "text": "A knife"
+   },
+   {
+    "text": "A pen"
+   }
+  ],
+  "explanation": "Teeth are cleaned with a toothbrush."
+ },
+ {
+  "id": "en_k_1_14",
+  "tier": 1,
+  "category": "arts",
+  "text": "Which instrument has black and white keys?",
+  "correct": {
+   "text": "A piano"
+  },
+  "distractors": [
+   {
+    "text": "A guitar"
+   },
+   {
+    "text": "A violin"
+   },
+   {
+    "text": "A drum"
+   }
+  ],
+  "explanation": "A piano has black and white keys."
+ },
+ {
+  "id": "en_k_1_15",
+  "tier": 1,
+  "category": "sports",
+  "text": "Which sport is played with a puck?",
+  "correct": {
+   "text": "Ice hockey"
+  },
+  "distractors": [
+   {
+    "text": "Soccer"
+   },
+   {
+    "text": "Tennis"
+   },
+   {
+    "text": "Volleyball"
+   }
+  ],
+  "explanation": "In ice hockey, players hit a puck."
+ },
+ {
+  "id": "en_k_1_16",
+  "tier": 1,
+  "category": "technology",
+  "text": "Which of these can fly?",
+  "correct": {
+   "text": "Airplane"
+  },
+  "distractors": [
+   {
+    "text": "Bus"
+   },
+   {
+    "text": "Boat"
+   },
+   {
+    "text": "Bicycle"
+   }
+  ],
+  "explanation": "An airplane flies in the sky."
+ },
+ {
+  "id": "en_k_1_17",
+  "tier": 1,
+  "category": "science",
+  "text": "What is frozen water called?",
+  "correct": {
+   "text": "Ice"
+  },
+  "distractors": [
+   {
+    "text": "Steam"
+   },
+   {
+    "text": "Smoke"
+   },
+   {
+    "text": "Sand"
+   }
+  ],
+  "explanation": "Frozen water is ice."
+ },
+ {
+  "id": "en_k_1_18",
+  "tier": 1,
+  "category": "food",
+  "text": "Which vegetable is orange and long?",
+  "correct": {
+   "text": "Carrot"
+  },
+  "distractors": [
+   {
+    "text": "Potato"
+   },
+   {
+    "text": "Cabbage"
+   },
+   {
+    "text": "Cucumber"
+   }
+  ],
+  "explanation": "A carrot is orange and long."
+ },
+ {
+  "id": "en_k_1_19",
+  "tier": 1,
+  "category": "society",
+  "text": "What do you call a mother's mother?",
+  "correct": {
+   "text": "Grandmother"
+  },
+  "distractors": [
+   {
+    "text": "Aunt"
+   },
+   {
+    "text": "Sister"
+   },
+   {
+    "text": "Daughter"
+   }
+  ],
+  "explanation": "A mother's mother is a grandmother."
+ },
+ {
+  "id": "en_k_1_20",
+  "tier": 1,
+  "category": "nature",
+  "text": "Who makes honey?",
+  "correct": {
+   "text": "Bee"
+  },
+  "distractors": [
+   {
+    "text": "Fly"
+   },
+   {
+    "text": "Butterfly"
+   },
+   {
+    "text": "Mosquito"
+   }
+  ],
+  "explanation": "Bees make honey."
+ },
+ {
+  "id": "en_k_1_21",
+  "tier": 1,
+  "category": "nature",
+  "text": "Which season is the coldest?",
+  "correct": {
+   "text": "Winter"
+  },
+  "distractors": [
+   {
+    "text": "Summer"
+   },
+   {
+    "text": "Spring"
+   },
+   {
+    "text": "Autumn"
+   }
+  ],
+  "explanation": "Winter is the coldest season of the year."
+ },
+ {
+  "id": "en_k_1_22",
+  "tier": 1,
+  "category": "economics",
+  "text": "What do we usually pay with in a shop?",
+  "correct": {
+   "text": "Money"
+  },
+  "distractors": [
+   {
+    "text": "Books"
+   },
+   {
+    "text": "Water"
+   },
+   {
+    "text": "Sand"
+   }
+  ],
+  "explanation": "In a shop, people pay with money."
+ },
+ {
+  "id": "en_k_1_23",
+  "tier": 1,
+  "category": "nature",
+  "text": "Which animal gives us wool?",
+  "correct": {
+   "text": "A sheep"
+  },
+  "distractors": [
+   {
+    "text": "A cow"
+   },
+   {
+    "text": "A pig"
+   },
+   {
+    "text": "A chicken"
+   }
+  ],
+  "explanation": "Wool comes from sheep."
+ },
+ {
+  "id": "en_k_1_24",
+  "tier": 1,
+  "category": "science",
+  "text": "What gives the Earth light and heat during the day?",
+  "correct": {
+   "text": "The Sun"
+  },
+  "distractors": [
+   {
+    "text": "The Moon"
+   },
+   {
+    "text": "The wind"
+   },
+   {
+    "text": "The rain"
+   }
+  ],
+  "explanation": "The Sun gives us light and heat."
+ },
+ {
+  "id": "en_k_2_01",
+  "tier": 2,
+  "category": "geography",
+  "text": "Which ocean is the biggest?",
+  "correct": {
+   "text": "Pacific"
+  },
+  "distractors": [
+   {
+    "text": "Atlantic"
+   },
+   {
+    "text": "Indian"
+   },
+   {
+    "text": "Arctic"
+   }
+  ],
+  "explanation": "The Pacific Ocean is bigger than all other oceans."
+ },
+ {
+  "id": "en_k_2_02",
+  "tier": 2,
+  "category": "geography",
+  "text": "Which city is the capital of Italy?",
+  "correct": {
+   "text": "Rome"
+  },
+  "distractors": [
+   {
+    "text": "Milan"
+   },
+   {
+    "text": "Venice"
+   },
+   {
+    "text": "Naples"
+   }
+  ],
+  "explanation": "Rome is the capital of Italy."
+ },
+ {
+  "id": "en_k_2_03",
+  "tier": 2,
+  "category": "science",
+  "text": "Which planet is closest to the Sun?",
+  "correct": {
+   "text": "Mercury"
+  },
+  "distractors": [
+   {
+    "text": "Venus"
+   },
+   {
+    "text": "Earth"
+   },
+   {
+    "text": "Mars"
+   }
+  ],
+  "explanation": "Mercury is the planet closest to the Sun."
+ },
+ {
+  "id": "en_k_2_04",
+  "tier": 2,
+  "category": "nature",
+  "text": "Which animal is the tallest on Earth?",
+  "correct": {
+   "text": "Giraffe"
+  },
+  "distractors": [
+   {
+    "text": "Elephant"
+   },
+   {
+    "text": "Camel"
+   },
+   {
+    "text": "Horse"
+   }
+  ],
+  "explanation": "The giraffe is taller than all other animals; it has a long neck."
+ },
+ {
+  "id": "en_k_2_05",
+  "tier": 2,
+  "category": "geography",
+  "text": "In which country are the Giza pyramids located?",
+  "correct": {
+   "text": "Egypt"
+  },
+  "distractors": [
+   {
+    "text": "Greece"
+   },
+   {
+    "text": "Mexico"
+   },
+   {
+    "text": "India"
+   }
+  ],
+  "explanation": "The Giza pyramids stand near Cairo."
+ },
+ {
+  "id": "en_k_2_06",
+  "tier": 2,
+  "category": "nature",
+  "text": "What colorful arc can you see in the sky when the sun shines through rain?",
+  "correct": {
+   "text": "A rainbow"
+  },
+  "distractors": [
+   {
+    "text": "A thunderstorm"
+   },
+   {
+    "text": "A snowstorm"
+   },
+   {
+    "text": "A snowfall"
+   }
+  ],
+  "explanation": "A rainbow appears when the sun lights up raindrops."
+ },
+ {
+  "id": "en_k_2_07",
+  "tier": 2,
+  "category": "health",
+  "text": "Which organ pumps blood around the body?",
+  "correct": {
+   "text": "Heart"
+  },
+  "distractors": [
+   {
+    "text": "Lungs"
+   },
+   {
+    "text": "Liver"
+   },
+   {
+    "text": "Stomach"
+   }
+  ],
+  "explanation": "The heart pumps blood around the whole body."
+ },
+ {
+  "id": "en_k_2_08",
+  "tier": 2,
+  "category": "health",
+  "text": "Which vitamin does our skin make in sunlight?",
+  "correct": {
+   "text": "Vitamin D"
+  },
+  "distractors": [
+   {
+    "text": "Vitamin C"
+   },
+   {
+    "text": "Vitamin A"
+   },
+   {
+    "text": "Vitamin B"
+   }
+  ],
+  "explanation": "In the sun, the skin makes vitamin D by itself."
+ },
+ {
+  "id": "en_k_2_09",
+  "tier": 2,
+  "category": "food",
+  "text": "Which fruit are raisins made from?",
+  "correct": {
+   "text": "Grapes"
+  },
+  "distractors": [
+   {
+    "text": "Plums"
+   },
+   {
+    "text": "Apples"
+   },
+   {
+    "text": "Cherries"
+   }
+  ],
+  "explanation": "Raisins are dried grapes."
+ },
+ {
+  "id": "en_k_2_10",
+  "tier": 2,
+  "category": "history",
+  "text": "Who was the first human to fly into space?",
+  "correct": {
+   "text": "Yuri Gagarin"
+  },
+  "distractors": [
+   {
+    "text": "Neil Armstrong"
+   },
+   {
+    "text": "Gherman Titov"
+   },
+   {
+    "text": "Alexei Leonov"
+   }
+  ],
+  "explanation": "Yuri Gagarin flew into space on 12 April 1961."
+ },
+ {
+  "id": "en_k_2_11",
+  "tier": 2,
+  "category": "arts",
+  "text": "Who painted the \"Mona Lisa\"?",
+  "correct": {
+   "text": "Leonardo da Vinci"
+  },
+  "distractors": [
+   {
+    "text": "Pablo Picasso"
+   },
+   {
+    "text": "Vincent van Gogh"
+   },
+   {
+    "text": "Claude Monet"
+   }
+  ],
+  "explanation": "The Italian artist Leonardo da Vinci painted the Mona Lisa."
+ },
+ {
+  "id": "en_k_2_12",
+  "tier": 2,
+  "category": "arts",
+  "text": "Which composer wrote the ballet \"Swan Lake\"?",
+  "correct": {
+   "text": "Pyotr Tchaikovsky"
+  },
+  "distractors": [
+   {
+    "text": "Wolfgang Amadeus Mozart"
+   },
+   {
+    "text": "Ludwig van Beethoven"
+   },
+   {
+    "text": "Johann Sebastian Bach"
+   }
+  ],
+  "explanation": "Pyotr Tchaikovsky composed the music for the ballet Swan Lake."
+ },
+ {
+  "id": "en_k_2_13",
+  "tier": 2,
+  "category": "sports",
+  "text": "How many players from one football (soccer) team are on the field at a time?",
+  "correct": {
+   "text": "Eleven"
+  },
+  "distractors": [
+   {
+    "text": "Nine"
+   },
+   {
+    "text": "Twelve"
+   },
+   {
+    "text": "Fifteen"
+   }
+  ],
+  "explanation": "Each football team has eleven players on the field."
+ },
+ {
+  "id": "en_k_2_14",
+  "tier": 2,
+  "category": "sports",
+  "text": "How often are the Summer Olympic Games held?",
+  "correct": {
+   "text": "Once every four years"
+  },
+  "distractors": [
+   {
+    "text": "Every year"
+   },
+   {
+    "text": "Once every two years"
+   },
+   {
+    "text": "Once every ten years"
+   }
+  ],
+  "explanation": "The Summer Olympic Games take place every four years."
+ },
+ {
+  "id": "en_k_2_15",
+  "tier": 2,
+  "category": "technology",
+  "text": "Which computer device do you move across the table in order to move the cursor on the screen?",
+  "correct": {
+   "text": "Mouse"
+  },
+  "distractors": [
+   {
+    "text": "Keyboard"
+   },
+   {
+    "text": "Monitor"
+   },
+   {
+    "text": "Printer"
+   }
+  ],
+  "explanation": "You move the mouse on the table, and the cursor moves on the screen."
+ },
+ {
+  "id": "en_k_2_16",
+  "tier": 2,
+  "category": "society",
+  "text": "Who puts out a fire?",
+  "correct": {
+   "text": "Firefighter"
+  },
+  "distractors": [
+   {
+    "text": "Doctor"
+   },
+   {
+    "text": "Teacher"
+   },
+   {
+    "text": "Cook"
+   }
+  ],
+  "explanation": "A firefighter puts out fire with water."
+ },
+ {
+  "id": "en_k_2_17",
+  "tier": 2,
+  "category": "politics",
+  "text": "What do people do at elections?",
+  "correct": {
+   "text": "Vote"
+  },
+  "distractors": [
+   {
+    "text": "Pay taxes"
+   },
+   {
+    "text": "Take exams"
+   },
+   {
+    "text": "Buy tickets"
+   }
+  ],
+  "explanation": "At elections people vote for a candidate."
+ },
+ {
+  "id": "en_k_2_18",
+  "tier": 2,
+  "category": "economics",
+  "text": "What is the money a person gets for work called?",
+  "correct": {
+   "text": "Salary"
+  },
+  "distractors": [
+   {
+    "text": "Tax"
+   },
+   {
+    "text": "Price"
+   },
+   {
+    "text": "Debt"
+   }
+  ],
+  "explanation": "A salary is the money paid for work."
+ },
+ {
+  "id": "en_k_2_19",
+  "tier": 2,
+  "category": "nature",
+  "text": "Which of these animals lives in the Arctic?",
+  "correct": {
+   "text": "Polar bear"
+  },
+  "distractors": [
+   {
+    "text": "Penguin"
+   },
+   {
+    "text": "Tiger"
+   },
+   {
+    "text": "Giraffe"
+   }
+  ],
+  "explanation": "The polar bear lives in the north, in the cold Arctic."
+ },
+ {
+  "id": "en_k_2_20",
+  "tier": 2,
+  "category": "geography",
+  "text": "Which mountain in the world is the highest above sea level?",
+  "correct": {
+   "text": "Everest"
+  },
+  "distractors": [
+   {
+    "text": "Elbrus"
+   },
+   {
+    "text": "Mont Blanc"
+   },
+   {
+    "text": "Kilimanjaro"
+   }
+  ],
+  "explanation": "Everest is more than eight kilometres above sea level."
+ },
+ {
+  "id": "en_k_2_21",
+  "tier": 2,
+  "category": "science",
+  "text": "Which gas do people need for breathing?",
+  "correct": {
+   "text": "Oxygen"
+  },
+  "distractors": [
+   {
+    "text": "Hydrogen"
+   },
+   {
+    "text": "Helium"
+   },
+   {
+    "text": "Carbon dioxide"
+   }
+  ],
+  "explanation": "People breathe air, and they need oxygen."
+ },
+ {
+  "id": "en_k_2_22",
+  "tier": 2,
+  "category": "language",
+  "text": "How many letters are in the English alphabet?",
+  "correct": {
+   "text": "26"
+  },
+  "distractors": [
+   {
+    "text": "24"
+   },
+   {
+    "text": "28"
+   },
+   {
+    "text": "30"
+   }
+  ],
+  "explanation": "The English alphabet has twenty-six letters."
+ },
+ {
+  "id": "en_k_2_23",
+  "tier": 2,
+  "category": "geography",
+  "text": "On which continent is the Sahara Desert?",
+  "correct": {
+   "text": "Africa"
+  },
+  "distractors": [
+   {
+    "text": "Asia"
+   },
+   {
+    "text": "Australia"
+   },
+   {
+    "text": "South America"
+   }
+  ],
+  "explanation": "The Sahara covers much of northern Africa."
+ },
+ {
+  "id": "en_k_2_24",
+  "tier": 2,
+  "category": "science",
+  "text": "Which planet is the biggest in our solar system?",
+  "correct": {
+   "text": "Jupiter"
+  },
+  "distractors": [
+   {
+    "text": "Saturn"
+   },
+   {
+    "text": "Neptune"
+   },
+   {
+    "text": "Earth"
+   }
+  ],
+  "explanation": "Jupiter is the largest planet in the solar system."
+ },
+ {
+  "id": "en_k_3_01",
+  "tier": 3,
+  "category": "politics",
+  "text": "What is a constitution?",
+  "correct": {
+   "text": "The fundamental law of a state"
+  },
+  "distractors": [
+   {
+    "text": "A list of government members"
+   },
+   {
+    "text": "A treaty between two countries"
+   },
+   {
+    "text": "Election results"
+   }
+  ],
+  "explanation": "The constitution is the country's main law, and other laws must not contradict it."
+ },
+ {
+  "id": "en_k_3_02",
+  "tier": 3,
+  "category": "science",
+  "text": "What is the chemical symbol of gold?",
+  "correct": {
+   "text": "Au"
+  },
+  "distractors": [
+   {
+    "text": "Ag"
+   },
+   {
+    "text": "Fe"
+   },
+   {
+    "text": "Zn"
+   }
+  ],
+  "explanation": "Au comes from the Latin word aurum, which means gold."
+ },
+ {
+  "id": "en_k_3_03",
+  "tier": 3,
+  "category": "history",
+  "text": "In what year did the Second World War begin?",
+  "correct": {
+   "text": "1939"
+  },
+  "distractors": [
+   {
+    "text": "1914"
+   },
+   {
+    "text": "1929"
+   },
+   {
+    "text": "1945"
+   }
+  ],
+  "explanation": "The war began on 1 September 1939 with Germany's attack on Poland."
+ },
+ {
+  "id": "en_k_3_04",
+  "tier": 3,
+  "category": "geography",
+  "text": "What is the longest river in Europe?",
+  "correct": {
+   "text": "Volga"
+  },
+  "distractors": [
+   {
+    "text": "Danube"
+   },
+   {
+    "text": "Rhine"
+   },
+   {
+    "text": "Dnieper"
+   }
+  ],
+  "explanation": "The Volga flows through Russia into the Caspian Sea; it is about 3,500 kilometres long."
+ },
+ {
+  "id": "en_k_3_05",
+  "tier": 3,
+  "category": "literature",
+  "text": "Who wrote the novel in verse \"Eugene Onegin\"?",
+  "correct": {
+   "text": "Alexander Pushkin"
+  },
+  "distractors": [
+   {
+    "text": "Mikhail Lermontov"
+   },
+   {
+    "text": "Nikolai Gogol"
+   },
+   {
+    "text": "Nikolai Nekrasov"
+   }
+  ],
+  "explanation": "Pushkin wrote this novel in verse from 1823 to 1831."
+ },
+ {
+  "id": "en_k_3_06",
+  "tier": 3,
+  "category": "nature",
+  "text": "What are animals that feed their young with milk called?",
+  "correct": {
+   "text": "Mammals"
+  },
+  "distractors": [
+   {
+    "text": "Amphibians"
+   },
+   {
+    "text": "Reptiles"
+   },
+   {
+    "text": "Insects"
+   }
+  ],
+  "explanation": "Mammals feed their young with milk, for example cats, dogs and whales."
+ },
+ {
+  "id": "en_k_3_07",
+  "tier": 3,
+  "category": "politics",
+  "text": "What is a parliament?",
+  "correct": {
+   "text": "A body that passes laws"
+  },
+  "distractors": [
+   {
+    "text": "A court that punishes criminals"
+   },
+   {
+    "text": "An army that defends the country"
+   },
+   {
+    "text": "A bank that prints money"
+   }
+  ],
+  "explanation": "Parliament is a body where deputies discuss and pass laws."
+ },
+ {
+  "id": "en_k_3_08",
+  "tier": 3,
+  "category": "science",
+  "text": "Which gas do plants absorb during photosynthesis?",
+  "correct": {
+   "text": "Carbon dioxide"
+  },
+  "distractors": [
+   {
+    "text": "Oxygen"
+   },
+   {
+    "text": "Nitrogen"
+   },
+   {
+    "text": "Hydrogen"
+   }
+  ],
+  "explanation": "Plants take carbon dioxide from the air and release oxygen."
+ },
+ {
+  "id": "en_k_3_09",
+  "tier": 3,
+  "category": "history",
+  "text": "In what year did humans first walk on the Moon?",
+  "correct": {
+   "text": "1969"
+  },
+  "distractors": [
+   {
+    "text": "1961"
+   },
+   {
+    "text": "1957"
+   },
+   {
+    "text": "1975"
+   }
+  ],
+  "explanation": "The Apollo 11 astronauts landed on the Moon in July 1969."
+ },
+ {
+  "id": "en_k_3_10",
+  "tier": 3,
+  "category": "geography",
+  "text": "Which lake is the deepest in the world?",
+  "correct": {
+   "text": "Baikal"
+  },
+  "distractors": [
+   {
+    "text": "Ladoga"
+   },
+   {
+    "text": "Victoria"
+   },
+   {
+    "text": "Superior"
+   }
+  ],
+  "explanation": "Baikal's maximum depth is more than one and a half kilometres."
+ },
+ {
+  "id": "en_k_3_11",
+  "tier": 3,
+  "category": "literature",
+  "text": "Who wrote the play \"Romeo and Juliet\"?",
+  "correct": {
+   "text": "William Shakespeare"
+  },
+  "distractors": [
+   {
+    "text": "Charles Dickens"
+   },
+   {
+    "text": "Johann Goethe"
+   },
+   {
+    "text": "Jean-Baptiste Molière"
+   }
+  ],
+  "explanation": "Shakespeare is a great English playwright, the author of this tragedy."
+ },
+ {
+  "id": "en_k_3_12",
+  "tier": 3,
+  "category": "arts",
+  "text": "Who painted the painting “Black Square”?",
+  "correct": {
+   "text": "Kazimir Malevich"
+  },
+  "distractors": [
+   {
+    "text": "Wassily Kandinsky"
+   },
+   {
+    "text": "Marc Chagall"
+   },
+   {
+    "text": "Ilya Repin"
+   }
+  ],
+  "explanation": "Kazimir Malevich created “Black Square” in 1915."
+ },
+ {
+  "id": "en_k_3_13",
+  "tier": 3,
+  "category": "politics",
+  "text": "What is a referendum?",
+  "correct": {
+   "text": "A nationwide vote on an important issue"
+  },
+  "distractors": [
+   {
+    "text": "A meeting of two heads of state"
+   },
+   {
+    "text": "A session of parliament"
+   },
+   {
+    "text": "A population census"
+   }
+  ],
+  "explanation": "In a referendum citizens vote on an important issue."
+ },
+ {
+  "id": "en_k_3_14",
+  "tier": 3,
+  "category": "science",
+  "text": "What is measured in volts?",
+  "correct": {
+   "text": "Electric voltage"
+  },
+  "distractors": [
+   {
+    "text": "The strength of electric current"
+   },
+   {
+    "text": "Power"
+   },
+   {
+    "text": "Pressure"
+   }
+  ],
+  "explanation": "The volt is a unit of electric voltage, named after Alessandro Volta."
+ },
+ {
+  "id": "en_k_3_15",
+  "tier": 3,
+  "category": "geography",
+  "text": "Which sea separates Europe from Africa?",
+  "correct": {
+   "text": "The Mediterranean Sea"
+  },
+  "distractors": [
+   {
+    "text": "The Baltic Sea"
+   },
+   {
+    "text": "The Black Sea"
+   },
+   {
+    "text": "The Red Sea"
+   }
+  ],
+  "explanation": "The Mediterranean Sea lies between southern Europe and northern Africa."
+ },
+ {
+  "id": "en_k_3_16",
+  "tier": 3,
+  "category": "nature",
+  "text": "Which animal is the largest on Earth?",
+  "correct": {
+   "text": "The blue whale"
+  },
+  "distractors": [
+   {
+    "text": "The African elephant"
+   },
+   {
+    "text": "The sperm whale"
+   },
+   {
+    "text": "The great white shark"
+   }
+  ],
+  "explanation": "The blue whale can reach 30 metres in length and is heavier than any other animal."
+ },
+ {
+  "id": "en_k_3_17",
+  "tier": 3,
+  "category": "technology",
+  "text": "What is used as fuel at nuclear power plants?",
+  "correct": {
+   "text": "Uranium"
+  },
+  "distractors": [
+   {
+    "text": "Coal"
+   },
+   {
+    "text": "Oil"
+   },
+   {
+    "text": "Natural gas"
+   }
+  ],
+  "explanation": "Nuclear power plants get their energy from uranium."
+ },
+ {
+  "id": "en_k_3_18",
+  "tier": 3,
+  "category": "sports",
+  "text": "How many players of one team are on the court at the same time in classic (indoor) volleyball?",
+  "correct": {
+   "text": "Six"
+  },
+  "distractors": [
+   {
+    "text": "Five"
+   },
+   {
+    "text": "Seven"
+   },
+   {
+    "text": "Eleven"
+   }
+  ],
+  "explanation": "In classic volleyball, six players from each team play on the court."
+ },
+ {
+  "id": "en_k_3_19",
+  "tier": 3,
+  "category": "economics",
+  "text": "What is a tax?",
+  "correct": {
+   "text": "A mandatory payment to the state"
+  },
+  "distractors": [
+   {
+    "text": "A bank loan"
+   },
+   {
+    "text": "A worker's salary"
+   },
+   {
+    "text": "The price of goods in a shop"
+   }
+  ],
+  "explanation": "Citizens and companies pay taxes, and the state spends this money on common needs."
+ },
+ {
+  "id": "en_k_3_20",
+  "tier": 3,
+  "category": "society",
+  "text": "Which document confirms a person's identity?",
+  "correct": {
+   "text": "Passport"
+  },
+  "distractors": [
+   {
+    "text": "Diploma"
+   },
+   {
+    "text": "Receipt"
+   },
+   {
+    "text": "Prescription"
+   }
+  ],
+  "explanation": "A passport records a person's name, date of birth and other data."
+ },
+ {
+  "id": "en_k_3_21",
+  "tier": 3,
+  "category": "food",
+  "text": "Who is a vegetarian?",
+  "correct": {
+   "text": "A person who does not eat meat"
+  },
+  "distractors": [
+   {
+    "text": "A person who does not eat sweets"
+   },
+   {
+    "text": "A person who does not eat vegetables"
+   },
+   {
+    "text": "A person who does not eat bread"
+   }
+  ],
+  "explanation": "Vegetarians eat plant-based food and do not eat meat."
+ },
+ {
+  "id": "en_k_3_22",
+  "tier": 3,
+  "category": "health",
+  "text": "Which human organ produces urine?",
+  "correct": {
+   "text": "The kidney"
+  },
+  "distractors": [
+   {
+    "text": "The liver"
+   },
+   {
+    "text": "The heart"
+   },
+   {
+    "text": "The stomach"
+   }
+  ],
+  "explanation": "Urine is produced by the kidneys, which filter the blood."
+ },
+ {
+  "id": "en_k_3_23",
+  "tier": 3,
+  "category": "language",
+  "text": "Which language has the most native speakers in the world?",
+  "correct": {
+   "text": "Mandarin Chinese"
+  },
+  "distractors": [
+   {
+    "text": "English"
+   },
+   {
+    "text": "Spanish"
+   },
+   {
+    "text": "Hindi"
+   }
+  ],
+  "explanation": "Mandarin Chinese has more native speakers than any other language."
+ },
+ {
+  "id": "en_k_3_24",
+  "tier": 3,
+  "category": "history",
+  "text": "Which civilization built Machu Picchu in the Andes mountains?",
+  "correct": {
+   "text": "The Inca"
+  },
+  "distractors": [
+   {
+    "text": "The Aztecs"
+   },
+   {
+    "text": "The Maya"
+   },
+   {
+    "text": "The Olmecs"
+   }
+  ],
+  "explanation": "The Inca built Machu Picchu in the fifteenth century."
+ },
+ {
+  "id": "en_k_4_01",
+  "tier": 4,
+  "category": "politics",
+  "text": "What is the form of government in which a monarch rules, but the monarch's power is limited by a constitution?",
+  "correct": {
+   "text": "Constitutional monarchy"
+  },
+  "distractors": [
+   {
+    "text": "Absolute monarchy"
+   },
+   {
+    "text": "Presidential republic"
+   },
+   {
+    "text": "Theocracy"
+   }
+  ],
+  "explanation": "In such a monarchy, the monarch's power is limited by the constitution and laws."
+ },
+ {
+  "id": "en_k_4_02",
+  "tier": 4,
+  "category": "politics",
+  "text": "Which international organization was created in 1945 to maintain peace and security?",
+  "correct": {
+   "text": "The UN"
+  },
+  "distractors": [
+   {
+    "text": "NATO"
+   },
+   {
+    "text": "League of Nations"
+   },
+   {
+    "text": "European Union"
+   }
+  ],
+  "explanation": "The UN was founded after the Second World War to preserve peace between countries."
+ },
+ {
+  "id": "en_k_4_03",
+  "tier": 4,
+  "category": "politics",
+  "text": "What is the form of state structure in which the state consists of self-governing parts such as states, lands or republics?",
+  "correct": {
+   "text": "Federation"
+  },
+  "distractors": [
+   {
+    "text": "Unitary state"
+   },
+   {
+    "text": "Protectorate"
+   },
+   {
+    "text": "Dictatorship"
+   }
+  ],
+  "explanation": "In a federation, the parts of the state, such as states or lands, have their own governing bodies."
+ },
+ {
+  "id": "en_k_4_04",
+  "tier": 4,
+  "category": "economics",
+  "text": "What is a sustained rise in the general price level, in which money loses purchasing power, called?",
+  "correct": {
+   "text": "Inflation"
+  },
+  "distractors": [
+   {
+    "text": "Deflation"
+   },
+   {
+    "text": "Devaluation"
+   },
+   {
+    "text": "Recession"
+   }
+  ],
+  "explanation": "In inflation prices rise, and the same sum buys less."
+ },
+ {
+  "id": "en_k_4_05",
+  "tier": 4,
+  "category": "economics",
+  "text": "What does a country's gross domestic product (GDP) measure?",
+  "correct": {
+   "text": "The value of all goods and services produced in a year"
+  },
+  "distractors": [
+   {
+    "text": "The difference between exports and imports"
+   },
+   {
+    "text": "The size of the state budget"
+   },
+   {
+    "text": "The average salary in the country"
+   }
+  ],
+  "explanation": "GDP is the total value of goods and services created in a country in a year."
+ },
+ {
+  "id": "en_k_4_06",
+  "tier": 4,
+  "category": "economics",
+  "text": "What is the market situation in which a single seller fully controls the supply of a product?",
+  "correct": {
+   "text": "Monopoly"
+  },
+  "distractors": [
+   {
+    "text": "Oligopoly"
+   },
+   {
+    "text": "Competition"
+   },
+   {
+    "text": "Shortage"
+   }
+  ],
+  "explanation": "A monopoly is when a single seller controls the whole market for a product."
+ },
+ {
+  "id": "en_k_4_07",
+  "tier": 4,
+  "category": "science",
+  "text": "What is the process of synthesizing an RNA molecule on a DNA template called?",
+  "correct": {
+   "text": "Transcription"
+  },
+  "distractors": [
+   {
+    "text": "Translation"
+   },
+   {
+    "text": "Replication"
+   },
+   {
+    "text": "Recombination"
+   }
+  ],
+  "explanation": "In transcription, an RNA molecule is built following the DNA sequence."
+ },
+ {
+  "id": "en_k_4_08",
+  "tier": 4,
+  "category": "science",
+  "text": "What does the special theory of relativity state about the speed of light in a vacuum?",
+  "correct": {
+   "text": "It is the same for all inertial observers"
+  },
+  "distractors": [
+   {
+    "text": "It depends on the speed of the source"
+   },
+   {
+    "text": "It is infinitely large"
+   },
+   {
+    "text": "It slowly decreases over time"
+   }
+  ],
+  "explanation": "The speed of light in a vacuum is the same for all inertial observers and does not depend on the motion of the source."
+ },
+ {
+  "id": "en_k_4_09",
+  "tier": 4,
+  "category": "science",
+  "text": "Which process is the main source of the Sun's energy?",
+  "correct": {
+   "text": "Fusion of hydrogen nuclei into helium"
+  },
+  "distractors": [
+   {
+    "text": "Fission of uranium nuclei"
+   },
+   {
+    "text": "Burning of coal and gas"
+   },
+   {
+    "text": "Radioactive decay of heavy elements"
+   }
+  ],
+  "explanation": "In the center of the Sun, hydrogen nuclei fuse into helium nuclei, releasing enormous energy."
+ },
+ {
+  "id": "en_k_4_10",
+  "tier": 4,
+  "category": "science",
+  "text": "In which cell organelle does cellular respiration occur and most of the ATP get produced?",
+  "correct": {
+   "text": "In mitochondria"
+  },
+  "distractors": [
+   {
+    "text": "In ribosomes"
+   },
+   {
+    "text": "In lysosomes"
+   },
+   {
+    "text": "In the nucleus"
+   }
+  ],
+  "explanation": "Mitochondria are called the cell's \"power stations\": ATP is produced there."
+ },
+ {
+  "id": "en_k_4_11",
+  "tier": 4,
+  "category": "history",
+  "text": "Which battle in 1815 put an end to Napoleon's rule?",
+  "correct": {
+   "text": "Waterloo"
+  },
+  "distractors": [
+   {
+    "text": "Borodino"
+   },
+   {
+    "text": "Austerlitz"
+   },
+   {
+    "text": "Leipzig"
+   }
+  ],
+  "explanation": "After the defeat at Waterloo, Napoleon lost power and was exiled to the island of Saint Helena."
+ },
+ {
+  "id": "en_k_4_12",
+  "tier": 4,
+  "category": "history",
+  "text": "What event began in France in 1789?",
+  "correct": {
+   "text": "The French Revolution"
+  },
+  "distractors": [
+   {
+    "text": "The Hundred Years' War"
+   },
+   {
+    "text": "The Paris Commune"
+   },
+   {
+    "text": "The Franco-Prussian War"
+   }
+  ],
+  "explanation": "In 1789 the storming of the Bastille marked the start of the French Revolution."
+ },
+ {
+  "id": "en_k_4_13",
+  "tier": 4,
+  "category": "literature",
+  "text": "Who wrote the novel \"The Master and Margarita\"?",
+  "correct": {
+   "text": "Mikhail Bulgakov"
+  },
+  "distractors": [
+   {
+    "text": "Boris Pasternak"
+   },
+   {
+    "text": "Mikhail Sholokhov"
+   },
+   {
+    "text": "Vladimir Nabokov"
+   }
+  ],
+  "explanation": "Mikhail Bulgakov wrote the novel; it was published only after the author's death."
+ },
+ {
+  "id": "en_k_4_14",
+  "tier": 4,
+  "category": "literature",
+  "text": "Who is the author of the dystopia \"1984\"?",
+  "correct": {
+   "text": "George Orwell"
+  },
+  "distractors": [
+   {
+    "text": "Aldous Huxley"
+   },
+   {
+    "text": "Ray Bradbury"
+   },
+   {
+    "text": "Franz Kafka"
+   }
+  ],
+  "explanation": "The dystopian novel \"1984\" was written by the British writer George Orwell."
+ },
+ {
+  "id": "en_k_4_15",
+  "tier": 4,
+  "category": "geography",
+  "text": "Which strait separates Europe from Africa in the west of the Mediterranean Sea?",
+  "correct": {
+   "text": "The Strait of Gibraltar"
+  },
+  "distractors": [
+   {
+    "text": "The Bosphorus"
+   },
+   {
+    "text": "The English Channel"
+   },
+   {
+    "text": "The Bering Strait"
+   }
+  ],
+  "explanation": "Through the Strait of Gibraltar the Mediterranean Sea connects to the Atlantic Ocean."
+ },
+ {
+  "id": "en_k_4_16",
+  "tier": 4,
+  "category": "technology",
+  "text": "What is the number system that uses only the digits 0 and 1 called?",
+  "correct": {
+   "text": "Binary"
+  },
+  "distractors": [
+   {
+    "text": "Decimal"
+   },
+   {
+    "text": "Octal"
+   },
+   {
+    "text": "Hexadecimal"
+   }
+  ],
+  "explanation": "In the binary system any number is written using only zeros and ones."
+ },
+ {
+  "id": "en_k_4_17",
+  "tier": 4,
+  "category": "health",
+  "text": "Which human organ produces the bile needed for digesting fats?",
+  "correct": {
+   "text": "The liver"
+  },
+  "distractors": [
+   {
+    "text": "The pancreas"
+   },
+   {
+    "text": "The stomach"
+   },
+   {
+    "text": "The spleen"
+   }
+  ],
+  "explanation": "The liver produces bile, which helps break down fats."
+ },
+ {
+  "id": "en_k_4_18",
+  "tier": 4,
+  "category": "nature",
+  "text": "What is a long-term, mutually beneficial coexistence of organisms of different species called?",
+  "correct": {
+   "text": "Symbiosis"
+  },
+  "distractors": [
+   {
+    "text": "Predation"
+   },
+   {
+    "text": "Competition"
+   },
+   {
+    "text": "Succession"
+   }
+  ],
+  "explanation": "In symbiosis both organisms benefit, like the fungus and alga in a lichen."
+ },
+ {
+  "id": "en_k_4_19",
+  "tier": 4,
+  "category": "society",
+  "text": "What is the process in which a person absorbs the norms, values and rules of society called?",
+  "correct": {
+   "text": "Socialization"
+  },
+  "distractors": [
+   {
+    "text": "Globalization"
+   },
+   {
+    "text": "Urbanization"
+   },
+   {
+    "text": "Migration"
+   }
+  ],
+  "explanation": "Through socialization a person becomes a full member of society."
+ },
+ {
+  "id": "en_k_4_20",
+  "tier": 4,
+  "category": "sports",
+  "text": "Which country hosted the first football World Cup in 1930?",
+  "correct": {
+   "text": "Uruguay"
+  },
+  "distractors": [
+   {
+    "text": "Brazil"
+   },
+   {
+    "text": "Italy"
+   },
+   {
+    "text": "England"
+   }
+  ],
+  "explanation": "The first football World Cup was held in Uruguay, and that country's team became champions."
+ },
+ {
+  "id": "en_k_4_21",
+  "tier": 4,
+  "category": "language",
+  "text": "What is the term for the set of rules that governs how words are combined into sentences?",
+  "correct": {
+   "text": "Syntax"
+  },
+  "distractors": [
+   {
+    "text": "Phonology"
+   },
+   {
+    "text": "Etymology"
+   },
+   {
+    "text": "Semantics"
+   }
+  ],
+  "explanation": "Syntax describes how words are arranged to form sentences."
+ },
+ {
+  "id": "en_k_4_22",
+  "tier": 4,
+  "category": "science",
+  "text": "Which scientist formulated the laws of motion and the law of universal gravitation?",
+  "correct": {
+   "text": "Isaac Newton"
+  },
+  "distractors": [
+   {
+    "text": "Galileo Galilei"
+   },
+   {
+    "text": "Johannes Kepler"
+   },
+   {
+    "text": "Albert Einstein"
+   }
+  ],
+  "explanation": "Newton published these laws in his Principia in 1687."
+ },
+ {
+  "id": "en_k_4_23",
+  "tier": 4,
+  "category": "arts",
+  "text": "Which Italian artist painted the ceiling of the Sistine Chapel?",
+  "correct": {
+   "text": "Michelangelo"
+  },
+  "distractors": [
+   {
+    "text": "Raphael"
+   },
+   {
+    "text": "Leonardo da Vinci"
+   },
+   {
+    "text": "Botticelli"
+   }
+  ],
+  "explanation": "Michelangelo painted the Sistine Chapel ceiling between 1508 and 1512."
+ },
+ {
+  "id": "en_k_4_24",
+  "tier": 4,
+  "category": "geography",
+  "text": "Which two countries share the longest international land border in the world?",
+  "correct": {
+   "text": "Canada and the United States"
+  },
+  "distractors": [
+   {
+    "text": "Argentina and Chile"
+   },
+   {
+    "text": "India and Pakistan"
+   },
+   {
+    "text": "France and Spain"
+   }
+  ],
+  "explanation": "The border between Canada and the United States is about 8,900 kilometres long."
+ },
+ {
+  "id": "en_k_5_01",
+  "tier": 5,
+  "category": "politics",
+  "text": "Which French thinker substantiated the principle of separation of powers in the treatise \"The Spirit of the Laws\"?",
+  "correct": {
+   "text": "Charles Montesquieu"
+  },
+  "distractors": [
+   {
+    "text": "Jean-Jacques Rousseau"
+   },
+   {
+    "text": "Voltaire"
+   },
+   {
+    "text": "Denis Diderot"
+   }
+  ],
+  "explanation": "In 1748 Montesquieu proposed dividing power into three branches."
+ },
+ {
+  "id": "en_k_5_02",
+  "tier": 5,
+  "category": "politics",
+  "text": "What is the full independence of a state in its internal and external affairs called?",
+  "correct": {
+   "text": "Sovereignty"
+  },
+  "distractors": [
+   {
+    "text": "Autonomy"
+   },
+   {
+    "text": "Protectorate"
+   },
+   {
+    "text": "Federation"
+   }
+  ],
+  "explanation": "Sovereignty means the supreme authority of a state on its territory and independence from other states."
+ },
+ {
+  "id": "en_k_5_03",
+  "tier": 5,
+  "category": "politics",
+  "text": "Which international document of 1997 obliged developed countries to reduce greenhouse gas emissions?",
+  "correct": {
+   "text": "The Kyoto Protocol"
+  },
+  "distractors": [
+   {
+    "text": "The Paris Agreement"
+   },
+   {
+    "text": "The Montreal Protocol"
+   },
+   {
+    "text": "The Geneva Convention"
+   }
+  ],
+  "explanation": "The Kyoto Protocol was adopted in 1997 and limited the emissions of developed countries."
+ },
+ {
+  "id": "en_k_5_04",
+  "tier": 5,
+  "category": "science",
+  "text": "Which physical quantity serves as a measure of disorder in a thermodynamic system?",
+  "correct": {
+   "text": "Entropy"
+  },
+  "distractors": [
+   {
+    "text": "Enthalpy"
+   },
+   {
+    "text": "Pressure"
+   },
+   {
+    "text": "Heat capacity"
+   }
+  ],
+  "explanation": "The greater the disorder in a system, the higher its entropy."
+ },
+ {
+  "id": "en_k_5_05",
+  "tier": 5,
+  "category": "science",
+  "text": "Which principle of quantum mechanics forbids determining a particle's position and momentum exactly at the same time?",
+  "correct": {
+   "text": "The uncertainty principle"
+  },
+  "distractors": [
+   {
+    "text": "The Pauli exclusion principle"
+   },
+   {
+    "text": "The superposition principle"
+   },
+   {
+    "text": "The principle of relativity"
+   }
+  ],
+  "explanation": "Heisenberg showed that a particle's position and momentum cannot both be measured exactly at once."
+ },
+ {
+  "id": "en_k_5_06",
+  "tier": 5,
+  "category": "science",
+  "text": "Which molecule carries information about a protein's structure from DNA to the ribosomes?",
+  "correct": {
+   "text": "Messenger RNA"
+  },
+  "distractors": [
+   {
+    "text": "Transfer RNA"
+   },
+   {
+    "text": "Ribosomal RNA"
+   },
+   {
+    "text": "Mitochondrial DNA"
+   }
+  ],
+  "explanation": "Messenger RNA copies a section of DNA and delivers it to the ribosomes."
+ },
+ {
+  "id": "en_k_5_07",
+  "tier": 5,
+  "category": "history",
+  "text": "In what year did the English barons force King John to sign the Magna Carta?",
+  "correct": {
+   "text": "1215"
+  },
+  "distractors": [
+   {
+    "text": "1066"
+   },
+   {
+    "text": "1348"
+   },
+   {
+    "text": "1485"
+   }
+  ],
+  "explanation": "The charter of 1215 limited the power of the English king."
+ },
+ {
+  "id": "en_k_5_08",
+  "tier": 5,
+  "category": "history",
+  "text": "Which war did the Peace of Westphalia of 1648 end?",
+  "correct": {
+   "text": "The Thirty Years' War"
+  },
+  "distractors": [
+   {
+    "text": "The Hundred Years' War"
+   },
+   {
+    "text": "The Seven Years' War"
+   },
+   {
+    "text": "The Great Northern War"
+   }
+  ],
+  "explanation": "The Peace of Westphalia ended the war that had been going on in Europe since 1618."
+ },
+ {
+  "id": "en_k_5_09",
+  "tier": 5,
+  "category": "language",
+  "text": "What is the grammatical category of the verb that distinguishes a completed action from an uncompleted one called?",
+  "correct": {
+   "text": "Aspect"
+  },
+  "distractors": [
+   {
+    "text": "Voice"
+   },
+   {
+    "text": "Mood"
+   },
+   {
+    "text": "Tense"
+   }
+  ],
+  "explanation": "Aspect shows whether an action is seen as complete or still going on."
+ },
+ {
+  "id": "en_k_5_10",
+  "tier": 5,
+  "category": "geography",
+  "text": "Which strait connects the Arctic Ocean with the Pacific, between Asia and North America?",
+  "correct": {
+   "text": "The Bering Strait"
+  },
+  "distractors": [
+   {
+    "text": "The Strait of Gibraltar"
+   },
+   {
+    "text": "The Strait of Magellan"
+   },
+   {
+    "text": "The Bosphorus Strait"
+   }
+  ],
+  "explanation": "The Bering Strait lies between Siberia and Alaska."
+ },
+ {
+  "id": "en_k_5_11",
+  "tier": 5,
+  "category": "economics",
+  "text": "What is the combination of economic stagnation and high inflation called?",
+  "correct": {
+   "text": "Stagflation"
+  },
+  "distractors": [
+   {
+    "text": "Deflation"
+   },
+   {
+    "text": "Devaluation"
+   },
+   {
+    "text": "Recession"
+   }
+  ],
+  "explanation": "The word \"stagflation\" combines the words \"stagnation\" and \"inflation\"."
+ },
+ {
+  "id": "en_k_5_12",
+  "tier": 5,
+  "category": "economics",
+  "text": "Who is the author of the work \"An Inquiry into the Nature and Causes of the Wealth of Nations\"?",
+  "correct": {
+   "text": "Adam Smith"
+  },
+  "distractors": [
+   {
+    "text": "David Ricardo"
+   },
+   {
+    "text": "Karl Marx"
+   },
+   {
+    "text": "John Maynard Keynes"
+   }
+  ],
+  "explanation": "Adam Smith published this work in 1776, and it became the foundation of classical economics."
+ },
+ {
+  "id": "en_k_5_13",
+  "tier": 5,
+  "category": "arts",
+  "text": "Which Spanish artist painted the picture \"Guernica\" in 1937?",
+  "correct": {
+   "text": "Pablo Picasso"
+  },
+  "distractors": [
+   {
+    "text": "Salvador Dalí"
+   },
+   {
+    "text": "Francisco Goya"
+   },
+   {
+    "text": "Joan Miró"
+   }
+  ],
+  "explanation": "Picasso created Guernica in response to the bombing of a Basque town."
+ },
+ {
+  "id": "en_k_5_14",
+  "tier": 5,
+  "category": "technology",
+  "text": "Who wrote the first published program for Babbage's Analytical Engine?",
+  "correct": {
+   "text": "Ada Lovelace"
+  },
+  "distractors": [
+   {
+    "text": "Grace Hopper"
+   },
+   {
+    "text": "Alan Turing"
+   },
+   {
+    "text": "John von Neumann"
+   }
+  ],
+  "explanation": "Ada Lovelace described an algorithm for Babbage's machine in her notes of 1843."
+ },
+ {
+  "id": "en_k_5_15",
+  "tier": 5,
+  "category": "science",
+  "text": "Which mathematician proved the Poincaré conjecture?",
+  "correct": {
+   "text": "Grigori Perelman"
+  },
+  "distractors": [
+   {
+    "text": "Andrew Wiles"
+   },
+   {
+    "text": "Andrey Kolmogorov"
+   },
+   {
+    "text": "Terence Tao"
+   }
+  ],
+  "explanation": "Grigori Perelman published his proof in 2002 and 2003."
+ },
+ {
+  "id": "en_k_5_16",
+  "tier": 5,
+  "category": "sports",
+  "text": "What is the final stage of a chess game, when few pieces remain on the board, called?",
+  "correct": {
+   "text": "Endgame"
+  },
+  "distractors": [
+   {
+    "text": "Opening"
+   },
+   {
+    "text": "Middlegame"
+   },
+   {
+    "text": "Gambit"
+   }
+  ],
+  "explanation": "In the endgame there are few pieces on the board, and precise calculation often decides."
+ },
+ {
+  "id": "en_k_5_17",
+  "tier": 5,
+  "category": "society",
+  "text": "Which French philosopher introduced the term \"sociology\" into science?",
+  "correct": {
+   "text": "Auguste Comte"
+  },
+  "distractors": [
+   {
+    "text": "Émile Durkheim"
+   },
+   {
+    "text": "Alexis de Tocqueville"
+   },
+   {
+    "text": "Henri de Saint-Simon"
+   }
+  ],
+  "explanation": "Auguste Comte proposed the word \"sociology\" in the nineteenth century."
+ },
+ {
+  "id": "en_k_5_18",
+  "tier": 5,
+  "category": "health",
+  "text": "A deficiency of which vitamin causes scurvy?",
+  "correct": {
+   "text": "Vitamin C"
+  },
+  "distractors": [
+   {
+    "text": "Vitamin A"
+   },
+   {
+    "text": "Vitamin D"
+   },
+   {
+    "text": "Vitamin B12"
+   }
+  ],
+  "explanation": "Vitamin C is needed to form collagen; without it scurvy develops."
+ },
+ {
+  "id": "en_k_5_19",
+  "tier": 5,
+  "category": "food",
+  "text": "Which spice is made from the dried stigmas of crocus flowers?",
+  "correct": {
+   "text": "Saffron"
+  },
+  "distractors": [
+   {
+    "text": "Turmeric"
+   },
+   {
+    "text": "Cinnamon"
+   },
+   {
+    "text": "Vanilla"
+   }
+  ],
+  "explanation": "Saffron is made from the stigmas of the saffron crocus flowers."
+ },
+ {
+  "id": "en_k_5_20",
+  "tier": 5,
+  "category": "language",
+  "text": "In linguistics, what is the smallest unit of sound that can change the meaning of a word, such as /p/ and /b/ in “pat” and “bat”?",
+  "correct": {
+   "text": "The phoneme"
+  },
+  "distractors": [
+   {
+    "text": "The morpheme"
+   },
+   {
+    "text": "The syllable"
+   },
+   {
+    "text": "The grapheme"
+   }
+  ],
+  "explanation": "A phoneme is the smallest sound unit that distinguishes meaning."
+ },
+ {
+  "id": "en_k_5_21",
+  "tier": 5,
+  "category": "history",
+  "text": "Which 1494 treaty divided newly found lands outside Europe between Spain and Portugal?",
+  "correct": {
+   "text": "The Treaty of Tordesillas"
+  },
+  "distractors": [
+   {
+    "text": "The Treaty of Utrecht"
+   },
+   {
+    "text": "The Treaty of Versailles"
+   },
+   {
+    "text": "The Peace of Augsburg"
+   }
+  ],
+  "explanation": "The Treaty of Tordesillas drew a line dividing the New World between Spain and Portugal."
+ },
+ {
+  "id": "en_k_5_22",
+  "tier": 5,
+  "category": "science",
+  "text": "What is the boundary around a black hole called, beyond which nothing can escape?",
+  "correct": {
+   "text": "The event horizon"
+  },
+  "distractors": [
+   {
+    "text": "The singularity"
+   },
+   {
+    "text": "The accretion disk"
+   },
+   {
+    "text": "The photosphere"
+   }
+  ],
+  "explanation": "Nothing, not even light, can escape from inside the event horizon."
+ },
+ {
+  "id": "en_k_5_23",
+  "tier": 5,
+  "category": "literature",
+  "text": "Who wrote the novel “One Hundred Years of Solitude”?",
+  "correct": {
+   "text": "Gabriel García Márquez"
+  },
+  "distractors": [
+   {
+    "text": "Jorge Luis Borges"
+   },
+   {
+    "text": "Mario Vargas Llosa"
+   },
+   {
+    "text": "Pablo Neruda"
+   }
+  ],
+  "explanation": "García Márquez published the novel in 1967."
+ },
+ {
+  "id": "en_k_5_24",
+  "tier": 5,
+  "category": "arts",
+  "text": "Which Dutch painter created “Girl with a Pearl Earring”?",
+  "correct": {
+   "text": "Johannes Vermeer"
+  },
+  "distractors": [
+   {
+    "text": "Rembrandt van Rijn"
+   },
+   {
+    "text": "Frans Hals"
+   },
+   {
+    "text": "Vincent van Gogh"
+   }
+  ],
+  "explanation": "Vermeer painted it around 1665."
+ }
+]

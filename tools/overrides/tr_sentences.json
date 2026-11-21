@@ -1,0 +1,3733 @@
+{
+ "_comment": "Sentences written for tools/generate_deck_turkish.py (marked original in the deck); keyed by dictionary key; lemma-checked with spaCy.",
+ "ne zaman": [
+  {
+   "text": "Yarın ne zaman bize gelirsin?",
+   "translation": "When will you come to our place tomorrow?"
+  }
+ ],
+ "birleşik": [
+  {
+   "text": "Türkçede birleşik kelimeler çok yaygındır.",
+   "translation": "Compound words are very common in Turkish."
+  }
+ ],
+ "yardım etmek": [
+  {
+   "text": "Annene yemek yaparken yardım etmek istiyorum.",
+   "translation": "I want to help your mother while she cooks."
+  }
+ ],
+ "gerçi": [
+  {
+   "text": "Gerçi hava soğuk, ama yürüyüşe çıkacağız.",
+   "translation": "Admittedly it is cold, but we will go for a walk."
+  }
+ ],
+ "Meksika": [
+  {
+   "text": "Meksika yemeklerini çok seviyorum.",
+   "translation": "I love Mexican food very much."
+  },
+  {
+   "text": "Meksika sıcak bir ülke mi?",
+   "translation": "Is Mexico a hot country?"
+  }
+ ],
+ "sultan": [
+  {
+   "text": "Sultan büyük bir sarayda yaşıyordu.",
+   "translation": "The sultan lived in a big palace."
+  }
+ ],
+ "istihbarat": [
+  {
+   "text": "Polis gerekli istihbaratı topladı.",
+   "translation": "The police gathered the necessary intelligence."
+  }
+ ],
+ "Hindistan": [
+  {
+   "text": "Hindistan baharatlarıyla ünlüdür.",
+   "translation": "India is famous for its spices."
+  },
+  {
+   "text": "Hindistan dünyanın en kalabalık ülkelerinden biridir.",
+   "translation": "India is one of the most crowded countries in the world."
+  }
+ ],
+ "lakin": [
+  {
+   "text": "Çok denedim, lakin başaramadım.",
+   "translation": "I tried a lot, but I could not manage it."
+  },
+  {
+   "text": "Yağmur yağıyordu, lakin biz dışarı çıktık.",
+   "translation": "It was raining, but we went out anyway."
+  }
+ ],
+ "but": [
+  {
+   "text": "Akşam yemeğinde fırında tavuk but yedik.",
+   "translation": "We ate baked chicken drumsticks for dinner."
+  }
+ ],
+ "akademi": [
+  {
+   "text": "Kardeşim spor akademisinde okuyor.",
+   "translation": "My sibling studies at a sports academy."
+  },
+  {
+   "text": "Bu akademiye girmek kolay mı?",
+   "translation": "Is it easy to get into this academy?"
+  }
+ ],
+ "federasyon": [
+  {
+   "text": "Futbol federasyonu yeni kuralları açıkladı.",
+   "translation": "The football federation announced the new rules."
+  },
+  {
+   "text": "Federasyon her yıl büyük bir turnuva düzenliyor.",
+   "translation": "The federation organizes a big tournament every year."
+  }
+ ],
+ "filo": [
+  {
+   "text": "Şirketin büyük bir taksi filosu var.",
+   "translation": "The company has a large fleet of taxis."
+  }
+ ],
+ "komiser": [
+  {
+   "text": "Komiser bize yolu tarif etti.",
+   "translation": "The police inspector described the way to us."
+  },
+  {
+   "text": "Komiser bey şimdi odasında mı?",
+   "translation": "Is the inspector in his office now?"
+  }
+ ],
+ "direktör": [
+  {
+   "text": "Okulun direktörü yarın toplantı yapacak.",
+   "translation": "The school director will hold a meeting tomorrow."
+  },
+  {
+   "text": "Direktörle görüşmek için randevu aldım.",
+   "translation": "I made an appointment to meet the director."
+  }
+ ],
+ "şah": [
+  {
+   "text": "Dikkat et, şahın tehlikede!",
+   "translation": "Be careful, your king is in danger!"
+  }
+ ],
+ "ulu": [
+  {
+   "text": "Köyün ortasında ulu bir çınar ağacı var.",
+   "translation": "There is a great old plane tree in the middle of the village."
+  }
+ ],
+ "hoş geldiniz": [
+  {
+   "text": "Evimize hoş geldiniz, buyurun oturun.",
+   "translation": "Welcome to our home, please sit down."
+  }
+ ],
+ "frekans": [
+  {
+   "text": "Bu radyonun frekansını bilmiyorum.",
+   "translation": "I do not know this radio's frequency."
+  }
+ ],
+ "sendrom": [
+  {
+   "text": "Doktor bu hastalığın bir sendrom olduğunu söyledi.",
+   "translation": "The doctor said this illness is a syndrome."
+  }
+ ],
+ "Yunanistan": [
+  {
+   "text": "Yunanistan denizi ve adalarıyla ünlüdür.",
+   "translation": "Greece is famous for its sea and islands."
+  },
+  {
+   "text": "Yaz tatilinde Yunanistan çok kalabalık oluyor.",
+   "translation": "Greece gets very crowded in the summer holidays."
+  }
+ ],
+ "Brezilya": [
+  {
+   "text": "Brezilya futbolu ile ünlüdür.",
+   "translation": "Brazil is famous for its football."
+  },
+  {
+   "text": "Brezilya çok büyük bir ülke mi?",
+   "translation": "Is Brazil a very big country?"
+  }
+ ],
+ "nevi": [
+  {
+   "text": "Bahçede her nevi çiçek var.",
+   "translation": "There are all kinds of flowers in the garden."
+  },
+  {
+   "text": "Bu nevi işleri hiç sevmem.",
+   "translation": "I do not like this kind of work at all."
+  }
+ ],
+ "askerlik": [
+  {
+   "text": "Abim askerliğini bitirdi.",
+   "translation": "My older brother finished his military service."
+  }
+ ],
+ "harekât": [
+  {
+   "text": "Kurtarma harekâtı bütün gece sürdü.",
+   "translation": "The rescue operation lasted all night."
+  },
+  {
+   "text": "Yangın söndürme harekâtı başarıyla bitti.",
+   "translation": "The firefighting operation ended successfully."
+  }
+ ],
+ "Küba": [
+  {
+   "text": "Küba müziği çok neşelidir.",
+   "translation": "Cuban music is very cheerful."
+  }
+ ],
+ "Avusturya": [
+  {
+   "text": "Avusturya dağlarıyla ve karıyla ünlüdür.",
+   "translation": "Austria is famous for its mountains and snow."
+  },
+  {
+   "text": "Avusturya soğuk bir ülke mi?",
+   "translation": "Is Austria a cold country?"
+  }
+ ],
+ "stratejik": [
+  {
+   "text": "Bu şehir stratejik açıdan çok önemli.",
+   "translation": "This city is very important strategically."
+  }
+ ],
+ "azgın": [
+  {
+   "text": "Denizde azgın dalgalar vardı.",
+   "translation": "There were raging waves in the sea."
+  }
+ ],
+ "anma": [
+  {
+   "text": "Okulda öğretmenler için bir anma töreni yapıldı.",
+   "translation": "A commemoration ceremony was held at school for the teachers."
+  },
+  {
+   "text": "Anma gününde herkes çiçek getirdi.",
+   "translation": "On the day of remembrance everyone brought flowers."
+  }
+ ],
+ "kolay gelsin": [
+  {
+   "text": "Kolay gelsin, bugün işler nasıl gidiyor?",
+   "translation": "Good luck with the work, how is everything going today?"
+  }
+ ],
+ "çapraz": [
+  {
+   "text": "Kağıdı çapraz keserek iki üçgen yaptı.",
+   "translation": "She cut the paper diagonally and made two triangles."
+  }
+ ],
+ "estetik": [
+  {
+   "text": "Bu oda sade ama çok estetik görünüyor.",
+   "translation": "This room is simple but looks very aesthetic."
+  },
+  {
+   "text": "Teyzen estetik ameliyat olmayı düşünüyor mu?",
+   "translation": "Is your aunt thinking about having cosmetic surgery?"
+  }
+ ],
+ "maliye": [
+  {
+   "text": "Ağabeyim maliyede çalışıyor.",
+   "translation": "My older brother works at the finance office."
+  }
+ ],
+ "Afganistan": [
+  {
+   "text": "Afganistan dağlarla çevrili bir ülkedir.",
+   "translation": "Afghanistan is a country surrounded by mountains."
+  },
+  {
+   "text": "Afganistan haritada nerede, bana gösterir misin?",
+   "translation": "Where is Afghanistan on the map, can you show me?"
+  }
+ ],
+ "ırak": [
+  {
+   "text": "Evimiz okuldan çok ırak değil.",
+   "translation": "Our house is not very far from the school."
+  }
+ ],
+ "klip": [
+  {
+   "text": "Yeni şarkının klibini izledin mi?",
+   "translation": "Have you watched the music video of the new song?"
+  }
+ ],
+ "Belçika": [
+  {
+   "text": "Belçika küçük ama çok güzel bir ülkedir.",
+   "translation": "Belgium is a small but very beautiful country."
+  },
+  {
+   "text": "Yaz tatilinde Belçika için uçak bileti aldık.",
+   "translation": "We bought plane tickets to Belgium for the summer holiday."
+  }
+ ],
+ "önder": [
+  {
+   "text": "Takımımızın önderi hepimize cesaret verdi.",
+   "translation": "The leader of our team gave all of us courage."
+  }
+ ],
+ "naz": [
+  {
+   "text": "Naz yapmayı bırak da yemeğini ye.",
+   "translation": "Stop acting coy and eat your food."
+  },
+  {
+   "text": "Küçük kızın nazı herkesi güldürdü.",
+   "translation": "The little girl's coyness made everyone laugh."
+  }
+ ],
+ "mensup": [
+  {
+   "text": "Bu şirkete mensup herkes toplantıya geldi.",
+   "translation": "Everyone affiliated with this company came to the meeting."
+  },
+  {
+   "text": "Sen hangi okula mensup bir öğrencisin?",
+   "translation": "Which school are you a student of?"
+  }
+ ],
+ "sancak": [
+  {
+   "text": "Okulun bahçesinde büyük bir sancak dalgalanıyor.",
+   "translation": "A big banner is waving in the school garden."
+  }
+ ],
+ "haz": [
+  {
+   "text": "Müzik dinlemekten büyük haz alırım.",
+   "translation": "I take great pleasure in listening to music."
+  },
+  {
+   "text": "Bu yemekten hiç haz almadım.",
+   "translation": "I did not enjoy this meal at all."
+  }
+ ],
+ "psikopat": [
+  {
+   "text": "Filmdeki psikopat herkesi çok korkuttu.",
+   "translation": "The psychopath in the film scared everyone a lot."
+  }
+ ],
+ "anmak": [
+  {
+   "text": "Bugün büyükannemizi sevgiyle anıyoruz.",
+   "translation": "Today we remember our grandmother with love."
+  }
+ ],
+ "kardeşlik": [
+  {
+   "text": "Aramızda gerçek bir kardeşlik var.",
+   "translation": "There is a real brotherhood between us."
+  }
+ ],
+ "arşiv": [
+  {
+   "text": "Eski belgeler okulun arşivinde duruyor.",
+   "translation": "The old documents are kept in the school archive."
+  }
+ ],
+ "güneydoğu": [
+  {
+   "text": "Ülkenin güneydoğusunda yazları hava çok sıcak olur.",
+   "translation": "In the southeast of the country the weather is very hot in summer."
+  }
+ ],
+ "kudret": [
+  {
+   "text": "Doğanın kudreti karşısında herkes küçük kalır.",
+   "translation": "In the face of the power of nature, everyone feels small."
+  },
+  {
+   "text": "Hiçbir kudret bizi durduramaz.",
+   "translation": "No power can stop us."
+  }
+ ],
+ "seans": [
+  {
+   "text": "Film seansı akşam sekizde başlıyor.",
+   "translation": "The film screening starts at eight in the evening."
+  },
+  {
+   "text": "Bir sonraki seans için bilet var mı?",
+   "translation": "Are there tickets for the next showing?"
+  }
+ ],
+ "güya": [
+  {
+   "text": "Güya hasta olduğu için bugün okula gelmedi.",
+   "translation": "Supposedly because he is sick, he did not come to school today."
+  }
+ ],
+ "kürsü": [
+  {
+   "text": "Öğretmen kürsüde ders anlatıyor.",
+   "translation": "The teacher is giving the lesson at the lectern."
+  },
+  {
+   "text": "Konuşmacı kürsüye çıktı ve herkesi selamladı.",
+   "translation": "The speaker went up to the podium and greeted everyone."
+  }
+ ],
+ "piyade": [
+  {
+   "text": "Dedem askerlikte piyade eriydi.",
+   "translation": "My grandfather was an infantryman during his military service."
+  }
+ ],
+ "foto": [
+  {
+   "text": "Bu fotoyu telefonuma gönderir misin?",
+   "translation": "Can you send this photo to my phone?"
+  }
+ ],
+ "bulvar": [
+  {
+   "text": "Bu bulvar akşamları çok kalabalık oluyor.",
+   "translation": "This boulevard gets very crowded in the evenings."
+  }
+ ],
+ "merhum": [
+  {
+   "text": "Merhum dedem çok cömert bir insandı.",
+   "translation": "My late grandfather was a very generous person."
+  }
+ ],
+ "rahmet": [
+  {
+   "text": "Çiftçiler aylardır rahmeti bekliyor.",
+   "translation": "The farmers have been waiting for rain for months."
+  },
+  {
+   "text": "Kurak yaz bitti, sonunda rahmet geldi.",
+   "translation": "The dry summer is over, and the rain has finally come."
+  }
+ ],
+ "koordinat": [
+  {
+   "text": "Evin koordinatlarını telefona yazdım.",
+   "translation": "I typed the coordinates of the house into the phone."
+  }
+ ],
+ "topçu": [
+  {
+   "text": "Dedem askerde topçuydu.",
+   "translation": "My grandfather was an artilleryman in the army."
+  }
+ ],
+ "bakanlık": [
+  {
+   "text": "Bakanlık okullar için yeni bir program hazırladı.",
+   "translation": "The ministry prepared a new program for schools."
+  }
+ ],
+ "çıtır": [
+  {
+   "text": "Bu patates kızartması dışı çıtır, içi yumuşak.",
+   "translation": "These french fries are crispy outside and soft inside."
+  },
+  {
+   "text": "Çıtır tavuk yemeyi sever misin?",
+   "translation": "Do you like eating crispy chicken?"
+  }
+ ],
+ "dinamik": [
+  {
+   "text": "Yeni müdürümüz çok dinamik biri.",
+   "translation": "Our new manager is a very dynamic person."
+  }
+ ],
+ "tır": [
+  {
+   "text": "Yolda büyük bir tır önümüzde yavaş gidiyordu.",
+   "translation": "On the road a big truck was driving slowly in front of us."
+  }
+ ],
+ "üstat": [
+  {
+   "text": "Bu işin üstadı benim dedemdir.",
+   "translation": "The master of this craft is my grandfather."
+  }
+ ],
+ "Kolombiya": [
+  {
+   "text": "Kolombiya kahvesini hiç denedin mi?",
+   "translation": "Have you ever tried Colombian coffee?"
+  },
+  {
+   "text": "Kolombiya çok sıcak ve renkli bir ülke.",
+   "translation": "Colombia is a very warm and colorful country."
+  }
+ ],
+ "cemiyet": [
+  {
+   "text": "Bu cemiyet çocuklara ücretsiz kitap dağıtıyor.",
+   "translation": "This association gives out free books to children."
+  }
+ ],
+ "mert": [
+  {
+   "text": "Babam mert ve dürüst bir adamdır.",
+   "translation": "My father is a brave and honest man."
+  }
+ ],
+ "kumandan": [
+  {
+   "text": "Kumandan askerlerine kısa bir konuşma yaptı.",
+   "translation": "The commander gave his soldiers a short speech."
+  },
+  {
+   "text": "Geminin kumandanı sabah erkenden geldi.",
+   "translation": "The ship's commander arrived early in the morning."
+  }
+ ],
+ "tay": [
+  {
+   "text": "Küçük tay annesinin yanında koşuyordu.",
+   "translation": "The little foal was running next to its mother."
+  }
+ ],
+ "tedarik": [
+  {
+   "text": "Okul için yeni kitaplar tedarik etmemiz gerekiyor.",
+   "translation": "We need to procure new books for the school."
+  },
+  {
+   "text": "Malzemelerin tedariki çok zaman aldı.",
+   "translation": "Getting the supplies took a lot of time."
+  }
+ ],
+ "mimarlık": [
+  {
+   "text": "Kardeşim üniversitede mimarlık okuyor.",
+   "translation": "My sibling is studying architecture at university."
+  }
+ ],
+ "salt": [
+  {
+   "text": "Salt güzel olması yetmez, akıllı da olmalı.",
+   "translation": "Being merely beautiful is not enough, one must be smart too."
+  },
+  {
+   "text": "Bu salt bir tesadüf mü sence?",
+   "translation": "Do you think this is mere coincidence?"
+  }
+ ],
+ "cici": [
+  {
+   "text": "Komşunun küçük kızı çok cici.",
+   "translation": "The neighbor's little girl is so sweet."
+  }
+ ],
+ "kubbe": [
+  {
+   "text": "Müzenin büyük bir kubbesi var.",
+   "translation": "The museum has a large dome."
+  }
+ ],
+ "babalık": [
+  {
+   "text": "Babalık çok güzel ama zor bir iş.",
+   "translation": "Fatherhood is a wonderful but difficult job."
+  }
+ ],
+ "asa": [
+  {
+   "text": "Dedem yürürken asa kullanıyor.",
+   "translation": "My grandfather uses a walking stick when he walks."
+  }
+ ],
+ "muhtar": [
+  {
+   "text": "Muhtar köylülerle bir toplantı yaptı.",
+   "translation": "The village headman held a meeting with the villagers."
+  },
+  {
+   "text": "Adres belgesi için muhtara gitmem gerekiyor.",
+   "translation": "I need to go to the neighborhood headman for an address certificate."
+  }
+ ],
+ "hastalıklı": [
+  {
+   "text": "Küçük kardeşim hastalıklı bir bebekti.",
+   "translation": "My little brother was a sickly baby."
+  }
+ ],
+ "annelik": [
+  {
+   "text": "Annelik zor ama çok güzel bir iştir.",
+   "translation": "Motherhood is hard but a very beautiful thing."
+  }
+ ],
+ "komple": [
+  {
+   "text": "Evi komple boyattık.",
+   "translation": "We had the whole house painted."
+  }
+ ],
+ "büyükşehir": [
+  {
+   "text": "Büyükşehirde trafik çok yoğun oluyor.",
+   "translation": "Traffic gets very heavy in a big city."
+  },
+  {
+   "text": "Büyükşehirde yaşamayı sever misin?",
+   "translation": "Do you like living in a big city?"
+  }
+ ],
+ "moruk": [
+  {
+   "text": "Moruk, bu akşam bize gelir misin?",
+   "translation": "Hey dude, will you come over to our place tonight?"
+  },
+  {
+   "text": "Moruk, ne zamandır görüşmüyoruz!",
+   "translation": "Man, we have not seen each other for ages!"
+  }
+ ],
+ "kadim": [
+  {
+   "text": "Biz kadim bir şehirde yaşıyoruz.",
+   "translation": "We live in an ancient city."
+  },
+  {
+   "text": "O benim kadim dostum, yıllardır görüşürüz.",
+   "translation": "He is my old, old friend, we have been in touch for years."
+  }
+ ],
+ "Portekiz": [
+  {
+   "text": "Portekiz denize kıyısı olan bir ülkedir.",
+   "translation": "Portugal is a country on the sea."
+  },
+  {
+   "text": "Yazın Portekiz tatili yapmak istiyoruz.",
+   "translation": "We want to have a Portugal vacation in the summer."
+  }
+ ],
+ "yahut": [
+  {
+   "text": "Çay yahut kahve içer misin?",
+   "translation": "Would you like tea or coffee?"
+  },
+  {
+   "text": "Pazartesi yahut salı günü gelebilirim.",
+   "translation": "I can come on Monday or Tuesday."
+  }
+ ],
+ "eyvallah": [
+  {
+   "text": "Eyvallah, yardımın için sağ ol.",
+   "translation": "Thanks, and thank you for your help."
+  }
+ ],
+ "köstebek": [
+  {
+   "text": "Bahçede bir köstebek yuvası var.",
+   "translation": "There is a mole burrow in the garden."
+  }
+ ],
+ "karargâh": [
+  {
+   "text": "Ordunun karargâhı dağın arkasında kuruldu.",
+   "translation": "The army headquarters was set up behind the mountain."
+  }
+ ],
+ "birtakım": [
+  {
+   "text": "Birtakım sorunlar yüzünden toplantı ertelendi.",
+   "translation": "The meeting was postponed because of certain problems."
+  }
+ ],
+ "jandarma": [
+  {
+   "text": "Jandarma köy yolunu kontrol etti.",
+   "translation": "The gendarmes checked the village road."
+  }
+ ],
+ "idrak": [
+  {
+   "text": "Küçük çocuk tehlikeyi henüz idrak edemiyor.",
+   "translation": "The little child cannot yet grasp the danger."
+  }
+ ],
+ "tahlil": [
+  {
+   "text": "Doktor benden kan tahlili istedi.",
+   "translation": "The doctor asked me for a blood test."
+  },
+  {
+   "text": "Tahlil sonuçları ne zaman çıkacak?",
+   "translation": "When will the test results be ready?"
+  }
+ ],
+ "zindan": [
+  {
+   "text": "Hikâyede kral şövalyeyi zindana attı.",
+   "translation": "In the story, the king threw the knight into the dungeon."
+  }
+ ],
+ "hür": [
+  {
+   "text": "Kuşlar gökyüzünde hür uçuyor.",
+   "translation": "The birds fly free in the sky."
+  },
+  {
+   "text": "Hür bir ülkede yaşamak herkesin hakkı.",
+   "translation": "Living in a free country is everyone's right."
+  }
+ ],
+ "titreşim": [
+  {
+   "text": "Telefonum titreşimde olduğu için sesi duymadım.",
+   "translation": "My phone was on vibrate, so I did not hear it."
+  }
+ ],
+ "firavun": [
+  {
+   "text": "Müzede eski bir firavun heykeli gördük.",
+   "translation": "We saw an ancient statue of a pharaoh at the museum."
+  }
+ ],
+ "ritim": [
+  {
+   "text": "Bu şarkının ritmi çok hızlı.",
+   "translation": "The rhythm of this song is very fast."
+  }
+ ],
+ "kaide": [
+  {
+   "text": "Heykel yüksek bir kaidenin üzerinde duruyor.",
+   "translation": "The statue stands on a tall pedestal."
+  },
+  {
+   "text": "Bu kaideyi herkesin bilmesi gerekiyor.",
+   "translation": "Everyone needs to know this rule."
+  }
+ ],
+ "şut": [
+  {
+   "text": "Oyuncunun şutu direğe çarptı.",
+   "translation": "The player's shot hit the post."
+  },
+  {
+   "text": "Maçta kaç tane şut çekti?",
+   "translation": "How many shots did he take in the match?"
+  }
+ ],
+ "salmak": [
+  {
+   "text": "Çocuk balonu havaya saldı.",
+   "translation": "The child let the balloon go into the air."
+  }
+ ],
+ "şanlı": [
+  {
+   "text": "Takımımız şanlı bir zafer kazandı.",
+   "translation": "Our team won a glorious victory."
+  }
+ ],
+ "üniversiteli": [
+  {
+   "text": "Kardeşim bu yıl üniversiteli oldu.",
+   "translation": "My brother became a university student this year."
+  }
+ ],
+ "bilişim": [
+  {
+   "text": "Ablam bilişim sektöründe çalışıyor.",
+   "translation": "My older sister works in the IT sector."
+  },
+  {
+   "text": "Okulda haftada iki saat bilişim dersimiz var.",
+   "translation": "We have two hours of IT class a week at school."
+  }
+ ],
+ "malt": [
+  {
+   "text": "Çocuklar sütlerine biraz malt katıp içiyor.",
+   "translation": "The children add a little malt to their milk and drink it."
+  }
+ ],
+ "fert": [
+  {
+   "text": "Ailenin her ferdi sofraya oturdu.",
+   "translation": "Every member of the family sat down at the table."
+  },
+  {
+   "text": "Aile fertlerinin hepsi bayramda bir araya geldi.",
+   "translation": "All the family members got together for the holiday."
+  }
+ ],
+ "kabir": [
+  {
+   "text": "Dedemin kabrini ziyaret ettik.",
+   "translation": "We visited my grandfather's grave."
+  },
+  {
+   "text": "Bu kabir çok eski, üstü çiçek dolu.",
+   "translation": "This grave is very old and covered with flowers."
+  }
+ ],
+ "revir": [
+  {
+   "text": "Hasta öğrenci hemen revire gitti.",
+   "translation": "The sick student went straight to the infirmary."
+  }
+ ],
+ "kıllı": [
+  {
+   "text": "Bu kazak çok kıllı, boynumu tırmalıyor.",
+   "translation": "This sweater is very hairy and itches my neck."
+  }
+ ],
+ "bazlı": [
+  {
+   "text": "Bu krem bitki bazlı, cildine zarar vermez.",
+   "translation": "This cream is plant-based and won't harm your skin."
+  },
+  {
+   "text": "Çözüm bazlı düşünmek işimizi kolaylaştırır.",
+   "translation": "Thinking in a solution-based way makes our work easier."
+  }
+ ],
+ "ajans": [
+  {
+   "text": "Seyahat ajansından uçak bileti aldık.",
+   "translation": "We bought plane tickets from the travel agency."
+  },
+  {
+   "text": "Haber ajansı bu haberi az önce yayınladı.",
+   "translation": "The news agency published this story just now."
+  }
+ ],
+ "mısırlı": [
+  {
+   "text": "Mısırlı bir arkadaşım Türkçe öğreniyor.",
+   "translation": "An Egyptian friend of mine is learning Turkish."
+  }
+ ],
+ "tas": [
+  {
+   "text": "Anneannem bana tasla su içirdi.",
+   "translation": "My grandmother gave me water to drink from a bowl."
+  }
+ ],
+ "Cezayir": [
+  {
+   "text": "Cezayir hakkında bir kitap okuyorum.",
+   "translation": "I am reading a book about Algeria."
+  }
+ ],
+ "fay": [
+  {
+   "text": "Bu bölgeden büyük bir fay hattı geçiyor.",
+   "translation": "A big fault line runs through this region."
+  }
+ ],
+ "mistik": [
+  {
+   "text": "Bu film çok mistik bir hava taşıyor.",
+   "translation": "This film has a very mystical atmosphere."
+  },
+  {
+   "text": "Mistik müzik dinlemeyi sever misin?",
+   "translation": "Do you like listening to mystical music?"
+  }
+ ],
+ "reaktör": [
+  {
+   "text": "Santraldeki reaktör bakım için kapatıldı.",
+   "translation": "The reactor at the power plant was shut down for maintenance."
+  },
+  {
+   "text": "Reaktör tam olarak ne işe yarar?",
+   "translation": "What exactly is a reactor used for?"
+  }
+ ],
+ "animasyon": [
+  {
+   "text": "Çocuklar akşam bir animasyon filmi izledi.",
+   "translation": "The children watched an animated film in the evening."
+  },
+  {
+   "text": "Bu animasyonu bilgisayarda kim yaptı?",
+   "translation": "Who made this animation on the computer?"
+  }
+ ],
+ "port": [
+  {
+   "text": "Telefonu bu porta takabilirsin.",
+   "translation": "You can plug the phone into this port."
+  }
+ ],
+ "ziraat": [
+  {
+   "text": "Babam ziraat mühendisi olarak çalışıyor.",
+   "translation": "My father works as an agricultural engineer."
+  },
+  {
+   "text": "Bu bölgede ziraat çok önemlidir.",
+   "translation": "Agriculture is very important in this region."
+  }
+ ],
+ "insansız": [
+  {
+   "text": "Gökyüzünde insansız bir hava aracı uçuyordu.",
+   "translation": "An unmanned aircraft was flying in the sky."
+  },
+  {
+   "text": "Bu insansız araç nasıl çalışıyor?",
+   "translation": "How does this unmanned vehicle work?"
+  }
+ ],
+ "yurttaş": [
+  {
+   "text": "Yurttaşlar parkı temiz tutmaya çalışıyor.",
+   "translation": "The citizens are trying to keep the park clean."
+  }
+ ],
+ "stabil": [
+  {
+   "text": "Bu hafta hava sıcaklığı stabil kaldı.",
+   "translation": "The temperature stayed stable this week."
+  }
+ ],
+ "hürriyet": [
+  {
+   "text": "Kafesten çıkan kuş hürriyetine kavuştu.",
+   "translation": "The bird that left the cage gained its freedom."
+  },
+  {
+   "text": "Senin için hürriyet ne demek?",
+   "translation": "What does freedom mean to you?"
+  }
+ ],
+ "nilüfer": [
+  {
+   "text": "Gölde güzel nilüferler açmış.",
+   "translation": "Beautiful water lilies have bloomed on the lake."
+  },
+  {
+   "text": "Nilüfer yaprakları suyun üstünde yüzüyor.",
+   "translation": "The water lily leaves are floating on the water."
+  }
+ ],
+ "teçhizat": [
+  {
+   "text": "Dağcılar teçhizatlarını sırtlarına aldı.",
+   "translation": "The climbers took their equipment on their backs."
+  }
+ ],
+ "yoğunluk": [
+  {
+   "text": "Sabahları yolda çok büyük bir yoğunluk oluyor.",
+   "translation": "In the mornings there is a lot of congestion on the road."
+  },
+  {
+   "text": "Bugün işte büyük bir yoğunluk vardı.",
+   "translation": "It was extremely busy at work today."
+  }
+ ],
+ "tünaydın": [
+  {
+   "text": "Tünaydın, nasılsınız?",
+   "translation": "Good afternoon, how are you?"
+  }
+ ],
+ "hikmet": [
+  {
+   "text": "Her işte bir hikmet vardır.",
+   "translation": "There is wisdom in everything that happens."
+  },
+  {
+   "text": "Bu olayın hikmetini sonra anladım.",
+   "translation": "I understood the wisdom behind this event later."
+  }
+ ],
+ "vesaire": [
+  {
+   "text": "Masanın üstünde kitap, defter vesaire vardı.",
+   "translation": "There were books, notebooks and so on on the table."
+  }
+ ],
+ "teras": [
+  {
+   "text": "Akşamları terasta çay içmeyi seviyoruz.",
+   "translation": "We like to drink tea on the terrace in the evenings."
+  }
+ ],
+ "talan": [
+  {
+   "text": "Hırsızlar evi talan etmiş.",
+   "translation": "Thieves have ransacked the house."
+  }
+ ],
+ "ikmal": [
+  {
+   "text": "Gemi limanda yiyecek ikmali yaptı.",
+   "translation": "The ship took on a resupply of food at the port."
+  }
+ ],
+ "akademisyen": [
+  {
+   "text": "Babam üniversitede akademisyen olarak çalışıyor.",
+   "translation": "My father works as an academic at the university."
+  },
+  {
+   "text": "Akademisyenler yeni bir araştırma yayımladı.",
+   "translation": "The academics published a new study."
+  }
+ ],
+ "kına": [
+  {
+   "text": "Kardeşimin kına gecesi cumartesi günü.",
+   "translation": "My sibling's henna night is on Saturday."
+  },
+  {
+   "text": "Elleri kınayla boyanmıştı.",
+   "translation": "Her hands were painted with henna."
+  }
+ ],
+ "çiçekli": [
+  {
+   "text": "Annem çiçekli bir elbise aldı.",
+   "translation": "My mother bought a flowery dress."
+  }
+ ],
+ "bankacılık": [
+  {
+   "text": "Ablam bankacılık alanında çalışıyor.",
+   "translation": "My older sister works in the banking field."
+  }
+ ],
+ "önderlik": [
+  {
+   "text": "Takım kaptanı maç boyunca iyi bir önderlik gösterdi.",
+   "translation": "The team captain showed good leadership throughout the match."
+  }
+ ],
+ "uçuk": [
+  {
+   "text": "Dudağımda uçuk çıktı, ağzım çok acıyor.",
+   "translation": "A cold sore appeared on my lip and my mouth really hurts."
+  },
+  {
+   "text": "Yüzü çok uçuk görünüyordu, hasta olmalı.",
+   "translation": "His face looked very pale, he must be sick."
+  }
+ ],
+ "lacivert": [
+  {
+   "text": "Babamın lacivert bir ceketi var.",
+   "translation": "My father has a navy blue jacket."
+  }
+ ],
+ "Bulgaristan": [
+  {
+   "text": "Bulgaristan Türkiye ile komşu bir ülkedir.",
+   "translation": "Bulgaria is a country neighboring Turkey."
+  },
+  {
+   "text": "Yaz tatilinde Bulgaristan tarafına gitmek istiyoruz.",
+   "translation": "We want to go toward Bulgaria on our summer holiday."
+  }
+ ],
+ "facia": [
+  {
+   "text": "Bu kaza gerçekten büyük bir facia oldu.",
+   "translation": "This accident really was a great tragedy."
+  }
+ ],
+ "küt": [
+  {
+   "text": "Bu bıçak çok küt, ekmeği kesemiyorum.",
+   "translation": "This knife is very dull, I cannot cut the bread."
+  },
+  {
+   "text": "Kalemin ucu küt olmuş, açar mısın?",
+   "translation": "The tip of the pencil has gone dull, can you sharpen it?"
+  }
+ ],
+ "Finlandiya": [
+  {
+   "text": "Finlandiya çok soğuk ve güzel bir ülke.",
+   "translation": "Finland is a very cold and beautiful country."
+  },
+  {
+   "text": "Finlandiya ile Türkiye arasında direkt uçuş var mı?",
+   "translation": "Is there a direct flight between Finland and Turkey?"
+  }
+ ],
+ "birliktelik": [
+  {
+   "text": "Aile birlikteliği bizim için çok önemli.",
+   "translation": "Family togetherness is very important to us."
+  },
+  {
+   "text": "Yıllarca süren birlikteliklerini hâlâ koruyorlar.",
+   "translation": "They still keep the union that has lasted for years."
+  }
+ ],
+ "bere": [
+  {
+   "text": "Kış geldi, kalın bir bere almalıyım.",
+   "translation": "Winter has come, I should buy a thick beanie."
+  }
+ ],
+ "deplasman": [
+  {
+   "text": "Takımımız bu hafta deplasmanda oynayacak.",
+   "translation": "Our team will play away this week."
+  }
+ ],
+ "komando": [
+  {
+   "text": "Amcam eskiden komando olarak görev yaptı.",
+   "translation": "My uncle used to serve as a commando."
+  },
+  {
+   "text": "Komandolar çok zor bir eğitimden geçer.",
+   "translation": "Commandos go through very hard training."
+  }
+ ],
+ "kontes": [
+  {
+   "text": "Filmde genç bir kontes büyük bir sarayda yaşıyordu.",
+   "translation": "In the film, a young countess lived in a big palace."
+  }
+ ],
+ "göçmek": [
+  {
+   "text": "Yağmurdan sonra eski evin çatısı göçtü.",
+   "translation": "After the rain, the roof of the old house collapsed."
+  }
+ ],
+ "bertaraf": [
+  {
+   "text": "Atıkları güvenli bir şekilde bertaraf etmeliyiz.",
+   "translation": "We must dispose of the waste safely."
+  }
+ ],
+ "konsolos": [
+  {
+   "text": "Konsolos yarın saat ikide bizi kabul edecek.",
+   "translation": "The consul will receive us tomorrow at two o'clock."
+  },
+  {
+   "text": "Vize için konsolosluğa gitmek zorundayım.",
+   "translation": "I have to go to the consulate for a visa."
+  }
+ ],
+ "gözlemci": [
+  {
+   "text": "Toplantıya gözlemci olarak katıldım.",
+   "translation": "I attended the meeting as an observer."
+  }
+ ],
+ "kuzeybatı": [
+  {
+   "text": "Rüzgâr bugün kuzeybatıdan esiyor.",
+   "translation": "The wind is blowing from the northwest today."
+  },
+  {
+   "text": "Ülkenin kuzeybatısında hava daha soğuk mu?",
+   "translation": "Is the weather colder in the northwest of the country?"
+  }
+ ],
+ "kâhin": [
+  {
+   "text": "Eski hikâyede kâhin krala bir tehlikeyi haber verdi.",
+   "translation": "In the old story, the seer warned the king of a danger."
+  },
+  {
+   "text": "Kâhin geleceği görebildiğini söylüyordu.",
+   "translation": "The soothsayer claimed he could see the future."
+  }
+ ],
+ "söyleşi": [
+  {
+   "text": "Yazarla yapılan söyleşiyi dün gazetede okudum.",
+   "translation": "I read the interview with the writer in the newspaper yesterday."
+  },
+  {
+   "text": "Okulda şairle bir söyleşi düzenleyeceğiz.",
+   "translation": "We will organize a talk with the poet at school."
+  }
+ ],
+ "müstakbel": [
+  {
+   "text": "Müstakbel eşim çok güzel yemek yapar.",
+   "translation": "My future spouse cooks very well."
+  },
+  {
+   "text": "Müstakbel doktorlar bu salonda ders alıyor.",
+   "translation": "The future doctors take classes in this hall."
+  }
+ ],
+ "gözcü": [
+  {
+   "text": "Gözcü tepeden kimsenin gelmediğini söyledi.",
+   "translation": "The lookout said from the hill that nobody was coming."
+  },
+  {
+   "text": "Çocuklar oyun sırasında kapıya bir gözcü koydu.",
+   "translation": "The children put a lookout at the door during the game."
+  }
+ ],
+ "kayın": [
+  {
+   "text": "Bahçemizde yaşlı bir kayın ağacı var.",
+   "translation": "There is an old beech tree in our garden."
+  }
+ ],
+ "şaman": [
+  {
+   "text": "Filmde yaşlı bir şaman davul çalıyordu.",
+   "translation": "In the film, an old shaman was playing a drum."
+  },
+  {
+   "text": "Şamanlar hakkında bir kitap okuyorum.",
+   "translation": "I am reading a book about shamans."
+  }
+ ],
+ "algoritma": [
+  {
+   "text": "Bu uygulama sana video önermek için bir algoritma kullanıyor.",
+   "translation": "This app uses an algorithm to recommend videos to you."
+  }
+ ],
+ "lağım": [
+  {
+   "text": "Yağmurdan sonra sokaktaki lağım taştı.",
+   "translation": "After the rain, the sewer in the street overflowed."
+  },
+  {
+   "text": "Lağım kokusu yüzünden pencereyi açamıyoruz.",
+   "translation": "We cannot open the window because of the sewer smell."
+  }
+ ],
+ "monitör": [
+  {
+   "text": "Yeni monitörüm eskisinden çok daha büyük.",
+   "translation": "My new monitor is much bigger than the old one."
+  }
+ ],
+ "hareketlilik": [
+  {
+   "text": "Sabah saatlerinde çarşıda büyük bir hareketlilik var.",
+   "translation": "In the morning hours there is a lot of activity at the market."
+  }
+ ],
+ "aktive": [
+  {
+   "text": "Yeni kartınızı aktive etmeyi unutmayın.",
+   "translation": "Do not forget to activate your new card."
+  }
+ ],
+ "fetih": [
+  {
+   "text": "Şehrin fethi çok uzun sürdü.",
+   "translation": "The conquest of the city took a very long time."
+  },
+  {
+   "text": "Öğretmen bize fetih hakkında bir hikaye anlattı.",
+   "translation": "The teacher told us a story about the conquest."
+  }
+ ],
+ "arsa": [
+  {
+   "text": "Dedem köyde küçük bir arsa aldı.",
+   "translation": "My grandfather bought a small plot of land in the village."
+  }
+ ],
+ "farksız": [
+  {
+   "text": "Benim için çay da kahve de farksız.",
+   "translation": "Tea and coffee are all the same to me."
+  },
+  {
+   "text": "Bu iki telefon bana farksız görünüyor.",
+   "translation": "These two phones look no different to me."
+  }
+ ],
+ "gözlüklü": [
+  {
+   "text": "Gözlüklü kız sınıfın en önünde oturuyor.",
+   "translation": "The girl with glasses sits at the very front of the class."
+  }
+ ],
+ "ikişer": [
+  {
+   "text": "Annem çocukların her birine ikişer elma verdi.",
+   "translation": "My mother gave each of the children two apples."
+  }
+ ],
+ "Peru": [
+  {
+   "text": "Peruda çok güzel dağlar var.",
+   "translation": "There are very beautiful mountains in Peru."
+  }
+ ],
+ "müşterek": [
+  {
+   "text": "Kardeşimle müşterek bir odamız var.",
+   "translation": "My sibling and I share a room."
+  }
+ ],
+ "milimetre": [
+  {
+   "text": "Bu vida sadece beş milimetre uzunluğunda.",
+   "translation": "This screw is only five millimetres long."
+  }
+ ],
+ "sahipsiz": [
+  {
+   "text": "Sokakta sahipsiz bir köpek gördüm.",
+   "translation": "I saw a stray dog in the street."
+  },
+  {
+   "text": "Sahipsiz kedilere yemek vermek ister misin?",
+   "translation": "Would you like to feed the stray cats?"
+  }
+ ],
+ "tapu": [
+  {
+   "text": "Evin tapusu babamın adına.",
+   "translation": "The title deed of the house is in the name of my father."
+  },
+  {
+   "text": "Tapu dairesi saat kaçta açılıyor?",
+   "translation": "What time does the land registry office open?"
+  }
+ ],
+ "muhterem": [
+  {
+   "text": "Muhterem misafirlerimiz, hoş geldiniz.",
+   "translation": "Esteemed guests, welcome."
+  }
+ ],
+ "tesir": [
+  {
+   "text": "İlacın tesiri bir saat sürer.",
+   "translation": "The effect of the medicine lasts an hour."
+  },
+  {
+   "text": "Hava durumunun ruh halime tesiri çok büyük.",
+   "translation": "The weather has a big influence on my mood."
+  }
+ ],
+ "yaman": [
+  {
+   "text": "Bu çocuk yaman bir futbolcu olacak.",
+   "translation": "This child will be a formidable footballer."
+  },
+  {
+   "text": "Dün gece yaman bir fırtına çıktı.",
+   "translation": "A fierce storm broke out last night."
+  }
+ ],
+ "zapt": [
+  {
+   "text": "Ordu şehri kısa sürede zapt etti.",
+   "translation": "The army seized the city in a short time."
+  },
+  {
+   "text": "Kale kolay kolay zapt edilemedi.",
+   "translation": "The castle could not be easily taken."
+  }
+ ],
+ "iştirak": [
+  {
+   "text": "Yarışmaya iştirak eden herkese teşekkür ederiz.",
+   "translation": "We thank everyone who took part in the contest."
+  }
+ ],
+ "mareşal": [
+  {
+   "text": "Mareşal askerlerin önünde konuştu.",
+   "translation": "The marshal spoke in front of the soldiers."
+  },
+  {
+   "text": "Müzede eski bir mareşalin fotoğrafını gördük.",
+   "translation": "At the museum we saw a photo of an old marshal."
+  }
+ ],
+ "haraç": [
+  {
+   "text": "Eski zamanlarda köylüler krala haraç verirdi.",
+   "translation": "In old times the villagers paid tribute to the king."
+  }
+ ],
+ "kuzeydoğu": [
+  {
+   "text": "Rüzgar bu sabah kuzeydoğudan esiyor.",
+   "translation": "The wind is blowing from the northeast this morning."
+  }
+ ],
+ "modifiye": [
+  {
+   "text": "Babam modifiye edilmiş bir araba aldı.",
+   "translation": "My father bought a modified car."
+  },
+  {
+   "text": "Bu araba modifiye mi?",
+   "translation": "Is this car modified?"
+  }
+ ],
+ "faal": [
+  {
+   "text": "Bu yanardağ hâlâ faal.",
+   "translation": "This volcano is still active."
+  }
+ ],
+ "madalyon": [
+  {
+   "text": "Boynunda eski bir madalyon vardı.",
+   "translation": "She had an old medallion around her neck."
+  }
+ ],
+ "arınmak": [
+  {
+   "text": "Kötü düşüncelerden arınmak istiyorum.",
+   "translation": "I want to rid myself of bad thoughts."
+  }
+ ],
+ "anlatım": [
+  {
+   "text": "Öğretmenin anlatımı çok açık ve basitti.",
+   "translation": "The teacher gave an explanation that was very clear and simple."
+  }
+ ],
+ "vişne": [
+  {
+   "text": "Annem bu yaz vişne reçeli yaptı.",
+   "translation": "My mother made sour cherry jam this summer."
+  },
+  {
+   "text": "Bir bardak vişne suyu içmek ister misin?",
+   "translation": "Would you like to drink a glass of sour cherry juice?"
+  }
+ ],
+ "cevher": [
+  {
+   "text": "Bu dağdan demir cevheri çıkarılıyor.",
+   "translation": "Iron ore is mined from this mountain."
+  }
+ ],
+ "esin": [
+  {
+   "text": "Doğa ona her zaman esin verir.",
+   "translation": "Nature always gives her inspiration."
+  },
+  {
+   "text": "Bu şarkı için esin kaynağın neydi?",
+   "translation": "What was your source of inspiration for this song?"
+  }
+ ],
+ "aksesuar": [
+  {
+   "text": "Bu elbiseye uygun bir aksesuar arıyorum.",
+   "translation": "I am looking for an accessory that suits this dress."
+  }
+ ],
+ "jeolojik": [
+  {
+   "text": "Okulda jeolojik bir harita çizdik.",
+   "translation": "At school we drew a geological map."
+  }
+ ],
+ "promosyon": [
+  {
+   "text": "Gazete alana promosyon olarak bir bardak veriyorlar.",
+   "translation": "They give a glass as a promotion to anyone who buys a newspaper."
+  }
+ ],
+ "yüksekokul": [
+  {
+   "text": "Ablam yüksekokulda turizm okuyor.",
+   "translation": "My older sister is studying tourism at a vocational college."
+  },
+  {
+   "text": "Yüksekokulu bitirdikten sonra iş arayacağım.",
+   "translation": "After I finish college, I will look for a job."
+  }
+ ],
+ "pıhtı": [
+  {
+   "text": "Doktor bacağımdaki damarda bir pıhtı buldu.",
+   "translation": "The doctor found a clot in a vein in my leg."
+  }
+ ],
+ "Türkiye": [
+  {
+   "text": "Türkiye üç tarafı denizle çevrili bir ülkedir.",
+   "translation": "Turkey is a country surrounded by sea on three sides."
+  },
+  {
+   "text": "Türkiye hakkında ne biliyorsun?",
+   "translation": "What do you know about Turkey?"
+  }
+ ],
+ "çınar": [
+  {
+   "text": "Köy meydanında yüz yıllık bir çınar var.",
+   "translation": "There is a hundred-year-old plane tree in the village square."
+  },
+  {
+   "text": "Çınarın gölgesinde oturup çay içtik.",
+   "translation": "We sat in the shade of the plane tree and drank tea."
+  }
+ ],
+ "bencillik": [
+  {
+   "text": "Bencillik iyi bir arkadaşlığı bitirebilir.",
+   "translation": "Selfishness can end a good friendship."
+  }
+ ],
+ "tükürük": [
+  {
+   "text": "Tükürük yemekleri yutmamıza yardım eder.",
+   "translation": "Saliva helps us swallow our food."
+  }
+ ],
+ "kasık": [
+  {
+   "text": "Koşarken kasığım çok ağrıdı.",
+   "translation": "My groin hurt a lot while I was running."
+  },
+  {
+   "text": "Kasık ağrısı için doktora gitmelisin.",
+   "translation": "You should see a doctor for groin pain."
+  }
+ ],
+ "müteahhit": [
+  {
+   "text": "Müteahhit yeni apartmanı gelecek ay bitirecek.",
+   "translation": "The contractor will finish the new apartment building next month."
+  }
+ ],
+ "klon": [
+  {
+   "text": "Bilim insanları koyunun bir klonunu yaptı.",
+   "translation": "Scientists made a clone of a sheep."
+  }
+ ],
+ "vezir": [
+  {
+   "text": "Satrançta vezir en güçlü taştır.",
+   "translation": "In chess, the queen is the strongest piece."
+  },
+  {
+   "text": "Padişah veziri yanına çağırdı.",
+   "translation": "The sultan called the vizier to his side."
+  }
+ ],
+ "kireç": [
+  {
+   "text": "Çaydanlıkta çok kireç birikmiş.",
+   "translation": "A lot of limescale has built up in the teapot."
+  }
+ ],
+ "suikastçı": [
+  {
+   "text": "Filmdeki suikastçı çok soğukkanlı biriydi.",
+   "translation": "The assassin in the film was a very cool-headed person."
+  },
+  {
+   "text": "Bu kitapta suikastçıyı kim yakalıyor?",
+   "translation": "Who catches the assassin in this book?"
+  }
+ ],
+ "enzim": [
+  {
+   "text": "Midemizdeki enzimler yemeği sindirmeye yardım eder.",
+   "translation": "The enzymes in our stomach help digest food."
+  }
+ ],
+ "rey": [
+  {
+   "text": "Sınıf başkanı seçiminde ben de rey kullandım.",
+   "translation": "I also cast my vote in the class president election."
+  },
+  {
+   "text": "Senin reyin hangi arkadaşa gidecek?",
+   "translation": "Which friend will your vote go to?"
+  }
+ ],
+ "kaçakçılık": [
+  {
+   "text": "Sınırda kaçakçılık yapan bir adam yakalandı.",
+   "translation": "A man who was smuggling at the border was caught."
+  }
+ ],
+ "Tayvan": [
+  {
+   "text": "Tayvan hakkında bir belgesel izledik.",
+   "translation": "We watched a documentary about Taiwan."
+  }
+ ],
+ "anatomi": [
+  {
+   "text": "Anatomi dersi benim için çok zor.",
+   "translation": "The anatomy class is very hard for me."
+  }
+ ],
+ "bozgun": [
+  {
+   "text": "Takımımız dünkü maçta büyük bir bozguna uğradı.",
+   "translation": "Our team suffered a crushing defeat in yesterday's match."
+  },
+  {
+   "text": "Düşman ordusu bozguna uğrayıp geri çekildi.",
+   "translation": "The enemy army was routed and pulled back."
+  }
+ ],
+ "küme": [
+  {
+   "text": "Matematik dersinde kümeleri öğreniyoruz.",
+   "translation": "We are learning about sets in math class."
+  },
+  {
+   "text": "Bahçede bir küme çocuk top oynuyordu.",
+   "translation": "A group of children was playing ball in the garden."
+  }
+ ],
+ "sosyete": [
+  {
+   "text": "Dayım sosyete hayatını hiç sevmez.",
+   "translation": "My uncle never likes high society life."
+  }
+ ],
+ "Kuveyt": [
+  {
+   "text": "Kuveyt çok sıcak bir ülke.",
+   "translation": "Kuwait is a very hot country."
+  },
+  {
+   "text": "Kuveyt hakkında bir kitap okudum.",
+   "translation": "I read a book about Kuwait."
+  }
+ ],
+ "ebru": [
+  {
+   "text": "Okulda ebru yapmayı öğrendik.",
+   "translation": "We learned how to make ebru at school."
+  },
+  {
+   "text": "Duvarda çok güzel bir ebru asılı.",
+   "translation": "A very beautiful ebru is hanging on the wall."
+  }
+ ],
+ "tebliğ": [
+  {
+   "text": "Okul müdürlüğü yeni bir tebliğ yayımladı.",
+   "translation": "The school administration issued a new official notice."
+  }
+ ],
+ "sidik": [
+  {
+   "text": "Doktor benden sidik tahlili istedi.",
+   "translation": "The doctor asked me for a urine test."
+  },
+  {
+   "text": "Bebeğin sidiği çok koyu renkli mi?",
+   "translation": "Is the baby's urine very dark in color?"
+  }
+ ],
+ "sistemli": [
+  {
+   "text": "Sistemli çalışırsan sınavı kolayca geçersin.",
+   "translation": "If you study methodically, you will pass the exam easily."
+  },
+  {
+   "text": "Annem evi çok sistemli temizler.",
+   "translation": "My mother cleans the house very methodically."
+  }
+ ],
+ "nebze": [
+  {
+   "text": "Bu haber beni bir nebze rahatlattı.",
+   "translation": "This news relieved me a little."
+  }
+ ],
+ "müjde": [
+  {
+   "text": "Sana güzel bir müjdem var!",
+   "translation": "I have some good news for you!"
+  },
+  {
+   "text": "Babam eve müjdeyi ilk getiren oldu.",
+   "translation": "My father was the first to bring the good news home."
+  }
+ ],
+ "safha": [
+  {
+   "text": "Proje şimdi son safhaya girdi.",
+   "translation": "The project has now entered its final phase."
+  }
+ ],
+ "ülkü": [
+  {
+   "text": "Onun en büyük ülküsü öğretmen olmaktı.",
+   "translation": "His greatest ideal was to become a teacher."
+  },
+  {
+   "text": "Senin hayattaki ülkün nedir?",
+   "translation": "What is your ideal in life?"
+  }
+ ],
+ "yamuk": [
+  {
+   "text": "Resim duvarda biraz yamuk duruyor.",
+   "translation": "The picture hangs a little crooked on the wall."
+  }
+ ],
+ "pak": [
+  {
+   "text": "Annem evi her zaman pak ve temiz tutar.",
+   "translation": "My mother always keeps the house spotless and clean."
+  },
+  {
+   "text": "Yıkandıktan sonra çocuk pak ve temiz görünüyordu.",
+   "translation": "After washing, the child looked fresh and clean."
+  }
+ ],
+ "jaguar": [
+  {
+   "text": "Hayvanat bahçesinde bir jaguar gördük.",
+   "translation": "We saw a jaguar at the zoo."
+  },
+  {
+   "text": "Jaguar mı yoksa leopar mı daha hızlı?",
+   "translation": "Is a jaguar or a leopard faster?"
+  }
+ ],
+ "plato": [
+  {
+   "text": "Köyümüz yüksek bir platoda kurulmuş.",
+   "translation": "Our village was built on a high plateau."
+  }
+ ],
+ "amansız": [
+  {
+   "text": "Dedem amansız bir hastalıkla savaştı.",
+   "translation": "My grandfather fought a relentless illness."
+  }
+ ],
+ "viral": [
+  {
+   "text": "Kedinin bu komik videosu çok viral oldu.",
+   "translation": "This funny video of the cat went very viral."
+  }
+ ],
+ "tüyo": [
+  {
+   "text": "Bana sınavla ilgili bir tüyo verir misin?",
+   "translation": "Can you give me a tip about the exam?"
+  }
+ ],
+ "derya": [
+  {
+   "text": "Küçük kayık engin deryada yavaşça ilerliyordu.",
+   "translation": "The small boat was slowly moving along on the open sea."
+  },
+  {
+   "text": "Dedem tam bir bilgi deryasıdır.",
+   "translation": "My grandfather is a real ocean of knowledge."
+  }
+ ],
+ "piyon": [
+  {
+   "text": "Satrançta piyonu bir kare ileri oynadım.",
+   "translation": "In chess, I moved the pawn one square forward."
+  }
+ ],
+ "dekor": [
+  {
+   "text": "Filmin dekoru çok güzel hazırlanmıştı.",
+   "translation": "The set of the film had been prepared very beautifully."
+  }
+ ],
+ "müsteşar": [
+  {
+   "text": "Müsteşar bugün bakanla toplantıya katılacak.",
+   "translation": "The undersecretary will attend the meeting with the minister today."
+  },
+  {
+   "text": "Müsteşarla görüşmek için randevu aldım.",
+   "translation": "I made an appointment to meet with the undersecretary."
+  }
+ ],
+ "ahali": [
+  {
+   "text": "Köyün ahalisi akşam meydanda toplandı.",
+   "translation": "The inhabitants of the village gathered in the square in the evening."
+  },
+  {
+   "text": "Mahalle ahalisi yeni parktan çok memnun.",
+   "translation": "The people of the neighbourhood are very happy with the new park."
+  }
+ ],
+ "burmak": [
+  {
+   "text": "Kardeşim kolumu burunca canım yandı.",
+   "translation": "It hurt when my little brother twisted my arm."
+  }
+ ],
+ "prodüksiyon": [
+  {
+   "text": "Bu filmin prodüksiyonu bir yıl sürdü.",
+   "translation": "The production of this film took a year."
+  },
+  {
+   "text": "Prodüksiyon ekibi sabah sette toplandı.",
+   "translation": "The production team gathered on set in the morning."
+  }
+ ],
+ "eşkıya": [
+  {
+   "text": "Eskiden bu dağlarda eşkıyalar yaşarmış.",
+   "translation": "They say bandits used to live in these mountains long ago."
+  },
+  {
+   "text": "Dedem bana eşkıya hikâyeleri anlatırdı.",
+   "translation": "My grandfather used to tell me stories about bandits."
+  }
+ ],
+ "pancar": [
+  {
+   "text": "Annem akşam yemeği için pancar salatası yaptı.",
+   "translation": "My mother made a beetroot salad for dinner."
+  }
+ ],
+ "titanyum": [
+  {
+   "text": "Bu saatin kasası titanyumdan yapılmış.",
+   "translation": "The case of this watch is made of titanium."
+  },
+  {
+   "text": "Titanyum hafif ama çok sağlam bir metaldir.",
+   "translation": "Titanium is a light but very strong metal."
+  }
+ ],
+ "tümen": [
+  {
+   "text": "Tümen komutanı bugün kışlayı ziyaret etti.",
+   "translation": "The division commander visited the barracks today."
+  },
+  {
+   "text": "Dedem askerken bu tümende görev yapmış.",
+   "translation": "My grandfather served in this division during his military service."
+  }
+ ],
+ "hülya": [
+  {
+   "text": "Bazen derste pencereden bakıp hülyalara dalıyorum.",
+   "translation": "Sometimes in class I look out the window and fall into daydreams."
+  },
+  {
+   "text": "Bu sadece güzel bir hülya, gerçek değil.",
+   "translation": "This is just a lovely fantasy, it is not real."
+  }
+ ],
+ "iktisat": [
+  {
+   "text": "Kardeşim üniversitede iktisat okuyor.",
+   "translation": "My sibling is studying economics at university."
+  }
+ ],
+ "kumlu": [
+  {
+   "text": "Çocuklar kumlu plajda top oynuyor.",
+   "translation": "The children are playing ball on the sandy beach."
+  },
+  {
+   "text": "Kumlu yolda araba çok yavaş gidiyor.",
+   "translation": "The car is going very slowly on the sandy road."
+  }
+ ],
+ "donör": [
+  {
+   "text": "Hastaya uygun bir donör bulundu.",
+   "translation": "A suitable donor was found for the patient."
+  }
+ ],
+ "krom": [
+  {
+   "text": "Bu musluk kromdan yapılmış.",
+   "translation": "This tap is made of chrome."
+  }
+ ],
+ "şizofreni": [
+  {
+   "text": "Doktor ona şizofreni teşhisi koydu.",
+   "translation": "The doctor diagnosed him with schizophrenia."
+  },
+  {
+   "text": "Şizofreni ciddi ama tedavi edilebilir bir hastalıktır.",
+   "translation": "Schizophrenia is a serious but treatable illness."
+  }
+ ],
+ "fildişi": [
+  {
+   "text": "Eski satranç taşları fildişinden yapılırdı.",
+   "translation": "Old chess pieces used to be made of ivory."
+  }
+ ],
+ "doktorluk": [
+  {
+   "text": "Doktorluk zor ama çok güzel bir meslektir.",
+   "translation": "Medicine is a hard but very beautiful profession."
+  }
+ ],
+ "imar": [
+  {
+   "text": "Belediye yeni mahalle için bir imar planı hazırladı.",
+   "translation": "The municipality prepared a zoning plan for the new neighbourhood."
+  },
+  {
+   "text": "Bu arazi imara açık mı?",
+   "translation": "Is this land open to development?"
+  }
+ ],
+ "oluk": [
+  {
+   "text": "Yağmur suyu oluktan akıp bahçeye döküldü.",
+   "translation": "The rainwater flowed down the gutter and poured into the garden."
+  }
+ ],
+ "keten": [
+  {
+   "text": "Yazın keten gömlek giymeyi çok seviyorum.",
+   "translation": "I really like wearing linen shirts in summer."
+  }
+ ],
+ "define": [
+  {
+   "text": "Çocuklar bahçede define aradı.",
+   "translation": "The children looked for buried treasure in the garden."
+  }
+ ],
+ "serap": [
+  {
+   "text": "Çölde yolcular uzakta bir serap gördü.",
+   "translation": "In the desert, the travellers saw a mirage in the distance."
+  }
+ ],
+ "buyruk": [
+  {
+   "text": "Kızım çok başına buyruk, kimseyi dinlemiyor.",
+   "translation": "My daughter is very headstrong and does not listen to anyone."
+  }
+ ],
+ "jenerik": [
+  {
+   "text": "Film bitti ama jenerik çok uzun sürdü.",
+   "translation": "The film ended, but the credits went on for a very long time."
+  }
+ ],
+ "ladin": [
+  {
+   "text": "Yolun iki yanında yüksek ladinler vardı.",
+   "translation": "There were tall spruce trees on both sides of the road."
+  },
+  {
+   "text": "Ladin ormanında yürümek insana huzur veriyor.",
+   "translation": "Walking in a spruce forest gives a person peace."
+  }
+ ],
+ "caba": [
+  {
+   "text": "Kitabı aldım, cabasında bir de kalem verdiler.",
+   "translation": "I bought the book and they threw in a pen for free."
+  }
+ ],
+ "kararname": [
+  {
+   "text": "Yeni kararname bugün yayımlandı.",
+   "translation": "The new decree was published today."
+  },
+  {
+   "text": "Kararnameyi sen de okudun mu?",
+   "translation": "Did you read the decree too?"
+  }
+ ],
+ "paranoya": [
+  {
+   "text": "Sürekli izlendiğini düşünmek paranoya olabilir.",
+   "translation": "Constantly thinking you are being watched can be paranoia."
+  },
+  {
+   "text": "Paranoya yüzünden geceleri hiç rahat uyuyamıyor.",
+   "translation": "Because of paranoia, he cannot sleep peacefully at night."
+  }
+ ],
+ "pala": [
+  {
+   "text": "Çiftçi palayla ağaç dallarını kesti.",
+   "translation": "The farmer cut the tree branches with a machete."
+  }
+ ],
+ "münasebet": [
+  {
+   "text": "Bunun bizim konumuzla ne münasebeti var?",
+   "translation": "What connection does this have with our topic?"
+  },
+  {
+   "text": "İki ülke arasındaki münasebetler çok iyi.",
+   "translation": "Relations between the two countries are very good."
+  }
+ ],
+ "nakliyat": [
+  {
+   "text": "Eşyaların nakliyatı için bir firma tuttuk.",
+   "translation": "We hired a company to transport our belongings."
+  }
+ ],
+ "nostalji": [
+  {
+   "text": "Eski fotoğraflara bakınca içimi nostalji kaplıyor.",
+   "translation": "When I look at old photos, I am filled with nostalgia."
+  }
+ ],
+ "kip": [
+  {
+   "text": "Bu cümledeki fiil hangi kipte?",
+   "translation": "In which mood is the verb in this sentence?"
+  },
+  {
+   "text": "Öğretmen bize emir kipini anlattı.",
+   "translation": "The teacher explained the imperative mood to us."
+  }
+ ],
+ "kumral": [
+  {
+   "text": "Kardeşimin saçları kumral.",
+   "translation": "My sibling has light brown hair."
+  },
+  {
+   "text": "Kumral saçlı kız benim sınıf arkadaşım.",
+   "translation": "The brown-haired girl is my classmate."
+  }
+ ],
+ "asist": [
+  {
+   "text": "Oyuncu maçta iki asist yaptı.",
+   "translation": "The player made two assists in the match."
+  },
+  {
+   "text": "Bu sezon en çok asist yapan kim?",
+   "translation": "Who has the most assists this season?"
+  }
+ ],
+ "babasız": [
+  {
+   "text": "Babasız büyüyen çocuk çok çalışkandı.",
+   "translation": "The child who grew up without a father was very hardworking."
+  },
+  {
+   "text": "Okulda babasız kalan çocuklara yardım ediyorlar.",
+   "translation": "At school they help children who have lost their fathers."
+  }
+ ],
+ "maço": [
+  {
+   "text": "Maço tavırlarından hiç hoşlanmıyorum.",
+   "translation": "I do not like his macho attitude at all."
+  }
+ ],
+ "maestro": [
+  {
+   "text": "Maestro orkestrayı büyük bir ustalıkla yönetti.",
+   "translation": "The maestro conducted the orchestra with great skill."
+  },
+  {
+   "text": "Konserden sonra maestroyla fotoğraf çektirdik.",
+   "translation": "After the concert we had our photo taken with the maestro."
+  }
+ ],
+ "neon": [
+  {
+   "text": "Geceleri sokaktaki neon ışıkları çok güzel görünüyor.",
+   "translation": "The neon lights on the street look beautiful at night."
+  }
+ ],
+ "sarmaşık": [
+  {
+   "text": "Duvarı yeşil bir sarmaşık kaplamış.",
+   "translation": "A green ivy has covered the wall."
+  }
+ ],
+ "bürokratik": [
+  {
+   "text": "Bu iş için çok bürokratik işlemler gerekiyor.",
+   "translation": "This job requires a lot of bureaucratic procedures."
+  },
+  {
+   "text": "Bürokratik işlemler yüzünden yeni pasaport almak aylar sürdü.",
+   "translation": "Getting a new passport took months because of bureaucratic procedures."
+  }
+ ],
+ "zihniyet": [
+  {
+   "text": "Onun zihniyeti hiç değişmiyor.",
+   "translation": "His mentality never changes."
+  },
+  {
+   "text": "Eski zihniyetle yeni işler yapılmaz.",
+   "translation": "You cannot do new things with an old mentality."
+  }
+ ],
+ "süit": [
+  {
+   "text": "Otelde deniz manzaralı bir süit tuttuk.",
+   "translation": "We booked a suite with a sea view at the hotel."
+  },
+  {
+   "text": "Bu süitte kaç yatak odası var?",
+   "translation": "How many bedrooms does this suite have?"
+  }
+ ],
+ "Arnavutluk": [
+  {
+   "text": "Arnavutluk sahilleri yaz boyunca çok kalabalık oluyor.",
+   "translation": "The beaches of Albania get very crowded all summer."
+  },
+  {
+   "text": "Arnavutluk hakkında ne biliyorsun?",
+   "translation": "What do you know about Albania?"
+  }
+ ],
+ "sülfür": [
+  {
+   "text": "Kaplıcanın suyunda sülfür var.",
+   "translation": "There is sulfide in the water of the hot spring."
+  },
+  {
+   "text": "Sülfür kokusu yüzünden kaplıcaya girmek istemedim.",
+   "translation": "I did not want to go into the hot spring because of the sulfide smell."
+  }
+ ],
+ "çeyiz": [
+  {
+   "text": "Annem kızı için yıllarca çeyiz hazırladı.",
+   "translation": "My mother prepared a trousseau for her daughter for years."
+  },
+  {
+   "text": "Çeyiz sandığında neler var?",
+   "translation": "What is in the trousseau chest?"
+  }
+ ],
+ "imparatoriçe": [
+  {
+   "text": "İmparatoriçe sarayın balkonundan halka el salladı.",
+   "translation": "The empress waved to the people from the palace balcony."
+  },
+  {
+   "text": "Tarih kitabında bir imparatoriçenin hayatını okudum.",
+   "translation": "I read about the life of an empress in the history book."
+  }
+ ],
+ "yufka": [
+  {
+   "text": "Annem yufkayı açıp içine peynir koydu.",
+   "translation": "My mother rolled out the thin dough and put cheese in it."
+  },
+  {
+   "text": "Akşam yufkayla börek yapalım mı?",
+   "translation": "Shall we make börek with thin dough this evening?"
+  }
+ ],
+ "haciz": [
+  {
+   "text": "Borcunu ödemeyince evine haciz geldi.",
+   "translation": "When he did not pay his debt, a seizure order came to his house."
+  },
+  {
+   "text": "Mahkeme arabaya haciz koydu.",
+   "translation": "The court placed a seizure on the car."
+  }
+ ],
+ "ironi": [
+  {
+   "text": "Bu sözlerin arkasında hafif bir ironi vardı.",
+   "translation": "There was a slight irony behind these words."
+  }
+ ],
+ "güdümlü": [
+  {
+   "text": "Fabrikada güdümlü araçlar paketleri taşıyor.",
+   "translation": "Guided vehicles carry the packages in the factory."
+  },
+  {
+   "text": "Müzede güdümlü füze modelleri sergileniyor.",
+   "translation": "Models of guided missiles are on display in the museum."
+  }
+ ],
+ "sismik": [
+  {
+   "text": "Bölgede sismik hareketlilik arttı.",
+   "translation": "Seismic activity has increased in the region."
+  },
+  {
+   "text": "Sismik kayıtlar depremin merkezini gösterdi.",
+   "translation": "The seismic records showed the center of the earthquake."
+  }
+ ],
+ "kene": [
+  {
+   "text": "Köpeğimin tüylerinde bir kene buldum.",
+   "translation": "I found a tick in the fur of my dog."
+  }
+ ],
+ "parsel": [
+  {
+   "text": "Babam köyde küçük bir parsel satın aldı.",
+   "translation": "My father bought a small plot of land in the village."
+  },
+  {
+   "text": "Bu parselin üzerine ev yapılabilir mi?",
+   "translation": "Can a house be built on this plot?"
+  }
+ ],
+ "saban": [
+  {
+   "text": "Çiftçi tarlayı sabanla sürüyordu.",
+   "translation": "The farmer was plowing the field with a plough."
+  },
+  {
+   "text": "Eskiden sabanı öküzler çekerdi.",
+   "translation": "In the old days oxen used to pull the plough."
+  }
+ ],
+ "ikaz": [
+  {
+   "text": "Arabanın ikaz ışığı yandı.",
+   "translation": "The warning light of the car came on."
+  }
+ ],
+ "tetkik": [
+  {
+   "text": "Doktor kan tetkikleri istedi.",
+   "translation": "The doctor ordered blood tests."
+  }
+ ],
+ "defne": [
+  {
+   "text": "Çorbaya iki defne yaprağı attım.",
+   "translation": "I put two bay leaves into the soup."
+  },
+  {
+   "text": "Bahçemizde büyük bir defne ağacı var.",
+   "translation": "There is a big bay laurel tree in our garden."
+  }
+ ],
+ "tunç": [
+  {
+   "text": "Müzede tunçtan yapılmış bir heykel gördük.",
+   "translation": "We saw a statue made of bronze in the museum."
+  },
+  {
+   "text": "Takım turnuvada tunç madalya kazandı.",
+   "translation": "The team won a bronze medal at the tournament."
+  }
+ ],
+ "mercek": [
+  {
+   "text": "Fotoğraf makinesinin merceği kırıldı.",
+   "translation": "The lens of the camera broke."
+  },
+  {
+   "text": "Küçük yazıları büyük bir mercekle okuyorum.",
+   "translation": "I read small print with a large magnifying lens."
+  }
+ ],
+ "geliştirici": [
+  {
+   "text": "Ağabeyim bir oyun şirketinde geliştirici olarak çalışıyor.",
+   "translation": "My older brother works as a developer at a game company."
+  },
+  {
+   "text": "Geliştirici yeni sürümü bu hafta yayınlayacak.",
+   "translation": "The developer will release the new version this week."
+  }
+ ],
+ "Antarktika": [
+  {
+   "text": "Antarktika dünyanın en soğuk yeridir.",
+   "translation": "Antarctica is the coldest place in the world."
+  },
+  {
+   "text": "Dün akşam Antarktika hakkında güzel bir belgesel izledik.",
+   "translation": "Last night we watched a nice documentary about Antarctica."
+  }
+ ],
+ "yapışık": [
+  {
+   "text": "Dondurmalar birbirine yapışık, ayıramıyorum.",
+   "translation": "The ice creams are stuck together and I cannot separate them."
+  },
+  {
+   "text": "Pantolonuma yapışık bir sakız var.",
+   "translation": "There is a piece of gum stuck to my trousers."
+  }
+ ],
+ "arıtmak": [
+  {
+   "text": "Bu cihaz içme suyunu arıtıyor.",
+   "translation": "This device purifies the drinking water."
+  }
+ ],
+ "çağlamak": [
+  {
+   "text": "Dere taşların arasından çağlayarak akıyor.",
+   "translation": "The stream flows murmuring between the stones."
+  }
+ ],
+ "banmak": [
+  {
+   "text": "Ekmeği çorbaya banıp yedim.",
+   "translation": "I dipped the bread into the soup and ate it."
+  },
+  {
+   "text": "Çayına kurabiye banar mısın?",
+   "translation": "Do you dunk a cookie in your tea?"
+  }
+ ],
+ "salya": [
+  {
+   "text": "Bebeğin ağzından salya akıyordu.",
+   "translation": "Drool was running from the baby's mouth."
+  }
+ ],
+ "bakteriyel": [
+  {
+   "text": "Doktor bunun bakteriyel bir enfeksiyon olduğunu söyledi.",
+   "translation": "The doctor said this is a bacterial infection."
+  }
+ ],
+ "lityum": [
+  {
+   "text": "Telefon pillerinde lityum kullanılır.",
+   "translation": "Lithium is used in phone batteries."
+  },
+  {
+   "text": "Lityum çok hafif bir madendir.",
+   "translation": "Lithium is a very light metal."
+  }
+ ],
+ "galaktik": [
+  {
+   "text": "Galaktik uzay filmlerini çok severim.",
+   "translation": "I love galactic space movies."
+  },
+  {
+   "text": "Bu galaktik harita yıldızların yerini gösteriyor.",
+   "translation": "This galactic map shows the positions of the stars."
+  }
+ ],
+ "erk": [
+  {
+   "text": "Bu evde asıl erk büyükannemde.",
+   "translation": "In this house the real authority lies with my grandmother."
+  },
+  {
+   "text": "Erk sahibi olmak büyük sorumluluk ister.",
+   "translation": "Having authority requires great responsibility."
+  }
+ ],
+ "doping": [
+  {
+   "text": "Sporcu doping testinden temiz çıktı.",
+   "translation": "The athlete came out clean from the doping test."
+  },
+  {
+   "text": "Spor yarışmalarında doping yasaktır.",
+   "translation": "Doping is forbidden in sports competitions."
+  }
+ ],
+ "tevazu": [
+  {
+   "text": "Çok başarılı olmasına rağmen tevazu sahibi biri.",
+   "translation": "Although he is very successful, he is a humble person."
+  }
+ ],
+ "eşofman": [
+  {
+   "text": "Evde her zaman eşofman giyerim.",
+   "translation": "I always wear a tracksuit at home."
+  },
+  {
+   "text": "Yeni eşofmanını nereden aldın?",
+   "translation": "Where did you buy your new tracksuit?"
+  }
+ ],
+ "ilelebet": [
+  {
+   "text": "Hiçbir şey ilelebet sürmez.",
+   "translation": "Nothing lasts forever."
+  },
+  {
+   "text": "Bu güzel günleri ilelebet unutmayacağım.",
+   "translation": "I will never forget these beautiful days."
+  }
+ ],
+ "makara": [
+  {
+   "text": "Annemin makaradaki ipliği bitti.",
+   "translation": "My mother ran out of thread on the spool."
+  }
+ ],
+ "toka": [
+  {
+   "text": "Kızım saçına yeni bir toka taktı.",
+   "translation": "My daughter put a new clip in her hair."
+  },
+  {
+   "text": "Çantamın tokası koptu, tamir edebilir misin?",
+   "translation": "The buckle of my bag came off, can you fix it?"
+  }
+ ],
+ "pelerin": [
+  {
+   "text": "Yağmur yağınca kırmızı pelerinimi giydim.",
+   "translation": "When it rained, I put on my red cape."
+  },
+  {
+   "text": "Çocuk pelerinle bahçede koşuyordu.",
+   "translation": "The child was running around the garden in a cape."
+  }
+ ],
+ "Ermenistan": [
+  {
+   "text": "Ermenistan dağlarıyla ünlü bir ülke.",
+   "translation": "Armenia is a country famous for its mountains."
+  },
+  {
+   "text": "Ermenistan haritada nerede?",
+   "translation": "Where is Armenia on the map?"
+  }
+ ],
+ "fiilen": [
+  {
+   "text": "Müdür gitti ama işi fiilen o yönetiyor.",
+   "translation": "The manager has left, but in practice he is the one running the work."
+  },
+  {
+   "text": "Kural var ama fiilen kimse uymuyor.",
+   "translation": "There is a rule, but in actual practice nobody follows it."
+  }
+ ],
+ "sarp": [
+  {
+   "text": "Sarp bir yokuştan çıkarken çok yorulduk.",
+   "translation": "We got very tired climbing a steep slope."
+  }
+ ],
+ "tüberküloz": [
+  {
+   "text": "Doktor tüberküloz için ona yeni bir ilaç verdi.",
+   "translation": "The doctor gave him a new medicine for tuberculosis."
+  }
+ ],
+ "masmavi": [
+  {
+   "text": "Bugün deniz masmavi görünüyor.",
+   "translation": "The sea looks deep blue today."
+  }
+ ],
+ "terhis": [
+  {
+   "text": "Ağabeyim gelecek ay terhis oluyor.",
+   "translation": "My older brother is being discharged from the military next month."
+  },
+  {
+   "text": "Terhis olduktan sonra yeni bir iş arayacak.",
+   "translation": "After he is discharged, he will look for a new job."
+  }
+ ],
+ "kolon": [
+  {
+   "text": "Eski binanın kolonları çok kalın.",
+   "translation": "The columns of the old building are very thick."
+  }
+ ],
+ "istişare": [
+  {
+   "text": "Uzun bir istişareden sonra karar verdik.",
+   "translation": "We decided after a long consultation."
+  },
+  {
+   "text": "Karar vermeden önce biraz istişare edelim mi?",
+   "translation": "Shall we consult each other a bit before deciding?"
+  }
+ ],
+ "Jamaika": [
+  {
+   "text": "Jamaika sıcak ve güneşli bir ada.",
+   "translation": "Jamaica is a warm and sunny island."
+  },
+  {
+   "text": "Jamaika müziğini çok severim.",
+   "translation": "I like Jamaican music a lot."
+  }
+ ],
+ "adaylık": [
+  {
+   "text": "Sınıf başkanlığı için adaylığını bugün açıkladı.",
+   "translation": "He announced his candidacy for class president today."
+  }
+ ],
+ "idealist": [
+  {
+   "text": "Babam idealist bir öğretmendi.",
+   "translation": "My father was an idealistic teacher."
+  }
+ ],
+ "taşeron": [
+  {
+   "text": "Şirket bu işi bir taşerona verdi.",
+   "translation": "The company gave this job to a subcontractor."
+  },
+  {
+   "text": "Taşeron firma binayı zamanında bitirdi.",
+   "translation": "The subcontracting firm finished the building on time."
+  }
+ ],
+ "ur": [
+  {
+   "text": "Doktor akciğerinde küçük bir ur gördü.",
+   "translation": "The doctor saw a small tumour in his lung."
+  },
+  {
+   "text": "Bu ur iyi huylu mu?",
+   "translation": "Is this tumour benign?"
+  }
+ ],
+ "mors": [
+  {
+   "text": "Mors soğuk denizlerde yaşayan büyük bir hayvandır.",
+   "translation": "The walrus is a big animal that lives in cold seas."
+  }
+ ],
+ "mazlum": [
+  {
+   "text": "Mazlum bir yüzle bana baktı.",
+   "translation": "He looked at me with a wronged, helpless face."
+  }
+ ],
+ "doçent": [
+  {
+   "text": "Doçent hocamız bugün sınav yapacak.",
+   "translation": "Our associate professor will give an exam today."
+  },
+  {
+   "text": "Annem geçen yıl üniversitede doçent oldu.",
+   "translation": "My mother became an associate professor at the university last year."
+  }
+ ],
+ "peyzaj": [
+  {
+   "text": "Bu parkın peyzajı gerçekten çok güzel.",
+   "translation": "The landscaping of this park is really beautiful."
+  },
+  {
+   "text": "Evin bahçesinin peyzajını bir uzman yaptı.",
+   "translation": "An expert did the landscaping of the house's garden."
+  }
+ ],
+ "bermuda": [
+  {
+   "text": "Yazın evde hep bermuda giyerim.",
+   "translation": "In summer I always wear Bermuda shorts at home."
+  },
+  {
+   "text": "Bu bermuda bana büyük geldi, daha küçüğü var mı?",
+   "translation": "These Bermuda shorts are too big for me, do you have a smaller pair?"
+  }
+ ],
+ "patoloji": [
+  {
+   "text": "Kız kardeşim tıpta patoloji bölümünü seçti.",
+   "translation": "My sister chose the pathology department in medicine."
+  },
+  {
+   "text": "Doktor örneği patoloji laboratuvarına gönderdi.",
+   "translation": "The doctor sent the sample to the pathology laboratory."
+  }
+ ],
+ "aşiret": [
+  {
+   "text": "Bu bölgede eskiden birçok aşiret yaşardı.",
+   "translation": "Many tribes used to live in this region."
+  },
+  {
+   "text": "Aşiret reisini köyde herkes tanırdı.",
+   "translation": "Everyone in the village knew the tribal chief."
+  }
+ ],
+ "çiğdem": [
+  {
+   "text": "İlkbaharda bahçede ilk çiğdemler açtı.",
+   "translation": "In spring the first crocuses bloomed in the garden."
+  }
+ ],
+ "Bolivya": [
+  {
+   "text": "Bolivyada çok yüksek dağlar var.",
+   "translation": "There are very high mountains in Bolivia."
+  },
+  {
+   "text": "Arkadaşım geçen yıl Bolivyaya seyahat etti.",
+   "translation": "My friend traveled to Bolivia last year."
+  }
+ ],
+ "bone": [
+  {
+   "text": "Havuza girmek için bone takmak gerekiyor.",
+   "translation": "You have to wear a swimming cap to get into the pool."
+  }
+ ],
+ "saz": [
+  {
+   "text": "Dedem akşamları saz çalar.",
+   "translation": "My grandfather plays the saz in the evenings."
+  }
+ ],
+ "zat": [
+  {
+   "text": "Kapıda sizi bekleyen bir zat var.",
+   "translation": "There is a gentleman waiting for you at the door."
+  },
+  {
+   "text": "Bu zatı daha önce hiç görmemiştim.",
+   "translation": "I had never seen this gentleman before."
+  }
+ ],
+ "yapıt": [
+  {
+   "text": "Bu roman yazarın en ünlü yapıtıdır.",
+   "translation": "This novel is the author's most famous work."
+  },
+  {
+   "text": "Müzede ünlü ressamların yapıtlarını gördük.",
+   "translation": "At the museum we saw the works of famous painters."
+  }
+ ],
+ "şarapnel": [
+  {
+   "text": "Müzede eski savaştan kalma bir şarapnel parçası gördük.",
+   "translation": "At the museum we saw a piece of shrapnel left over from an old war."
+  }
+ ],
+ "entrika": [
+  {
+   "text": "Bu dizide her bölümde yeni bir entrika dönüyor.",
+   "translation": "In this series a new intrigue unfolds in every episode."
+  }
+ ],
+ "asimile": [
+  {
+   "text": "Bu aile yeni ülkede tamamen asimile olmuş.",
+   "translation": "This family has become completely assimilated in the new country."
+  }
+ ],
+ "steril": [
+  {
+   "text": "Hemşire steril eldiven giydi.",
+   "translation": "The nurse put on sterile gloves."
+  },
+  {
+   "text": "Bu bandaj steril mi?",
+   "translation": "Is this bandage sterile?"
+  }
+ ],
+ "özerk": [
+  {
+   "text": "Bu bölge kendi içinde özerk bir yönetime sahip.",
+   "translation": "This region has an autonomous administration of its own."
+  },
+  {
+   "text": "Üniversitelerin özerk olması gerektiğini düşünüyorum.",
+   "translation": "I think universities should be autonomous."
+  }
+ ],
+ "vuku": [
+  {
+   "text": "Kaza dün gece şehrin girişinde vuku buldu.",
+   "translation": "The accident took place at the entrance of the city last night."
+  }
+ ],
+ "sedye": [
+  {
+   "text": "Sağlık görevlileri yaralıyı sedyeyle ambulansa taşıdı.",
+   "translation": "The paramedics carried the injured person to the ambulance on a stretcher."
+  },
+  {
+   "text": "Sedye nerede, çabuk getirin!",
+   "translation": "Where is the stretcher, bring it quickly!"
+  }
+ ],
+ "celp": [
+  {
+   "text": "Dün mahkemeden bana bir celp geldi.",
+   "translation": "Yesterday I received a summons from the court."
+  },
+  {
+   "text": "Celp kâğıdında duruşma tarihi yazıyor.",
+   "translation": "The date of the hearing is written on the summons."
+  }
+ ],
+ "vekâlet": [
+  {
+   "text": "Babam bana evi satmak için vekâlet verdi.",
+   "translation": "My father gave me power of attorney to sell the house."
+  },
+  {
+   "text": "Noterde vekâlet çıkarmak için hangi belgeler lazım?",
+   "translation": "Which documents are needed to get a power of attorney at the notary?"
+  }
+ ],
+ "loca": [
+  {
+   "text": "Tiyatroda locadan oyunu daha iyi izledik.",
+   "translation": "We watched the play better from the box at the theater."
+  },
+  {
+   "text": "Opera için bir loca ayırttık.",
+   "translation": "We reserved a box for the opera."
+  }
+ ],
+ "reyhan": [
+  {
+   "text": "Salataya biraz taze reyhan ekledim.",
+   "translation": "I added some fresh basil to the salad."
+  },
+  {
+   "text": "Balkonda reyhan yetiştiriyor musun?",
+   "translation": "Are you growing basil on the balcony?"
+  }
+ ],
+ "smaç": [
+  {
+   "text": "Takımın en iyi oyuncusu maçta harika bir smaç vurdu.",
+   "translation": "The team's best player hit a great spike in the match."
+  },
+  {
+   "text": "Smaç yapmak için çok yükseğe zıplamak gerekir.",
+   "translation": "You have to jump very high to do a slam dunk."
+  }
+ ],
+ "daracık": [
+  {
+   "text": "Daracık bir sokaktan geçip eve vardık.",
+   "translation": "We went through a very narrow street and reached the house."
+  },
+  {
+   "text": "Bu ayakkabı bana daracık geliyor.",
+   "translation": "These shoes feel very tight on me."
+  }
+ ],
+ "müessese": [
+  {
+   "text": "Bu müessese yıllardır şehirde hizmet veriyor.",
+   "translation": "This establishment has been serving in the city for years."
+  }
+ ],
+ "fazlalık": [
+  {
+   "text": "Bu çantada hiç fazlalık yok.",
+   "translation": "There is nothing extra in this bag."
+  },
+  {
+   "text": "Eşyalarımın fazlalıklarını arkadaşlara verdim.",
+   "translation": "I gave the surplus of my belongings to friends."
+  }
+ ],
+ "asalak": [
+  {
+   "text": "Kene, başka canlıların kanıyla beslenen bir asalaktır.",
+   "translation": "A tick is a parasite that feeds on the blood of other creatures."
+  }
+ ],
+ "bütünlük": [
+  {
+   "text": "Ülkenin bütünlüğü hepimiz için önemli.",
+   "translation": "The unity of the country is important for all of us."
+  },
+  {
+   "text": "Anlatımda bütünlük olmadığı için konuyu anlamadım.",
+   "translation": "Because the explanation lacked wholeness, I did not understand the subject."
+  }
+ ],
+ "girdap": [
+  {
+   "text": "Nehirdeki girdaba yaklaşmak çok tehlikeli.",
+   "translation": "It is very dangerous to get close to the whirlpool in the river."
+  }
+ ],
+ "dut": [
+  {
+   "text": "Çocuklar bahçedeki ağaçtan dut topladı.",
+   "translation": "The children picked mulberries from the tree in the garden."
+  }
+ ],
+ "pankart": [
+  {
+   "text": "Taraftarlar stadyumda büyük bir pankart açtı.",
+   "translation": "The fans unfurled a big banner in the stadium."
+  }
+ ],
+ "maceracı": [
+  {
+   "text": "Kardeşim çok maceracı biri, hep yeni yerler görmek ister.",
+   "translation": "My brother is very adventurous and always wants to see new places."
+  }
+ ],
+ "liyakat": [
+  {
+   "text": "İşe alımlar liyakate göre yapılmalı.",
+   "translation": "Hiring should be done according to merit."
+  },
+  {
+   "text": "Terfi liyakate göre mi veriliyor?",
+   "translation": "Are promotions given on the basis of merit?"
+  }
+ ],
+ "Makedonya": [
+  {
+   "text": "Makedonyaya trenle gitmek istiyorum.",
+   "translation": "I want to go to Macedonia by train."
+  }
+ ],
+ "yumak": [
+  {
+   "text": "Kedi yün yumağıyla oynuyor.",
+   "translation": "The cat is playing with the ball of wool."
+  },
+  {
+   "text": "Annem yumağı açıp kazak örmeye başladı.",
+   "translation": "My mother unwound the ball of yarn and started knitting a sweater."
+  }
+ ],
+ "misket": [
+  {
+   "text": "Çocuklar sokakta misket oynuyor.",
+   "translation": "The children are playing marbles in the street."
+  },
+  {
+   "text": "Cebimde renkli misketler vardı.",
+   "translation": "I had colorful marbles in my pocket."
+  }
+ ],
+ "nötron": [
+  {
+   "text": "Atomun çekirdeğinde proton ve nötron bulunur.",
+   "translation": "Protons and neutrons are found in the nucleus of an atom."
+  }
+ ],
+ "istikamet": [
+  {
+   "text": "Araba şehrin istikametinde hızla ilerliyordu.",
+   "translation": "The car was moving quickly in the direction of the city."
+  }
+ ],
+ "psikiyatr": [
+  {
+   "text": "Psikiyatra gitmek utanılacak bir şey değil.",
+   "translation": "Going to a psychiatrist is nothing to be ashamed of."
+  }
+ ],
+ "kama": [
+  {
+   "text": "Kapının altına küçük bir kama koydum.",
+   "translation": "I put a small wedge under the door."
+  },
+  {
+   "text": "Duvarda eski bir kama asılıydı.",
+   "translation": "An old dagger was hanging on the wall."
+  }
+ ],
+ "perakende": [
+  {
+   "text": "Bu mağaza hem toptan hem perakende satış yapıyor.",
+   "translation": "This store does both wholesale and retail sales."
+  }
+ ],
+ "dingil": [
+  {
+   "text": "Arabanın arka dingili kırılmış.",
+   "translation": "The rear axle of the car is broken."
+  }
+ ],
+ "yemyeşil": [
+  {
+   "text": "Bahar gelince bütün dağlar yemyeşil oluyor.",
+   "translation": "When spring comes, all the mountains turn lush green."
+  },
+  {
+   "text": "Bahçemizdeki çimenler yağmurdan sonra yemyeşil oldu.",
+   "translation": "The grass in our garden turned bright green after the rain."
+  }
+ ],
+ "adsız": [
+  {
+   "text": "Bu sabah adsız bir mektup aldım.",
+   "translation": "This morning I received a nameless letter."
+  }
+ ],
+ "literatür": [
+  {
+   "text": "Ödevim için konuyla ilgili literatürü okuyorum.",
+   "translation": "I am reading the literature on the subject for my assignment."
+  },
+  {
+   "text": "Bu konuda yeterli literatür var mı?",
+   "translation": "Is there enough literature on this subject?"
+  }
+ ],
+ "kalleş": [
+  {
+   "text": "Arkadaşım bana karşı çok kalleş davrandı.",
+   "translation": "My friend behaved very treacherously toward me."
+  },
+  {
+   "text": "Neden bu kadar kalleş bir plan yaptınız?",
+   "translation": "Why did you make such an underhanded plan?"
+  }
+ ],
+ "kanserli": [
+  {
+   "text": "Doktor kanserli hücreleri ekranda gösterdi.",
+   "translation": "The doctor showed the cancerous cells on the screen."
+  }
+ ],
+ "pelin": [
+  {
+   "text": "Pelin otu çok acıdır.",
+   "translation": "Wormwood is very bitter."
+  },
+  {
+   "text": "Dedem bahçesinde pelin yetiştiriyor.",
+   "translation": "My grandfather grows wormwood in his garden."
+  }
+ ],
+ "veyahut": [
+  {
+   "text": "Çay veyahut kahve içebilirsiniz.",
+   "translation": "You can have tea or coffee."
+  }
+ ],
+ "alımlı": [
+  {
+   "text": "Alımlı bir kadın kapıdan içeri girdi.",
+   "translation": "An attractive woman came in through the door."
+  }
+ ],
+ "şişkin": [
+  {
+   "text": "Ayağım şişkin ve çok ağrıyor.",
+   "translation": "My foot is swollen and hurts a lot."
+  }
+ ],
+ "Kamboçya": [
+  {
+   "text": "Kamboçya hangi kıtada yer alıyor?",
+   "translation": "On which continent is Cambodia located?"
+  },
+  {
+   "text": "Yaz tatilinde Kamboçyaya gitmek istiyorum.",
+   "translation": "I want to go to Cambodia on my summer vacation."
+  }
+ ],
+ "orgeneral": [
+  {
+   "text": "Orgeneral bugün askerlere bir konuşma yaptı.",
+   "translation": "The general gave a speech to the soldiers today."
+  },
+  {
+   "text": "Babam orgeneralle birlikte fotoğraf çektirdi.",
+   "translation": "My father had a photo taken with the general."
+  }
+ ],
+ "katsayı": [
+  {
+   "text": "Bu formülde katsayı ikidir.",
+   "translation": "In this formula the coefficient is two."
+  },
+  {
+   "text": "Katsayıyı nasıl hesaplayacağımızı öğrendik.",
+   "translation": "We learned how to calculate the coefficient."
+  }
+ ],
+ "küsur": [
+  {
+   "text": "Sınıfta yirmi küsur öğrenci var.",
+   "translation": "There are twenty-odd students in the class."
+  }
+ ],
+ "totem": [
+  {
+   "text": "Müzede çok büyük bir totem gördük.",
+   "translation": "We saw a very big totem at the museum."
+  }
+ ],
+ "müdürlük": [
+  {
+   "text": "Müdürlük okulun ikinci katında bulunuyor.",
+   "translation": "The principal's office is on the second floor of the school."
+  }
+ ],
+ "bej": [
+  {
+   "text": "Bej rengi ceketi çok beğendim.",
+   "translation": "I really liked the beige jacket."
+  },
+  {
+   "text": "Salonun duvarlarını bej yapalım mı?",
+   "translation": "Shall we paint the living room walls beige?"
+  }
+ ],
+ "sıklet": [
+  {
+   "text": "Genç boksör ağır sıklette şampiyon oldu.",
+   "translation": "The young boxer became champion in the heavyweight class."
+  },
+  {
+   "text": "Hangi sıklette dövüşüyorsun?",
+   "translation": "Which weight class do you fight in?"
+  }
+ ],
+ "bent": [
+  {
+   "text": "Bu bent şehrin bütün suyunu depoluyor.",
+   "translation": "This dam stores all of the city water."
+  },
+  {
+   "text": "Sözleşmenin ikinci bendini tekrar okuyalım.",
+   "translation": "Let us read the second clause of the contract again."
+  }
+ ],
+ "testosteron": [
+  {
+   "text": "Doktor kanımdaki testosteron seviyesine baktı.",
+   "translation": "The doctor checked the testosterone level in my blood."
+  }
+ ],
+ "tüzel": [
+  {
+   "text": "Şirketler tüzel kişi sayılır.",
+   "translation": "Companies are considered legal entities."
+  },
+  {
+   "text": "Tüzel kişiler de vergi öder.",
+   "translation": "Legal entities also pay taxes."
+  }
+ ],
+ "mutsuzluk": [
+  {
+   "text": "Mutsuzluğunun nedenini hâlâ bilmiyorum.",
+   "translation": "I still do not know the reason for your unhappiness."
+  }
+ ],
+ "avare": [
+  {
+   "text": "Parkta avare bir adam bankta oturuyordu.",
+   "translation": "An idle man was sitting on a bench in the park."
+  },
+  {
+   "text": "Bütün gün avare avare sokaklarda dolaştık.",
+   "translation": "We wandered aimlessly through the streets all day."
+  }
+ ],
+ "gaye": [
+  {
+   "text": "Hayattaki tek gayem ailemi mutlu etmek.",
+   "translation": "My only goal in life is to make my family happy."
+  }
+ ],
+ "defin": [
+  {
+   "text": "Defin töreni yarın sabah yapılacak.",
+   "translation": "The burial ceremony will be held tomorrow morning."
+  },
+  {
+   "text": "Defin için bütün akrabalar köye geldi.",
+   "translation": "All the relatives came to the village for the burial."
+  }
+ ],
+ "leğen": [
+  {
+   "text": "Annem çamaşırları büyük bir leğende yıkadı.",
+   "translation": "My mother washed the laundry in a big basin."
+  }
+ ],
+ "şizofren": [
+  {
+   "text": "Doktor şizofren hastalarla çalışıyor.",
+   "translation": "The doctor works with schizophrenic patients."
+  }
+ ],
+ "sarmal": [
+  {
+   "text": "Kulenin içinde dar bir sarmal merdiven var.",
+   "translation": "There is a narrow spiral staircase inside the tower."
+  }
+ ],
+ "rakı": [
+  {
+   "text": "Babam yemekte bir kadeh rakı içer.",
+   "translation": "My father has a glass of raki with dinner."
+  }
+ ],
+ "duygusallık": [
+  {
+   "text": "Bu filmdeki duygusallık beni biraz yordu.",
+   "translation": "The sentimentality in this movie tired me a little."
+  },
+  {
+   "text": "Duygusallık bazen insanı zayıf gösterir mi?",
+   "translation": "Does sentimentality sometimes make a person look weak?"
+  }
+ ],
+ "menemen": [
+  {
+   "text": "Pazar kahvaltısında hep menemen yeriz.",
+   "translation": "We always eat menemen for Sunday breakfast."
+  },
+  {
+   "text": "Menemene biraz daha biber koyar mısın?",
+   "translation": "Could you put a little more pepper in the menemen?"
+  }
+ ],
+ "katran": [
+  {
+   "text": "Yol yapımında çok miktarda katran kullanılır.",
+   "translation": "A large amount of tar is used in road building."
+  },
+  {
+   "text": "Elim katrana bulaştı, çıkmıyor.",
+   "translation": "My hand got covered in tar and it will not come off."
+  }
+ ],
+ "oğlak": [
+  {
+   "text": "Çiftlikte yeni doğmuş küçük bir oğlak gördük.",
+   "translation": "At the farm we saw a newborn little kid goat."
+  }
+ ],
+ "çöküntü": [
+  {
+   "text": "Yolda yağmurdan sonra büyük bir çöküntü oluştu.",
+   "translation": "A big sinkhole formed in the road after the rain."
+  },
+  {
+   "text": "Kışın birçok insan çöküntü yaşar.",
+   "translation": "Many people go through a low mood in winter."
+  }
+ ],
+ "inziva": [
+  {
+   "text": "Yazar kitabını yazmak için dağda inzivaya çekildi.",
+   "translation": "The author withdrew into seclusion in the mountains to write his book."
+  },
+  {
+   "text": "Bazen biraz inzivaya ihtiyacım oluyor.",
+   "translation": "Sometimes I need a little solitude."
+  }
+ ],
+ "canlılık": [
+  {
+   "text": "Çocukların yüzünde büyük bir canlılık vardı.",
+   "translation": "There was great liveliness on the faces of the children."
+  }
+ ],
+ "entegrasyon": [
+  {
+   "text": "Yeni sistemin entegrasyonu üç ay sürdü.",
+   "translation": "The integration of the new system took three months."
+  },
+  {
+   "text": "Bu iki programın entegrasyonu zor mu?",
+   "translation": "Is the integration of these two programs difficult?"
+  }
+ ],
+ "sempozyum": [
+  {
+   "text": "Üniversitede bu hafta bir sempozyum var.",
+   "translation": "There is a symposium at the university this week."
+  },
+  {
+   "text": "Sempozyuma katılmak için kayıt olmam gerekiyor mu?",
+   "translation": "Do I need to register to attend the symposium?"
+  }
+ ],
+ "müzayede": [
+  {
+   "text": "Eski tablo müzayedede çok pahalıya satıldı.",
+   "translation": "The old painting was sold for a lot of money at the auction."
+  },
+  {
+   "text": "Babam müzayededen eski bir saat aldı.",
+   "translation": "My father bought an old watch at an auction."
+  }
+ ],
+ "paradoks": [
+  {
+   "text": "Bu durum tam bir paradoks.",
+   "translation": "This situation is a real paradox."
+  },
+  {
+   "text": "Bu paradoksu kimse açıklayamadı.",
+   "translation": "Nobody could explain this paradox."
+  }
+ ],
+ "telekomünikasyon": [
+  {
+   "text": "Abim bir telekomünikasyon şirketinde çalışıyor.",
+   "translation": "My older brother works at a telecommunications company."
+  },
+  {
+   "text": "Telekomünikasyon sektörü çok hızlı gelişiyor.",
+   "translation": "The telecommunications sector is developing very fast."
+  }
+ ],
+ "kapkara": [
+  {
+   "text": "Gökyüzü bir anda kapkara bulutlarla doldu.",
+   "translation": "The sky suddenly filled with pitch-black clouds."
+  }
+ ],
+ "kansız": [
+  {
+   "text": "Kızın yüzü kansız ve solgundu.",
+   "translation": "The face of the girl was bloodless and pale."
+  },
+  {
+   "text": "Neden bu kadar kansız görünüyorsun, hasta mısın?",
+   "translation": "Why do you look so bloodless, are you sick?"
+  }
+ ],
+ "masör": [
+  {
+   "text": "Masör omzuma uzun süre masaj yaptı.",
+   "translation": "The masseur massaged my shoulder for a long time."
+  },
+  {
+   "text": "Sırtım ağrıyor, iyi bir masör tanıyor musun?",
+   "translation": "My back hurts, do you know a good masseur?"
+  }
+ ],
+ "kolonya": [
+  {
+   "text": "Annem misafirlere kolonya ikram etti.",
+   "translation": "My mother offered cologne to the guests."
+  },
+  {
+   "text": "Ellerime biraz kolonya döker misin?",
+   "translation": "Could you pour some cologne on my hands?"
+  }
+ ],
+ "özerklik": [
+  {
+   "text": "Gençler büyüdükçe daha fazla özerklik ister.",
+   "translation": "As young people grow up, they want more autonomy."
+  }
+ ],
+ "jeton": [
+  {
+   "text": "Çamaşır makinesi için bir jetona ihtiyacım var.",
+   "translation": "I need a token for the washing machine."
+  }
+ ],
+ "görünmezlik": [
+  {
+   "text": "Her çocuk bir gün görünmezlik gücü ister.",
+   "translation": "Every child wants the power of invisibility one day."
+  },
+  {
+   "text": "Filmdeki büyücü görünmezlik gücüne sahipti.",
+   "translation": "The wizard in the film had the power of invisibility."
+  }
+ ],
+ "kolektif": [
+  {
+   "text": "Bu proje kolektif bir çalışmanın sonucu.",
+   "translation": "This project is the result of collective work."
+  },
+  {
+   "text": "Kolektif karar vermek bazen çok zaman alır.",
+   "translation": "Making collective decisions sometimes takes a lot of time."
+  }
+ ],
+ "dayanışmak": [
+  {
+   "text": "Komşular zor günlerde birbirleriyle dayanışıyor.",
+   "translation": "The neighbors support one another in hard times."
+  },
+  {
+   "text": "Böyle zamanlarda dayanışmak çok önemlidir.",
+   "translation": "It is very important to show solidarity at times like this."
+  }
+ ],
+ "iftihar": [
+  {
+   "text": "Başarınla iftihar ediyoruz.",
+   "translation": "We are proud of your success."
+  }
+ ],
+ "sac": [
+  {
+   "text": "Annem sacda taze ekmek pişirdi.",
+   "translation": "My mother baked fresh bread on the griddle."
+  },
+  {
+   "text": "Usta kalın bir sac parçasını kesti.",
+   "translation": "The craftsman cut a thick piece of sheet metal."
+  }
+ ],
+ "kürdan": [
+  {
+   "text": "Garson masaya bir kutu kürdan koydu.",
+   "translation": "The waiter put a box of toothpicks on the table."
+  }
+ ],
+ "saplı": [
+  {
+   "text": "Uzun saplı bir tencere almak istiyorum.",
+   "translation": "I want to buy a pot with a long handle."
+  }
+ ],
+ "epik": [
+  {
+   "text": "Bu film çok epik bir macerayı anlatıyor.",
+   "translation": "This film tells a very epic adventure."
+  }
+ ],
+ "dalak": [
+  {
+   "text": "Doktor dalağımın biraz büyük olduğunu söyledi.",
+   "translation": "The doctor said my spleen is a little enlarged."
+  }
+ ],
+ "türemek": [
+  {
+   "text": "Yağmurdan sonra bahçede bir sürü ot türedi.",
+   "translation": "After the rain, a lot of weeds sprang up in the garden."
+  }
+ ],
+ "levrek": [
+  {
+   "text": "Akşam yemeğinde ızgara levrek yedik.",
+   "translation": "We ate grilled sea bass for dinner."
+  },
+  {
+   "text": "Balıkçıdan iki levrek alabilir miyim?",
+   "translation": "Can I buy two sea bass from the fishmonger?"
+  }
+ ],
+ "Madagaskar": [
+  {
+   "text": "Madagaskar çok büyük bir ada.",
+   "translation": "Madagascar is a very big island."
+  },
+  {
+   "text": "Dün akşam Madagaskar hakkında bir belgesel izledik.",
+   "translation": "Last night we watched a documentary about Madagascar."
+  }
+ ],
+ "baklava": [
+  {
+   "text": "Misafirler için fıstıklı baklava aldık.",
+   "translation": "We bought pistachio baklava for the guests."
+  }
+ ],
+ "yetkisiz": [
+  {
+   "text": "Yetkisiz kişilerin içeri girmesi yasaktır.",
+   "translation": "Unauthorized people are not allowed to enter."
+  },
+  {
+   "text": "Yetkisiz biri şifremi kullanmış.",
+   "translation": "An unauthorized person has used my password."
+  }
+ ],
+ "şuur": [
+  {
+   "text": "Kazadan sonra bir süre şuurunu kaybetti.",
+   "translation": "After the accident, he lost consciousness for a while."
+  }
+ ],
+ "itimat": [
+  {
+   "text": "Arkadaşıma çok itimat ediyorum.",
+   "translation": "I trust my friend a lot."
+  }
+ ],
+ "meram": [
+  {
+   "text": "Meramımı ona anlatmaya çalıştım ama dinlemedi.",
+   "translation": "I tried to explain my intention to him, but he did not listen."
+  }
+ ],
+ "anlatıcı": [
+  {
+   "text": "Filmin anlatıcısı yaşlı bir balıkçı.",
+   "translation": "The narrator of the film is an old fisherman."
+  }
+ ],
+ "arabalı": [
+  {
+   "text": "Arabalı arkadaşım bizi eve bıraktı.",
+   "translation": "My friend who has a car dropped us off at home."
+  },
+  {
+   "text": "Aramızda arabalı biri var mı?",
+   "translation": "Is there anyone with a car among us?"
+  }
+ ],
+ "yalı": [
+  {
+   "text": "Boğaz kıyısında eski bir yalı gördük.",
+   "translation": "We saw an old waterside mansion on the Bosphorus shore."
+  },
+  {
+   "text": "Dedemin bir arkadaşı denize kıyı bir yalıda yaşıyor.",
+   "translation": "A friend of my grandfather lives in a waterside mansion by the sea."
+  }
+ ],
+ "şalgam": [
+  {
+   "text": "Annem çorbaya biraz şalgam koydu.",
+   "translation": "My mother put some turnip in the soup."
+  },
+  {
+   "text": "Şalgam sevmem, havuç tercih ederim.",
+   "translation": "I do not like turnip, I prefer carrots."
+  }
+ ],
+ "sedef": [
+  {
+   "text": "Bu kutunun üstünde küçük sedef parçaları var.",
+   "translation": "There are small pieces of mother-of-pearl on top of this box."
+  },
+  {
+   "text": "Sedef güzel parlıyor, değil mi?",
+   "translation": "The mother-of-pearl shines beautifully, does it not?"
+  }
+ ],
+ "kemikli": [
+  {
+   "text": "Kemikli et yemeyi pek sevmem.",
+   "translation": "I do not really like eating meat with bones."
+  },
+  {
+   "text": "Bu balık çok kemikli, dikkatli ye.",
+   "translation": "This fish is very bony, eat carefully."
+  }
+ ],
+ "yüzbinlerce": [
+  {
+   "text": "Her yıl yüzbinlerce turist bu şehri ziyaret ediyor.",
+   "translation": "Hundreds of thousands of tourists visit this city every year."
+  },
+  {
+   "text": "Bu videoyu yüzbinlerce kişi izledi mi?",
+   "translation": "Did hundreds of thousands of people watch this video?"
+  }
+ ],
+ "dok": [
+  {
+   "text": "Gemiler dokta yük boşaltıyor.",
+   "translation": "The ships are unloading cargo at the dock."
+  },
+  {
+   "text": "Tamir için gemiyi doka çektiler.",
+   "translation": "They pulled the ship into the dock for repairs."
+  }
+ ],
+ "döşek": [
+  {
+   "text": "Çocuk için yere yumuşak bir döşek serdim.",
+   "translation": "I laid a soft mattress on the floor for the child."
+  }
+ ],
+ "servi": [
+  {
+   "text": "Bahçemizde yüksek bir servi ağacı var.",
+   "translation": "There is a tall cypress tree in our garden."
+  },
+  {
+   "text": "Servi ağaçları bütün yıl yeşil kalır, değil mi?",
+   "translation": "Cypress trees stay green all year, do not they?"
+  }
+ ],
+ "özverili": [
+  {
+   "text": "Annem çocukları için çok özverili bir insandır.",
+   "translation": "My mother is a very selfless person for her children."
+  }
+ ],
+ "kadavra": [
+  {
+   "text": "Tıp öğrencileri derslerde kadavra üzerinde çalışır.",
+   "translation": "Medical students work on a cadaver in their classes."
+  },
+  {
+   "text": "Veteriner, hayvanın kadavrasını dikkatle inceledi.",
+   "translation": "The vet carefully examined the carcass of the animal."
+  }
+ ],
+ "imtiyaz": [
+  {
+   "text": "Okulumuzda hiçbir öğrenciye özel imtiyaz tanınmaz.",
+   "translation": "In our school, no student is given special privileges."
+  }
+ ],
+ "bayındır": [
+  {
+   "text": "Burası eskiden çok bayındır bir köydü.",
+   "translation": "This used to be a very prosperous village."
+  },
+  {
+   "text": "Bu bölge neden bu kadar bayındır?",
+   "translation": "Why is this region so developed?"
+  }
+ ],
+ "muhtelif": [
+  {
+   "text": "Mağazada muhtelif renklerde ayakkabılar satılıyor.",
+   "translation": "The store sells shoes in various colors."
+  },
+  {
+   "text": "Dolapta muhtelif boyutlarda kutular vardı.",
+   "translation": "There were boxes of various sizes in the closet."
+  }
+ ],
+ "mühlet": [
+  {
+   "text": "Borcu ödemek için bize bir ay mühlet verdiler.",
+   "translation": "They gave us a one-month grace period to pay the debt."
+  }
+ ],
+ "kuram": [
+  {
+   "text": "Bu kuram bilim dünyasında çok tartışıldı.",
+   "translation": "This theory was much debated in the scientific world."
+  }
+ ],
+ "konsolosluk": [
+  {
+   "text": "Vize için yarın konsolosluğa gitmem gerekiyor.",
+   "translation": "I need to go to the consulate tomorrow for a visa."
+  }
+ ],
+ "serpilmek": [
+  {
+   "text": "Çocuk iki yılda serpilip büyüdü.",
+   "translation": "The child grew and flourished in two years."
+  }
+ ],
+ "aort": [
+  {
+   "text": "Aort, kalpten çıkan en büyük damardır.",
+   "translation": "The aorta is the biggest vessel leaving the heart."
+  },
+  {
+   "text": "Doktor aort damarını ultrasonla kontrol etti.",
+   "translation": "The doctor checked the aorta with an ultrasound."
+  }
+ ],
+ "matem": [
+  {
+   "text": "Aile, babanın ölümünden sonra uzun süre matem tuttu.",
+   "translation": "The family mourned for a long time after the death of the father."
+  }
+ ],
+ "verimlilik": [
+  {
+   "text": "Yeni program işimizin verimliliğini çok artırdı.",
+   "translation": "The new program greatly increased the efficiency of our work."
+  }
+ ],
+ "kaypak": [
+  {
+   "text": "Yağmurdan sonra yol çok kaypak olmuş.",
+   "translation": "The road has become very slippery after the rain."
+  },
+  {
+   "text": "Ona güvenme, çok kaypak bir adam.",
+   "translation": "Do not trust him, he is a very fickle man."
+  }
+ ],
+ "periyot": [
+  {
+   "text": "Dersler kırk dakikalık periyotlara bölünüyor.",
+   "translation": "The lessons are divided into forty-minute periods."
+  },
+  {
+   "text": "Her periyodun sonunda kısa bir mola veriyoruz.",
+   "translation": "We take a short break at the end of each period."
+  }
+ ],
+ "ağıt": [
+  {
+   "text": "Yaşlı kadın kaybettiği oğlu için bir ağıt yaktı.",
+   "translation": "The old woman sang a lament for the son she lost."
+  }
+ ],
+ "sevdalı": [
+  {
+   "text": "Genç adam komşunun kızına sevdalıydı.",
+   "translation": "The young man was in love with the daughter of the neighbor."
+  },
+  {
+   "text": "Sevdalı bir kalple bu şarkıyı söyledi.",
+   "translation": "He sang this song with a heart full of love."
+  }
+ ],
+ "tüzük": [
+  {
+   "text": "Kulübün tüzüğünü dikkatlice okudum.",
+   "translation": "I read the bylaws of the club carefully."
+  }
+ ],
+ "bebeklik": [
+  {
+   "text": "Kızım bebekliğinde çok az uyurdu.",
+   "translation": "My daughter slept very little in her infancy."
+  }
+ ],
+ "figüran": [
+  {
+   "text": "Kardeşim bir filmde figüran olarak oynadı.",
+   "translation": "My sibling played as an extra in a film."
+  },
+  {
+   "text": "Bu dizide kaç figüran çalışıyor?",
+   "translation": "How many extras work in this series?"
+  }
+ ],
+ "köhne": [
+  {
+   "text": "Sokağın başında eski, köhne bir bina duruyor.",
+   "translation": "There is an old, run-down building at the end of the street."
+  }
+ ],
+ "yarışçı": [
+  {
+   "text": "Genç yarışçı yarışı birinci bitirdi.",
+   "translation": "The young racer finished the race in first place."
+  }
+ ],
+ "selamet": [
+  {
+   "text": "Çocuklar okuldan eve selametle döndü.",
+   "translation": "The children returned home from school safely."
+  },
+  {
+   "text": "Herkesin selameti için kurallara uyalım.",
+   "translation": "Let us follow the rules for the safety of everyone."
+  }
+ ],
+ "hisar": [
+  {
+   "text": "Tepedeki eski hisar bütün şehri gözetliyor.",
+   "translation": "The old fortress on the hill overlooks the whole city."
+  }
+ ],
+ "beyanname": [
+  {
+   "text": "Vergi beyannamesini yarın vereceğim.",
+   "translation": "I will submit my tax return tomorrow."
+  },
+  {
+   "text": "Gümrükte beyanname doldurmam gerekiyor mu?",
+   "translation": "Do I need to fill out a declaration at customs?"
+  }
+ ],
+ "âlim": [
+  {
+   "text": "Bu şehirde yetişmiş büyük bir âlim vardı.",
+   "translation": "There was a great scholar who grew up in this city."
+  }
+ ],
+ "dershane": [
+  {
+   "text": "Kardeşim akşamları dershaneye gidiyor.",
+   "translation": "My sibling goes to the cram school in the evenings."
+  }
+ ],
+ "külçe": [
+  {
+   "text": "Madenci dağda bir külçe altın buldu.",
+   "translation": "The miner found a gold ingot in the mountain."
+  }
+ ],
+ "aşure": [
+  {
+   "text": "Annem bugün komşulara aşure dağıttı.",
+   "translation": "My mother handed out ashure to the neighbors today."
+  },
+  {
+   "text": "Aşureye hangi meyveleri koyuyorsun?",
+   "translation": "Which fruits do you put in the ashure?"
+  }
+ ],
+ "Fas": [
+  {
+   "text": "Yazın Fas için uçak bileti almak istiyorum.",
+   "translation": "I want to buy a plane ticket to Morocco for the summer."
+  }
+ ],
+ "Nijerya": [
+  {
+   "text": "Arkadaşım gelecek yıl Nijeryaya gidecek.",
+   "translation": "My friend will go to Nigeria next year."
+  }
+ ],
+ "Ürdün": [
+  {
+   "text": "Geçen yıl ailemle Ürdüne uçakla gittik.",
+   "translation": "Last year I flew to Jordan with my family."
+  }
+ ],
+ "Gürcistan": [
+  {
+   "text": "Gelecek yaz Gürcistana gitmek istiyoruz.",
+   "translation": "We want to go to Georgia next summer."
+  }
+ ]
+}

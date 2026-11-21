@@ -1,0 +1,147 @@
+"""Units 3 and 4: places and weather, the city and the family. Level 2."""
+
+PASSAGES = [
+    dict(
+        id='ar_r007', pair='ar_47', level=2, kind='text', mode='read',
+        title='A weather report', ar_title='نَشْرَة الطَّقْس',
+        names=['الْقَاهِرَة', 'الْإِسْكَنْدَرِيَّة'],
+        lines=[
+            (None, 'الْيَوْم الطَّقْس حَارّ فِي الْقَاهِرَة.', 'Today the weather is hot in Cairo.'),
+            (None, 'الشَّمْس قَوِيَّة وَلَا مَطَر.', 'The sun is strong and there is no rain.'),
+            (None, 'فِي الْإِسْكَنْدَرِيَّة الطَّقْس أَبْرَد.', 'In Alexandria the weather is cooler.'),
+            (None, 'وَفِي الْجَنُوب الطَّقْس جَمِيل وَحَارّ.', 'And in the south the weather is nice and hot.'),
+            (None, 'غَدًا يَنْزِل الْمَطَر فِي الشَّمَال.', 'Tomorrow rain will fall in the north.'),
+        ],
+        questions=[
+            ('Where is the weather cooler than in Cairo?', ['In the south', 'In Alexandria', 'In Aswan', 'In Luxor'], 1, '“فِي الْإِسْكَنْدَرِيَّة الطَّقْس أَبْرَد.”'),
+            ('What will happen tomorrow in the north?', ['Rain', 'Snow', 'Strong sun', 'Nothing'], 0, '“غَدًا يَنْزِل الْمَطَر فِي الشَّمَال.”'),
+            ('How is the weather in the south?', ['Cold', 'Rainy', 'Nice and hot', 'Cloudy'], 2, '“جَمِيل وَحَارّ.”'),
+        ],
+    ),
+    dict(
+        id='ar_r008', pair='ar_48', level=2, kind='dialogue', mode='listen',
+        title='A call to London', ar_title='مُكَالَمَة مِنْ لَنْدَن',
+        names=['خَالِد', 'سَارَة', 'لَنْدَن', 'الْقَاهِرَة'],
+        lines=[
+            ('خَالِد', 'أَهْلًا يَا سَارَة، أَيْنَ أَنْتِ الْآن؟', 'Hello, Sara, where are you now?'),
+            ('سَارَة', 'أَنَا فِي لَنْدَن. الطَّقْس هُنَا بَارِد جِدًّا.', 'I am in London. The weather here is very cold.'),
+            ('خَالِد', 'هَلْ هُنَاكَ مَطَر؟', 'Is there rain there?'),
+            ('سَارَة', 'نَعَم، كُلّ يَوْم. لَا أُحِبّ الشِّتَاء هُنَا.', 'Yes, every day. I do not like the winter here.'),
+            ('خَالِد', 'فِي الْقَاهِرَة الْجَوّ حَارّ. أَنَا أُحِبّ الصَّيْف.', 'In Cairo the weather is hot. I like the summer.'),
+            ('سَارَة', 'سَأَعُود إِلَى الْقَاهِرَة بَعْد شَهْر.', 'I will return to Cairo in a month.'),
+        ],
+        questions=[
+            ('Where is Sara?', ['In Cairo', 'In London', 'In Amman', 'In Rabat'], 1, '“أَنَا فِي لَنْدَن.”'),
+            ('How is the weather where Sara is?', ['Hot', 'Very cold', 'Nice', 'Windy'], 1, '“بَارِد جِدًّا.”'),
+            ('Which season does Khalid like?', ['Winter', 'Spring', 'Summer', 'Autumn'], 2, '“أَنَا أُحِبّ الصَّيْف.”'),
+            ('When will Sara come back?', ['Tomorrow', 'In a week', 'In a month', 'In a year'], 2, '“بَعْد شَهْر.”'),
+        ],
+    ),
+    dict(
+        id='ar_r009', pair='ar_37', level=2, kind='text', mode='read',
+        title='Capitals', ar_title='الْعَوَاصِم',
+        names=['الْقَاهِرَة', 'الرِّيَاض', 'الرِّبَاط', 'عَمَّان', 'بَغْدَاد', 'دِمَشْق'],
+        lines=[
+            (None, 'الْقَاهِرَة هِيَ عَاصِمَة مِصْر.', 'Cairo is the capital of Egypt.'),
+            (None, 'الرِّيَاض هِيَ عَاصِمَة السُّعُودِيَّة.', 'Riyadh is the capital of Saudi Arabia.'),
+            (None, 'وَعَاصِمَة الْمَغْرِب هِيَ الرِّبَاط.', 'And the capital of Morocco is Rabat.'),
+            (None, 'وَعَاصِمَة الْأُرْدُنّ هِيَ عَمَّان.', 'And the capital of Jordan is Amman.'),
+            (None, 'بَغْدَاد عَاصِمَة الْعِرَاق، وَدِمَشْق عَاصِمَة سُورِيَا.', 'Baghdad is the capital of Iraq, and Damascus is the capital of Syria.'),
+        ],
+        questions=[
+            ('What is the capital of Morocco?', ['Riyadh', 'Cairo', 'Rabat', 'Amman'], 2, '“عَاصِمَة الْمَغْرِب هِيَ الرِّبَاط.”'),
+            ('Which city is the capital of Jordan?', ['Amman', 'Baghdad', 'Damascus', 'Rabat'], 0, '“عَاصِمَة الْأُرْدُنّ هِيَ عَمَّان.”'),
+            ('Of which country is Damascus the capital?', ['Iraq', 'Egypt', 'Syria', 'Saudi Arabia'], 2, '“دِمَشْق عَاصِمَة سُورِيَا.”'),
+        ],
+    ),
+    dict(
+        id='ar_r010', pair='ar_33', level=2, kind='dialogue', mode='listen',
+        title='A geography quiz', ar_title='مُسَابَقَة جُغْرَافِيَا',
+        names=['سَامِي', 'الْقَاهِرَة', 'النِّيل', 'الْبَحْر الْأَحْمَر'],
+        lines=[
+            ('الْمُعَلِّمَة', 'هَلْ الْقَاهِرَة فِي الْأُرْدُنّ؟', 'Is Cairo in Jordan?'),
+            ('سَامِي', 'لَا، الْقَاهِرَة فِي مِصْر.', 'No, Cairo is in Egypt.'),
+            ('الْمُعَلِّمَة', 'جَيِّد. هَلْ النِّيل نَهْر أَوْ بَحْر؟', 'Good. Is the Nile a river or a sea?'),
+            ('سَامِي', 'النِّيل نَهْر كَبِير.', 'The Nile is a big river.'),
+            ('الْمُعَلِّمَة', 'مُمْتَاز! وَالْبَحْر الْأَحْمَر، هَلْ هُوَ فِي الْغَرْب؟', 'Excellent! And the Red Sea, is it in the west?'),
+            ('سَامِي', 'لَا، هُوَ فِي الشَّرْق.', 'No, it is in the east.'),
+        ],
+        extra={'مُمْتَاز': 'excellent'},
+        questions=[
+            ('Where is Cairo, according to Sami?', ['In Jordan', 'In Egypt', 'In Iraq', 'In Syria'], 1, '“الْقَاهِرَة فِي مِصْر.”'),
+            ('What is the Nile?', ['A sea', 'A small lake', 'A big river', 'A mountain'], 2, '“النِّيل نَهْر كَبِير.”'),
+            ('Where is the Red Sea, according to Sami?', ['In the west', 'In the east', 'In the north', 'In the south'], 1, '“هُوَ فِي الشَّرْق.”'),
+        ],
+    ),
+    dict(
+        id='ar_r011', pair='ar_63', level=2, kind='text', mode='read',
+        title='My city', ar_title='مَدِينَتِي',
+        lines=[
+            (None, 'أَنَا أَسْكُن فِي مَدِينَة صَغِيرَة.', 'I live in a small city.'),
+            (None, 'فِي الْمَدِينَة مَسْجِد كَبِير وَمَكْتَبَة جَدِيدَة.', 'In the city there is a big mosque and a new library.'),
+            (None, 'بَيْتِي قَرِيب مِنَ الْحَدِيقَة.', 'My house is near the park.'),
+            (None, 'الْمَدْرَسَة بَعِيدَة، لَكِنَّ السُّوق قَرِيب.', 'The school is far, but the market is near.'),
+            (None, 'أُحِبّ مَدِينَتِي لِأَنَّهَا هَادِئَة.', 'I love my city because it is quiet.'),
+        ],
+        extra={'هَادِئَة': 'quiet, calm'},
+        questions=[
+            ('What kind of city does the writer live in?', ['A big city', 'A small city', 'A new city', 'A cold city'], 1, '“مَدِينَة صَغِيرَة.”'),
+            ('What is near the writer’s house?', ['The park', 'The school', 'The airport', 'The bank'], 0, '“بَيْتِي قَرِيب مِنَ الْحَدِيقَة.”'),
+            ('Why does the writer love the city?', ['It is big', 'It is quiet', 'It is hot', 'It is old'], 1, '“لِأَنَّهَا هَادِئَة.”'),
+        ],
+    ),
+    dict(
+        id='ar_r012', pair='ar_58', level=2, kind='dialogue', mode='listen',
+        title='A family photo', ar_title='صُورَة الْعَائِلَة',
+        names=['لَيْلَى', 'سَارَة', 'عُمَر'],
+        lines=[
+            ('سَارَة', 'مَنْ هَذَا فِي الصُّورَة يَا لَيْلَى؟', 'Who is this in the photo, Layla?'),
+            ('لَيْلَى', 'هَذَا أَبِي، وَهَذِهِ أُمِّي.', 'This is my father, and this is my mother.'),
+            ('سَارَة', 'وَمَنْ هَذَا الْوَلَد؟', 'And who is this boy?'),
+            ('لَيْلَى', 'هُوَ أَخِي الصَّغِير. اِسْمُهُ عُمَر.', 'He is my little brother. His name is Omar.'),
+            ('سَارَة', 'هَلْ عَائِلَتُك كَبِيرَة؟', 'Is your family big?'),
+            ('لَيْلَى', 'نَعَم، عِنْدِي ثَلَاث أَخَوَات وَأَخ وَاحِد.', 'Yes, I have three sisters and one brother.'),
+        ],
+        hints={'أَخَوَات': 'أخت'},
+        questions=[
+            ('Who is Omar?', ['Layla’s father', 'Layla’s little brother', 'Sara’s brother', 'Layla’s friend'], 1, '“هُوَ أَخِي الصَّغِير. اِسْمُهُ عُمَر.”'),
+            ('What does Sara ask first?', ['Who is in the photo', 'Where is the house', 'What is Omar’s job', 'How old is Layla'], 0, '“مَنْ هَذَا فِي الصُّورَة؟”'),
+            ('How many sisters does Layla have?', ['One', 'Two', 'Three', 'Four'], 2, '“ثَلَاث أَخَوَات.”'),
+        ],
+    ),
+    dict(
+        id='ar_r013', pair='ar_61', level=2, kind='text', mode='read',
+        title='My family’s jobs', ar_title='أَعْمَال عَائِلَتِي',
+        lines=[
+            (None, 'أَبِي طَبِيب فِي مُسْتَشْفَى كَبِير.', 'My father is a doctor in a big hospital.'),
+            (None, 'أُمِّي مُدَرِّسَة فِي مَدْرَسَة قَرِيبَة مِنْ بَيْتِنَا.', 'My mother is a teacher in a school near our house.'),
+            (None, 'أُخْتِي الْكَبِيرَة طَالِبَة فِي الْجَامِعَة.', 'My big sister is a student at the university.'),
+            (None, 'وَأَخِي الصَّغِير يَلْعَب فِي الْحَدِيقَة.', 'And my little brother plays in the park.'),
+            (None, 'كُلّ يَوْم نَأْكُل مَعًا فِي الْمَسَاء.', 'Every day we eat together in the evening.'),
+        ],
+        questions=[
+            ('What is the father’s job?', ['Teacher', 'Doctor', 'Driver', 'Engineer'], 1, '“أَبِي طَبِيب.”'),
+            ('Where does the mother work?', ['In a hospital', 'In a school', 'In a bank', 'At the university'], 1, '“مُدَرِّسَة فِي مَدْرَسَة.”'),
+            ('Where does the little brother play?', ['In the park', 'At school', 'In the street', 'At home'], 0, '“يَلْعَب فِي الْحَدِيقَة.”'),
+            ('When does the family eat together?', ['In the morning', 'At noon', 'In the evening', 'At night'], 2, '“نَأْكُل مَعًا فِي الْمَسَاء.”'),
+        ],
+    ),
+    dict(
+        id='ar_r014', pair='ar_62', level=2, kind='dialogue', mode='listen',
+        title='Registering at the desk', ar_title='التَّسْجِيل عِنْدَ الْمَكْتَب',
+        names=['خَالِد'],
+        lines=[
+            ('الْمُوَظَّفَة', 'مَا اِسْمُك مِنْ فَضْلِك؟', 'What is your name, please?'),
+            ('خَالِد', 'اِسْمِي خَالِد.', 'My name is Khalid.'),
+            ('الْمُوَظَّفَة', 'وَمَا رَقْم هَاتِفِك؟', 'And what is your phone number?'),
+            ('خَالِد', 'رَقْمِي صِفْر، وَاحِد، اِثْنَان، ثَلَاثَة، أَرْبَعَة، خَمْسَة.', 'My number is zero, one, two, three, four, five.'),
+            ('الْمُوَظَّفَة', 'وَمَا عُنْوَانُك؟', 'And your address?'),
+            ('خَالِد', 'شَارِع الْجَامِعَة، رَقْم سَبْعَة.', 'University Street, number seven.'),
+        ],
+        questions=[
+            ('Who asks the questions?', ['The doctor', 'The employee', 'The teacher', 'The driver'], 1, '“الْمُوَظَّفَة” asks and Khalid answers.'),
+            ('What is the last digit of the phone number?', ['Three', 'Four', 'Five', 'Seven'], 2, '“…أَرْبَعَة، خَمْسَة.”'),
+            ('Which street does Khalid live on?', ['University Street', 'Mosque Street', 'Station Street', 'Park Street'], 0, '“شَارِع الْجَامِعَة.”'),
+        ],
+    ),
+]

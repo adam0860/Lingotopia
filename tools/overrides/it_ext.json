@@ -1,0 +1,1066 @@
+{
+ "_comment": "Hand edits for ranks 5001-10000 of the Italian deck (tools/extend_deck_italian.py). _drop removes a lemma from the extension; _keep exempts a lemma from the stricter filters (nationalities, religions, loanwords); _gender freezes the reviewed gender of every new noun (m = masculine noun, f = feminine noun, mf = noun (m/f)); other keys override the automatic gloss / pos / posName. Only ranks 5001+ are affected; the first 5,000 cards are never touched.",
+ "_drop": [
+  "abbattuta",
+  "abc",
+  "addire",
+  "alare",
+  "alessia",
+  "alighiero",
+  "alma",
+  "ambrare",
+  "anale",
+  "anatrare",
+  "angolare",
+  "argo",
+  "ariano",
+  "arrapato",
+  "barbera",
+  "beat",
+  "bianconero",
+  "bike",
+  "bisessuale",
+  "blanco",
+  "cantera",
+  "capone",
+  "cappare",
+  "carpo",
+  "caruso",
+  "cassandra",
+  "cassino",
+  "cerchiare",
+  "cerro",
+  "ché",
+  "ciurmare",
+  "clivo",
+  "colosseo",
+  "contrare",
+  "cornuto",
+  "cucco",
+  "culetto",
+  "daje",
+  "deb",
+  "deficiente",
+  "desiderata",
+  "dina",
+  "disagiare",
+  "domiciliare",
+  "drin",
+  "ebbio",
+  "ercole",
+  "esilarare",
+  "eterosessuale",
+  "faenza",
+  "fallita",
+  "fifa",
+  "fognare",
+  "friulano",
+  "frodo",
+  "genitale",
+  "germano",
+  "giallorosso",
+  "giuda",
+  "gottare",
+  "greca",
+  "idi",
+  "incasinare",
+  "incasinato",
+  "invasare",
+  "ischio",
+  "italico",
+  "job",
+  "lardare",
+  "leccia",
+  "leghista",
+  "loco",
+  "londinese",
+  "macron",
+  "maddalena",
+  "mannaro",
+  "marone",
+  "martinello",
+  "martino",
+  "mas",
+  "mattia",
+  "mattine",
+  "maxi",
+  "merlino",
+  "mono",
+  "montalbano",
+  "montgomery",
+  "nanni",
+  "nerone",
+  "nirvana",
+  "nu",
+  "nun",
+  "ottare",
+  "palermitano",
+  "pappone",
+  "parabolare",
+  "pedofilo",
+  "piacenza",
+  "pianare",
+  "pippa",
+  "pirla",
+  "piscia",
+  "platone",
+  "podestà",
+  "polvero",
+  "pope",
+  "prosare",
+  "puffo",
+  "raffaella",
+  "raga",
+  "ras",
+  "regimare",
+  "renato",
+  "rinomare",
+  "riprese",
+  "rivo",
+  "rossello",
+  "rossonero",
+  "rovereto",
+  "sabina",
+  "salinare",
+  "salomone",
+  "sansone",
+  "sassuolo",
+  "saturno",
+  "scalettare",
+  "sciolta",
+  "scoppiata",
+  "scotta",
+  "senese",
+  "sentirci",
+  "sfacciare",
+  "soft",
+  "sottovoce",
+  "spagnola",
+  "spinace",
+  "spinello",
+  "steccare",
+  "stortare",
+  "strike",
+  "suicidarsi",
+  "superman",
+  "supero",
+  "tamaro",
+  "tetta",
+  "tino",
+  "tirreno",
+  "tiziano",
+  "tolto",
+  "tombolare",
+  "tot",
+  "totò",
+  "touch",
+  "transessuale",
+  "trial",
+  "tripoli",
+  "uccidersi",
+  "umbro",
+  "vaginale",
+  "valentia",
+  "vanire",
+  "vaticano",
+  "venere",
+  "venirne",
+  "vetrinare",
+  "vico",
+  "vinco",
+  "vittore",
+  "weber",
+  "xeno",
+  "zana"
+ ],
+ "_keep": [
+  "albanese",
+  "algerino",
+  "apostolo",
+  "armeno",
+  "atlantico",
+  "bavarese",
+  "belga",
+  "bosniaco",
+  "buddismo",
+  "buddista",
+  "bulgaro",
+  "campanella",
+  "canadese",
+  "catalano",
+  "cattolicesimo",
+  "ceco",
+  "cileno",
+  "congolese",
+  "cristianesimo",
+  "croato",
+  "cubano",
+  "curdo",
+  "egiziano",
+  "etiope",
+  "finlandese",
+  "georgiano",
+  "giamaicano",
+  "indonesiano",
+  "indù",
+  "iracheno",
+  "libanese",
+  "libico",
+  "macedone",
+  "marocchino",
+  "mediorientale",
+  "nigeriano",
+  "nordico",
+  "norvegese",
+  "pakistano",
+  "papua",
+  "protestante",
+  "quaresima",
+  "romeno",
+  "rumeno",
+  "scandinavo",
+  "senegalese",
+  "signorina",
+  "sionista",
+  "siriano",
+  "slovacco",
+  "sudafricano",
+  "sudamericano",
+  "tibetano",
+  "tunisino",
+  "ucraino",
+  "venezuelano",
+  "vichingo"
+ ],
+ "_gender": {
+  "m": "abbassamento abbattimento abbinamento abbonamento abbonato abbraccio abete abisso abominio aborto\naccampamento accanimento acceleratore accendino accenno accertamento accompagnamento accompagnatore acconto accoppiamento\nace acero aceto acquario acquedotto adattamento addebito addominale adeguamento adempimento\nadepto adulterio affanno afflusso affresco affronto aggancio aggeggio aggettivo agguato\nagriturismo albo alcolismo alcolizzato aldilà alfabeto alfiere algoritmo alito allargamento\nallestimento allevamento allevatore allontanamento alluminio alone altoparlante alveare amatore ambo\namianto ammasso ammiratore ampliamento amplificatore analfabetismo ananas andamento aneddoto aneurisma\nangioletto animatore annegato annuario annullamento annullo anonimato antidoto antipasto aperitivo\napice apostolo appaltatore apparato appellativo appello appezzamento apporto apprendimento apprendistato\napprezzamento approdo approfondimento approvvigionamento aquilone arancio arbitrio arcangelo archeologo arciere\narcipelago arcivescovo arco armamento armeno aroma arredamento arricchimento arsenale artigianato\nartiglio asciugamano ascoltatore aspirapolvere assalitore assenso assessore assetto assist asso\nassolo assorbimento astro ateneo atlante atomo atrio attaccamento attentatore attestato\nattico attributo ausilio auspicio autismo autocontrollo avamposto avanzamento avanzo avatar\navo avorio avvelenamento avvento avviamento avvicinamento avvistamento avvoltoio azoto backstage\nbackup bacon bagliore ballottaggio balsamo baluardo balzo bambù bancomat bando\nbaratro baratto barbiere barbone barcone basilico bastione battello baule belvedere\nbenefattore berretto biasimo bibliotecario bicarbonato bidone biennio bigliettino biliardo bilico\nbinocolo bisnonno bivio blitz bluff body bollettino bollo bombardiere bomber\nbonifico borgo bossolo botto boulevard bowling boxer bozzetto bozzolo bracciale\nbrandy brano briciolo bridge brigante broccolo brodo broncio browser bruco\nbrunch brusio budino bue buffone bullismo bullone burattino burrone busso\nbusto cabaret cacao cacciavite cactus cafone calamaro calcare calcestruzzo calciomercato\ncalcolatore calice callo calvario calzone camerino camice caminetto cammello canarino\ncanestro canguro canile canone cantautore cantone cantore capanno capannone capezzolo\ncapitalismo capogruppo capoluogo cappio capro caramello carboidrato carcerato cardine cargo\ncaricamento caricatore carisma carlino carnefice carretto cartellino cartellone casale casello\ncassiere cassonetto castigo castoro catalano catasto catechismo catetere cattolicesimo caveau\ncaviale cece celibato censimento cent centauro centralino centrocampo centrosinistra ceppo\ncercatore cerotto ceto cetriolo chiarimento chicco chiodo cianuro cicerone ciclismo\nciclone cigno cinghiale cinismo cioccolatino ciondolo circondario ciuffo clamore clero\nclic cloro coccodrillo coefficiente cofano colesterolo collare colle colletto collocamento\ncolombo colon colonialismo colono colosso coltivatore combo comizio commendatore commentatore\ncommissariato compimento complemento completamento compositore compratore comunismo concentramento concilio concittadino\nconclave concordato concorso condimento condizionamento condizionatore condottiero conferimento confratello congegno\ncongelatore coniglietto cono conquistatore conseguimento consolato consolidamento consorzio consulto contagio\ncontainer contatore conteggio contempo contenimento contrabbandiere controllore convoglio coordinamento coordinatore\ncoperchio coprifuoco copyright corallo cordoglio corner cornetto correttore corridore corsetto\ncorteo cortometraggio corvo cosmo coso cospetto covo cratere creditore crepuscolo\ncriceto cricket cristianesimo croato crocifisso cromosoma cronometro cruscotto cubo cucchiaino\ncumulo cuneo cuoio curatore curry cuscino dado damasco dazio debitore\ndebutto declino decollo decoro deficit degrado delirio demo dentifricio deodorante\ndesigner desktop destinatario detentore deterioramento determinante detersivo detonatore detrito dettame\ndettato devoto diabete diaframma diagramma diesel dilemma diluvio dinamismo direttorio\ndisaccordo disappunto discapito discepolo disegnatore disertore disgusto disinteresse dislivello disonore\ndispetto dissenso distacco distruttore dittatore divario doge dogma dolo dominatore\ndomino doping dopoguerra doppiaggio doppiatore dormitorio dorso dosaggio dotto download\ndragone drenaggio ducato duetto duo duomo ecosistema educatore egoismo elefante\nelettorato elettrodomestico elettrone elfo elio elmo elogio embrione emissario enigma\nequipaggiamento equivoco ergastolo eroismo esaurimento escremento esecutore esercito esodo esorcismo\nesordio espediente esploratore estremismo etere eufemismo evasore evo fabbisogno fabbricato\nfabbro faggio falcone falò fanatismo fanciullo fante fantino fantoccio faraone\nfardello fascio fascismo fattorino fauno fautore fazzoletto federalismo feeling felino\nfeltro femminicidio femminismo femore fermento ferragosto ferretto fertilizzante festeggiato feto\nfeudo fiasco fienile fieno filamento filetto filone finanziatore finanziere finocchio\nfirmatario fischietto fischio fisco fiuto flacone flauto focolaio focus foglietto\nfogo fondale forcone forestiero fornello fosforo francobollo frangente frantume frate\nfratellastro fregio frullato frumento fuggitivo fulcro fumatore furfante furgoncino furore\nfusto gabbiano gadget galeotto galletto gallo gangster gasolio gazebo gelo\ngemito genero genocidio georgiano gergo germoglio gesso gestore gettone ghetto\nghiacciaio giacimento giacinto giardinaggio giardiniere giglio ginecologo giochino gioiello giretto\ngirone giubileo gladiatore globo glucosio gnocco godimento golpe gomito gommone\ngonfiore gorilla governatorato gradimento gradino graffio graffito granchio granduca granito\ngrappolo grattacielo gregge grembo grilletto gruppetto gufo guinzaglio guru guscio\nhandicap hangar ibrido iceberg ictus ideatore identikit idolo idrocarburo idrogeno\nidromassaggio illustratore imam imballaggio imbarco imbranato imbroglio imbroglione impasto impedimento\nimpostore impresario incanto incasso inchino inconveniente incoraggiamento incremento indennizzo indicatore\nindice indomani indovinello indugio indumento infermiere infiltrato influsso infortunio ingaggio\ningegno ingranaggio ingrandimento inibitore innalzamento innesco innesto inquilino inquinamento insediamento\ninseguimento inserimento integratore intelletto interessamento interlocutore interruttore intervistato intestino intoppo\nintralcio intreccio intrigo introito intruso intuito invaso invasore invecchiamento inventario\ninventore involucro iter itinerario jogging jolly kamikaze kebab labbro labirinto\nlaccio lamento lampadario lampione lampone lanciatore lascito lauro lavandino lavatore\nlegamento legislatore legname legume leopardo lessico lettino liberalismo liberty lido\nlievito limo listino litorale living lobo lottatore lucchetto lucro lume\nlungomare luogotenente maccherone macellaio macello machiavello maggiordomo magnate malcontento malessere\nmalfunzionamento malinteso malore maltempo malware mammifero management mandarino manganello mango\nmanipolatore manipolo mantenimento manto manufatto marcatore marciapiede marine martirio marxismo\nmascalzone maschietto masso massone mastro mate mausoleo mazzetto medaglione mediatore\nmeeting melo membro mentore mercatino mercenario meridione messia metabolismo metano\nmiao micio microchip microscopio mignolo migratore miliardario milionario millennio millimetro\nmimo minatore mirino mirtillo miscuglio mitragliatore moderatore mollusco monarca monello\nmonito monitoraggio monologo monopolio monopolo moro mosaico moschettiere motorino mulo\nmuratore muschio mutamento narratore nascondiglio nascondino naufragio naufrago naviglio nazionalismo\nneon nervo nervosismo nesso neurone newton nipotino nocciolo nolo novellino\nnunzio nuotatore nutrimento obiettore obitorio oblio occhiolino oceano ologramma oltraggio\nombelico omero ometto omissis omofobo onomastico oppio oppositore opuscolo oracolo\noratore orco ordigno ordinamento orfano orfanotrofio organizzatore orlo oroscopo orsacchiotto\norsetto ortaggio orzo ospizio osservatorio ossido ostello ottimismo ottone pacchetto\npadano padiglione padrino paladino palato palazzetto paletto palinsesto palio pallino\npalloncino palmo pancreas panel pannolino pantaloncino paparazzo paparino papino papiro\npappagallo paradigma paradosso paraggio parallelismo paramedico paraurti pareggio pargolo parroco\nparrucchiere partigiano pascal pascolo passatempo passeggino passeggio passero pastello pasticcino\npatriarca patriarcato patrigno patriottismo patrocinio patrono pattinaggio pattino pavone peccatore\npedaggio pedale pedone peggioramento pegno pellegrinaggio penitenziario pennarello pennello pensatore\npensierino pensionamento pensionato pentimento pentito peperoncino peperone perfezionamento perito perno\nperone perseguitato pescato pessimismo pestaggio pettegolezzo pezzettino piacimento piazzale picchio\npiccoletto picnic piedino piedistallo piercing piglio piombino pipistrello piscio pisello\npizzo plagio plasma platino plauso playoff plotone plurale podcast podio\npoema poggio poligono pollaio ponente pontefice pontificato pony populismo porro\nportello portico portone posizionamento possedimento possessore posticino postino potassio potenziamento\npoveraccio poveretto poverino precursore predecessore predicatore prefetto prefisso pregio prego\npreludio preparativo preparatore preposto presagio presentatore presentimento presidio presupposto pretesto\nprezzemolo principato priore processore procione proclama prodigio programmatore proiettore proletariato\nprologo prolungamento promotore propulsore proseguimento prospetto protettore provento proverbio provider\nproxy pseudonimo psi pudore pugilato pugile pulcino pulpito puma puntino\npurgatorio puzzle puzzo quadrante quark quartetto quesito questionario questore quintale\nquiz quorum rabbino raccoglitore raccordo raddoppio rafforzamento raffreddamento ragazzone raggiungimento\nraggruppamento ragioniere ragù raid rallentamento ramen rammarico ranch rapinatore rapitore\nrapporto rasoio raviolo realismo realizzo recesso recipiente reclamo reclutamento redattore\nreferto registratore regolatore relatore relax remake rendiconto rendimento repentaglio reperto\nrepertorio restauro retaggio retroscena rettangolo rettile revisore rialzo ribasso ricamo\nricatto ricavato riccone ricevitore richiamo riciclaggio riciclo ridosso rifacimento riflettore\nrilancio rilevamento rilevatore rimandato rimorchio rimpatrio rimpianto rimpiazzo rimprovero rinascimento\nrinforzo rinfresco rinnovamento rinnovo rinoceronte rinvio rione ripetitore ripieno riposino\nripostiglio ripristino risalto risanamento risentimento risorgimento risotto risparmiatore ritocco ritornello\nritrovamento rivenditore rivestimento roditore rogo romanticismo rombo ronzio rospo rotolo\nrotore rottame rubinetto rudere rullo rum ruscello sabotaggio saccheggio sacramento\nsalame salmo salmone salume sarcasmo sarto sbalzo sbarco sbarramento sbocco\nscafo scagnozzo scalino scalo scalpore scampo scantinato scapito scapolo scarafaggio\nscarto scasso sceicco scellino sceneggiatore scetticismo scettro scherzetto schiaffo schianto\nschieramento sciamano scioglimento scioperio sciroppo scivolo scoglio scoiattolo scompiglio sconforto\nscongiuro scontento scontrino scoop scooter scoppiato scorcio scorpione scorrimento scotch\nscreenshot scrigno scrupolo scrutinio scudetto scultore sdegno secchio secchione sedativo\nsegmento semaforo seminterrato sensitivo sepolcro sequestro serafino sermone sessismo setto\nsfidato sfratto sgabello sgombero shampoo sherry short shuttle sicario siciliano\nsiero sigaro significato silicone siluro simbolismo singhiozzo sinodo sipario sisma\nsketch slancio slip sloveno smaltimento smalto smeraldo smog smoking sobborgo\nsoccorritore socialismo sodalizio sodio soffio sognatore solco solletico sollevamento sonetto\nsoprano sopruso sorpasso sorteggio sosia sospiro sostantivo sostentamento sottosegretario sottosuolo\nsottotitolo sottufficiale soul sound sovrappeso spam spartito spasmo spavento spazzolino\nspeaker spessore spezzone spicco spillo spionaggio spogliatoio spread sprint spuntino\nspunto sputo squadrone squilibrio squillo stage stallo stallone stelo stemma\nstento sterminio stigma stimolo stoccaggio stock stratagemma stregone striscione strizzacervelli\nstucco stupore suffragio sugo summit suocero superamento supereroe supplemento surf\nsussurro svago svantaggio sviluppatore svincolo svolgimento swing tabellone tabulato tabù\ntacchino taccuino taco tagliere tallone tamburo tampone tango tank tatto\nteatrino telaio telefonino telescopio teletrasporto televisore telo temperamento tempismo templare\ntenore teologo teorema termometro terno terrazzo terzino teschio tesoriere testicolo\ntestone testosterone thread thriller tic ticket timbro timer timo timone\ntiranno tiratore tirocinio titanio toast tofu tomo topless topolino torace\ntormentone tornado totem tovagliolo tracciato trambusto trampolino transito trapano trasloco\ntrasmettitore travestimento travestito trend trenino triennio trimestre trio trucchetto truffatore\ntrust tuffo tumulto uccello uncino underground uranio utensile utero utilizzatore\nvaccino vaglio vagone vaiolo valico valletto valzer vano vanto vascello\nvassallo vassoio velivolo velluto vendicatore ventaglio ventennio ventilatore verro versamento\nversante versetto vertice vestiario vestitino veto vettore vialetto vibratore vicario\nvicedirettore vicinato videoclip videogame vinile violoncello visconte vitalizio vitello vitto\nvocabolario volante volantino volley volt voucher welfare wireless yacht yard\nzar zelo zenzero zerbino zinco zoccolo zolfo zoom",
+  "f": "abbazia abilitazione abolizione accelerazione accensione accessibilità accezione accuratezza acidità aderenza\nadesione adolescenza adorazione affidabilità affinità affluenza agevolazione aggiunta aggregazione aggressività\nagitazione agonia aia alleluia allergia alluvione alterazione alternanza altitudine altura\namarezza amazzone ambientazione ambiguità ammenda ammirazione amnistia ampiezza analogia anatomia\nancona anestesia angelica angolazione angoscia anidride annata annessione annotazione antenna\nantichità anticipazione antropologia anzianità apologia apparecchiatura appartenenza appendice appropriazione approssimazione\narachide aragosta arca archiviazione argilla arpa arrampicata arroganza arteria articolazione\nascella ascia asma assegnazione assoluzione assurdità asta astensione astinenza astronomia\natletica atrocità attestazione attitudine attivazione attribuzione attualità attuazione audience austerità\nautenticità autobiografia autodifesa automazione autovettura avena aviazione avidità avversione avversità\navvertenza bacca bacheca balena balestra balia ballerina bambolina banalità banana\nbanchina barella baronessa barra barricata basilica beccata beffa benda benevolenza\nbestemmia bevuta bibita bilancia biodiversità bionda bobina boccata boccia bolletta\nbonifica bora borghesia borsetta botola botte bottega boxe bozza brace\nbranca bravura breccia briga brigata bruciatura brunetta buccia bufala bufera\nburocrazia bussola bustina cadenza caffeina caffetteria cagna cala calamità calata\ncalce caldaia calla calligrafia calmata caloria calunnia calzatura cambiale camicetta\ncamminata camomilla campanella canaglia canapa cancellazione candida cannella cannuccia canoa\ncantata capanna caparra capienza capsula caratterizzazione carezza caricatura carreggiata cartina\ncartolina cartuccia casalinga cassazione casta castagna cattedra cattiveria cautela cava\ncavalcata cavia caviglia cavità cecità centralità ceramica certificazione cessazione cessione\ncesta chemio chioma chitarra ciambella ciccia ciliegia ciliegina cinghia circonferenza\ncircoscrizione cittadina civetta classificazione clemenza clientela clip coerenza coesione cognata\ncognizione colera collera collettività collisione collocazione colonizzazione colorazione colpevolezza coltellata\ncoltivazione coltura combinata combustione comicità commemorazione commercializzazione commozione comodità comparazione\ncompatibilità compensazione competitività complessità completezza complicità compravendita compressione concessionaria concezione\nconchiglia conciliazione concomitanza concordia condivisione conduzione confederazione conferma configurazione conformazione\nconformità congettura congiunzione congiura congrega congregazione connettività connotazione consacrazione consistenza\nconsolazione consonante constatazione consultazione contabilità contaminazione contesa contestazione continuità contrada\ncontraddizione contrapposizione contrattazione contrazione controparte contusione convenienza convergenza conversione convivenza\nconvocazione convulsione coordinata coordinazione copertura corazza coreografia corporazione correlazione corteccia\ncosetta cosina costanza costellazione costola costrizione cottura cova cozza creatività\ncredenziale credibilità crepa cresta criminalità cripta criticità crittografia crociata cronologia\ncrosta crostata crudeltà cuccia cucina culinaria curvatura cute damigella datazione\ndecadenza decenza decima declinazione decomposizione dedizione deduzione deformazione degustazione delegazione\ndelibera deliberazione delinquenza delizia demenza demolizione denominazione densità deportazione derivata\nderivazione designazione detrazione devastazione deviazione diceria dicitura didascalia diffamazione diffidenza\ndigestione diligenza diminuzione dinamo dinastia diocesi diplomazia dirigenza disabilità discendenza\ndisfatta disfunzione disinformazione disparità dispersione disputa dissoluzione distesa distorsione disuguaglianza\ndittatura divergenza diversità divulgazione dominazione doppietta dotazione duchessa durezza ebbrezza\neccitazione ecografia ecologia egemonia elaborazione elasticità elemosina elevazione emancipazione emicrania\nemigrazione eminenza empatia enciclopedia enfasi epoca equità erbaccia eresia ernia\nerogazione erosione eruzione esagerazione esaltazione esattezza esclusione esenzione esitazione esplorazione\nesportazione estasi estorsione estradizione estremità etnia euforia evacuazione eventualità fabbricazione\nfacilità falla falsità familiarità farmacia fattispecie fattoria fecondazione fedina felpa\nfemminilità fenice fermentazione fermezza fertilità fessura festività fiaba fiala fidanzata\nfigurina filologia finalità finzione fioritura fisiologia fissazione flebo flessibilità flessione\nfobia foca focaccia foce fontana forchetta formalità formica formula formulazione\nfortificazione fragilità frammentazione franchezza frangia fratellanza fregatura frenata frequentazione freschezza\nfrittata frittella frizione fruizione frusta fuga fune funzionalità fuoristrada fuoriuscita\nfuria fusa gag galleria garza gastronomia generalità generalizzazione generosità geografia\ngeologia geopolitica gerarchia ghiandola giacca giada gilda giocata giostra girata\nglia gradazione graduatoria grafia grammatica granata grigliata grinta grotta gru\nguarnigione hostess ideologia idiozia idoneità illegalità illustrazione imbarcazione imboscata immersione\nimmissione immunità impazienza imperatrice imperfezione implementazione implicazione importazione imposizione impossibilità\nimpostazione impotenza improvvisazione imputazione inadeguatezza inattività incapacità incarnazione incidenza inclinazione\ninclusione incolumità incompatibilità incompetenza incomprensione incoronazione incursione indennità indifferenza indignazione\nindiscrezione individuazione indole induzione inerzia inferiorità infiammazione infiltrazione infinità infrazione\ningenuità ingerenza ingiunzione iniziazione inondazione inquadratura inquietudine inquisizione inserzione insicurezza\ninsinuazione insistenza instabilità installazione insufficienza insurrezione integrità intensità interfaccia interrogazione\nintersezione intesa intestazione intimidazione intimità intolleranza intossicazione intrusione inutilità invalidità\ninvestigazione ipocrisia ipoteca irregolarità irrigazione irritazione iscrizione istigazione jeep lacerazione\nlaguna laicità lamentela lamina lampadina lapide lasagna lastra latitudine lavagna\nlavanda lavastoviglie lavata lavorazione leadership lega legalità legalizzazione leggerezza legione\nlegislatura legislazione legittimazione legittimità lentezza letizia leucemia libbra libra libreria\nlima limitazione limonata linfa linguistica liquidazione liquidità lirica lite lobby\nlocalizzazione locazione locuzione loggia lontananza lucidità lumaca luminosità lussuria macro\nmadrina magia magistratura magnitudo malaria malinconia malvagità mancia mandibola mandorla\nmandria mania manipolazione manna manodopera mansione mantenuta marca marchesa maremma\nmarmellata mascherina massima maternità matita matrice matricola maturazione maturità mazza\nmediana mediazione mediocrità meditazione medusa mensola menzione messinscena metamorfosi metodologia\nmetropoli microonda migrazione mina miniatura minuscola miscela misurazione mitra mobilitazione\nmobilità moderazione modernità modernizzazione modestia modificazione mola molecola molteplicità monarchia\nmonetina monografia montatura moquette mora moralità morfina morfologia morsa mortalità\nmoschea mostra moto motocicletta motorizzazione mozzarella muffa mummia municipalità musa\nmutandina mutazione mutilazione nanna narrativa narrazione natalità navetta navicella nazionalità\nnegazione negligenza negoziazione neutralità nicchia nobiltà nocciola nocciolina nomina nonna\nnotorietà nottata novella nozione nube nuca nudità nullità numerazione nuora\nnutrizione oasi obbedienza obbligazione obesità oca odissea officina oltranza omissione\nomosessualità oncia onlus onorificenza oppressione ordinata ordinazione orgia originalità orma\noscillazione ospitalità osservanza ostia ostilità ostrica ovaia padronanza paga paglia\npala palestra pallacanestro pallavolo palude panca pancetta pandemia pantera para\nparabrezza parallela parallele paranoia parcella parentela parità parodia parolaccia particolarità\npartizione passera passerella patata paternità pattuglia pavimentazione pecora peculiarità pedagogia\npedina pedofilia penalità pendenza penetrazione penisola penitenza pensata pentola pera\npercezione percorrenza percussione pericolosità perizia perplessità persecuzione perseveranza pertinenza perversione\npesca pezza piaga pianificazione piantagione piantina piastra piccolina piega pietanza\npieve pinza pirateria plancia platea pluralità polemica pollina polmonite polpetta\npoltrona popolarità poppa positività postura potenzialità pozione pozza prassi precarietà\nprecipitazione precisazione predisposizione prefazione premessa premiazione presunzione pretesa prevalenza previdenza\nprigionia privatizzazione privazione processione proclamazione produttività professionalità progettazione prognosi progressione\nproliferazione propensione proposizione propulsione prosecuzione prosperità prossimità prostata protesi provocazione\nprovviste prua prudenza prugna pugnalata pulce punta pupa pupilla purificazione\nquadra qualificazione quarantena quarantina quaresima querela questura quotazione quotidianità raccomandata\nradiografia ragioneria rampa rapa rapidità rapina rappresaglia rappresentanza rarità rassegnazione\nrata ratio razionalità razione reception recessione recitazione reclame reclusione recluta\nredenzione referenza regina regolamentazione regolarità regolata regolazione regressione reliquia reni\nrenna repressione resina respirazione restaurazione restituzione restrizione resurrezione retribuzione retromarcia\nrianimazione riapertura ribalta ricaduta ricezione riconciliazione riconoscenza ricorrenza ricotta ricreazione\nrifondazione rigenerazione rigidità rilevanza rilevazione rimessa rimonta rinascita riorganizzazione ripartizione\nripercussione riqualificazione riscossione riservatezza ristampa ristorazione risultante ritenuta ritorsione rivalità\nrivendicazione riviera rivincita robaccia roulotte rovina ruggine sacca sagoma salma\nsalvaguardia salvia sanguisuga santità sapienza saturazione sauna sbornia sbronza scacchiera\nscalata scalinata scansione scappata scarsità scemenza scenata scenografia scheggia scherma\nschermata schiuma schizofrenia scialuppa scimmietta scissione scivolata scogliera scorciatoia scoria\nscure secca seccatura secessione secrezione seduzione sega sembianza semifinale semplicità\nsemplificazione senape sensibilizzazione sentinella sepoltura serenità serietà servitù sessualità sfiducia\nsiccità siepe sifilide signorina sincerità sinfonia sintonia sirena smentita smorfia\nsociologia soffiata soffitta solidità sollecitazione somministrazione sommità sonda sonorità soppressione\nsoprintendenza sostenibilità sottomissione sottoscrizione sovranità sovrapposizione sovvenzione sparizione specificità speculazione\nspider spilla spina spirale spiritualità spoglia sponda sponsorizzazione spontaneità sporcizia\nspunta stabilizzazione staffa staffetta stampante stampella stanchezza sterlina stesura stevia\nstoriella storiografia stranezza stregua strumentazione stupidità suddivisione suggestione suocera superficialità\nsuperiorità supervisione supposizione supremazia sussistenza sutura svalutazione sventura tachicardia tangente\ntarga tartaruga tassazione telecomunicazione telefonia telenovela tempia tenacia tendina tenerezza\nteologia tequila terapia terminologia terracotta terraferma terrazza tessitura tifoseria timidezza\ntinta tipografia tipologia tirannia tizia toilette tonalità torcia tormenta tortura\ntotalità tovaglia trancia tranquillità trascrizione trasfusione trasgressione trasposizione tratta trattazione\ntrattenuta trave trazione tredicesima trentina tribuna trilogia trincea trinità trota\ntroupe tubatura tubercolosi turbina turbolenza ubicazione uguaglianza umidità umiltà unicità\nunificazione urbanizzazione urina usanza ustione utenza utilità utilizzazione vaccinazione valenza\nvalidità valigetta vallata valorizzazione valuta valvola vanità variabilità vecchiaia veduta\nvegetazione vendemmia ventilazione ventina ventura verginità veridicità vertebra vespa vestaglia\nveterinaria vetrina vettura viabilità vignetta virgola viscere visibilità visualizzazione vitalità\nvolata vongola vulnerabilità xenofobia zattera zecca zia zucchina élite",
+  "mf": "albanese analfabeta animalista apprendista attaccante automobilista badante batterista blogger boa\nbracciante broker cannibale centrocampista ciclista collezionista commercialista committente conducente coniuge\nconoscente conquista contribuente cronista dissidente economista elettricista erede eremita esercente\nfarmacista femminista fuorilegge garante giurista inserviente liceale linguista maltese mandante\nmanifestante mendicante mittente moralista motociclista mutante negoziante offerente omicida pacifista\nparlante passante patriota pediatra pianista pretendente principiante provvista richiedente rovere\nrunner simpatizzante sindacalista skipper snob sovranista spogliarellista stagista statista stilista\nsuperstar teppista terapeuta terapista testimonial tirocinante tossicodipendente umanista"
+ },
+ "riscuotere": {
+  "gloss": "to collect, receive (payment); to earn, win (approval, applause)"
+ },
+ "contrastare": {
+  "gloss": "to oppose, counter; to clash, be in conflict"
+ },
+ "regio": {
+  "gloss": "royal; (figuratively) grand, excellent"
+ },
+ "short": {
+  "gloss": "shorts"
+ },
+ "bruno": {
+  "gloss": "brown (hair, eyes); dark; (noun) a dark-haired person"
+ },
+ "interrogativo": {
+  "gloss": "interrogative; questioning; (noun) question, doubt"
+ },
+ "farsi": {
+  "gloss": "to become; to make oneself"
+ },
+ "richiamo": {
+  "gloss": "call, appeal; recall; reprimand"
+ },
+ "ammontare": {
+  "gloss": "to amount to, add up to; to amass"
+ },
+ "retto": {
+  "gloss": "straight, upright; right (of an angle); (noun) rectum"
+ },
+ "parrucchiere": {
+  "gloss": "hairdresser; barber"
+ },
+ "impegnativo": {
+  "gloss": "demanding, challenging; binding"
+ },
+ "piagare": {
+  "gloss": "to wound; to cause sores"
+ },
+ "giostra": {
+  "gloss": "merry-go-round, carousel; joust; (in the plural) fairground rides"
+ },
+ "ingrassare": {
+  "gloss": "to get fat, gain weight; to fatten; to lubricate"
+ },
+ "ceppo": {
+  "gloss": "stump; log; (biology) strain"
+ },
+ "passante": {
+  "gloss": "passer-by; belt loop; (adjective) passing"
+ },
+ "svegliarsi": {
+  "gloss": "to wake up; to liven up"
+ },
+ "sensitivo": {
+  "gloss": "sensory; sensitive; (noun) psychic, medium"
+ },
+ "ventina": {
+  "gloss": "about twenty, a score"
+ },
+ "tangente": {
+  "gloss": "kickback, bribe; (mathematics) tangent"
+ },
+ "rinviare": {
+  "gloss": "to postpone, put off; to send back, return"
+ },
+ "sugo": {
+  "gloss": "sauce, gravy; juice"
+ },
+ "brusco": {
+  "gloss": "abrupt, sudden; brusque; sour, tart"
+ },
+ "ricambiare": {
+  "gloss": "to return, reciprocate; to change again"
+ },
+ "parlante": {
+  "gloss": "talking, speaking; (noun) speaker"
+ },
+ "assomigliare": {
+  "gloss": "to resemble, look like"
+ },
+ "balia": {
+  "gloss": "wet nurse; (in balia di) at the mercy of"
+ },
+ "qualificare": {
+  "gloss": "to qualify; to describe, define"
+ },
+ "aderire": {
+  "gloss": "to join, support; to adhere, stick"
+ },
+ "pentola": {
+  "gloss": "pot, saucepan; potful"
+ },
+ "pareggio": {
+  "gloss": "draw, tie (sport); balance"
+ },
+ "recitazione": {
+  "gloss": "acting; recitation"
+ },
+ "grato": {
+  "gloss": "grateful; appreciated, welcome"
+ },
+ "lavagna": {
+  "gloss": "blackboard; slate"
+ },
+ "minare": {
+  "gloss": "to undermine; to mine"
+ },
+ "diversità": {
+  "gloss": "diversity; difference, variety"
+ },
+ "ambulante": {
+  "gloss": "itinerant, travelling; (noun) street vendor"
+ },
+ "gustare": {
+  "gloss": "to enjoy, savour; to taste"
+ },
+ "busso": {
+  "gloss": "knock; blow, hit"
+ },
+ "fiducioso": {
+  "gloss": "hopeful, confident; trusting"
+ },
+ "vile": {
+  "gloss": "cowardly; base, mean"
+ },
+ "grembo": {
+  "gloss": "lap; womb"
+ },
+ "contagioso": {
+  "gloss": "contagious, infectious"
+ },
+ "finzione": {
+  "gloss": "pretence, sham; fiction"
+ },
+ "bolletta": {
+  "gloss": "bill (utilities); receipt"
+ },
+ "galleria": {
+  "gloss": "gallery; tunnel; arcade"
+ },
+ "sapienza": {
+  "gloss": "wisdom; knowledge, learning"
+ },
+ "insediamento": {
+  "gloss": "settlement; installation, inauguration"
+ },
+ "tempismo": {
+  "gloss": "timing"
+ },
+ "deviazione": {
+  "gloss": "deviation; diversion, detour"
+ },
+ "dormitorio": {
+  "gloss": "dormitory, dorm; hall of residence"
+ },
+ "rottame": {
+  "gloss": "scrap, scrap metal; wreck"
+ },
+ "riassumere": {
+  "gloss": "to summarize; to resume; to re-employ"
+ },
+ "climatico": {
+  "gloss": "climatic; of the climate"
+ },
+ "cofano": {
+  "gloss": "bonnet, hood (of a car); chest"
+ },
+ "auricolare": {
+  "gloss": "earphone, earpiece; (adjective) auricular, of the ear"
+ },
+ "strisciare": {
+  "gloss": "to crawl, creep; to rub, scrape"
+ },
+ "spoglio": {
+  "gloss": "bare, plain; (noun) count (of votes)"
+ },
+ "incosciente": {
+  "gloss": "unconscious; reckless, irresponsible"
+ },
+ "emanare": {
+  "gloss": "to give off, emit; to issue, promulgate"
+ },
+ "berretto": {
+  "gloss": "cap; beanie"
+ },
+ "fessura": {
+  "gloss": "crack, slit; slot"
+ },
+ "giornalistico": {
+  "gloss": "journalistic; of the newspapers"
+ },
+ "distorsione": {
+  "gloss": "distortion; sprain"
+ },
+ "imbrogliare": {
+  "gloss": "to cheat, trick; to tangle, muddle"
+ },
+ "allenarsi": {
+  "gloss": "to train, work out"
+ },
+ "frittella": {
+  "gloss": "fritter, pancake"
+ },
+ "roccioso": {
+  "gloss": "rocky"
+ },
+ "caloroso": {
+  "gloss": "warm, hearty"
+ },
+ "abitativo": {
+  "gloss": "residential, housing (adjective)"
+ },
+ "affiliare": {
+  "gloss": "to affiliate; to adopt"
+ },
+ "sporgere": {
+  "gloss": "to stick out, protrude; to lean out"
+ },
+ "branca": {
+  "gloss": "branch (of knowledge); claw, talon"
+ },
+ "maneggiare": {
+  "gloss": "to handle; to use; to mould"
+ },
+ "piantina": {
+  "gloss": "map, street plan; seedling"
+ },
+ "alcolizzato": {
+  "gloss": "alcoholic; (adjective) addicted to alcohol"
+ },
+ "sovrappeso": {
+  "gloss": "overweight; (noun) excess weight"
+ },
+ "pelato": {
+  "gloss": "bald; peeled (of tomatoes)"
+ },
+ "castano": {
+  "gloss": "chestnut brown; chestnut tree"
+ },
+ "disegnatore": {
+  "gloss": "designer; illustrator, cartoonist"
+ },
+ "golpe": {
+  "gloss": "coup (d'état); mildew"
+ },
+ "filetto": {
+  "gloss": "fillet (of meat, fish); thread"
+ },
+ "cuccia": {
+  "gloss": "dog bed; kennel"
+ },
+ "regale": {
+  "gloss": "royal, regal"
+ },
+ "sofisticato": {
+  "gloss": "sophisticated; adulterated"
+ },
+ "fiaba": {
+  "gloss": "fairy tale; fable"
+ },
+ "novello": {
+  "gloss": "new, young; (of wine) new"
+ },
+ "imbroglio": {
+  "gloss": "mess, tangle; swindle, trick"
+ },
+ "traslocare": {
+  "gloss": "to move (house); to transfer"
+ },
+ "errare": {
+  "gloss": "to wander; to be mistaken"
+ },
+ "adeguare": {
+  "gloss": "to adjust, bring into line"
+ },
+ "emittente": {
+  "gloss": "broadcasting; (noun) transmitter, radio station"
+ },
+ "sganciare": {
+  "gloss": "to unhook, detach; to drop (bombs); (informal) to cough up"
+ },
+ "dotto": {
+  "gloss": "learned, scholarly; (noun) scholar; duct"
+ },
+ "matricola": {
+  "gloss": "(university) freshman; register"
+ },
+ "micio": {
+  "gloss": "kitty, pussycat"
+ },
+ "lanciatore": {
+  "gloss": "thrower; pitcher"
+ },
+ "tubatura": {
+  "gloss": "piping, pipes"
+ },
+ "calcolatore": {
+  "gloss": "computer; (adjective) calculating"
+ },
+ "cornetto": {
+  "gloss": "croissant; horn-shaped amulet"
+ },
+ "scialuppa": {
+  "gloss": "lifeboat; sloop"
+ },
+ "lumaca": {
+  "gloss": "slug, snail; (figuratively) slowcoach"
+ },
+ "bottega": {
+  "gloss": "shop; workshop, studio"
+ },
+ "scorcio": {
+  "gloss": "glimpse, view; (art) foreshortening"
+ },
+ "assorbente": {
+  "gloss": "absorbent; (noun) sanitary pad"
+ },
+ "guadagnarci": {
+  "gloss": "to gain, benefit from it"
+ },
+ "rettilineo": {
+  "gloss": "straight; (noun) straight stretch (of road)"
+ },
+ "cliché": {
+  "gloss": "cliché; (printing) plate",
+  "pos": "n",
+  "posName": "masculine noun"
+ },
+ "lastra": {
+  "gloss": "slab; sheet; pane"
+ },
+ "fienile": {
+  "gloss": "hayloft; barn"
+ },
+ "cartaceo": {
+  "gloss": "paper (adjective)"
+ },
+ "unicorno": {
+  "gloss": "unicorn",
+  "pos": "n",
+  "posName": "masculine noun"
+ },
+ "pesto": {
+  "gloss": "pesto (basil sauce); (adjective) crushed, bruised",
+  "pos": "n",
+  "posName": "masculine noun"
+ },
+ "girone": {
+  "gloss": "round, group (in a tournament); large circle"
+ },
+ "gnocco": {
+  "gloss": "gnocchi dumpling; (colloquial) dolt"
+ },
+ "lasso": {
+  "gloss": "weary; lax, loose; (noun) lapse, span (of time)"
+ },
+ "infedele": {
+  "gloss": "unfaithful; (noun) infidel"
+ },
+ "spread": {
+  "gloss": "(finance) spread"
+ },
+ "soffitta": {
+  "gloss": "attic"
+ },
+ "aperitivo": {
+  "gloss": "aperitif, pre-dinner drink"
+ },
+ "caffetteria": {
+  "gloss": "café, coffee shop; cafeteria"
+ },
+ "messinscena": {
+  "gloss": "staging; (figuratively) charade, show"
+ },
+ "animatore": {
+  "gloss": "entertainer, host; leader"
+ },
+ "fidanzata": {
+  "gloss": "fiancée, girlfriend"
+ },
+ "voilà": {
+  "gloss": "there you are, voilà"
+ },
+ "mate": {
+  "gloss": "mate (South American herbal tea)"
+ },
+ "pentimento": {
+  "gloss": "repentance, remorse"
+ },
+ "concordare": {
+  "gloss": "to agree on, arrange; to agree"
+ },
+ "soffice": {
+  "gloss": "soft, fluffy"
+ },
+ "zar": {
+  "gloss": "tsar, czar"
+ },
+ "scappata": {
+  "gloss": "quick visit, dash"
+ },
+ "vassallo": {
+  "gloss": "vassal"
+ },
+ "autovettura": {
+  "gloss": "car, automobile"
+ },
+ "risparmiatore": {
+  "gloss": "saver; (small) investor"
+ },
+ "fioritura": {
+  "gloss": "blooming, flowering"
+ },
+ "sbattere": {
+  "gloss": "to slam, bang; to beat, whisk; to throw"
+ },
+ "soprano": {
+  "gloss": "soprano (singer)"
+ },
+ "plausibile": {
+  "gloss": "plausible"
+ },
+ "barbone": {
+  "gloss": "tramp, vagrant; poodle"
+ },
+ "ergastolo": {
+  "gloss": "life imprisonment; prison for lifers"
+ },
+ "abolire": {
+  "gloss": "to abolish; to repeal, annul"
+ },
+ "maltare": {
+  "gloss": "to malt"
+ },
+ "nervo": {
+  "gloss": "nerve; (in the plural) nerves"
+ },
+ "labbro": {
+  "gloss": "lip; rim, edge"
+ },
+ "ennesimo": {
+  "gloss": "umpteenth, nth"
+ },
+ "poppa": {
+  "gloss": "stern (of a ship); (informal) breast"
+ },
+ "astro": {
+  "gloss": "star (celestial body); (figuratively) star, celebrity"
+ },
+ "rozzo": {
+  "gloss": "coarse, uncouth, rough"
+ },
+ "assolo": {
+  "gloss": "(music) solo; (figuratively) one-man show"
+ },
+ "macro": {
+  "gloss": "macro (computing)"
+ },
+ "ritornello": {
+  "gloss": "refrain, chorus; (by extension) same old story"
+ },
+ "retaggio": {
+  "gloss": "legacy, heritage"
+ },
+ "secchione": {
+  "gloss": "swot, nerd, bookworm"
+ },
+ "sbronzo": {
+  "gloss": "drunk, plastered"
+ },
+ "legnare": {
+  "gloss": "to beat with a stick; to thrash"
+ },
+ "scimmietta": {
+  "gloss": "little monkey; (informal) naughty child"
+ },
+ "strizzacervelli": {
+  "gloss": "(informal) shrink, psychiatrist"
+ },
+ "rimetterci": {
+  "gloss": "to lose out; to lose by it"
+ },
+ "combo": {
+  "gloss": "combo (band, set)"
+ },
+ "riproporre": {
+  "gloss": "to propose again, put forward again"
+ },
+ "paesaggistico": {
+  "gloss": "scenic; landscape (adjective)"
+ },
+ "sbronza": {
+  "gloss": "(informal) drunkenness; binge"
+ },
+ "_drop_sentences": [
+  [
+   "poppa",
+   "Pensavo che le sue poppe fossero più grandi."
+  ],
+  [
+   "minaccioso",
+   "Quel suo tono minaccioso mi eccita da morire."
+  ],
+  [
+   "gaio",
+   "Lui è gaio."
+  ],
+  [
+   "gaio",
+   "Io sono gaio."
+  ],
+  [
+   "travestimento",
+   "È un travestimento."
+  ],
+  [
+   "sedare",
+   "*"
+  ],
+  [
+   "piagare",
+   "*"
+  ],
+  [
+   "parare",
+   "*"
+  ],
+  [
+   "fisco",
+   "*"
+  ],
+  [
+   "bruto",
+   "*"
+  ],
+  [
+   "pezza",
+   "*"
+  ],
+  [
+   "scalo",
+   "*"
+  ],
+  [
+   "patire",
+   "*"
+  ],
+  [
+   "morsa",
+   "*"
+  ],
+  [
+   "bollo",
+   "*"
+  ],
+  [
+   "edito",
+   "*"
+  ],
+  [
+   "sommo",
+   "*"
+  ],
+  [
+   "poppa",
+   "*"
+  ],
+  [
+   "masso",
+   "*"
+  ],
+  [
+   "fante",
+   "*"
+  ],
+  [
+   "mango",
+   "*"
+  ],
+  [
+   "rimare",
+   "*"
+  ],
+  [
+   "gobbo",
+   "*"
+  ],
+  [
+   "lauro",
+   "*"
+  ],
+  [
+   "libra",
+   "*"
+  ],
+  [
+   "musa",
+   "*"
+  ],
+  [
+   "doge",
+   "*"
+  ],
+  [
+   "bruco",
+   "*"
+  ],
+  [
+   "lesso",
+   "*"
+  ],
+  [
+   "brucare",
+   "*"
+  ],
+  [
+   "paga",
+   "*"
+  ],
+  [
+   "ovviare",
+   "*"
+  ],
+  [
+   "mina",
+   "*"
+  ],
+  [
+   "tango",
+   "*"
+  ],
+  [
+   "botto",
+   "*"
+  ],
+  [
+   "capro",
+   "*"
+  ],
+  [
+   "calce",
+   "*"
+  ],
+  [
+   "omero",
+   "*"
+  ],
+  [
+   "vanto",
+   "*"
+  ],
+  [
+   "piglio",
+   "*"
+  ],
+  [
+   "soffio",
+   "*"
+  ],
+  [
+   "raddoppio",
+   "*"
+  ],
+  [
+   "rudere",
+   "*"
+  ],
+  [
+   "busso",
+   "*"
+  ],
+  [
+   "cala",
+   "*"
+  ],
+  [
+   "falla",
+   "*"
+  ],
+  [
+   "fusa",
+   "*"
+  ],
+  [
+   "prego",
+   "*"
+  ],
+  [
+   "scure",
+   "*"
+  ],
+  [
+   "secca",
+   "*"
+  ],
+  [
+   "lega",
+   "*"
+  ],
+  [
+   "piega",
+   "*"
+  ],
+  [
+   "spicco",
+   "*"
+  ],
+  [
+   "busto",
+   "*"
+  ],
+  [
+   "belga",
+   "Il Belgio si chiama \"België\" in fiammingo."
+  ],
+  [
+   "spoglio",
+   "Per favore, si spogli."
+  ],
+  [
+   "puzzo",
+   "*"
+  ],
+  [
+   "sputo",
+   "*"
+  ],
+  [
+   "stevia",
+   "*"
+  ],
+  [
+   "marine",
+   "*"
+  ],
+  [
+   "regale",
+   "Raramente lui fa dei regali alla moglie."
+  ],
+  [
+   "molle",
+   "Mi molli le braccia!"
+  ],
+  [
+   "inteso",
+   "Non bere troppo, intesi?"
+  ],
+  [
+   "tormenta",
+   "Che cosa la tormenta?"
+  ],
+  [
+   "mostra",
+   "Perché non me la mostra?"
+  ],
+  [
+   "sega",
+   "Sei una mezza sega."
+  ],
+  [
+   "bevuta",
+   "Ne ho bevuta una."
+  ],
+  [
+   "rimpianto",
+   "Ho mangiato qualcosa che ho rimpianto di avere mangiato."
+  ],
+  [
+   "intesa",
+   "L'ho intesa come barzelletta."
+  ]
+ ],
+ "ciambella": {
+  "gloss": "ring-shaped cake, doughnut; lifebuoy, rubber ring"
+ },
+ "ivi": {
+  "gloss": "there, in that place (formal)"
+ },
+ "prestabilito": {
+  "gloss": "predetermined, preset"
+ },
+ "spicco": {
+  "gloss": "prominence, distinction (as in \"di spicco\")"
+ },
+ "liceale": {
+  "gloss": "high-school student; (adjective) of a lyceum (academic high school)"
+ },
+ "calvario": {
+  "gloss": "Calvary; ordeal, long suffering"
+ },
+ "bigliettino": {
+  "gloss": "small card, note"
+ },
+ "moro": {
+  "gloss": "dark-haired man; Moor; mulberry tree"
+ },
+ "coso": {
+  "gloss": "thing, gadget, contraption (informal)"
+ },
+ "segare": {
+  "gloss": "to saw; (slang) to flunk"
+ },
+ "scooter": {
+  "gloss": "scooter (motorbike)"
+ },
+ "fesso": {
+  "gloss": "foolish, silly; (noun) fool, simpleton"
+ },
+ "body": {
+  "gloss": "bodysuit, leotard"
+ },
+ "innanzi": {
+  "gloss": "before, in front of; forward",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "festivo": {
+  "gloss": "festive; (of a day) holiday, non-working"
+ },
+ "condominiale": {
+  "gloss": "of a condominium (apartment building), shared by its residents"
+ },
+ "topless": {
+  "gloss": "topless (state of being topless); topless swimsuit"
+ }
+}

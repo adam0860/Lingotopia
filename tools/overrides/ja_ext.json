@@ -1,0 +1,96 @@
+{
+ "_comment": "Hand edits for ranks 5001-10000 of the Japanese deck (tools/extend_deck_japanese.py). \"_drop\" removes a headword from the extension; \"_keep\" lets a headword past the proper-noun / name / fragment filters; any other key is a headword with {\"gloss\", \"pos\", \"posName\", \"reading\"} replacing the automatic values. Only the extension (ranks 5001+) is affected; the first 5,000 cards are never touched.",
+ "_drop": [
+  "こんにちわ",
+  "こんばんわ",
+  "さやか",
+  "めった",
+  "シャン",
+  "シーク",
+  "ビクター",
+  "乞食",
+  "当事",
+  "必需",
+  "摩訶",
+  "操",
+  "政",
+  "早",
+  "潮吹き",
+  "発情",
+  "碑",
+  "童",
+  "緊縛",
+  "自閉",
+  "被せ",
+  "飛び出し"
+ ],
+ "_keep": [],
+ "むっちゃ": {
+  "gloss": "very; extremely (colloquial, Kansai origin)",
+  "pos": "adv",
+  "posName": "adverb"
+ },
+ "大福": {
+  "gloss": "daifuku (rice cake stuffed with sweet bean jam); great fortune; good luck"
+ },
+ "哀れ": {
+  "gloss": "pity; sorrow; pathos; pitiable; pitiful"
+ },
+ "干支": {
+  "gloss": "sexagenary cycle; the twelve animals of the Chinese zodiac"
+ },
+ "特撮": {
+  "gloss": "tokusatsu (live-action film or TV drama with special effects)"
+ },
+ "ランドセル": {
+  "gloss": "randoseru (Japanese schoolchild's leather backpack)"
+ },
+ "入所": {
+  "gloss": "admission (to a training institution, facility, etc.)"
+ },
+ "大根": {
+  "gloss": "daikon (large white radish)"
+ },
+ "北陸": {
+  "gloss": "Hokuriku region (Niigata, Toyama, Ishikawa and Fukui)"
+ },
+ "内科": {
+  "gloss": "internal medicine"
+ },
+ "本数": {
+  "gloss": "number of long thin objects (e.g. films, programs, games)"
+ },
+ "併設": {
+  "gloss": "joint establishment (esp. of schools of different levels)"
+ },
+ "件数": {
+  "gloss": "number of cases (e.g. accidents, crimes, meetings)"
+ },
+ "藍": {
+  "gloss": "indigo plant; indigo (dye)"
+ },
+ "浴衣": {
+  "gloss": "yukata (light cotton summer kimono; also a bathrobe)"
+ },
+ "一筋": {
+  "gloss": "a strand (of hair, ray of light, etc.); earnest; single-minded"
+ },
+ "一文": {
+  "gloss": "a sentence; one sentence",
+  "reading": "いちぶん",
+  "pos": "n",
+  "posName": "noun"
+ },
+ "精霊": {
+  "gloss": "spirit; soul; ghost; spirit of the deceased",
+  "reading": "せいれい"
+ },
+ "はがき": {
+  "gloss": "postcard; memo; note; card"
+ },
+ "とことん": {
+  "gloss": "thoroughly; completely; to the very end",
+  "pos": "adv",
+  "posName": "adverb"
+ }
+}
