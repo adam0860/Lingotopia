@@ -30,6 +30,10 @@ def auto_py(zh, fixes=None):
     for idx, (c, p) in enumerate(zip(chars, flat)):
         if fixes and idx in fixes:
             p = fixes[idx]
+        elif fixes and c in fixes:      # a character as key: every occurrence in the string
+            p = fixes[c]
+        elif c == "得" and p in ("de2", "dei3", "de5"):
+            p = "de5"                    # the degree complement; say {"得": "dei3"} for 'must' or {"得": "de2"} for 'to get'
         toks.append([c, p])
     out = []
     for i, (c, p) in enumerate(toks):
@@ -78,7 +82,56 @@ def dlg(lines, fixes=None):
     """lines = [(speaker, chinese, english)] -> examples 'speaker：chinese'. The book's speakers A and B become 甲 and 乙,
     so that every spoken line is Chinese only."""
     out = []
-    for sp, zh, en in lines:
+    for line in lines:
+        sp, zh, en = line[:3]
+        fx = line[3] if len(line) > 3 else fixes
         sp = {"A": "甲", "B": "乙"}.get(sp, sp)
-        out.append(D(f"{sp}：{zh}", en))
+        out.append(D(f"{sp}：{zh}", en, fixes=fx))
     return out
+
+
+# ---------------------------------------------------------------------------- shared helpers for the book-text units
+_STOP = {"a", "an", "the", "of", "for", "to", "be", "in", "or", "and", "from", "at", "with", "your", "you"}
+
+
+def _words(s):
+    return {w for w in re.findall(r"[a-z]+", s.lower()) if w not in _STOP}
+
+
+def pick_meanings(i, items, k=3, step=5):
+    """k distractor entries (hanzi, py, English, ...) with meanings that share no word with the right answer or each other,
+    and whose characters are not inside (or around) the answer's."""
+    hz, _, en = items[i][:3]
+    out, used = [], _words(en)
+    n = len(items)
+    for s in range(1, n):
+        c = items[(i + s * step) % n]
+        if c[2] == en or (_words(c[2]) & used) or c[0] in hz or hz in c[0]:
+            continue
+        out.append(c)
+        used |= _words(c[2])
+        if len(out) == k:
+            break
+    assert len(out) == k, (hz, en)
+    return out
+
+
+def vocab_lesson(title, subtitle, heading, note, voc, size_hint=None):
+    """voc = [(hanzi, numeric pinyin, pos, English, traditional)] -> a table card and two questions per word."""
+    rows = [(hz, py, f"{pos} {en}" + (f" (trad. {tr})" if tr else "")) for hz, py, pos, en, tr in voc]
+    items = [(hz, py, en) for hz, py, pos, en, tr in voc]
+    count = {}
+    for it in items:
+        count[it[2]] = count.get(it[2], 0) + 1
+    exs = []
+    for i, (hz, py, en) in enumerate(items):
+        wrong = pick_meanings(i, items)
+        exs.append(mean(hz, py, en, [w[2] for w in wrong]))
+        if count[en] == 1:
+            exs.append(M(f"Which word means “{en}”?", hz, [w[0] for w in wrong], f"{hz} ([[{py}]]) means “{en}”."))
+    return lesson(title, subtitle, requires=[], cards=[card(heading, note, tables=[wtable(rows)])], exercises=exs)
+
+
+def rows_py(pairs, fixes=None):
+    """[(hanzi, English)] -> [(hanzi, automatic pinyin, English)]"""
+    return [(hz, auto_py(hz, fixes), en) for hz, en in pairs]

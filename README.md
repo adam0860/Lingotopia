@@ -974,10 +974,10 @@ markup and tatweel and keeping the vowel marks.
 
 ### Chinese lessons (pinyin, greetings, introductions, family and numbers)
 
-`assets/lessons/zh_lessons.json` has 168 lessons and 3,100 exercises in eighteen units, built from
-Unit 1 Lessons 1 to 6 of a beginner course ("Chinese Pronunciation System", "Greetings and Introductions", "Family", "Birthdate, Birthplace and Hometown", "City, Population, Seasons, Weather and Climate" and the Unit 1 Review).
+`assets/lessons/zh_lessons.json` has 194 lessons and 3,569 exercises in twenty-one units, built from
+Unit 1 Lessons 1 to 6, and Unit 2 Lesson 7, of a beginner course ("Chinese Pronunciation System", "Greetings and Introductions", "Family", "Birthdate, Birthplace and Hometown", "City, Population, Seasons, Weather and Climate" the Unit 1 Review, and in Unit 2 "School Life").
 Lessons 1 to 4 (units 1 to 9) use the books only as a private guide to what to teach and in what order: their explanations, examples and
-questions are original. From Lesson 5 on (v1.45 and v1.46) the lessons follow the book's own texts: dialogs, readings, examples, patterns, vocabulary lists, the 51 state names and the Area Studies page for Lesson 5 (units 10 to 16), and the activities, readings and the 236-word glossary of the review for Lesson 6 (units 17 and 18). Only audio and large diagrams and pictures (the administrative hierarchy chart, the board-game picture) are left out, and the lessons say so. Lessons have no unlock gating. Ids are `zh_01`...`zh_168`; add new lessons at the end.
+questions are original. From Lesson 5 on (v1.45 to v1.47) the lessons follow the book's own texts: dialogs, readings, examples, patterns, vocabulary lists, the 51 state names and the Area Studies page for Lesson 5 (units 10 to 16), the activities, readings and the 236-word glossary of the review for Lesson 6 (units 17 and 18), and the dialogs, readings, emails, patterns, activities, Area Studies page and 78 vocabulary words of Lesson 7 (units 19 to 21). Only audio and large diagrams and pictures (the administrative hierarchy chart, the board-game picture) are left out, and the lessons say so. Lessons have no unlock gating. Ids are `zh_01`...`zh_168`; add new lessons at the end.
 
 | Unit | Lessons | Content |
 |---|---|---|
@@ -999,10 +999,13 @@ questions are original. From Lesson 5 on (v1.45 and v1.46) the lessons follow th
 | 16. Lesson 5 book texts: states and area studies | 141-145 | all 51 American state names (with the alternative forms), the Presentation 3 vocabulary (29 words) and the Area Studies reading on China's territory and administrative divisions (the hierarchy diagram is not included) |
 | 17. Lesson 6 review: activities | 146-158 | the review objectives and the eight core patterns; phrases with 军 国 天 and the four categories (work, weather, family, school); the six questions and the six sentence reorderings; the eleven-blank dialog; the patterns for comparing seasons and asking about family; the 44 squares of the board game; the 马小文 passage; the 谢英, 李红 and 刘国华 conversation; the ten measure words; 马小英's profile and 刘东's ad; the four business cards; 王太太 and the 1997 navy report; the interrogation sentences and the overheard-conversation instructions (the listening activities are described but not included) |
 | 18. Lesson 6 review: glossary | 159-168 | all 236 entries of the Unit 1 glossary in the book's order, with numeric pinyin checked against the book, the part of speech, the meaning and the traditional form where it differs; a few glosses the book cuts short are completed |
+| 19. Lesson 7 book texts: Presentation 1 | 169-179 | the dialog and Getting Started objectives, the matching and paragraph activities, telling time and the periods of the day, 以后, 要, 得 (děi), 又…又…, time when and time spent, emails A and B, the schedules, calligraphy and camp activities, and the Presentation 1 vocabulary (25 words) |
+| 20. Lesson 7 book texts: Presentation 2 | 180-186 | the dialog and paragraph about Linda's school life, 怎么样, 除了, complement of degree (1), Passages A and B, the classes, 苏教官 email and survey, and the Presentation 2 vocabulary (26 words) |
+| 21. Lesson 7 book texts: Presentation 3 | 187-194 | the weekend passage and cloze, 先…然后…, 有时…有时…, complement of degree (2) and comparing, the skill-integration tasks, the club and 张琳 emails, the Area Studies reading "Daily Routine in China" with comprehension questions, and the Presentation 3 vocabulary (27 words) |
 
 Build and check: `pip install pypinyin --break-system-packages`, then
-`python3 tools/lessons/build_zh_lessons.py [--units 1 2 3 ... 18] [--force] [--quiet]`. The sources are
-`tools/lessons/zh_unit1.py` to `zh_unit18.py`, on top of `tools/lessons/dsl_zh.py`; `zh_auto.py` makes numeric pinyin for the long book texts, and `zh_glossary_data.py` is the glossary (generated once from the book by `make_glossary.py`).
+`python3 tools/lessons/build_zh_lessons.py [--units 1 2 3 ... 21] [--force] [--quiet]`. The sources are
+`tools/lessons/zh_unit1.py` to `zh_unit21.py`, on top of `tools/lessons/dsl_zh.py`; `zh_auto.py` makes numeric pinyin for the long book texts (and builds vocabulary lessons), `zh_pytools.py` aligns the book's tone-marked pinyin to numeric pinyin, `zh_l7_vocab.py` holds the Lesson 7 word lists, and `zh_glossary_data.py` is the glossary (generated once from the book by `make_glossary.py`).
 
 - Pinyin is written numerically inside `[[ ]]` (`ni3hao3`, `v` for ü, `5` or `0` for neutral, an apostrophe
   for the dividing mark) and converted to tone marks by the builder, which puts the mark on a, then o or e,
