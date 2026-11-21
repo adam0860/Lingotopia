@@ -8,7 +8,7 @@ from pypinyin import Style, pinyin
 from dsl_zh import *
 
 _SYL_T = re.compile(r"^([a-zv]+)([1-5])$")
-_ERHUA_AFTER = set("那哪这点玩花口馅")
+_ERHUA_AFTER = set("那哪这点玩花口馅会")
 _PUNCT_MAP = {"，": ",", "。": ".", "？": "?", "！": "!", "、": ",", "：": ":", "；": ";", "“": '"', "”": '"', "（": "(", "）": ")", "…": "..."}
 _DIGITS = set("零一二三四五六七八九十")
 
@@ -112,6 +112,16 @@ def pick_meanings(i, items, k=3, step=5):
         used |= _words(c[2])
         if len(out) == k:
             break
+    if len(out) < k:      # few words in the list: let the distractors share words with each other, never with the answer
+        have = {c[0] for c in out}
+        for s in range(1, n):
+            c = items[(i + s) % n]
+            if c[0] in have or c[2] == en or (_words(c[2]) & _words(en)) or c[0] in hz or hz in c[0]:
+                continue
+            out.append(c)
+            have.add(c[0])
+            if len(out) == k:
+                break
     assert len(out) == k, (hz, en)
     return out
 
