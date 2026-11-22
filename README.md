@@ -1266,7 +1266,7 @@ here); the Python build runs the same checks.
 
 ### Tagalog lessons (Tagalog Basic Course, Semesters I and II)
 
-`assets/lessons/tl_lessons.json` has 292 lessons and 25,274 exercises in forty-nine units (deck `tl_core`, ids `tl_01`... in order; new units go
+`assets/lessons/tl_lessons.json` has 317 lessons and 27,427 exercises in fifty-two units (deck `tl_core`, ids `tl_01`... in order; new units go
 at the end). They follow the Tagalog Basic Course Teacher Edition (December 2020), Semester I, one unit per book lesson, each split into
 several short app lessons. Built by `tools/lessons/build_tl_lessons.py` from `tl_unit*.py` using `dsl_tl.py`; a full build writes the file only
 with zero errors. The English explanations are original; the book's vocabulary meanings and answer keys are used where the book prints
@@ -1325,6 +1325,9 @@ written in words; titles in full).
 | 47. C15 L1 | 271-277 | Hospital and other medical services: free public care and medical missions, the blog on sickness and traditional healers, the verb magkaroon (forms, conjugation, doer focus, negation), health budget numbers, hospital interviews |
 | 48. C15 L2 | 278-284 | Common diseases, symptoms and prevention: leptospirosis, dengue, measles and cholera, intransitive um verbs for bodily motions (conjugation, gerund), news and advisory listening, um verb sample sentences |
 | 49. C15 L3 | 285-292 | Health care and benefits: PhilHealth and Universal Healthcare, in/hin/nin verbs (past and present, conjugation, Tagalized verbs), object to doer focus, benefit rules and registration, radio Q and A |
+| 50. C16 L1 | 293-301 | Food and nutrition: sinigang and health foods, recipe (ginataang talbos), health worker and Lola dialog, i-verbs, reservational phrases, in/hin/nin cooking verbs, numbers and recipe listening |
+| 51. C16 L2 | 302-309 | Mental and physical fitness: sleep and rest, triathlon dialog, ma-an verbs (able, feeling, accidental, experience), conjugation, NCMH numbers, walking and caffeine, police fitness test, tips articles |
+| 52. C16 L3 | 310-317 | Health concerns and issues: malnutrition, sanitation and HIV-AIDS, medical mission dialog, ka-an/han/nan nouns (spelling and suffix rules), HIV figures, food safety, school toilets, hunger radio program, health news briefs |
 
 No native speaker has reviewed these lessons. `test/tagalog_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
 and that spoken cells and example lines are plain Tagalog. It has not been run (no Flutter SDK here); the Python build runs the same checks.
