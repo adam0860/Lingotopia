@@ -1115,9 +1115,9 @@ answer validity, leftover markup or numeric pinyin, and that spoken cells are Ch
 
 ### Korean lessons (Hangul, pronunciation rules and first words)
 
-`assets/lessons/ko_lessons.json` has 633 lessons and 35,365 exercises in fifty-eight units. Units 1-7 come from the Introductory Unit
+`assets/lessons/ko_lessons.json` has 654 lessons and 36,565 exercises in sixty-one units. Units 1-7 come from the Introductory Unit
 of the Korean Basic Course (Lessons 1 to 6 and the Appendix, Student's Edition); units 8-11 are Chapters 1-4 of Semester 1,
-Unit 1 (Student's Edition, 2022); units 12-15 are Chapters 5-8 of Semester 1, Unit 2 (Student's Edition, 2024); units 16-19 are Chapters 9-12 of Semester 1, Unit 3 (Student's Edition, 2022); units 20-23 are Chapters 13-16 of Semester 1, Unit 4 (Student's Edition, 2022); units 24-27 are Chapters 17-20 of Semester 1, Unit 5 (Student's Edition, 2022); units 28-31 are Chapters 21-24 of Semester 1, Unit 6 (Student's Edition, 2022); units 32-35 are Chapters 25-28 of Semester 1, Unit 7 (Student's Edition, 2022); units 36-39 are Chapters 29-32 of Semester 2, Unit 8 (Student's Edition, 2022, Validation Edition); units 40-43 are Chapters 33-36 of Semester 2, Unit 9 (Student's Edition, 2022, Validation Edition); units 44-47 are Chapters 37-40 of Semester 2, Unit 10 (Student's Edition, 2022); units 48-51 are Chapters 41-44 of Semester 2, Unit 11 (Student's Edition, 2022); units 52-55 are Chapters 45-48 of Semester 2, Unit 12 (Student's Edition, 2022); units 56-58 are Lessons 1-3 of Semester III, Unit 15 (Validation Edition, Student's Edition; Unit 15 has ten lessons and each lesson is one unit here; Units 13-14 are not in the books provided). It is the start of a course: the textbooks that follow will be added after it with the same
+Unit 1 (Student's Edition, 2022); units 12-15 are Chapters 5-8 of Semester 1, Unit 2 (Student's Edition, 2024); units 16-19 are Chapters 9-12 of Semester 1, Unit 3 (Student's Edition, 2022); units 20-23 are Chapters 13-16 of Semester 1, Unit 4 (Student's Edition, 2022); units 24-27 are Chapters 17-20 of Semester 1, Unit 5 (Student's Edition, 2022); units 28-31 are Chapters 21-24 of Semester 1, Unit 6 (Student's Edition, 2022); units 32-35 are Chapters 25-28 of Semester 1, Unit 7 (Student's Edition, 2022); units 36-39 are Chapters 29-32 of Semester 2, Unit 8 (Student's Edition, 2022, Validation Edition); units 40-43 are Chapters 33-36 of Semester 2, Unit 9 (Student's Edition, 2022, Validation Edition); units 44-47 are Chapters 37-40 of Semester 2, Unit 10 (Student's Edition, 2022); units 48-51 are Chapters 41-44 of Semester 2, Unit 11 (Student's Edition, 2022); units 52-55 are Chapters 45-48 of Semester 2, Unit 12 (Student's Edition, 2022); units 56-61 are Lessons 1-6 of Semester III, Unit 15 (Validation Edition, Student's Edition; Unit 15 has ten lessons and each lesson is one unit here; Units 13-14 are not in the books provided). It is the start of a course: the textbooks that follow will be added after it with the same
 pipeline (ids `ko_01`... in order; new units go at the end).
 
 | Unit | Lessons | Content |
@@ -1180,6 +1180,9 @@ pipeline (ids `ko_01`... in order; new units go at the end).
 | 56. S3 U15 L1: Accidents (사고) | 613-619 | review of accident words and 車 傷 線 速 全; signs and a train-derailment blog; ~대교 and the Incheon Bridge bus crash; car-trouble advice; motorcycle-safety column; per-activity vocabulary lists |
 | 57. S3 U15 L2: Accidents and Crimes (사고와 범죄) | 620-626 | review and 人 大 海 告 死; Gaesung Industrial Park and a bus collision; proverbs; K21 armored-vehicle accident; three diaries; F-5 fighter commentary; per-activity vocabulary lists |
 | 58. S3 U15 L3: Crimes (범죄) | 627-633 | review and 力 民 犯 事 署; drunk-driving penalties abroad; convenience-store robbery; crimes in the military; 무죄추정의 원칙, criminal law amendment and the debate on disclosing suspects' faces; per-activity vocabulary lists |
+| 59. S3 U15 L4: Weather and Natural Disasters (날씨와 자연재해) | 634-640 | review of season and weather words and 氣 雨 暴 度 水; weather disasters and dressing for the weather; an editorial on disasters and the rich-poor gap; the autumn syndrome article and 타다; per-activity vocabulary lists |
+| 60. S3 U15 L5: Natural Disasters (자연재해) | 641-647 | review and 災 地 震 失 風; the Yalu and Tumen rivers; the Sinuiju flood report; an editorial on rice aid to North Korea and eight number idioms; why half the world is hungry; per-activity vocabulary lists |
+| 61. S3 U15 L6: Environment (환경) | 648-654 | review and 物 溫 再 廢 活; greenhouse gas of office workers and the Environmental Crisis Clock; food mileage; saving resources; an eco-friendly clothing designer interview; per-activity vocabulary lists |
 
 The lessons are original text in the scope and order of the book: its tables, word lists, drills and rules are all there, each
 drill turned into questions about the reading.
@@ -1198,7 +1201,7 @@ drill turned into questions about the reading.
 - `dsl_ko.py` has the constructors and the checks; `ko_auto.py` has the generators (look-alike syllables and words, sound
   groups, dictionary order, Sino-Korean and native numbers, "said" tables). Wrong options are made from the said syllables, so a
   distractor does not give itself away, and in the look-alike drills it never sounds the same as the answer.
-- `ko_unit1.py` ... `ko_unit58.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
+- `ko_unit1.py` ... `ko_unit61.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
   with 0 errors.
 - Checks: every pronunciation printed in the book (`ptable`, `ctable`, `atable`, `pr`) must equal the engine's; every
   romanization shown is compared with the deck's reading of the same word (500 words, 0 differences); spoken text (examples and
