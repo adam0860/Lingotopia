@@ -1115,9 +1115,9 @@ answer validity, leftover markup or numeric pinyin, and that spoken cells are Ch
 
 ### Korean lessons (Hangul, pronunciation rules and first words)
 
-`assets/lessons/ko_lessons.json` has 96 lessons and 4,328 exercises in eleven units. Units 1-7 come from the Introductory Unit
+`assets/lessons/ko_lessons.json` has 134 lessons and 6,852 exercises in fifteen units. Units 1-7 come from the Introductory Unit
 of the Korean Basic Course (Lessons 1 to 6 and the Appendix, Student's Edition); units 8-11 are Chapters 1-4 of Semester 1,
-Unit 1 (Student's Edition, 2022). It is the start of a course: the textbooks that follow will be added after it with the same
+Unit 1 (Student's Edition, 2022); units 12-15 are Chapters 5-8 of Semester 1, Unit 2 (Student's Edition, 2024). It is the start of a course: the textbooks that follow will be added after it with the same
 pipeline (ids `ko_01`... in order; new units go at the end).
 
 | Unit | Lessons | Content |
@@ -1133,6 +1133,10 @@ pipeline (ids `ko_01`... in order; new units go at the end).
 | 9. S1 U1 Ch 2: My Family (우리 가족) | 70-78 | family words; counters 명/분 and native numbers; ages (살, 세); 있다/없다 for possession; honorifics; occupations; informal -아요/어요 and -(으)세요; conjunctive -고; core vocabulary |
 | 10. S1 U1 Ch 3: My House (우리 집) | 79-87 | rooms and houses; position words and colors; ~에 있다/없다; demonstratives 이/그/저; daily activities; object markers 을/를; ~에서; the "verb maker" ~하다; 색 食 室; core vocabulary |
 | 11. S1 U1 Ch 4: My Life at DLI (DLI 생활) | 88-96 | facilities, countries and languages (관 장 국 어 인); classroom rules and instructions; -(으)세요 and -지 마세요; ㄹ irregular verbs; asking for and giving directions; ordinals; (으)로; the attributive -(으)ㄴ of stative verbs; core vocabulary |
+| 12. S1 U2 Ch 5: Daily Activities (하루 일과) | 97-105 | the time of day and the clock; antonyms and synonyms; 매/일/주; 에서/에 for from and to; -아서/어서 (and then); days, dates and months; 전/후 and 기 전에/(으)ㄴ 후에; the blunt style (반말); core vocabulary and self-evaluation |
+| 13. S1 U2 Ch 6: Weather and Hobbies (날씨와 취미) | 106-114 | the four seasons and the weather; hobbies and sports (하다/타다/치다); 구 (球); ㅂ irregular verbs; -고 싶다/-고 싶어하다; weekend activities; -(으)ㅂ시다 and -자; -(으)러 가다/오다; core vocabulary and self-evaluation |
+| 14. S1 U2 Ch 7: Downtown Monterey (몬트레이 시내에서) | 115-124 | businesses around town; 소 (所) and 점 (店); ordering at a restaurant, counters 병/잔/인분 and 음 (飮); the menu and Korean dishes; the hair salon and -게; 안 and 못; -아서/어서 for reasons; -아/어 주세요; -(으)ㄹ까요?; core vocabulary |
+| 15. S1 U2 Ch 8: Last Weekend (지난 주말) | 125-134 | traveling last weekend, compound verbs with 가다/오다/다니다, 품 (品) and 복 (服); a promotion party and officer ranks, 大 中 小 少; the past tense -았/었; -아/어 보다; a survey, a general's family and an alibi e-mail; a long weekend; ~은/는, 만 and 도; -아/어야 하다/되다; a writer's life; core vocabulary |
 
 The lessons are original text in the scope and order of the book: its tables, word lists, drills and rules are all there, each
 drill turned into questions about the reading.
@@ -1151,7 +1155,7 @@ drill turned into questions about the reading.
 - `dsl_ko.py` has the constructors and the checks; `ko_auto.py` has the generators (look-alike syllables and words, sound
   groups, dictionary order, Sino-Korean and native numbers, "said" tables). Wrong options are made from the said syllables, so a
   distractor does not give itself away, and in the look-alike drills it never sounds the same as the answer.
-- `ko_unit1.py` ... `ko_unit11.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
+- `ko_unit1.py` ... `ko_unit15.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
   with 0 errors.
 - Checks: every pronunciation printed in the book (`ptable`, `ctable`, `atable`, `pr`) must equal the engine's; every
   romanization shown is compared with the deck's reading of the same word (500 words, 0 differences); spoken text (examples and
