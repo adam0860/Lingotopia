@@ -1115,9 +1115,9 @@ answer validity, leftover markup or numeric pinyin, and that spoken cells are Ch
 
 ### Korean lessons (Hangul, pronunciation rules and first words)
 
-`assets/lessons/ko_lessons.json` has 225 lessons and 12,683 exercises in twenty-three units. Units 1-7 come from the Introductory Unit
+`assets/lessons/ko_lessons.json` has 272 lessons and 15,534 exercises in twenty-seven units. Units 1-7 come from the Introductory Unit
 of the Korean Basic Course (Lessons 1 to 6 and the Appendix, Student's Edition); units 8-11 are Chapters 1-4 of Semester 1,
-Unit 1 (Student's Edition, 2022); units 12-15 are Chapters 5-8 of Semester 1, Unit 2 (Student's Edition, 2024); units 16-19 are Chapters 9-12 of Semester 1, Unit 3 (Student's Edition, 2022); units 20-23 are Chapters 13-16 of Semester 1, Unit 4 (Student's Edition, 2022). It is the start of a course: the textbooks that follow will be added after it with the same
+Unit 1 (Student's Edition, 2022); units 12-15 are Chapters 5-8 of Semester 1, Unit 2 (Student's Edition, 2024); units 16-19 are Chapters 9-12 of Semester 1, Unit 3 (Student's Edition, 2022); units 20-23 are Chapters 13-16 of Semester 1, Unit 4 (Student's Edition, 2022); units 24-27 are Chapters 17-20 of Semester 1, Unit 5 (Student's Edition, 2022). It is the start of a course: the textbooks that follow will be added after it with the same
 pipeline (ids `ko_01`... in order; new units go at the end).
 
 | Unit | Lessons | Content |
@@ -1145,6 +1145,10 @@ pipeline (ids `ko_01`... in order; new units go at the end).
 | 21. S1 U4 Ch 14: Public Transportation in Korea (한국의 대중 교통) | 191-202 | word origins (etymology); the airport information desk; getting from the airport to Seoul; the subway and announcements; -고 있다; -기(를) 바라다; routes and an ad; taxis and traffic signs (禁, 道); ㄷ irregular verbs; -(으)니까; core vocabulary |
 | 22. S1 U4 Ch 15: The Korean Peninsula and the Korean War (한반도와 한국전쟁) | 203-213 | 해 (海) and 부 (部); Mount Seorak and Jeju; clue words; the War Memorial; the weather forecast and temperatures; -아/어지다; -(으)ㄴ데/는데; Panmunjom (JSA); -아/어도; the formal blunt style; core vocabulary |
 | 23. S1 U4 Ch 16: Touring in Korea (한국에서 여행하기) | 214-225 | 불/부 (不), 형 (型), 적 (的); a travel agency and a Jeju package ad; renting a car, car parts and rest stops; the word search; 아무나; -(으)ㄹ 줄 알다/모르다; Gyeongju sights and a journal; -(으)면서; -군요/-네요; core vocabulary |
+| 24. S1 U5 Ch 17: Cultural Life (문화생활) | 226-236 | 회 (會); David and Taehee's hobbies and the Gallup survey; a ballet poster, core words and the booking steps; online ticket instructions; the gerund -는 것/-기; 르 irregular verbs; a movie schedule dialog and matinee note; CGV and Megabox ads, a review and a diary entry; attributive forms and 것 같다; core vocabulary |
+| 25. S1 U5 Ch 18: Shopping (물건 사기) | 237-248 | 전 (電); exchanging a tie, the department store directory; matching words and the Asia department store Q&A; the refrigerator dialog and a washer ad; the Star Electronics list; the mutual object 와/과, 하고, (이)랑; -(으)ㄹ게요; the open-air market journal, counters and flyers; the Namdaemun Market article; ~만큼; -기로 하다; core vocabulary |
+| 26. S1 U5 Ch 19: Sports and Outdoor Activities (스포츠와 야외 활동) | 249-260 | 승 (勝) and 패 (敗); the Olympic events dialog and the sports; the table tennis article and schedule; the weekend farm dialog and 농 (農); the Saessak farm ad; -(으)ㄴ 적이 있다/없다; ㅎ irregular verbs; the club dialog, flyers and application form; ~에 대해(서) and ~에 대한; incomplete sentences with 요; the scuba diving and bungee jumping posters; core vocabulary |
+| 27. S1 U5 Ch 20: Body and Health (우리 몸과 건강) | 261-272 | 약 (藥); describing Jihoon and the parts of the body; describing faces; the pharmacy dialog; the Hyunsoo Q&A and three family notes; -는 동안(에); -자마자; the doctor's office dialog; the wrist injury post and the health counseling Q&A; -다(가); -(으)ㄹ 뻔하다; core vocabulary |
 
 The lessons are original text in the scope and order of the book: its tables, word lists, drills and rules are all there, each
 drill turned into questions about the reading.
@@ -1163,7 +1167,7 @@ drill turned into questions about the reading.
 - `dsl_ko.py` has the constructors and the checks; `ko_auto.py` has the generators (look-alike syllables and words, sound
   groups, dictionary order, Sino-Korean and native numbers, "said" tables). Wrong options are made from the said syllables, so a
   distractor does not give itself away, and in the look-alike drills it never sounds the same as the answer.
-- `ko_unit1.py` ... `ko_unit23.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
+- `ko_unit1.py` ... `ko_unit27.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
   with 0 errors.
 - Checks: every pronunciation printed in the book (`ptable`, `ctable`, `atable`, `pr`) must equal the engine's; every
   romanization shown is compared with the deck's reading of the same word (500 words, 0 differences); spoken text (examples and
