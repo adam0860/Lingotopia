@@ -1266,7 +1266,7 @@ here); the Python build runs the same checks.
 
 ### Tagalog lessons (Tagalog Basic Course, Semester I)
 
-`assets/lessons/tl_lessons.json` has 65 lessons and 4,858 exercises in thirteen units (deck `tl_core`, ids `tl_01`... in order; new units go
+`assets/lessons/tl_lessons.json` has 94 lessons and 7,396 exercises in nineteen units (deck `tl_core`, ids `tl_01`... in order; new units go
 at the end). They follow the Tagalog Basic Course Teacher Edition (December 2020), Semester I, one unit per book lesson, each split into
 several short app lessons. Built by `tools/lessons/build_tl_lessons.py` from `tl_unit*.py` using `dsl_tl.py`; a full build writes the file only
 with zero errors. The English explanations are original; the book's vocabulary meanings and answer keys are used where the book prints
@@ -1289,6 +1289,12 @@ written in words; titles in full).
 | 11. C3 L1 | 51-55 | meals, recipes, linkers ng/g/na, fractions, weights and measures |
 | 12. C3 L2 | 56-60 | shopping for food, magkano, prices, demonstratives |
 | 13. C3 L3 | 61-65 | restaurant, food adjectives, business hours, clock time |
+| 14. C4 L1 | 66-69 | school supplies, colors, pang- prefixes, intensified adjectives, enclitics na/pa/ba/lang |
+| 15. C4 L2 | 70-74 | clothes and accessories, moderative adjectives, nasaan and location markers |
+| 16. C4 L3 | 75-79 | at the store, exclamations, exchanges and returns, Set III pronouns, naman |
+| 17. C5 L1 | 80-84 | gifts and foreign currency, um verbs, Set III demonstratives |
+| 18. C5 L2 | 85-89 | at the bank, mag verbs, kailangan |
+| 19. C5 L3 | 90-94 | post office and package delivery, mag verbs, enclitics kaya/nga/din |
 
 No native speaker has reviewed these lessons. `test/tagalog_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
 and that spoken cells and example lines are plain Tagalog. It has not been run (no Flutter SDK here); the Python build runs the same checks.
