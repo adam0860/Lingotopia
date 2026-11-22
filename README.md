@@ -1266,7 +1266,7 @@ here); the Python build runs the same checks.
 
 ### Tagalog lessons (Tagalog Basic Course, Semesters I and II)
 
-`assets/lessons/tl_lessons.json` has 394 lessons and 32,314 exercises in sixty-one units (deck `tl_core`, ids `tl_01`... in order; new units go
+`assets/lessons/tl_lessons.json` has 421 lessons and 33,905 exercises in sixty-four units (deck `tl_core`, ids `tl_01`... in order; new units go
 at the end). They follow the Tagalog Basic Course Teacher Edition (December 2020), Semester I, one unit per book lesson, each split into
 several short app lessons. Built by `tools/lessons/build_tl_lessons.py` from `tl_unit*.py` using `dsl_tl.py`; a full build writes the file only
 with zero errors. The English explanations are original; the book's vocabulary meanings and answer keys are used where the book prints
@@ -1337,6 +1337,9 @@ written in words; titles in full).
 | 59. C25 L1 | 369-376 | Weaknesses of the Filipino character: colonial mentality, padrino system, bahala na, mañana habit, sibling dialog on political dynasty and the anti-dynasty bill, netizen comments, mang verbs, dynasty figures, ningas-kugon and crab mentality, listening dialogs |
 | 60. C25 L2 | 377-385 | Lack of discipline and extreme personalism: palusot system, ningas-kugon, signs ignored, crab mentality, bus-driver accident news, huwag and bawal negatives, mag- and um- conjugation, ROTC proposal, COMELEC registration, listening passages, OPLAN Disiplina |
 | 61. C25 L3 | 386-394 | Initiatives: Moral Recovery Program and Anti-Epal bill, 4Ps conditions, PNP MRP texts, other uses of the infinitive, Ombudsman figures, Huwag kang Magnakaw campaign, Philippine Standard Time, DSWD anti-poverty programs |
+| 62. C26 L1 | 395-403 | Science and technology in the Philippines, the DOST, farm technology, maka/makapag/makapang able verbs, NSTW, agro-meteorology, Filipino inventors |
+| 63. C26 L2 | 404-412 | Issues in science and technology, effects of technology on the youth, inventors and patents, pa-in/hin/nin verbs, video games, identity theft, Republic Act 8293, Filipino beliefs |
+| 64. C26 L3 | 413-421 | Initiatives addressing issues in science and technology, PD 1003-A and Pisay, Project NOAH, House Bill 4740, pag-an/han/nan verbs, OL trap kit, National Scientists |
 
 No native speaker has reviewed these lessons. `test/tagalog_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
 and that spoken cells and example lines are plain Tagalog. It has not been run (no Flutter SDK here); the Python build runs the same checks.
