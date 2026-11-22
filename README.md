@@ -317,8 +317,8 @@ About 50 cards have no sentence because the sentence writers skipped
 religious, political, sexual, violent or drug-related words; the cards
 themselves are kept with neutral glosses.
 
-**No native speaker has reviewed this deck**, and there are no Korean lessons
-yet (the lesson screen says so).
+**No native speaker has reviewed this deck.** Its lessons are described under
+[Korean lessons](#korean-lessons-hangul-pronunciation-rules-and-first-words).
 
 ### Italian: lemmatised, glossed and sentence-checked in layers
 
@@ -1112,6 +1112,63 @@ Build and check: `pip install pypinyin --break-system-packages`, then
 
 No native speaker has reviewed these lessons. `test/chinese_lessons_test.dart` checks ids, exercise counts,
 answer validity, leftover markup or numeric pinyin, and that spoken cells are Chinese only.
+
+### Korean lessons (Hangul, pronunciation rules and first words)
+
+`assets/lessons/ko_lessons.json` has 59 lessons and 2,238 exercises in seven units, built from the Introductory Unit of the
+Korean Basic Course (Lessons 1 to 6 and the Appendix, Student's Edition). It is the start of a course: the three semesters of
+textbooks that follow will be added after it with the same pipeline (ids `ko_01`... in order; new units go at the end).
+
+| Unit | Lessons | Content |
+|---|---|---|
+| 1. Hangul 1 | 1-7 | the alphabet and syllable blocks; ㅏ ㅓ ㅗ ㅜ ㅡ ㅣ; ㄱ ㄴ ㄷ ㄹ; reading; saying hello |
+| 2. Hangul 2 | 8-14 | ㅐ ㅔ; the y-vowels; ㅁ ㅂ ㅅ ㅈ ㅎ; reading; thanks |
+| 3. Hangul 3 | 15-21 | the w-vowels and ㅢ; the aspirated ㅊ ㅋ ㅌ ㅍ; telling look-alikes apart; reading; apologies |
+| 4. Hangul 4 | 22-33 | ㅒ ㅖ ㅙ ㅞ; ㄲ ㄸ ㅃ ㅆ ㅉ; plain, aspirated or tense; dictionary order; the eight loanword rules and the loanword lists (food, states, cities); good-byes |
+| 5. Hangul 5 | 34-42 | final consonants (seven sounds, unreleased k t p, ㄴ ㄹ ㅁ ㅇ); telling finals apart; reading; Sino-Korean numbers 0-100; classroom expressions I |
+| 6. Hangul 6 | 43-50 | the sound-linking rule; the eleven final clusters, before a consonant and before a vowel; reading; native Korean numbers 1-99; classroom expressions II |
+| 7. Appendix | 51-59 | assimilation (backward, forward, reciprocal); nasalization; ㄴ to ㄹ and the stop before ㄹ; adding ㄴ or ㄹ; tensification; aspiration; palatalization; Sino-Korean, native and loan words; action and stative verbs |
+
+The lessons are original text in the scope and order of the book: its tables, word lists, drills and rules are all there, each
+drill turned into questions about the reading.
+
+**How the lessons are built** (`tools/lessons/`; `python3 tools/lessons/build_ko_lessons.py`, with `--units N`, `--force`,
+`--quiet` and `--selftest`):
+
+- `ko_rom.py` is a pronunciation engine. It turns spelling into the *said* Hangul and into Revised Romanization of how the word
+  is said: liaison (the sound-linking rule), the seven final sounds, cluster simplification, nasalization, ㄴ/ㄹ assimilation,
+  ㄴ/ㄹ insertion, tensification, aspiration, palatalization. Words whose sound depends on grammar or etymology (the Sino-Korean
+  16, 26 ..., the native numbers 열여섯 and 서른일곱, compounds such as 한여름) are in `OVERRIDES`; `over={...}` handles the rest.
+- `ko_selftest.py` runs 183 cases first (every pronunciation the book prints, the standard cases and romanizations); the build
+  stops if one is wrong, so a change to the engine can never silently change a lesson.
+- `dsl_ko.py` has the constructors and the checks; `ko_auto.py` has the generators (look-alike syllables and words, sound
+  groups, dictionary order, Sino-Korean and native numbers, "said" tables). Wrong options are made from the said syllables, so a
+  distractor does not give itself away, and in the look-alike drills it never sounds the same as the answer.
+- `ko_unit1.py` ... `ko_unit7.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
+  with 0 errors.
+- Checks: every pronunciation printed in the book (`ptable`, `ctable`, `atable`, `pr`) must equal the engine's; every
+  romanization shown is compared with the deck's reading of the same word (500 words, 0 differences); spoken text (examples and
+  `speakCols`) is Hangul only, with no Latin letters or digits; text is NFC with compatibility jamo; romanization is plain
+  lowercase RR; 2-6 distinct options; one `___` per fill-in; highlighted text present; duplicate questions are reported.
+- Conventions: 의 is always `ui`; ㅒ and ㅖ keep their y (걔 gyae, 계 gye); initial ㄹ is `r`, and `l` after a final ㄹ; a
+  tensified consonant caused by a rule is not shown in the romanization (학교 hakgyo, said 학꾜), while a spelled ㄲ ㄸ ㅃ ㅆ ㅉ is
+  (까치 kkachi); the book's two-step changes are kept (몇 리 /멷니/ then /면니/).
+
+**What the lessons leave out:** audio and video, the SMART Board and website activities, the picture activities, word-card and
+soccer games, role-plays, the typing-practice sections, and the dictionary-lookup exercises. Where the book prints no answer (its
+listening and matching exercises, the S/D pairs, the origin and verb-type exercises), the answer key is mine and the lesson says
+so, and so are English meanings the book does not give. In the native-number drill, "100" (item 7 of the self-evaluation) is left
+out because the native numbers stop at 99. The book prints 읊 as /읖/; the lessons write the sound as 읍 and say why. 책 is
+printed without Chinese characters in the book's origin exercise; the key marks it Sino-Korean (冊) and says so.
+
+While building the lessons, 14 romanizations in `assets/decks/korean_core.json` were found to disagree with the Standard
+Pronunciation and were corrected (잃어버리다 ireobeorida, 끓이다 kkeurida, 갇히다 gachida, 담요 damnyo, 묻히다 muchida, 싫어지다
+sireojida, 닫히다 dachida, 넓히다 neolpida, 앉히다 anchida, 굳히다 guchida, 생산량 saengsannyang, 팔찌 paljji, 잇따르다
+ittareuda, 떳떳하다 tteotteotada). Only the `reading` field changed.
+
+No native speaker has reviewed these lessons. `test/korean_lessons_test.dart` checks ids, exercise counts, answer validity,
+leftover markup and conjoining jamo, and that spoken cells and example lines are Hangul only. It has not been run (no Flutter SDK
+here); the Python build runs the same checks.
 
 ## Games
 
