@@ -1115,9 +1115,9 @@ answer validity, leftover markup or numeric pinyin, and that spoken cells are Ch
 
 ### Korean lessons (Hangul, pronunciation rules and first words)
 
-`assets/lessons/ko_lessons.json` has 462 lessons and 25,724 exercises in forty-three units. Units 1-7 come from the Introductory Unit
+`assets/lessons/ko_lessons.json` has 508 lessons and 28,544 exercises in forty-seven units. Units 1-7 come from the Introductory Unit
 of the Korean Basic Course (Lessons 1 to 6 and the Appendix, Student's Edition); units 8-11 are Chapters 1-4 of Semester 1,
-Unit 1 (Student's Edition, 2022); units 12-15 are Chapters 5-8 of Semester 1, Unit 2 (Student's Edition, 2024); units 16-19 are Chapters 9-12 of Semester 1, Unit 3 (Student's Edition, 2022); units 20-23 are Chapters 13-16 of Semester 1, Unit 4 (Student's Edition, 2022); units 24-27 are Chapters 17-20 of Semester 1, Unit 5 (Student's Edition, 2022); units 28-31 are Chapters 21-24 of Semester 1, Unit 6 (Student's Edition, 2022); units 32-35 are Chapters 25-28 of Semester 1, Unit 7 (Student's Edition, 2022); units 36-39 are Chapters 29-32 of Semester 2, Unit 8 (Student's Edition, 2022, Validation Edition); units 40-43 are Chapters 33-36 of Semester 2, Unit 9 (Student's Edition, 2022, Validation Edition). It is the start of a course: the textbooks that follow will be added after it with the same
+Unit 1 (Student's Edition, 2022); units 12-15 are Chapters 5-8 of Semester 1, Unit 2 (Student's Edition, 2024); units 16-19 are Chapters 9-12 of Semester 1, Unit 3 (Student's Edition, 2022); units 20-23 are Chapters 13-16 of Semester 1, Unit 4 (Student's Edition, 2022); units 24-27 are Chapters 17-20 of Semester 1, Unit 5 (Student's Edition, 2022); units 28-31 are Chapters 21-24 of Semester 1, Unit 6 (Student's Edition, 2022); units 32-35 are Chapters 25-28 of Semester 1, Unit 7 (Student's Edition, 2022); units 36-39 are Chapters 29-32 of Semester 2, Unit 8 (Student's Edition, 2022, Validation Edition); units 40-43 are Chapters 33-36 of Semester 2, Unit 9 (Student's Edition, 2022, Validation Edition); units 44-47 are Chapters 37-40 of Semester 2, Unit 10 (Student's Edition, 2022). It is the start of a course: the textbooks that follow will be added after it with the same
 pipeline (ids `ko_01`... in order; new units go at the end).
 
 | Unit | Lessons | Content |
@@ -1165,6 +1165,10 @@ pipeline (ids `ko_01`... in order; new units go at the end).
 | 41. S2 U9 Ch 34: College Life (대학 생활) | 426-437 | 부전공, 교환, 기간 Sino-Korean; vocabulary builder, crossword clues and 현수's return; Mijin's plans and interests-to-majors; popular-majors article and night-class timetable; 복학 dialog, housing and Q&A; double negatives; -지 말고/~말고; freshman survey; Topic C after graduation and language-study flyer; ~같이/처럼/같은; -(으)면 -(으)ㄹ수록; core vocabulary |
 | 42. S2 U9 Ch 35: Job Hunting (직장 구하기) | 438-450 | 자, 하반기, 구직, 면접 Sino-Korean; vocabulary builder; Topic A job-fair dialog and recruiting ads; Topic B job-hunter routine and Seoul Job Center; passive infixes 이/히/리/기; 보이다/들리다 and the neighbor's statement; three job hunters; Topic C interview and interview tips; 만큼; -다고; interviewee preferences; core vocabulary |
 | 43. S2 U9 Ch 36: Life at Work (직장생활) | 451-462 | 유/무, 능력, 개업 Sino-Korean; vocabulary builder; a new employee's day and learning-language trend; new-employee survey; 대리 promotion dialog; worker surveys; -다(가) 보니(까); -줄 알았다/몰랐다; retirement and start-up stories and Q&A; ~(이)나; -는 대로; core vocabulary |
+| 44. S2 U10 Ch 37: Accidents (사고) | 463-472 | 인명, 운전자, 야간 Sino-Korean; vocabulary builder; fire report and EEIs; Olympic Bridge accident, rescue and pileup articles; attributive + 것; -(으)ㄴ 채(로); misfire dialog; -(으)ㄹ 때마다/부터/까지; F-4E article; core vocabulary |
+| 45. S2 U10 Ch 38: Crime (범죄) | 473-483 | 폭력, 강력, 불법 Sino-Korean; vocabulary builder; convenience store robbery, witness statement and game-item article; youth counselor and drug article; 대로; -고 말다; university violence survey; detective interview and counterfeit-bill article; -아/어 있다; -(으)ㄴ/는 한; core vocabulary |
+| 46. S2 U10 Ch 39: Natural Disasters (자연재해) | 484-495 | 예보, 폭우, 지진 Sino-Korean; vocabulary builder; weather forecast, living index and four seasons; flood dialog and flood texts; question words as indefinite pronouns; -다는; Türkiye earthquake and tsunami articles; (이)나/(이)든지; 관해서/관한 and 위해서/위한; rescue-dog article; core vocabulary |
+| 47. S2 U10 Ch 40: The Environment (환경) | 496-508 | 분리, 재활용, 온난화, 식물, 경차 Sino-Korean; vocabulary builder; waste separation announcement and 종량제; PET-bottle, food-waste and reader-opinion readings; global warming report and ~ 등; abbreviated -(으)ㅁ/-(으)ㄹ 것; news -것으로; mayor interview and company email; Earth Day and Paris Agreement; -자; -다면; core vocabulary |
 
 The lessons are original text in the scope and order of the book: its tables, word lists, drills and rules are all there, each
 drill turned into questions about the reading.
@@ -1183,7 +1187,7 @@ drill turned into questions about the reading.
 - `dsl_ko.py` has the constructors and the checks; `ko_auto.py` has the generators (look-alike syllables and words, sound
   groups, dictionary order, Sino-Korean and native numbers, "said" tables). Wrong options are made from the said syllables, so a
   distractor does not give itself away, and in the look-alike drills it never sounds the same as the answer.
-- `ko_unit1.py` ... `ko_unit43.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
+- `ko_unit1.py` ... `ko_unit47.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
   with 0 errors.
 - Checks: every pronunciation printed in the book (`ptable`, `ctable`, `atable`, `pr`) must equal the engine's; every
   romanization shown is compared with the deck's reading of the same word (500 words, 0 differences); spoken text (examples and
