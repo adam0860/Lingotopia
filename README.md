@@ -392,8 +392,7 @@ supplies the lemmatiser and `tools/generate_deck_tagalog.py` builds the deck:
 **No native speaker has reviewed this deck.** Known weaknesses: related cards
 such as kain / kumain / kainin coexist; written sentences are AI Tagalog and may
 sound textbook-ish; some cards share example sentences with their root; stress
-marks are not shown; and there are no Tagalog lessons yet (the lesson screen
-says so).
+marks are not shown. Tagalog lessons are under "Tagalog lessons" below.
 
 ### Polish: spaCy lemmas, aspect pairs as separate cards
 
@@ -1264,6 +1263,35 @@ ittareuda, 떳떳하다 tteotteotada). Only the `reading` field changed.
 No native speaker has reviewed these lessons. `test/korean_lessons_test.dart` checks ids, exercise counts, answer validity,
 leftover markup and conjoining jamo, and that spoken cells and example lines are Hangul only. It has not been run (no Flutter SDK
 here); the Python build runs the same checks.
+
+### Tagalog lessons (Tagalog Basic Course, Semester I)
+
+`assets/lessons/tl_lessons.json` has 65 lessons and 4,858 exercises in thirteen units (deck `tl_core`, ids `tl_01`... in order; new units go
+at the end). They follow the Tagalog Basic Course Teacher Edition (December 2020), Semester I, one unit per book lesson, each split into
+several short app lessons. Built by `tools/lessons/build_tl_lessons.py` from `tl_unit*.py` using `dsl_tl.py`; a full build writes the file only
+with zero errors. The English explanations are original; the book's vocabulary meanings and answer keys are used where the book prints
+them (misprints are corrected and noted in the lesson). Audio, pictures, pair and group work are left out and listed in an "Activities left
+out" card; song lyrics (the anthem) are not reproduced. Spoken Tagalog is checked to be plain letters (numbers, prices and clock times are
+written in words; titles in full).
+
+| Unit | Lessons | Content |
+|---|---|---|
+| 1. C1 Day 1 | 1-6 | greetings and Tagalog sounds |
+| 2. C1 Day 2 | 7-13 | classroom words, colors, shapes, days, months, numbers |
+| 3. C1 Day 3 | 14-21 | numbers to the thousands (Tagalog and Spanish-derived), time, age, weight, dates, stress and glottal marks |
+| 4. C1 L4 | 22-25 | sino, Set I markers, the Tagalog sentence |
+| 5. C1 L5 | 26-29 | greetings, courtesies, pronouns, demonstratives |
+| 6. C2 L1 | 30-33 | family, kinship terms, Set II pronouns, ordinals |
+| 7. C2 L2 | 34-37 | nationality and religion, Set II markers, ma adjectives |
+| 8. C2 L3 | 38-41 | jobs and military ranks, taga-saan, ba, -ero/-era |
+| 9. C2 L4 | 42-46 | physical appearance, body parts |
+| 10. C2 L5 | 47-50 | biographical information, question words |
+| 11. C3 L1 | 51-55 | meals, recipes, linkers ng/g/na, fractions, weights and measures |
+| 12. C3 L2 | 56-60 | shopping for food, magkano, prices, demonstratives |
+| 13. C3 L3 | 61-65 | restaurant, food adjectives, business hours, clock time |
+
+No native speaker has reviewed these lessons. `test/tagalog_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
+and that spoken cells and example lines are plain Tagalog. It has not been run (no Flutter SDK here); the Python build runs the same checks.
 
 ## Games
 
