@@ -1115,9 +1115,9 @@ answer validity, leftover markup or numeric pinyin, and that spoken cells are Ch
 
 ### Korean lessons (Hangul, pronunciation rules and first words)
 
-`assets/lessons/ko_lessons.json` has 320 lessons and 18,302 exercises in thirty-one units. Units 1-7 come from the Introductory Unit
+`assets/lessons/ko_lessons.json` has 363 lessons and 20,871 exercises in thirty-five units. Units 1-7 come from the Introductory Unit
 of the Korean Basic Course (Lessons 1 to 6 and the Appendix, Student's Edition); units 8-11 are Chapters 1-4 of Semester 1,
-Unit 1 (Student's Edition, 2022); units 12-15 are Chapters 5-8 of Semester 1, Unit 2 (Student's Edition, 2024); units 16-19 are Chapters 9-12 of Semester 1, Unit 3 (Student's Edition, 2022); units 20-23 are Chapters 13-16 of Semester 1, Unit 4 (Student's Edition, 2022); units 24-27 are Chapters 17-20 of Semester 1, Unit 5 (Student's Edition, 2022); units 28-31 are Chapters 21-24 of Semester 1, Unit 6 (Student's Edition, 2022), which finishes Semester 1. It is the start of a course: the textbooks that follow will be added after it with the same
+Unit 1 (Student's Edition, 2022); units 12-15 are Chapters 5-8 of Semester 1, Unit 2 (Student's Edition, 2024); units 16-19 are Chapters 9-12 of Semester 1, Unit 3 (Student's Edition, 2022); units 20-23 are Chapters 13-16 of Semester 1, Unit 4 (Student's Edition, 2022); units 24-27 are Chapters 17-20 of Semester 1, Unit 5 (Student's Edition, 2022); units 28-31 are Chapters 21-24 of Semester 1, Unit 6 (Student's Edition, 2022); units 32-35 are Chapters 25-28 of Semester 1, Unit 7 (Student's Edition, 2022). It is the start of a course: the textbooks that follow will be added after it with the same
 pipeline (ids `ko_01`... in order; new units go at the end).
 
 | Unit | Lessons | Content |
@@ -1153,6 +1153,10 @@ pipeline (ids `ko_01`... in order; new units go at the end).
 | 29. S1 U6 Ch 22: Home Life (가정 생활) | 285-296 | 나눠서 and ~질; the household chores dialog; the housework survey and a husband's worry; the leaking toilet dialog; e-mails to the management office; -지 (interrogative clause) and its follow-ups; reducing living expenses; expense types and home finances; -기 위해(서); -거나/든지; core vocabulary |
 | 30. S1 U6 Ch 23: Traditional Korean Holidays and Observances (한국의 명절과 기념일) | 297-308 | the holidays table; national and legal holidays; the October calendar; New Year's bow; New Year's money, folk games, 객 (客); Parents' Day; occasion cards and a survey; -다고/라고 하다; -지요; -았었/-었었; core vocabulary |
 | 31. S1 U6 Ch 24: Military Life in Korea (한국의 군대 생활) | 309-320 | army branches, 무 (務); joining the military dialog; a journal and a letter to parents; basic training at Nonsan; gear, weapons, 체 (體), a trainee's letter; SSG Anderson and the unit organization; 대 (隊), 과 (課), KATUSA article; -(으/느)냐고 하다; -(으)라고 하다 and -자고 하다; 하다 vs 되다; ~밖에 + negative verb; core vocabulary |
+| 32. S1 U7 Ch 25: The Korean Family (한국의 가족) | 321-332 | family, relatives and kinship terms; Topics A-C with their dialogs, texts and tables; noun derivation; -(으)ㄴ/는 데다가 and related patterns; core vocabulary and self-evaluation |
+| 33. S1 U7 Ch 26: Family Events and Marriage (가정행사와 결혼 문화) | 333-344 | the zodiac table; the Hyun Bin and Son Ye-jin article; invitations; the 축의금 article; the wedding plan; -(으)ㄹ 중이다 and 대신에 patterns; core vocabulary |
+| 34. S1 U7 Ch 27: Social Gatherings (친목 모임) | 345-352 | housewarming and company gatherings; blog, e-mails and notes; contracted reported speech; -(으)ㄹ래(요); -아/어 버리다; 친 (親) and 선 (先); core vocabulary |
+| 35. S1 U7 Ch 28: Polite Koreans (예의 바른 한국인) | 353-363 | 례/예 (禮) and 음 (音); Korean dialects; generations dialog and blog; 존댓말 and 반말 dialog and essay; the four speech styles with the scripts and the grandfather essay; the K-pop article; greeting and etiquette dialog; -지(요); -나(요); core vocabulary |
 
 The lessons are original text in the scope and order of the book: its tables, word lists, drills and rules are all there, each
 drill turned into questions about the reading.
@@ -1171,7 +1175,7 @@ drill turned into questions about the reading.
 - `dsl_ko.py` has the constructors and the checks; `ko_auto.py` has the generators (look-alike syllables and words, sound
   groups, dictionary order, Sino-Korean and native numbers, "said" tables). Wrong options are made from the said syllables, so a
   distractor does not give itself away, and in the look-alike drills it never sounds the same as the answer.
-- `ko_unit1.py` ... `ko_unit31.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
+- `ko_unit1.py` ... `ko_unit35.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
   with 0 errors.
 - Checks: every pronunciation printed in the book (`ptable`, `ctable`, `atable`, `pr`) must equal the engine's; every
   romanization shown is compared with the deck's reading of the same word (500 words, 0 differences); spoken text (examples and
