@@ -1115,9 +1115,9 @@ answer validity, leftover markup or numeric pinyin, and that spoken cells are Ch
 
 ### Korean lessons (Hangul, pronunciation rules and first words)
 
-`assets/lessons/ko_lessons.json` has 272 lessons and 15,534 exercises in twenty-seven units. Units 1-7 come from the Introductory Unit
+`assets/lessons/ko_lessons.json` has 320 lessons and 18,302 exercises in thirty-one units. Units 1-7 come from the Introductory Unit
 of the Korean Basic Course (Lessons 1 to 6 and the Appendix, Student's Edition); units 8-11 are Chapters 1-4 of Semester 1,
-Unit 1 (Student's Edition, 2022); units 12-15 are Chapters 5-8 of Semester 1, Unit 2 (Student's Edition, 2024); units 16-19 are Chapters 9-12 of Semester 1, Unit 3 (Student's Edition, 2022); units 20-23 are Chapters 13-16 of Semester 1, Unit 4 (Student's Edition, 2022); units 24-27 are Chapters 17-20 of Semester 1, Unit 5 (Student's Edition, 2022). It is the start of a course: the textbooks that follow will be added after it with the same
+Unit 1 (Student's Edition, 2022); units 12-15 are Chapters 5-8 of Semester 1, Unit 2 (Student's Edition, 2024); units 16-19 are Chapters 9-12 of Semester 1, Unit 3 (Student's Edition, 2022); units 20-23 are Chapters 13-16 of Semester 1, Unit 4 (Student's Edition, 2022); units 24-27 are Chapters 17-20 of Semester 1, Unit 5 (Student's Edition, 2022); units 28-31 are Chapters 21-24 of Semester 1, Unit 6 (Student's Edition, 2022), which finishes Semester 1. It is the start of a course: the textbooks that follow will be added after it with the same
 pipeline (ids `ko_01`... in order; new units go at the end).
 
 | Unit | Lessons | Content |
@@ -1149,6 +1149,10 @@ pipeline (ids `ko_01`... in order; new units go at the end).
 | 25. S1 U5 Ch 18: Shopping (물건 사기) | 237-248 | 전 (電); exchanging a tie, the department store directory; matching words and the Asia department store Q&A; the refrigerator dialog and a washer ad; the Star Electronics list; the mutual object 와/과, 하고, (이)랑; -(으)ㄹ게요; the open-air market journal, counters and flyers; the Namdaemun Market article; ~만큼; -기로 하다; core vocabulary |
 | 26. S1 U5 Ch 19: Sports and Outdoor Activities (스포츠와 야외 활동) | 249-260 | 승 (勝) and 패 (敗); the Olympic events dialog and the sports; the table tennis article and schedule; the weekend farm dialog and 농 (農); the Saessak farm ad; -(으)ㄴ 적이 있다/없다; ㅎ irregular verbs; the club dialog, flyers and application form; ~에 대해(서) and ~에 대한; incomplete sentences with 요; the scuba diving and bungee jumping posters; core vocabulary |
 | 27. S1 U5 Ch 20: Body and Health (우리 몸과 건강) | 261-272 | 약 (藥); describing Jihoon and the parts of the body; describing faces; the pharmacy dialog; the Hyunsoo Q&A and three family notes; -는 동안(에); -자마자; the doctor's office dialog; the wrist injury post and the health counseling Q&A; -다(가); -(으)ㄹ 뻔하다; core vocabulary |
+| 28. S1 U6 Ch 21: House Hunting and Moving (집 구하기와 이사하기) | 273-284 | 다 (多); the new apartment dialog; housing types and a parents' apartment; Topic B (전세/월세, 동 (動)); real estate ads, Sangjin's journal and rental ads; -(으)려고 하다; -(으)ㄴ/는 편이다; Topic C (이 (移)); the steps of moving; -(으)ㄹ까 하다; 좋다 / 좋아하다 and 싫다 / 싫어하다; core vocabulary |
+| 29. S1 U6 Ch 22: Home Life (가정 생활) | 285-296 | 나눠서 and ~질; the household chores dialog; the housework survey and a husband's worry; the leaking toilet dialog; e-mails to the management office; -지 (interrogative clause) and its follow-ups; reducing living expenses; expense types and home finances; -기 위해(서); -거나/든지; core vocabulary |
+| 30. S1 U6 Ch 23: Traditional Korean Holidays and Observances (한국의 명절과 기념일) | 297-308 | the holidays table; national and legal holidays; the October calendar; New Year's bow; New Year's money, folk games, 객 (客); Parents' Day; occasion cards and a survey; -다고/라고 하다; -지요; -았었/-었었; core vocabulary |
+| 31. S1 U6 Ch 24: Military Life in Korea (한국의 군대 생활) | 309-320 | army branches, 무 (務); joining the military dialog; a journal and a letter to parents; basic training at Nonsan; gear, weapons, 체 (體), a trainee's letter; SSG Anderson and the unit organization; 대 (隊), 과 (課), KATUSA article; -(으/느)냐고 하다; -(으)라고 하다 and -자고 하다; 하다 vs 되다; ~밖에 + negative verb; core vocabulary |
 
 The lessons are original text in the scope and order of the book: its tables, word lists, drills and rules are all there, each
 drill turned into questions about the reading.
@@ -1167,7 +1171,7 @@ drill turned into questions about the reading.
 - `dsl_ko.py` has the constructors and the checks; `ko_auto.py` has the generators (look-alike syllables and words, sound
   groups, dictionary order, Sino-Korean and native numbers, "said" tables). Wrong options are made from the said syllables, so a
   distractor does not give itself away, and in the look-alike drills it never sounds the same as the answer.
-- `ko_unit1.py` ... `ko_unit27.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
+- `ko_unit1.py` ... `ko_unit31.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
   with 0 errors.
 - Checks: every pronunciation printed in the book (`ptable`, `ctable`, `atable`, `pr`) must equal the engine's; every
   romanization shown is compared with the deck's reading of the same word (500 words, 0 differences); spoken text (examples and
