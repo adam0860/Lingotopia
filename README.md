@@ -1266,7 +1266,7 @@ here); the Python build runs the same checks.
 
 ### Tagalog lessons (Tagalog Basic Course, Semester I)
 
-`assets/lessons/tl_lessons.json` has 181 lessons and 15,093 exercises in thirty-four units (deck `tl_core`, ids `tl_01`... in order; new units go
+`assets/lessons/tl_lessons.json` has 202 lessons and 17,341 exercises in thirty-seven units (deck `tl_core`, ids `tl_01`... in order; new units go
 at the end). They follow the Tagalog Basic Course Teacher Edition (December 2020), Semester I, one unit per book lesson, each split into
 several short app lessons. Built by `tools/lessons/build_tl_lessons.py` from `tl_unit*.py` using `dsl_tl.py`; a full build writes the file only
 with zero errors. The English explanations are original; the book's vocabulary meanings and answer keys are used where the book prints
@@ -1310,6 +1310,9 @@ written in words; titles in full).
 | 32. C10 L1 | 164-169 | air, land and sea travel, enclitics sana/yata/muna/na/kasi, alin |
 | 33. C10 L2 | 170-175 | lodging, enclitics lang/raw/rin/naman, time words I |
 | 34. C10 L3 | 176-181 | experiences at the airport, enclitics pa/pala/nga/kaya/tuloy, time words II |
+| 35. C11 L1 | 182-188 | simple directions, um verbs for directions, pa/pa+um/patungo, conjunctions at/pero/pagkatapos/kasi |
+| 36. C11 L2 | 189-195 | daily activities, mang verbs, conjunctions kaya/kapag/para, mag verbs in the present |
+| 37. C11 L3 | 196-202 | weekend activities, pseudo verbs gusto/ayaw/puwede/kailangan/dapat, kung and kung hindi, mag verbs in the future |
 
 No native speaker has reviewed these lessons. `test/tagalog_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
 and that spoken cells and example lines are plain Tagalog. It has not been run (no Flutter SDK here); the Python build runs the same checks.
