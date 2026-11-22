@@ -1266,7 +1266,7 @@ here); the Python build runs the same checks.
 
 ### Tagalog lessons (Tagalog Basic Course, Semester I)
 
-`assets/lessons/tl_lessons.json` has 126 lessons and 10,307 exercises in twenty-five units (deck `tl_core`, ids `tl_01`... in order; new units go
+`assets/lessons/tl_lessons.json` has 181 lessons and 15,093 exercises in thirty-four units (deck `tl_core`, ids `tl_01`... in order; new units go
 at the end). They follow the Tagalog Basic Course Teacher Edition (December 2020), Semester I, one unit per book lesson, each split into
 several short app lessons. Built by `tools/lessons/build_tl_lessons.py` from `tl_unit*.py` using `dsl_tl.py`; a full build writes the file only
 with zero errors. The English explanations are original; the book's vocabulary meanings and answer keys are used where the book prints
@@ -1301,6 +1301,15 @@ written in words; titles in full).
 | 23. C7 L1 | 111-115 | sports, intensified adjectives, mag verbs for sports |
 | 24. C7 L2 | 116-120 | hobbies, ma verbs, um and mag verbs |
 | 25. C7 L3 | 121-126 | entertainment, um/ma/mag verbs, may review |
+| 26. C8 L1 | 127-132 | religious holidays |
+| 27. C8 L2 | 133-138 | engagements and weddings, may/mayroon/wala review |
+| 28. C8 L3 | 139-144 | life events, gerunds from um/mag verbs |
+| 29. C9 L1 | 145-150 | weather, seasons, ma adjectives |
+| 30. C9 L2 | 151-156 | weather forecasts and activities, um verbs |
+| 31. C9 L3 | 157-163 | severe weather, intensified, moderative and plural adjectives |
+| 32. C10 L1 | 164-169 | air, land and sea travel, enclitics sana/yata/muna/na/kasi, alin |
+| 33. C10 L2 | 170-175 | lodging, enclitics lang/raw/rin/naman, time words I |
+| 34. C10 L3 | 176-181 | experiences at the airport, enclitics pa/pala/nga/kaya/tuloy, time words II |
 
 No native speaker has reviewed these lessons. `test/tagalog_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
 and that spoken cells and example lines are plain Tagalog. It has not been run (no Flutter SDK here); the Python build runs the same checks.
