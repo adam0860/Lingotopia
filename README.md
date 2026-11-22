@@ -1264,9 +1264,9 @@ No native speaker has reviewed these lessons. `test/korean_lessons_test.dart` ch
 leftover markup and conjoining jamo, and that spoken cells and example lines are Hangul only. It has not been run (no Flutter SDK
 here); the Python build runs the same checks.
 
-### Tagalog lessons (Tagalog Basic Course, Semester I)
+### Tagalog lessons (Tagalog Basic Course, Semesters I and II)
 
-`assets/lessons/tl_lessons.json` has 270 lessons and 23,868 exercises in forty-six units (deck `tl_core`, ids `tl_01`... in order; new units go
+`assets/lessons/tl_lessons.json` has 292 lessons and 25,274 exercises in forty-nine units (deck `tl_core`, ids `tl_01`... in order; new units go
 at the end). They follow the Tagalog Basic Course Teacher Edition (December 2020), Semester I, one unit per book lesson, each split into
 several short app lessons. Built by `tools/lessons/build_tl_lessons.py` from `tl_unit*.py` using `dsl_tl.py`; a full build writes the file only
 with zero errors. The English explanations are original; the book's vocabulary meanings and answer keys are used where the book prints
@@ -1322,6 +1322,9 @@ written in words; titles in full).
 | 44. C14 L1 | 246-252 | AFP branches and ranks, military families, recent perfective (kaaalis lang), enclitics review, PAATB |
 | 45. C14 L2 | 253-261 | duties and responsibilities, Balikatan, ka-an/han/nan nouns, degrees of adjectives (mas, pinaka) |
 | 46. C14 L3 | 262-270 | PMA/PNPA schooling and training, maging as verb and adverb, pseudo verbs and negative words |
+| 47. C15 L1 | 271-277 | Hospital and other medical services: free public care and medical missions, the blog on sickness and traditional healers, the verb magkaroon (forms, conjugation, doer focus, negation), health budget numbers, hospital interviews |
+| 48. C15 L2 | 278-284 | Common diseases, symptoms and prevention: leptospirosis, dengue, measles and cholera, intransitive um verbs for bodily motions (conjugation, gerund), news and advisory listening, um verb sample sentences |
+| 49. C15 L3 | 285-292 | Health care and benefits: PhilHealth and Universal Healthcare, in/hin/nin verbs (past and present, conjugation, Tagalized verbs), object to doer focus, benefit rules and registration, radio Q and A |
 
 No native speaker has reviewed these lessons. `test/tagalog_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
 and that spoken cells and example lines are plain Tagalog. It has not been run (no Flutter SDK here); the Python build runs the same checks.
