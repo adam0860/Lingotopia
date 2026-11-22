@@ -1266,7 +1266,7 @@ here); the Python build runs the same checks.
 
 ### Tagalog lessons (Tagalog Basic Course, Semesters I and II)
 
-`assets/lessons/tl_lessons.json` has 317 lessons and 27,427 exercises in fifty-two units (deck `tl_core`, ids `tl_01`... in order; new units go
+`assets/lessons/tl_lessons.json` has 343 lessons and 29,236 exercises in fifty-five units (deck `tl_core`, ids `tl_01`... in order; new units go
 at the end). They follow the Tagalog Basic Course Teacher Edition (December 2020), Semester I, one unit per book lesson, each split into
 several short app lessons. Built by `tools/lessons/build_tl_lessons.py` from `tl_unit*.py` using `dsl_tl.py`; a full build writes the file only
 with zero errors. The English explanations are original; the book's vocabulary meanings and answer keys are used where the book prints
@@ -1328,6 +1328,9 @@ written in words; titles in full).
 | 50. C16 L1 | 293-301 | Food and nutrition: sinigang and health foods, recipe (ginataang talbos), health worker and Lola dialog, i-verbs, reservational phrases, in/hin/nin cooking verbs, numbers and recipe listening |
 | 51. C16 L2 | 302-309 | Mental and physical fitness: sleep and rest, triathlon dialog, ma-an verbs (able, feeling, accidental, experience), conjugation, NCMH numbers, walking and caffeine, police fitness test, tips articles |
 | 52. C16 L3 | 310-317 | Health concerns and issues: malnutrition, sanitation and HIV-AIDS, medical mission dialog, ka-an/han/nan nouns (spelling and suffix rules), HIV figures, food safety, school toilets, hunger radio program, health news briefs |
+| 53. C17 L1 | 318-326 | Natural disasters: calamities and volcano instructions, earthquake do's, gerund formation (um, in, mag, an, mang, man, mam, ma), news reports, hazard descriptions |
+| 54. C17 L2 | 327-334 | Man-made disasters: sea tragedy, water pollution, blog on flood, explosion and mining accidents, ma verbs review, headlines, speaking |
+| 55. C17 L3 | 335-343 | Disaster preparedness, response and rehabilitation: NDRRMC, DSWD and relief hashtags, soldier's journal, benefactive verbs (i, ipag, ipang, ipam), PTV infomercial, press briefing, glossary |
 
 No native speaker has reviewed these lessons. `test/tagalog_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
 and that spoken cells and example lines are plain Tagalog. It has not been run (no Flutter SDK here); the Python build runs the same checks.
