@@ -1266,7 +1266,7 @@ here); the Python build runs the same checks.
 
 ### Tagalog lessons (Tagalog Basic Course, Semester I)
 
-`assets/lessons/tl_lessons.json` has 94 lessons and 7,396 exercises in nineteen units (deck `tl_core`, ids `tl_01`... in order; new units go
+`assets/lessons/tl_lessons.json` has 126 lessons and 10,307 exercises in twenty-five units (deck `tl_core`, ids `tl_01`... in order; new units go
 at the end). They follow the Tagalog Basic Course Teacher Edition (December 2020), Semester I, one unit per book lesson, each split into
 several short app lessons. Built by `tools/lessons/build_tl_lessons.py` from `tl_unit*.py` using `dsl_tl.py`; a full build writes the file only
 with zero errors. The English explanations are original; the book's vocabulary meanings and answer keys are used where the book prints
@@ -1295,6 +1295,12 @@ written in words; titles in full).
 | 17. C5 L1 | 80-84 | gifts and foreign currency, um verbs, Set III demonstratives |
 | 18. C5 L2 | 85-89 | at the bank, mag verbs, kailangan |
 | 19. C5 L3 | 90-94 | post office and package delivery, mag verbs, enclitics kaya/nga/din |
+| 20. C6 L1 | 95-99 | renting a place, may/mayroon as "there is/are" |
+| 21. C6 L2 | 100-104 | moving, more um and mag verbs |
+| 22. C6 L3 | 105-110 | furnishing and decorating, may as "to have", wala, mag verbs |
+| 23. C7 L1 | 111-115 | sports, intensified adjectives, mag verbs for sports |
+| 24. C7 L2 | 116-120 | hobbies, ma verbs, um and mag verbs |
+| 25. C7 L3 | 121-126 | entertainment, um/ma/mag verbs, may review |
 
 No native speaker has reviewed these lessons. `test/tagalog_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
 and that spoken cells and example lines are plain Tagalog. It has not been run (no Flutter SDK here); the Python build runs the same checks.
