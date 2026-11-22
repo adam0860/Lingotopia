@@ -168,7 +168,7 @@ def hon_informal(verb):
 
 # ---------------------------------------------------------------- informal -아요 / -어요
 
-_INF_SPECIAL = {"자르다": "잘라요", "돕다": "도와요", "맵다": "매워요", "모르다": "몰라요", "고르다": "골라요", "부르다": "불러요"}
+_INF_SPECIAL = {"자르다": "잘라요", "돕다": "도와요", "맵다": "매워요", "모르다": "몰라요", "고르다": "골라요", "부르다": "불러요", "빠르다": "빨라요", "다르다": "달라요"}
 
 
 def informal(verb):
@@ -342,7 +342,7 @@ def lkka_blunt(verb):
 
 # ---------------------------------------------------------------- Chapter 8: past tense, must, try
 
-_B_IRR = ("춥다", "덥다", "쉽다", "어렵다", "가깝다", "고맙다", "반갑다", "즐겁다", "맵다", "아름답다")
+_B_IRR = ("춥다", "덥다", "쉽다", "어렵다", "가깝다", "고맙다", "반갑다", "즐겁다", "맵다", "아름답다", "귀엽다", "무겁다", "가볍다")
 
 
 def _base_ao(verb):
@@ -383,3 +383,64 @@ def marker(noun, which):
     if which == "은/는":
         return noun + ("은" if has_final(noun) else "는")
     return noun + which
+
+
+# ---------------------------------------------------------------- Chapter 9: future, ability, condition, connectors
+
+def future_(verb):
+    """-(으)ㄹ 거다: (-(으)ㄹ 겁니다, -(으)ㄹ 거예요, -(으)ㄹ 거야); ㄹ stems take 거다 as it is"""
+    st = stem(verb)
+    l, v, t = K.decompose(st[-1])
+    if t == "ㄹ":
+        base = st
+    elif t:
+        base = st + "을"
+    else:
+        base = st[:-1] + K.compose(l, v, "ㄹ")
+    return base + " 겁니다", base + " 거예요", base + " 거야"
+
+
+def can_(verb):
+    """-(으)ㄹ 수 있다 / -(으)ㄹ 수 없다 -> (the -(으)ㄹ 수 part, e.g. 갈 수)"""
+    st = stem(verb)
+    l, v, t = K.decompose(st[-1])
+    if t == "ㄹ":
+        return st + " 수"
+    if t:
+        return st + "을 수"
+    return st[:-1] + K.compose(l, v, "ㄹ") + " 수"
+
+
+def if_(verb):
+    """-(으)면: 가다 -> 가면, 알다 -> 알면, 먹다 -> 먹으면"""
+    st = stem(verb)
+    l, v, t = K.decompose(st[-1])
+    return st + ("으면" if t and t != "ㄹ" else "면")
+
+
+def conn(noun, which):
+    """noun connector: 과/와 (과 after a consonant), (이)랑 (이랑 after a consonant), 하고"""
+    if which == "과/와":
+        return noun + ("과" if has_final(noun) else "와")
+    if which == "(이)랑":
+        return noun + ("이랑" if has_final(noun) else "랑")
+    return noun + "하고"
+
+
+# ---------------------------------------------------------------- Chapter 10: comparison, attributive forms
+
+def adj_inf(verb):
+    """informal polite of a stative verb including the ㅂ irregulars: 춥다 -> 추워요, 크다 -> 커요"""
+    return _base_ao(verb) + "요"
+
+
+def attr(verb):
+    """attributive forms of an action verb: (-는 present, -(으)ㄴ past, -(으)ㄹ future); ㄹ stems drop ㄹ before ㄴ: 살다 -> 사는, 산, 살"""
+    st = stem(verb)
+    l, v, t = K.decompose(st[-1])
+    if t == "ㄹ":
+        d = st[:-1] + K.compose(l, v, "")
+        return d + "는", st[:-1] + K.compose(l, v, "ㄴ"), st
+    if t:
+        return st + "는", st + "은", st + "을"
+    return st + "는", st[:-1] + K.compose(l, v, "ㄴ"), st[:-1] + K.compose(l, v, "ㄹ")

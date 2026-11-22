@@ -113,6 +113,7 @@ OVERRIDES = {
     # ㄴ + ㄹ that is said ㄴㄴ (Standard Pronunciation, rule 20, exceptions)
     "의견란": "의견난", "생산량": "생산냥", "결단력": "결딴녁", "공권력": "공꿘녁", "상견례": "상견녜",
     "이원론": "이원논", "입원료": "이붠뇨", "구근류": "구근뉴", "동원령": "동원녕",
+    "돈가스": "돈까스", "돈가스는": "돈까스는", "식품점": "식품쩜", "식품점이": "식품쩌미", "식품점에": "식품쩌메", "식품점에서": "식품쩌메서", "식품점은": "식품쩌믄", "못 들었어": "몯 뜨러써", "못 들어": "몯 뜨러", "못 먹기": "몬 먹끼", "못 먹습니다": "몬 먹씀니다",
 }
 
 
@@ -321,7 +322,26 @@ def _words(text, over):
         else:
             parts.append(("x", text[pos]))
             pos += 1
+    _tense_after_l(parts)
     return parts
+
+
+_TENSE_AFTER_L = re.compile(r"^(거(예요|에요|야|다|죠|지|니|라|든요)|겁(니다|니까)|것|걸|수)$")
+_TENSE_MAP = {"ㄱ": "ㄲ", "ㅅ": "ㅆ"}
+
+
+def _tense_after_l(parts):
+    """After a verb ending in the future/ability -(으)ㄹ, the next word (거예요, 겁니다, 수, 것 ...) starts tense:
+    갈 거예요 is said 갈 꺼예요, 갈 수 있어요 is said 갈 쑤 이써요."""
+    for i in range(2, len(parts)):
+        a, sp, w = parts[i - 2], parts[i - 1], parts[i]
+        if w[0] == "w" and sp == ("x", " ") and a[0] == "w" and a[1][-1]["t"] == "ㄹ" and _TENSE_AFTER_L.match(w[2]):
+            f = w[1][0]
+            if f["l"] in _TENSE_MAP and not f.get("made"):
+                f["rl"] = f["l"]
+                f["l"] = _TENSE_MAP[f["l"]]
+                f["made"] = True
+                f["ch"] = compose(f["l"], f["v"], f["t"])
 
 
 def pron(text, over=None):

@@ -1115,9 +1115,9 @@ answer validity, leftover markup or numeric pinyin, and that spoken cells are Ch
 
 ### Korean lessons (Hangul, pronunciation rules and first words)
 
-`assets/lessons/ko_lessons.json` has 134 lessons and 6,852 exercises in fifteen units. Units 1-7 come from the Introductory Unit
+`assets/lessons/ko_lessons.json` has 179 lessons and 9,828 exercises in nineteen units. Units 1-7 come from the Introductory Unit
 of the Korean Basic Course (Lessons 1 to 6 and the Appendix, Student's Edition); units 8-11 are Chapters 1-4 of Semester 1,
-Unit 1 (Student's Edition, 2022); units 12-15 are Chapters 5-8 of Semester 1, Unit 2 (Student's Edition, 2024). It is the start of a course: the textbooks that follow will be added after it with the same
+Unit 1 (Student's Edition, 2022); units 12-15 are Chapters 5-8 of Semester 1, Unit 2 (Student's Edition, 2024); units 16-19 are Chapters 9-12 of Semester 1, Unit 3 (Student's Edition, 2022). It is the start of a course: the textbooks that follow will be added after it with the same
 pipeline (ids `ko_01`... in order; new units go at the end).
 
 | Unit | Lessons | Content |
@@ -1137,6 +1137,10 @@ pipeline (ids `ko_01`... in order; new units go at the end).
 | 13. S1 U2 Ch 6: Weather and Hobbies (날씨와 취미) | 106-114 | the four seasons and the weather; hobbies and sports (하다/타다/치다); 구 (球); ㅂ irregular verbs; -고 싶다/-고 싶어하다; weekend activities; -(으)ㅂ시다 and -자; -(으)러 가다/오다; core vocabulary and self-evaluation |
 | 14. S1 U2 Ch 7: Downtown Monterey (몬트레이 시내에서) | 115-124 | businesses around town; 소 (所) and 점 (店); ordering at a restaurant, counters 병/잔/인분 and 음 (飮); the menu and Korean dishes; the hair salon and -게; 안 and 못; -아서/어서 for reasons; -아/어 주세요; -(으)ㄹ까요?; core vocabulary |
 | 15. S1 U2 Ch 8: Last Weekend (지난 주말) | 125-134 | traveling last weekend, compound verbs with 가다/오다/다니다, 품 (品) and 복 (服); a promotion party and officer ranks, 大 中 小 少; the past tense -았/었; -아/어 보다; a survey, a general's family and an alibi e-mail; a long weekend; ~은/는, 만 and 도; -아/어야 하다/되다; a writer's life; core vocabulary |
+| 16. S1 U3 Ch 9: Travel Plans (여행 계획) | 135-144 | a wrong number and telephone numbers (話 화); vacation plans; planned future -(으)ㄹ 거다; ability -(으)ㄹ 수 있다/없다; -(으)면 (if); 과/와, 하고, (이)랑; travel ads and a trip essay; core vocabulary |
+| 17. S1 U3 Ch 10: On the Way to Los Angeles (로스앤젤레스 가는 길에) | 145-155 | transportation word map; taking my car; itineraries and timetables; ~보다 comparisons; (-기) 때문에; directions and gas stations; visiting parents' home; attributive -는/-(으)ㄴ/-(으)ㄹ; a family-trip e-mail; core vocabulary |
+| 18. S1 U3 Ch 11: In Koreatown: Lodging and Dining (코리아타운에서: 숙박과 식사) | 156-167 | Korean Americans; large numbers and decimals; hotel check-in, a condo ad and hotel reviews; -(으)ㄹ 때; -겠; tastes in food; -지 않다 / -지 못하다; -지만; table etiquette; core vocabulary |
+| 19. S1 U3 Ch 12: Shopping in Koreatown (코리아타운에서 쇼핑하기) | 168-179 | clothing loanwords; the post office; sale ads and prices; trying on clothes; -아/어도 되다; -(으)면 안 되다; the grocery store; adverb -게; connectors; market expressions and grocery ads; core vocabulary |
 
 The lessons are original text in the scope and order of the book: its tables, word lists, drills and rules are all there, each
 drill turned into questions about the reading.
@@ -1155,7 +1159,7 @@ drill turned into questions about the reading.
 - `dsl_ko.py` has the constructors and the checks; `ko_auto.py` has the generators (look-alike syllables and words, sound
   groups, dictionary order, Sino-Korean and native numbers, "said" tables). Wrong options are made from the said syllables, so a
   distractor does not give itself away, and in the look-alike drills it never sounds the same as the answer.
-- `ko_unit1.py` ... `ko_unit15.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
+- `ko_unit1.py` ... `ko_unit19.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
   with 0 errors.
 - Checks: every pronunciation printed in the book (`ptable`, `ctable`, `atable`, `pr`) must equal the engine's; every
   romanization shown is compared with the deck's reading of the same word (500 words, 0 differences); spoken text (examples and
