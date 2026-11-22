@@ -1115,9 +1115,9 @@ answer validity, leftover markup or numeric pinyin, and that spoken cells are Ch
 
 ### Korean lessons (Hangul, pronunciation rules and first words)
 
-`assets/lessons/ko_lessons.json` has 414 lessons and 23,302 exercises in thirty-nine units. Units 1-7 come from the Introductory Unit
+`assets/lessons/ko_lessons.json` has 462 lessons and 25,724 exercises in forty-three units. Units 1-7 come from the Introductory Unit
 of the Korean Basic Course (Lessons 1 to 6 and the Appendix, Student's Edition); units 8-11 are Chapters 1-4 of Semester 1,
-Unit 1 (Student's Edition, 2022); units 12-15 are Chapters 5-8 of Semester 1, Unit 2 (Student's Edition, 2024); units 16-19 are Chapters 9-12 of Semester 1, Unit 3 (Student's Edition, 2022); units 20-23 are Chapters 13-16 of Semester 1, Unit 4 (Student's Edition, 2022); units 24-27 are Chapters 17-20 of Semester 1, Unit 5 (Student's Edition, 2022); units 28-31 are Chapters 21-24 of Semester 1, Unit 6 (Student's Edition, 2022); units 32-35 are Chapters 25-28 of Semester 1, Unit 7 (Student's Edition, 2022); units 36-39 are Chapters 29-32 of Semester 2, Unit 8 (Student's Edition, 2022, Validation Edition). It is the start of a course: the textbooks that follow will be added after it with the same
+Unit 1 (Student's Edition, 2022); units 12-15 are Chapters 5-8 of Semester 1, Unit 2 (Student's Edition, 2024); units 16-19 are Chapters 9-12 of Semester 1, Unit 3 (Student's Edition, 2022); units 20-23 are Chapters 13-16 of Semester 1, Unit 4 (Student's Edition, 2022); units 24-27 are Chapters 17-20 of Semester 1, Unit 5 (Student's Edition, 2022); units 28-31 are Chapters 21-24 of Semester 1, Unit 6 (Student's Edition, 2022); units 32-35 are Chapters 25-28 of Semester 1, Unit 7 (Student's Edition, 2022); units 36-39 are Chapters 29-32 of Semester 2, Unit 8 (Student's Edition, 2022, Validation Edition); units 40-43 are Chapters 33-36 of Semester 2, Unit 9 (Student's Edition, 2022, Validation Edition). It is the start of a course: the textbooks that follow will be added after it with the same
 pipeline (ids `ko_01`... in order; new units go at the end).
 
 | Unit | Lessons | Content |
@@ -1161,6 +1161,10 @@ pipeline (ids `ko_01`... in order; new units go at the end).
 | 37. S2 U8 Ch 30: Medical Emergencies (응급상황) | 376-388 | 화상 and 교사; emergency stories and journal; burn first aid; the 119 call; 경우(에); -아/어 두다/놓다; rescue dialog and first-aid steps; causative infixes; -는 바람에; the NCO article; core vocabulary |
 | 38. S2 U8 Ch 31: Modern Diseases and Prevention (현대인의 질병과 예방) | 389-400 | 불면증, 과체중, 식중독; stress, e-mail and counseling question; obesity talk show and prevention list; -았/었던; expanding a relative clause; yellow dust dialog; -아/어 보이다; -(으)니까 / -아/어 보니까; heart disease article; core vocabulary |
 | 39. S2 U8 Ch 32: Living a Healthy Life (건강한 생활) | 401-414 | 노인, 편식, 직접; longevity secrets, survey report and tips; Jehyeon's diet counseling; eating-habits self-assessment; -게 하다; -거든(요); well-being events and expo; -(으)ㄹ 만하다; -는 데(에); well-being patients; core vocabulary |
+| 40. S2 U9 Ch 33: Education in Korea (한국의 교육) | 415-425 | 국립/점수 Sino-Korean; vocabulary builder; school-system article and school types; Jeonghyeon's routine, timetable and after-school article; -도록; -느라(고); Topic C teen concerns; repeated question words; -게 되다; Sadang Middle School clubs and college-entrance Q&A; core vocabulary |
+| 41. S2 U9 Ch 34: College Life (대학 생활) | 426-437 | 부전공, 교환, 기간 Sino-Korean; vocabulary builder, crossword clues and 현수's return; Mijin's plans and interests-to-majors; popular-majors article and night-class timetable; 복학 dialog, housing and Q&A; double negatives; -지 말고/~말고; freshman survey; Topic C after graduation and language-study flyer; ~같이/처럼/같은; -(으)면 -(으)ㄹ수록; core vocabulary |
+| 42. S2 U9 Ch 35: Job Hunting (직장 구하기) | 438-450 | 자, 하반기, 구직, 면접 Sino-Korean; vocabulary builder; Topic A job-fair dialog and recruiting ads; Topic B job-hunter routine and Seoul Job Center; passive infixes 이/히/리/기; 보이다/들리다 and the neighbor's statement; three job hunters; Topic C interview and interview tips; 만큼; -다고; interviewee preferences; core vocabulary |
+| 43. S2 U9 Ch 36: Life at Work (직장생활) | 451-462 | 유/무, 능력, 개업 Sino-Korean; vocabulary builder; a new employee's day and learning-language trend; new-employee survey; 대리 promotion dialog; worker surveys; -다(가) 보니(까); -줄 알았다/몰랐다; retirement and start-up stories and Q&A; ~(이)나; -는 대로; core vocabulary |
 
 The lessons are original text in the scope and order of the book: its tables, word lists, drills and rules are all there, each
 drill turned into questions about the reading.
@@ -1179,7 +1183,7 @@ drill turned into questions about the reading.
 - `dsl_ko.py` has the constructors and the checks; `ko_auto.py` has the generators (look-alike syllables and words, sound
   groups, dictionary order, Sino-Korean and native numbers, "said" tables). Wrong options are made from the said syllables, so a
   distractor does not give itself away, and in the look-alike drills it never sounds the same as the answer.
-- `ko_unit1.py` ... `ko_unit39.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
+- `ko_unit1.py` ... `ko_unit43.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
   with 0 errors.
 - Checks: every pronunciation printed in the book (`ptable`, `ctable`, `atable`, `pr`) must equal the engine's; every
   romanization shown is compared with the deck's reading of the same word (500 words, 0 differences); spoken text (examples and
