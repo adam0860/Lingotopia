@@ -1115,9 +1115,9 @@ answer validity, leftover markup or numeric pinyin, and that spoken cells are Ch
 
 ### Korean lessons (Hangul, pronunciation rules and first words)
 
-`assets/lessons/ko_lessons.json` has 508 lessons and 28,544 exercises in forty-seven units. Units 1-7 come from the Introductory Unit
+`assets/lessons/ko_lessons.json` has 560 lessons and 31,330 exercises in fifty-one units. Units 1-7 come from the Introductory Unit
 of the Korean Basic Course (Lessons 1 to 6 and the Appendix, Student's Edition); units 8-11 are Chapters 1-4 of Semester 1,
-Unit 1 (Student's Edition, 2022); units 12-15 are Chapters 5-8 of Semester 1, Unit 2 (Student's Edition, 2024); units 16-19 are Chapters 9-12 of Semester 1, Unit 3 (Student's Edition, 2022); units 20-23 are Chapters 13-16 of Semester 1, Unit 4 (Student's Edition, 2022); units 24-27 are Chapters 17-20 of Semester 1, Unit 5 (Student's Edition, 2022); units 28-31 are Chapters 21-24 of Semester 1, Unit 6 (Student's Edition, 2022); units 32-35 are Chapters 25-28 of Semester 1, Unit 7 (Student's Edition, 2022); units 36-39 are Chapters 29-32 of Semester 2, Unit 8 (Student's Edition, 2022, Validation Edition); units 40-43 are Chapters 33-36 of Semester 2, Unit 9 (Student's Edition, 2022, Validation Edition); units 44-47 are Chapters 37-40 of Semester 2, Unit 10 (Student's Edition, 2022). It is the start of a course: the textbooks that follow will be added after it with the same
+Unit 1 (Student's Edition, 2022); units 12-15 are Chapters 5-8 of Semester 1, Unit 2 (Student's Edition, 2024); units 16-19 are Chapters 9-12 of Semester 1, Unit 3 (Student's Edition, 2022); units 20-23 are Chapters 13-16 of Semester 1, Unit 4 (Student's Edition, 2022); units 24-27 are Chapters 17-20 of Semester 1, Unit 5 (Student's Edition, 2022); units 28-31 are Chapters 21-24 of Semester 1, Unit 6 (Student's Edition, 2022); units 32-35 are Chapters 25-28 of Semester 1, Unit 7 (Student's Edition, 2022); units 36-39 are Chapters 29-32 of Semester 2, Unit 8 (Student's Edition, 2022, Validation Edition); units 40-43 are Chapters 33-36 of Semester 2, Unit 9 (Student's Edition, 2022, Validation Edition); units 44-47 are Chapters 37-40 of Semester 2, Unit 10 (Student's Edition, 2022); units 48-51 are Chapters 41-44 of Semester 2, Unit 11 (Student's Edition, 2022). It is the start of a course: the textbooks that follow will be added after it with the same
 pipeline (ids `ko_01`... in order; new units go at the end).
 
 | Unit | Lessons | Content |
@@ -1169,6 +1169,10 @@ pipeline (ids `ko_01`... in order; new units go at the end).
 | 45. S2 U10 Ch 38: Crime (범죄) | 473-483 | 폭력, 강력, 불법 Sino-Korean; vocabulary builder; convenience store robbery, witness statement and game-item article; youth counselor and drug article; 대로; -고 말다; university violence survey; detective interview and counterfeit-bill article; -아/어 있다; -(으)ㄴ/는 한; core vocabulary |
 | 46. S2 U10 Ch 39: Natural Disasters (자연재해) | 484-495 | 예보, 폭우, 지진 Sino-Korean; vocabulary builder; weather forecast, living index and four seasons; flood dialog and flood texts; question words as indefinite pronouns; -다는; Türkiye earthquake and tsunami articles; (이)나/(이)든지; 관해서/관한 and 위해서/위한; rescue-dog article; core vocabulary |
 | 47. S2 U10 Ch 40: The Environment (환경) | 496-508 | 분리, 재활용, 온난화, 식물, 경차 Sino-Korean; vocabulary builder; waste separation announcement and 종량제; PET-bottle, food-waste and reader-opinion readings; global warming report and ~ 등; abbreviated -(으)ㅁ/-(으)ㄹ 것; news -것으로; mayor interview and company email; Earth Day and Paris Agreement; -자; -다면; core vocabulary |
+| 48. S2 U11 Ch 41: Korean Culture I (한국의 문화 1) | 509-521 | 서양, 음식, 한옥 Sino-Korean; vocabulary builder; hanbok and gimjang texts; 달리; 포함해(서); recipes; hanok village; causative transitive verbs; superlative scope; core vocabulary |
+| 49. S2 U11 Ch 42: Korean Culture II (한국의 문화 2) | 522-534 | 해산물, 무명, 혼례, 민속촌 Sino-Korean; vocabulary builder; Jinhae and Jindo blogs; Daehak-ro and Insa-dong; -(으)ㄹ 수밖에 없다; ~뿐(만) 아니라; Folk Village; ~적으로/~식으로; stative verbs as transitive; core vocabulary |
+| 50. S2 U11 Ch 43: Religion and Society (종교와 사회) | 535-547 | 천주교, 대륙, 전문직 Sino-Korean; vocabulary builder; volunteer dialog and religions in Korea; foreigners in Korea; women's status; ~ (도)중에; -(으)ㄴ/는데(요); 반면(에); -곤 하다; core vocabulary |
+| 51. S2 U11 Ch 44: Various Aspects of Korean Society (한국 사회의 여러 모습) | 548-560 | 최대, 동계, 안정 Sino-Korean; vocabulary builder; Lunar New Year and Chuseok; World Cup and sports culture; job preferences; -든(지); ~까지(도); time-reference endings summary; core vocabulary |
 
 The lessons are original text in the scope and order of the book: its tables, word lists, drills and rules are all there, each
 drill turned into questions about the reading.
@@ -1187,7 +1191,7 @@ drill turned into questions about the reading.
 - `dsl_ko.py` has the constructors and the checks; `ko_auto.py` has the generators (look-alike syllables and words, sound
   groups, dictionary order, Sino-Korean and native numbers, "said" tables). Wrong options are made from the said syllables, so a
   distractor does not give itself away, and in the look-alike drills it never sounds the same as the answer.
-- `ko_unit1.py` ... `ko_unit47.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
+- `ko_unit1.py` ... `ko_unit51.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
   with 0 errors.
 - Checks: every pronunciation printed in the book (`ptable`, `ctable`, `atable`, `pr`) must equal the engine's; every
   romanization shown is compared with the deck's reading of the same word (500 words, 0 differences); spoken text (examples and
