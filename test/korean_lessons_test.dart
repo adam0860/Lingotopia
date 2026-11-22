@@ -27,7 +27,7 @@ void main() {
     for (var i = 0; i < ids.length; i++) {
       expect(ids[i], 'ko_${(i + 1).toString().padLeft(2, '0')}');
     }
-    expect(ids.length, greaterThanOrEqualTo(59));
+    expect(ids.length, greaterThanOrEqualTo(96));
   });
 
   test('every lesson teaches something and asks enough questions', () {

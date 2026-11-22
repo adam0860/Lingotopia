@@ -1115,9 +1115,10 @@ answer validity, leftover markup or numeric pinyin, and that spoken cells are Ch
 
 ### Korean lessons (Hangul, pronunciation rules and first words)
 
-`assets/lessons/ko_lessons.json` has 59 lessons and 2,238 exercises in seven units, built from the Introductory Unit of the
-Korean Basic Course (Lessons 1 to 6 and the Appendix, Student's Edition). It is the start of a course: the three semesters of
-textbooks that follow will be added after it with the same pipeline (ids `ko_01`... in order; new units go at the end).
+`assets/lessons/ko_lessons.json` has 96 lessons and 4,328 exercises in eleven units. Units 1-7 come from the Introductory Unit
+of the Korean Basic Course (Lessons 1 to 6 and the Appendix, Student's Edition); units 8-11 are Chapters 1-4 of Semester 1,
+Unit 1 (Student's Edition, 2022). It is the start of a course: the textbooks that follow will be added after it with the same
+pipeline (ids `ko_01`... in order; new units go at the end).
 
 | Unit | Lessons | Content |
 |---|---|---|
@@ -1128,6 +1129,10 @@ textbooks that follow will be added after it with the same pipeline (ids `ko_01`
 | 5. Hangul 5 | 34-42 | final consonants (seven sounds, unreleased k t p, ㄴ ㄹ ㅁ ㅇ); telling finals apart; reading; Sino-Korean numbers 0-100; classroom expressions I |
 | 6. Hangul 6 | 43-50 | the sound-linking rule; the eleven final clusters, before a consonant and before a vowel; reading; native Korean numbers 1-99; classroom expressions II |
 | 7. Appendix | 51-59 | assimilation (backward, forward, reciprocal); nasalization; ㄴ to ㄹ and the stop before ㄹ; adding ㄴ or ㄹ; tensification; aspiration; palatalization; Sino-Korean, native and loan words; action and stative verbs |
+| 8. S1 U1 Ch 1: Greetings and Introductions (인사와 소개) | 60-69 | introductions and ranks; 은/는; dictionary form and stem; formal -습니다/ㅂ니다; 이/가; ~이다 and 이/가 아니다; the George Williams passage; core vocabulary and self-evaluation |
+| 9. S1 U1 Ch 2: My Family (우리 가족) | 70-78 | family words; counters 명/분 and native numbers; ages (살, 세); 있다/없다 for possession; honorifics; occupations; informal -아요/어요 and -(으)세요; conjunctive -고; core vocabulary |
+| 10. S1 U1 Ch 3: My House (우리 집) | 79-87 | rooms and houses; position words and colors; ~에 있다/없다; demonstratives 이/그/저; daily activities; object markers 을/를; ~에서; the "verb maker" ~하다; 색 食 室; core vocabulary |
+| 11. S1 U1 Ch 4: My Life at DLI (DLI 생활) | 88-96 | facilities, countries and languages (관 장 국 어 인); classroom rules and instructions; -(으)세요 and -지 마세요; ㄹ irregular verbs; asking for and giving directions; ordinals; (으)로; the attributive -(으)ㄴ of stative verbs; core vocabulary |
 
 The lessons are original text in the scope and order of the book: its tables, word lists, drills and rules are all there, each
 drill turned into questions about the reading.
@@ -1139,12 +1144,14 @@ drill turned into questions about the reading.
   is said: liaison (the sound-linking rule), the seven final sounds, cluster simplification, nasalization, ㄴ/ㄹ assimilation,
   ㄴ/ㄹ insertion, tensification, aspiration, palatalization. Words whose sound depends on grammar or etymology (the Sino-Korean
   16, 26 ..., the native numbers 열여섯 and 서른일곱, compounds such as 한여름) are in `OVERRIDES`; `over={...}` handles the rest.
-- `ko_selftest.py` runs 183 cases first (every pronunciation the book prints, the standard cases and romanizations); the build
+- `ko_kbc.py` holds the helpers shared by the Semester 1 units (core-vocabulary tables, marker and verb-ending generators:
+  은/는, 이/가, 을/를, -습니다, -(으)세요, -아/어요, honorifics, counters). The units after it use them.
+- `ko_selftest.py` runs 184 cases first (every pronunciation the book prints, the standard cases and romanizations); the build
   stops if one is wrong, so a change to the engine can never silently change a lesson.
 - `dsl_ko.py` has the constructors and the checks; `ko_auto.py` has the generators (look-alike syllables and words, sound
   groups, dictionary order, Sino-Korean and native numbers, "said" tables). Wrong options are made from the said syllables, so a
   distractor does not give itself away, and in the look-alike drills it never sounds the same as the answer.
-- `ko_unit1.py` ... `ko_unit7.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
+- `ko_unit1.py` ... `ko_unit11.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
   with 0 errors.
 - Checks: every pronunciation printed in the book (`ptable`, `ctable`, `atable`, `pr`) must equal the engine's; every
   romanization shown is compared with the deck's reading of the same word (500 words, 0 differences); spoken text (examples and
@@ -1154,8 +1161,12 @@ drill turned into questions about the reading.
   tensified consonant caused by a rule is not shown in the romanization (학교 hakgyo, said 학꾜), while a spelled ㄲ ㄸ ㅃ ㅆ ㅉ is
   (까치 kkachi); the book's two-step changes are kept (몇 리 /멷니/ then /면니/).
 
-**What the lessons leave out:** audio and video, the SMART Board and website activities, the picture activities, word-card and
-soccer games, role-plays, the typing-practice sections, and the dictionary-lookup exercises. Where the book prints no answer (its
+**What the lessons leave out:** audio and video, the SMART Board and website activities, the picture and map activities, word-card and
+soccer games, role-plays, songs (the sung lyrics of the Chapter 4 song activity are not reproduced), the typing-practice sections,
+and the dictionary-lookup exercises. In Semester 1 the book gives no English for its dialogs and prints no answers: every dialog
+translation and every answer key is mine and the lessons say so; only the vocabulary meanings are the book's. Telephone numbers
+and Web addresses in the book's advertisements are left out; Latin letters and digits inside spoken examples (DLI, PFC, LA, 65쪽,
+7시) are written in Hangul so that they can be spoken. Where the book prints no answer (its
 listening and matching exercises, the S/D pairs, the origin and verb-type exercises), the answer key is mine and the lesson says
 so, and so are English meanings the book does not give. In the native-number drill, "100" (item 7 of the self-evaluation) is left
 out because the native numbers stop at 99. The book prints 읊 as /읖/; the lessons write the sound as 읍 and say why. 책 is
