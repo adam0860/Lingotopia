@@ -314,7 +314,7 @@ _IP = [("누구", "who; whom", "someone; somebody"), ("무엇 / 뭐", "what", "s
 _IP1 = [("지금 밖에 누가 있어요.", "Someone is at the door right now."), ("우리 언제 같이 점심 먹자.", "Let’s have lunch together sometime.")]
 _IP2 = [("누가 밖에 왔어요?", "Who is at the door? or Is someone at the door?"), ("뭐를 먹고 싶으세요?", "What do you want to eat? or Do you want to eat something?")]
 _IPD = [("A", "김 선생님, 어디 가세요?", "Mr. Kim, where are you going?"), ("B", "어디 가요.", "I am going somewhere.")]
-_IPD2 = [("A", "김 선생님, 어디 가세요?", "Are you going somewhere?"), ("B", "네, 어디 가요.", "Yes, I am going somewhere.")]
+_IPD2 = [("A", "김 선생님 어디 가세요?", "Are you going somewhere?"), ("B", "네, 어디 가요.", "Yes, I am going somewhere.")]
 _IPM = [("누가 전화했어요.", "Somebody called."), ("어디에 가고 싶어요.", "I want to go somewhere."), ("무슨 일이 있어요?", "Is something the matter? / What is the matter?"), ("어떤 지역에서 큰 홍수가 났어요.", "A big flood occurred in some region.")]
 L6 = lesson(
     "Ch 39 · Grammar A: question words used as indefinite pronouns",
