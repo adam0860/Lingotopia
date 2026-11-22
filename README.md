@@ -1115,9 +1115,9 @@ answer validity, leftover markup or numeric pinyin, and that spoken cells are Ch
 
 ### Korean lessons (Hangul, pronunciation rules and first words)
 
-`assets/lessons/ko_lessons.json` has 179 lessons and 9,828 exercises in nineteen units. Units 1-7 come from the Introductory Unit
+`assets/lessons/ko_lessons.json` has 225 lessons and 12,683 exercises in twenty-three units. Units 1-7 come from the Introductory Unit
 of the Korean Basic Course (Lessons 1 to 6 and the Appendix, Student's Edition); units 8-11 are Chapters 1-4 of Semester 1,
-Unit 1 (Student's Edition, 2022); units 12-15 are Chapters 5-8 of Semester 1, Unit 2 (Student's Edition, 2024); units 16-19 are Chapters 9-12 of Semester 1, Unit 3 (Student's Edition, 2022). It is the start of a course: the textbooks that follow will be added after it with the same
+Unit 1 (Student's Edition, 2022); units 12-15 are Chapters 5-8 of Semester 1, Unit 2 (Student's Edition, 2024); units 16-19 are Chapters 9-12 of Semester 1, Unit 3 (Student's Edition, 2022); units 20-23 are Chapters 13-16 of Semester 1, Unit 4 (Student's Edition, 2022). It is the start of a course: the textbooks that follow will be added after it with the same
 pipeline (ids `ko_01`... in order; new units go at the end).
 
 | Unit | Lessons | Content |
@@ -1141,6 +1141,10 @@ pipeline (ids `ko_01`... in order; new units go at the end).
 | 17. S1 U3 Ch 10: On the Way to Los Angeles (로스앤젤레스 가는 길에) | 145-155 | transportation word map; taking my car; itineraries and timetables; ~보다 comparisons; (-기) 때문에; directions and gas stations; visiting parents' home; attributive -는/-(으)ㄴ/-(으)ㄹ; a family-trip e-mail; core vocabulary |
 | 18. S1 U3 Ch 11: In Koreatown: Lodging and Dining (코리아타운에서: 숙박과 식사) | 156-167 | Korean Americans; large numbers and decimals; hotel check-in, a condo ad and hotel reviews; -(으)ㄹ 때; -겠; tastes in food; -지 않다 / -지 못하다; -지만; table etiquette; core vocabulary |
 | 19. S1 U3 Ch 12: Shopping in Koreatown (코리아타운에서 쇼핑하기) | 168-179 | clothing loanwords; the post office; sale ads and prices; trying on clothes; -아/어도 되다; -(으)면 안 되다; the grocery store; adverb -게; connectors; market expressions and grocery ads; core vocabulary |
+| 20. S1 U4 Ch 13: Welcome to Korea (한국에 오신 것을 환영합니다) | 180-190 | the international terminal and boarding instructions; a delayed plane; ~(이)나; 아무도 (total negation); in-flight duty-free; currency exchange, shapes and colors; -(으)려고; -(으)려면; lost-and-found and a handwritten journal; core vocabulary |
+| 21. S1 U4 Ch 14: Public Transportation in Korea (한국의 대중 교통) | 191-202 | word origins (etymology); the airport information desk; getting from the airport to Seoul; the subway and announcements; -고 있다; -기(를) 바라다; routes and an ad; taxis and traffic signs (禁, 道); ㄷ irregular verbs; -(으)니까; core vocabulary |
+| 22. S1 U4 Ch 15: The Korean Peninsula and the Korean War (한반도와 한국전쟁) | 203-213 | 해 (海) and 부 (部); Mount Seorak and Jeju; clue words; the War Memorial; the weather forecast and temperatures; -아/어지다; -(으)ㄴ데/는데; Panmunjom (JSA); -아/어도; the formal blunt style; core vocabulary |
+| 23. S1 U4 Ch 16: Touring in Korea (한국에서 여행하기) | 214-225 | 불/부 (不), 형 (型), 적 (的); a travel agency and a Jeju package ad; renting a car, car parts and rest stops; the word search; 아무나; -(으)ㄹ 줄 알다/모르다; Gyeongju sights and a journal; -(으)면서; -군요/-네요; core vocabulary |
 
 The lessons are original text in the scope and order of the book: its tables, word lists, drills and rules are all there, each
 drill turned into questions about the reading.
@@ -1159,7 +1163,7 @@ drill turned into questions about the reading.
 - `dsl_ko.py` has the constructors and the checks; `ko_auto.py` has the generators (look-alike syllables and words, sound
   groups, dictionary order, Sino-Korean and native numbers, "said" tables). Wrong options are made from the said syllables, so a
   distractor does not give itself away, and in the look-alike drills it never sounds the same as the answer.
-- `ko_unit1.py` ... `ko_unit19.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
+- `ko_unit1.py` ... `ko_unit23.py` each export `UNIT`; the build discovers them, checks, and writes the JSON only for a full build
   with 0 errors.
 - Checks: every pronunciation printed in the book (`ptable`, `ctable`, `atable`, `pr`) must equal the engine's; every
   romanization shown is compared with the deck's reading of the same word (500 words, 0 differences); spoken text (examples and
