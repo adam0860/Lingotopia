@@ -1372,6 +1372,7 @@ left out" card.
 | 11. Genki I, Lesson 8: Barbecue | 73-80 | dialogue, vocabulary, short forms (affirmative and negative), informal speech, ～と思います, ～と言っていました, ～ないでください, verb + のが好きです / 上手, だれが, 何か and 何も, ～する nouns, foods in Japan, drills |
 | 12. Genki I, Lesson 9: Kabuki | 81-87 | dialogue, vocabulary (incl. the つ numbers), past tense short forms, qualifying nouns with verbs, まだ〜ていません, から, colours, Japanese traditional culture, fast-food menu, drills |
 | 13. Genki I, Lesson 10: Winter Vacation Plans | 88-95 | dialogues (home and travel agency), vocabulary, comparisons (のほうが … より, いちばん), の (one), つもり, なる, どこかに／どこにも, で (means), how long it takes, culture note on Japanese public transportation, at the station, drills |
+| 14. Genki I, Lesson 11: After the Vacation | 96-103 | dialogues, vocabulary (incl. occupations), たい and たがる, たり〜たりする, ことがある, や, は in negatives, だけ, に, ドライブ and 夢, the お正月 culture note, useful expressions in the Japanese class, drills |
 
 No native speaker has reviewed these lessons. `test/japanese_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
 and that spoken cells and example lines are Japanese text. It has not been run (no Flutter SDK here); the Python build runs the same checks.
