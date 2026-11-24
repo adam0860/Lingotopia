@@ -1344,6 +1344,29 @@ written in words; titles in full).
 No native speaker has reviewed these lessons. `test/tagalog_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
 and that spoken cells and example lines are plain Tagalog. It has not been run (no Flutter SDK here); the Python build runs the same checks.
 
+### Japanese lessons (Genki I and II, in progress)
+
+`assets/lessons/ja_lessons.json` (deck `ja_core`, ids `ja_01`... in order; new units go at the end) follows *Genki: An Integrated Course in
+Elementary Japanese* (2nd edition, 2011). It is built by `tools/lessons/build_ja_lessons.py` from `ja_unit*.py` using `dsl_ja.py` (the
+authoring helpers and the checks), `ja_kana.py` (the kana charts) and `ja_rom.py` (a Genki-style romanizer: long vowels doubled, particles
+spelled by sound, words split as the book splits them, with a table of fixes for words the tokenizer mis-splits). A full build writes the file
+only with zero errors. Every Japanese line is shown with its romaji; the romaji is generated, and where the book prints its own romaji the
+build compares them. Spoken Japanese (examples, dialogue lines and the columns marked as spoken) is checked to be kana, kanji and Japanese
+punctuation only: numbers are written in kana or kanji, and silent columns hold the digits and English. An independent reading check
+(pykakasi) runs on kanji. The English explanations are original; the book's vocabulary and exercises are followed and the answers are mine
+(the drills' answer keys are separate books). Audio, pictures, pair and group work and role plays are left out and listed in an "Activities
+left out" card.
+
+| Unit | Lessons | Content |
+|---|---|---|
+| 1. Japanese sounds and hiragana | 1-8 | the three writing systems, all hiragana, voiced and contracted sounds, double consonants and long vowels, the hiragana practice and reading |
+| 2. Katakana and kanji | 9-13 | katakana, long-vowel mark, sounds for foreign words, what kanji are and how they are formed, katakana practice |
+| 3. Greetings | 14-16 | everyday greetings, the expression notes, practice and bowing |
+| 4. Genki I, Lesson 1: New Friends | 17-23 | dialogue, vocabulary, numbers to a hundred, time and age, X は Y です, questions, noun の noun, names, drills |
+
+No native speaker has reviewed these lessons. `test/japanese_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
+and that spoken cells and example lines are Japanese text. It has not been run (no Flutter SDK here); the Python build runs the same checks.
+
 ## Games
 
 **Games** on the home screen opens a list of four games, and **all four work in every language** the app has a deck for:
