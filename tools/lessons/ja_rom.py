@@ -162,7 +162,7 @@ FIXES = {
 FIXES.update({
     "月曜日": "ゲツヨービ", "火曜日": "カヨービ", "水曜日": "スイヨービ", "木曜日": "モクヨービ", "金曜日": "キンヨービ", "日曜日": "ニチヨービ",
     "かようび": "カヨービ", "すいようび": "スイヨービ", "きんようび": "キンヨービ", "もくようび": "モクヨービ", "げつようび": "ゲツヨービ", "にちようび": "ニチヨービ",
-    "山下先生": "ヤマシタ せんせい", "さくら大学": "サクラ だいがく", "京都": "キョート", "大阪": "オーサカ", "韓国": "かんこく", "広島": "ヒロシマ", "東京": "トーキョー",
+    "山下先生": "ヤマシタ せんせい", "沖縄": "オキナワ", "しゅくだい": "宿題", "誕生日": "たんじょうび", "そくたつ": "速達", "円切手": "円 切手", "のみもの": "飲み物", "さくら大学": "サクラ だいがく", "京都": "キョート", "大阪": "オーサカ", "韓国": "かんこく", "広島": "ヒロシマ", "東京": "トーキョー",
     "ほんや": "ホンヤ", "本屋": "ホンヤ", "バスてい": "バステイ", "だから": "ダカラ", "ごめんなさい": "ゴメンナサイ", "どうして": "ドーシテ", "おかえりなさい": "オカエリナサイ",
     "いつか": "五日", "むいか": "六日", "ようか": "八日", "ここのか": "九日", "とおか": "十日",
     "いちがつ": "イチガツ", "じゅういちがつ": "ジューイチガツ", "じゅうにがつ": "ジューニガツ", "じゅうがつ": "ジューガツ", "にがつ": "ニガツ", "さんがつ": "サンガツ", "しがつ": "シガツ", "ろくがつ": "ロクガツ",
@@ -245,7 +245,7 @@ def _chunk_words(chunk):
     return words
 
 
-PROPER = {"マクドナルド", "モスバーガー", "キョート", "オーサカ", "カンコク", "ヒロシマ", "メアリー", "スー", "キム", "ハート", "アリゾナ", "ロンドン", "ソウル", "スミス", "ロバート", "ハワイ", "ヤマシタ", "ミシェル", "ジャクソン", "キャシー", "トーキョー", "タケシ", "ミチコ", "ヤマダ", "リー", "サトー", "スズキ", "タカハシ", "タナカ", "イトー", "タクヤ", "ショータ", "イチロー", "ヒロシ", "マサヒロ", "エリカ", "ナオミ", "ユーコ", "ミサキ", "サクラ", "カルロス", "ナンシー", "パット"}
+PROPER = {"サッポロ", "アオモリ", "トクシマ", "センダイ", "オキナワ", "イギリス", "マクドナルド", "モスバーガー", "キョート", "オーサカ", "カンコク", "ヒロシマ", "メアリー", "スー", "キム", "ハート", "アリゾナ", "ロンドン", "ソウル", "スミス", "ロバート", "ハワイ", "ヤマシタ", "ミシェル", "ジャクソン", "キャシー", "トーキョー", "タケシ", "ミチコ", "ヤマダ", "リー", "サトー", "スズキ", "タカハシ", "タナカ", "イトー", "タクヤ", "ショータ", "イチロー", "ヒロシ", "マサヒロ", "エリカ", "ナオミ", "ユーコ", "ミサキ", "サクラ", "カルロス", "ナンシー", "パット"}
 
 
 _NUMW = {"いち": "ichi", "に": "ni", "さん": "san", "よん": "yon", "よ": "yo", "ご": "go", "ろく": "roku", "なな": "nana", "しち": "shichi", "はち": "hachi", "きゅう": "kyuu",
@@ -307,10 +307,11 @@ def romanize(text, over=None):
     out = re.sub(r"(?i)\bde mo\b", "demo", out)
     out = re.sub(r"(?i)\bban gohan\b", "bangohan", out)
     for _pat, _rep in [(r"\bma e\b", "mae"), (r"\bku gatsu\b", "kugatsu"), (r"\bfutsu ka\b", "futsuka"), (r"\bna no ka\b", "nanoka"), (r"\bbasu tee\b", "basutei"), (r"\bgomen nasai\b", "gomennasai"),
-                       (r"\bdoo shite\b", "dooshite"), (r"\bhon'ya\b", "honya"), (r"\bhon ya\b", "honya"), (r"\bkan koku\b", "kankoku")]:
-        out = re.sub(_pat, lambda m, _rep=_rep: (_rep[0].upper() + _rep[1:]) if m.group(0)[0].isupper() else _rep, out, flags=re.I)
+                       (r"\bdoo shite\b", "dooshite"), (r"\bhon'ya\b", "honya"), (r"\bhon ya\b", "honya"), (r"\bkan koku\b", "kankoku"), (r"\bkakko (ii|yo)", r"kakko\1"), (r"\bde kakeru\b", "dekakeru"), (r"\bsore kara\b", "sorekara"), (r"\bma de\b", "made"), (r"\bnomi mono\b", "nomimono"), (r"\btanjoo bi\b", "tanjoobi"), (r"\bike ma senyo", "ikemasen yo"), (r"\bike ma sen", "ikemasen"), (r"\bTabako o Suu\b", "Tabako o suu"), (r"\b([Cc])huu gakkoo\b", r"\1huugakkoo"), (r"\bkyoo iku\b", "kyooiku"), (r"\bdaigaku in\b", "daigakuin"), (r"\bhidari ga wa\b", "hidarigawa"), (r"^Ni shi$", "Nishi")]:
+        out = re.sub(_pat, lambda m, _rep=_rep: (m.expand(_rep)[0].upper() + m.expand(_rep)[1:]) if m.group(0)[0].isupper() else m.expand(_rep), out, flags=re.I)
     out = re.sub(r"(?i)\b(yon|san) pun\b", r"\1pun", out)
     out = re.sub(r"\b([Dd])oo mo\b", r"\1oomo", out)
+    out = re.sub(r"(?<=ku) (nai|nakatta)\b", r"\1", out)
     out = re.sub(r"\s+([,.?!”])", r"\1", out).replace("“ ", "“").replace(" ”", "”").strip()
     out = re.sub(r"([.?!] )([a-z])", lambda m: m.group(1) + m.group(2).upper(), out)
     if out:
