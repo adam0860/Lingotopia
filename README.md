@@ -1382,6 +1382,8 @@ left out" card.
 | 21. Genki I, Reading & Writing 8: Japanese Office Workers | 132-135 | the kanji 員 新 聞 作 仕 事 電 車 休 言 読 思 次 何, phrase-and-verb matching, the questionnaire and Uday's report on Japanese office workers |
 | 22. Genki I, Reading & Writing 9: Sue's Diary | 136-140 | the kanji 午 後 前 名 白 雨 書 友 間 家 話 少 古 知 来, blanks and word choices, Sue's diary in the plain form (picture order, true/false) and her thank-you e-mail with useful letter expressions |
 | 23. Genki I, Reading & Writing 10: The Folktale Kasajizo | 141-145 | the kanji 住 正 年 売 買 町 長 道 雪 立 自 夜 朝 持, opposites and blanks, the folktale かさじぞう with the book's vocabulary, picture order and true/false, and holiday writing practice |
+| 24. Genki I, Reading & Writing 11: Looking for Friends | 146-150 | the kanji 手 紙 好 近 明 病 院 映 画 歌 市 所 勉 強 有 旅, parts and compounds, the four 友だち募集 personal ads (who is it, questions) and Eva's reply letter with a sample ad |
+| 25. Genki I, Reading & Writing 12: Tanabata Festival | 151-155 | the kanji 昔 神 早 起 牛 使 働 連 別 度 赤 青 色 and 々, matching and components, the Tanabata story of Orihime and Hikoboshi with the book's vocabulary and questions, and the five-wishes writing practice |
 
 No native speaker has reviewed these lessons. `test/japanese_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
 and that spoken cells and example lines are Japanese text. It has not been run (no Flutter SDK here); the Python build runs the same checks.
