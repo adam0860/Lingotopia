@@ -1395,6 +1395,9 @@ left out" card.
 | 34. Genki II, Lesson 21: Burglar | 228-236 | the three dialogues (the break-in, the police, the arrest), vocabulary, the passive, ～てある, ～間に and adjective + する, ～てほしい with Expression Notes 7 (the alternative negative), the culture note on Shinto and Buddhism with the vocabulary of crimes, and two practice lessons |
 | 35. Genki II, Lesson 22: Education in Japan | 237-246 | Dialogue, vocabulary, causative sentences, ～なさい, the ば-form, ～のに, ～のような／ように, the culture note on Japan’s educational system (2), and two practice lessons |
 | 36. Genki II, Lesson 23: Good-bye | 247-256 | Dialogue, vocabulary, causative-passive sentences, ～ても, ～ことにする／ことにしている, ～まで, ～方, the culture note on Japanese proverbs (ことわざ) with じゃんけん, and three practice lessons |
+| 37. Genki II, Reading & Writing 13: Interesting Experiences in Japan | 257-261 | kanji 物 鳥 料 理 特 安 飯 肉 and 悪 体 空 港 着 同 海 昼, the kanji practice, Amy's essay on すっぽん with the true/false statements and the food photos, Nelson's rush-hour essay and a writing sample |
+| 38. Genki II, Reading & Writing 14: Personal Advice Column | 262-266 | kanji 彼 代 留 族 親 切 英 店 and 去 急 乗 当 音 楽 医 者, the kanji practice, the three letters to the advice column and the advice, the questions and writing practice |
+| 39. Genki II, Reading & Writing 15: My Favorite Place | 267-271 | kanji 死 意 味 注 夏 魚 寺 広 and 転 借 走 建 地 場 足 通, the kanji practice, the four essays (Hiroshima and Miyajima, Okinawa, Kyoto, Shinjuku), the questions, the four travellers and a writing sample |
 
 No native speaker has reviewed these lessons. `test/japanese_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
 and that spoken cells and example lines are Japanese text. It has not been run (no Flutter SDK here); the Python build runs the same checks.
