@@ -1392,6 +1392,7 @@ left out" card.
 | 31. Genki II, Lesson 18: John’s Part-time Job | 200-209 | the three dialogues (Little Asia), vocabulary, transitive and intransitive verb pairs, ～てしまう and ～ちゃう, ～と, ～ながら, ～ばよかったです, Expression Notes 5 (おかげ), the culture note on sushi, and two practice lessons |
 | 32. Genki II, Lesson 19: Meeting the Boss | 210-218 | the three dialogues (airport, restaurant, the manager’s house), vocabulary, honorific verbs, お～ください, ～てくれてありがとう and ～てよかったです, ～はずです, Expression Notes 6 (honorific nouns, それで/そして/それから), the culture note on visiting someone’s house, and two practice lessons |
 | 33. Genki II, Lesson 20: Mary’s Shopping | 219-227 | the two dialogues (the electric appliance store, asking the way), vocabulary, extra-modest expressions, humble expressions, ～ないで, questions within larger sentences, ～という, ～やすい and ～にくい, the culture note on Japanese pop culture, and two practice lessons |
+| 34. Genki II, Lesson 21: Burglar | 228-236 | the three dialogues (the break-in, the police, the arrest), vocabulary, the passive, ～てある, ～間に and adjective + する, ～てほしい with Expression Notes 7 (the alternative negative), the culture note on Shinto and Buddhism with the vocabulary of crimes, and two practice lessons |
 
 No native speaker has reviewed these lessons. `test/japanese_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
 and that spoken cells and example lines are Japanese text. It has not been run (no Flutter SDK here); the Python build runs the same checks.
