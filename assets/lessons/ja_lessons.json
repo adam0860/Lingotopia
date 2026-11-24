@@ -6189,7 +6189,7 @@
          "rows": [
           [
            "おばさん",
-           "Oba-san",
+           "Obasan",
            "obasan"
           ],
           [
@@ -6199,7 +6199,7 @@
           ],
           [
            "おじさん",
-           "Oji-san",
+           "Ojisan",
            "ojisan"
           ],
           [
@@ -7025,7 +7025,7 @@
          "rows": [
           [
            "おばさん",
-           "Oba-san",
+           "Obasan",
            "aunt"
           ],
           [
@@ -7040,7 +7040,7 @@
           ],
           [
            "おじさん",
-           "Oji-san",
+           "Ojisan",
            "uncle"
           ],
           [
@@ -173078,6 +173078,6878 @@
        ],
        "correctIndex": 0,
        "explanation": "使ってみてもいいですか."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "unit_27",
+   "title": "Genki II, Lesson 14: Valentine’s Day",
+   "lessons": [
+    {
+     "id": "ja_164",
+     "title": "164. Dialogue: Valentine’s Day",
+     "subtitle": "バレンタインのプレゼントは何がいいと思いますか · セーターをあげたらどうですか · いいかもしれませんね · こんなのがほしかったんだ · 十個ももらったんですよ · 一個しかもらえませんでした",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "Dialogue 1: A month before Valentine’s Day",
+       "body": "Mary asks Michiko what to give Takeshi. Tap a line to hear it.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "バレンタインのプレゼントは何がいいと思いますか。",
+         "translation": "メアリー: Barentain no purezento wa nani ga ii to omoimasu ka. — What do you think would be good for a Valentine’s Day present?"
+        },
+        {
+         "text": "そうですね。たけしさんはいつも同じセーターを着ているから、セーターをあげたらどうですか。",
+         "translation": "みちこ: Soo desu ne. Takeshi-san wa itsumo onaji seetaa o kite iru kara, seetaa o agetara doo desu ka. — Let me see. Takeshi always wears the same sweater, so why don’t you give him a sweater?"
+        },
+        {
+         "text": "それはいいかもしれませんね。",
+         "translation": "メアリー: Sore wa ii ka mo shiremasen ne. — That might be a good idea."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Dialogue 2: On Valentine’s Day",
+       "body": "Mary gives Takeshi her present.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "たけしくん、はい、これ。",
+         "translation": "メアリー: Takeshi-kun, hai, kore. — Takeshi, here, this is for you."
+        },
+        {
+         "text": "えっ、ぼくに？ どうもありがとう。開けてもいい？",
+         "translation": "たけし: E, boku ni? Doomo arigatoo. Akete mo ii? — What, for me? Thank you very much. May I open it?"
+        },
+        {
+         "text": "うん。",
+         "translation": "メアリー: Un. — Yeah."
+        },
+        {
+         "text": "わあ、いいね、このセーター。こんなのがほしかったんだ。メアリーが編んだの？",
+         "translation": "たけし: Waa, ii ne, kono seetaa. Konna no ga hoshikatta n da. Mearii ga an da no? — Wow, this sweater is nice. This is just what I wanted. Did you knit it, Mary?"
+        },
+        {
+         "text": "うん、小さいかもしれないから着てみて。",
+         "translation": "メアリー: Un, chiisai ka mo shirenai kara kite mite. — Yeah. It might be small, so try it on."
+        },
+        {
+         "text": "ちょうどいいよ。ありがとう。",
+         "translation": "たけし: Choodo ii yo. Arigatoo. — It fits just right. Thank you."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Dialogue 3: The next day",
+       "body": "John and Takeshi talk about presents and chocolates.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "暖かそうなセーターですね。",
+         "translation": "ジョン: Atatakasoo na seetaa desu ne. — That’s a warm-looking sweater."
+        },
+        {
+         "text": "これ、メアリーがくれたんです。",
+         "translation": "たけし: Kore, Mearii ga kureta n desu. — Mary gave it to me."
+        },
+        {
+         "text": "よく似合っていますよ。ぼくも彼女がほしいなあ。ロバートさんはチョコレートを十個ももらったんですよ。",
+         "translation": "ジョン: Yoku niatte imasu yo. Boku mo kanojo ga hoshii naa. Robaato-san wa chokoreeto o jukko mo moratta n desu yo. — It looks very good on you. I want a girlfriend, too. Robert received as many as ten chocolates."
+        },
+        {
+         "text": "へえ、すごいですね。ジョンさんは？",
+         "translation": "たけし: Hee, sugoi desu ne. Jon-san wa? — Wow, that’s something. How about you, John?"
+        },
+        {
+         "text": "ぼくは一個しかもらえませんでした。大家さんから。さびしいなあ。",
+         "translation": "ジョン: Boku wa ikko shika moraemasen deshita. Ooyasan kara. Sabishii naa. — I got only one. From my landlady. How lonely."
+        },
+        {
+         "text": "でも、ロバートさんはホワイトデーが大変ですよ。",
+         "translation": "たけし: Demo, Robaato-san wa howaitodee ga taihen desu yo. — But White Day will be hard for Robert."
+        },
+        {
+         "text": "ホワイトデー？",
+         "translation": "ジョン: Howaitodee? — White Day?"
+        },
+        {
+         "text": "ええ、男の人は三月十四日にお返しをしなきゃいけないんですよ。",
+         "translation": "たけし: Ee, otoko no hito wa sangatsu juuyokka ni okaeshi o shinakya ikenai n desu yo. — Yes, men have to give something back on March 14th."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "What to notice",
+       "body": "This lesson’s grammar: ほしい (I want a thing), ～かもしれません (maybe), あげる/くれる/もらう (giving and receiving), ～たらどうですか (why don’t you…?) and numbers with も and しか (十個も, 一個しか). Notice also the casual forms in Dialogue 2: 開けてもいい？ , メアリーが編んだの？ , 着てみて.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "それはいいかもしれませんね。",
+         "translation": "Sore wa ii ka mo shiremasen ne. — That may be a good idea."
+        },
+        {
+         "text": "セーターをあげたらどうですか。",
+         "translation": "Seetaa o agetara doo desu ka. — Why don’t you give him a sweater?"
+        },
+        {
+         "text": "チョコレートを十個ももらったんですよ。",
+         "translation": "Chokoreeto o jukko mo moratta n desu yo. — He received as many as ten chocolates."
+        },
+        {
+         "text": "一個しかもらえませんでした。",
+         "translation": "Ikko shika moraemasen deshita. — I could receive only one."
+        }
+       ],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does Mary ask Michiko about?",
+       "options": [
+        "a birthday party",
+        "a part-time job",
+        "a trip to Hawaii",
+        "a Valentine’s Day present"
+       ],
+       "correctIndex": 3,
+       "explanation": "バレンタインのプレゼントは何がいいと思いますか。"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "Why does Michiko suggest a sweater?",
+       "options": [
+        "Takeshi likes red",
+        "Takeshi is cold",
+        "sweaters are cheap",
+        "Takeshi always wears the same one"
+       ],
+       "correctIndex": 3,
+       "explanation": "いつも同じセーターを着ているから."
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What does Mary give Takeshi?",
+       "options": [
+        "chocolate",
+        "a sweater she knitted",
+        "a watch",
+        "a necktie"
+       ],
+       "correctIndex": 1,
+       "explanation": "メアリーが編んだの？"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "Why does Mary tell Takeshi to try the sweater on?",
+       "options": [
+        "it might be small",
+        "it might be ugly",
+        "it was expensive",
+        "it might be big"
+       ],
+       "correctIndex": 0,
+       "explanation": "小さいかもしれないから着てみて。"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "Does the sweater fit?",
+       "options": [
+        "no, it is too big",
+        "no, it is too small",
+        "yes, just right",
+        "he does not say"
+       ],
+       "correctIndex": 2,
+       "explanation": "ちょうどいいよ。"
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "Who gave Takeshi the sweater?",
+       "options": [
+        "Mary",
+        "Michiko",
+        "John",
+        "Robert"
+       ],
+       "correctIndex": 0,
+       "explanation": "メアリーがくれたんです。"
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "How many chocolates did Robert get?",
+       "options": [
+        "ten",
+        "one",
+        "five",
+        "two"
+       ],
+       "correctIndex": 0,
+       "explanation": "十個も"
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "How many chocolates did John get?",
+       "options": [
+        "none",
+        "one",
+        "three",
+        "ten"
+       ],
+       "correctIndex": 1,
+       "explanation": "一個しか"
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "Who gave John a chocolate?",
+       "options": [
+        "his landlady",
+        "his mother",
+        "Mary",
+        "Michiko"
+       ],
+       "correctIndex": 0,
+       "explanation": "大家さんから。"
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What must men do on March 14th?",
+       "options": [
+        "go to a party",
+        "give something back",
+        "visit a shrine",
+        "buy chocolate"
+       ],
+       "correctIndex": 1,
+       "explanation": "お返しをしなきゃいけない。"
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What does さびしいなあ express?",
+       "options": [
+        "happiness",
+        "anger",
+        "loneliness",
+        "hunger"
+       ],
+       "correctIndex": 2,
+       "explanation": "さびしい = lonely."
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "What is ホワイトデー?",
+       "options": [
+        "the day men return gifts (March 14th)",
+        "Christmas",
+        "the day for snow",
+        "New Year’s Day"
+       ],
+       "correctIndex": 0,
+       "explanation": "三月十四日."
+      },
+      {
+       "id": "e13",
+       "type": "fillBlank",
+       "prompt": "セーターをあげ___どうですか。",
+       "options": [
+        "たら",
+        "れば",
+        "ても",
+        "ると"
+       ],
+       "correctIndex": 0,
+       "explanation": "あげたらどうですか."
+      },
+      {
+       "id": "e14",
+       "type": "fillBlank",
+       "prompt": "それはいい___しれませんね。",
+       "options": [
+        "だけ",
+        "ほど",
+        "かも",
+        "しか"
+       ],
+       "correctIndex": 2,
+       "explanation": "いいかもしれません."
+      },
+      {
+       "id": "e15",
+       "type": "fillBlank",
+       "prompt": "チョコレートを十個___もらいました。",
+       "options": [
+        "しか",
+        "も",
+        "だけ",
+        "は"
+       ],
+       "correctIndex": 1,
+       "explanation": "十個も."
+      },
+      {
+       "id": "e16",
+       "type": "fillBlank",
+       "prompt": "一個___もらえませんでした。",
+       "options": [
+        "だけ",
+        "しか",
+        "まで",
+        "も"
+       ],
+       "correctIndex": 1,
+       "explanation": "一個しか + negative."
+      },
+      {
+       "id": "e17",
+       "type": "fillBlank",
+       "prompt": "メアリーがこれを___んです。 (gave me)",
+       "options": [
+        "あげた",
+        "もらった",
+        "やった",
+        "くれた"
+       ],
+       "correctIndex": 3,
+       "explanation": "メアリーがくれた."
+      },
+      {
+       "id": "e18",
+       "type": "fillBlank",
+       "prompt": "小さいかもしれないから着て___。",
+       "options": [
+        "あげて",
+        "しまって",
+        "みて",
+        "おいて"
+       ],
+       "correctIndex": 2,
+       "explanation": "着てみて."
+      }
+     ]
+    },
+    {
+     "id": "ja_165",
+     "title": "165. Vocabulary: Lesson 14",
+     "subtitle": "大家さん · お返し · 奥さん · ご主人 · 指輪 · 両親 · 履歴書 · 欲しい · 似合う · 相談する · 同じ · 〜個 · 〜冊 · 〜台 · 〜匹 · 〜本",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "Nouns",
+       "body": "The kana is spoken and shown with its kanji (where the book gives one). 奥さん and ご主人 are for other people’s spouses.",
+       "tables": [
+        {
+         "headers": [
+          "Japanese",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "あに",
+           "兄",
+           "Ani",
+           "(my) older brother"
+          ],
+          [
+           "おおやさん",
+           "大家さん",
+           "Ooyasan",
+           "landlord; landlady"
+          ],
+          [
+           "おかえし",
+           "お返し",
+           "Okaeshi",
+           "return (a favor); return gift"
+          ],
+          [
+           "おくさん",
+           "奥さん",
+           "Okusan",
+           "(your/his) wife"
+          ],
+          [
+           "おじさん",
+           "",
+           "Ojisan",
+           "uncle; middle-aged man"
+          ],
+          [
+           "おばさん",
+           "",
+           "Obasan",
+           "aunt; middle-aged woman"
+          ],
+          [
+           "グラス",
+           "",
+           "Gurasu",
+           "tumbler; glass"
+          ],
+          [
+           "クリスマス",
+           "",
+           "Kurisumasu",
+           "Christmas"
+          ],
+          [
+           "ごしゅじん",
+           "ご主人",
+           "Goshujin",
+           "(your/her) husband"
+          ],
+          [
+           "さら",
+           "皿",
+           "Sara",
+           "plate; dish"
+          ],
+          [
+           "じかん",
+           "時間",
+           "Jikan",
+           "time"
+          ],
+          [
+           "チケット",
+           "",
+           "Chiketto",
+           "ticket"
+          ],
+          [
+           "チョコレート",
+           "",
+           "Chokoreeto",
+           "chocolate"
+          ],
+          [
+           "トレーナー",
+           "",
+           "Toreenaa",
+           "sweat shirt"
+          ],
+          [
+           "ぬいぐるみ",
+           "",
+           "Nuigurumi",
+           "stuffed animal"
+          ],
+          [
+           "ネクタイ",
+           "",
+           "Nekutai",
+           "necktie"
+          ],
+          [
+           "バレンタインデー",
+           "",
+           "Barentaindee",
+           "St. Valentine’s Day"
+          ],
+          [
+           "ビデオカメラ",
+           "",
+           "Bideokamera",
+           "camcorder"
+          ],
+          [
+           "ふうふ",
+           "夫婦",
+           "Fuufu",
+           "married couple"
+          ],
+          [
+           "ホワイトデー",
+           "",
+           "Howaitodee",
+           "White Day (March 14th)"
+          ],
+          [
+           "マフラー",
+           "",
+           "Mafuraa",
+           "winter scarf"
+          ],
+          [
+           "まんが",
+           "漫画",
+           "Manga",
+           "comic book"
+          ],
+          [
+           "マンション",
+           "",
+           "Manshon",
+           "multistory apartment building; condominium"
+          ],
+          [
+           "みかん",
+           "",
+           "Mikan",
+           "mandarin orange"
+          ],
+          [
+           "みなさん",
+           "皆さん",
+           "Minasan",
+           "everyone"
+          ],
+          [
+           "ゆびわ",
+           "指輪",
+           "Yubiwa",
+           "ring"
+          ],
+          [
+           "ラジオ",
+           "",
+           "Rajio",
+           "radio"
+          ],
+          [
+           "りょうしん",
+           "両親",
+           "Ryooshin",
+           "parents"
+          ],
+          [
+           "りれきしょ",
+           "履歴書",
+           "Rirekisho",
+           "résumé"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "い-adjective and な-adjective",
+       "body": "ほしい takes が for the thing wanted. けち means stingy or cheap (about money).",
+       "tables": [
+        {
+         "headers": [
+          "Japanese",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "ほしい",
+           "欲しい",
+           "Hoshii",
+           "to want (thing が)"
+          ],
+          [
+           "けち",
+           "",
+           "Kechi",
+           "stingy; cheap (けちな)"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "U-verbs",
+       "body": "おくる takes person に thing を; にあう takes the thing that looks good on the person as が (セーターが似合う).",
+       "tables": [
+        {
+         "headers": [
+          "Japanese",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "おくる",
+           "送る",
+           "Okuru",
+           "to send (person に thing を)"
+          ],
+          [
+           "にあう",
+           "似合う",
+           "Niau",
+           "to look good on somebody (thing が)"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Ru-verbs",
+       "body": "あげる, くれる and できる are ru-verbs. You will see how あげる and くれる differ in Grammar 3.",
+       "tables": [
+        {
+         "headers": [
+          "Japanese",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "あきらめる",
+           "",
+           "Akirameru",
+           "to give up (を)"
+          ],
+          [
+           "あげる",
+           "",
+           "Ageru",
+           "to give (person に thing を)"
+          ],
+          [
+           "くれる",
+           "",
+           "Kureru",
+           "to give (me) (person に thing を)"
+          ],
+          [
+           "できる",
+           "",
+           "Dekiru",
+           "to come into existence; to be made (が)"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Irregular verbs",
+       "body": "Both are する-verbs: 先生に相談する, 彼女にプロポーズする.",
+       "tables": [
+        {
+         "headers": [
+          "Japanese",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "そうだんする",
+           "相談する",
+           "Soodan suru",
+           "to consult (person に)"
+          ],
+          [
+           "プロポーズする",
+           "",
+           "Puropoozu suru",
+           "to propose marriage (person に)"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Adverbs and other expressions",
+       "body": "The 〜 marks the word that goes before or after (shown in the kanji column; the speaker says only the word itself).",
+       "tables": [
+        {
+         "headers": [
+          "Japanese",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "おなじ",
+           "同じ",
+           "Onaji",
+           "same"
+          ],
+          [
+           "くん",
+           "〜君",
+           "Kun",
+           "Mr.; Ms. (casual, for a boy or a young man)"
+          ],
+          [
+           "こんな",
+           "",
+           "Konna",
+           "… like this (こんな〜)"
+          ],
+          [
+           "たち",
+           "〜たち",
+           "Tachi",
+           "makes a noun plural (わたしたち 私たち)"
+          ],
+          [
+           "ちょうど",
+           "",
+           "Choodo",
+           "exactly; just"
+          ],
+          [
+           "どうしたらいい",
+           "",
+           "Doo shitara ii",
+           "what should one do"
+          ],
+          [
+           "よく",
+           "",
+           "Yoku",
+           "well"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Counters",
+       "body": "Five new counters (how to count things). Their full table is in Lesson 14’s “Useful expressions” card.",
+       "tables": [
+        {
+         "headers": [
+          "Japanese",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "こ",
+           "〜個",
+           "Ko",
+           "generic small items"
+          ],
+          [
+           "さつ",
+           "〜冊",
+           "Satsu",
+           "bound volumes"
+          ],
+          [
+           "だい",
+           "〜台",
+           "Dai",
+           "equipment (cars, machines)"
+          ],
+          [
+           "ひき",
+           "〜匹",
+           "Hiki",
+           "small animals"
+          ],
+          [
+           "ほん",
+           "〜本",
+           "Hon",
+           "long objects"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does あに mean?",
+       "options": [
+        "(your/his) wife",
+        "(my) older brother",
+        "return (a favor); return gift",
+        "landlord; landlady"
+       ],
+       "correctIndex": 1,
+       "explanation": "あに (Ani) means “(my) older brother”."
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What does おおやさん mean?",
+       "options": [
+        "landlord; landlady",
+        "return (a favor); return gift",
+        "uncle; middle-aged man",
+        "(your/his) wife"
+       ],
+       "correctIndex": 0,
+       "explanation": "おおやさん (Ooyasan) means “landlord; landlady”."
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What does おかえし mean?",
+       "options": [
+        "(your/his) wife",
+        "return (a favor); return gift",
+        "aunt; middle-aged woman",
+        "uncle; middle-aged man"
+       ],
+       "correctIndex": 1,
+       "explanation": "おかえし (Okaeshi) means “return (a favor); return gift”."
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does おくさん mean?",
+       "options": [
+        "uncle; middle-aged man",
+        "tumbler; glass",
+        "(your/his) wife",
+        "aunt; middle-aged woman"
+       ],
+       "correctIndex": 2,
+       "explanation": "おくさん (Okusan) means “(your/his) wife”."
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What does おじさん mean?",
+       "options": [
+        "aunt; middle-aged woman",
+        "tumbler; glass",
+        "uncle; middle-aged man",
+        "Christmas"
+       ],
+       "correctIndex": 2,
+       "explanation": "おじさん (Ojisan) means “uncle; middle-aged man”."
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What does おばさん mean?",
+       "options": [
+        "Christmas",
+        "(your/her) husband",
+        "tumbler; glass",
+        "aunt; middle-aged woman"
+       ],
+       "correctIndex": 3,
+       "explanation": "おばさん (Obasan) means “aunt; middle-aged woman”."
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What does グラス mean?",
+       "options": [
+        "Christmas",
+        "tumbler; glass",
+        "plate; dish",
+        "(your/her) husband"
+       ],
+       "correctIndex": 1,
+       "explanation": "グラス (Gurasu) means “tumbler; glass”."
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What does クリスマス mean?",
+       "options": [
+        "time",
+        "Christmas",
+        "plate; dish",
+        "(your/her) husband"
+       ],
+       "correctIndex": 1,
+       "explanation": "クリスマス (Kurisumasu) means “Christmas”."
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "What does ごしゅじん mean?",
+       "options": [
+        "time",
+        "plate; dish",
+        "ticket",
+        "(your/her) husband"
+       ],
+       "correctIndex": 3,
+       "explanation": "ごしゅじん (Goshujin) means “(your/her) husband”."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What does さら mean?",
+       "options": [
+        "plate; dish",
+        "ticket",
+        "time",
+        "chocolate"
+       ],
+       "correctIndex": 0,
+       "explanation": "さら (Sara) means “plate; dish”."
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What does じかん mean?",
+       "options": [
+        "time",
+        "ticket",
+        "sweat shirt",
+        "chocolate"
+       ],
+       "correctIndex": 0,
+       "explanation": "じかん (Jikan) means “time”."
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "What does チケット mean?",
+       "options": [
+        "chocolate",
+        "stuffed animal",
+        "ticket",
+        "sweat shirt"
+       ],
+       "correctIndex": 2,
+       "explanation": "チケット (Chiketto) means “ticket”."
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "What does チョコレート mean?",
+       "options": [
+        "necktie",
+        "chocolate",
+        "stuffed animal",
+        "sweat shirt"
+       ],
+       "correctIndex": 1,
+       "explanation": "チョコレート (Chokoreeto) means “chocolate”."
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "What does トレーナー mean?",
+       "options": [
+        "stuffed animal",
+        "necktie",
+        "St. Valentine’s Day",
+        "sweat shirt"
+       ],
+       "correctIndex": 3,
+       "explanation": "トレーナー (Toreenaa) means “sweat shirt”."
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "What does ぬいぐるみ mean?",
+       "options": [
+        "stuffed animal",
+        "St. Valentine’s Day",
+        "necktie",
+        "camcorder"
+       ],
+       "correctIndex": 0,
+       "explanation": "ぬいぐるみ (Nuigurumi) means “stuffed animal”."
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "What does ネクタイ mean?",
+       "options": [
+        "necktie",
+        "camcorder",
+        "St. Valentine’s Day",
+        "married couple"
+       ],
+       "correctIndex": 0,
+       "explanation": "ネクタイ (Nekutai) means “necktie”."
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "What does バレンタインデー mean?",
+       "options": [
+        "married couple",
+        "St. Valentine’s Day",
+        "camcorder",
+        "White Day (March 14th)"
+       ],
+       "correctIndex": 1,
+       "explanation": "バレンタインデー (Barentaindee) means “St. Valentine’s Day”."
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "What does ビデオカメラ mean?",
+       "options": [
+        "camcorder",
+        "White Day (March 14th)",
+        "married couple",
+        "winter scarf"
+       ],
+       "correctIndex": 0,
+       "explanation": "ビデオカメラ (Bideokamera) means “camcorder”."
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "What does ふうふ mean?",
+       "options": [
+        "White Day (March 14th)",
+        "winter scarf",
+        "comic book",
+        "married couple"
+       ],
+       "correctIndex": 3,
+       "explanation": "ふうふ (Fuufu) means “married couple”."
+      },
+      {
+       "id": "e20",
+       "type": "multipleChoice",
+       "prompt": "What does ホワイトデー mean?",
+       "options": [
+        "White Day (March 14th)",
+        "multistory apartment building; condominium",
+        "comic book",
+        "winter scarf"
+       ],
+       "correctIndex": 0,
+       "explanation": "ホワイトデー (Howaitodee) means “White Day (March 14th)”."
+      },
+      {
+       "id": "e21",
+       "type": "multipleChoice",
+       "prompt": "What does マフラー mean?",
+       "options": [
+        "comic book",
+        "mandarin orange",
+        "winter scarf",
+        "multistory apartment building; condominium"
+       ],
+       "correctIndex": 2,
+       "explanation": "マフラー (Mafuraa) means “winter scarf”."
+      },
+      {
+       "id": "e22",
+       "type": "multipleChoice",
+       "prompt": "What does まんが mean?",
+       "options": [
+        "multistory apartment building; condominium",
+        "comic book",
+        "mandarin orange",
+        "everyone"
+       ],
+       "correctIndex": 1,
+       "explanation": "まんが (Manga) means “comic book”."
+      },
+      {
+       "id": "e23",
+       "type": "multipleChoice",
+       "prompt": "What does マンション mean?",
+       "options": [
+        "everyone",
+        "multistory apartment building; condominium",
+        "ring",
+        "mandarin orange"
+       ],
+       "correctIndex": 1,
+       "explanation": "マンション (Manshon) means “multistory apartment building; condominium”."
+      },
+      {
+       "id": "e24",
+       "type": "multipleChoice",
+       "prompt": "What does みかん mean?",
+       "options": [
+        "radio",
+        "everyone",
+        "ring",
+        "mandarin orange"
+       ],
+       "correctIndex": 3,
+       "explanation": "みかん (Mikan) means “mandarin orange”."
+      },
+      {
+       "id": "e25",
+       "type": "multipleChoice",
+       "prompt": "What does みなさん mean?",
+       "options": [
+        "radio",
+        "ring",
+        "parents",
+        "everyone"
+       ],
+       "correctIndex": 3,
+       "explanation": "みなさん (Minasan) means “everyone”."
+      },
+      {
+       "id": "e26",
+       "type": "multipleChoice",
+       "prompt": "What does ゆびわ mean?",
+       "options": [
+        "résumé",
+        "parents",
+        "radio",
+        "ring"
+       ],
+       "correctIndex": 3,
+       "explanation": "ゆびわ (Yubiwa) means “ring”."
+      },
+      {
+       "id": "e27",
+       "type": "multipleChoice",
+       "prompt": "What does ラジオ mean?",
+       "options": [
+        "radio",
+        "résumé",
+        "to want (thing が)",
+        "parents"
+       ],
+       "correctIndex": 0,
+       "explanation": "ラジオ (Rajio) means “radio”."
+      },
+      {
+       "id": "e28",
+       "type": "multipleChoice",
+       "prompt": "What does りょうしん mean?",
+       "options": [
+        "résumé",
+        "to want (thing が)",
+        "stingy; cheap (けちな)",
+        "parents"
+       ],
+       "correctIndex": 3,
+       "explanation": "りょうしん (Ryooshin) means “parents”."
+      },
+      {
+       "id": "e29",
+       "type": "multipleChoice",
+       "prompt": "What does りれきしょ mean?",
+       "options": [
+        "résumé",
+        "to want (thing が)",
+        "(my) older brother",
+        "stingy; cheap (けちな)"
+       ],
+       "correctIndex": 0,
+       "explanation": "りれきしょ (Rirekisho) means “résumé”."
+      },
+      {
+       "id": "e30",
+       "type": "multipleChoice",
+       "prompt": "What does ほしい mean?",
+       "options": [
+        "(my) older brother",
+        "landlord; landlady",
+        "to want (thing が)",
+        "stingy; cheap (けちな)"
+       ],
+       "correctIndex": 2,
+       "explanation": "ほしい (Hoshii) means “to want (thing が)”."
+      },
+      {
+       "id": "e31",
+       "type": "multipleChoice",
+       "prompt": "What does けち mean?",
+       "options": [
+        "landlord; landlady",
+        "stingy; cheap (けちな)",
+        "return (a favor); return gift",
+        "(my) older brother"
+       ],
+       "correctIndex": 1,
+       "explanation": "けち (Kechi) means “stingy; cheap (けちな)”."
+      },
+      {
+       "id": "e32",
+       "type": "multipleChoice",
+       "prompt": "How do you say “(my) older brother” in Japanese?",
+       "options": [
+        "おおやさん",
+        "あに",
+        "おくさん",
+        "おかえし"
+       ],
+       "correctIndex": 1,
+       "explanation": "(my) older brother is あに (Ani)."
+      },
+      {
+       "id": "e33",
+       "type": "multipleChoice",
+       "prompt": "How do you say “landlord; landlady” in Japanese?",
+       "options": [
+        "おかえし",
+        "おじさん",
+        "おおやさん",
+        "おくさん"
+       ],
+       "correctIndex": 2,
+       "explanation": "landlord; landlady is おおやさん (Ooyasan)."
+      },
+      {
+       "id": "e34",
+       "type": "multipleChoice",
+       "prompt": "How do you say “return (a favor); return gift” in Japanese?",
+       "options": [
+        "おかえし",
+        "おばさん",
+        "おじさん",
+        "おくさん"
+       ],
+       "correctIndex": 0,
+       "explanation": "return (a favor); return gift is おかえし (Okaeshi)."
+      },
+      {
+       "id": "e35",
+       "type": "multipleChoice",
+       "prompt": "How do you say “(your/his) wife” in Japanese?",
+       "options": [
+        "おばさん",
+        "おくさん",
+        "おじさん",
+        "グラス"
+       ],
+       "correctIndex": 1,
+       "explanation": "(your/his) wife is おくさん (Okusan)."
+      },
+      {
+       "id": "e36",
+       "type": "multipleChoice",
+       "prompt": "How do you say “uncle; middle-aged man” in Japanese?",
+       "options": [
+        "グラス",
+        "おばさん",
+        "おじさん",
+        "クリスマス"
+       ],
+       "correctIndex": 2,
+       "explanation": "uncle; middle-aged man is おじさん (Ojisan)."
+      },
+      {
+       "id": "e37",
+       "type": "multipleChoice",
+       "prompt": "How do you say “aunt; middle-aged woman” in Japanese?",
+       "options": [
+        "ごしゅじん",
+        "クリスマス",
+        "グラス",
+        "おばさん"
+       ],
+       "correctIndex": 3,
+       "explanation": "aunt; middle-aged woman is おばさん (Obasan)."
+      },
+      {
+       "id": "e38",
+       "type": "multipleChoice",
+       "prompt": "How do you say “tumbler; glass” in Japanese?",
+       "options": [
+        "グラス",
+        "ごしゅじん",
+        "クリスマス",
+        "さら"
+       ],
+       "correctIndex": 0,
+       "explanation": "tumbler; glass is グラス (Gurasu)."
+      },
+      {
+       "id": "e39",
+       "type": "multipleChoice",
+       "prompt": "How do you say “Christmas” in Japanese?",
+       "options": [
+        "じかん",
+        "クリスマス",
+        "さら",
+        "ごしゅじん"
+       ],
+       "correctIndex": 1,
+       "explanation": "Christmas is クリスマス (Kurisumasu)."
+      },
+      {
+       "id": "e40",
+       "type": "multipleChoice",
+       "prompt": "How do you say “(your/her) husband” in Japanese?",
+       "options": [
+        "ごしゅじん",
+        "さら",
+        "じかん",
+        "チケット"
+       ],
+       "correctIndex": 0,
+       "explanation": "(your/her) husband is ごしゅじん (Goshujin)."
+      },
+      {
+       "id": "e41",
+       "type": "multipleChoice",
+       "prompt": "How do you say “plate; dish” in Japanese?",
+       "options": [
+        "チョコレート",
+        "チケット",
+        "さら",
+        "じかん"
+       ],
+       "correctIndex": 2,
+       "explanation": "plate; dish is さら (Sara)."
+      },
+      {
+       "id": "e42",
+       "type": "multipleChoice",
+       "prompt": "How do you say “time” in Japanese?",
+       "options": [
+        "チョコレート",
+        "じかん",
+        "チケット",
+        "トレーナー"
+       ],
+       "correctIndex": 1,
+       "explanation": "time is じかん (Jikan)."
+      },
+      {
+       "id": "e43",
+       "type": "multipleChoice",
+       "prompt": "How do you say “ticket” in Japanese?",
+       "options": [
+        "ぬいぐるみ",
+        "トレーナー",
+        "チケット",
+        "チョコレート"
+       ],
+       "correctIndex": 2,
+       "explanation": "ticket is チケット (Chiketto)."
+      },
+      {
+       "id": "e44",
+       "type": "multipleChoice",
+       "prompt": "How do you say “chocolate” in Japanese?",
+       "options": [
+        "トレーナー",
+        "ネクタイ",
+        "チョコレート",
+        "ぬいぐるみ"
+       ],
+       "correctIndex": 2,
+       "explanation": "chocolate is チョコレート (Chokoreeto)."
+      },
+      {
+       "id": "e45",
+       "type": "multipleChoice",
+       "prompt": "How do you say “sweat shirt” in Japanese?",
+       "options": [
+        "トレーナー",
+        "バレンタインデー",
+        "ネクタイ",
+        "ぬいぐるみ"
+       ],
+       "correctIndex": 0,
+       "explanation": "sweat shirt is トレーナー (Toreenaa)."
+      },
+      {
+       "id": "e46",
+       "type": "multipleChoice",
+       "prompt": "How do you say “stuffed animal” in Japanese?",
+       "options": [
+        "ぬいぐるみ",
+        "バレンタインデー",
+        "ネクタイ",
+        "ビデオカメラ"
+       ],
+       "correctIndex": 0,
+       "explanation": "stuffed animal is ぬいぐるみ (Nuigurumi)."
+      },
+      {
+       "id": "e47",
+       "type": "multipleChoice",
+       "prompt": "How do you say “necktie” in Japanese?",
+       "options": [
+        "ふうふ",
+        "ネクタイ",
+        "ビデオカメラ",
+        "バレンタインデー"
+       ],
+       "correctIndex": 1,
+       "explanation": "necktie is ネクタイ (Nekutai)."
+      },
+      {
+       "id": "e48",
+       "type": "multipleChoice",
+       "prompt": "How do you say “St. Valentine’s Day” in Japanese?",
+       "options": [
+        "ホワイトデー",
+        "バレンタインデー",
+        "ビデオカメラ",
+        "ふうふ"
+       ],
+       "correctIndex": 1,
+       "explanation": "St. Valentine’s Day is バレンタインデー (Barentaindee)."
+      },
+      {
+       "id": "e49",
+       "type": "multipleChoice",
+       "prompt": "How do you say “camcorder” in Japanese?",
+       "options": [
+        "マフラー",
+        "ビデオカメラ",
+        "ふうふ",
+        "ホワイトデー"
+       ],
+       "correctIndex": 1,
+       "explanation": "camcorder is ビデオカメラ (Bideokamera)."
+      },
+      {
+       "id": "e50",
+       "type": "multipleChoice",
+       "prompt": "How do you say “married couple” in Japanese?",
+       "options": [
+        "ホワイトデー",
+        "まんが",
+        "マフラー",
+        "ふうふ"
+       ],
+       "correctIndex": 3,
+       "explanation": "married couple is ふうふ (Fuufu)."
+      },
+      {
+       "id": "e51",
+       "type": "multipleChoice",
+       "prompt": "How do you say “White Day (March 14th)” in Japanese?",
+       "options": [
+        "ホワイトデー",
+        "まんが",
+        "マフラー",
+        "マンション"
+       ],
+       "correctIndex": 0,
+       "explanation": "White Day (March 14th) is ホワイトデー (Howaitodee)."
+      },
+      {
+       "id": "e52",
+       "type": "multipleChoice",
+       "prompt": "How do you say “winter scarf” in Japanese?",
+       "options": [
+        "マフラー",
+        "まんが",
+        "マンション",
+        "みかん"
+       ],
+       "correctIndex": 0,
+       "explanation": "winter scarf is マフラー (Mafuraa)."
+      },
+      {
+       "id": "e53",
+       "type": "multipleChoice",
+       "prompt": "How do you say “comic book” in Japanese?",
+       "options": [
+        "みなさん",
+        "マンション",
+        "みかん",
+        "まんが"
+       ],
+       "correctIndex": 3,
+       "explanation": "comic book is まんが (Manga)."
+      },
+      {
+       "id": "e54",
+       "type": "multipleChoice",
+       "prompt": "How do you say “multistory apartment building; condominium” in Japanese?",
+       "options": [
+        "みなさん",
+        "ゆびわ",
+        "みかん",
+        "マンション"
+       ],
+       "correctIndex": 3,
+       "explanation": "multistory apartment building; condominium is マンション (Manshon)."
+      },
+      {
+       "id": "e55",
+       "type": "multipleChoice",
+       "prompt": "How do you say “mandarin orange” in Japanese?",
+       "options": [
+        "みかん",
+        "ラジオ",
+        "ゆびわ",
+        "みなさん"
+       ],
+       "correctIndex": 0,
+       "explanation": "mandarin orange is みかん (Mikan)."
+      },
+      {
+       "id": "e56",
+       "type": "multipleChoice",
+       "prompt": "How do you say “everyone” in Japanese?",
+       "options": [
+        "ゆびわ",
+        "みなさん",
+        "ラジオ",
+        "りょうしん"
+       ],
+       "correctIndex": 1,
+       "explanation": "everyone is みなさん (Minasan)."
+      },
+      {
+       "id": "e57",
+       "type": "multipleChoice",
+       "prompt": "How do you say “ring” in Japanese?",
+       "options": [
+        "ラジオ",
+        "りょうしん",
+        "ゆびわ",
+        "りれきしょ"
+       ],
+       "correctIndex": 2,
+       "explanation": "ring is ゆびわ (Yubiwa)."
+      },
+      {
+       "id": "e58",
+       "type": "multipleChoice",
+       "prompt": "How do you say “radio” in Japanese?",
+       "options": [
+        "ほしい",
+        "ラジオ",
+        "りょうしん",
+        "りれきしょ"
+       ],
+       "correctIndex": 1,
+       "explanation": "radio is ラジオ (Rajio)."
+      },
+      {
+       "id": "e59",
+       "type": "multipleChoice",
+       "prompt": "How do you say “parents” in Japanese?",
+       "options": [
+        "りれきしょ",
+        "けち",
+        "りょうしん",
+        "ほしい"
+       ],
+       "correctIndex": 2,
+       "explanation": "parents is りょうしん (Ryooshin)."
+      },
+      {
+       "id": "e60",
+       "type": "multipleChoice",
+       "prompt": "How do you say “résumé” in Japanese?",
+       "options": [
+        "けち",
+        "りれきしょ",
+        "あに",
+        "ほしい"
+       ],
+       "correctIndex": 1,
+       "explanation": "résumé is りれきしょ (Rirekisho)."
+      },
+      {
+       "id": "e61",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to want (thing が)” in Japanese?",
+       "options": [
+        "けち",
+        "あに",
+        "おおやさん",
+        "ほしい"
+       ],
+       "correctIndex": 3,
+       "explanation": "to want (thing が) is ほしい (Hoshii)."
+      },
+      {
+       "id": "e62",
+       "type": "multipleChoice",
+       "prompt": "How do you say “stingy; cheap (けちな)” in Japanese?",
+       "options": [
+        "おおやさん",
+        "あに",
+        "けち",
+        "おかえし"
+       ],
+       "correctIndex": 2,
+       "explanation": "stingy; cheap (けちな) is けち (Kechi)."
+      },
+      {
+       "id": "e63",
+       "type": "multipleChoice",
+       "prompt": "What does おくる mean?",
+       "options": [
+        "to send (person に thing を)",
+        "to give (person に thing を)",
+        "to give up (を)",
+        "to look good on somebody (thing が)"
+       ],
+       "correctIndex": 0,
+       "explanation": "おくる (Okuru) means “to send (person に thing を)”."
+      },
+      {
+       "id": "e64",
+       "type": "multipleChoice",
+       "prompt": "What does にあう mean?",
+       "options": [
+        "to give (person に thing を)",
+        "to give (me) (person に thing を)",
+        "to look good on somebody (thing が)",
+        "to give up (を)"
+       ],
+       "correctIndex": 2,
+       "explanation": "にあう (Niau) means “to look good on somebody (thing が)”."
+      },
+      {
+       "id": "e65",
+       "type": "multipleChoice",
+       "prompt": "What does あきらめる mean?",
+       "options": [
+        "to come into existence; to be made (が)",
+        "to give (me) (person に thing を)",
+        "to give up (を)",
+        "to give (person に thing を)"
+       ],
+       "correctIndex": 2,
+       "explanation": "あきらめる (Akirameru) means “to give up (を)”."
+      },
+      {
+       "id": "e66",
+       "type": "multipleChoice",
+       "prompt": "What does あげる mean?",
+       "options": [
+        "to come into existence; to be made (が)",
+        "to consult (person に)",
+        "to give (me) (person に thing を)",
+        "to give (person に thing を)"
+       ],
+       "correctIndex": 3,
+       "explanation": "あげる (Ageru) means “to give (person に thing を)”."
+      },
+      {
+       "id": "e67",
+       "type": "multipleChoice",
+       "prompt": "What does くれる mean?",
+       "options": [
+        "to propose marriage (person に)",
+        "to consult (person に)",
+        "to come into existence; to be made (が)",
+        "to give (me) (person に thing を)"
+       ],
+       "correctIndex": 3,
+       "explanation": "くれる (Kureru) means “to give (me) (person に thing を)”."
+      },
+      {
+       "id": "e68",
+       "type": "multipleChoice",
+       "prompt": "What does できる mean?",
+       "options": [
+        "to come into existence; to be made (が)",
+        "to consult (person に)",
+        "to send (person に thing を)",
+        "to propose marriage (person に)"
+       ],
+       "correctIndex": 0,
+       "explanation": "できる (Dekiru) means “to come into existence; to be made (が)”."
+      },
+      {
+       "id": "e69",
+       "type": "multipleChoice",
+       "prompt": "What does そうだんする mean?",
+       "options": [
+        "to look good on somebody (thing が)",
+        "to consult (person に)",
+        "to propose marriage (person に)",
+        "to send (person に thing を)"
+       ],
+       "correctIndex": 1,
+       "explanation": "そうだんする (Soodan suru) means “to consult (person に)”."
+      },
+      {
+       "id": "e70",
+       "type": "multipleChoice",
+       "prompt": "What does プロポーズする mean?",
+       "options": [
+        "to send (person に thing を)",
+        "to give up (を)",
+        "to propose marriage (person に)",
+        "to look good on somebody (thing が)"
+       ],
+       "correctIndex": 2,
+       "explanation": "プロポーズする (Puropoozu suru) means “to propose marriage (person に)”."
+      },
+      {
+       "id": "e71",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to send (person に thing を)” in Japanese?",
+       "options": [
+        "おくる",
+        "あきらめる",
+        "にあう",
+        "あげる"
+       ],
+       "correctIndex": 0,
+       "explanation": "to send (person に thing を) is おくる (Okuru)."
+      },
+      {
+       "id": "e72",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to look good on somebody (thing が)” in Japanese?",
+       "options": [
+        "にあう",
+        "あげる",
+        "あきらめる",
+        "くれる"
+       ],
+       "correctIndex": 0,
+       "explanation": "to look good on somebody (thing が) is にあう (Niau)."
+      },
+      {
+       "id": "e73",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to give up (を)” in Japanese?",
+       "options": [
+        "あげる",
+        "くれる",
+        "できる",
+        "あきらめる"
+       ],
+       "correctIndex": 3,
+       "explanation": "to give up (を) is あきらめる (Akirameru)."
+      },
+      {
+       "id": "e74",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to give (person に thing を)” in Japanese?",
+       "options": [
+        "くれる",
+        "できる",
+        "あげる",
+        "そうだんする"
+       ],
+       "correctIndex": 2,
+       "explanation": "to give (person に thing を) is あげる (Ageru)."
+      },
+      {
+       "id": "e75",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to give (me) (person に thing を)” in Japanese?",
+       "options": [
+        "そうだんする",
+        "できる",
+        "プロポーズする",
+        "くれる"
+       ],
+       "correctIndex": 3,
+       "explanation": "to give (me) (person に thing を) is くれる (Kureru)."
+      },
+      {
+       "id": "e76",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to come into existence; to be made (が)” in Japanese?",
+       "options": [
+        "そうだんする",
+        "おくる",
+        "プロポーズする",
+        "できる"
+       ],
+       "correctIndex": 3,
+       "explanation": "to come into existence; to be made (が) is できる (Dekiru)."
+      },
+      {
+       "id": "e77",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to consult (person に)” in Japanese?",
+       "options": [
+        "にあう",
+        "プロポーズする",
+        "そうだんする",
+        "おくる"
+       ],
+       "correctIndex": 2,
+       "explanation": "to consult (person に) is そうだんする (Soodan suru)."
+      },
+      {
+       "id": "e78",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to propose marriage (person に)” in Japanese?",
+       "options": [
+        "おくる",
+        "あきらめる",
+        "プロポーズする",
+        "にあう"
+       ],
+       "correctIndex": 2,
+       "explanation": "to propose marriage (person に) is プロポーズする (Puropoozu suru)."
+      },
+      {
+       "id": "e79",
+       "type": "multipleChoice",
+       "prompt": "What does おなじ mean?",
+       "options": [
+        "makes a noun plural (わたしたち 私たち)",
+        "… like this (こんな〜)",
+        "Mr.; Ms. (casual, for a boy or a young man)",
+        "same"
+       ],
+       "correctIndex": 3,
+       "explanation": "おなじ (Onaji) means “same”."
+      },
+      {
+       "id": "e80",
+       "type": "multipleChoice",
+       "prompt": "What does くん mean?",
+       "options": [
+        "makes a noun plural (わたしたち 私たち)",
+        "… like this (こんな〜)",
+        "Mr.; Ms. (casual, for a boy or a young man)",
+        "exactly; just"
+       ],
+       "correctIndex": 2,
+       "explanation": "くん (Kun) means “Mr.; Ms. (casual, for a boy or a young man)”."
+      },
+      {
+       "id": "e81",
+       "type": "multipleChoice",
+       "prompt": "What does こんな mean?",
+       "options": [
+        "what should one do",
+        "exactly; just",
+        "… like this (こんな〜)",
+        "makes a noun plural (わたしたち 私たち)"
+       ],
+       "correctIndex": 2,
+       "explanation": "こんな (Konna) means “… like this (こんな〜)”."
+      },
+      {
+       "id": "e82",
+       "type": "multipleChoice",
+       "prompt": "What does たち mean?",
+       "options": [
+        "well",
+        "exactly; just",
+        "what should one do",
+        "makes a noun plural (わたしたち 私たち)"
+       ],
+       "correctIndex": 3,
+       "explanation": "たち (Tachi) means “makes a noun plural (わたしたち 私たち)”."
+      },
+      {
+       "id": "e83",
+       "type": "multipleChoice",
+       "prompt": "What does ちょうど mean?",
+       "options": [
+        "what should one do",
+        "well",
+        "exactly; just",
+        "generic small items"
+       ],
+       "correctIndex": 2,
+       "explanation": "ちょうど (Choodo) means “exactly; just”."
+      },
+      {
+       "id": "e84",
+       "type": "multipleChoice",
+       "prompt": "What does どうしたらいい mean?",
+       "options": [
+        "generic small items",
+        "well",
+        "what should one do",
+        "bound volumes"
+       ],
+       "correctIndex": 2,
+       "explanation": "どうしたらいい (Doo shitara ii) means “what should one do”."
+      },
+      {
+       "id": "e85",
+       "type": "multipleChoice",
+       "prompt": "What does よく mean?",
+       "options": [
+        "generic small items",
+        "equipment (cars, machines)",
+        "well",
+        "bound volumes"
+       ],
+       "correctIndex": 2,
+       "explanation": "よく (Yoku) means “well”."
+      },
+      {
+       "id": "e86",
+       "type": "multipleChoice",
+       "prompt": "What does こ mean?",
+       "options": [
+        "equipment (cars, machines)",
+        "small animals",
+        "bound volumes",
+        "generic small items"
+       ],
+       "correctIndex": 3,
+       "explanation": "こ (Ko) means “generic small items”."
+      },
+      {
+       "id": "e87",
+       "type": "multipleChoice",
+       "prompt": "What does さつ mean?",
+       "options": [
+        "small animals",
+        "equipment (cars, machines)",
+        "long objects",
+        "bound volumes"
+       ],
+       "correctIndex": 3,
+       "explanation": "さつ (Satsu) means “bound volumes”."
+      },
+      {
+       "id": "e88",
+       "type": "multipleChoice",
+       "prompt": "What does だい mean?",
+       "options": [
+        "equipment (cars, machines)",
+        "same",
+        "small animals",
+        "long objects"
+       ],
+       "correctIndex": 0,
+       "explanation": "だい (Dai) means “equipment (cars, machines)”."
+      },
+      {
+       "id": "e89",
+       "type": "multipleChoice",
+       "prompt": "What does ひき mean?",
+       "options": [
+        "small animals",
+        "same",
+        "long objects",
+        "Mr.; Ms. (casual, for a boy or a young man)"
+       ],
+       "correctIndex": 0,
+       "explanation": "ひき (Hiki) means “small animals”."
+      },
+      {
+       "id": "e90",
+       "type": "multipleChoice",
+       "prompt": "What does ほん mean?",
+       "options": [
+        "long objects",
+        "… like this (こんな〜)",
+        "Mr.; Ms. (casual, for a boy or a young man)",
+        "same"
+       ],
+       "correctIndex": 0,
+       "explanation": "ほん (Hon) means “long objects”."
+      },
+      {
+       "id": "e91",
+       "type": "multipleChoice",
+       "prompt": "How do you say “same” in Japanese?",
+       "options": [
+        "おなじ",
+        "たち",
+        "くん",
+        "こんな"
+       ],
+       "correctIndex": 0,
+       "explanation": "same is おなじ (Onaji)."
+      },
+      {
+       "id": "e92",
+       "type": "multipleChoice",
+       "prompt": "How do you say “Mr.; Ms. (casual, for a boy or a young man)” in Japanese?",
+       "options": [
+        "たち",
+        "こんな",
+        "ちょうど",
+        "くん"
+       ],
+       "correctIndex": 3,
+       "explanation": "Mr.; Ms. (casual, for a boy or a young man) is くん (Kun)."
+      },
+      {
+       "id": "e93",
+       "type": "multipleChoice",
+       "prompt": "How do you say “… like this (こんな〜)” in Japanese?",
+       "options": [
+        "ちょうど",
+        "たち",
+        "こんな",
+        "どうしたらいい"
+       ],
+       "correctIndex": 2,
+       "explanation": "… like this (こんな〜) is こんな (Konna)."
+      },
+      {
+       "id": "e94",
+       "type": "multipleChoice",
+       "prompt": "How do you say “makes a noun plural (わたしたち 私たち)” in Japanese?",
+       "options": [
+        "どうしたらいい",
+        "よく",
+        "たち",
+        "ちょうど"
+       ],
+       "correctIndex": 2,
+       "explanation": "makes a noun plural (わたしたち 私たち) is たち (Tachi)."
+      },
+      {
+       "id": "e95",
+       "type": "multipleChoice",
+       "prompt": "How do you say “exactly; just” in Japanese?",
+       "options": [
+        "こ",
+        "どうしたらいい",
+        "よく",
+        "ちょうど"
+       ],
+       "correctIndex": 3,
+       "explanation": "exactly; just is ちょうど (Choodo)."
+      },
+      {
+       "id": "e96",
+       "type": "multipleChoice",
+       "prompt": "How do you say “what should one do” in Japanese?",
+       "options": [
+        "さつ",
+        "どうしたらいい",
+        "よく",
+        "こ"
+       ],
+       "correctIndex": 1,
+       "explanation": "what should one do is どうしたらいい (Doo shitara ii)."
+      },
+      {
+       "id": "e97",
+       "type": "multipleChoice",
+       "prompt": "How do you say “well” in Japanese?",
+       "options": [
+        "だい",
+        "こ",
+        "よく",
+        "さつ"
+       ],
+       "correctIndex": 2,
+       "explanation": "well is よく (Yoku)."
+      },
+      {
+       "id": "e98",
+       "type": "multipleChoice",
+       "prompt": "How do you say “generic small items” in Japanese?",
+       "options": [
+        "さつ",
+        "こ",
+        "だい",
+        "ひき"
+       ],
+       "correctIndex": 1,
+       "explanation": "generic small items is こ (Ko)."
+      },
+      {
+       "id": "e99",
+       "type": "multipleChoice",
+       "prompt": "How do you say “bound volumes” in Japanese?",
+       "options": [
+        "さつ",
+        "だい",
+        "ひき",
+        "ほん"
+       ],
+       "correctIndex": 0,
+       "explanation": "bound volumes is さつ (Satsu)."
+      },
+      {
+       "id": "e100",
+       "type": "multipleChoice",
+       "prompt": "How do you say “equipment (cars, machines)” in Japanese?",
+       "options": [
+        "おなじ",
+        "だい",
+        "ひき",
+        "ほん"
+       ],
+       "correctIndex": 1,
+       "explanation": "equipment (cars, machines) is だい (Dai)."
+      },
+      {
+       "id": "e101",
+       "type": "multipleChoice",
+       "prompt": "How do you say “small animals” in Japanese?",
+       "options": [
+        "ひき",
+        "ほん",
+        "くん",
+        "おなじ"
+       ],
+       "correctIndex": 0,
+       "explanation": "small animals is ひき (Hiki)."
+      },
+      {
+       "id": "e102",
+       "type": "multipleChoice",
+       "prompt": "How do you say “long objects” in Japanese?",
+       "options": [
+        "おなじ",
+        "こんな",
+        "くん",
+        "ほん"
+       ],
+       "correctIndex": 3,
+       "explanation": "long objects is ほん (Hon)."
+      },
+      {
+       "id": "e103",
+       "type": "multipleChoice",
+       "prompt": "How do you read 兄?",
+       "options": [
+        "おおやさん",
+        "あに",
+        "おかえし",
+        "おくさん"
+       ],
+       "correctIndex": 1,
+       "explanation": "兄 is read あに (Ani)."
+      },
+      {
+       "id": "e104",
+       "type": "multipleChoice",
+       "prompt": "How do you read 大家さん?",
+       "options": [
+        "おおやさん",
+        "ごしゅじん",
+        "おくさん",
+        "おかえし"
+       ],
+       "correctIndex": 0,
+       "explanation": "大家さん is read おおやさん (Ooyasan)."
+      },
+      {
+       "id": "e105",
+       "type": "multipleChoice",
+       "prompt": "How do you read お返し?",
+       "options": [
+        "おかえし",
+        "さら",
+        "ごしゅじん",
+        "おくさん"
+       ],
+       "correctIndex": 0,
+       "explanation": "お返し is read おかえし (Okaeshi)."
+      },
+      {
+       "id": "e106",
+       "type": "multipleChoice",
+       "prompt": "How do you read 奥さん?",
+       "options": [
+        "さら",
+        "おくさん",
+        "ごしゅじん",
+        "じかん"
+       ],
+       "correctIndex": 1,
+       "explanation": "奥さん is read おくさん (Okusan)."
+      },
+      {
+       "id": "e107",
+       "type": "multipleChoice",
+       "prompt": "How do you read ご主人?",
+       "options": [
+        "ふうふ",
+        "じかん",
+        "ごしゅじん",
+        "さら"
+       ],
+       "correctIndex": 2,
+       "explanation": "ご主人 is read ごしゅじん (Goshujin)."
+      },
+      {
+       "id": "e108",
+       "type": "multipleChoice",
+       "prompt": "How do you read 皿?",
+       "options": [
+        "ふうふ",
+        "さら",
+        "まんが",
+        "じかん"
+       ],
+       "correctIndex": 1,
+       "explanation": "皿 is read さら (Sara)."
+      },
+      {
+       "id": "e109",
+       "type": "multipleChoice",
+       "prompt": "How do you read 時間?",
+       "options": [
+        "ふうふ",
+        "みなさん",
+        "じかん",
+        "まんが"
+       ],
+       "correctIndex": 2,
+       "explanation": "時間 is read じかん (Jikan)."
+      },
+      {
+       "id": "e110",
+       "type": "multipleChoice",
+       "prompt": "How do you read 夫婦?",
+       "options": [
+        "みなさん",
+        "まんが",
+        "ふうふ",
+        "ゆびわ"
+       ],
+       "correctIndex": 2,
+       "explanation": "夫婦 is read ふうふ (Fuufu)."
+      },
+      {
+       "id": "e111",
+       "type": "multipleChoice",
+       "prompt": "How do you read 漫画?",
+       "options": [
+        "りょうしん",
+        "まんが",
+        "みなさん",
+        "ゆびわ"
+       ],
+       "correctIndex": 1,
+       "explanation": "漫画 is read まんが (Manga)."
+      },
+      {
+       "id": "e112",
+       "type": "multipleChoice",
+       "prompt": "How do you read 皆さん?",
+       "options": [
+        "りれきしょ",
+        "ゆびわ",
+        "りょうしん",
+        "みなさん"
+       ],
+       "correctIndex": 3,
+       "explanation": "皆さん is read みなさん (Minasan)."
+      },
+      {
+       "id": "e113",
+       "type": "multipleChoice",
+       "prompt": "How do you read 指輪?",
+       "options": [
+        "りれきしょ",
+        "ほしい",
+        "りょうしん",
+        "ゆびわ"
+       ],
+       "correctIndex": 3,
+       "explanation": "指輪 is read ゆびわ (Yubiwa)."
+      },
+      {
+       "id": "e114",
+       "type": "multipleChoice",
+       "prompt": "How do you read 両親?",
+       "options": [
+        "りれきしょ",
+        "ほしい",
+        "りょうしん",
+        "おくる"
+       ],
+       "correctIndex": 2,
+       "explanation": "両親 is read りょうしん (Ryooshin)."
+      },
+      {
+       "id": "e115",
+       "type": "multipleChoice",
+       "prompt": "How do you read 履歴書?",
+       "options": [
+        "にあう",
+        "おくる",
+        "りれきしょ",
+        "ほしい"
+       ],
+       "correctIndex": 2,
+       "explanation": "履歴書 is read りれきしょ (Rirekisho)."
+      },
+      {
+       "id": "e116",
+       "type": "multipleChoice",
+       "prompt": "How do you read 欲しい?",
+       "options": [
+        "おくる",
+        "そうだんする",
+        "ほしい",
+        "にあう"
+       ],
+       "correctIndex": 2,
+       "explanation": "欲しい is read ほしい (Hoshii)."
+      },
+      {
+       "id": "e117",
+       "type": "multipleChoice",
+       "prompt": "How do you read 送る?",
+       "options": [
+        "にあう",
+        "おなじ",
+        "そうだんする",
+        "おくる"
+       ],
+       "correctIndex": 3,
+       "explanation": "送る is read おくる (Okuru)."
+      },
+      {
+       "id": "e118",
+       "type": "multipleChoice",
+       "prompt": "How do you read 似合う?",
+       "options": [
+        "にあう",
+        "そうだんする",
+        "おなじ",
+        "あに"
+       ],
+       "correctIndex": 0,
+       "explanation": "似合う is read にあう (Niau)."
+      },
+      {
+       "id": "e119",
+       "type": "multipleChoice",
+       "prompt": "How do you read 相談する?",
+       "options": [
+        "そうだんする",
+        "おおやさん",
+        "あに",
+        "おなじ"
+       ],
+       "correctIndex": 0,
+       "explanation": "相談する is read そうだんする (Soodan suru)."
+      },
+      {
+       "id": "e120",
+       "type": "multipleChoice",
+       "prompt": "How do you read 同じ?",
+       "options": [
+        "おなじ",
+        "あに",
+        "おかえし",
+        "おおやさん"
+       ],
+       "correctIndex": 0,
+       "explanation": "同じ is read おなじ (Onaji)."
+      },
+      {
+       "id": "e121",
+       "type": "multipleChoice",
+       "prompt": "Which word means “husband (yours or hers)”?",
+       "options": [
+        "奥さん",
+        "兄",
+        "ご主人",
+        "大家さん"
+       ],
+       "correctIndex": 2,
+       "explanation": "ご主人 = someone else’s husband."
+      },
+      {
+       "id": "e122",
+       "type": "multipleChoice",
+       "prompt": "Which word means “wife (yours or his)”?",
+       "options": [
+        "両親",
+        "夫婦",
+        "ご主人",
+        "奥さん"
+       ],
+       "correctIndex": 3,
+       "explanation": "奥さん."
+      },
+      {
+       "id": "e123",
+       "type": "multipleChoice",
+       "prompt": "Which word means “parents”?",
+       "options": [
+        "皆さん",
+        "兄",
+        "夫婦",
+        "両親"
+       ],
+       "correctIndex": 3,
+       "explanation": "両親."
+      },
+      {
+       "id": "e124",
+       "type": "multipleChoice",
+       "prompt": "Which word means “a married couple”?",
+       "options": [
+        "皆さん",
+        "奥さん",
+        "両親",
+        "夫婦"
+       ],
+       "correctIndex": 3,
+       "explanation": "夫婦."
+      },
+      {
+       "id": "e125",
+       "type": "multipleChoice",
+       "prompt": "Which counter is for bound volumes?",
+       "options": [
+        "台",
+        "冊",
+        "匹",
+        "本"
+       ],
+       "correctIndex": 1,
+       "explanation": "冊 = books, magazines."
+      },
+      {
+       "id": "e126",
+       "type": "multipleChoice",
+       "prompt": "Which counter is for small animals?",
+       "options": [
+        "冊",
+        "台",
+        "個",
+        "匹"
+       ],
+       "correctIndex": 3,
+       "explanation": "匹 = cats, dogs, fish."
+      },
+      {
+       "id": "e127",
+       "type": "multipleChoice",
+       "prompt": "Which counter is for long objects?",
+       "options": [
+        "冊",
+        "本",
+        "匹",
+        "個"
+       ],
+       "correctIndex": 1,
+       "explanation": "本 = pencils, bottles."
+      },
+      {
+       "id": "e128",
+       "type": "multipleChoice",
+       "prompt": "Which counter is for machines and vehicles?",
+       "options": [
+        "台",
+        "匹",
+        "本",
+        "冊"
+       ],
+       "correctIndex": 0,
+       "explanation": "台 = computers, cars."
+      },
+      {
+       "id": "e129",
+       "type": "multipleChoice",
+       "prompt": "Which word means “to give (to me)”?",
+       "options": [
+        "あげる",
+        "もらう",
+        "くれる",
+        "あける"
+       ],
+       "correctIndex": 2,
+       "explanation": "くれる = give to me."
+      },
+      {
+       "id": "e130",
+       "type": "multipleChoice",
+       "prompt": "What does 似合う mean?",
+       "options": [
+        "to meet",
+        "to be like",
+        "to sing",
+        "to look good on somebody"
+       ],
+       "correctIndex": 3,
+       "explanation": "似合う."
+      },
+      {
+       "id": "e131",
+       "type": "multipleChoice",
+       "prompt": "What does けち mean?",
+       "options": [
+        "lonely",
+        "poor",
+        "stingy",
+        "kind"
+       ],
+       "correctIndex": 2,
+       "explanation": "けち."
+      },
+      {
+       "id": "e132",
+       "type": "multipleChoice",
+       "prompt": "What does 大家さん mean?",
+       "options": [
+        "landlord; landlady",
+        "a doctor",
+        "a big family",
+        "an uncle"
+       ],
+       "correctIndex": 0,
+       "explanation": "大家さん."
+      }
+     ]
+    },
+    {
+     "id": "ja_166",
+     "title": "166. Grammar 1: ほしい (to want something)",
+     "subtitle": "いい漢字の辞書がほしいです · お金はあまりほしくないです · ほしいと言っています · ほしがっています",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "ほしい: I want a thing",
+       "body": "ほしい is an い-adjective meaning “to want”. The thing you want is marked with が (or は in negative sentences), not を. The pattern is (私は) X がほしいです. It conjugates like any other い-adjective: ほしかった, ほしくない, ほしくなかった.",
+       "tables": [
+        {
+         "headers": [
+          "Pattern",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "(私は) X がほしいです。",
+           "I want X."
+          ],
+          [
+           "X はほしくないです。",
+           "I do not want X."
+          ]
+         ],
+         "speakCols": []
+        }
+       ],
+       "examples": [
+        {
+         "text": "いい漢字の辞書がほしいです。",
+         "translation": "Ii kanji no jisho ga hoshii desu. — I want a good kanji dictionary."
+        },
+        {
+         "text": "子供の時、ゴジラのおもちゃがほしかったです。",
+         "translation": "Kodomo no toki, Gojira no omocha ga hoshikatta desu. — When I was a child, I wanted a Godzilla toy."
+        },
+        {
+         "text": "お金はあまりほしくないです。",
+         "translation": "Okane wa amari hoshikunai desu. — I do not want money very much."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "A private predicate",
+       "body": "Like たい, ほしい describes a feeling that only the speaker has direct access to, so it is a “private predicate” and normally is used only for the first person (and in questions to the second person). The adjectives かなしい, うれしい and いたい are also private predicates.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "ほしいですか。",
+         "translation": "Hoshii desu ka. — Do you want it? (a question to the listener)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Talking about somebody else’s wants",
+       "body": "There are three ways to talk about what a third person wants. (1) Quote the person with と言っています. (2) Use でしょう, a guess instead of a statement of fact. (3) Use ほしがる, a u-verb meaning “to show signs of wanting”; it is usually used as ほしがっている and the thing wanted takes を. The same is true for たい: たがる.",
+       "tables": [
+        {
+         "headers": [
+          "Way",
+          "Example"
+         ],
+         "rows": [
+          [
+           "と言っています",
+           "ロバートさんはパソコンがほしいと言っています。"
+          ],
+          [
+           "でしょう",
+           "きょうこさんはクラシックのシーディーがほしくないでしょう。"
+          ],
+          [
+           "ほしがる (を)",
+           "トムさんは友だちをほしがっています。"
+          ],
+          [
+           "たがる (を)",
+           "ともこさんは英語を習いたがっています。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "ロバートさんはパソコンがほしいと言っています。",
+         "translation": "Robaato-san wa pasokon ga hoshii to itte imasu. — Robert says that he wants a computer."
+        },
+        {
+         "text": "きょうこさんはクラシックのシーディーがほしくないでしょう。",
+         "translation": "Kyooko-san wa kurashikku no shiidii ga hoshikunai deshoo. — Kyoko probably does not want classical music CDs."
+        },
+        {
+         "text": "トムさんは友だちをほしがっています。",
+         "translation": "Tomu-san wa tomodachi o hoshigatte imasu. — Tom wants friends."
+        },
+        {
+         "text": "ともこさんは英語を習いたがっています。",
+         "translation": "Tomoko-san wa eego o naraitagatte imasu. — Tomoko wants to learn English."
+        }
+       ],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does いい漢字の辞書がほしいです。 mean?",
+       "options": [
+        "When I was a child, I wanted a Godzilla toy.",
+        "Robert says that he wants a computer.",
+        "I do not want money very much.",
+        "I want a good kanji dictionary."
+       ],
+       "correctIndex": 3,
+       "explanation": "いい漢字の辞書がほしいです。"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What does 子供の時、ゴジラのおもちゃがほしかったです。 mean?",
+       "options": [
+        "I want a good kanji dictionary.",
+        "I do not want money very much.",
+        "Robert says that he wants a computer.",
+        "When I was a child, I wanted a Godzilla toy."
+       ],
+       "correctIndex": 3,
+       "explanation": "子供の時、ゴジラのおもちゃがほしかったです。"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What does お金はあまりほしくないです。 mean?",
+       "options": [
+        "When I was a child, I wanted a Godzilla toy.",
+        "I do not want money very much.",
+        "I want a good kanji dictionary.",
+        "Robert says that he wants a computer."
+       ],
+       "correctIndex": 1,
+       "explanation": "お金はあまりほしくないです。"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does ロバートさんはパソコンがほしいと言っています。 mean?",
+       "options": [
+        "I do not want money very much.",
+        "Robert says that he wants a computer.",
+        "When I was a child, I wanted a Godzilla toy.",
+        "I want a good kanji dictionary."
+       ],
+       "correctIndex": 1,
+       "explanation": "ロバートさんはパソコンがほしいと言っています。"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What does きょうこさんはクラシックのシーディーがほしくないでしょう。 mean?",
+       "options": [
+        "I want a good kanji dictionary.",
+        "When I was a child, I wanted a Godzilla toy.",
+        "I do not want money very much.",
+        "Kyoko probably does not want classical music CDs."
+       ],
+       "correctIndex": 3,
+       "explanation": "きょうこさんはクラシックのシーディーがほしくないでしょう。"
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What does トムさんは友だちをほしがっています。 mean?",
+       "options": [
+        "I want a good kanji dictionary.",
+        "When I was a child, I wanted a Godzilla toy.",
+        "Tom wants friends.",
+        "I do not want money very much."
+       ],
+       "correctIndex": 2,
+       "explanation": "トムさんは友だちをほしがっています。"
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What does ともこさんは英語を習いたがっています。 mean?",
+       "options": [
+        "Tomoko wants to learn English.",
+        "I want a good kanji dictionary.",
+        "I do not want money very much.",
+        "When I was a child, I wanted a Godzilla toy."
+       ],
+       "correctIndex": 0,
+       "explanation": "ともこさんは英語を習いたがっています。"
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "Which particle marks the thing you want with ほしい?",
+       "options": [
+        "に",
+        "で",
+        "を",
+        "が"
+       ],
+       "correctIndex": 3,
+       "explanation": "X がほしい."
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "Which particle is used with ほしがる?",
+       "options": [
+        "で",
+        "を",
+        "に",
+        "が"
+       ],
+       "correctIndex": 1,
+       "explanation": "ほしがる takes を."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What is the past of ほしいです?",
+       "options": [
+        "ほしかったです",
+        "ほしでした",
+        "ほしいでした",
+        "ほしくでした"
+       ],
+       "correctIndex": 0,
+       "explanation": "い-adjective past."
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What is the negative of ほしいです?",
+       "options": [
+        "ほしくありたい",
+        "ほしくないです",
+        "ほしないです",
+        "ほしじゃないです"
+       ],
+       "correctIndex": 1,
+       "explanation": "ほしくないです."
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "Which sentence is natural for “Robert wants a computer”?",
+       "options": [
+        "ロバートさんはパソコンがほしいです。",
+        "ロバートさんはほしいです。",
+        "ロバートさんはパソコンがほしかったです。",
+        "ロバートさんはパソコンをほしがっています。"
+       ],
+       "correctIndex": 3,
+       "explanation": "Third person: ほしがる or と言っています."
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "What does ほしがる mean?",
+       "options": [
+        "to give up",
+        "to send",
+        "to look good",
+        "to show signs of wanting"
+       ],
+       "correctIndex": 3,
+       "explanation": "ほしがる."
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "Which is a private predicate?",
+       "options": [
+        "行きました",
+        "大きい",
+        "食べます",
+        "ほしい"
+       ],
+       "correctIndex": 3,
+       "explanation": "ほしい describes a feeling."
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "What is the third-person form of 習いたい?",
+       "options": [
+        "習いがる",
+        "習いほしい",
+        "習いたがる",
+        "習いたいる"
+       ],
+       "correctIndex": 2,
+       "explanation": "たい → たがる."
+      },
+      {
+       "id": "e16",
+       "type": "fillBlank",
+       "prompt": "私は新しい車___ほしいです。",
+       "options": [
+        "を",
+        "に",
+        "で",
+        "が"
+       ],
+       "correctIndex": 3,
+       "explanation": "車がほしい."
+      },
+      {
+       "id": "e17",
+       "type": "fillBlank",
+       "prompt": "お金は___ほしくないです。 (not very much)",
+       "options": [
+        "よく",
+        "たくさん",
+        "あまり",
+        "とても"
+       ],
+       "correctIndex": 2,
+       "explanation": "あまり + negative."
+      },
+      {
+       "id": "e18",
+       "type": "fillBlank",
+       "prompt": "子供の時、おもちゃが___かったです。",
+       "options": [
+        "ほしく",
+        "ほしい",
+        "ほしの",
+        "ほし"
+       ],
+       "correctIndex": 3,
+       "explanation": "ほしかった."
+      },
+      {
+       "id": "e19",
+       "type": "fillBlank",
+       "prompt": "トムさんは友だち___ほしがっています。",
+       "options": [
+        "は",
+        "が",
+        "を",
+        "に"
+       ],
+       "correctIndex": 2,
+       "explanation": "ほしがる takes を."
+      },
+      {
+       "id": "e20",
+       "type": "fillBlank",
+       "prompt": "ロバートさんはパソコンがほしい___言っています。",
+       "options": [
+        "と",
+        "を",
+        "に",
+        "で"
+       ],
+       "correctIndex": 0,
+       "explanation": "と言っています."
+      },
+      {
+       "id": "e21",
+       "type": "fillBlank",
+       "prompt": "ともこさんは英語を習い___います。 (wants to)",
+       "options": [
+        "たくて",
+        "たがって",
+        "ほしがって",
+        "たいで"
+       ],
+       "correctIndex": 1,
+       "explanation": "習いたがっています."
+      }
+     ]
+    },
+    {
+     "id": "ja_167",
+     "title": "167. Grammar 2: ～かもしれません (maybe)",
+     "subtitle": "雨が降るかもしれません · 天気がよくないかもしれません · カナダ人かもしれません · 犬がきらいかもしれません",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "～かもしれません: it may be that…",
+       "body": "かもしれません expresses a possibility: “maybe”, “might”. It follows the short form of the verb, い-adjective, な-adjective or noun. The だ is dropped after a noun or な-adjective: カナダ人かもしれません, not カナダ人だかもしれません. It can also come with past tense or negative forms.",
+       "tables": [
+        {
+         "headers": [
+          "Type",
+          "Before かもしれません",
+          "Example"
+         ],
+         "rows": [
+          [
+           "verb",
+           "short form (present or past)",
+           "降るかもしれません"
+          ],
+          [
+           "い-adjective",
+           "short form",
+           "高いかもしれません、よくないかもしれません"
+          ],
+          [
+           "な-adjective",
+           "stem (no だ)",
+           "きらいかもしれません"
+          ],
+          [
+           "noun",
+           "noun (no だ)",
+           "カナダ人かもしれません"
+          ],
+          [
+           "past",
+           "short past form",
+           "いじわるだったかもしれません"
+          ]
+         ],
+         "speakCols": [
+          2
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "あしたは雨が降るかもしれません。",
+         "translation": "Ashita wa ame ga furu ka mo shiremasen. — It may rain tomorrow."
+        },
+        {
+         "text": "田中さんより、鈴木さんのほうが背が高いかもしれません。",
+         "translation": "Tanaka-san yori, Suzuki-san no hoo ga se ga takai ka mo shiremasen. — Mr. Suzuki may be taller than Mr. Tanaka."
+        },
+        {
+         "text": "あしたは天気がよくないかもしれません。",
+         "translation": "Ashita wa tenki ga yokunai ka mo shiremasen. — The weather may not be good tomorrow."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "More examples",
+       "body": "かもしれません can follow the past form of a noun or adjective, and also the negative.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "トムさんは、子供の時、いじわるだったかもしれません。",
+         "translation": "Tomu-san wa, kodomo no toki, ijiwaru datta ka mo shiremasen. — Tom may have been mean when he was a child."
+        },
+        {
+         "text": "トムさんはカナダ人かもしれません。",
+         "translation": "Tomu-san wa Kanadajin ka mo shiremasen. — Tom may be a Canadian."
+        },
+        {
+         "text": "山下先生は犬がきらいかもしれません。",
+         "translation": "Yamashita sensee wa inu ga kirai ka mo shiremasen. — Professor Yamashita may dislike dogs."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "かもしれません and でしょう",
+       "body": "かもしれません is weaker (less certain) than でしょう or と思います: the chance of its being true might be much less than 50 percent. In casual speech, ～かもしれない becomes ～かも (the book’s dialogue uses いいかもしれませんね).",
+       "tables": [],
+       "examples": [
+        {
+         "text": "それはいいかもしれませんね。",
+         "translation": "Sore wa ii ka mo shiremasen ne. — That might be a good idea."
+        },
+        {
+         "text": "小さいかもしれないから着てみて。",
+         "translation": "Chiisai ka mo shirenai kara kite mite. — It may be small, so try it on."
+        }
+       ],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does あしたは雨が降るかもしれません。 mean?",
+       "options": [
+        "Mr. Suzuki may be taller than Mr. Tanaka.",
+        "Tom may have been mean when he was a child.",
+        "It may rain tomorrow.",
+        "The weather may not be good tomorrow."
+       ],
+       "correctIndex": 2,
+       "explanation": "あしたは雨が降るかもしれません。"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What does 田中さんより、鈴木さんのほうが背が高いかもしれません。 mean?",
+       "options": [
+        "It may rain tomorrow.",
+        "The weather may not be good tomorrow.",
+        "Tom may have been mean when he was a child.",
+        "Mr. Suzuki may be taller than Mr. Tanaka."
+       ],
+       "correctIndex": 3,
+       "explanation": "田中さんより、鈴木さんのほうが背が高いかもしれません。"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What does あしたは天気がよくないかもしれません。 mean?",
+       "options": [
+        "It may rain tomorrow.",
+        "The weather may not be good tomorrow.",
+        "Mr. Suzuki may be taller than Mr. Tanaka.",
+        "Tom may have been mean when he was a child."
+       ],
+       "correctIndex": 1,
+       "explanation": "あしたは天気がよくないかもしれません。"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does トムさんは、子供の時、いじわるだったかもしれません。 mean?",
+       "options": [
+        "It may rain tomorrow.",
+        "The weather may not be good tomorrow.",
+        "Mr. Suzuki may be taller than Mr. Tanaka.",
+        "Tom may have been mean when he was a child."
+       ],
+       "correctIndex": 3,
+       "explanation": "トムさんは、子供の時、いじわるだったかもしれません。"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What does トムさんはカナダ人かもしれません。 mean?",
+       "options": [
+        "The weather may not be good tomorrow.",
+        "It may rain tomorrow.",
+        "Tom may be a Canadian.",
+        "Mr. Suzuki may be taller than Mr. Tanaka."
+       ],
+       "correctIndex": 2,
+       "explanation": "トムさんはカナダ人かもしれません。"
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What does 山下先生は犬がきらいかもしれません。 mean?",
+       "options": [
+        "It may rain tomorrow.",
+        "Mr. Suzuki may be taller than Mr. Tanaka.",
+        "The weather may not be good tomorrow.",
+        "Professor Yamashita may dislike dogs."
+       ],
+       "correctIndex": 3,
+       "explanation": "山下先生は犬がきらいかもしれません。"
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What does ～かもしれません express?",
+       "options": [
+        "possibility",
+        "a request",
+        "obligation",
+        "certainty"
+       ],
+       "correctIndex": 0,
+       "explanation": "maybe."
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "Which is correct for “Tom may be Canadian”?",
+       "options": [
+        "トムさんはカナダ人なかもしれません。",
+        "トムさんはカナダ人だかもしれません。",
+        "トムさんはカナダ人でかもしれません。",
+        "トムさんはカナダ人かもしれません。"
+       ],
+       "correctIndex": 3,
+       "explanation": "Drop だ."
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "Which is correct?",
+       "options": [
+        "山下先生は犬がきらいなかもしれません。",
+        "山下先生は犬がきらいくかもしれません。",
+        "山下先生は犬がきらいかもしれません。",
+        "山下先生は犬がきらいだかもしれません。"
+       ],
+       "correctIndex": 2,
+       "explanation": "な-adjective: no だ."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "Which is correct for “It may not be fine tomorrow”?",
+       "options": [
+        "あしたは天気がよいかもしれません。",
+        "あしたは天気がよくないかもしれません。",
+        "あしたは天気がよくなかもしれません。",
+        "あしたは天気がよくないだかもしれません。"
+       ],
+       "correctIndex": 1,
+       "explanation": "short negative."
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "Which is correct for “Tom may have been mean”?",
+       "options": [
+        "いじわるだかもしれません。",
+        "いじわるでしたかもしれません。",
+        "いじわるくかもしれません。",
+        "いじわるだったかもしれません。"
+       ],
+       "correctIndex": 3,
+       "explanation": "short past."
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "Which is weaker?",
+       "options": [
+        "と思います",
+        "です",
+        "でしょう",
+        "かもしれません"
+       ],
+       "correctIndex": 3,
+       "explanation": "かもしれません is the weakest."
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "What is casual for かもしれない?",
+       "options": [
+        "もの",
+        "かも",
+        "かな",
+        "かね"
+       ],
+       "correctIndex": 1,
+       "explanation": "かも."
+      },
+      {
+       "id": "e14",
+       "type": "fillBlank",
+       "prompt": "あしたは雨が降る___しれません。",
+       "options": [
+        "ほど",
+        "かも",
+        "しか",
+        "だけ"
+       ],
+       "correctIndex": 1,
+       "explanation": "降るかもしれません."
+      },
+      {
+       "id": "e15",
+       "type": "fillBlank",
+       "prompt": "トムさんはカナダ人___しれません。",
+       "options": [
+        "かも",
+        "だかも",
+        "なかも",
+        "でかも"
+       ],
+       "correctIndex": 0,
+       "explanation": "Noun + かもしれません."
+      },
+      {
+       "id": "e16",
+       "type": "fillBlank",
+       "prompt": "あしたは天気がよくない___もしれません。",
+       "options": [
+        "だか",
+        "か",
+        "なか",
+        "でか"
+       ],
+       "correctIndex": 1,
+       "explanation": "よくないかもしれません."
+      },
+      {
+       "id": "e17",
+       "type": "fillBlank",
+       "prompt": "トムさんは子供の時、いじわるだった___もしれません。",
+       "options": [
+        "か",
+        "なか",
+        "でか",
+        "だか"
+       ],
+       "correctIndex": 0,
+       "explanation": "past + かもしれません."
+      },
+      {
+       "id": "e18",
+       "type": "fillBlank",
+       "prompt": "山下先生は犬がきらい___もしれません。",
+       "options": [
+        "かも",
+        "なかも",
+        "だかも",
+        "いかも"
+       ],
+       "correctIndex": 0,
+       "explanation": "な-adjective + かもしれません."
+      },
+      {
+       "id": "e19",
+       "type": "fillBlank",
+       "prompt": "田中さんより鈴木さんのほうが背が高い___もしれません。",
+       "options": [
+        "か",
+        "くか",
+        "なか",
+        "だか"
+       ],
+       "correctIndex": 0,
+       "explanation": "い-adjective + かもしれません."
+      }
+     ]
+    },
+    {
+     "id": "ja_168",
+     "title": "168. Grammar 3: giving and receiving (あげる, くれる, もらう)",
+     "subtitle": "花をあげます · 新しい車をくれるかもしれません · 姉に古い辞書をもらいました · 姉が私にくれました",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "Three verbs, two directions",
+       "body": "Japanese has two verbs for “to give”. あげる is used when you give to somebody else, and also between two other people. くれる is used when somebody gives to you (or to somebody you identify with, such as your family). もらう is “to receive” and works from the receiver’s point of view.",
+       "tables": [
+        {
+         "headers": [
+          "Verb",
+          "Use",
+          "Pattern"
+         ],
+         "rows": [
+          [
+           "あげる",
+           "I → you; you → others; I → others; somebody → somebody else",
+           "(giver) は/が (recipient) に (thing) をあげる"
+          ],
+          [
+           "くれる",
+           "somebody → me; you → me; somebody → you",
+           "(giver) は/が (recipient) に (thing) をくれる"
+          ],
+          [
+           "もらう",
+           "receive",
+           "(recipient) は/が (giver) に／から (thing) をもらう"
+          ]
+         ],
+         "speakCols": []
+        }
+       ],
+       "examples": [
+        {
+         "text": "私はその女の人に花をあげます。",
+         "translation": "Watashi wa sono onna no hito ni hana o agemasu. — I will give flowers to that woman."
+        },
+        {
+         "text": "その女の人は男の人に時計をあげました。",
+         "translation": "Sono onna no hito wa otoko no hito ni tokee o agemashita. — That woman gave a watch to the man."
+        },
+        {
+         "text": "両親が新しい車をくれるかもしれません。",
+         "translation": "Ryooshin ga atarashii kuruma o kureru ka mo shiremasen. — My parents might give me a new car."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "もらう",
+       "body": "With もらう the recipient is the subject and the giver is marked with に or から. To say the same thing from the other side, use くれる with the giver as the subject: 姉が私に古い辞書をくれました.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "私は姉に古い辞書をもらいました。",
+         "translation": "Watashi wa ane ni furui jisho o moraimashita. — I received an old dictionary from my older sister."
+        },
+        {
+         "text": "私は姉から古い辞書をもらいました。",
+         "translation": "Watashi wa ane kara furui jisho o moraimashita. — I received an old dictionary from my older sister. (から also marks the giver)"
+        },
+        {
+         "text": "姉が私に古い辞書をくれました。",
+         "translation": "Ane ga watashi ni furui jisho o kuremashita. — My older sister gave me an old dictionary."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Notes on point of view",
+       "body": "くれる for a transaction between two other people is possible only when you identify with the recipient (a member of your family, for example). もらう implies identification with the recipient, so you cannot ask a stranger あなたは私から手紙をもらいましたか (the book marks it wrong): use あげる there. もらう, however, works for third-party transactions as in the second example.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "大統領が妹に手紙をくれました。",
+         "translation": "Daitooryoo ga imooto ni tegami o kuremashita. — The president gave my younger sister a letter. (the book’s footnote: くれる for a third-party transaction when you identify with the recipient)"
+        },
+        {
+         "text": "妹は大統領に手紙をもらいました。",
+         "translation": "Imooto wa daitooryoo ni tegami o moraimashita. — My younger sister received a letter from the president. (the book’s footnote: もらう for a third-party transaction)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Choosing the verb",
+       "body": "A quick way to choose: if you are the giver, あげる. If the giver gives to you, くれる (the giver is the subject). If you are the receiver, もらう (you are the subject). If neither is you, あげる; use くれる or もらう only if you identify with the recipient.",
+       "tables": [
+        {
+         "headers": [
+          "Situation",
+          "Verb"
+         ],
+         "rows": [
+          [
+           "I give to you",
+           "あげる"
+          ],
+          [
+           "you give to me",
+           "くれる"
+          ],
+          [
+           "I receive from you",
+           "もらう"
+          ],
+          [
+           "Mary gives to Takeshi",
+           "あげる"
+          ],
+          [
+           "Takeshi receives from Mary",
+           "もらう"
+          ]
+         ],
+         "speakCols": []
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does 私はその女の人に花をあげます。 mean?",
+       "options": [
+        "That woman gave a watch to the man.",
+        "My parents might give me a new car.",
+        "I received an old dictionary from my older sister.",
+        "I will give flowers to that woman."
+       ],
+       "correctIndex": 3,
+       "explanation": "私はその女の人に花をあげます。"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What does その女の人は男の人に時計をあげました。 mean?",
+       "options": [
+        "I will give flowers to that woman.",
+        "That woman gave a watch to the man.",
+        "My parents might give me a new car.",
+        "I received an old dictionary from my older sister."
+       ],
+       "correctIndex": 1,
+       "explanation": "その女の人は男の人に時計をあげました。"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What does 両親が新しい車をくれるかもしれません。 mean?",
+       "options": [
+        "I will give flowers to that woman.",
+        "My parents might give me a new car.",
+        "I received an old dictionary from my older sister.",
+        "That woman gave a watch to the man."
+       ],
+       "correctIndex": 1,
+       "explanation": "両親が新しい車をくれるかもしれません。"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does 私は姉に古い辞書をもらいました。 mean?",
+       "options": [
+        "My parents might give me a new car.",
+        "I received an old dictionary from my older sister.",
+        "That woman gave a watch to the man.",
+        "I will give flowers to that woman."
+       ],
+       "correctIndex": 1,
+       "explanation": "私は姉に古い辞書をもらいました。"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What does 私は姉から古い辞書をもらいました。 mean?",
+       "options": [
+        "My parents might give me a new car.",
+        "That woman gave a watch to the man.",
+        "I will give flowers to that woman.",
+        "I received an old dictionary from my older sister. (から also marks the giver)"
+       ],
+       "correctIndex": 3,
+       "explanation": "私は姉から古い辞書をもらいました。"
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What does 姉が私に古い辞書をくれました。 mean?",
+       "options": [
+        "I will give flowers to that woman.",
+        "My older sister gave me an old dictionary.",
+        "That woman gave a watch to the man.",
+        "My parents might give me a new car."
+       ],
+       "correctIndex": 1,
+       "explanation": "姉が私に古い辞書をくれました。"
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "Which verb means “to give to me”?",
+       "options": [
+        "くれる",
+        "あける",
+        "もらう",
+        "あげる"
+       ],
+       "correctIndex": 0,
+       "explanation": "くれる."
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "Which verb means “to receive”?",
+       "options": [
+        "おくる",
+        "あげる",
+        "くれる",
+        "もらう"
+       ],
+       "correctIndex": 3,
+       "explanation": "もらう."
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "Which verb is used when I give a gift to my teacher?",
+       "options": [
+        "くれる",
+        "あげる",
+        "もらう",
+        "くれた"
+       ],
+       "correctIndex": 1,
+       "explanation": "I → others."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "Which verb is used when my friend gives a gift to me?",
+       "options": [
+        "あげる",
+        "もらう",
+        "あげた",
+        "くれる"
+       ],
+       "correctIndex": 3,
+       "explanation": "somebody → me."
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "Which sentence is correct for “My older sister gave me a dictionary”?",
+       "options": [
+        "姉が私に辞書をあげました。",
+        "私が姉に辞書をくれました。",
+        "姉が私に辞書をもらいました。",
+        "姉が私に辞書をくれました。"
+       ],
+       "correctIndex": 3,
+       "explanation": "くれる."
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "Which sentence is correct for “I received a dictionary from my sister”?",
+       "options": [
+        "私は姉に辞書をあげました。",
+        "私は姉に辞書をくれました。",
+        "私は姉に辞書をもらいました。",
+        "姉は私に辞書をもらいました。"
+       ],
+       "correctIndex": 2,
+       "explanation": "もらう."
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "What particle can mark the giver with もらう besides に?",
+       "options": [
+        "で",
+        "を",
+        "へ",
+        "から"
+       ],
+       "correctIndex": 3,
+       "explanation": "姉から."
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "Which verb is used for “Mary gave Takeshi a sweater”?",
+       "options": [
+        "あげました",
+        "もらいました",
+        "ください",
+        "くれました"
+       ],
+       "correctIndex": 0,
+       "explanation": "third-party: あげる."
+      },
+      {
+       "id": "e15",
+       "type": "fillBlank",
+       "prompt": "私はその女の人に花を___。 (gave)",
+       "options": [
+        "あげました",
+        "くれました",
+        "もらいました",
+        "ください"
+       ],
+       "correctIndex": 0,
+       "explanation": "あげました."
+      },
+      {
+       "id": "e16",
+       "type": "fillBlank",
+       "prompt": "姉が私に古い辞書を___。 (gave me)",
+       "options": [
+        "もらいました",
+        "あげました",
+        "くれました",
+        "ください"
+       ],
+       "correctIndex": 2,
+       "explanation": "くれました."
+      },
+      {
+       "id": "e17",
+       "type": "fillBlank",
+       "prompt": "私は姉___古い辞書をもらいました。",
+       "options": [
+        "を",
+        "で",
+        "が",
+        "に"
+       ],
+       "correctIndex": 3,
+       "explanation": "姉にもらいました."
+      },
+      {
+       "id": "e18",
+       "type": "fillBlank",
+       "prompt": "私は姉___古い辞書をもらいました。 (から)",
+       "options": [
+        "と",
+        "を",
+        "から",
+        "が"
+       ],
+       "correctIndex": 2,
+       "explanation": "から also marks the giver."
+      },
+      {
+       "id": "e19",
+       "type": "fillBlank",
+       "prompt": "両親が私に新しい車を___かもしれません。",
+       "options": [
+        "やる",
+        "あげる",
+        "くれる",
+        "もらう"
+       ],
+       "correctIndex": 2,
+       "explanation": "くれる."
+      },
+      {
+       "id": "e20",
+       "type": "fillBlank",
+       "prompt": "メアリーさんがたけしさんにセーターを___。",
+       "options": [
+        "もらいました",
+        "くれました",
+        "ください",
+        "あげました"
+       ],
+       "correctIndex": 3,
+       "explanation": "third-party: あげました."
+      },
+      {
+       "id": "e21",
+       "type": "fillBlank",
+       "prompt": "たけしさんはメアリーさんにセーターを___。",
+       "options": [
+        "もらいました",
+        "ください",
+        "くれました",
+        "あげました"
+       ],
+       "correctIndex": 0,
+       "explanation": "もらいました."
+      }
+     ]
+    },
+    {
+     "id": "ja_169",
+     "title": "169. Grammar 4: ～たらどうですか and numbers with も and しか",
+     "subtitle": "もっと勉強したらどうですか · 薬を飲んだらどうですか · 猫が三匹います · 二十人も来ました · 一冊しか持っていません",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "～たらどうですか: why don’t you…?",
+       "body": "To give advice, use the past short form of the verb + らどうですか. Be careful: it may sound critical, so do not use it unless the person asked for your advice. It is not used to invite someone: for an invitation use ～ませんか (うちに来ませんか; not うちに来たらどうですか). In casual speech, it is ～たらどう or just ～たら.",
+       "tables": [
+        {
+         "headers": [
+          "Pattern",
+          "Example"
+         ],
+         "rows": [
+          [
+           "verb (past short form) + らどうですか",
+           "薬を飲んだらどうですか。"
+          ],
+          [
+           "casual",
+           "もっと勉強したらどう？"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "もっと勉強したらどうですか。",
+         "translation": "Motto benkyoo shitara doo desu ka. — Why don’t you study more?"
+        },
+        {
+         "text": "薬を飲んだらどうですか。",
+         "translation": "Kusuri o nondara doo desu ka. — Why don’t you take some medicine?"
+        },
+        {
+         "text": "うちに来ませんか。",
+         "translation": "Uchi ni kimasen ka. — Won’t you come to my house? (an invitation: not ～たらどうですか)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Counters and numbers",
+       "body": "When you count things, the structure is noun が/を + number (counter). The number comes after the particle, directly in front of the verb: 私のうちには猫が三匹います。 かさを三本買いました。 The counters are in the “Useful expressions” card.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "私のうちには猫が三匹います。",
+         "translation": "Watashi no uchi ni wa neko ga sanbiki imasu. — I have three cats at my house."
+        },
+        {
+         "text": "かさを三本買いました。",
+         "translation": "Kasa o sanbon kaimashita. — I bought three umbrellas."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Number + も: as many as",
+       "body": "If you add も to a number, it means “as many as” or “as much as”: the speaker feels that the number is large.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "私の母は猫を三匹も飼っています。",
+         "translation": "Watashi no haha wa neko o sanbiki mo katte imasu. — My mother keeps as many as three cats."
+        },
+        {
+         "text": "きのうのパーティーには学生が二十人も来ました。",
+         "translation": "Kinoo no paatii ni wa gakusee ga nijuunin mo kimashita. — As many as twenty students came to the party yesterday."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Number + しか + negative: only",
+       "body": "If you add しか to a number and finish the sentence with a negative, it means “only” (a small number). しか is always followed by a negative verb or adjective.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "私は日本語の辞書を一冊しか持っていません。",
+         "translation": "Watashi wa nihongo no jisho o issatsu shika motte imasen. — I have only one Japanese dictionary."
+        },
+        {
+         "text": "この会社にはパソコンが二台しかありません。",
+         "translation": "Kono kaisha ni wa pasokon ga nidai shika arimasen. — There are only two computers in this company."
+        }
+       ],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does もっと勉強したらどうですか。 mean?",
+       "options": [
+        "I have three cats at my house.",
+        "Why don’t you take some medicine?",
+        "Why don’t you study more?",
+        "Won’t you come to my house? (an invitation: not ～たらどうですか)"
+       ],
+       "correctIndex": 2,
+       "explanation": "もっと勉強したらどうですか。"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What does 薬を飲んだらどうですか。 mean?",
+       "options": [
+        "Won’t you come to my house? (an invitation: not ～たらどうですか)",
+        "Why don’t you study more?",
+        "I have three cats at my house.",
+        "Why don’t you take some medicine?"
+       ],
+       "correctIndex": 3,
+       "explanation": "薬を飲んだらどうですか。"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What does うちに来ませんか。 mean?",
+       "options": [
+        "I have three cats at my house.",
+        "Won’t you come to my house? (an invitation: not ～たらどうですか)",
+        "Why don’t you take some medicine?",
+        "Why don’t you study more?"
+       ],
+       "correctIndex": 1,
+       "explanation": "うちに来ませんか。"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does 私のうちには猫が三匹います。 mean?",
+       "options": [
+        "Won’t you come to my house? (an invitation: not ～たらどうですか)",
+        "I have three cats at my house.",
+        "Why don’t you take some medicine?",
+        "Why don’t you study more?"
+       ],
+       "correctIndex": 1,
+       "explanation": "私のうちには猫が三匹います。"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What does かさを三本買いました。 mean?",
+       "options": [
+        "Won’t you come to my house? (an invitation: not ～たらどうですか)",
+        "Why don’t you take some medicine?",
+        "Why don’t you study more?",
+        "I bought three umbrellas."
+       ],
+       "correctIndex": 3,
+       "explanation": "かさを三本買いました。"
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What does 私の母は猫を三匹も飼っています。 mean?",
+       "options": [
+        "My mother keeps as many as three cats.",
+        "Why don’t you study more?",
+        "Won’t you come to my house? (an invitation: not ～たらどうですか)",
+        "Why don’t you take some medicine?"
+       ],
+       "correctIndex": 0,
+       "explanation": "私の母は猫を三匹も飼っています。"
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What does きのうのパーティーには学生が二十人も来ました。 mean?",
+       "options": [
+        "Why don’t you study more?",
+        "Won’t you come to my house? (an invitation: not ～たらどうですか)",
+        "Why don’t you take some medicine?",
+        "As many as twenty students came to the party yesterday."
+       ],
+       "correctIndex": 3,
+       "explanation": "きのうのパーティーには学生が二十人も来ました。"
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What does 私は日本語の辞書を一冊しか持っていません。 mean?",
+       "options": [
+        "Why don’t you study more?",
+        "Won’t you come to my house? (an invitation: not ～たらどうですか)",
+        "I have only one Japanese dictionary.",
+        "Why don’t you take some medicine?"
+       ],
+       "correctIndex": 2,
+       "explanation": "私は日本語の辞書を一冊しか持っていません。"
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "What does この会社にはパソコンが二台しかありません。 mean?",
+       "options": [
+        "Why don’t you take some medicine?",
+        "Won’t you come to my house? (an invitation: not ～たらどうですか)",
+        "There are only two computers in this company.",
+        "Why don’t you study more?"
+       ],
+       "correctIndex": 2,
+       "explanation": "この会社にはパソコンが二台しかありません。"
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "Which means “Why don’t you study more?”",
+       "options": [
+        "もっと勉強したらどうですか。",
+        "もっと勉強しませんか。",
+        "もっと勉強しなきゃ。",
+        "もっと勉強してもいいですか。"
+       ],
+       "correctIndex": 0,
+       "explanation": "advice."
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "Which is not correct for inviting someone?",
+       "options": [
+        "うちに来ませんか。",
+        "うちに来ましょう。",
+        "うちに来てください。",
+        "うちに来たらどうですか。"
+       ],
+       "correctIndex": 3,
+       "explanation": "Do not use ～たらどうですか for invitations."
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "What is casual for ～たらどうですか?",
+       "options": [
+        "～たらです",
+        "～たらどう",
+        "～たらね",
+        "～たらだ"
+       ],
+       "correctIndex": 1,
+       "explanation": "short."
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "What does 三匹も mean?",
+       "options": [
+        "only three animals",
+        "three animals at most",
+        "as many as three animals",
+        "not three animals"
+       ],
+       "correctIndex": 2,
+       "explanation": "も = as many as."
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "What does 一冊しか mean?",
+       "options": [
+        "no books",
+        "one book too",
+        "as many as one book",
+        "only one book"
+       ],
+       "correctIndex": 3,
+       "explanation": "しか = only."
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "What always follows しか?",
+       "options": [
+        "a request",
+        "a positive",
+        "a question",
+        "a negative"
+       ],
+       "correctIndex": 3,
+       "explanation": "しか + negative."
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "Which counter is for a dictionary?",
+       "options": [
+        "匹",
+        "台",
+        "冊",
+        "本"
+       ],
+       "correctIndex": 2,
+       "explanation": "冊 bound volumes."
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "Which counter is for an umbrella?",
+       "options": [
+        "匹",
+        "本",
+        "枚",
+        "冊"
+       ],
+       "correctIndex": 1,
+       "explanation": "本 long objects."
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "Which counter is for computers?",
+       "options": [
+        "冊",
+        "本",
+        "台",
+        "匹"
+       ],
+       "correctIndex": 2,
+       "explanation": "台 equipment."
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "Which counter is for cats?",
+       "options": [
+        "冊",
+        "匹",
+        "本",
+        "台"
+       ],
+       "correctIndex": 1,
+       "explanation": "匹 small animals."
+      },
+      {
+       "id": "e20",
+       "type": "fillBlank",
+       "prompt": "薬を飲んだら___ですか。",
+       "options": [
+        "どう",
+        "いつ",
+        "だれ",
+        "なに"
+       ],
+       "correctIndex": 0,
+       "explanation": "たらどうですか."
+      },
+      {
+       "id": "e21",
+       "type": "fillBlank",
+       "prompt": "もっと勉強し___どうですか。",
+       "options": [
+        "ると",
+        "ても",
+        "れば",
+        "たら"
+       ],
+       "correctIndex": 3,
+       "explanation": "past + ら."
+      },
+      {
+       "id": "e22",
+       "type": "fillBlank",
+       "prompt": "かさを三___買いました。",
+       "options": [
+        "台",
+        "匹",
+        "冊",
+        "本"
+       ],
+       "correctIndex": 3,
+       "explanation": "三本."
+      },
+      {
+       "id": "e23",
+       "type": "fillBlank",
+       "prompt": "猫が三___います。",
+       "options": [
+        "匹",
+        "台",
+        "冊",
+        "本"
+       ],
+       "correctIndex": 0,
+       "explanation": "三匹."
+      },
+      {
+       "id": "e24",
+       "type": "fillBlank",
+       "prompt": "日本語の辞書を一___しか持っていません。",
+       "options": [
+        "匹",
+        "台",
+        "本",
+        "冊"
+       ],
+       "correctIndex": 3,
+       "explanation": "一冊."
+      },
+      {
+       "id": "e25",
+       "type": "fillBlank",
+       "prompt": "パソコンが二___しかありません。",
+       "options": [
+        "台",
+        "冊",
+        "本",
+        "匹"
+       ],
+       "correctIndex": 0,
+       "explanation": "二台."
+      },
+      {
+       "id": "e26",
+       "type": "fillBlank",
+       "prompt": "学生が二十人___来ました。 (as many as)",
+       "options": [
+        "も",
+        "しか",
+        "は",
+        "だけ"
+       ],
+       "correctIndex": 0,
+       "explanation": "二十人も."
+      },
+      {
+       "id": "e27",
+       "type": "fillBlank",
+       "prompt": "私は辞書を一冊___持っていません。 (only)",
+       "options": [
+        "ばかり",
+        "だけは",
+        "しか",
+        "も"
+       ],
+       "correctIndex": 2,
+       "explanation": "しか + negative."
+      }
+     ]
+    },
+    {
+     "id": "ja_170",
+     "title": "170. Culture and useful expressions: annual events, counters, casual forms",
+     "subtitle": "節分 · ひな祭り · こどもの日 · 七夕 · お盆 · 数え方 · なあ · できる",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "Culture note: 日本の年中行事 (annual events in Japan)",
+       "body": "Five traditional events. The table shows the name and reading, the date and what people do.",
+       "tables": [
+        {
+         "headers": [
+          "Event",
+          "Reading",
+          "Date",
+          "What happens"
+         ],
+         "rows": [
+          [
+           "節分",
+           "せつぶん",
+           "February 3",
+           "the day before the start of spring in the old lunar calendar; people throw beans (豆まき) at shrines, temples and homes to chase away evil spirits"
+          ],
+          [
+           "ひな祭り",
+           "ひなまつり",
+           "March 3",
+           "Doll Festival or Girls’ Day; families with daughters display ひな人形 to wish for their health and happiness"
+          ],
+          [
+           "こどもの日",
+           "こどものひ",
+           "May 5",
+           "Children’s Day or Boys’ Day; families fly 鯉のぼり (carp streamers) and display samurai helmets and armor"
+          ],
+          [
+           "七夕",
+           "たなばた",
+           "July 7",
+           "Tanabata; two lovers, the stars Altair and Vega, meet once a year; people write wishes on 短冊 and hang them on bamboo"
+          ],
+          [
+           "お盆",
+           "おぼん",
+           "around August 15 (July 15 in some regions)",
+           "a three-day Buddhist event when ancestors’ spirits come home; 盆踊り dances are held and many people return to their hometown"
+          ]
+         ],
+         "speakCols": [
+          0,
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "節分 and ひな祭り",
+       "body": "節分 (Bean-throwing Festival), February 3, is the day before the start of spring according to the old lunar calendar. People hold a ceremony called 豆まき at shrines, temples and homes to chase away evil spirits. ひな祭り (Doll Festival or Girls’ Day), March 3: families with young daughters display ひな人形 (hina dolls) inside the home to express their wish for the girls’ health and happiness. The dolls represent the emperor, empress, attendants and musicians in the court dress of the Heian period (794–1185).",
+       "tables": [],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "こどもの日, 七夕 and お盆",
+       "body": "こどもの日 (Children’s Day or Boys’ Day), May 5, was originally for boys but was renamed for both sexes, since Girls’ Day is not a public holiday. Families with young sons wish for their healthy growth and happiness by flying 鯉のぼり (carp streamers) and displaying samurai helmets and armor; carp and armor are symbols of strength and success. 七夕 (Tanabata), July 7, is based on a Chinese legend in which 彦星 (the star Altair) and 織姫 (the star Vega) are two lovers separated by the Milky Way and can meet only once a year on this day (see Reading and Writing, Lesson 12). People write their wishes on 短冊 (paper strips) and hang them on bamboo branches. お盆 (Obon), around August 15 (or July 15 in some regions), is a Buddhist event held on three days; many people believe that the spirits of deceased ancestors come home during this period. Outdoor dance events called 盆踊り are held, and many people take summer vacations to return to their hometown.",
+       "tables": [],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Useful expressions: 数え方 (counters)",
+       "body": "The table lists the six counters (こ 個, さつ 冊, ひき 匹, ほん 本, だい 台, まい 枚) for the numbers one to ten and “how many”. The reading changes for 1, 6, 8 and 10 before こ, さつ, ひき and ほん (except for ろくさつ), and the initial sound of ひき and ほん changes to びき and ぼん after 3 and なん, and to ぴき and ぽん after 1, 6, 8 and 10.",
+       "tables": [
+        {
+         "headers": [
+          "Number",
+          "こ 個 (small items)",
+          "さつ 冊 (bound volumes)",
+          "ひき 匹 (small animals)",
+          "ほん 本 (long objects)",
+          "だい 台 (equipment)",
+          "まい 枚 (flat objects)"
+         ],
+         "rows": [
+          [
+           "一",
+           "いっこ",
+           "いっさつ",
+           "いっぴき",
+           "いっぽん",
+           "いちだい",
+           "いちまい"
+          ],
+          [
+           "二",
+           "にこ",
+           "にさつ",
+           "にひき",
+           "にほん",
+           "にだい",
+           "にまい"
+          ],
+          [
+           "三",
+           "さんこ",
+           "さんさつ",
+           "さんびき",
+           "さんぼん",
+           "さんだい",
+           "さんまい"
+          ],
+          [
+           "四",
+           "よんこ",
+           "よんさつ",
+           "よんひき",
+           "よんほん",
+           "よんだい",
+           "よんまい"
+          ],
+          [
+           "五",
+           "ごこ",
+           "ごさつ",
+           "ごひき",
+           "ごほん",
+           "ごだい",
+           "ごまい"
+          ],
+          [
+           "六",
+           "ろっこ",
+           "ろくさつ",
+           "ろっぴき",
+           "ろっぽん",
+           "ろくだい",
+           "ろくまい"
+          ],
+          [
+           "七",
+           "ななこ",
+           "ななさつ",
+           "ななひき",
+           "ななほん",
+           "ななだい",
+           "ななまい"
+          ],
+          [
+           "八",
+           "はっこ",
+           "はっさつ",
+           "はっぴき",
+           "はっぽん",
+           "はちだい",
+           "はちまい"
+          ],
+          [
+           "九",
+           "きゅうこ",
+           "きゅうさつ",
+           "きゅうひき",
+           "きゅうほん",
+           "きゅうだい",
+           "きゅうまい"
+          ],
+          [
+           "十",
+           "じゅっこ、じっこ",
+           "じゅっさつ、じっさつ",
+           "じゅっぴき、じっぴき",
+           "じゅっぽん、じっぽん",
+           "じゅうだい",
+           "じゅうまい"
+          ],
+          [
+           "何",
+           "なんこ、いくつ",
+           "なんさつ",
+           "なんびき",
+           "なんぼん",
+           "なんだい",
+           "なんまい"
+          ]
+         ],
+         "speakCols": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Counters: what each one counts",
+       "body": "Examples of things counted with each counter.",
+       "tables": [
+        {
+         "headers": [
+          "Counter",
+          "Examples"
+         ],
+         "rows": [
+          [
+           "small items",
+           "candy, tomato, eraser"
+          ],
+          [
+           "bound volumes",
+           "book, magazine, dictionary"
+          ],
+          [
+           "small animals",
+           "cat, dog, snake"
+          ],
+          [
+           "long objects",
+           "pencil, umbrella, movie, bottle"
+          ],
+          [
+           "equipment",
+           "computer, TV, car, bicycle"
+          ],
+          [
+           "flat objects",
+           "paper, plate, T-shirt"
+          ]
+         ],
+         "speakCols": []
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Expression notes 2: casual short forms",
+       "body": "The dialogue contains several casual sentences. A yes/no question in casual speech can be just the short form with rising intonation. Short forms followed by んだ (んです) give an explanation, and の at the end makes a question. A request can be just the て-form.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "開けてもいい？",
+         "translation": "Akete mo ii? — May I open it? (a casual yes/no question has rising intonation, without か)"
+        },
+        {
+         "text": "こんなのがほしかったんだ。",
+         "translation": "Konna no ga hoshikatta n da. — This is just what I wanted. (んだ is the casual form of んです, giving an explanation)"
+        },
+        {
+         "text": "メアリーが編んだの？",
+         "translation": "Mearii ga an da no? — Did Mary knit it? (の makes a casual question)"
+        },
+        {
+         "text": "着てみて。",
+         "translation": "Kite mite. — Try it on. (a casual て-form request)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Expression notes 2: なあ",
+       "body": "なあ is an exclamation at the end of a sentence, showing a feeling of admiration, loneliness, and so on. わあ and へえ are also interjections (wow!).",
+       "tables": [],
+       "examples": [
+        {
+         "text": "日本語の先生はやさしいなあ。",
+         "translation": "Nihongo no sensee wa yasashii naa. — Our Japanese teacher is so kind."
+        },
+        {
+         "text": "いい教科書だなあ。",
+         "translation": "Ii kyookasho da naa. — What a good textbook."
+        },
+        {
+         "text": "おなかがすいたなあ。",
+         "translation": "Onaka ga suita naa. — I’m hungry."
+        },
+        {
+         "text": "あの人はけちだなあ。",
+         "translation": "Ano hito wa kechi da naa. — He is so stingy."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Expression notes 2: できる",
+       "body": "できる has several meanings: to be able to do (or be good at), to be completed, and to come into existence.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "日本語ができます。",
+         "translation": "Nihongo ga dekimasu. — I can speak Japanese. (can do; be good at)"
+        },
+        {
+         "text": "彼はスキーができません。",
+         "translation": "Kare wa sukii ga dekimasen. — He cannot ski."
+        },
+        {
+         "text": "テストであまりできませんでした。",
+         "translation": "Tesuto de amari dekimasen deshita. — I did not do very well on the test."
+        },
+        {
+         "text": "晩ご飯ができましたよ。",
+         "translation": "Bangohan ga dekimashita yo. — Dinner is ready. (be completed)"
+        },
+        {
+         "text": "宿題はできましたか。",
+         "translation": "Shukudai wa dekimashita ka. — Have you finished your homework?"
+        },
+        {
+         "text": "新しい店ができました。",
+         "translation": "Atarashii mise ga dekimashita. — A new store opened. (come into existence)"
+        },
+        {
+         "text": "友だちがたくさんできました。",
+         "translation": "Tomodachi ga takusan dekimashita. — I made a lot of friends."
+        }
+       ],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "When is 節分 held?",
+       "options": [
+        "May 5",
+        "March 3",
+        "July 7",
+        "February 3"
+       ],
+       "correctIndex": 3,
+       "explanation": "節分 (せつぶん) is on February 3."
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "When is ひな祭り held?",
+       "options": [
+        "February 3",
+        "May 5",
+        "March 3",
+        "July 7"
+       ],
+       "correctIndex": 2,
+       "explanation": "ひな祭り (ひなまつり) is on March 3."
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "When is こどもの日 held?",
+       "options": [
+        "July 7",
+        "May 5",
+        "February 3",
+        "March 3"
+       ],
+       "correctIndex": 1,
+       "explanation": "こどもの日 (こどものひ) is on May 5."
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "When is 七夕 held?",
+       "options": [
+        "February 3",
+        "March 3",
+        "May 5",
+        "July 7"
+       ],
+       "correctIndex": 3,
+       "explanation": "七夕 (たなばた) is on July 7."
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "When is お盆 held?",
+       "options": [
+        "around August 15 (July 15 in some regions)",
+        "February 3",
+        "March 3",
+        "May 5"
+       ],
+       "correctIndex": 0,
+       "explanation": "お盆 (おぼん) is on around August 15 (July 15 in some regions)."
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "Which event is the Bean-throwing Festival?",
+       "options": [
+        "節分",
+        "七夕",
+        "ひな祭り",
+        "お盆"
+       ],
+       "correctIndex": 0,
+       "explanation": "節分."
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "Which event is the Doll Festival?",
+       "options": [
+        "ひな祭り",
+        "節分",
+        "こどもの日",
+        "七夕"
+       ],
+       "correctIndex": 0,
+       "explanation": "ひな祭り."
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What do families fly for the Children’s Day?",
+       "options": [
+        "lanterns",
+        "fireworks",
+        "carp streamers",
+        "kites"
+       ],
+       "correctIndex": 2,
+       "explanation": "鯉のぼり."
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "Whose legend is behind 七夕?",
+       "options": [
+        "Greek",
+        "Chinese",
+        "Korean",
+        "Japanese"
+       ],
+       "correctIndex": 1,
+       "explanation": "a Chinese legend."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What do people write on 短冊?",
+       "options": [
+        "wishes",
+        "prayers for ancestors",
+        "names",
+        "poems"
+       ],
+       "correctIndex": 0,
+       "explanation": "wishes."
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What do people believe returns during お盆?",
+       "options": [
+        "birds",
+        "the emperor",
+        "carp",
+        "spirits of ancestors"
+       ],
+       "correctIndex": 3,
+       "explanation": "ancestors’ spirits."
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "How do you count books?",
+       "options": [
+        "冊",
+        "本",
+        "匹",
+        "台"
+       ],
+       "correctIndex": 0,
+       "explanation": "冊."
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "How do you say “three long objects”?",
+       "options": [
+        "さんほん",
+        "さんぽん",
+        "さんぼん",
+        "みっぽん"
+       ],
+       "correctIndex": 2,
+       "explanation": "三本 = さんぼん."
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "How do you say “one long object”?",
+       "options": [
+        "いっぽん",
+        "ひとほん",
+        "いちほん",
+        "いっぼん"
+       ],
+       "correctIndex": 0,
+       "explanation": "一本 = いっぽん."
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "How do you say “six small animals”?",
+       "options": [
+        "ろっぴき",
+        "むっぴき",
+        "ろくぴき",
+        "ろくひき"
+       ],
+       "correctIndex": 0,
+       "explanation": "六匹 = ろっぴき."
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "How do you say “eight books”?",
+       "options": [
+        "はっさつ",
+        "はっざつ",
+        "はちさつ",
+        "やっさつ"
+       ],
+       "correctIndex": 0,
+       "explanation": "八冊 = はっさつ."
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "How do you say “six books”?",
+       "options": [
+        "ろくざつ",
+        "ろくさつ",
+        "むっさつ",
+        "ろっさつ"
+       ],
+       "correctIndex": 1,
+       "explanation": "六冊 = ろくさつ (the exception)."
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "How do you say “three small animals”?",
+       "options": [
+        "さんひき",
+        "みひき",
+        "さんびき",
+        "さんぴき"
+       ],
+       "correctIndex": 2,
+       "explanation": "三匹 = さんびき."
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "How do you say “two machines”?",
+       "options": [
+        "にまい",
+        "にたい",
+        "にだい",
+        "ふたつ"
+       ],
+       "correctIndex": 2,
+       "explanation": "二台 = にだい."
+      },
+      {
+       "id": "e20",
+       "type": "multipleChoice",
+       "prompt": "How do you say “five flat objects”?",
+       "options": [
+        "ごさつ",
+        "ごまい",
+        "ごほん",
+        "ごこ"
+       ],
+       "correctIndex": 1,
+       "explanation": "五枚 = ごまい."
+      },
+      {
+       "id": "e21",
+       "type": "multipleChoice",
+       "prompt": "How do you ask “how many long objects”?",
+       "options": [
+        "いくほん",
+        "なんぽん",
+        "なんほん",
+        "なんぼん"
+       ],
+       "correctIndex": 3,
+       "explanation": "何本 = なんぼん."
+      },
+      {
+       "id": "e22",
+       "type": "multipleChoice",
+       "prompt": "What does 晩ご飯ができました mean?",
+       "options": [
+        "I cannot cook dinner.",
+        "Dinner is delicious.",
+        "I want dinner.",
+        "Dinner is ready."
+       ],
+       "correctIndex": 3,
+       "explanation": "できる = be completed."
+      },
+      {
+       "id": "e23",
+       "type": "multipleChoice",
+       "prompt": "What does 友だちがたくさんできました mean?",
+       "options": [
+        "I lost friends.",
+        "I can meet friends.",
+        "I made a lot of friends.",
+        "My friends are good."
+       ],
+       "correctIndex": 2,
+       "explanation": "できる = come into existence."
+      },
+      {
+       "id": "e24",
+       "type": "multipleChoice",
+       "prompt": "What does なあ express?",
+       "options": [
+        "a question",
+        "a command",
+        "a thank you",
+        "a feeling such as admiration or loneliness"
+       ],
+       "correctIndex": 3,
+       "explanation": "exclamation."
+      },
+      {
+       "id": "e25",
+       "type": "fillBlank",
+       "prompt": "あの人はけちだ___。 (exclamation)",
+       "options": [
+        "なあ",
+        "ぜ",
+        "かい",
+        "ぞ"
+       ],
+       "correctIndex": 0,
+       "explanation": "なあ."
+      },
+      {
+       "id": "e26",
+       "type": "fillBlank",
+       "prompt": "日本語が___ます。 (can do)",
+       "options": [
+        "すれ",
+        "し",
+        "でき",
+        "さ"
+       ],
+       "correctIndex": 2,
+       "explanation": "できます."
+      },
+      {
+       "id": "e27",
+       "type": "fillBlank",
+       "prompt": "新しい店が___ました。 (opened)",
+       "options": [
+        "し",
+        "あけ",
+        "つくれ",
+        "でき"
+       ],
+       "correctIndex": 3,
+       "explanation": "できました."
+      }
+     ]
+    },
+    {
+     "id": "ja_171",
+     "title": "171. Practice 1: ほしい, ～かもしれません, あげる/くれる/もらう",
+     "subtitle": "本がほしいです · 子供の時、ゲームがほしかったです · 学生かもしれません · 母に本をあげます · 兄が時計をくれました",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "I. 本がほしいです: A. things you want or do not want",
+       "body": "Items marked ○ are what you want; items marked × are what you do not want. The example is 本がほしいです。 マフラーがほしくないです。 My answers (from the book’s picture marks):",
+       "tables": [
+        {
+         "headers": [
+          "Item",
+          "Sentence"
+         ],
+         "rows": [
+          [
+           "(ex) 本 ○",
+           "本がほしいです。"
+          ],
+          [
+           "(ex) マフラー ×",
+           "マフラーがほしくないです。"
+          ],
+          [
+           "(1) お金 ○",
+           "お金がほしいです。"
+          ],
+          [
+           "(2) セーター ×",
+           "セーターがほしくないです。"
+          ],
+          [
+           "(3) パソコン ×",
+           "パソコンがほしくないです。"
+          ],
+          [
+           "(4) バイク ○",
+           "バイクがほしいです。"
+          ],
+          [
+           "(5) ぬいぐるみ ×",
+           "ぬいぐるみがほしくないです。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "I. B. When you were a child",
+       "body": "The same exercise for your childhood (the example: 子供の時、本がほしかったです。 マフラーがほしくなかったです。). The last picture items are my reading of the pictures (for example, I took the toy in (4) as おもちゃ):",
+       "tables": [
+        {
+         "headers": [
+          "Item",
+          "Sentence"
+         ],
+         "rows": [
+          [
+           "(ex) 本 ○",
+           "子供の時、本がほしかったです。"
+          ],
+          [
+           "(ex) マフラー ×",
+           "子供の時、マフラーがほしくなかったです。"
+          ],
+          [
+           "(1) ゲーム ○",
+           "子供の時、ゲームがほしかったです。"
+          ],
+          [
+           "(2) 指輪 ×",
+           "子供の時、指輪がほしくなかったです。"
+          ],
+          [
+           "(3) 時計 ×",
+           "子供の時、時計がほしくなかったです。"
+          ],
+          [
+           "(4) おもちゃ ○",
+           "子供の時、おもちゃがほしかったです。"
+          ],
+          [
+           "(5) 花 ×",
+           "子供の時、花がほしくなかったです。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "I. C, D and E: pair work and class activity",
+       "body": "C: ask whether your partner wants or wanted the things above (子供の時、本がほしかったですか。 いいえ、ほしくなかったです。). D: ask which of two items your partner wants more, and why. The book’s example is 車／パソコン: 車とパソコンと、どちらがほしいですか。 車よりパソコンのほうがほしいです。 どうしてですか。 車が運転できませんから。 My versions of the D questions:",
+       "tables": [
+        {
+         "headers": [
+          "Items",
+          "Question"
+         ],
+         "rows": [
+          [
+           "コンサートのチケット／映画のディーブイディー",
+           "コンサートのチケットと映画のディーブイディーと、どちらがほしいですか。"
+          ],
+          [
+           "小さい家／大きいマンション",
+           "小さい家と大きいマンションと、どちらがほしいですか。"
+          ],
+          [
+           "彼か彼女／いい友だち",
+           "彼か彼女といい友だちと、どちらがほしいですか。"
+          ],
+          [
+           "猫／犬",
+           "猫と犬と、どちらがほしいですか。"
+          ],
+          [
+           "時間／お金",
+           "時間とお金と、どちらがほしいですか。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "車とパソコンと、どちらがほしいですか。",
+         "translation": "Kuruma to pasokon to, dochira ga hoshii desu ka. — Which do you want, a car or a computer? (the book’s example)"
+        },
+        {
+         "text": "車が運転できませんから。",
+         "translation": "Kuruma ga unten dekimasen kara. — Because I cannot drive a car. (the book’s example)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "I. E: class activity",
+       "body": "Ask four people when their birthdays are and what they want for their birthdays. Write the answers in the chart (name, 誕生日はいつですか, 何がほしいですか), then make a short dialogue like the book’s: もうすぐ、メアリーさんの誕生日ですよ。 そうですか。じゃ、何かプレゼントを買いましょうか。何がいいと思いますか。 そうですね。キティちゃんのぬいぐるみはどうですか。メアリーさんはぬいぐるみがほしいと言っていましたから。 いいですね。そうしましょう。",
+       "tables": [],
+       "examples": [
+        {
+         "text": "もうすぐ、メアリーさんの誕生日ですよ。",
+         "translation": "Moosugu, Mearii-san no tanjoobi desu yo. — Mary’s birthday is coming soon."
+        },
+        {
+         "text": "メアリーさんはぬいぐるみがほしいと言っていましたから。",
+         "translation": "Mearii-san wa nuigurumi ga hoshii to itte imashita kara. — Because Mary said she wants a stuffed animal. (the book’s example)"
+        },
+        {
+         "text": "いいですね。そうしましょう。",
+         "translation": "Ii desu ne. Soo shimashoo. — Good. Let’s do that."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "II. 女の人は学生かもしれません: A. change the sentences using ～かもしれません",
+       "body": "Look at the picture of a man and a woman and change the sentences. The example is 女の人は学生です。(maybe) → 女の人は学生かもしれません。 and 学生です。(maybe not) → 学生じゃないかもしれません。 My answers:",
+       "tables": [
+        {
+         "headers": [
+          "Sentence",
+          "Answer"
+         ],
+         "rows": [
+          [
+           "女の人は会社員です。(maybe)",
+           "女の人は会社員かもしれません。"
+          ],
+          [
+           "男の人は先生です。(maybe not)",
+           "男の人は先生じゃないかもしれません。"
+          ],
+          [
+           "女の人はテニスが上手です。(maybe)",
+           "女の人はテニスが上手かもしれません。"
+          ],
+          [
+           "男の人は背が低いです。(maybe not)",
+           "男の人は背が低くないかもしれません。"
+          ],
+          [
+           "今、寒いです。(maybe not)",
+           "今、寒くないかもしれません。"
+          ],
+          [
+           "女の人は今日テニスをします。(maybe)",
+           "女の人は今日テニスをするかもしれません。"
+          ],
+          [
+           "男の人と女の人は、今、駅にいます。(maybe not)",
+           "男の人と女の人は、今、駅にいないかもしれません。"
+          ],
+          [
+           "男の人は結婚しています。(maybe)",
+           "男の人は結婚しているかもしれません。"
+          ],
+          [
+           "男の人と女の人は夫婦です。(maybe not)",
+           "男の人と女の人は夫婦じゃないかもしれません。"
+          ],
+          [
+           "女の人は男の人に興味があります。(maybe)",
+           "女の人は男の人に興味があるかもしれません。"
+          ],
+          [
+           "女の人はきのうテニスをしました。(maybe)",
+           "女の人はきのうテニスをしたかもしれません。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "II. B, C and D",
+       "body": "B: complete sentences like あしたの天気は＿＿かもしれません。, 今週末、私は＿＿かもしれません。, 私たちの日本語の先生は＿＿かもしれません。, 私のとなりの人は、きのう＿＿かもしれません。, 今学期の後、私は＿＿かもしれません。 (your own answers). C: ask your partner what they think they will be doing in ten years: 十年後、日本語を勉強していますか。 日本語を勉強しているかもしれません。／たぶん、日本語を勉強していると思います。 My sample answers to the other questions:",
+       "tables": [
+        {
+         "headers": [
+          "Question",
+          "Sample answer"
+         ],
+         "rows": [
+          [
+           "どこに住んでいますか。",
+           "日本に住んでいるかもしれません。"
+          ],
+          [
+           "結婚していますか。",
+           "結婚しているかもしれません。"
+          ],
+          [
+           "子供がいますか。",
+           "子供がいるかもしれません。"
+          ],
+          [
+           "仕事は何ですか。",
+           "先生かもしれません。"
+          ],
+          [
+           "お金持ちですか。",
+           "お金持ちじゃないかもしれません。"
+          ],
+          [
+           "週末よく何をしますか。",
+           "友だちと映画を見るかもしれません。"
+          ]
+         ],
+         "speakCols": [
+          0,
+          1
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "今度の週末、うちに来ない？",
+         "translation": "Kondo no shuumatsu, uchi ni konai? — Why don’t you come to my place this weekend? (the book’s example, part D)"
+        },
+        {
+         "text": "今度の週末はちょっと。アルバイトがあるかもしれないから。",
+         "translation": "Kondo no shuumatsu wa chotto. Arubaito ga aru ka mo shirenai kara. — This weekend is a little… I might have a part-time job. (the book’s example)"
+        },
+        {
+         "text": "そうか。じゃあ、また今度。",
+         "translation": "Soo ka. Jaa, mata kondo. — I see. Well, another time. (the book’s example)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "III. きょうこさんはディエゴさんにトレーナーをあげました: A. what you will give",
+       "body": "You have just come back from a trip. Look at the picture and tell what you will give to the people. The example is 父にお酒をあげます。 My answers (my reading of the pictures):",
+       "tables": [
+        {
+         "headers": [
+          "Person",
+          "Sentence"
+         ],
+         "rows": [
+          [
+           "(ex) 父",
+           "父にお酒をあげます。"
+          ],
+          [
+           "(1) 母",
+           "母に本をあげます。"
+          ],
+          [
+           "(2) 友だち",
+           "友だちにチョコレートをあげます。"
+          ],
+          [
+           "(3) ルームメイト",
+           "ルームメイトにティーシャツをあげます。"
+          ],
+          [
+           "(4) 弟",
+           "弟に帽子をあげます。"
+          ],
+          [
+           "(5) 先生",
+           "先生にお茶をあげます。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "III. B. Birthday presents",
+       "body": "Ask what your partner would give these people on their birthdays, with reasons (お母さん, お父さん → おじさん, おばさん, 友だち, 兄弟, 彼／彼女). The book’s example: お父さんの誕生日に何をあげるつもりですか。 料理の本をあげるつもりです。父は料理をするのが好きですから。",
+       "tables": [],
+       "examples": [
+        {
+         "text": "お父さんの誕生日に何をあげるつもりですか。",
+         "translation": "Otoosan no tanjoobi ni nani o ageru tsumori desu ka. — What do you plan to give your father on his birthday? (the book’s example)"
+        },
+        {
+         "text": "料理の本をあげるつもりです。父は料理をするのが好きですから。",
+         "translation": "Ryoori no hon o ageru tsumori desu. Chichi wa ryoori o suru no ga suki desu kara. — I plan to give him a cookbook, because he likes to cook. (the book’s example)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "III. C. Using くれる and もらう",
+       "body": "Look at the pictures and make sentences using くれる and もらう. The example is 彼女がマフラーをくれました。／彼女にマフラーをもらいました。 My answers (my reading of the pictures):",
+       "tables": [
+        {
+         "headers": [
+          "Giver／thing",
+          "Sentence"
+         ],
+         "rows": [
+          [
+           "(ex) 彼女／マフラー",
+           "彼女がマフラーをくれました。、彼女にマフラーをもらいました。"
+          ],
+          [
+           "(1) 両親／チケット",
+           "両親がチケットをくれました。、両親にチケットをもらいました。"
+          ],
+          [
+           "(2) 祖父／ラジオ",
+           "祖父がラジオをくれました。、祖父にラジオをもらいました。"
+          ],
+          [
+           "(3) 祖母／手袋",
+           "祖母が手袋をくれました。、祖母に手袋をもらいました。"
+          ],
+          [
+           "(4) 友だち／バイク",
+           "友だちがバイクをくれました。、友だちにバイクをもらいました。"
+          ],
+          [
+           "(5) おじさん／ビデオカメラ",
+           "おじさんがビデオカメラをくれました。、おじさんにビデオカメラをもらいました。"
+          ],
+          [
+           "(6) 兄／時計",
+           "兄が時計をくれました。、兄に時計をもらいました。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "III. D, E and F",
+       "body": "D: describe who gave what to whom in a picture with Kyoko, Diego, Takeshi, Mary, Ken, Naomi, Robert and Sue; the example is きょうこさんはディエゴさんにトレーナーをあげました。 ディエゴさんはきょうこさんにトレーナーをもらいました。 The answers depend on the arrows in the picture, so only the book’s example is given. E is a pair activity with Picture A and Picture B (たけしさんはメアリーさんに何をあげましたか。 花をあげました。). F’s eight questions:",
+       "tables": [
+        {
+         "headers": [
+          "Question",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "去年の誕生日に何をもらいましたか。",
+           "What did you receive for your birthday last year?"
+          ],
+          [
+           "家族の誕生日に何をあげましたか。",
+           "What did you give your family on their birthdays?"
+          ],
+          [
+           "友だちの誕生日に何をあげたいですか。",
+           "What would you like to give your friend on their birthday?"
+          ],
+          [
+           "バレンタインデーに何かあげたことがありますか。何をあげましたか。",
+           "Have you ever given something on Valentine’s Day? What did you give?"
+          ],
+          [
+           "バレンタインデーに何かもらったことがありますか。何をもらいましたか。",
+           "Have you ever received something on Valentine’s Day? What did you receive?"
+          ],
+          [
+           "あなたの国ではお正月に何をあげますか。だれがだれにあげますか。",
+           "What do people give at New Year in your country? Who gives to whom?"
+          ],
+          [
+           "一番うれしかったプレゼントは何ですか。だれにもらいましたか。",
+           "What was the present that made you happiest? Who gave it to you?"
+          ],
+          [
+           "一番うれしくなかったプレゼントは何ですか。だれにもらいましたか。",
+           "What was the present that made you least happy? Who gave it to you?"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "きょうこさんはディエゴさんにトレーナーをあげました。",
+         "translation": "Kyooko-san wa Diego-san ni toreenaa o agemashita. — Kyoko gave Diego a sweat shirt. (the book’s example)"
+        },
+        {
+         "text": "ディエゴさんはきょうこさんにトレーナーをもらいました。",
+         "translation": "Diego-san wa kyooko-san ni toreenaa o moraimashita. — Diego received a sweat shirt from Kyoko. (the book’s example)"
+        }
+       ],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (1) お金 ○?",
+       "options": [
+        "マフラーがほしくないです。",
+        "本がほしいです。",
+        "セーターがほしくないです。",
+        "お金がほしいです。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(1) お金 ○"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (2) セーター ×?",
+       "options": [
+        "マフラーがほしくないです。",
+        "セーターがほしくないです。",
+        "本がほしいです。",
+        "お金がほしいです。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(2) セーター ×"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (3) パソコン ×?",
+       "options": [
+        "マフラーがほしくないです。",
+        "お金がほしいです。",
+        "パソコンがほしくないです。",
+        "本がほしいです。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(3) パソコン ×"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (4) バイク ○?",
+       "options": [
+        "バイクがほしいです。",
+        "本がほしいです。",
+        "マフラーがほしくないです。",
+        "お金がほしいです。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(4) バイク ○"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (5) ぬいぐるみ ×?",
+       "options": [
+        "ぬいぐるみがほしくないです。",
+        "本がほしいです。",
+        "マフラーがほしくないです。",
+        "お金がほしいです。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(5) ぬいぐるみ ×"
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (1) ゲーム ○?",
+       "options": [
+        "子供の時、指輪がほしくなかったです。",
+        "子供の時、マフラーがほしくなかったです。",
+        "子供の時、ゲームがほしかったです。",
+        "子供の時、本がほしかったです。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(1) ゲーム ○"
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (2) 指輪 ×?",
+       "options": [
+        "子供の時、本がほしかったです。",
+        "子供の時、指輪がほしくなかったです。",
+        "子供の時、マフラーがほしくなかったです。",
+        "子供の時、ゲームがほしかったです。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(2) 指輪 ×"
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (3) 時計 ×?",
+       "options": [
+        "子供の時、マフラーがほしくなかったです。",
+        "子供の時、時計がほしくなかったです。",
+        "子供の時、本がほしかったです。",
+        "子供の時、ゲームがほしかったです。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(3) 時計 ×"
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (4) おもちゃ ○?",
+       "options": [
+        "子供の時、おもちゃがほしかったです。",
+        "子供の時、本がほしかったです。",
+        "子供の時、ゲームがほしかったです。",
+        "子供の時、マフラーがほしくなかったです。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(4) おもちゃ ○"
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (5) 花 ×?",
+       "options": [
+        "子供の時、ゲームがほしかったです。",
+        "子供の時、本がほしかったです。",
+        "子供の時、花がほしくなかったです。",
+        "子供の時、マフラーがほしくなかったです。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(5) 花 ×"
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "How do you change: 女の人は会社員です。(maybe)",
+       "options": [
+        "女の人はテニスが上手かもしれません。",
+        "女の人は会社員かもしれません。",
+        "男の人は先生じゃないかもしれません。",
+        "男の人は背が低くないかもしれません。"
+       ],
+       "correctIndex": 1,
+       "explanation": "女の人は会社員です。(maybe)"
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "How do you change: 男の人は先生です。(maybe not)",
+       "options": [
+        "男の人は先生じゃないかもしれません。",
+        "女の人は会社員かもしれません。",
+        "男の人は背が低くないかもしれません。",
+        "女の人はテニスが上手かもしれません。"
+       ],
+       "correctIndex": 0,
+       "explanation": "男の人は先生です。(maybe not)"
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "How do you change: 女の人はテニスが上手です。(maybe)",
+       "options": [
+        "男の人は先生じゃないかもしれません。",
+        "男の人は背が低くないかもしれません。",
+        "女の人はテニスが上手かもしれません。",
+        "女の人は会社員かもしれません。"
+       ],
+       "correctIndex": 2,
+       "explanation": "女の人はテニスが上手です。(maybe)"
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "How do you change: 男の人は背が低いです。(maybe not)",
+       "options": [
+        "男の人は背が低くないかもしれません。",
+        "男の人は先生じゃないかもしれません。",
+        "女の人はテニスが上手かもしれません。",
+        "女の人は会社員かもしれません。"
+       ],
+       "correctIndex": 0,
+       "explanation": "男の人は背が低いです。(maybe not)"
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "How do you change: 今、寒いです。(maybe not)",
+       "options": [
+        "女の人はテニスが上手かもしれません。",
+        "今、寒くないかもしれません。",
+        "女の人は会社員かもしれません。",
+        "男の人は先生じゃないかもしれません。"
+       ],
+       "correctIndex": 1,
+       "explanation": "今、寒いです。(maybe not)"
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "How do you change: 女の人は今日テニスをします。(maybe)",
+       "options": [
+        "女の人は会社員かもしれません。",
+        "男の人は先生じゃないかもしれません。",
+        "女の人はテニスが上手かもしれません。",
+        "女の人は今日テニスをするかもしれません。"
+       ],
+       "correctIndex": 3,
+       "explanation": "女の人は今日テニスをします。(maybe)"
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "How do you change: 男の人と女の人は、今、駅にいます。(maybe not)",
+       "options": [
+        "女の人はテニスが上手かもしれません。",
+        "男の人は先生じゃないかもしれません。",
+        "男の人と女の人は、今、駅にいないかもしれません。",
+        "女の人は会社員かもしれません。"
+       ],
+       "correctIndex": 2,
+       "explanation": "男の人と女の人は、今、駅にいます。(maybe not)"
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "How do you change: 男の人は結婚しています。(maybe)",
+       "options": [
+        "女の人はテニスが上手かもしれません。",
+        "女の人は会社員かもしれません。",
+        "男の人は先生じゃないかもしれません。",
+        "男の人は結婚しているかもしれません。"
+       ],
+       "correctIndex": 3,
+       "explanation": "男の人は結婚しています。(maybe)"
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "How do you change: 男の人と女の人は夫婦です。(maybe not)",
+       "options": [
+        "女の人は会社員かもしれません。",
+        "女の人はテニスが上手かもしれません。",
+        "男の人は先生じゃないかもしれません。",
+        "男の人と女の人は夫婦じゃないかもしれません。"
+       ],
+       "correctIndex": 3,
+       "explanation": "男の人と女の人は夫婦です。(maybe not)"
+      },
+      {
+       "id": "e20",
+       "type": "multipleChoice",
+       "prompt": "How do you change: 女の人は男の人に興味があります。(maybe)",
+       "options": [
+        "女の人はテニスが上手かもしれません。",
+        "女の人は男の人に興味があるかもしれません。",
+        "男の人は先生じゃないかもしれません。",
+        "女の人は会社員かもしれません。"
+       ],
+       "correctIndex": 1,
+       "explanation": "女の人は男の人に興味があります。(maybe)"
+      },
+      {
+       "id": "e21",
+       "type": "multipleChoice",
+       "prompt": "How do you change: 女の人はきのうテニスをしました。(maybe)",
+       "options": [
+        "男の人は先生じゃないかもしれません。",
+        "女の人はきのうテニスをしたかもしれません。",
+        "女の人は会社員かもしれません。",
+        "女の人はテニスが上手かもしれません。"
+       ],
+       "correctIndex": 1,
+       "explanation": "女の人はきのうテニスをしました。(maybe)"
+      },
+      {
+       "id": "e22",
+       "type": "multipleChoice",
+       "prompt": "What do you say for (1) 母?",
+       "options": [
+        "父にお酒をあげます。",
+        "母に本をあげます。",
+        "友だちにチョコレートをあげます。",
+        "ルームメイトにティーシャツをあげます。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(1) 母"
+      },
+      {
+       "id": "e23",
+       "type": "multipleChoice",
+       "prompt": "What do you say for (2) 友だち?",
+       "options": [
+        "父にお酒をあげます。",
+        "母に本をあげます。",
+        "友だちにチョコレートをあげます。",
+        "ルームメイトにティーシャツをあげます。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(2) 友だち"
+      },
+      {
+       "id": "e24",
+       "type": "multipleChoice",
+       "prompt": "What do you say for (3) ルームメイト?",
+       "options": [
+        "母に本をあげます。",
+        "ルームメイトにティーシャツをあげます。",
+        "父にお酒をあげます。",
+        "友だちにチョコレートをあげます。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(3) ルームメイト"
+      },
+      {
+       "id": "e25",
+       "type": "multipleChoice",
+       "prompt": "What do you say for (4) 弟?",
+       "options": [
+        "母に本をあげます。",
+        "友だちにチョコレートをあげます。",
+        "父にお酒をあげます。",
+        "弟に帽子をあげます。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(4) 弟"
+      },
+      {
+       "id": "e26",
+       "type": "multipleChoice",
+       "prompt": "What do you say for (5) 先生?",
+       "options": [
+        "友だちにチョコレートをあげます。",
+        "父にお酒をあげます。",
+        "先生にお茶をあげます。",
+        "母に本をあげます。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(5) 先生"
+      },
+      {
+       "id": "e27",
+       "type": "multipleChoice",
+       "prompt": "How do you say (ex) 彼女／マフラー?",
+       "options": [
+        "祖母が手袋をくれました。、祖母に手袋をもらいました。",
+        "彼女がマフラーをくれました。、彼女にマフラーをもらいました。",
+        "祖父がラジオをくれました。、祖父にラジオをもらいました。",
+        "両親がチケットをくれました。、両親にチケットをもらいました。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(ex) 彼女／マフラー"
+      },
+      {
+       "id": "e28",
+       "type": "multipleChoice",
+       "prompt": "How do you say (1) 両親／チケット?",
+       "options": [
+        "祖父がラジオをくれました。、祖父にラジオをもらいました。",
+        "両親がチケットをくれました。、両親にチケットをもらいました。",
+        "彼女がマフラーをくれました。、彼女にマフラーをもらいました。",
+        "祖母が手袋をくれました。、祖母に手袋をもらいました。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(1) 両親／チケット"
+      },
+      {
+       "id": "e29",
+       "type": "multipleChoice",
+       "prompt": "How do you say (2) 祖父／ラジオ?",
+       "options": [
+        "彼女がマフラーをくれました。、彼女にマフラーをもらいました。",
+        "両親がチケットをくれました。、両親にチケットをもらいました。",
+        "祖母が手袋をくれました。、祖母に手袋をもらいました。",
+        "祖父がラジオをくれました。、祖父にラジオをもらいました。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(2) 祖父／ラジオ"
+      },
+      {
+       "id": "e30",
+       "type": "multipleChoice",
+       "prompt": "How do you say (3) 祖母／手袋?",
+       "options": [
+        "両親がチケットをくれました。、両親にチケットをもらいました。",
+        "祖母が手袋をくれました。、祖母に手袋をもらいました。",
+        "祖父がラジオをくれました。、祖父にラジオをもらいました。",
+        "彼女がマフラーをくれました。、彼女にマフラーをもらいました。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(3) 祖母／手袋"
+      },
+      {
+       "id": "e31",
+       "type": "multipleChoice",
+       "prompt": "How do you say (4) 友だち／バイク?",
+       "options": [
+        "祖父がラジオをくれました。、祖父にラジオをもらいました。",
+        "彼女がマフラーをくれました。、彼女にマフラーをもらいました。",
+        "友だちがバイクをくれました。、友だちにバイクをもらいました。",
+        "両親がチケットをくれました。、両親にチケットをもらいました。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(4) 友だち／バイク"
+      },
+      {
+       "id": "e32",
+       "type": "multipleChoice",
+       "prompt": "How do you say (5) おじさん／ビデオカメラ?",
+       "options": [
+        "おじさんがビデオカメラをくれました。、おじさんにビデオカメラをもらいました。",
+        "両親がチケットをくれました。、両親にチケットをもらいました。",
+        "彼女がマフラーをくれました。、彼女にマフラーをもらいました。",
+        "祖父がラジオをくれました。、祖父にラジオをもらいました。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(5) おじさん／ビデオカメラ"
+      },
+      {
+       "id": "e33",
+       "type": "multipleChoice",
+       "prompt": "How do you say (6) 兄／時計?",
+       "options": [
+        "両親がチケットをくれました。、両親にチケットをもらいました。",
+        "祖父がラジオをくれました。、祖父にラジオをもらいました。",
+        "兄が時計をくれました。、兄に時計をもらいました。",
+        "彼女がマフラーをくれました。、彼女にマフラーをもらいました。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(6) 兄／時計"
+      },
+      {
+       "id": "e34",
+       "type": "multipleChoice",
+       "prompt": "What does 去年の誕生日に何をもらいましたか。 mean?",
+       "options": [
+        "What did you give your family on their birthdays?",
+        "Have you ever given something on Valentine’s Day? What did you give?",
+        "What did you receive for your birthday last year?",
+        "What would you like to give your friend on their birthday?"
+       ],
+       "correctIndex": 2,
+       "explanation": "去年の誕生日に何をもらいましたか。"
+      },
+      {
+       "id": "e35",
+       "type": "multipleChoice",
+       "prompt": "What does 家族の誕生日に何をあげましたか。 mean?",
+       "options": [
+        "What would you like to give your friend on their birthday?",
+        "What did you give your family on their birthdays?",
+        "What did you receive for your birthday last year?",
+        "Have you ever given something on Valentine’s Day? What did you give?"
+       ],
+       "correctIndex": 1,
+       "explanation": "家族の誕生日に何をあげましたか。"
+      },
+      {
+       "id": "e36",
+       "type": "multipleChoice",
+       "prompt": "What does 友だちの誕生日に何をあげたいですか。 mean?",
+       "options": [
+        "What would you like to give your friend on their birthday?",
+        "Have you ever given something on Valentine’s Day? What did you give?",
+        "What did you give your family on their birthdays?",
+        "What did you receive for your birthday last year?"
+       ],
+       "correctIndex": 0,
+       "explanation": "友だちの誕生日に何をあげたいですか。"
+      },
+      {
+       "id": "e37",
+       "type": "multipleChoice",
+       "prompt": "What does バレンタインデーに何かあげたことがありますか。何をあげましたか。 mean?",
+       "options": [
+        "What did you receive for your birthday last year?",
+        "What did you give your family on their birthdays?",
+        "Have you ever given something on Valentine’s Day? What did you give?",
+        "What would you like to give your friend on their birthday?"
+       ],
+       "correctIndex": 2,
+       "explanation": "バレンタインデーに何かあげたことがありますか。何をあげましたか。"
+      },
+      {
+       "id": "e38",
+       "type": "multipleChoice",
+       "prompt": "What does バレンタインデーに何かもらったことがありますか。何をもらいましたか。 mean?",
+       "options": [
+        "What did you receive for your birthday last year?",
+        "Have you ever received something on Valentine’s Day? What did you receive?",
+        "What did you give your family on their birthdays?",
+        "What would you like to give your friend on their birthday?"
+       ],
+       "correctIndex": 1,
+       "explanation": "バレンタインデーに何かもらったことがありますか。何をもらいましたか。"
+      },
+      {
+       "id": "e39",
+       "type": "multipleChoice",
+       "prompt": "What does あなたの国ではお正月に何をあげますか。だれがだれにあげますか。 mean?",
+       "options": [
+        "What do people give at New Year in your country? Who gives to whom?",
+        "What did you give your family on their birthdays?",
+        "What would you like to give your friend on their birthday?",
+        "What did you receive for your birthday last year?"
+       ],
+       "correctIndex": 0,
+       "explanation": "あなたの国ではお正月に何をあげますか。だれがだれにあげますか。"
+      },
+      {
+       "id": "e40",
+       "type": "multipleChoice",
+       "prompt": "What does 一番うれしかったプレゼントは何ですか。だれにもらいましたか。 mean?",
+       "options": [
+        "What did you give your family on their birthdays?",
+        "What would you like to give your friend on their birthday?",
+        "What was the present that made you happiest? Who gave it to you?",
+        "What did you receive for your birthday last year?"
+       ],
+       "correctIndex": 2,
+       "explanation": "一番うれしかったプレゼントは何ですか。だれにもらいましたか。"
+      },
+      {
+       "id": "e41",
+       "type": "multipleChoice",
+       "prompt": "What does 一番うれしくなかったプレゼントは何ですか。だれにもらいましたか。 mean?",
+       "options": [
+        "What did you receive for your birthday last year?",
+        "What would you like to give your friend on their birthday?",
+        "What was the present that made you least happy? Who gave it to you?",
+        "What did you give your family on their birthdays?"
+       ],
+       "correctIndex": 2,
+       "explanation": "一番うれしくなかったプレゼントは何ですか。だれにもらいましたか。"
+      },
+      {
+       "id": "e42",
+       "type": "fillBlank",
+       "prompt": "車より___のほうがほしいです。",
+       "options": [
+        "どう",
+        "いくつ",
+        "どちら",
+        "パソコン"
+       ],
+       "correctIndex": 3,
+       "explanation": "車よりパソコンのほうが."
+      },
+      {
+       "id": "e43",
+       "type": "fillBlank",
+       "prompt": "子供の時、ゲーム___ほしかったです。",
+       "options": [
+        "を",
+        "に",
+        "で",
+        "が"
+       ],
+       "correctIndex": 3,
+       "explanation": "ゲームがほしかった."
+      },
+      {
+       "id": "e44",
+       "type": "fillBlank",
+       "prompt": "女の人は学生じゃない___しれません。",
+       "options": [
+        "かも",
+        "だけ",
+        "しか",
+        "ほど"
+       ],
+       "correctIndex": 0,
+       "explanation": "じゃないかもしれません."
+      },
+      {
+       "id": "e45",
+       "type": "fillBlank",
+       "prompt": "男の人は結婚して___かもしれません。",
+       "options": [
+        "います",
+        "いた",
+        "いて",
+        "いる"
+       ],
+       "correctIndex": 3,
+       "explanation": "結婚しているかもしれません."
+      },
+      {
+       "id": "e46",
+       "type": "fillBlank",
+       "prompt": "女の人はきのうテニスを___かもしれません。",
+       "options": [
+        "する",
+        "して",
+        "した",
+        "します"
+       ],
+       "correctIndex": 2,
+       "explanation": "past + かもしれません."
+      },
+      {
+       "id": "e47",
+       "type": "fillBlank",
+       "prompt": "母に本を___。 (I will give)",
+       "options": [
+        "ください",
+        "あげます",
+        "くれます",
+        "もらいます"
+       ],
+       "correctIndex": 1,
+       "explanation": "あげます."
+      },
+      {
+       "id": "e48",
+       "type": "fillBlank",
+       "prompt": "兄が時計を___。 (gave me)",
+       "options": [
+        "あげました",
+        "ください",
+        "もらいました",
+        "くれました"
+       ],
+       "correctIndex": 3,
+       "explanation": "くれました."
+      },
+      {
+       "id": "e49",
+       "type": "fillBlank",
+       "prompt": "兄___時計をもらいました。",
+       "options": [
+        "が",
+        "を",
+        "に",
+        "で"
+       ],
+       "correctIndex": 2,
+       "explanation": "兄にもらいました."
+      }
+     ]
+    },
+    {
+     "id": "ja_172",
+     "title": "172. Practice 2: ～たらどうですか, counters, も and しか, review",
+     "subtitle": "新聞を見たらどうですか · 魚が五匹います · 四時間も勉強しました · 三十分しか勉強しませんでした · お正月にお年玉をあげます",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "IV. 家に帰ったらどうですか: A. give advice",
+       "body": "Give advice to Mary (who wants a job in Japan), John (who wants a girlfriend but cannot get one) and Ken (who wants to marry his girlfriend). The example is メアリー／check newspaper → 新聞を見たらどうですか。 My answers:",
+       "tables": [
+        {
+         "headers": [
+          "Cue",
+          "Advice"
+         ],
+         "rows": [
+          [
+           "(ex) メアリー／新聞を見る",
+           "新聞を見たらどうですか。"
+          ],
+          [
+           "(1) 先生に相談する",
+           "先生に相談したらどうですか。"
+          ],
+          [
+           "(2) 会社に履歴書を送る",
+           "会社に履歴書を送ったらどうですか。"
+          ],
+          [
+           "(3) パーティーに行く",
+           "パーティーに行ったらどうですか。"
+          ],
+          [
+           "(4) サークルに入る",
+           "サークルに入ったらどうですか。"
+          ],
+          [
+           "(5) あきらめる",
+           "あきらめたらどうですか。"
+          ],
+          [
+           "(6) プロポーズする",
+           "プロポーズしたらどうですか。"
+          ],
+          [
+           "(7) 彼女に指輪をあげる",
+           "彼女に指輪をあげたらどうですか。"
+          ],
+          [
+           "(8) 彼女の両親に会う",
+           "彼女の両親に会ったらどうですか。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "IV. B: advice for each comment",
+       "body": "Give your partner suggestions with ～たらどうですか. The example is 頭が痛いんです。 → じゃあ、家に帰ったらどうですか。 My versions of the nine comments (the book’s ninth comment is 彼／彼女がけちで、何もくれないんです。 and my answer is じゃあ、別れたらどうですか。):",
+       "tables": [
+        {
+         "headers": [
+          "Comment",
+          "Advice"
+         ],
+         "rows": [
+          [
+           "頭が痛いんです。",
+           "じゃあ、家に帰ったらどうですか。"
+          ],
+          [
+           "おいしいケーキが食べたいんです。",
+           "じゃあ、ケーキ屋さんに行ったらどうですか。"
+          ],
+          [
+           "安いカメラがほしいんです。",
+           "じゃあ、インターネットで探したらどうですか。"
+          ],
+          [
+           "ちょっと太ったんです。",
+           "じゃあ、運動したらどうですか。"
+          ],
+          [
+           "このごろ疲れているんです。",
+           "じゃあ、早く寝たらどうですか。"
+          ],
+          [
+           "勉強が大きらいなんです。",
+           "じゃあ、友だちと勉強したらどうですか。"
+          ],
+          [
+           "よく寝られないんです。",
+           "じゃあ、寝る前にお茶を飲んだらどうですか。"
+          ],
+          [
+           "友だちができないんです。",
+           "じゃあ、サークルに入ったらどうですか。"
+          ],
+          [
+           "お金がないんです。",
+           "じゃあ、アルバイトをしたらどうですか。"
+          ]
+         ],
+         "speakCols": [
+          0,
+          1
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "彼がけちで、何もくれないんです。",
+         "translation": "Kare ga kechi de, nani mo kurenai n desu. — He is stingy and gives me nothing. (the book’s comment 9)"
+        },
+        {
+         "text": "じゃあ、別れたらどうですか。",
+         "translation": "Jaa, wakaretara doo desu ka. — Then why don’t you break up with him? (my answer)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "IV. C: group work—asking for advice",
+       "body": "You have a problem; ask your classmates for advice. The book’s model dialogue:",
+       "tables": [],
+       "examples": [
+        {
+         "text": "日本人の友だちがほしいんですが、できないんです。どうしたらいいですか。",
+         "translation": "Nihonjin no tomodachi ga hoshii n desu ga, dekinai n desu. Doo shitara ii desu ka. — I want a Japanese friend, but I cannot make one. What should I do? (the book’s example)"
+        },
+        {
+         "text": "じゃあ、サークルに入ったらどうですか。",
+         "translation": "Jaa, saakuru ni haittara doo desu ka. — Then why don’t you join a club? (the book’s example)"
+        },
+        {
+         "text": "うーん。忙しいから、サークルはちょっと。",
+         "translation": "Uun. Isogashii kara, saakuru wa chotto. — Hmm. I’m busy, so a club is a little… (the book’s example)"
+        },
+        {
+         "text": "じゃあ、日本語の先生に相談したらどうですか。",
+         "translation": "Jaa, nihongo no sensee ni soodan shitara doo desu ka. — Then why don’t you consult your Japanese teacher? (the book’s example)"
+        },
+        {
+         "text": "わかりました。そうします。ありがとうございます。",
+         "translation": "Wakarimashita. Soo shimasu. Arigatoo gozaimasu. — I understand. I’ll do that. Thank you. (the book’s example)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "V. 四時間も勉強しました: A. describe the picture using counters",
+       "body": "The picture shows a room with a fish tank, a cat, flowers, a necktie, books, a radio, DVDs, magazines, pencils, glasses and plates. The example is 魚が五匹います。 The counts depend on the picture, so the numbers below are my reading of it:",
+       "tables": [
+        {
+         "headers": [
+          "Item",
+          "Sentence"
+         ],
+         "rows": [
+          [
+           "(ex) 魚",
+           "魚が五匹います。"
+          ],
+          [
+           "(1) 猫",
+           "猫が二匹います。"
+          ],
+          [
+           "(2) 花",
+           "花が五本あります。"
+          ],
+          [
+           "(3) ネクタイ",
+           "ネクタイが二本あります。"
+          ],
+          [
+           "(4) 本",
+           "本が三冊あります。"
+          ],
+          [
+           "(5) ラジオ",
+           "ラジオが一台あります。"
+          ],
+          [
+           "(6) ディーブイディー",
+           "ディーブイディーが四枚あります。"
+          ],
+          [
+           "(7) 雑誌",
+           "雑誌が三冊あります。"
+          ],
+          [
+           "(8) えんぴつ",
+           "えんぴつが二本あります。"
+          ],
+          [
+           "(9) グラス",
+           "グラスが二個あります。"
+          ],
+          [
+           "(10) 皿",
+           "皿が三枚あります。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "V. B: describe with も or しか",
+       "body": "Compare Mary and John with も (as many as) or しか (only). The example: 勉強しました。→ メアリーさんは四時間も勉強しました。 ジョンさんは三十分しか勉強しませんでした。 My answers from the chart (my reading of the pictures):",
+       "tables": [
+        {
+         "headers": [
+          "Cue",
+          "Sentences"
+         ],
+         "rows": [
+          [
+           "(ex) 勉強しました",
+           "メアリーさんは四時間も勉強しました。ジョンさんは三十分しか勉強しませんでした。"
+          ],
+          [
+           "(1) 食べました",
+           "メアリーさんはハンバーガーを一個しか食べませんでした。ジョンさんは四個も食べました。"
+          ],
+          [
+           "(2) 読みました",
+           "メアリーさんは本を一冊しか読みませんでした。ジョンさんは六冊も読みました。"
+          ],
+          [
+           "(3) 持っています",
+           "メアリーさんはシーディーを五十枚も持っています。ジョンさんは二枚しか持っていません。"
+          ],
+          [
+           "(4) 飲みました",
+           "メアリーさんはジュースを三本も飲みました。ジョンさんは一本しか飲みませんでした。"
+          ],
+          [
+           "(5) 寝ます",
+           "メアリーさんは十一時間も寝ます。ジョンさんは五時間しか寝ません。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "V. C: pair work—questions with も and しか",
+       "body": "Ask your partner these seven questions and respond with しか or も when appropriate. The book’s example: まんがを何冊持っていますか。 一冊持っています。 えっ、一冊しか持っていないんですか。 ええ、興味がありませんから。 または 百冊ぐらい持っています。 えっ、百冊も持っているんですか。 日本のまんがが大好きですから。 My sample answers:",
+       "tables": [
+        {
+         "headers": [
+          "Question",
+          "Sample answer"
+         ],
+         "rows": [
+          [
+           "まんがを何冊持っていますか。",
+           "一冊しか持っていません。、百冊ぐらい持っています。"
+          ],
+          [
+           "今いくら持っていますか。",
+           "千円しか持っていません。"
+          ],
+          [
+           "きのう何時間勉強しましたか。",
+           "二時間しか勉強しませんでした。"
+          ],
+          [
+           "一か月に映画を何本ぐらい見ますか。",
+           "四本ぐらい見ます。"
+          ],
+          [
+           "今学期、授業をいくつ取っていますか。",
+           "五つも取っています。"
+          ],
+          [
+           "今学期、授業を何回サボりましたか。",
+           "一回もサボりませんでした。"
+          ],
+          [
+           "将来、子供が何人ほしいですか。",
+           "二人ほしいです。"
+          ],
+          [
+           "セーターを何枚持っていますか。",
+           "十枚も持っています。"
+          ]
+         ],
+         "speakCols": [
+          0,
+          1
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "えっ、一冊しか持っていないんですか。",
+         "translation": "E, issatsu shika motte inai n desu ka. — What, you have only one? (the book’s example)"
+        },
+        {
+         "text": "えっ、百冊も持っているんですか。",
+         "translation": "E, hyakusatsu mo motte iru n desu ka. — What, you have as many as a hundred? (the book’s example)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "VI. まとめの練習: A, B and C",
+       "body": "A: choose one of the special days celebrated in your country and talk about it. The book’s example: みなさんの国には「先生の日」がありますか。私の国では、五月十五日は「先生の日」です。学生は先生に花やカードをあげます。 B: Show and Tell: bring something that you have received from someone and talk about it (これは指輪です。誕生日に母がくれました。将来、私の子供にあげたいです。). C: role play with actual items, using Dialogue I as a model.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "私の国では、五月十五日は「先生の日」です。",
+         "translation": "Watashi no kuni de wa, gogatsu juugonichi wa “sensee no hi” desu. — In my country, May 15th is “Teachers’ Day”. (the book’s example)"
+        },
+        {
+         "text": "学生は先生に花やカードをあげます。",
+         "translation": "Gakusee wa sensee ni hana ya kaado o agemasu. — Students give teachers flowers and cards. (the book’s example)"
+        },
+        {
+         "text": "これは指輪です。誕生日に母がくれました。",
+         "translation": "Kore wa yubiwa desu. Tanjoobi ni haha ga kuremashita. — This is a ring. My mother gave it to me for my birthday. (the book’s example)"
+        },
+        {
+         "text": "将来、私の子供にあげたいです。",
+         "translation": "Shoorai, watashi no kodomo ni agetai desu. — I want to give it to my child in the future. (the book’s example)"
+        }
+       ],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What is the advice for (1) 先生に相談する?",
+       "options": [
+        "先生に相談したらどうですか。",
+        "パーティーに行ったらどうですか。",
+        "新聞を見たらどうですか。",
+        "会社に履歴書を送ったらどうですか。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(1) 先生に相談する"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What is the advice for (2) 会社に履歴書を送る?",
+       "options": [
+        "新聞を見たらどうですか。",
+        "パーティーに行ったらどうですか。",
+        "先生に相談したらどうですか。",
+        "会社に履歴書を送ったらどうですか。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(2) 会社に履歴書を送る"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What is the advice for (3) パーティーに行く?",
+       "options": [
+        "会社に履歴書を送ったらどうですか。",
+        "先生に相談したらどうですか。",
+        "新聞を見たらどうですか。",
+        "パーティーに行ったらどうですか。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(3) パーティーに行く"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What is the advice for (4) サークルに入る?",
+       "options": [
+        "会社に履歴書を送ったらどうですか。",
+        "サークルに入ったらどうですか。",
+        "先生に相談したらどうですか。",
+        "新聞を見たらどうですか。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(4) サークルに入る"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What is the advice for (5) あきらめる?",
+       "options": [
+        "先生に相談したらどうですか。",
+        "あきらめたらどうですか。",
+        "新聞を見たらどうですか。",
+        "会社に履歴書を送ったらどうですか。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(5) あきらめる"
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What is the advice for (6) プロポーズする?",
+       "options": [
+        "プロポーズしたらどうですか。",
+        "先生に相談したらどうですか。",
+        "新聞を見たらどうですか。",
+        "会社に履歴書を送ったらどうですか。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(6) プロポーズする"
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What is the advice for (7) 彼女に指輪をあげる?",
+       "options": [
+        "新聞を見たらどうですか。",
+        "先生に相談したらどうですか。",
+        "彼女に指輪をあげたらどうですか。",
+        "会社に履歴書を送ったらどうですか。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(7) 彼女に指輪をあげる"
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What is the advice for (8) 彼女の両親に会う?",
+       "options": [
+        "先生に相談したらどうですか。",
+        "彼女の両親に会ったらどうですか。",
+        "新聞を見たらどうですか。",
+        "会社に履歴書を送ったらどうですか。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(8) 彼女の両親に会う"
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "What is a good answer to: 頭が痛いんです。",
+       "options": [
+        "じゃあ、ケーキ屋さんに行ったらどうですか。",
+        "じゃあ、インターネットで探したらどうですか。",
+        "じゃあ、運動したらどうですか。",
+        "じゃあ、家に帰ったらどうですか。"
+       ],
+       "correctIndex": 3,
+       "explanation": "頭が痛いんです。"
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What is a good answer to: おいしいケーキが食べたいんです。",
+       "options": [
+        "じゃあ、インターネットで探したらどうですか。",
+        "じゃあ、運動したらどうですか。",
+        "じゃあ、ケーキ屋さんに行ったらどうですか。",
+        "じゃあ、家に帰ったらどうですか。"
+       ],
+       "correctIndex": 2,
+       "explanation": "おいしいケーキが食べたいんです。"
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What is a good answer to: 安いカメラがほしいんです。",
+       "options": [
+        "じゃあ、インターネットで探したらどうですか。",
+        "じゃあ、ケーキ屋さんに行ったらどうですか。",
+        "じゃあ、運動したらどうですか。",
+        "じゃあ、家に帰ったらどうですか。"
+       ],
+       "correctIndex": 0,
+       "explanation": "安いカメラがほしいんです。"
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "What is a good answer to: ちょっと太ったんです。",
+       "options": [
+        "じゃあ、インターネットで探したらどうですか。",
+        "じゃあ、ケーキ屋さんに行ったらどうですか。",
+        "じゃあ、家に帰ったらどうですか。",
+        "じゃあ、運動したらどうですか。"
+       ],
+       "correctIndex": 3,
+       "explanation": "ちょっと太ったんです。"
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "What is a good answer to: このごろ疲れているんです。",
+       "options": [
+        "じゃあ、早く寝たらどうですか。",
+        "じゃあ、ケーキ屋さんに行ったらどうですか。",
+        "じゃあ、家に帰ったらどうですか。",
+        "じゃあ、インターネットで探したらどうですか。"
+       ],
+       "correctIndex": 0,
+       "explanation": "このごろ疲れているんです。"
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "What is a good answer to: 勉強が大きらいなんです。",
+       "options": [
+        "じゃあ、インターネットで探したらどうですか。",
+        "じゃあ、ケーキ屋さんに行ったらどうですか。",
+        "じゃあ、家に帰ったらどうですか。",
+        "じゃあ、友だちと勉強したらどうですか。"
+       ],
+       "correctIndex": 3,
+       "explanation": "勉強が大きらいなんです。"
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "What is a good answer to: よく寝られないんです。",
+       "options": [
+        "じゃあ、ケーキ屋さんに行ったらどうですか。",
+        "じゃあ、インターネットで探したらどうですか。",
+        "じゃあ、家に帰ったらどうですか。",
+        "じゃあ、寝る前にお茶を飲んだらどうですか。"
+       ],
+       "correctIndex": 3,
+       "explanation": "よく寝られないんです。"
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "What is a good answer to: 友だちができないんです。",
+       "options": [
+        "じゃあ、ケーキ屋さんに行ったらどうですか。",
+        "じゃあ、サークルに入ったらどうですか。",
+        "じゃあ、インターネットで探したらどうですか。",
+        "じゃあ、家に帰ったらどうですか。"
+       ],
+       "correctIndex": 1,
+       "explanation": "友だちができないんです。"
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "What is a good answer to: お金がないんです。",
+       "options": [
+        "じゃあ、インターネットで探したらどうですか。",
+        "じゃあ、ケーキ屋さんに行ったらどうですか。",
+        "じゃあ、アルバイトをしたらどうですか。",
+        "じゃあ、家に帰ったらどうですか。"
+       ],
+       "correctIndex": 2,
+       "explanation": "お金がないんです。"
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (ex) 魚?",
+       "options": [
+        "ネクタイが二本あります。",
+        "花が五本あります。",
+        "猫が二匹います。",
+        "魚が五匹います。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(ex) 魚"
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (1) 猫?",
+       "options": [
+        "猫が二匹います。",
+        "花が五本あります。",
+        "魚が五匹います。",
+        "ネクタイが二本あります。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(1) 猫"
+      },
+      {
+       "id": "e20",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (2) 花?",
+       "options": [
+        "魚が五匹います。",
+        "ネクタイが二本あります。",
+        "花が五本あります。",
+        "猫が二匹います。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(2) 花"
+      },
+      {
+       "id": "e21",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (3) ネクタイ?",
+       "options": [
+        "猫が二匹います。",
+        "花が五本あります。",
+        "魚が五匹います。",
+        "ネクタイが二本あります。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(3) ネクタイ"
+      },
+      {
+       "id": "e22",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (4) 本?",
+       "options": [
+        "魚が五匹います。",
+        "本が三冊あります。",
+        "猫が二匹います。",
+        "花が五本あります。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(4) 本"
+      },
+      {
+       "id": "e23",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (5) ラジオ?",
+       "options": [
+        "花が五本あります。",
+        "ラジオが一台あります。",
+        "魚が五匹います。",
+        "猫が二匹います。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(5) ラジオ"
+      },
+      {
+       "id": "e24",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (6) ディーブイディー?",
+       "options": [
+        "花が五本あります。",
+        "ディーブイディーが四枚あります。",
+        "魚が五匹います。",
+        "猫が二匹います。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(6) ディーブイディー"
+      },
+      {
+       "id": "e25",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (7) 雑誌?",
+       "options": [
+        "雑誌が三冊あります。",
+        "花が五本あります。",
+        "魚が五匹います。",
+        "猫が二匹います。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(7) 雑誌"
+      },
+      {
+       "id": "e26",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (8) えんぴつ?",
+       "options": [
+        "えんぴつが二本あります。",
+        "魚が五匹います。",
+        "猫が二匹います。",
+        "花が五本あります。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(8) えんぴつ"
+      },
+      {
+       "id": "e27",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (9) グラス?",
+       "options": [
+        "グラスが二個あります。",
+        "猫が二匹います。",
+        "魚が五匹います。",
+        "花が五本あります。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(9) グラス"
+      },
+      {
+       "id": "e28",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (10) 皿?",
+       "options": [
+        "皿が三枚あります。",
+        "猫が二匹います。",
+        "花が五本あります。",
+        "魚が五匹います。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(10) 皿"
+      },
+      {
+       "id": "e29",
+       "type": "multipleChoice",
+       "prompt": "Which sentences match (ex) 勉強しました?",
+       "options": [
+        "メアリーさんは四時間も勉強しました。ジョンさんは三十分しか勉強しませんでした。",
+        "メアリーさんはシーディーを五十枚も持っています。ジョンさんは二枚しか持っていません。",
+        "メアリーさんはハンバーガーを一個しか食べませんでした。ジョンさんは四個も食べました。",
+        "メアリーさんは本を一冊しか読みませんでした。ジョンさんは六冊も読みました。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(ex) 勉強しました"
+      },
+      {
+       "id": "e30",
+       "type": "multipleChoice",
+       "prompt": "Which sentences match (1) 食べました?",
+       "options": [
+        "メアリーさんは四時間も勉強しました。ジョンさんは三十分しか勉強しませんでした。",
+        "メアリーさんはハンバーガーを一個しか食べませんでした。ジョンさんは四個も食べました。",
+        "メアリーさんはシーディーを五十枚も持っています。ジョンさんは二枚しか持っていません。",
+        "メアリーさんは本を一冊しか読みませんでした。ジョンさんは六冊も読みました。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(1) 食べました"
+      },
+      {
+       "id": "e31",
+       "type": "multipleChoice",
+       "prompt": "Which sentences match (2) 読みました?",
+       "options": [
+        "メアリーさんはハンバーガーを一個しか食べませんでした。ジョンさんは四個も食べました。",
+        "メアリーさんはシーディーを五十枚も持っています。ジョンさんは二枚しか持っていません。",
+        "メアリーさんは本を一冊しか読みませんでした。ジョンさんは六冊も読みました。",
+        "メアリーさんは四時間も勉強しました。ジョンさんは三十分しか勉強しませんでした。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(2) 読みました"
+      },
+      {
+       "id": "e32",
+       "type": "multipleChoice",
+       "prompt": "Which sentences match (3) 持っています?",
+       "options": [
+        "メアリーさんは四時間も勉強しました。ジョンさんは三十分しか勉強しませんでした。",
+        "メアリーさんは本を一冊しか読みませんでした。ジョンさんは六冊も読みました。",
+        "メアリーさんはシーディーを五十枚も持っています。ジョンさんは二枚しか持っていません。",
+        "メアリーさんはハンバーガーを一個しか食べませんでした。ジョンさんは四個も食べました。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(3) 持っています"
+      },
+      {
+       "id": "e33",
+       "type": "multipleChoice",
+       "prompt": "Which sentences match (4) 飲みました?",
+       "options": [
+        "メアリーさんはジュースを三本も飲みました。ジョンさんは一本しか飲みませんでした。",
+        "メアリーさんはハンバーガーを一個しか食べませんでした。ジョンさんは四個も食べました。",
+        "メアリーさんは本を一冊しか読みませんでした。ジョンさんは六冊も読みました。",
+        "メアリーさんは四時間も勉強しました。ジョンさんは三十分しか勉強しませんでした。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(4) 飲みました"
+      },
+      {
+       "id": "e34",
+       "type": "multipleChoice",
+       "prompt": "Which sentences match (5) 寝ます?",
+       "options": [
+        "メアリーさんは四時間も勉強しました。ジョンさんは三十分しか勉強しませんでした。",
+        "メアリーさんは十一時間も寝ます。ジョンさんは五時間しか寝ません。",
+        "メアリーさんはハンバーガーを一個しか食べませんでした。ジョンさんは四個も食べました。",
+        "メアリーさんは本を一冊しか読みませんでした。ジョンさんは六冊も読みました。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(5) 寝ます"
+      },
+      {
+       "id": "e35",
+       "type": "multipleChoice",
+       "prompt": "What does 私の国では、五月十五日は「先生の日」です。 mean?",
+       "options": [
+        "In my country, May 15th is “Teachers’ Day”.",
+        "This is a ring. My mother gave it to me for my birthday."
+       ],
+       "correctIndex": 0,
+       "explanation": "私の国では、五月十五日は「先生の日」です。"
+      },
+      {
+       "id": "e36",
+       "type": "multipleChoice",
+       "prompt": "What does これは指輪です。誕生日に母がくれました。 mean?",
+       "options": [
+        "In my country, May 15th is “Teachers’ Day”.",
+        "This is a ring. My mother gave it to me for my birthday."
+       ],
+       "correctIndex": 1,
+       "explanation": "これは指輪です。誕生日に母がくれました。"
+      },
+      {
+       "id": "e37",
+       "type": "fillBlank",
+       "prompt": "新聞を見た___どうですか。",
+       "options": [
+        "ば",
+        "て",
+        "と",
+        "ら"
+       ],
+       "correctIndex": 3,
+       "explanation": "見たらどうですか."
+      },
+      {
+       "id": "e38",
+       "type": "fillBlank",
+       "prompt": "サークルに入っ___どうですか。",
+       "options": [
+        "ても",
+        "たら",
+        "れば",
+        "ると"
+       ],
+       "correctIndex": 1,
+       "explanation": "入ったらどうですか."
+      },
+      {
+       "id": "e39",
+       "type": "fillBlank",
+       "prompt": "プロポーズし___どうですか。",
+       "options": [
+        "たら",
+        "ても",
+        "ると",
+        "れば"
+       ],
+       "correctIndex": 0,
+       "explanation": "したらどうですか."
+      },
+      {
+       "id": "e40",
+       "type": "fillBlank",
+       "prompt": "どう___いいですか。 (what should I do)",
+       "options": [
+        "した",
+        "する",
+        "したら",
+        "して"
+       ],
+       "correctIndex": 2,
+       "explanation": "どうしたらいいですか."
+      },
+      {
+       "id": "e41",
+       "type": "fillBlank",
+       "prompt": "魚が五___います。",
+       "options": [
+        "匹",
+        "冊",
+        "台",
+        "本"
+       ],
+       "correctIndex": 0,
+       "explanation": "五匹."
+      },
+      {
+       "id": "e42",
+       "type": "fillBlank",
+       "prompt": "本が三___あります。",
+       "options": [
+        "匹",
+        "冊",
+        "本",
+        "台"
+       ],
+       "correctIndex": 1,
+       "explanation": "三冊."
+      },
+      {
+       "id": "e43",
+       "type": "fillBlank",
+       "prompt": "ラジオが一___あります。",
+       "options": [
+        "本",
+        "台",
+        "冊",
+        "匹"
+       ],
+       "correctIndex": 1,
+       "explanation": "一台."
+      },
+      {
+       "id": "e44",
+       "type": "fillBlank",
+       "prompt": "ディーブイディーが四___あります。",
+       "options": [
+        "冊",
+        "匹",
+        "本",
+        "枚"
+       ],
+       "correctIndex": 3,
+       "explanation": "四枚."
+      },
+      {
+       "id": "e45",
+       "type": "fillBlank",
+       "prompt": "メアリーさんは四時間___勉強しました。 (as many as)",
+       "options": [
+        "は",
+        "だけ",
+        "も",
+        "しか"
+       ],
+       "correctIndex": 2,
+       "explanation": "四時間も."
+      },
+      {
+       "id": "e46",
+       "type": "fillBlank",
+       "prompt": "ジョンさんは三十分___勉強しませんでした。 (only)",
+       "options": [
+        "も",
+        "は",
+        "しか",
+        "だけ"
+       ],
+       "correctIndex": 2,
+       "explanation": "三十分しか."
+      },
+      {
+       "id": "e47",
+       "type": "fillBlank",
+       "prompt": "一回___サボりませんでした。 (not even once)",
+       "options": [
+        "は",
+        "も",
+        "しか",
+        "だけ"
+       ],
+       "correctIndex": 1,
+       "explanation": "一回も + negative."
       }
      ]
     }
