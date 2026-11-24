@@ -1369,6 +1369,7 @@ left out" card.
 | 8. Genki I, Lesson 5: A Trip to Okinawa | 49-56 | dialogue, vocabulary, adjectives (い and な), present, negative and past forms, adjective + noun, から and まで, expression notes, drills |
 | 9. Genki I, Lesson 6: A Day in Robert's Life | 57-64 | three-scene dialogue, vocabulary, the te-form of 50 verbs, てください, てもいいです, てはいけません, joining verbs with て, から, ましょうか, school system, asking directions, drills |
 | 10. Genki I, Lesson 7: Family Picture | 65-72 | dialogue, vocabulary, ～ている (action in progress and result of a change), describing people (髪が長い), te-forms of adjectives and nouns, verb stem + に行く, counting people, 遊ぶ, 知る/わかる, kinship terms, parts of the body, drills |
+| 11. Genki I, Lesson 8: Barbecue | 73-80 | dialogue, vocabulary, short forms (affirmative and negative), informal speech, ～と思います, ～と言っていました, ～ないでください, verb + のが好きです / 上手, だれが, 何か and 何も, ～する nouns, foods in Japan, drills |
 
 No native speaker has reviewed these lessons. `test/japanese_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
 and that spoken cells and example lines are Japanese text. It has not been run (no Flutter SDK here); the Python build runs the same checks.
