@@ -1374,6 +1374,9 @@ left out" card.
 | 13. Genki I, Lesson 10: Winter Vacation Plans | 88-95 | dialogues (home and travel agency), vocabulary, comparisons (のほうが … より, いちばん), の (one), つもり, なる, どこかに／どこにも, で (means), how long it takes, culture note on Japanese public transportation, at the station, drills |
 | 14. Genki I, Lesson 11: After the Vacation | 96-103 | dialogues, vocabulary (incl. occupations), たい and たがる, たり〜たりする, ことがある, や, は in negatives, だけ, に, ドライブ and 夢, the お正月 culture note, useful expressions in the Japanese class, drills |
 | 15. Genki I, Lesson 12: Feeling Ill | 104-112 | dialogues, vocabulary, ～んです, ～すぎる, ～ほうがいい, ～ので, ～なければいけません／なきゃいけません, ～でしょう, the Japanese climate culture note, health and illness expressions and clinic vocabulary, drills |
+| 16. Genki I, Reading & Writing 3: Daily Life | 113-116 | the kanji 一 to 十, 百 千 万 円 時 with their on-yomi, kun-yomi and the book's example words, sound changes with big numbers, reading and writing prices in kanji, the daily-routine reading passage |
+| 17. Genki I, Reading & Writing 4: Mary's Weekend | 117-119 | the kanji 日 本 人 月 火 水 木 金 土 曜 上 下 中 半, the days of the week and the months, the book's matching and position drills, the memo to Mom and the weekend reading passage |
+| 18. Genki I, Reading & Writing 5: Travel | 120-123 | the kanji 山 川 元 気 天 私 今 田 女 男 見 行 食 飲, dates 一日 to 二十日, the picture-matching sentences, the katakana vocabulary, the Vienna and Okinawa postcards and Japanese addresses |
 
 No native speaker has reviewed these lessons. `test/japanese_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
 and that spoken cells and example lines are Japanese text. It has not been run (no Flutter SDK here); the Python build runs the same checks.
