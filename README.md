@@ -1363,6 +1363,9 @@ left out" card.
 | 2. Katakana and kanji | 9-13 | katakana, long-vowel mark, sounds for foreign words, what kanji are and how they are formed, katakana practice |
 | 3. Greetings | 14-16 | everyday greetings, the expression notes, practice and bowing |
 | 4. Genki I, Lesson 1: New Friends | 17-23 | dialogue, vocabulary, numbers to a hundred, time and age, X は Y です, questions, noun の noun, names, drills |
+| 5. Genki I, Lesson 2: Shopping | 24-31 | dialogue, vocabulary, numbers to 99,999 and yen, これ/それ/あれ, ここ/そこ/あそこ, だれの, も, じゃないです, ね and よ, expression notes, drills |
+| 6. Genki I, Lesson 3: Making a Date | 32-39 | dialogue, vocabulary, ます/ません forms, particles を で に へ, time に, ませんか, adverbs, topic は, Japanese houses, drills (kanji from here on) |
+| 7. Genki I, Lesson 4: The First Date | 40-48 | dialogue, vocabulary, あります/います, location words, past tense of です and verbs, も, duration, たくさん, と, national holidays, dates and time words, drills |
 
 No native speaker has reviewed these lessons. `test/japanese_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
 and that spoken cells and example lines are Japanese text. It has not been run (no Flutter SDK here); the Python build runs the same checks.

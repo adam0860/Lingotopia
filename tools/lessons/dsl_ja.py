@@ -275,7 +275,7 @@ def load_deck(path):
 
 def _loose(r):
     r = r.lower().replace("-", "").replace("'", "").replace(" ", "").replace(".", "").replace(",", "")
-    r = r.replace("?", "").replace("!", "").replace("“", "").replace("”", "")
+    r = r.replace("?", "").replace("!", "").replace("？", "").replace("！", "").replace("・", "").replace("“", "").replace("”", "")
     r = r.replace("ou", "oo").replace("ei", "ee").replace("wo", "o").replace("tch", "cch")
     return r
 
@@ -398,7 +398,9 @@ def check_ja(app, meta, deck):
             continue
         text = ja
         parts = []
-        for w in R.R._TAGGER(ja.replace(" ", "")) if False else R._TAGGER(ja.replace(" ", "")):
+        src = re.sub(r"([一二三四五六七八九十]+)時", r"\1じ", ja.replace(" ", "")).replace("ご飯", "ごはん")
+        src = re.sub(r"([一二三四五六七八九十]+)分", r"\1ふん", src)
+        for w in R._TAGGER(src):
             f = w.feature
             if f.pos1 == "助詞" and w.surface in ("は", "へ", "を"):
                 parts.append({"は": "わ", "へ": "え", "を": "お"}[w.surface])

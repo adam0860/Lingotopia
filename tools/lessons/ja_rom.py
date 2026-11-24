@@ -148,18 +148,37 @@ FIXES = {
     "にじゅっぷん": "ニジュップン", "にじっぷん": "ニジップン", "さんじゅっぷん": "サンジュップン", "さんじっぷん": "サンジップン",
     "いっぷん": "イップン", "ろっぷん": "ロップン", "はっぷん": "ハップン", "じゅっぷん": "ジュップン", "じっぷん": "ジップン", "さんぷん": "サンプン", "よんぷん": "ヨンプン",
     "おかあさん": "オカーサン", "おとうさん": "オトーサン", "おねえさん": "オネーサン", "おにいさん": "オニーサン", "おじいさん": "オジーサン", "おばあさん": "オバーサン",
-    "にほんじん": "ニホンジン", "こうこう": "高校", "こくさいかんけい": "国際関係", "じんるいがく": "人類学", "しゅふ": "主婦", "アジアけんきゅう": "アジア けんきゅう",
+    "にほんじん": "ニホンジン", "はつか": "二十日", "日本": "ニホン", "ごろうち": "ごろ うち", "こうこう": "高校", "こくさいかんけい": "国際関係", "じんるいがく": "人類学", "しゅふ": "主婦", "アジアけんきゅう": "アジア けんきゅう",
     "じゅうにじはん": "十二時 はん", "やましたせんせい": "ヤマシタ せんせい", "じゅうにじ": "十二時", "じゅういちじ": "十一時", "じはん": "じ はん",
     "やました": "ヤマシタ", "なんねんせい": "ナンネンセー", "でんわばんごう": "でんわ ばんごう", "おねがいします": "オネガイシマス",
     "アリゾナだいがく": "アリゾナ だいがく", "さくらだいがく": "さくら だいがく", "ロンドンだいがく": "ロンドン だいがく", "ソウルだいがく": "ソウル だいがく", "にほんだいがく": "にほん だいがく", "ハワイだいがく": "ハワイ だいがく",
-    "よんじゅうなな": "ヨンジュウナナ", "よんじゅうはっ": "ヨンジュウハッ", "よんじゅうご": "ヨンジュウゴ", "にじゅうに": "ニジュウニ", "にじゅうさん": "ニジュウサン", "じゅうろく": "ジュウロク",
-    "じしょ": "辞書", "しょくじ": "食事", "じてんしゃ": "自転車",
+    "よんじゅうなな": "ヨンジュウナナ", "よんじゅうはっ": "ヨンジュウハッ", "よんじゅうご": "ヨンジュウゴ",
+    "今日": "きょう", "私": "わたし", "日本語": "ニホンゴ", "日本人": "ニホンジン", "九時": "くじ", "九月": "くがつ", "四時": "よじ", "七時": "しちじ", "四月": "しがつ", "七月": "しちがつ",
+    "月曜日": "げつようび", "火曜日": "かようび", "水曜日": "すいようび", "木曜日": "もくようび", "金曜日": "きんようび", "土曜日": "ドヨービ", "どようび": "ドヨービ", "日曜日": "にちようび", "何曜日": "なんようび", "何を": "なにを", "何が": "なにが", "何も": "なにも", "何か": "なにか",
+    "いってきます": "イッテキマス", "ばんごはん": "バンゴハン", "ひるごはん": "ヒルゴハン", "明日": "あした", "何時": "なんじ", "どうも": "ドーモ", "かさ": "傘", "としょかん": "図書館", "じしょ": "辞書", "しょくじ": "食事", "じてんしゃ": "自転車",
 }
+
+
+FIXES.update({
+    "月曜日": "ゲツヨービ", "火曜日": "カヨービ", "水曜日": "スイヨービ", "木曜日": "モクヨービ", "金曜日": "キンヨービ", "日曜日": "ニチヨービ",
+    "かようび": "カヨービ", "すいようび": "スイヨービ", "きんようび": "キンヨービ", "もくようび": "モクヨービ", "げつようび": "ゲツヨービ", "にちようび": "ニチヨービ",
+    "山下先生": "ヤマシタ せんせい", "さくら大学": "サクラ だいがく", "京都": "キョート", "大阪": "オーサカ", "韓国": "かんこく", "広島": "ヒロシマ", "東京": "トーキョー",
+    "ほんや": "ホンヤ", "本屋": "ホンヤ", "バスてい": "バステイ", "だから": "ダカラ", "ごめんなさい": "ゴメンナサイ", "どうして": "ドーシテ", "おかえりなさい": "オカエリナサイ",
+    "いつか": "五日", "むいか": "六日", "ようか": "八日", "ここのか": "九日", "とおか": "十日",
+    "いちがつ": "イチガツ", "じゅういちがつ": "ジューイチガツ", "じゅうにがつ": "ジューニガツ", "じゅうがつ": "ジューガツ", "にがつ": "ニガツ", "さんがつ": "サンガツ", "しがつ": "シガツ", "ろくがつ": "ロクガツ",
+    "しちがつ": "シチガツ", "はちがつ": "ハチガツ", "くがつ": "クガツ",
+    "にしゅうかんまえ": "ニシューカンマエ", "こんしゅう": "コンシュー", "さらいしゅう": "サライシュー", "にかげつまえ": "ニカゲツマエ", "らいねん": "ライネン", "さらいねん": "サライネン", "こんげつ": "コンゲツ",
+    "じゅういちにち": "ジューイチニチ", "じゅうににち": "ジューニニチ", "じゅうさんにち": "ジューサンニチ", "じゅうよっか": "ジューヨッカ", "じゅうごにち": "ジューゴニチ", "じゅうろくにち": "ジューロクニチ",
+    "じゅうしちにち": "ジューシチニチ", "じゅうはちにち": "ジューハチニチ", "じゅうくにち": "ジュークニチ", "にじゅういちにち": "ニジューイチニチ", "にじゅうににち": "ニジューニニチ",
+    "にじゅうさんにち": "ニジューサンニチ", "にじゅうよっか": "ニジューヨッカ", "にじゅうごにち": "ニジューゴニチ", "にじゅうろくにち": "ニジューロクニチ", "にじゅうしちにち": "ニジューシチニチ",
+    "にじゅうはちにち": "ニジューハチニチ", "にじゅうくにち": "ニジュークニチ", "さんじゅうにち": "サンジューニチ", "さんじゅういちにち": "サンジューイチニチ",
+})
 
 
 def _apply_over(text, over):
     text = re.sub(r"ごじ(?![ゅょゃ])", "五時", text)
     text = re.sub(r"じゅうじ(?![ゅょゃ])", "十時", text)
+    text = re.sub(r"(?<![ぁ-ゖ])かう(?![ぁ-ゖ])", "買う", text)
     for k, v in sorted(FIXES.items(), key=lambda kv: -len(kv[0])):
         text = text.replace(k, v)
     if not over:
@@ -173,8 +192,19 @@ _HYPHEN = {"さん", "ちゃん", "くん", "君", "さま", "様", "さん"}
 _SEPARATE_AUX = {"です", "だ", "でしょう", "だろう"}
 
 
+_TIME_NOUNS = {"きのう", "せんしゅう", "こんしゅう", "らいしゅう", "さらいしゅう", "せんげつ", "こんげつ", "らいげつ", "きょねん", "ことし", "らいねん", "おととい", "おととし", "あさって", "今日", "明日", "毎日", "毎晩", "毎朝", "今晩", "今朝", "週末", "朝", "昼", "晩", "夜", "時々", "今", "来週", "先週", "去年", "来年", "今年", "今月", "昨日", "昨夜", "毎週", "毎月", "毎年", "毎", "ときどき", "きょう", "あした", "あさ", "ひる", "ばん", "よる", "こんばん", "しゅうまつ", "まいにち", "まいばん", "まいあさ", "いつも", "よく", "たいてい", "あまり", "ぜんぜん", "ちょっと"}
+
+
 def _joins(prev, cur):
     """True when cur is written together with the token before it (inside one space-separated chunk)."""
+    if cur["surface"] in ("ごろ", "ころ", "半", "ぐらい", "くらい"):
+        return False
+    if (prev["pos2"] == "助数詞" or prev["surface"] in ("時", "分", "月", "日", "円", "年", "秒")) and cur["pos2"] == "数詞":
+        return False
+    if prev["surface"] in _TIME_NOUNS and cur["pos1"] in ("名詞", "代名詞") and cur["surface"] not in ("ご飯", "晩", "朝", "分"):
+        return False
+    if cur["surface"] in _TIME_NOUNS and prev["pos1"] in ("名詞", "代名詞") and prev["surface"] not in ("毎",):
+        return False
     if cur["pos1"] == "助動詞":
         return cur["lemma"].split("-")[0] not in _SEPARATE_AUX and cur["surface"] not in ("です", "でし", "だ", "だろ", "でしょ", "でしょう", "だっ")
     if cur["pos1"] == "助詞" and cur["pos2"] == "接続助詞" and cur["surface"] in ("て", "で", "ば", "ながら", "たり", "ながら"):
@@ -197,6 +227,9 @@ def _chunk_words(chunk):
     toks = _tokens(chunk)
     words = []
     for k, t in enumerate(toks):
+        if t["surface"] == "\ue000":
+            words.append(["punct", "..."])
+            continue
         if t["surface"] in _PUNCT:
             words.append(["punct", _PUNCT[t["surface"]]])
             continue
@@ -212,27 +245,72 @@ def _chunk_words(chunk):
     return words
 
 
-PROPER = {"メアリー", "スー", "キム", "ハート", "アリゾナ", "ロンドン", "ソウル", "スミス", "ロバート", "ハワイ", "ヤマシタ", "ミシェル", "ジャクソン", "キャシー", "トーキョー"}
+PROPER = {"マクドナルド", "モスバーガー", "キョート", "オーサカ", "カンコク", "ヒロシマ", "メアリー", "スー", "キム", "ハート", "アリゾナ", "ロンドン", "ソウル", "スミス", "ロバート", "ハワイ", "ヤマシタ", "ミシェル", "ジャクソン", "キャシー", "トーキョー", "タケシ", "ミチコ", "ヤマダ", "リー", "サトー", "スズキ", "タカハシ", "タナカ", "イトー", "タクヤ", "ショータ", "イチロー", "ヒロシ", "マサヒロ", "エリカ", "ナオミ", "ユーコ", "ミサキ", "サクラ", "カルロス", "ナンシー", "パット"}
+
+
+_NUMW = {"いち": "ichi", "に": "ni", "さん": "san", "よん": "yon", "よ": "yo", "ご": "go", "ろく": "roku", "なな": "nana", "しち": "shichi", "はち": "hachi", "きゅう": "kyuu",
+         "じゅう": "juu", "ひゃく": "hyaku", "びゃく": "byaku", "ぴゃく": "pyaku", "せん": "sen", "ぜん": "zen", "まん": "man", "ろっ": "rop", "はっ": "hap"}
+_NUMRE = re.compile("((?:" + "|".join(sorted(_NUMW, key=len, reverse=True)) + r")+)(さい)?(?=えん|です|ぐらい|$|[、。？！])")
+
+
+def _num_romaji(run, sai=False):
+    toks = re.findall("|".join(sorted(_NUMW, key=len, reverse=True)), run)
+    out = []
+    for k, t in enumerate(toks):
+        r = _NUMW[t]
+        if t in ("ろっ", "はっ") and ((k + 1 < len(toks) and toks[k + 1] == "せん") or (sai and k + 1 == len(toks))):
+            r = r[:-1] + "s"
+        out.append(r)
+    return "".join(out)
+
+
+def _split_numbers(chunk):
+    """Split a chunk into ('txt', text) and ('num', romaji): big number words (with hyaku, sen or man) are spelled directly."""
+    out, pos = [], 0
+    for m in _NUMRE.finditer(chunk):
+        run = m.group(1)
+        ntok = len(re.findall("|".join(_NUMW), run))
+        yen = chunk[m.end():m.end() + 2] == "えん"
+        if run in ("ごぜん", "ごご") or (ntok < 2 and not re.search("ひゃく|びゃく|ぴゃく|まん", run) and not yen and not m.group(2)):
+            continue
+        if m.start() > pos:
+            out.append(("txt", chunk[pos:m.start()]))
+        out.append(("num", _num_romaji(run, bool(m.group(2))) + ("sai" if m.group(2) else "")))
+        pos = m.end()
+    if pos < len(chunk):
+        out.append(("txt", chunk[pos:]))
+    return out
 
 
 def romanize(text, over=None):
     """Genki-style romaji for a Japanese string. Spaces in the text are word breaks; inside a chunk the
     tokenizer decides (particles and です stand alone, verb endings stay attached)."""
+    text = text.replace("・・・", "\ue000")
     text = unicodedata.normalize("NFKC", text)
     text = _apply_over(text, over)
     out = ""
     for chunk in re.split(r"[ \u3000]+", text):
         if not chunk:
             continue
-        for kind, val in _chunk_words(chunk):
+        words = []
+        for pk, pv in _split_numbers(chunk):
+            words += [["lat", pv]] if pk == "num" else _chunk_words(pv)
+        for kind, val in words:
             r = spell(to_katakana(val)) if kind == "w" else val
-            if kind == "w" and val in PROPER:
-                r = r.capitalize()
+            if kind == "w" and val.split("-")[0] in PROPER:
+                r = r[0].upper() + r[1:]
             if kind == "punct":
                 out += r
             else:
                 out += (" " if out and out[-1] not in "“ " else "") + r
+    out = out.replace("....", "...")
+    out = re.sub(r"(?i)\bde mo\b", "demo", out)
+    out = re.sub(r"(?i)\bban gohan\b", "bangohan", out)
+    for _pat, _rep in [(r"\bma e\b", "mae"), (r"\bku gatsu\b", "kugatsu"), (r"\bfutsu ka\b", "futsuka"), (r"\bna no ka\b", "nanoka"), (r"\bbasu tee\b", "basutei"), (r"\bgomen nasai\b", "gomennasai"),
+                       (r"\bdoo shite\b", "dooshite"), (r"\bhon'ya\b", "honya"), (r"\bhon ya\b", "honya"), (r"\bkan koku\b", "kankoku")]:
+        out = re.sub(_pat, lambda m, _rep=_rep: (_rep[0].upper() + _rep[1:]) if m.group(0)[0].isupper() else _rep, out, flags=re.I)
     out = re.sub(r"(?i)\b(yon|san) pun\b", r"\1pun", out)
+    out = re.sub(r"\b([Dd])oo mo\b", r"\1oomo", out)
     out = re.sub(r"\s+([,.?!”])", r"\1", out).replace("“ ", "“").replace(" ”", "”").strip()
     out = re.sub(r"([.?!] )([a-z])", lambda m: m.group(1) + m.group(2).upper(), out)
     if out:
