@@ -186855,6 +186855,7005 @@
      ]
     }
    ]
+  },
+  {
+   "id": "unit_29",
+   "title": "Genki II, Lesson 16: Lost and Found",
+   "lessons": [
+    {
+     "id": "ja_182",
+     "title": "182. Dialogue: Lost and found",
+     "subtitle": "今日授業に来られなくてすみませんでした · 目覚まし時計を買ったらどうですか · 待っていただけませんか · 見つかるといいですね · 駅員さんが探してくれたんです",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "Dialogue 1: At Professor Yamashita’s office",
+       "body": "John apologizes for missing class. Tap a line to hear it.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "失礼します。先生、今日授業に来られなくてすみませんでした。",
+         "translation": "ジョン: Shitsuree shimasu. Sensee, kyoo jugyoo ni korarenakute sumimasen deshita. — Excuse me. Professor Yamashita, I am sorry that I couldn’t come to the class today."
+        },
+        {
+         "text": "どうしたんですか。",
+         "translation": "山下先生: Doo shita n desu ka. — What happened?"
+        },
+        {
+         "text": "実は、朝寝坊して、電車に乗り遅れたんです。すみません。",
+         "translation": "ジョン: Jitsu wa, asaneboo shite, densha ni nori okureta n desu. Sumimasen. — Well, I got up late and I missed the train. I am sorry."
+        },
+        {
+         "text": "もう三回目ですよ。目覚まし時計を買ったらどうですか。",
+         "translation": "山下先生: Moo sankaime desu yo. Mezamashidokee o kattara doo desu ka. — This is the third time. Why don’t you buy an alarm clock?"
+        },
+        {
+         "text": "はい。あの、先生、宿題をあしたまで待っていただけませんか。宿題を入れたファイルがないんです。",
+         "translation": "ジョン: Hai. Ano, sensee, shukudai o ashita made matte itadakemasen ka. Shukudai o ireta fairu ga nai n desu. — Yes … um, Professor Yamashita, as for the homework, could you please wait till tomorrow? I cannot find the file I put my homework in."
+        },
+        {
+         "text": "困りましたね。見つかるといいですね。",
+         "translation": "山下先生: Komarimashita ne. Mitsukaru to ii desu ne. — That’s a problem. I hope you will find it."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Dialogue 2: At the station",
+       "body": "John has lost his file and asks the station attendant.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "すみません。ファイルをなくしたんですが。",
+         "translation": "ジョン: Sumimasen. Fairu o nakushita n desu ga. — Excuse me, I have lost my file."
+        },
+        {
+         "text": "どんなファイルですか。",
+         "translation": "駅員: Donna fairu desu ka. — What is the file like?"
+        },
+        {
+         "text": "青くてこのぐらいの大きさです。電車を降りる時、忘れたと思うんですが。",
+         "translation": "ジョン: Aokute kono gurai no ookisa desu. Densha o oriru toki, wasureta to omou n desu ga. — It’s blue and about this size. I think I left it when I got off the train."
+        },
+        {
+         "text": "ええと、ちょっと待ってください。電話して聞いてみます。",
+         "translation": "駅員: Eeto, chotto matte kudasai. Denwa shite kiite mimasu. — Please wait for a minute. I will call and ask."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Dialogue 3: At school the next day",
+       "body": "John’s file turned up.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "ジョンさん、ファイルはありましたか。",
+         "translation": "山下先生: Jon-san, fairu wa arimashita ka. — John, did you find the file?"
+        },
+        {
+         "text": "はい、駅員さんが探してくれたんです。",
+         "translation": "ジョン: Hai, ekiin-san ga sagashite kureta n desu. — Yes, a station attendant found it for me."
+        },
+        {
+         "text": "よかったですね。",
+         "translation": "山下先生: Yokatta desu ne. — Good."
+        },
+        {
+         "text": "これ、宿題です。遅くなってすみませんでした。",
+         "translation": "ジョン: Kore, shukudai desu. Osoku natte sumimasen deshita. — This is the homework. I am sorry it is late."
+        },
+        {
+         "text": "いいえ。よくできていますね。",
+         "translation": "山下先生: Iie. Yoku dekite imasu ne. — That’s okay. It’s well done."
+        },
+        {
+         "text": "ええ、駅員さんに手伝ってもらいましたから。",
+         "translation": "ジョン: Ee, ekiin-san ni tetsudatte moraimashita kara. — Yes, because the station attendant helped me."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "What to notice",
+       "body": "This lesson’s grammar: ～てあげる/くれる/もらう (favors), ～ていただけませんか (polite requests), ～といい (I hope that…), ～時 (when) and ～てすみませんでした (apologizing). Notice 来られなくて (the short negative て-form) and the polite 待っていただけませんか.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "今日授業に来られなくてすみませんでした。",
+         "translation": "Kyoo jugyoo ni korarenakute sumimasen deshita. — I am sorry that I couldn’t come to class today."
+        },
+        {
+         "text": "宿題をあしたまで待っていただけませんか。",
+         "translation": "Shukudai o ashita made matte itadakemasen ka. — Could you wait for the homework until tomorrow?"
+        },
+        {
+         "text": "見つかるといいですね。",
+         "translation": "Mitsukaru to ii desu ne. — I hope you find it."
+        },
+        {
+         "text": "駅員さんが探してくれたんです。",
+         "translation": "Ekiin-san ga sagashite kureta n desu. — The station attendant found it for me."
+        }
+       ],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "Why could John not come to class?",
+       "options": [
+        "he had a part-time job",
+        "he lost his way",
+        "he was sick",
+        "he overslept and missed the train"
+       ],
+       "correctIndex": 3,
+       "explanation": "朝寝坊して、電車に乗り遅れたんです。"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "How many times has John been late (according to the professor)?",
+       "options": [
+        "two",
+        "one",
+        "five",
+        "three"
+       ],
+       "correctIndex": 3,
+       "explanation": "もう三回目ですよ。"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What does the professor suggest he buy?",
+       "options": [
+        "a map",
+        "a file",
+        "an alarm clock",
+        "a watch"
+       ],
+       "correctIndex": 2,
+       "explanation": "目覚まし時計を買ったらどうですか。"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does John ask the professor?",
+       "options": [
+        "to cancel the exam",
+        "to give him a book",
+        "to wait until tomorrow for the homework",
+        "to lend him a file"
+       ],
+       "correctIndex": 2,
+       "explanation": "宿題をあしたまで待っていただけませんか。"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "Why can John not hand in the homework?",
+       "options": [
+        "his dog ate it",
+        "he cannot find the file it was in",
+        "he forgot to do it",
+        "he is sick"
+       ],
+       "correctIndex": 1,
+       "explanation": "宿題を入れたファイルがないんです。"
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "Where does John think he left the file?",
+       "options": [
+        "at home",
+        "at school",
+        "at a restaurant",
+        "on the train"
+       ],
+       "correctIndex": 3,
+       "explanation": "電車を降りる時、忘れたと思う。"
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What color is the file?",
+       "options": [
+        "green",
+        "black",
+        "red",
+        "blue"
+       ],
+       "correctIndex": 3,
+       "explanation": "青くて"
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What does the station attendant do?",
+       "options": [
+        "calls to ask",
+        "writes a note",
+        "gives John a new file",
+        "tells John to leave"
+       ],
+       "correctIndex": 0,
+       "explanation": "電話して聞いてみます。"
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "Who found the file?",
+       "options": [
+        "the professor",
+        "a student",
+        "John’s friend",
+        "a station attendant"
+       ],
+       "correctIndex": 3,
+       "explanation": "駅員さんが探してくれた。"
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What does Professor Yamashita say about the homework?",
+       "options": [
+        "it is late and rejected",
+        "it is too short",
+        "it is difficult to read",
+        "it is well done"
+       ],
+       "correctIndex": 3,
+       "explanation": "よくできていますね。"
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "Why was the homework well done?",
+       "options": [
+        "a friend helped him",
+        "his mother helped him",
+        "he worked all night",
+        "the station attendant helped John"
+       ],
+       "correctIndex": 3,
+       "explanation": "駅員さんに手伝ってもらいましたから。"
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "What does 失礼します mean here?",
+       "options": [
+        "I am hungry",
+        "Thank you",
+        "Excuse me (as John enters)",
+        "Goodbye"
+       ],
+       "correctIndex": 2,
+       "explanation": "失礼します."
+      },
+      {
+       "id": "e13",
+       "type": "fillBlank",
+       "prompt": "今日授業に来られ___てすみませんでした。 (not)",
+       "options": [
+        "なく",
+        "なかった",
+        "ない",
+        "ません"
+       ],
+       "correctIndex": 0,
+       "explanation": "来られなくて."
+      },
+      {
+       "id": "e14",
+       "type": "fillBlank",
+       "prompt": "宿題をあしたまで待って___ませんか。 (polite)",
+       "options": [
+        "くれ",
+        "あげ",
+        "もらい",
+        "いただけ"
+       ],
+       "correctIndex": 3,
+       "explanation": "いただけませんか."
+      },
+      {
+       "id": "e15",
+       "type": "fillBlank",
+       "prompt": "見つかる___いいですね。",
+       "options": [
+        "が",
+        "を",
+        "と",
+        "に"
+       ],
+       "correctIndex": 2,
+       "explanation": "見つかるといいですね."
+      },
+      {
+       "id": "e16",
+       "type": "fillBlank",
+       "prompt": "駅員さんが探して___んです。 (for me)",
+       "options": [
+        "くれた",
+        "やった",
+        "あげた",
+        "もらった"
+       ],
+       "correctIndex": 0,
+       "explanation": "探してくれた."
+      },
+      {
+       "id": "e17",
+       "type": "fillBlank",
+       "prompt": "駅員さんに手伝って___ました。 (got him to help)",
+       "options": [
+        "くれ",
+        "いただけ",
+        "もらい",
+        "あげ"
+       ],
+       "correctIndex": 2,
+       "explanation": "手伝ってもらいました."
+      }
+     ]
+    },
+    {
+     "id": "ja_183",
+     "title": "183. Vocabulary: Lesson 16",
+     "subtitle": "駅員 · 大きさ · 親 · 期末試験 · 研究 · 奨学金 · 推薦状 · 大学院 · 台風 · 目覚まし時計 · 汚い · 起こす · おごる · 落ち込む · 困る · 連れていく · 直す · 迷う · 見つかる · 訳す · 笑う · 朝寝坊する · 案内する · 説明する",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "Nouns",
+       "body": "The kana is spoken and shown with its kanji (where the book gives one). 日 here means “day” (as in 日 in その日).",
+       "tables": [
+        {
+         "headers": [
+          "Japanese",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "えきいんさん",
+           "駅員さん",
+           "Ekiin-san",
+           "station attendant"
+          ],
+          [
+           "おおきさ",
+           "大きさ",
+           "Ookisa",
+           "size"
+          ],
+          [
+           "おや",
+           "親",
+           "Oya",
+           "parent"
+          ],
+          [
+           "きまつしけん",
+           "期末試験",
+           "Kimatsu shiken",
+           "final examination"
+          ],
+          [
+           "けんきゅう",
+           "研究",
+           "Kenkyuu",
+           "research"
+          ],
+          [
+           "ごみ",
+           "",
+           "Gomi",
+           "garbage"
+          ],
+          [
+           "さとう",
+           "砂糖",
+           "Satoo",
+           "sugar"
+          ],
+          [
+           "しょうがくきん",
+           "奨学金",
+           "Shoogakukin",
+           "scholarship"
+          ],
+          [
+           "しんせき",
+           "親せき",
+           "Shinseki",
+           "relatives"
+          ],
+          [
+           "すいせんじょう",
+           "推薦状",
+           "Suisenjoo",
+           "letter of recommendation"
+          ],
+          [
+           "だいがくいん",
+           "大学院",
+           "Daigakuin",
+           "graduate school"
+          ],
+          [
+           "たいふう",
+           "台風",
+           "Taifuu",
+           "typhoon"
+          ],
+          [
+           "ひ",
+           "日",
+           "Hi",
+           "day"
+          ],
+          [
+           "ファイル",
+           "",
+           "Fairu",
+           "file; portfolio"
+          ],
+          [
+           "みち",
+           "道",
+           "Michi",
+           "way; road; directions"
+          ],
+          [
+           "めざましどけい",
+           "目覚まし時計",
+           "Mezamashidokee",
+           "alarm clock"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "い-adjective",
+       "body": "きたない is also written 汚い.",
+       "tables": [
+        {
+         "headers": [
+          "Japanese",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "きたない",
+           "汚い",
+           "Kitanai",
+           "dirty"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "U-verbs",
+       "body": "おごる means to treat someone to a meal: 友だちにコーヒーをおごる. 連れていく is for people or pets (を), and 迎えに行く is “to go to pick up”.",
+       "tables": [
+        {
+         "headers": [
+          "Japanese",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "おこす",
+           "起こす",
+           "Okosu",
+           "to wake (someone) up (を)"
+          ],
+          [
+           "おごる",
+           "",
+           "Ogoru",
+           "to treat (someone) to a meal (person に meal を)"
+          ],
+          [
+           "おちこむ",
+           "落ち込む",
+           "Ochikomu",
+           "to get depressed"
+          ],
+          [
+           "こまる",
+           "困る",
+           "Komaru",
+           "to have difficulty"
+          ],
+          [
+           "だす",
+           "出す",
+           "Dasu",
+           "to take (something) out; to hand in (something) (を)"
+          ],
+          [
+           "つれていく",
+           "連れていく",
+           "Tsurete iku",
+           "to take (someone) to (a place) (person を place に)"
+          ],
+          [
+           "なおす",
+           "直す",
+           "Naosu",
+           "to correct; to fix (を)"
+          ],
+          [
+           "みちにまよう",
+           "道に迷う",
+           "Michi ni mayou",
+           "to become lost; to lose one’s way"
+          ],
+          [
+           "みつかる",
+           "見つかる",
+           "Mitsukaru",
+           "to be found (が)"
+          ],
+          [
+           "むかえにいく",
+           "迎えに行く",
+           "Mukae ni iku",
+           "to go to pick up (place まで/に person を)"
+          ],
+          [
+           "やくす",
+           "訳す",
+           "Yakusu",
+           "to translate (source を target に)"
+          ],
+          [
+           "わらう",
+           "笑う",
+           "Warau",
+           "to laugh"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Ru-verbs",
+       "body": "アイロンをかける is the phrase for ironing clothes (the book lists it with に for what is ironed).",
+       "tables": [
+        {
+         "headers": [
+          "Japanese",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "アイロンをかける",
+           "",
+           "Airon o kakeru",
+           "to iron (clothes) (に)"
+          ],
+          [
+           "あつめる",
+           "集める",
+           "Atsumeru",
+           "to collect (を)"
+          ],
+          [
+           "いれる",
+           "入れる",
+           "Ireru",
+           "to put (something) in (thing を place に)"
+          ],
+          [
+           "のりおくれる",
+           "乗り遅れる",
+           "Nori okureru",
+           "to miss (a train, bus, etc.) (に)"
+          ],
+          [
+           "みせる",
+           "見せる",
+           "Miseru",
+           "to show (を)"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Irregular verbs",
+       "body": "All four are する/くる verbs: 朝寝坊する, 案内する, 説明する and 迎えに来る.",
+       "tables": [
+        {
+         "headers": [
+          "Japanese",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "あさねぼうする",
+           "朝寝坊する",
+           "Asaneboo suru",
+           "to oversleep"
+          ],
+          [
+           "あんないする",
+           "案内する",
+           "Annai suru",
+           "to show (someone) around (place を)"
+          ],
+          [
+           "せつめいする",
+           "説明する",
+           "Setsumee suru",
+           "to explain"
+          ],
+          [
+           "むかえにくる",
+           "迎えに来る",
+           "Mukae ni kuru",
+           "to come to pick up (place まで/に person を)"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Adverbs and other expressions",
+       "body": "ごめん is the casual way to apologize; 失礼します is “Excuse me” when you enter, leave or interrupt.",
+       "tables": [
+        {
+         "headers": [
+          "Japanese",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "ええと",
+           "",
+           "Eeto",
+           "well…; let me see…"
+          ],
+          [
+           "きょうじゅうに",
+           "今日中に",
+           "Kyoojuu ni",
+           "by the end of today"
+          ],
+          [
+           "このあいだ",
+           "この間",
+           "Kono aida",
+           "the other day"
+          ],
+          [
+           "このぐらい",
+           "",
+           "Kono gurai",
+           "about this much (= これぐらい, このくらい, これくらい)"
+          ],
+          [
+           "ごめん",
+           "",
+           "Gomen",
+           "I’m sorry (casual)"
+          ],
+          [
+           "これから",
+           "",
+           "Kore kara",
+           "from now on"
+          ],
+          [
+           "しつれいします",
+           "失礼します",
+           "Shitsuree shimasu",
+           "Excuse me; Sorry to interrupt you"
+          ],
+          [
+           "じぶんで",
+           "自分で",
+           "Jibun de",
+           "(do something) by oneself"
+          ],
+          [
+           "じゅぎょうちゅうに",
+           "授業中に",
+           "Jugyoochuu ni",
+           "in class; during the class"
+          ],
+          [
+           "ほかの",
+           "",
+           "Hoka no",
+           "other"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does えきいんさん mean?",
+       "options": [
+        "size",
+        "parent",
+        "station attendant",
+        "final examination"
+       ],
+       "correctIndex": 2,
+       "explanation": "えきいんさん (Ekiin-san) means “station attendant”."
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What does おおきさ mean?",
+       "options": [
+        "parent",
+        "size",
+        "final examination",
+        "research"
+       ],
+       "correctIndex": 1,
+       "explanation": "おおきさ (Ookisa) means “size”."
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What does おや mean?",
+       "options": [
+        "research",
+        "final examination",
+        "garbage",
+        "parent"
+       ],
+       "correctIndex": 3,
+       "explanation": "おや (Oya) means “parent”."
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does きまつしけん mean?",
+       "options": [
+        "sugar",
+        "garbage",
+        "research",
+        "final examination"
+       ],
+       "correctIndex": 3,
+       "explanation": "きまつしけん (Kimatsu shiken) means “final examination”."
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What does けんきゅう mean?",
+       "options": [
+        "research",
+        "garbage",
+        "scholarship",
+        "sugar"
+       ],
+       "correctIndex": 0,
+       "explanation": "けんきゅう (Kenkyuu) means “research”."
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What does ごみ mean?",
+       "options": [
+        "relatives",
+        "sugar",
+        "scholarship",
+        "garbage"
+       ],
+       "correctIndex": 3,
+       "explanation": "ごみ (Gomi) means “garbage”."
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What does さとう mean?",
+       "options": [
+        "scholarship",
+        "letter of recommendation",
+        "sugar",
+        "relatives"
+       ],
+       "correctIndex": 2,
+       "explanation": "さとう (Satoo) means “sugar”."
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What does しょうがくきん mean?",
+       "options": [
+        "relatives",
+        "scholarship",
+        "letter of recommendation",
+        "graduate school"
+       ],
+       "correctIndex": 1,
+       "explanation": "しょうがくきん (Shoogakukin) means “scholarship”."
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "What does しんせき mean?",
+       "options": [
+        "letter of recommendation",
+        "relatives",
+        "typhoon",
+        "graduate school"
+       ],
+       "correctIndex": 1,
+       "explanation": "しんせき (Shinseki) means “relatives”."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What does すいせんじょう mean?",
+       "options": [
+        "day",
+        "letter of recommendation",
+        "graduate school",
+        "typhoon"
+       ],
+       "correctIndex": 1,
+       "explanation": "すいせんじょう (Suisenjoo) means “letter of recommendation”."
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What does だいがくいん mean?",
+       "options": [
+        "typhoon",
+        "file; portfolio",
+        "day",
+        "graduate school"
+       ],
+       "correctIndex": 3,
+       "explanation": "だいがくいん (Daigakuin) means “graduate school”."
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "What does たいふう mean?",
+       "options": [
+        "way; road; directions",
+        "file; portfolio",
+        "day",
+        "typhoon"
+       ],
+       "correctIndex": 3,
+       "explanation": "たいふう (Taifuu) means “typhoon”."
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "What does ひ mean?",
+       "options": [
+        "file; portfolio",
+        "way; road; directions",
+        "day",
+        "alarm clock"
+       ],
+       "correctIndex": 2,
+       "explanation": "ひ (Hi) means “day”."
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "What does ファイル mean?",
+       "options": [
+        "dirty",
+        "alarm clock",
+        "file; portfolio",
+        "way; road; directions"
+       ],
+       "correctIndex": 2,
+       "explanation": "ファイル (Fairu) means “file; portfolio”."
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "What does みち mean?",
+       "options": [
+        "way; road; directions",
+        "alarm clock",
+        "dirty",
+        "station attendant"
+       ],
+       "correctIndex": 0,
+       "explanation": "みち (Michi) means “way; road; directions”."
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "What does めざましどけい mean?",
+       "options": [
+        "station attendant",
+        "alarm clock",
+        "size",
+        "dirty"
+       ],
+       "correctIndex": 1,
+       "explanation": "めざましどけい (Mezamashidokee) means “alarm clock”."
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "What does きたない mean?",
+       "options": [
+        "dirty",
+        "parent",
+        "station attendant",
+        "size"
+       ],
+       "correctIndex": 0,
+       "explanation": "きたない (Kitanai) means “dirty”."
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "How do you say “station attendant” in Japanese?",
+       "options": [
+        "きまつしけん",
+        "おや",
+        "おおきさ",
+        "えきいんさん"
+       ],
+       "correctIndex": 3,
+       "explanation": "station attendant is えきいんさん (Ekiin-san)."
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "How do you say “size” in Japanese?",
+       "options": [
+        "おや",
+        "おおきさ",
+        "けんきゅう",
+        "きまつしけん"
+       ],
+       "correctIndex": 1,
+       "explanation": "size is おおきさ (Ookisa)."
+      },
+      {
+       "id": "e20",
+       "type": "multipleChoice",
+       "prompt": "How do you say “parent” in Japanese?",
+       "options": [
+        "けんきゅう",
+        "ごみ",
+        "おや",
+        "きまつしけん"
+       ],
+       "correctIndex": 2,
+       "explanation": "parent is おや (Oya)."
+      },
+      {
+       "id": "e21",
+       "type": "multipleChoice",
+       "prompt": "How do you say “final examination” in Japanese?",
+       "options": [
+        "ごみ",
+        "さとう",
+        "きまつしけん",
+        "けんきゅう"
+       ],
+       "correctIndex": 2,
+       "explanation": "final examination is きまつしけん (Kimatsu shiken)."
+      },
+      {
+       "id": "e22",
+       "type": "multipleChoice",
+       "prompt": "How do you say “research” in Japanese?",
+       "options": [
+        "けんきゅう",
+        "さとう",
+        "ごみ",
+        "しょうがくきん"
+       ],
+       "correctIndex": 0,
+       "explanation": "research is けんきゅう (Kenkyuu)."
+      },
+      {
+       "id": "e23",
+       "type": "multipleChoice",
+       "prompt": "How do you say “garbage” in Japanese?",
+       "options": [
+        "しんせき",
+        "さとう",
+        "しょうがくきん",
+        "ごみ"
+       ],
+       "correctIndex": 3,
+       "explanation": "garbage is ごみ (Gomi)."
+      },
+      {
+       "id": "e24",
+       "type": "multipleChoice",
+       "prompt": "How do you say “sugar” in Japanese?",
+       "options": [
+        "しんせき",
+        "すいせんじょう",
+        "さとう",
+        "しょうがくきん"
+       ],
+       "correctIndex": 2,
+       "explanation": "sugar is さとう (Satoo)."
+      },
+      {
+       "id": "e25",
+       "type": "multipleChoice",
+       "prompt": "How do you say “scholarship” in Japanese?",
+       "options": [
+        "すいせんじょう",
+        "しんせき",
+        "しょうがくきん",
+        "だいがくいん"
+       ],
+       "correctIndex": 2,
+       "explanation": "scholarship is しょうがくきん (Shoogakukin)."
+      },
+      {
+       "id": "e26",
+       "type": "multipleChoice",
+       "prompt": "How do you say “relatives” in Japanese?",
+       "options": [
+        "しんせき",
+        "たいふう",
+        "すいせんじょう",
+        "だいがくいん"
+       ],
+       "correctIndex": 0,
+       "explanation": "relatives is しんせき (Shinseki)."
+      },
+      {
+       "id": "e27",
+       "type": "multipleChoice",
+       "prompt": "How do you say “letter of recommendation” in Japanese?",
+       "options": [
+        "たいふう",
+        "だいがくいん",
+        "すいせんじょう",
+        "ひ"
+       ],
+       "correctIndex": 2,
+       "explanation": "letter of recommendation is すいせんじょう (Suisenjoo)."
+      },
+      {
+       "id": "e28",
+       "type": "multipleChoice",
+       "prompt": "How do you say “graduate school” in Japanese?",
+       "options": [
+        "たいふう",
+        "だいがくいん",
+        "ひ",
+        "ファイル"
+       ],
+       "correctIndex": 1,
+       "explanation": "graduate school is だいがくいん (Daigakuin)."
+      },
+      {
+       "id": "e29",
+       "type": "multipleChoice",
+       "prompt": "How do you say “typhoon” in Japanese?",
+       "options": [
+        "たいふう",
+        "ひ",
+        "ファイル",
+        "みち"
+       ],
+       "correctIndex": 0,
+       "explanation": "typhoon is たいふう (Taifuu)."
+      },
+      {
+       "id": "e30",
+       "type": "multipleChoice",
+       "prompt": "How do you say “day” in Japanese?",
+       "options": [
+        "みち",
+        "ひ",
+        "ファイル",
+        "めざましどけい"
+       ],
+       "correctIndex": 1,
+       "explanation": "day is ひ (Hi)."
+      },
+      {
+       "id": "e31",
+       "type": "multipleChoice",
+       "prompt": "How do you say “file; portfolio” in Japanese?",
+       "options": [
+        "みち",
+        "ファイル",
+        "きたない",
+        "めざましどけい"
+       ],
+       "correctIndex": 1,
+       "explanation": "file; portfolio is ファイル (Fairu)."
+      },
+      {
+       "id": "e32",
+       "type": "multipleChoice",
+       "prompt": "How do you say “way; road; directions” in Japanese?",
+       "options": [
+        "えきいんさん",
+        "めざましどけい",
+        "きたない",
+        "みち"
+       ],
+       "correctIndex": 3,
+       "explanation": "way; road; directions is みち (Michi)."
+      },
+      {
+       "id": "e33",
+       "type": "multipleChoice",
+       "prompt": "How do you say “alarm clock” in Japanese?",
+       "options": [
+        "めざましどけい",
+        "えきいんさん",
+        "おおきさ",
+        "きたない"
+       ],
+       "correctIndex": 0,
+       "explanation": "alarm clock is めざましどけい (Mezamashidokee)."
+      },
+      {
+       "id": "e34",
+       "type": "multipleChoice",
+       "prompt": "How do you say “dirty” in Japanese?",
+       "options": [
+        "おおきさ",
+        "えきいんさん",
+        "おや",
+        "きたない"
+       ],
+       "correctIndex": 3,
+       "explanation": "dirty is きたない (Kitanai)."
+      },
+      {
+       "id": "e35",
+       "type": "multipleChoice",
+       "prompt": "What does おこす mean?",
+       "options": [
+        "to get depressed",
+        "to wake (someone) up (を)",
+        "to have difficulty",
+        "to treat (someone) to a meal (person に meal を)"
+       ],
+       "correctIndex": 1,
+       "explanation": "おこす (Okosu) means “to wake (someone) up (を)”."
+      },
+      {
+       "id": "e36",
+       "type": "multipleChoice",
+       "prompt": "What does おごる mean?",
+       "options": [
+        "to have difficulty",
+        "to treat (someone) to a meal (person に meal を)",
+        "to get depressed",
+        "to take (something) out; to hand in (something) (を)"
+       ],
+       "correctIndex": 1,
+       "explanation": "おごる (Ogoru) means “to treat (someone) to a meal (person に meal を)”."
+      },
+      {
+       "id": "e37",
+       "type": "multipleChoice",
+       "prompt": "What does おちこむ mean?",
+       "options": [
+        "to take (something) out; to hand in (something) (を)",
+        "to take (someone) to (a place) (person を place に)",
+        "to get depressed",
+        "to have difficulty"
+       ],
+       "correctIndex": 2,
+       "explanation": "おちこむ (Ochikomu) means “to get depressed”."
+      },
+      {
+       "id": "e38",
+       "type": "multipleChoice",
+       "prompt": "What does こまる mean?",
+       "options": [
+        "to take (something) out; to hand in (something) (を)",
+        "to have difficulty",
+        "to correct; to fix (を)",
+        "to take (someone) to (a place) (person を place に)"
+       ],
+       "correctIndex": 1,
+       "explanation": "こまる (Komaru) means “to have difficulty”."
+      },
+      {
+       "id": "e39",
+       "type": "multipleChoice",
+       "prompt": "What does だす mean?",
+       "options": [
+        "to correct; to fix (を)",
+        "to take (something) out; to hand in (something) (を)",
+        "to take (someone) to (a place) (person を place に)",
+        "to become lost; to lose one’s way"
+       ],
+       "correctIndex": 1,
+       "explanation": "だす (Dasu) means “to take (something) out; to hand in (something) (を)”."
+      },
+      {
+       "id": "e40",
+       "type": "multipleChoice",
+       "prompt": "What does つれていく mean?",
+       "options": [
+        "to take (someone) to (a place) (person を place に)",
+        "to become lost; to lose one’s way",
+        "to correct; to fix (を)",
+        "to be found (が)"
+       ],
+       "correctIndex": 0,
+       "explanation": "つれていく (Tsurete iku) means “to take (someone) to (a place) (person を place に)”."
+      },
+      {
+       "id": "e41",
+       "type": "multipleChoice",
+       "prompt": "What does なおす mean?",
+       "options": [
+        "to become lost; to lose one’s way",
+        "to be found (が)",
+        "to correct; to fix (を)",
+        "to go to pick up (place まで/に person を)"
+       ],
+       "correctIndex": 2,
+       "explanation": "なおす (Naosu) means “to correct; to fix (を)”."
+      },
+      {
+       "id": "e42",
+       "type": "multipleChoice",
+       "prompt": "What does みちにまよう mean?",
+       "options": [
+        "to translate (source を target に)",
+        "to be found (が)",
+        "to become lost; to lose one’s way",
+        "to go to pick up (place まで/に person を)"
+       ],
+       "correctIndex": 2,
+       "explanation": "みちにまよう (Michi ni mayou) means “to become lost; to lose one’s way”."
+      },
+      {
+       "id": "e43",
+       "type": "multipleChoice",
+       "prompt": "What does みつかる mean?",
+       "options": [
+        "to laugh",
+        "to be found (が)",
+        "to translate (source を target に)",
+        "to go to pick up (place まで/に person を)"
+       ],
+       "correctIndex": 1,
+       "explanation": "みつかる (Mitsukaru) means “to be found (が)”."
+      },
+      {
+       "id": "e44",
+       "type": "multipleChoice",
+       "prompt": "What does むかえにいく mean?",
+       "options": [
+        "to go to pick up (place まで/に person を)",
+        "to translate (source を target に)",
+        "to iron (clothes) (に)",
+        "to laugh"
+       ],
+       "correctIndex": 0,
+       "explanation": "むかえにいく (Mukae ni iku) means “to go to pick up (place まで/に person を)”."
+      },
+      {
+       "id": "e45",
+       "type": "multipleChoice",
+       "prompt": "What does やくす mean?",
+       "options": [
+        "to laugh",
+        "to iron (clothes) (に)",
+        "to translate (source を target に)",
+        "to collect (を)"
+       ],
+       "correctIndex": 2,
+       "explanation": "やくす (Yakusu) means “to translate (source を target に)”."
+      },
+      {
+       "id": "e46",
+       "type": "multipleChoice",
+       "prompt": "What does わらう mean?",
+       "options": [
+        "to put (something) in (thing を place に)",
+        "to laugh",
+        "to collect (を)",
+        "to iron (clothes) (に)"
+       ],
+       "correctIndex": 1,
+       "explanation": "わらう (Warau) means “to laugh”."
+      },
+      {
+       "id": "e47",
+       "type": "multipleChoice",
+       "prompt": "What does アイロンをかける mean?",
+       "options": [
+        "to iron (clothes) (に)",
+        "to put (something) in (thing を place に)",
+        "to miss (a train, bus, etc.) (に)",
+        "to collect (を)"
+       ],
+       "correctIndex": 0,
+       "explanation": "アイロンをかける (Airon o kakeru) means “to iron (clothes) (に)”."
+      },
+      {
+       "id": "e48",
+       "type": "multipleChoice",
+       "prompt": "What does あつめる mean?",
+       "options": [
+        "to show (を)",
+        "to miss (a train, bus, etc.) (に)",
+        "to collect (を)",
+        "to put (something) in (thing を place に)"
+       ],
+       "correctIndex": 2,
+       "explanation": "あつめる (Atsumeru) means “to collect (を)”."
+      },
+      {
+       "id": "e49",
+       "type": "multipleChoice",
+       "prompt": "What does いれる mean?",
+       "options": [
+        "to oversleep",
+        "to miss (a train, bus, etc.) (に)",
+        "to show (を)",
+        "to put (something) in (thing を place に)"
+       ],
+       "correctIndex": 3,
+       "explanation": "いれる (Ireru) means “to put (something) in (thing を place に)”."
+      },
+      {
+       "id": "e50",
+       "type": "multipleChoice",
+       "prompt": "What does のりおくれる mean?",
+       "options": [
+        "to oversleep",
+        "to show (を)",
+        "to miss (a train, bus, etc.) (に)",
+        "to show (someone) around (place を)"
+       ],
+       "correctIndex": 2,
+       "explanation": "のりおくれる (Nori okureru) means “to miss (a train, bus, etc.) (に)”."
+      },
+      {
+       "id": "e51",
+       "type": "multipleChoice",
+       "prompt": "What does みせる mean?",
+       "options": [
+        "to oversleep",
+        "to show (を)",
+        "to explain",
+        "to show (someone) around (place を)"
+       ],
+       "correctIndex": 1,
+       "explanation": "みせる (Miseru) means “to show (を)”."
+      },
+      {
+       "id": "e52",
+       "type": "multipleChoice",
+       "prompt": "What does あさねぼうする mean?",
+       "options": [
+        "to oversleep",
+        "to come to pick up (place まで/に person を)",
+        "to show (someone) around (place を)",
+        "to explain"
+       ],
+       "correctIndex": 0,
+       "explanation": "あさねぼうする (Asaneboo suru) means “to oversleep”."
+      },
+      {
+       "id": "e53",
+       "type": "multipleChoice",
+       "prompt": "What does あんないする mean?",
+       "options": [
+        "to come to pick up (place まで/に person を)",
+        "to wake (someone) up (を)",
+        "to explain",
+        "to show (someone) around (place を)"
+       ],
+       "correctIndex": 3,
+       "explanation": "あんないする (Annai suru) means “to show (someone) around (place を)”."
+      },
+      {
+       "id": "e54",
+       "type": "multipleChoice",
+       "prompt": "What does せつめいする mean?",
+       "options": [
+        "to treat (someone) to a meal (person に meal を)",
+        "to come to pick up (place まで/に person を)",
+        "to wake (someone) up (を)",
+        "to explain"
+       ],
+       "correctIndex": 3,
+       "explanation": "せつめいする (Setsumee suru) means “to explain”."
+      },
+      {
+       "id": "e55",
+       "type": "multipleChoice",
+       "prompt": "What does むかえにくる mean?",
+       "options": [
+        "to wake (someone) up (を)",
+        "to treat (someone) to a meal (person に meal を)",
+        "to get depressed",
+        "to come to pick up (place まで/に person を)"
+       ],
+       "correctIndex": 3,
+       "explanation": "むかえにくる (Mukae ni kuru) means “to come to pick up (place まで/に person を)”."
+      },
+      {
+       "id": "e56",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to wake (someone) up (を)” in Japanese?",
+       "options": [
+        "おごる",
+        "おこす",
+        "こまる",
+        "おちこむ"
+       ],
+       "correctIndex": 1,
+       "explanation": "to wake (someone) up (を) is おこす (Okosu)."
+      },
+      {
+       "id": "e57",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to treat (someone) to a meal (person に meal を)” in Japanese?",
+       "options": [
+        "だす",
+        "こまる",
+        "おごる",
+        "おちこむ"
+       ],
+       "correctIndex": 2,
+       "explanation": "to treat (someone) to a meal (person に meal を) is おごる (Ogoru)."
+      },
+      {
+       "id": "e58",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to get depressed” in Japanese?",
+       "options": [
+        "つれていく",
+        "こまる",
+        "だす",
+        "おちこむ"
+       ],
+       "correctIndex": 3,
+       "explanation": "to get depressed is おちこむ (Ochikomu)."
+      },
+      {
+       "id": "e59",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to have difficulty” in Japanese?",
+       "options": [
+        "つれていく",
+        "なおす",
+        "こまる",
+        "だす"
+       ],
+       "correctIndex": 2,
+       "explanation": "to have difficulty is こまる (Komaru)."
+      },
+      {
+       "id": "e60",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to take (something) out; to hand in (something) (を)” in Japanese?",
+       "options": [
+        "なおす",
+        "だす",
+        "みちにまよう",
+        "つれていく"
+       ],
+       "correctIndex": 1,
+       "explanation": "to take (something) out; to hand in (something) (を) is だす (Dasu)."
+      },
+      {
+       "id": "e61",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to take (someone) to (a place) (person を place に)” in Japanese?",
+       "options": [
+        "みちにまよう",
+        "なおす",
+        "みつかる",
+        "つれていく"
+       ],
+       "correctIndex": 3,
+       "explanation": "to take (someone) to (a place) (person を place に) is つれていく (Tsurete iku)."
+      },
+      {
+       "id": "e62",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to correct; to fix (を)” in Japanese?",
+       "options": [
+        "むかえにいく",
+        "なおす",
+        "みつかる",
+        "みちにまよう"
+       ],
+       "correctIndex": 1,
+       "explanation": "to correct; to fix (を) is なおす (Naosu)."
+      },
+      {
+       "id": "e63",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to become lost; to lose one’s way” in Japanese?",
+       "options": [
+        "むかえにいく",
+        "みつかる",
+        "やくす",
+        "みちにまよう"
+       ],
+       "correctIndex": 3,
+       "explanation": "to become lost; to lose one’s way is みちにまよう (Michi ni mayou)."
+      },
+      {
+       "id": "e64",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to be found (が)” in Japanese?",
+       "options": [
+        "わらう",
+        "やくす",
+        "みつかる",
+        "むかえにいく"
+       ],
+       "correctIndex": 2,
+       "explanation": "to be found (が) is みつかる (Mitsukaru)."
+      },
+      {
+       "id": "e65",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to go to pick up (place まで/に person を)” in Japanese?",
+       "options": [
+        "わらう",
+        "むかえにいく",
+        "アイロンをかける",
+        "やくす"
+       ],
+       "correctIndex": 1,
+       "explanation": "to go to pick up (place まで/に person を) is むかえにいく (Mukae ni iku)."
+      },
+      {
+       "id": "e66",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to translate (source を target に)” in Japanese?",
+       "options": [
+        "あつめる",
+        "やくす",
+        "わらう",
+        "アイロンをかける"
+       ],
+       "correctIndex": 1,
+       "explanation": "to translate (source を target に) is やくす (Yakusu)."
+      },
+      {
+       "id": "e67",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to laugh” in Japanese?",
+       "options": [
+        "わらう",
+        "いれる",
+        "アイロンをかける",
+        "あつめる"
+       ],
+       "correctIndex": 0,
+       "explanation": "to laugh is わらう (Warau)."
+      },
+      {
+       "id": "e68",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to iron (clothes) (に)” in Japanese?",
+       "options": [
+        "いれる",
+        "あつめる",
+        "のりおくれる",
+        "アイロンをかける"
+       ],
+       "correctIndex": 3,
+       "explanation": "to iron (clothes) (に) is アイロンをかける (Airon o kakeru)."
+      },
+      {
+       "id": "e69",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to collect (を)” in Japanese?",
+       "options": [
+        "のりおくれる",
+        "みせる",
+        "いれる",
+        "あつめる"
+       ],
+       "correctIndex": 3,
+       "explanation": "to collect (を) is あつめる (Atsumeru)."
+      },
+      {
+       "id": "e70",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to put (something) in (thing を place に)” in Japanese?",
+       "options": [
+        "あさねぼうする",
+        "のりおくれる",
+        "みせる",
+        "いれる"
+       ],
+       "correctIndex": 3,
+       "explanation": "to put (something) in (thing を place に) is いれる (Ireru)."
+      },
+      {
+       "id": "e71",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to miss (a train, bus, etc.) (に)” in Japanese?",
+       "options": [
+        "あさねぼうする",
+        "あんないする",
+        "のりおくれる",
+        "みせる"
+       ],
+       "correctIndex": 2,
+       "explanation": "to miss (a train, bus, etc.) (に) is のりおくれる (Nori okureru)."
+      },
+      {
+       "id": "e72",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to show (を)” in Japanese?",
+       "options": [
+        "せつめいする",
+        "みせる",
+        "あさねぼうする",
+        "あんないする"
+       ],
+       "correctIndex": 1,
+       "explanation": "to show (を) is みせる (Miseru)."
+      },
+      {
+       "id": "e73",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to oversleep” in Japanese?",
+       "options": [
+        "あんないする",
+        "むかえにくる",
+        "あさねぼうする",
+        "せつめいする"
+       ],
+       "correctIndex": 2,
+       "explanation": "to oversleep is あさねぼうする (Asaneboo suru)."
+      },
+      {
+       "id": "e74",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to show (someone) around (place を)” in Japanese?",
+       "options": [
+        "むかえにくる",
+        "せつめいする",
+        "あんないする",
+        "おこす"
+       ],
+       "correctIndex": 2,
+       "explanation": "to show (someone) around (place を) is あんないする (Annai suru)."
+      },
+      {
+       "id": "e75",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to explain” in Japanese?",
+       "options": [
+        "むかえにくる",
+        "おごる",
+        "せつめいする",
+        "おこす"
+       ],
+       "correctIndex": 2,
+       "explanation": "to explain is せつめいする (Setsumee suru)."
+      },
+      {
+       "id": "e76",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to come to pick up (place まで/に person を)” in Japanese?",
+       "options": [
+        "おごる",
+        "おちこむ",
+        "むかえにくる",
+        "おこす"
+       ],
+       "correctIndex": 2,
+       "explanation": "to come to pick up (place まで/に person を) is むかえにくる (Mukae ni kuru)."
+      },
+      {
+       "id": "e77",
+       "type": "multipleChoice",
+       "prompt": "What does ええと mean?",
+       "options": [
+        "the other day",
+        "well…; let me see…",
+        "about this much (= これぐらい, このくらい, これくらい)",
+        "by the end of today"
+       ],
+       "correctIndex": 1,
+       "explanation": "ええと (Eeto) means “well…; let me see…”."
+      },
+      {
+       "id": "e78",
+       "type": "multipleChoice",
+       "prompt": "What does きょうじゅうに mean?",
+       "options": [
+        "I’m sorry (casual)",
+        "by the end of today",
+        "the other day",
+        "about this much (= これぐらい, このくらい, これくらい)"
+       ],
+       "correctIndex": 1,
+       "explanation": "きょうじゅうに (Kyoojuu ni) means “by the end of today”."
+      },
+      {
+       "id": "e79",
+       "type": "multipleChoice",
+       "prompt": "What does このあいだ mean?",
+       "options": [
+        "about this much (= これぐらい, このくらい, これくらい)",
+        "the other day",
+        "from now on",
+        "I’m sorry (casual)"
+       ],
+       "correctIndex": 1,
+       "explanation": "このあいだ (Kono aida) means “the other day”."
+      },
+      {
+       "id": "e80",
+       "type": "multipleChoice",
+       "prompt": "What does このぐらい mean?",
+       "options": [
+        "about this much (= これぐらい, このくらい, これくらい)",
+        "I’m sorry (casual)",
+        "from now on",
+        "Excuse me; Sorry to interrupt you"
+       ],
+       "correctIndex": 0,
+       "explanation": "このぐらい (Kono gurai) means “about this much (= これぐらい, このくらい, これくらい)”."
+      },
+      {
+       "id": "e81",
+       "type": "multipleChoice",
+       "prompt": "What does ごめん mean?",
+       "options": [
+        "Excuse me; Sorry to interrupt you",
+        "I’m sorry (casual)",
+        "(do something) by oneself",
+        "from now on"
+       ],
+       "correctIndex": 1,
+       "explanation": "ごめん (Gomen) means “I’m sorry (casual)”."
+      },
+      {
+       "id": "e82",
+       "type": "multipleChoice",
+       "prompt": "What does これから mean?",
+       "options": [
+        "(do something) by oneself",
+        "in class; during the class",
+        "Excuse me; Sorry to interrupt you",
+        "from now on"
+       ],
+       "correctIndex": 3,
+       "explanation": "これから (Kore kara) means “from now on”."
+      },
+      {
+       "id": "e83",
+       "type": "multipleChoice",
+       "prompt": "What does しつれいします mean?",
+       "options": [
+        "Excuse me; Sorry to interrupt you",
+        "other",
+        "(do something) by oneself",
+        "in class; during the class"
+       ],
+       "correctIndex": 0,
+       "explanation": "しつれいします (Shitsuree shimasu) means “Excuse me; Sorry to interrupt you”."
+      },
+      {
+       "id": "e84",
+       "type": "multipleChoice",
+       "prompt": "What does じぶんで mean?",
+       "options": [
+        "in class; during the class",
+        "(do something) by oneself",
+        "well…; let me see…",
+        "other"
+       ],
+       "correctIndex": 1,
+       "explanation": "じぶんで (Jibun de) means “(do something) by oneself”."
+      },
+      {
+       "id": "e85",
+       "type": "multipleChoice",
+       "prompt": "What does じゅぎょうちゅうに mean?",
+       "options": [
+        "well…; let me see…",
+        "by the end of today",
+        "other",
+        "in class; during the class"
+       ],
+       "correctIndex": 3,
+       "explanation": "じゅぎょうちゅうに (Jugyoochuu ni) means “in class; during the class”."
+      },
+      {
+       "id": "e86",
+       "type": "multipleChoice",
+       "prompt": "What does ほかの mean?",
+       "options": [
+        "other",
+        "well…; let me see…",
+        "the other day",
+        "by the end of today"
+       ],
+       "correctIndex": 0,
+       "explanation": "ほかの (Hoka no) means “other”."
+      },
+      {
+       "id": "e87",
+       "type": "multipleChoice",
+       "prompt": "How do you say “well…; let me see…” in Japanese?",
+       "options": [
+        "このあいだ",
+        "ええと",
+        "きょうじゅうに",
+        "このぐらい"
+       ],
+       "correctIndex": 1,
+       "explanation": "well…; let me see… is ええと (Eeto)."
+      },
+      {
+       "id": "e88",
+       "type": "multipleChoice",
+       "prompt": "How do you say “by the end of today” in Japanese?",
+       "options": [
+        "このあいだ",
+        "きょうじゅうに",
+        "ごめん",
+        "このぐらい"
+       ],
+       "correctIndex": 1,
+       "explanation": "by the end of today is きょうじゅうに (Kyoojuu ni)."
+      },
+      {
+       "id": "e89",
+       "type": "multipleChoice",
+       "prompt": "How do you say “the other day” in Japanese?",
+       "options": [
+        "ごめん",
+        "これから",
+        "このあいだ",
+        "このぐらい"
+       ],
+       "correctIndex": 2,
+       "explanation": "the other day is このあいだ (Kono aida)."
+      },
+      {
+       "id": "e90",
+       "type": "multipleChoice",
+       "prompt": "How do you say “about this much (= これぐらい, このくらい, これくらい)” in Japanese?",
+       "options": [
+        "このぐらい",
+        "しつれいします",
+        "ごめん",
+        "これから"
+       ],
+       "correctIndex": 0,
+       "explanation": "about this much (= これぐらい, このくらい, これくらい) is このぐらい (Kono gurai)."
+      },
+      {
+       "id": "e91",
+       "type": "multipleChoice",
+       "prompt": "How do you say “I’m sorry (casual)” in Japanese?",
+       "options": [
+        "じぶんで",
+        "しつれいします",
+        "これから",
+        "ごめん"
+       ],
+       "correctIndex": 3,
+       "explanation": "I’m sorry (casual) is ごめん (Gomen)."
+      },
+      {
+       "id": "e92",
+       "type": "multipleChoice",
+       "prompt": "How do you say “from now on” in Japanese?",
+       "options": [
+        "じゅぎょうちゅうに",
+        "しつれいします",
+        "じぶんで",
+        "これから"
+       ],
+       "correctIndex": 3,
+       "explanation": "from now on is これから (Kore kara)."
+      },
+      {
+       "id": "e93",
+       "type": "multipleChoice",
+       "prompt": "How do you say “Excuse me; Sorry to interrupt you” in Japanese?",
+       "options": [
+        "しつれいします",
+        "ほかの",
+        "じゅぎょうちゅうに",
+        "じぶんで"
+       ],
+       "correctIndex": 0,
+       "explanation": "Excuse me; Sorry to interrupt you is しつれいします (Shitsuree shimasu)."
+      },
+      {
+       "id": "e94",
+       "type": "multipleChoice",
+       "prompt": "How do you say “(do something) by oneself” in Japanese?",
+       "options": [
+        "じゅぎょうちゅうに",
+        "じぶんで",
+        "ほかの",
+        "ええと"
+       ],
+       "correctIndex": 1,
+       "explanation": "(do something) by oneself is じぶんで (Jibun de)."
+      },
+      {
+       "id": "e95",
+       "type": "multipleChoice",
+       "prompt": "How do you say “in class; during the class” in Japanese?",
+       "options": [
+        "きょうじゅうに",
+        "ええと",
+        "ほかの",
+        "じゅぎょうちゅうに"
+       ],
+       "correctIndex": 3,
+       "explanation": "in class; during the class is じゅぎょうちゅうに (Jugyoochuu ni)."
+      },
+      {
+       "id": "e96",
+       "type": "multipleChoice",
+       "prompt": "How do you say “other” in Japanese?",
+       "options": [
+        "このあいだ",
+        "ほかの",
+        "きょうじゅうに",
+        "ええと"
+       ],
+       "correctIndex": 1,
+       "explanation": "other is ほかの (Hoka no)."
+      },
+      {
+       "id": "e97",
+       "type": "multipleChoice",
+       "prompt": "How do you read 駅員さん?",
+       "options": [
+        "おおきさ",
+        "きまつしけん",
+        "えきいんさん",
+        "おや"
+       ],
+       "correctIndex": 2,
+       "explanation": "駅員さん is read えきいんさん (Ekiin-san)."
+      },
+      {
+       "id": "e98",
+       "type": "multipleChoice",
+       "prompt": "How do you read 大きさ?",
+       "options": [
+        "けんきゅう",
+        "きまつしけん",
+        "おおきさ",
+        "おや"
+       ],
+       "correctIndex": 2,
+       "explanation": "大きさ is read おおきさ (Ookisa)."
+      },
+      {
+       "id": "e99",
+       "type": "multipleChoice",
+       "prompt": "How do you read 親?",
+       "options": [
+        "けんきゅう",
+        "きまつしけん",
+        "おや",
+        "さとう"
+       ],
+       "correctIndex": 2,
+       "explanation": "親 is read おや (Oya)."
+      },
+      {
+       "id": "e100",
+       "type": "multipleChoice",
+       "prompt": "How do you read 期末試験?",
+       "options": [
+        "さとう",
+        "きまつしけん",
+        "けんきゅう",
+        "しょうがくきん"
+       ],
+       "correctIndex": 1,
+       "explanation": "期末試験 is read きまつしけん (Kimatsu shiken)."
+      },
+      {
+       "id": "e101",
+       "type": "multipleChoice",
+       "prompt": "How do you read 研究?",
+       "options": [
+        "けんきゅう",
+        "さとう",
+        "しょうがくきん",
+        "しんせき"
+       ],
+       "correctIndex": 0,
+       "explanation": "研究 is read けんきゅう (Kenkyuu)."
+      },
+      {
+       "id": "e102",
+       "type": "multipleChoice",
+       "prompt": "How do you read 砂糖?",
+       "options": [
+        "すいせんじょう",
+        "さとう",
+        "しょうがくきん",
+        "しんせき"
+       ],
+       "correctIndex": 1,
+       "explanation": "砂糖 is read さとう (Satoo)."
+      },
+      {
+       "id": "e103",
+       "type": "multipleChoice",
+       "prompt": "How do you read 奨学金?",
+       "options": [
+        "しょうがくきん",
+        "すいせんじょう",
+        "しんせき",
+        "だいがくいん"
+       ],
+       "correctIndex": 0,
+       "explanation": "奨学金 is read しょうがくきん (Shoogakukin)."
+      },
+      {
+       "id": "e104",
+       "type": "multipleChoice",
+       "prompt": "How do you read 親せき?",
+       "options": [
+        "たいふう",
+        "しんせき",
+        "だいがくいん",
+        "すいせんじょう"
+       ],
+       "correctIndex": 1,
+       "explanation": "親せき is read しんせき (Shinseki)."
+      },
+      {
+       "id": "e105",
+       "type": "multipleChoice",
+       "prompt": "How do you read 推薦状?",
+       "options": [
+        "だいがくいん",
+        "たいふう",
+        "ひ",
+        "すいせんじょう"
+       ],
+       "correctIndex": 3,
+       "explanation": "推薦状 is read すいせんじょう (Suisenjoo)."
+      },
+      {
+       "id": "e106",
+       "type": "multipleChoice",
+       "prompt": "How do you read 大学院?",
+       "options": [
+        "みち",
+        "だいがくいん",
+        "たいふう",
+        "ひ"
+       ],
+       "correctIndex": 1,
+       "explanation": "大学院 is read だいがくいん (Daigakuin)."
+      },
+      {
+       "id": "e107",
+       "type": "multipleChoice",
+       "prompt": "How do you read 台風?",
+       "options": [
+        "みち",
+        "めざましどけい",
+        "ひ",
+        "たいふう"
+       ],
+       "correctIndex": 3,
+       "explanation": "台風 is read たいふう (Taifuu)."
+      },
+      {
+       "id": "e108",
+       "type": "multipleChoice",
+       "prompt": "How do you read 日?",
+       "options": [
+        "きたない",
+        "みち",
+        "めざましどけい",
+        "ひ"
+       ],
+       "correctIndex": 3,
+       "explanation": "日 is read ひ (Hi)."
+      },
+      {
+       "id": "e109",
+       "type": "multipleChoice",
+       "prompt": "How do you read 道?",
+       "options": [
+        "きたない",
+        "みち",
+        "めざましどけい",
+        "おこす"
+       ],
+       "correctIndex": 1,
+       "explanation": "道 is read みち (Michi)."
+      },
+      {
+       "id": "e110",
+       "type": "multipleChoice",
+       "prompt": "How do you read 目覚まし時計?",
+       "options": [
+        "めざましどけい",
+        "おこす",
+        "きたない",
+        "おちこむ"
+       ],
+       "correctIndex": 0,
+       "explanation": "目覚まし時計 is read めざましどけい (Mezamashidokee)."
+      },
+      {
+       "id": "e111",
+       "type": "multipleChoice",
+       "prompt": "How do you read 汚い?",
+       "options": [
+        "おこす",
+        "こまる",
+        "きたない",
+        "おちこむ"
+       ],
+       "correctIndex": 2,
+       "explanation": "汚い is read きたない (Kitanai)."
+      },
+      {
+       "id": "e112",
+       "type": "multipleChoice",
+       "prompt": "How do you read 起こす?",
+       "options": [
+        "こまる",
+        "おちこむ",
+        "おこす",
+        "だす"
+       ],
+       "correctIndex": 2,
+       "explanation": "起こす is read おこす (Okosu)."
+      },
+      {
+       "id": "e113",
+       "type": "multipleChoice",
+       "prompt": "How do you read 落ち込む?",
+       "options": [
+        "こまる",
+        "つれていく",
+        "おちこむ",
+        "だす"
+       ],
+       "correctIndex": 2,
+       "explanation": "落ち込む is read おちこむ (Ochikomu)."
+      },
+      {
+       "id": "e114",
+       "type": "multipleChoice",
+       "prompt": "How do you read 困る?",
+       "options": [
+        "つれていく",
+        "だす",
+        "なおす",
+        "こまる"
+       ],
+       "correctIndex": 3,
+       "explanation": "困る is read こまる (Komaru)."
+      },
+      {
+       "id": "e115",
+       "type": "multipleChoice",
+       "prompt": "How do you read 出す?",
+       "options": [
+        "つれていく",
+        "だす",
+        "みちにまよう",
+        "なおす"
+       ],
+       "correctIndex": 1,
+       "explanation": "出す is read だす (Dasu)."
+      },
+      {
+       "id": "e116",
+       "type": "multipleChoice",
+       "prompt": "How do you read 連れていく?",
+       "options": [
+        "なおす",
+        "みちにまよう",
+        "みつかる",
+        "つれていく"
+       ],
+       "correctIndex": 3,
+       "explanation": "連れていく is read つれていく (Tsurete iku)."
+      },
+      {
+       "id": "e117",
+       "type": "multipleChoice",
+       "prompt": "How do you read 直す?",
+       "options": [
+        "むかえにいく",
+        "みちにまよう",
+        "みつかる",
+        "なおす"
+       ],
+       "correctIndex": 3,
+       "explanation": "直す is read なおす (Naosu)."
+      },
+      {
+       "id": "e118",
+       "type": "multipleChoice",
+       "prompt": "How do you read 道に迷う?",
+       "options": [
+        "みちにまよう",
+        "みつかる",
+        "むかえにいく",
+        "やくす"
+       ],
+       "correctIndex": 0,
+       "explanation": "道に迷う is read みちにまよう (Michi ni mayou)."
+      },
+      {
+       "id": "e119",
+       "type": "multipleChoice",
+       "prompt": "How do you read 見つかる?",
+       "options": [
+        "みつかる",
+        "やくす",
+        "むかえにいく",
+        "わらう"
+       ],
+       "correctIndex": 0,
+       "explanation": "見つかる is read みつかる (Mitsukaru)."
+      },
+      {
+       "id": "e120",
+       "type": "multipleChoice",
+       "prompt": "How do you read 迎えに行く?",
+       "options": [
+        "むかえにいく",
+        "わらう",
+        "あつめる",
+        "やくす"
+       ],
+       "correctIndex": 0,
+       "explanation": "迎えに行く is read むかえにいく (Mukae ni iku)."
+      },
+      {
+       "id": "e121",
+       "type": "multipleChoice",
+       "prompt": "How do you read 訳す?",
+       "options": [
+        "いれる",
+        "わらう",
+        "あつめる",
+        "やくす"
+       ],
+       "correctIndex": 3,
+       "explanation": "訳す is read やくす (Yakusu)."
+      },
+      {
+       "id": "e122",
+       "type": "multipleChoice",
+       "prompt": "How do you read 笑う?",
+       "options": [
+        "いれる",
+        "わらう",
+        "のりおくれる",
+        "あつめる"
+       ],
+       "correctIndex": 1,
+       "explanation": "笑う is read わらう (Warau)."
+      },
+      {
+       "id": "e123",
+       "type": "multipleChoice",
+       "prompt": "How do you read 集める?",
+       "options": [
+        "みせる",
+        "のりおくれる",
+        "いれる",
+        "あつめる"
+       ],
+       "correctIndex": 3,
+       "explanation": "集める is read あつめる (Atsumeru)."
+      },
+      {
+       "id": "e124",
+       "type": "multipleChoice",
+       "prompt": "How do you read 入れる?",
+       "options": [
+        "いれる",
+        "あさねぼうする",
+        "みせる",
+        "のりおくれる"
+       ],
+       "correctIndex": 0,
+       "explanation": "入れる is read いれる (Ireru)."
+      },
+      {
+       "id": "e125",
+       "type": "multipleChoice",
+       "prompt": "How do you read 乗り遅れる?",
+       "options": [
+        "あさねぼうする",
+        "のりおくれる",
+        "みせる",
+        "あんないする"
+       ],
+       "correctIndex": 1,
+       "explanation": "乗り遅れる is read のりおくれる (Nori okureru)."
+      },
+      {
+       "id": "e126",
+       "type": "multipleChoice",
+       "prompt": "How do you read 見せる?",
+       "options": [
+        "あんないする",
+        "せつめいする",
+        "あさねぼうする",
+        "みせる"
+       ],
+       "correctIndex": 3,
+       "explanation": "見せる is read みせる (Miseru)."
+      },
+      {
+       "id": "e127",
+       "type": "multipleChoice",
+       "prompt": "How do you read 朝寝坊する?",
+       "options": [
+        "あんないする",
+        "むかえにくる",
+        "せつめいする",
+        "あさねぼうする"
+       ],
+       "correctIndex": 3,
+       "explanation": "朝寝坊する is read あさねぼうする (Asaneboo suru)."
+      },
+      {
+       "id": "e128",
+       "type": "multipleChoice",
+       "prompt": "How do you read 案内する?",
+       "options": [
+        "せつめいする",
+        "きょうじゅうに",
+        "むかえにくる",
+        "あんないする"
+       ],
+       "correctIndex": 3,
+       "explanation": "案内する is read あんないする (Annai suru)."
+      },
+      {
+       "id": "e129",
+       "type": "multipleChoice",
+       "prompt": "How do you read 説明する?",
+       "options": [
+        "きょうじゅうに",
+        "むかえにくる",
+        "せつめいする",
+        "このあいだ"
+       ],
+       "correctIndex": 2,
+       "explanation": "説明する is read せつめいする (Setsumee suru)."
+      },
+      {
+       "id": "e130",
+       "type": "multipleChoice",
+       "prompt": "How do you read 迎えに来る?",
+       "options": [
+        "このあいだ",
+        "きょうじゅうに",
+        "むかえにくる",
+        "しつれいします"
+       ],
+       "correctIndex": 2,
+       "explanation": "迎えに来る is read むかえにくる (Mukae ni kuru)."
+      },
+      {
+       "id": "e131",
+       "type": "multipleChoice",
+       "prompt": "How do you read 今日中に?",
+       "options": [
+        "しつれいします",
+        "きょうじゅうに",
+        "じぶんで",
+        "このあいだ"
+       ],
+       "correctIndex": 1,
+       "explanation": "今日中に is read きょうじゅうに (Kyoojuu ni)."
+      },
+      {
+       "id": "e132",
+       "type": "multipleChoice",
+       "prompt": "How do you read この間?",
+       "options": [
+        "このあいだ",
+        "じぶんで",
+        "じゅぎょうちゅうに",
+        "しつれいします"
+       ],
+       "correctIndex": 0,
+       "explanation": "この間 is read このあいだ (Kono aida)."
+      },
+      {
+       "id": "e133",
+       "type": "multipleChoice",
+       "prompt": "How do you read 失礼します?",
+       "options": [
+        "じゅぎょうちゅうに",
+        "しつれいします",
+        "じぶんで",
+        "えきいんさん"
+       ],
+       "correctIndex": 1,
+       "explanation": "失礼します is read しつれいします (Shitsuree shimasu)."
+      },
+      {
+       "id": "e134",
+       "type": "multipleChoice",
+       "prompt": "How do you read 自分で?",
+       "options": [
+        "えきいんさん",
+        "おおきさ",
+        "じぶんで",
+        "じゅぎょうちゅうに"
+       ],
+       "correctIndex": 2,
+       "explanation": "自分で is read じぶんで (Jibun de)."
+      },
+      {
+       "id": "e135",
+       "type": "multipleChoice",
+       "prompt": "How do you read 授業中に?",
+       "options": [
+        "おおきさ",
+        "えきいんさん",
+        "おや",
+        "じゅぎょうちゅうに"
+       ],
+       "correctIndex": 3,
+       "explanation": "授業中に is read じゅぎょうちゅうに (Jugyoochuu ni)."
+      },
+      {
+       "id": "e136",
+       "type": "multipleChoice",
+       "prompt": "Which word means “scholarship”?",
+       "options": [
+        "奨学生",
+        "給料",
+        "奨学金",
+        "学費"
+       ],
+       "correctIndex": 2,
+       "explanation": "奨学金."
+      },
+      {
+       "id": "e137",
+       "type": "multipleChoice",
+       "prompt": "Which word means “graduate school”?",
+       "options": [
+        "学院",
+        "大学院",
+        "大学",
+        "大学生"
+       ],
+       "correctIndex": 1,
+       "explanation": "大学院."
+      },
+      {
+       "id": "e138",
+       "type": "multipleChoice",
+       "prompt": "Which word means “typhoon”?",
+       "options": [
+        "雪",
+        "火事",
+        "地震",
+        "台風"
+       ],
+       "correctIndex": 3,
+       "explanation": "台風."
+      },
+      {
+       "id": "e139",
+       "type": "multipleChoice",
+       "prompt": "Which word means “alarm clock”?",
+       "options": [
+        "腕時計",
+        "目覚まし時計",
+        "電子辞書",
+        "携帯"
+       ],
+       "correctIndex": 1,
+       "explanation": "目覚まし時計."
+      },
+      {
+       "id": "e140",
+       "type": "multipleChoice",
+       "prompt": "Which verb means “to get depressed”?",
+       "options": [
+        "笑う",
+        "困る",
+        "落ち込む",
+        "泣く"
+       ],
+       "correctIndex": 2,
+       "explanation": "落ち込む."
+      },
+      {
+       "id": "e141",
+       "type": "multipleChoice",
+       "prompt": "Which verb means “to oversleep”?",
+       "options": [
+        "夜更かしする",
+        "昼寝する",
+        "朝寝坊する",
+        "早起きする"
+       ],
+       "correctIndex": 2,
+       "explanation": "朝寝坊する."
+      },
+      {
+       "id": "e142",
+       "type": "multipleChoice",
+       "prompt": "Which verb means “to explain”?",
+       "options": [
+        "紹介する",
+        "案内する",
+        "説明する",
+        "訳す"
+       ],
+       "correctIndex": 2,
+       "explanation": "説明する."
+      },
+      {
+       "id": "e143",
+       "type": "multipleChoice",
+       "prompt": "Which verb means “to be found”?",
+       "options": [
+        "見つかる",
+        "見える",
+        "見つける",
+        "見せる"
+       ],
+       "correctIndex": 0,
+       "explanation": "見つかる."
+      },
+      {
+       "id": "e144",
+       "type": "multipleChoice",
+       "prompt": "Which word means “I’m sorry” (casual)?",
+       "options": [
+        "ありがとう",
+        "ごめん",
+        "すみません",
+        "失礼します"
+       ],
+       "correctIndex": 1,
+       "explanation": "ごめん."
+      },
+      {
+       "id": "e145",
+       "type": "multipleChoice",
+       "prompt": "What does 授業中に mean?",
+       "options": [
+        "before the class",
+        "instead of the class",
+        "after the class",
+        "during the class"
+       ],
+       "correctIndex": 3,
+       "explanation": "授業中に."
+      },
+      {
+       "id": "e146",
+       "type": "multipleChoice",
+       "prompt": "What does 今日中に mean?",
+       "options": [
+        "since this morning",
+        "all day yesterday",
+        "tomorrow morning",
+        "by the end of today"
+       ],
+       "correctIndex": 3,
+       "explanation": "今日中に."
+      }
+     ]
+    },
+    {
+     "id": "ja_184",
+     "title": "184. Grammar 1: ～てあげる, ～てくれる, ～てもらう (favors)",
+     "subtitle": "貸してあげました · 手伝ってくれます · 手伝ってもらいました · 連れていってくれました · 私のために掃除してくれました",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "Giving and receiving services",
+       "body": "In Lesson 14 you learned that あげる, くれる and もらう describe transactions of things. Here they are used as helping verbs: when they follow the て-form of a verb, they describe the giving and receiving of services (doing something for somebody).",
+       "tables": [
+        {
+         "headers": [
+          "Pattern",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "て-form + あげる",
+           "I do something for you; you do something for others; I do something for others; somebody does something for somebody else"
+          ],
+          [
+           "て-form + くれる",
+           "somebody does something for me; you do something for me; you do something for somebody close to me or for you"
+          ],
+          [
+           "て-form + もらう",
+           "I get somebody to do something for me"
+          ]
+         ],
+         "speakCols": []
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "～てあげる",
+       "body": "We use the て-form + あげる when we do something for the sake of others, or somebody does something for somebody else. The addition of the helping verb あげる does not change the basic meaning of the sentences, but puts focus on the fact that the actions were performed “on demand” or “as a favor”. Compare each with the plain statement. The particles used in the あげる sentence are the same as those the main verb calls for (貸す goes with に, 連れていく goes with を). When the main verb has no place for the beneficiary, use ～のために.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "私は妹にお金を貸してあげました。",
+         "translation": "Watashi wa imooto ni okane o kashite agemashita. — I (generously) lent my sister money (to help her out of her destitute conditions)."
+        },
+        {
+         "text": "私は妹にお金を貸しました。",
+         "translation": "Watashi wa imooto ni okane o kashimashita. — I lent my sister money. (an objective statement)"
+        },
+        {
+         "text": "私はともこさんのために買い物に行きました。",
+         "translation": "Watashi wa Tomoko-san no tame ni kaimono ni ikimashita. — I went shopping for Tomoko."
+        },
+        {
+         "text": "私は買い物に行きました。",
+         "translation": "Watashi wa kaimono ni ikimashita. — I went shopping. (an objective statement)"
+        },
+        {
+         "text": "きょうこさんはトムさんを駅に連れていってあげました。",
+         "translation": "Kyooko-san wa Tomu-san o eki ni tsurete itte agemashita. — Kyoko (kindly) took Tom to the station (because he would be lost if left all by himself)."
+        },
+        {
+         "text": "きょうこさんはトムさんを駅に連れていきました。",
+         "translation": "Kyooko-san wa Tomu-san o eki ni tsurete ikimashita. — Kyoko took Tom to the station. (an objective statement)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "～てくれる",
+       "body": "We use くれる when somebody does something for us. The beneficiary is almost always understood to be the speaker in くれる sentences, so it usually does not figure grammatically. If you have to explicitly state who received the benefit, you can follow the same strategies employed in あげる sentences: keep the particle that goes with it (連れていく calls for を, 教える calls for に), or use ～のために when the main verb does not have a place for the person (掃除する).",
+       "tables": [],
+       "examples": [
+        {
+         "text": "友だちが宿題を手伝ってくれます。",
+         "translation": "Tomodachi ga shukudai o tetsudatte kuremasu. — A friend helps me with my homework (for which I am grateful)."
+        },
+        {
+         "text": "親せきがクッキーを送ってくれました。",
+         "translation": "Shinseki ga kukkii o okutte kuremashita. — A relative sent me cookies. (I should be so lucky.)"
+        },
+        {
+         "text": "きょうこさんが私を駅に連れていってくれました。",
+         "translation": "Kyooko-san ga watashi o eki ni tsurete itte kuremashita. — Kyoko took me to the station."
+        },
+        {
+         "text": "たけしさんが私に漢字を教えてくれました。",
+         "translation": "Takeshi-san ga watashi ni kanji o oshiete kuremashita. — Takeshi taught me that kanji."
+        },
+        {
+         "text": "けんさんが私のために部屋を掃除してくれました。",
+         "translation": "Ken-san ga watashi no tame ni heya o sooji shite kuremashita. — Ken cleaned the room for me."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "～てもらう",
+       "body": "We use the て-form + もらう to say that we get, persuade, or arrange for somebody to do something for us. In other words, we “receive” somebody’s favor. The person performing the action for us is accompanied by the particle に. Compare it with the くれる version: they describe more or less the same event, but the subjects are different. In もらう sentences, the subject is the beneficiary. In くれる sentences, the subject is the benefactor. Sometimes a もらう sentence simply acknowledges a person’s goodwill in doing something for us (the last example).",
+       "tables": [],
+       "examples": [
+        {
+         "text": "私は友だちに宿題を手伝ってもらいました。",
+         "translation": "Watashi wa tomodachi ni shukudai o tetsudatte moraimashita. — I got a friend of mine to help me with my homework."
+        },
+        {
+         "text": "友だちが宿題を手伝ってくれました。",
+         "translation": "Tomodachi ga shukudai o tetsudatte kuremashita. — A friend of mine helped me with my homework."
+        },
+        {
+         "text": "私は知らない人に漢字を読んでもらいました。",
+         "translation": "Watashi wa shiranai hito ni kanji o yonde moraimashita. — I am glad that a stranger read the kanji for me."
+        }
+       ],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does 私は妹にお金を貸してあげました。 mean?",
+       "options": [
+        "I went shopping for Tomoko.",
+        "Kyoko (kindly) took Tom to the station (because he would be lost if left all by himself).",
+        "I (generously) lent my sister money (to help her out of her destitute conditions).",
+        "A friend helps me with my homework (for which I am grateful)."
+       ],
+       "correctIndex": 2,
+       "explanation": "私は妹にお金を貸してあげました。"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What does 私はともこさんのために買い物に行きました。 mean?",
+       "options": [
+        "A friend helps me with my homework (for which I am grateful).",
+        "I (generously) lent my sister money (to help her out of her destitute conditions).",
+        "I went shopping for Tomoko.",
+        "Kyoko (kindly) took Tom to the station (because he would be lost if left all by himself)."
+       ],
+       "correctIndex": 2,
+       "explanation": "私はともこさんのために買い物に行きました。"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What does きょうこさんはトムさんを駅に連れていってあげました。 mean?",
+       "options": [
+        "A friend helps me with my homework (for which I am grateful).",
+        "I went shopping for Tomoko.",
+        "Kyoko (kindly) took Tom to the station (because he would be lost if left all by himself).",
+        "I (generously) lent my sister money (to help her out of her destitute conditions)."
+       ],
+       "correctIndex": 2,
+       "explanation": "きょうこさんはトムさんを駅に連れていってあげました。"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does 友だちが宿題を手伝ってくれます。 mean?",
+       "options": [
+        "I (generously) lent my sister money (to help her out of her destitute conditions).",
+        "I went shopping for Tomoko.",
+        "Kyoko (kindly) took Tom to the station (because he would be lost if left all by himself).",
+        "A friend helps me with my homework (for which I am grateful)."
+       ],
+       "correctIndex": 3,
+       "explanation": "友だちが宿題を手伝ってくれます。"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What does 親せきがクッキーを送ってくれました。 mean?",
+       "options": [
+        "Kyoko (kindly) took Tom to the station (because he would be lost if left all by himself).",
+        "A relative sent me cookies. (I should be so lucky.)",
+        "I (generously) lent my sister money (to help her out of her destitute conditions).",
+        "I went shopping for Tomoko."
+       ],
+       "correctIndex": 1,
+       "explanation": "親せきがクッキーを送ってくれました。"
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What does きょうこさんが私を駅に連れていってくれました。 mean?",
+       "options": [
+        "I went shopping for Tomoko.",
+        "Kyoko (kindly) took Tom to the station (because he would be lost if left all by himself).",
+        "I (generously) lent my sister money (to help her out of her destitute conditions).",
+        "Kyoko took me to the station."
+       ],
+       "correctIndex": 3,
+       "explanation": "きょうこさんが私を駅に連れていってくれました。"
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What does たけしさんが私に漢字を教えてくれました。 mean?",
+       "options": [
+        "I (generously) lent my sister money (to help her out of her destitute conditions).",
+        "I went shopping for Tomoko.",
+        "Kyoko (kindly) took Tom to the station (because he would be lost if left all by himself).",
+        "Takeshi taught me that kanji."
+       ],
+       "correctIndex": 3,
+       "explanation": "たけしさんが私に漢字を教えてくれました。"
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What does けんさんが私のために部屋を掃除してくれました。 mean?",
+       "options": [
+        "I (generously) lent my sister money (to help her out of her destitute conditions).",
+        "Ken cleaned the room for me.",
+        "I went shopping for Tomoko.",
+        "Kyoko (kindly) took Tom to the station (because he would be lost if left all by himself)."
+       ],
+       "correctIndex": 1,
+       "explanation": "けんさんが私のために部屋を掃除してくれました。"
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "What does 私は友だちに宿題を手伝ってもらいました。 mean?",
+       "options": [
+        "I went shopping for Tomoko.",
+        "Kyoko (kindly) took Tom to the station (because he would be lost if left all by himself).",
+        "I (generously) lent my sister money (to help her out of her destitute conditions).",
+        "I got a friend of mine to help me with my homework."
+       ],
+       "correctIndex": 3,
+       "explanation": "私は友だちに宿題を手伝ってもらいました。"
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What does 友だちが宿題を手伝ってくれました。 mean?",
+       "options": [
+        "I went shopping for Tomoko.",
+        "I (generously) lent my sister money (to help her out of her destitute conditions).",
+        "A friend of mine helped me with my homework.",
+        "Kyoko (kindly) took Tom to the station (because he would be lost if left all by himself)."
+       ],
+       "correctIndex": 2,
+       "explanation": "友だちが宿題を手伝ってくれました。"
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What does 私は知らない人に漢字を読んでもらいました。 mean?",
+       "options": [
+        "Kyoko (kindly) took Tom to the station (because he would be lost if left all by himself).",
+        "I (generously) lent my sister money (to help her out of her destitute conditions).",
+        "I am glad that a stranger read the kanji for me.",
+        "I went shopping for Tomoko."
+       ],
+       "correctIndex": 2,
+       "explanation": "私は知らない人に漢字を読んでもらいました。"
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "Which helping verb means “somebody does something for me”?",
+       "options": [
+        "てくれる",
+        "てみる",
+        "てあげる",
+        "てもらう"
+       ],
+       "correctIndex": 0,
+       "explanation": "てくれる."
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "Which helping verb means “I get somebody to do something for me”?",
+       "options": [
+        "てくれる",
+        "てもらう",
+        "てあげる",
+        "ておく"
+       ],
+       "correctIndex": 1,
+       "explanation": "てもらう."
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "Which helping verb means “I do something for you”?",
+       "options": [
+        "てあげる",
+        "てくれる",
+        "てしまう",
+        "てもらう"
+       ],
+       "correctIndex": 0,
+       "explanation": "てあげる."
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "In a くれる sentence, who is the subject?",
+       "options": [
+        "the beneficiary",
+        "the speaker’s teacher",
+        "the benefactor",
+        "nobody"
+       ],
+       "correctIndex": 2,
+       "explanation": "benefactor."
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "In a もらう sentence, who is the subject?",
+       "options": [
+        "nobody",
+        "the benefactor",
+        "the beneficiary",
+        "a third person"
+       ],
+       "correctIndex": 2,
+       "explanation": "beneficiary."
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "Which particle marks the person who does the favor with もらう?",
+       "options": [
+        "が",
+        "で",
+        "を",
+        "に"
+       ],
+       "correctIndex": 3,
+       "explanation": "友だちに…もらう."
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "Which sentence means “My friend helped me with my homework”?",
+       "options": [
+        "私は友だちに宿題を手伝ってあげました。",
+        "友だちに宿題を手伝ってくれました。",
+        "友だちが宿題を手伝ってもらいました。",
+        "友だちが宿題を手伝ってくれました。"
+       ],
+       "correctIndex": 3,
+       "explanation": "くれる."
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "Which means “I got my friend to help me with homework”?",
+       "options": [
+        "友だちが宿題を手伝ってくれました。",
+        "私は友だちに宿題を手伝ってもらいました。",
+        "私は友だちが宿題を手伝ってもらいました。",
+        "私は友だちを宿題を手伝いました。"
+       ],
+       "correctIndex": 1,
+       "explanation": "もらう."
+      },
+      {
+       "id": "e20",
+       "type": "multipleChoice",
+       "prompt": "What can you use when the main verb has no place for the beneficiary?",
+       "options": [
+        "～ためで",
+        "～のでに",
+        "～ので",
+        "～のために"
+       ],
+       "correctIndex": 3,
+       "explanation": "のために."
+      },
+      {
+       "id": "e21",
+       "type": "fillBlank",
+       "prompt": "私は妹にお金を貸して___ました。 (as a favor)",
+       "options": [
+        "くれ",
+        "いただき",
+        "あげ",
+        "もらい"
+       ],
+       "correctIndex": 2,
+       "explanation": "貸してあげました."
+      },
+      {
+       "id": "e22",
+       "type": "fillBlank",
+       "prompt": "友だちが宿題を手伝って___ました。 (for me)",
+       "options": [
+        "あげ",
+        "さしあげ",
+        "もらい",
+        "くれ"
+       ],
+       "correctIndex": 3,
+       "explanation": "手伝ってくれました."
+      },
+      {
+       "id": "e23",
+       "type": "fillBlank",
+       "prompt": "私は友だちに宿題を手伝って___ました。 (got)",
+       "options": [
+        "もらい",
+        "あげ",
+        "やり",
+        "くれ"
+       ],
+       "correctIndex": 0,
+       "explanation": "手伝ってもらいました."
+      },
+      {
+       "id": "e24",
+       "type": "fillBlank",
+       "prompt": "私はともこさんの___に買い物に行きました。",
+       "options": [
+        "はず",
+        "ので",
+        "から",
+        "ため"
+       ],
+       "correctIndex": 3,
+       "explanation": "のために."
+      },
+      {
+       "id": "e25",
+       "type": "fillBlank",
+       "prompt": "きょうこさんはトムさんを駅に連れていって___ました。",
+       "options": [
+        "くれ",
+        "あげ",
+        "もらい",
+        "やり"
+       ],
+       "correctIndex": 1,
+       "explanation": "連れていってあげました."
+      },
+      {
+       "id": "e26",
+       "type": "fillBlank",
+       "prompt": "けんさんが私のために部屋を掃除して___ました。",
+       "options": [
+        "やり",
+        "もらい",
+        "あげ",
+        "くれ"
+       ],
+       "correctIndex": 3,
+       "explanation": "掃除してくれました."
+      }
+     ]
+    },
+    {
+     "id": "ja_185",
+     "title": "185. Grammar 2: ～ていただけませんか (three ways to request)",
+     "subtitle": "手伝っていただけませんか · 待ってくれませんか · 取ってくれない？ · 取って",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "Three levels of politeness",
+       "body": "There are three new ways to make a request. They differ in the degree of politeness shown to the person you are asking.",
+       "tables": [
+        {
+         "headers": [
+          "Form",
+          "Politeness",
+          "Example"
+         ],
+         "rows": [
+          [
+           "て-form + いただけませんか",
+           "polite",
+           "ちょっと手伝っていただけませんか。"
+          ],
+          [
+           "て-form + くれませんか",
+           "neutral",
+           "ちょっと待ってくれませんか。"
+          ],
+          [
+           "て-form + くれない？／て-form",
+           "casual",
+           "それ取ってくれない？"
+          ]
+         ],
+         "speakCols": [
+          2
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "～ていただけませんか",
+       "body": "We use the て-form of a verb + いただけませんか to make a polite request. This is more appropriate than ください when you request a favor from a nonpeer or from a stranger.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "ちょっと手伝っていただけませんか。",
+         "translation": "Chotto tetsudatte itadakemasen ka. — Would you lend me a hand? (polite)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "～てくれませんか",
+       "body": "The て-form + くれませんか is a request which is roughly equal in the degree of politeness to ください. くれませんか of course comes from the verb くれる. This is probably the form most appropriate in the host-family context.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "ちょっと待ってくれませんか。",
+         "translation": "Chotto matte kuremasen ka. — Will you wait for a second? (neutral)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "～てくれない？ and the て-form",
+       "body": "You can use the て-form + くれない？, or the て-form by itself, to ask for a favor in a very casual way. This is good for speaking with members of your peer group.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "それ取ってくれない？",
+         "translation": "Sore totte kurenai? — Pick that thing up (and pass it to me), will you? (casual)"
+        },
+        {
+         "text": "それ取って。",
+         "translation": "Sore totte. — Pick that thing up. (casual: the て-form alone)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Where いただけませんか comes from",
+       "body": "いただけませんか comes from いただける, the potential verb of いただく, “to receive (something or a favor) from somebody higher up”. There is also くださいませんか, from くださる, “somebody higher up gives me (something or a favor)”; ください is historically a truncation of くださいませんか. In order of decreasing politeness the variants are: ～ていただけませんか, ～てくださいませんか (くださる), ～てもらえませんか (もらえる, the potential verb of もらう), ～てくれませんか (くれる), ～てもらえない？ (もらえる, short form), ～てくれない？ (くれる, short form). In addition to these, each verb can be used in the affirmative as well as in the negative.",
+       "tables": [
+        {
+         "headers": [
+          "Form",
+          "Verb"
+         ],
+         "rows": [
+          [
+           "～ていただけませんか",
+           "いただける"
+          ],
+          [
+           "～てくださいませんか",
+           "くださる"
+          ],
+          [
+           "～てもらえませんか",
+           "もらえる"
+          ],
+          [
+           "～てくれませんか",
+           "くれる"
+          ],
+          [
+           "～てもらえない？",
+           "もらえる (short form)"
+          ],
+          [
+           "～てくれない？",
+           "くれる (short form)"
+          ]
+         ],
+         "speakCols": []
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does ちょっと手伝っていただけませんか。 mean?",
+       "options": [
+        "Pick that thing up (and pass it to me), will you? (casual)",
+        "Would you lend me a hand? (polite)",
+        "Will you wait for a second? (neutral)",
+        "Pick that thing up. (casual: the て-form alone)"
+       ],
+       "correctIndex": 1,
+       "explanation": "ちょっと手伝っていただけませんか。"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What does ちょっと待ってくれませんか。 mean?",
+       "options": [
+        "Would you lend me a hand? (polite)",
+        "Pick that thing up (and pass it to me), will you? (casual)",
+        "Pick that thing up. (casual: the て-form alone)",
+        "Will you wait for a second? (neutral)"
+       ],
+       "correctIndex": 3,
+       "explanation": "ちょっと待ってくれませんか。"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What does それ取ってくれない？ mean?",
+       "options": [
+        "Would you lend me a hand? (polite)",
+        "Will you wait for a second? (neutral)",
+        "Pick that thing up (and pass it to me), will you? (casual)",
+        "Pick that thing up. (casual: the て-form alone)"
+       ],
+       "correctIndex": 2,
+       "explanation": "それ取ってくれない？"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does それ取って。 mean?",
+       "options": [
+        "Pick that thing up (and pass it to me), will you? (casual)",
+        "Will you wait for a second? (neutral)",
+        "Would you lend me a hand? (polite)",
+        "Pick that thing up. (casual: the て-form alone)"
+       ],
+       "correctIndex": 3,
+       "explanation": "それ取って。"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "Which request is the most polite?",
+       "options": [
+        "手伝っていただけませんか。",
+        "手伝ってくれない？",
+        "手伝ってくれませんか。",
+        "手伝って。"
+       ],
+       "correctIndex": 0,
+       "explanation": "いただけませんか."
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "Which request is the most casual?",
+       "options": [
+        "手伝ってください。",
+        "手伝っていただけませんか。",
+        "手伝って。",
+        "手伝ってくれませんか。"
+       ],
+       "correctIndex": 2,
+       "explanation": "て-form."
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "Which request is best for a host family?",
+       "options": [
+        "手伝ってくれませんか。",
+        "手伝って。",
+        "手伝ってくれない？",
+        "手伝っていただけませんか。"
+       ],
+       "correctIndex": 0,
+       "explanation": "くれませんか."
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "Which request is best for a stranger or a teacher?",
+       "options": [
+        "て-form alone",
+        "くれない？",
+        "いただけませんか",
+        "くれませんか"
+       ],
+       "correctIndex": 2,
+       "explanation": "いただけませんか."
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "いただけませんか comes from which verb?",
+       "options": [
+        "もらう",
+        "あげる",
+        "くれる",
+        "いただく"
+       ],
+       "correctIndex": 3,
+       "explanation": "いただける ← いただく."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What does くださいませんか come from?",
+       "options": [
+        "くださる",
+        "いただく",
+        "もらう",
+        "くれる"
+       ],
+       "correctIndex": 0,
+       "explanation": "くださる."
+      },
+      {
+       "id": "e11",
+       "type": "fillBlank",
+       "prompt": "ちょっと手伝って___ませんか。 (polite)",
+       "options": [
+        "くれ",
+        "あげ",
+        "もらい",
+        "いただけ"
+       ],
+       "correctIndex": 3,
+       "explanation": "いただけませんか."
+      },
+      {
+       "id": "e12",
+       "type": "fillBlank",
+       "prompt": "ちょっと待って___ませんか。 (neutral)",
+       "options": [
+        "いただけ",
+        "もらい",
+        "あげ",
+        "くれ"
+       ],
+       "correctIndex": 3,
+       "explanation": "くれませんか."
+      },
+      {
+       "id": "e13",
+       "type": "fillBlank",
+       "prompt": "それ取って___？ (casual)",
+       "options": [
+        "もらわない",
+        "あげない",
+        "いただけない",
+        "くれない"
+       ],
+       "correctIndex": 3,
+       "explanation": "くれない?"
+      },
+      {
+       "id": "e14",
+       "type": "fillBlank",
+       "prompt": "先生、推薦状を書いて___ませんか。",
+       "options": [
+        "くれ",
+        "いただけ",
+        "あげ",
+        "やり"
+       ],
+       "correctIndex": 1,
+       "explanation": "いただけませんか."
+      }
+     ]
+    },
+    {
+     "id": "ja_186",
+     "title": "186. Grammar 3: ～といい (I hope that…)",
+     "subtitle": "見つかるといいですね · 雨が降らないといいね · やさしいといいんですが · 乗れるといいんだけど",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "～といいですね: I hope for you",
+       "body": "You can use the present tense short form + といいですね (polite) or といいね (casual) to say that you hope something nice happens. When you say といいですね or といいね, you are wishing for the good luck of somebody other than yourself.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "いいアルバイトが見つかるといいですね。",
+         "translation": "Ii arubaito ga mitsukaru to ii desu ne. — I hope you find a good part-time job."
+        },
+        {
+         "text": "雨が降らないといいね。",
+         "translation": "Ame ga furanai to ii ne. — I hope it doesn’t rain."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "～といいんですが: I hope for myself",
+       "body": "To say what you hope for, for your own good, you can use といいんですが (polite) or といいんだけど (casual). These endings show the speaker’s attitude is more tentative and make the sentence sound more modest.",
+       "tables": [
+        {
+         "headers": [
+          "Pattern",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "(short, present) と + いいですね／いいね",
+           "I hope… (for you or them)"
+          ],
+          [
+           "(short, present) と + いいんですが／いいんだけど",
+           "I hope… (for myself)"
+          ]
+         ],
+         "speakCols": []
+        }
+       ],
+       "examples": [
+        {
+         "text": "試験がやさしいといいんですが。",
+         "translation": "Shiken ga yasashii to ii n desu ga. — I am hoping that the exam is easy."
+        },
+        {
+         "text": "八時の電車に乗れるといいんだけど。",
+         "translation": "Hachiji no densha ni noreru to ii n da kedo. — I hope I can catch the eight o’clock train."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Only for things that just happen",
+       "body": "All these といい sentences mean that you are hoping that something nice happens. This means that these patterns cannot be used in cases where you hope to do something nice, which is under your control. In such cases, you can usually turn the verb into the potential form: 大学に行けるといいんですが is fine, but 大学に行くといいんですが is not (the book marks it wrong).",
+       "tables": [],
+       "examples": [
+        {
+         "text": "大学に行けるといいんですが。",
+         "translation": "Daigaku ni ikeru to ii n desu ga. — I am hoping to go to college. (= I am hoping that I can go to college.)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "An indirect request",
+       "body": "If you hope that you do something for me, that is, if you want to make an indirect request, use てくれる before といいんですが.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "スーさんが来てくれるといいんですが。",
+         "translation": "Suu-san ga kite kureru to ii n desu ga. — Sue, I hope you will come. (an indirect request)"
+        }
+       ],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does いいアルバイトが見つかるといいですね。 mean?",
+       "options": [
+        "I hope you find a good part-time job.",
+        "I am hoping that the exam is easy.",
+        "I hope it doesn’t rain.",
+        "I hope I can catch the eight o’clock train."
+       ],
+       "correctIndex": 0,
+       "explanation": "いいアルバイトが見つかるといいですね。"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What does 雨が降らないといいね。 mean?",
+       "options": [
+        "I hope it doesn’t rain.",
+        "I am hoping that the exam is easy.",
+        "I hope you find a good part-time job.",
+        "I hope I can catch the eight o’clock train."
+       ],
+       "correctIndex": 0,
+       "explanation": "雨が降らないといいね。"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What does 試験がやさしいといいんですが。 mean?",
+       "options": [
+        "I hope it doesn’t rain.",
+        "I hope you find a good part-time job.",
+        "I am hoping that the exam is easy.",
+        "I hope I can catch the eight o’clock train."
+       ],
+       "correctIndex": 2,
+       "explanation": "試験がやさしいといいんですが。"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does 八時の電車に乗れるといいんだけど。 mean?",
+       "options": [
+        "I hope it doesn’t rain.",
+        "I am hoping that the exam is easy.",
+        "I hope I can catch the eight o’clock train.",
+        "I hope you find a good part-time job."
+       ],
+       "correctIndex": 2,
+       "explanation": "八時の電車に乗れるといいんだけど。"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What does 大学に行けるといいんですが。 mean?",
+       "options": [
+        "I hope it doesn’t rain.",
+        "I am hoping to go to college. (= I am hoping that I can go to college.)",
+        "I hope you find a good part-time job.",
+        "I am hoping that the exam is easy."
+       ],
+       "correctIndex": 1,
+       "explanation": "大学に行けるといいんですが。"
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What does スーさんが来てくれるといいんですが。 mean?",
+       "options": [
+        "Sue, I hope you will come. (an indirect request)",
+        "I hope you find a good part-time job.",
+        "I am hoping that the exam is easy.",
+        "I hope it doesn’t rain."
+       ],
+       "correctIndex": 0,
+       "explanation": "スーさんが来てくれるといいんですが。"
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What does ～といいですね express?",
+       "options": [
+        "an order",
+        "a hope for somebody else",
+        "a past regret",
+        "a hope for yourself only"
+       ],
+       "correctIndex": 1,
+       "explanation": "hope for you."
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What does ～といいんですが express?",
+       "options": [
+        "a guess",
+        "an order",
+        "a hope for somebody else",
+        "a hope for yourself"
+       ],
+       "correctIndex": 3,
+       "explanation": "for myself."
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "Which verb form comes before といい?",
+       "options": [
+        "present short form",
+        "て-form",
+        "past long form",
+        "long form"
+       ],
+       "correctIndex": 0,
+       "explanation": "present short."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "Which sentence is wrong?",
+       "options": [
+        "大学に行くといいんですが。",
+        "大学に行けるといいんですが。",
+        "雨が降らないといいね。",
+        "いいアルバイトが見つかるといいですね。"
+       ],
+       "correctIndex": 0,
+       "explanation": "don’t use といい for what you control."
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What does といいんだけど add?",
+       "options": [
+        "a negative",
+        "a past tense",
+        "a tentative, modest tone",
+        "a command"
+       ],
+       "correctIndex": 2,
+       "explanation": "tentative."
+      },
+      {
+       "id": "e12",
+       "type": "fillBlank",
+       "prompt": "いいアルバイトが見つかる___いいですね。",
+       "options": [
+        "と",
+        "が",
+        "に",
+        "を"
+       ],
+       "correctIndex": 0,
+       "explanation": "見つかるといい."
+      },
+      {
+       "id": "e13",
+       "type": "fillBlank",
+       "prompt": "雨が降ら___といいね。 (not)",
+       "options": [
+        "ず",
+        "ない",
+        "ません",
+        "なく"
+       ],
+       "correctIndex": 1,
+       "explanation": "降らないといい."
+      },
+      {
+       "id": "e14",
+       "type": "fillBlank",
+       "prompt": "試験がやさしい___いいんですが。",
+       "options": [
+        "と",
+        "が",
+        "に",
+        "を"
+       ],
+       "correctIndex": 0,
+       "explanation": "やさしいといい."
+      },
+      {
+       "id": "e15",
+       "type": "fillBlank",
+       "prompt": "八時の電車に乗れる___いいんだけど。",
+       "options": [
+        "が",
+        "と",
+        "を",
+        "に"
+       ],
+       "correctIndex": 1,
+       "explanation": "乗れるといい."
+      },
+      {
+       "id": "e16",
+       "type": "fillBlank",
+       "prompt": "大学に行け___といいんですが。 (potential)",
+       "options": [
+        "る",
+        "く",
+        "ない",
+        "た"
+       ],
+       "correctIndex": 0,
+       "explanation": "行ける."
+      },
+      {
+       "id": "e17",
+       "type": "fillBlank",
+       "prompt": "スーさんが来て___といいんですが。 (for me)",
+       "options": [
+        "くれる",
+        "みる",
+        "もらう",
+        "あげる"
+       ],
+       "correctIndex": 0,
+       "explanation": "来てくれる."
+      }
+     ]
+    },
+    {
+     "id": "ja_187",
+     "title": "187. Grammar 4: ～時 (when…)",
+     "subtitle": "チベットに行く時 · 寝る時 · さびしい時 · 寒い時 · 元気な時 · 犬が病気の時 · 中国に行った時 · 疲れた時",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "Sentence A 時、sentence B",
+       "body": "We use the word 時 to describe when something happens or happened. In “sentence A 時、sentence B”, A is the time reference and B is the main event. The sentence A always ends with a short form, either in the present or the past tense. You can decide which tense to use in A by a simple thought experiment: place yourself at the time the main event B takes place, and imagine how you would describe the event in A. If A is current or yet to happen, use the present tense in A. If A has already taken place, use the past tense.",
+       "tables": [
+        {
+         "headers": [
+          "Pattern",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "sentence A 時、sentence B。",
+           "When A, B."
+          ]
+         ],
+         "speakCols": []
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "The present tense in A",
+       "body": "If, at the time the main event B takes place, A is current or is still “in the future”, use the present tense in A. As long as the event A occurs after the event B, the clause A gets the present tense, irrespective of the tense in clause B. Even if the whole sequence of events has been shifted to the past, the temporal order between the two events is exactly the same, hence the present tense of 行く.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "チベットに行く時、ビザを取ります。",
+         "translation": "Chibetto ni iku toki, biza o torimasu. — I will get the visa issued when I go to Tibet."
+        },
+        {
+         "text": "チベットに行く時、ビザを取りました。",
+         "translation": "Chibetto ni iku toki, biza o torimashita. — I had the visa issued when I was going to go to Tibet."
+        },
+        {
+         "text": "寝る時、コンタクトを取ります。",
+         "translation": "Neru toki, kontakuto o torimasu. — I take out the contact lenses when I go to sleep. (You take out the lenses [B], and then go to bed [A].)"
+        },
+        {
+         "text": "出かける時、ドアにかぎをかけました。",
+         "translation": "Dekakeru toki, doa ni kagi o kakemashita. — I locked the door when I went out. (You locked the door [B], and then went out [A].)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "States in A",
+       "body": "Clause A also gets the present tense when the state of A holds when the event B takes place. い-adjectives go directly before 時; な-adjectives get な, and nouns get の before 時. If A is a verbal idea (action) and describes an ongoing event during which B takes or took place, the verb in A is in the ている form: テレビを見ている時.",
+       "tables": [
+        {
+         "headers": [
+          "Type",
+          "Before 時",
+          "Example"
+         ],
+         "rows": [
+          [
+           "い-adjective",
+           "plain",
+           "寒い時"
+          ],
+          [
+           "な-adjective",
+           "な",
+           "元気な時"
+          ],
+          [
+           "noun",
+           "の",
+           "病気の時"
+          ],
+          [
+           "ongoing action",
+           "ている",
+           "見ている時"
+          ]
+         ],
+         "speakCols": [
+          2
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "さびしい時、友だちに電話します。",
+         "translation": "Sabishii toki, tomodachi ni denwa shimasu. — I call up friends when I am lonely."
+        },
+        {
+         "text": "寒い時、頭が痛くなります。",
+         "translation": "Samui toki, atama ga itaku narimasu. — I get a headache when it is cold."
+        },
+        {
+         "text": "元気な時、公園を走ります。",
+         "translation": "Genki na toki, kooen o hashirimasu. — I jog in the park when I feel fit."
+        },
+        {
+         "text": "犬が病気の時、病院に連れていきました。",
+         "translation": "Inu ga byooki no toki, byooin ni tsurete ikimashita. — I took the dog to a vet when it was sick."
+        },
+        {
+         "text": "テレビを見ている時、友だちから電話がありました。",
+         "translation": "Terebi o mite iru toki, tomodachi kara denwa ga arimashita. — A phone call came when I was watching TV."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "The past tense in A",
+       "body": "If, at the time of the main event B, A is already “in the past”, use the past tense in A. Note that we use the past tense even when the two events are yet to take place; it is the order of the two that matters. In the first example, you will have already arrived in China (A) at the time you buy tea (B).",
+       "tables": [],
+       "examples": [
+        {
+         "text": "中国に行った時、ウーロン茶を買います。",
+         "translation": "Chuugoku ni itta toki, uuroncha o kaimasu. — I will buy oolong tea when I go to China."
+        },
+        {
+         "text": "中国に行った時、ウーロン茶を買いました。",
+         "translation": "Chuugoku ni itta toki, uuroncha o kaimashita. — I bought oolong tea when I went to China."
+        },
+        {
+         "text": "疲れた時、ゆっくりお風呂に入ります。",
+         "translation": "Tsukareta toki, yukkuri ofuro ni hairimasu. — I take a long bath when I have gotten tired. (You get tired [A], and then take a bath [B].)"
+        },
+        {
+         "text": "宿題を忘れた時、泣いてしまいました。",
+         "translation": "Shukudai o wasureta toki, naite shimaimashita. — I cried when I had forgotten to bring the homework. (You found out about the homework [A] and then cried [B].)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "A mistake to avoid",
+       "body": "行っている does not describe an ongoing event but is the result of “going”, that is, being in a faraway place after going (see Lesson 7). So the book marks 沖縄に行っている時、飛行機に乗りました (“I went by plane when I was going to Okinawa”) as wrong. Use 沖縄に行く時 instead.",
+       "tables": [],
+       "examples": [],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does チベットに行く時、ビザを取ります。 mean?",
+       "options": [
+        "I locked the door when I went out. (You locked the door [B], and then went out [A].)",
+        "I had the visa issued when I was going to go to Tibet.",
+        "I will get the visa issued when I go to Tibet.",
+        "I take out the contact lenses when I go to sleep. (You take out the lenses [B], and then go to bed [A].)"
+       ],
+       "correctIndex": 2,
+       "explanation": "チベットに行く時、ビザを取ります。"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What does チベットに行く時、ビザを取りました。 mean?",
+       "options": [
+        "I will get the visa issued when I go to Tibet.",
+        "I had the visa issued when I was going to go to Tibet.",
+        "I locked the door when I went out. (You locked the door [B], and then went out [A].)",
+        "I take out the contact lenses when I go to sleep. (You take out the lenses [B], and then go to bed [A].)"
+       ],
+       "correctIndex": 1,
+       "explanation": "チベットに行く時、ビザを取りました。"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What does 寝る時、コンタクトを取ります。 mean?",
+       "options": [
+        "I locked the door when I went out. (You locked the door [B], and then went out [A].)",
+        "I will get the visa issued when I go to Tibet.",
+        "I take out the contact lenses when I go to sleep. (You take out the lenses [B], and then go to bed [A].)",
+        "I had the visa issued when I was going to go to Tibet."
+       ],
+       "correctIndex": 2,
+       "explanation": "寝る時、コンタクトを取ります。"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does 出かける時、ドアにかぎをかけました。 mean?",
+       "options": [
+        "I locked the door when I went out. (You locked the door [B], and then went out [A].)",
+        "I take out the contact lenses when I go to sleep. (You take out the lenses [B], and then go to bed [A].)",
+        "I had the visa issued when I was going to go to Tibet.",
+        "I will get the visa issued when I go to Tibet."
+       ],
+       "correctIndex": 0,
+       "explanation": "出かける時、ドアにかぎをかけました。"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What does さびしい時、友だちに電話します。 mean?",
+       "options": [
+        "I had the visa issued when I was going to go to Tibet.",
+        "I take out the contact lenses when I go to sleep. (You take out the lenses [B], and then go to bed [A].)",
+        "I will get the visa issued when I go to Tibet.",
+        "I call up friends when I am lonely."
+       ],
+       "correctIndex": 3,
+       "explanation": "さびしい時、友だちに電話します。"
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What does 寒い時、頭が痛くなります。 mean?",
+       "options": [
+        "I get a headache when it is cold.",
+        "I will get the visa issued when I go to Tibet.",
+        "I take out the contact lenses when I go to sleep. (You take out the lenses [B], and then go to bed [A].)",
+        "I had the visa issued when I was going to go to Tibet."
+       ],
+       "correctIndex": 0,
+       "explanation": "寒い時、頭が痛くなります。"
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What does 元気な時、公園を走ります。 mean?",
+       "options": [
+        "I had the visa issued when I was going to go to Tibet.",
+        "I jog in the park when I feel fit.",
+        "I take out the contact lenses when I go to sleep. (You take out the lenses [B], and then go to bed [A].)",
+        "I will get the visa issued when I go to Tibet."
+       ],
+       "correctIndex": 1,
+       "explanation": "元気な時、公園を走ります。"
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What does 犬が病気の時、病院に連れていきました。 mean?",
+       "options": [
+        "I take out the contact lenses when I go to sleep. (You take out the lenses [B], and then go to bed [A].)",
+        "I took the dog to a vet when it was sick.",
+        "I will get the visa issued when I go to Tibet.",
+        "I had the visa issued when I was going to go to Tibet."
+       ],
+       "correctIndex": 1,
+       "explanation": "犬が病気の時、病院に連れていきました。"
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "What does テレビを見ている時、友だちから電話がありました。 mean?",
+       "options": [
+        "A phone call came when I was watching TV.",
+        "I take out the contact lenses when I go to sleep. (You take out the lenses [B], and then go to bed [A].)",
+        "I will get the visa issued when I go to Tibet.",
+        "I had the visa issued when I was going to go to Tibet."
+       ],
+       "correctIndex": 0,
+       "explanation": "テレビを見ている時、友だちから電話がありました。"
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What does 中国に行った時、ウーロン茶を買います。 mean?",
+       "options": [
+        "I had the visa issued when I was going to go to Tibet.",
+        "I take out the contact lenses when I go to sleep. (You take out the lenses [B], and then go to bed [A].)",
+        "I will get the visa issued when I go to Tibet.",
+        "I will buy oolong tea when I go to China."
+       ],
+       "correctIndex": 3,
+       "explanation": "中国に行った時、ウーロン茶を買います。"
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What does 中国に行った時、ウーロン茶を買いました。 mean?",
+       "options": [
+        "I had the visa issued when I was going to go to Tibet.",
+        "I will get the visa issued when I go to Tibet.",
+        "I take out the contact lenses when I go to sleep. (You take out the lenses [B], and then go to bed [A].)",
+        "I bought oolong tea when I went to China."
+       ],
+       "correctIndex": 3,
+       "explanation": "中国に行った時、ウーロン茶を買いました。"
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "What does 疲れた時、ゆっくりお風呂に入ります。 mean?",
+       "options": [
+        "I had the visa issued when I was going to go to Tibet.",
+        "I take out the contact lenses when I go to sleep. (You take out the lenses [B], and then go to bed [A].)",
+        "I take a long bath when I have gotten tired. (You get tired [A], and then take a bath [B].)",
+        "I will get the visa issued when I go to Tibet."
+       ],
+       "correctIndex": 2,
+       "explanation": "疲れた時、ゆっくりお風呂に入ります。"
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "What does 宿題を忘れた時、泣いてしまいました。 mean?",
+       "options": [
+        "I will get the visa issued when I go to Tibet.",
+        "I take out the contact lenses when I go to sleep. (You take out the lenses [B], and then go to bed [A].)",
+        "I had the visa issued when I was going to go to Tibet.",
+        "I cried when I had forgotten to bring the homework. (You found out about the homework [A] and then cried [B].)"
+       ],
+       "correctIndex": 3,
+       "explanation": "宿題を忘れた時、泣いてしまいました。"
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "Which tense goes in A if A happens after B?",
+       "options": [
+        "past",
+        "volitional",
+        "negative",
+        "present"
+       ],
+       "correctIndex": 3,
+       "explanation": "present tense."
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "Which tense goes in A if A has already taken place when B happens?",
+       "options": [
+        "て-form",
+        "present",
+        "past",
+        "volitional"
+       ],
+       "correctIndex": 2,
+       "explanation": "past tense."
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "What goes between a noun and 時?",
+       "options": [
+        "な",
+        "の",
+        "に",
+        "が"
+       ],
+       "correctIndex": 1,
+       "explanation": "病気の時."
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "What goes between a な-adjective and 時?",
+       "options": [
+        "な",
+        "が",
+        "に",
+        "の"
+       ],
+       "correctIndex": 0,
+       "explanation": "元気な時."
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "Which is correct: “I take out my contact lenses when I go to sleep”?",
+       "options": [
+        "寝た時、コンタクトを取ります。",
+        "寝ている時、コンタクトを取ります。",
+        "寝る時、コンタクトを取ります。",
+        "寝るの時、コンタクトを取ります。"
+       ],
+       "correctIndex": 2,
+       "explanation": "B (remove) happens before A (sleep)."
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "Which is correct: “I bought oolong tea when I went to China”?",
+       "options": [
+        "中国に行ったの時、ウーロン茶を買いました。",
+        "中国に行った時、ウーロン茶を買いました。",
+        "中国に行く時、ウーロン茶を買いました。",
+        "中国に行っている時、ウーロン茶を買いました。"
+       ],
+       "correctIndex": 1,
+       "explanation": "A already took place."
+      },
+      {
+       "id": "e20",
+       "type": "multipleChoice",
+       "prompt": "Which form means an ongoing event during which B happens?",
+       "options": [
+        "～ている時",
+        "～た時",
+        "～る時",
+        "～ない時"
+       ],
+       "correctIndex": 0,
+       "explanation": "ている時."
+      },
+      {
+       "id": "e21",
+       "type": "fillBlank",
+       "prompt": "さびし___時、友だちに電話します。",
+       "options": [
+        "な",
+        "い",
+        "の",
+        "く"
+       ],
+       "correctIndex": 1,
+       "explanation": "さびしい時."
+      },
+      {
+       "id": "e22",
+       "type": "fillBlank",
+       "prompt": "元気___時、公園を走ります。",
+       "options": [
+        "な",
+        "の",
+        "に",
+        "い"
+       ],
+       "correctIndex": 0,
+       "explanation": "元気な時."
+      },
+      {
+       "id": "e23",
+       "type": "fillBlank",
+       "prompt": "犬が病気___時、病院に連れていきました。",
+       "options": [
+        "い",
+        "の",
+        "な",
+        "に"
+       ],
+       "correctIndex": 1,
+       "explanation": "病気の時."
+      },
+      {
+       "id": "e24",
+       "type": "fillBlank",
+       "prompt": "寝___時、コンタクトを取ります。",
+       "options": [
+        "ない",
+        "た",
+        "て",
+        "る"
+       ],
+       "correctIndex": 3,
+       "explanation": "寝る時."
+      },
+      {
+       "id": "e25",
+       "type": "fillBlank",
+       "prompt": "中国に行っ___時、ウーロン茶を買いました。",
+       "options": [
+        "る",
+        "た",
+        "て",
+        "ない"
+       ],
+       "correctIndex": 1,
+       "explanation": "行った時."
+      },
+      {
+       "id": "e26",
+       "type": "fillBlank",
+       "prompt": "テレビを見て___時、友だちから電話がありました。",
+       "options": [
+        "いる",
+        "ある",
+        "いて",
+        "いた"
+       ],
+       "correctIndex": 0,
+       "explanation": "見ている時."
+      },
+      {
+       "id": "e27",
+       "type": "fillBlank",
+       "prompt": "寒い___、頭が痛くなります。",
+       "options": [
+        "前",
+        "時",
+        "後",
+        "間"
+       ],
+       "correctIndex": 1,
+       "explanation": "寒い時."
+      }
+     ]
+    },
+    {
+     "id": "ja_188",
+     "title": "188. Grammar 5: apologizing with ～てすみませんでした, expression notes and culture",
+     "subtitle": "すみませんでした · ごめん · 来られなくて · 大きさ · おごる · ごちそうする · お中元 · お歳暮 · お土産 · 手土産",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "～てすみませんでした",
+       "body": "You use the て-form of a verb to describe the things you have done that you want to apologize for. With friends, use ごめん instead of すみませんでした.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "汚い言葉を使って、すみませんでした。",
+         "translation": "Kitanai kotoba o tsukatte, sumimasen deshita. — I am sorry for using foul language."
+        },
+        {
+         "text": "デートの約束を忘れて、ごめん。",
+         "translation": "Deeto no yakusoku o wasurete, gomen. — Sorry that I stood you up."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Apologizing for what you failed to do",
+       "body": "When you want to apologize for something you have failed to do, you use ～なくて, the short, negative て-form of a verb. (To derive the form, first turn the verb into the short, negative ～ない, and then replace the last い with くて.) The same form appears in the dialogue: 来られなくてすみませんでした.",
+       "tables": [
+        {
+         "headers": [
+          "Short negative",
+          "Negative て-form"
+         ],
+         "rows": [
+          [
+           "持ってこない",
+           "持ってこなくて"
+          ],
+          [
+           "言わない",
+           "言わなくて"
+          ],
+          [
+           "来られない",
+           "来られなくて"
+          ]
+         ],
+         "speakCols": [
+          0,
+          1
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "宿題を持ってこなくて、すみませんでした。",
+         "translation": "Shukudai o motte konakute, sumimasen deshita. — I am sorry for not bringing the homework."
+        },
+        {
+         "text": "もっと早く言わなくて、ごめん。",
+         "translation": "Motto hayaku iwanakute, gomen. — Sorry that I did not tell you earlier."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Expression notes 4: このぐらいの大きさです",
+       "body": "You can turn an い-adjective into a noun by replacing the last い with さ. Thus from 大きい you can get 大きさ (size). Similarly, やさしさ (kindness), さびしさ (loneliness), and so forth. Some な-adjectives too can be turned into nouns by replacing な with さ, as in 便利さ (convenience).",
+       "tables": [
+        {
+         "headers": [
+          "Adjective",
+          "Noun",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "大きい",
+           "大きさ",
+           "size"
+          ],
+          [
+           "やさしい",
+           "やさしさ",
+           "kindness"
+          ],
+          [
+           "さびしい",
+           "さびしさ",
+           "loneliness"
+          ],
+          [
+           "便利な",
+           "便利さ",
+           "convenience"
+          ]
+         ],
+         "speakCols": [
+          0,
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Expression notes 4: おごる",
+       "body": "おごる is mainly used among friends. ごちそうする is a polite alternative for おごる. Use ごちそうする instead when the person who will treat, or treated, you to a meal is a superior, such as a teacher or a business associate. ごちそうする refers to “invite for a meal” as well as “pay for a meal”.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "佐藤さんが昼ご飯をごちそうしてくれました。",
+         "translation": "Satoo-san ga hirugohan o gochisoo shite kuremashita. — Mr. Sato treated me to lunch."
+        },
+        {
+         "text": "週末友だちを呼んで晩ご飯をごちそうしました。",
+         "translation": "Shuumatsu tomodachi o yonde bangohan o gochisoo shimashita. — I invited friends for dinner this weekend."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Culture note: 贈り物の習慣 (gift-giving in Japan)",
+       "body": "Gift-giving is an important part of Japanese culture, and takes place on various occasions. For example, in July (in some areas, August) and December, people give presents to their bosses, colleagues, and relatives to express their gratitude. These gifts are called お中元 and お歳暮, respectively. Japanese department stores offer a wide variety of お中元 and お歳暮 items during the season. The most common gifts are liquor, sweets, coffee, tea, and various daily necessities, including soap and detergent. On average, the gifts cost somewhere between 3,000 and 5,000 yen. Another type of gift is お土産 (souvenirs). When Japanese people travel, they purchase local food products or small items to give to their friends, family, and co-workers. When visiting someone’s house, Japanese people often take 手土産 (literally, hand souvenir), such as sweets or fruit. If you are invited to a Japanese home, it is a good idea to take some 手土産 with you.",
+       "tables": [
+        {
+         "headers": [
+          "Gift",
+          "Reading",
+          "When",
+          "What"
+         ],
+         "rows": [
+          [
+           "お中元",
+           "おちゅうげん",
+           "July (in some areas, August)",
+           "gifts to bosses, colleagues and relatives to express gratitude"
+          ],
+          [
+           "お歳暮",
+           "おせいぼ",
+           "December",
+           "gifts to bosses, colleagues and relatives to express gratitude"
+          ],
+          [
+           "お土産",
+           "おみやげ",
+           "when you travel",
+           "local food products or small items for friends, family and co-workers"
+          ],
+          [
+           "手土産",
+           "てみやげ",
+           "when you visit someone’s house",
+           "sweets or fruit (literally, a hand souvenir)"
+          ]
+         ],
+         "speakCols": [
+          0,
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does 汚い言葉を使って、すみませんでした。 mean?",
+       "options": [
+        "Sorry that I stood you up.",
+        "Sorry that I did not tell you earlier.",
+        "I am sorry for using foul language.",
+        "I am sorry for not bringing the homework."
+       ],
+       "correctIndex": 2,
+       "explanation": "汚い言葉を使って、すみませんでした。"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What does デートの約束を忘れて、ごめん。 mean?",
+       "options": [
+        "Sorry that I did not tell you earlier.",
+        "I am sorry for using foul language.",
+        "Sorry that I stood you up.",
+        "I am sorry for not bringing the homework."
+       ],
+       "correctIndex": 2,
+       "explanation": "デートの約束を忘れて、ごめん。"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What does 宿題を持ってこなくて、すみませんでした。 mean?",
+       "options": [
+        "Sorry that I stood you up.",
+        "I am sorry for using foul language.",
+        "Sorry that I did not tell you earlier.",
+        "I am sorry for not bringing the homework."
+       ],
+       "correctIndex": 3,
+       "explanation": "宿題を持ってこなくて、すみませんでした。"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does もっと早く言わなくて、ごめん。 mean?",
+       "options": [
+        "I am sorry for not bringing the homework.",
+        "Sorry that I stood you up.",
+        "Sorry that I did not tell you earlier.",
+        "I am sorry for using foul language."
+       ],
+       "correctIndex": 2,
+       "explanation": "もっと早く言わなくて、ごめん。"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What does 佐藤さんが昼ご飯をごちそうしてくれました。 mean?",
+       "options": [
+        "I am sorry for using foul language.",
+        "Mr. Sato treated me to lunch.",
+        "Sorry that I stood you up.",
+        "I am sorry for not bringing the homework."
+       ],
+       "correctIndex": 1,
+       "explanation": "佐藤さんが昼ご飯をごちそうしてくれました。"
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What does 週末友だちを呼んで晩ご飯をごちそうしました。 mean?",
+       "options": [
+        "I invited friends for dinner this weekend.",
+        "I am sorry for using foul language.",
+        "I am sorry for not bringing the homework.",
+        "Sorry that I stood you up."
+       ],
+       "correctIndex": 0,
+       "explanation": "週末友だちを呼んで晩ご飯をごちそうしました。"
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "How do you form the negative て-form?",
+       "options": [
+        "add て to ない",
+        "add ずに",
+        "replace the い of ～ない with くて",
+        "replace ない with て"
+       ],
+       "correctIndex": 2,
+       "explanation": "なくて."
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What is the negative て-form of 持ってこない?",
+       "options": [
+        "持ってこなて",
+        "持ってこなくな",
+        "持ってこなくて",
+        "持ってこないで"
+       ],
+       "correctIndex": 2,
+       "explanation": "なくて."
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "What is the negative て-form of 言わない?",
+       "options": [
+        "言わなくて",
+        "言わなて",
+        "言わないで",
+        "言わなくた"
+       ],
+       "correctIndex": 0,
+       "explanation": "なくて."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What is the noun from 大きい?",
+       "options": [
+        "大きみ",
+        "大きさ",
+        "大きく",
+        "大きの"
+       ],
+       "correctIndex": 1,
+       "explanation": "さ."
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What is the noun from さびしい?",
+       "options": [
+        "さびしみ",
+        "さびしく",
+        "さびしさ",
+        "さびしの"
+       ],
+       "correctIndex": 2,
+       "explanation": "さ."
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "What is the noun from 便利な?",
+       "options": [
+        "便利に",
+        "便利み",
+        "便利さ",
+        "便利の"
+       ],
+       "correctIndex": 2,
+       "explanation": "さ."
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "Which is more polite, おごる or ごちそうする?",
+       "options": [
+        "ごちそうする is rude",
+        "they are equal",
+        "ごちそうする",
+        "おごる"
+       ],
+       "correctIndex": 2,
+       "explanation": "ごちそうする."
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "What is お中元?",
+       "options": [
+        "a New Year’s card",
+        "a summer gift to bosses and others",
+        "a wedding gift",
+        "a souvenir from a trip"
+       ],
+       "correctIndex": 1,
+       "explanation": "summer gift."
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "What is お歳暮?",
+       "options": [
+        "a year-end gift to bosses and others",
+        "a birthday gift",
+        "a trip souvenir",
+        "a summer gift"
+       ],
+       "correctIndex": 0,
+       "explanation": "December."
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "What is お土産?",
+       "options": [
+        "a wedding gift",
+        "a thank-you note",
+        "a souvenir",
+        "a year-end gift"
+       ],
+       "correctIndex": 2,
+       "explanation": "souvenir."
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "What is 手土産?",
+       "options": [
+        "a gift to yourself",
+        "a gift brought when visiting someone’s home",
+        "a gift for the boss in July",
+        "a gift for the doctor"
+       ],
+       "correctIndex": 1,
+       "explanation": "手土産."
+      },
+      {
+       "id": "e18",
+       "type": "fillBlank",
+       "prompt": "デートの約束を忘れて、___。 (casual sorry)",
+       "options": [
+        "失礼します",
+        "ごめん",
+        "すみません",
+        "ありがとう"
+       ],
+       "correctIndex": 1,
+       "explanation": "ごめん."
+      },
+      {
+       "id": "e19",
+       "type": "fillBlank",
+       "prompt": "宿題を持ってこなく___、すみませんでした。",
+       "options": [
+        "に",
+        "で",
+        "て",
+        "と"
+       ],
+       "correctIndex": 2,
+       "explanation": "なくて."
+      },
+      {
+       "id": "e20",
+       "type": "fillBlank",
+       "prompt": "大きい → 大き___。",
+       "options": [
+        "く",
+        "さ",
+        "の",
+        "み"
+       ],
+       "correctIndex": 1,
+       "explanation": "大きさ."
+      },
+      {
+       "id": "e21",
+       "type": "fillBlank",
+       "prompt": "先生に昼ご飯を___していただきました。",
+       "options": [
+        "ごちそう",
+        "もらい",
+        "おごり",
+        "あげ"
+       ],
+       "correctIndex": 0,
+       "explanation": "ごちそうする."
+      }
+     ]
+    },
+    {
+     "id": "ja_189",
+     "title": "189. Practice 1: ～てあげる, ～てくれる, ～てもらう",
+     "subtitle": "晩ご飯を作ってあげました · 天ぷらを作ってあげましょうか · お母さんがご飯を作ってくれました · 美術館に連れていってくれました",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "I. 紹介してあげます: A. things you did for a sick friend",
+       "body": "Your friend is sick, and you did the following for your friend. The example is cook dinner → 晩ご飯を作ってあげました。 My answers:",
+       "tables": [
+        {
+         "headers": [
+          "Cue",
+          "Sentence"
+         ],
+         "rows": [
+          [
+           "(ex) 晩ご飯を作る",
+           "晩ご飯を作ってあげました。"
+          ],
+          [
+           "(1) 宿題を手伝う",
+           "宿題を手伝ってあげました。"
+          ],
+          [
+           "(2) レポートを直す",
+           "レポートを直してあげました。"
+          ],
+          [
+           "(3) 花を買う",
+           "花を買ってあげました。"
+          ],
+          [
+           "(4) 病院に連れていく",
+           "病院に連れていってあげました。"
+          ],
+          [
+           "(5) 洗濯する",
+           "洗濯してあげました。"
+          ],
+          [
+           "(6) 部屋を掃除する",
+           "部屋を掃除してあげました。"
+          ],
+          [
+           "(7) ノートを貸す",
+           "ノートを貸してあげました。"
+          ],
+          [
+           "(8) 先生にメールを送る",
+           "先生にメールを送ってあげました。"
+          ],
+          [
+           "(9) 銀行に行ってお金を下ろす",
+           "銀行に行ってお金を下ろしてあげました。"
+          ],
+          [
+           "(10) お皿を洗う",
+           "お皿を洗ってあげました。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "I. B. Offering help",
+       "body": "Your partner needs help. Tell what you would do for your partner using ～てあげる. The book’s example: 友だちがいなくてさびしいんです。 → そうですか。私の友だちを紹介してあげましょうか。 ありがとうございます。 My answers to the seven problems (the first is the book’s example):",
+       "tables": [
+        {
+         "headers": [
+          "Problem",
+          "Offer"
+         ],
+         "rows": [
+          [
+           "友だちがいなくてさびしいんです。",
+           "私の友だちを紹介してあげましょうか。"
+          ],
+          [
+           "天ぷらが食べたいけど、作れないんです。",
+           "天ぷらを作ってあげましょうか。"
+          ],
+          [
+           "海に行きたいけど、車がないんです。",
+           "車で連れていってあげましょうか。"
+          ],
+          [
+           "今日中に宿題をしなきゃいけないんです。",
+           "宿題を手伝ってあげましょうか。"
+          ],
+          [
+           "お金がないので、昼ご飯が食べられないんです。",
+           "昼ご飯をおごってあげましょうか。"
+          ],
+          [
+           "部屋が汚いんです。",
+           "部屋を掃除してあげましょうか。"
+          ],
+          [
+           "バスに乗り遅れたんです。",
+           "車で送ってあげましょうか。"
+          ],
+          [
+           "美術館に行きたいけど、道がわからないんです。",
+           "地図をかいてあげましょうか。"
+          ]
+         ],
+         "speakCols": [
+          0,
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "I. C. What your host mother, a friend and a stranger did for you",
+       "body": "Describe them with ～てくれる and ～てもらう. The example is お母さんがご飯を作ってくれました。／お母さんにご飯を作ってもらいました。 My answers (with くれる; change the subject to に and use もらう for the other version):",
+       "tables": [
+        {
+         "headers": [
+          "Cue",
+          "Sentence"
+         ],
+         "rows": [
+          [
+           "(ex) お母さん／ご飯を作る",
+           "お母さんがご飯を作ってくれました。、お母さんにご飯を作ってもらいました。"
+          ],
+          [
+           "(1) お母さん／部屋を掃除する",
+           "お母さんが部屋を掃除してくれました。"
+          ],
+          [
+           "(2) お母さん／洗濯する",
+           "お母さんが洗濯してくれました。"
+          ],
+          [
+           "(3) お母さん／アイロンをかける",
+           "お母さんがアイロンをかけてくれました。"
+          ],
+          [
+           "(4) お母さん／迎えに来る",
+           "お母さんが迎えに来てくれました。"
+          ],
+          [
+           "(5) 友だち／コーヒーをおごる",
+           "友だちがコーヒーをおごってくれました。"
+          ],
+          [
+           "(6) 友だち／京都に連れていく",
+           "友だちが京都に連れていってくれました。"
+          ],
+          [
+           "(7) 友だち／セーターを編む",
+           "友だちがセーターを編んでくれました。"
+          ],
+          [
+           "(8) 友だち／家族の写真を見せる",
+           "友だちが家族の写真を見せてくれました。"
+          ],
+          [
+           "(9) 知らない人／案内する",
+           "知らない人が案内してくれました。"
+          ],
+          [
+           "(10) 知らない人／道を教える",
+           "知らない人が道を教えてくれました。"
+          ],
+          [
+           "(11) 知らない人／荷物を持つ",
+           "知らない人が荷物を持ってくれました。"
+          ],
+          [
+           "(12) 知らない人／百円貸す",
+           "知らない人が百円貸してくれました。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "I. D. What people did for you",
+       "body": "Describe what the following people did for you using ～てくれる and ～てもらう: 母／父, 兄弟, 親せき, 友だち, 同じクラスの人. Your answers are up to you; here is one pair of examples of the pattern:",
+       "tables": [],
+       "examples": [
+        {
+         "text": "母が毎朝お弁当を作ってくれました。",
+         "translation": "Haha ga maiasa obentoo o tsukutte kuremashita. — My mother made me a lunch box every morning. (my example)"
+        },
+        {
+         "text": "同じクラスの人にノートを貸してもらいました。",
+         "translation": "Onaji kurasu no hito ni nooto o kashite moraimashita. — I got a person in my class to lend me a notebook. (my example)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "I. E. A visit to a Japanese family",
+       "body": "You visited a Japanese family last weekend (お父さん, お母さん and the daughter ゆみ). Describe what they did for you and what you did for them. The example is お母さんが晩ご飯を作ってくれました。／お母さんに晩ご飯を作ってもらいました。 My answers (my reading of the pictures):",
+       "tables": [
+        {
+         "headers": [
+          "Picture",
+          "Sentence"
+         ],
+         "rows": [
+          [
+           "(ex) お母さん／晩ご飯を作る",
+           "お母さんが晩ご飯を作ってくれました。"
+          ],
+          [
+           "(1) お父さん／美術館に連れていく",
+           "お父さんが美術館に連れていってくれました。"
+          ],
+          [
+           "(2) お父さん／アイスクリームを買う",
+           "お父さんがアイスクリームを買ってくれました。"
+          ],
+          [
+           "(3) お父さん／家族の写真を見せる",
+           "お父さんが家族の写真を見せてくれました。"
+          ],
+          [
+           "(4) お母さん／かさを貸す",
+           "お母さんがかさを貸してくれました。"
+          ],
+          [
+           "(5) ゆみさん／英語を教える",
+           "私はゆみさんに英語を教えてあげました。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "I. F and G",
+       "body": "F is the omiai game (お見合い is a meeting between potential mates for an arranged marriage): ask three people whether they are willing to do these things after they marry (cook, clean the house, wake me up, do dishes, take out the garbage, buy present, iron). The book’s model: 洗濯してくれますか。 ええ、もちろんしてあげます。／いいえ、自分でしてください。 After the interview: 私はたけしさんと付き合いたいです。たけしさんは日本料理を作ってくれますから。 G answers six questions:",
+       "tables": [
+        {
+         "headers": [
+          "Question",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "今度の母の日に何をしてあげようと思いますか。",
+           "What do you plan to do for your mother on Mother’s Day?"
+          ],
+          [
+           "子供の時、家族は何をしてくれましたか。",
+           "What did your family do for you as a child?"
+          ],
+          [
+           "彼か彼女に何をしてもらいたいですか。",
+           "What do you want your boyfriend or girlfriend to do for you?"
+          ],
+          [
+           "家族に何をしてもらいたいですか。",
+           "What do you want your family to do for you?"
+          ],
+          [
+           "友だちが落ち込んでいます。何をしてあげますか。",
+           "Your friend is depressed. What will you do for him or her?"
+          ],
+          [
+           "病気の時、友だちに何をしてもらいたいですか。",
+           "When you are sick, what do you want your friends to do for you?"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "洗濯してくれますか。",
+         "translation": "Sentaku shite kuremasu ka. — Will you do the laundry for me? (the book’s example)"
+        },
+        {
+         "text": "ええ、もちろんしてあげます。",
+         "translation": "Ee, mochiron shite agemasu. — Yes, of course I will. (the book’s example)"
+        },
+        {
+         "text": "いいえ、自分でしてください。",
+         "translation": "Iie, jibun de shite kudasai. — No, please do it by yourself. (the book’s example)"
+        }
+       ],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (1) 宿題を手伝う?",
+       "options": [
+        "花を買ってあげました。",
+        "晩ご飯を作ってあげました。",
+        "宿題を手伝ってあげました。",
+        "レポートを直してあげました。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(1) 宿題を手伝う"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (2) レポートを直す?",
+       "options": [
+        "レポートを直してあげました。",
+        "花を買ってあげました。",
+        "晩ご飯を作ってあげました。",
+        "宿題を手伝ってあげました。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(2) レポートを直す"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (3) 花を買う?",
+       "options": [
+        "花を買ってあげました。",
+        "宿題を手伝ってあげました。",
+        "レポートを直してあげました。",
+        "晩ご飯を作ってあげました。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(3) 花を買う"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (4) 病院に連れていく?",
+       "options": [
+        "病院に連れていってあげました。",
+        "宿題を手伝ってあげました。",
+        "晩ご飯を作ってあげました。",
+        "レポートを直してあげました。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(4) 病院に連れていく"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (5) 洗濯する?",
+       "options": [
+        "レポートを直してあげました。",
+        "宿題を手伝ってあげました。",
+        "晩ご飯を作ってあげました。",
+        "洗濯してあげました。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(5) 洗濯する"
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (6) 部屋を掃除する?",
+       "options": [
+        "宿題を手伝ってあげました。",
+        "晩ご飯を作ってあげました。",
+        "部屋を掃除してあげました。",
+        "レポートを直してあげました。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(6) 部屋を掃除する"
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (7) ノートを貸す?",
+       "options": [
+        "宿題を手伝ってあげました。",
+        "レポートを直してあげました。",
+        "ノートを貸してあげました。",
+        "晩ご飯を作ってあげました。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(7) ノートを貸す"
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (8) 先生にメールを送る?",
+       "options": [
+        "先生にメールを送ってあげました。",
+        "宿題を手伝ってあげました。",
+        "レポートを直してあげました。",
+        "晩ご飯を作ってあげました。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(8) 先生にメールを送る"
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (9) 銀行に行ってお金を下ろす?",
+       "options": [
+        "銀行に行ってお金を下ろしてあげました。",
+        "宿題を手伝ってあげました。",
+        "晩ご飯を作ってあげました。",
+        "レポートを直してあげました。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(9) 銀行に行ってお金を下ろす"
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (10) お皿を洗う?",
+       "options": [
+        "レポートを直してあげました。",
+        "お皿を洗ってあげました。",
+        "晩ご飯を作ってあげました。",
+        "宿題を手伝ってあげました。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(10) お皿を洗う"
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What offer fits: 友だちがいなくてさびしいんです。",
+       "options": [
+        "宿題を手伝ってあげましょうか。",
+        "天ぷらを作ってあげましょうか。",
+        "私の友だちを紹介してあげましょうか。",
+        "車で連れていってあげましょうか。"
+       ],
+       "correctIndex": 2,
+       "explanation": "友だちがいなくてさびしいんです。"
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "What offer fits: 天ぷらが食べたいけど、作れないんです。",
+       "options": [
+        "宿題を手伝ってあげましょうか。",
+        "私の友だちを紹介してあげましょうか。",
+        "天ぷらを作ってあげましょうか。",
+        "車で連れていってあげましょうか。"
+       ],
+       "correctIndex": 2,
+       "explanation": "天ぷらが食べたいけど、作れないんです。"
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "What offer fits: 海に行きたいけど、車がないんです。",
+       "options": [
+        "車で連れていってあげましょうか。",
+        "私の友だちを紹介してあげましょうか。",
+        "天ぷらを作ってあげましょうか。",
+        "宿題を手伝ってあげましょうか。"
+       ],
+       "correctIndex": 0,
+       "explanation": "海に行きたいけど、車がないんです。"
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "What offer fits: 今日中に宿題をしなきゃいけないんです。",
+       "options": [
+        "宿題を手伝ってあげましょうか。",
+        "天ぷらを作ってあげましょうか。",
+        "私の友だちを紹介してあげましょうか。",
+        "車で連れていってあげましょうか。"
+       ],
+       "correctIndex": 0,
+       "explanation": "今日中に宿題をしなきゃいけないんです。"
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "What offer fits: お金がないので、昼ご飯が食べられないんです。",
+       "options": [
+        "車で連れていってあげましょうか。",
+        "昼ご飯をおごってあげましょうか。",
+        "天ぷらを作ってあげましょうか。",
+        "私の友だちを紹介してあげましょうか。"
+       ],
+       "correctIndex": 1,
+       "explanation": "お金がないので、昼ご飯が食べられないんです。"
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "What offer fits: 部屋が汚いんです。",
+       "options": [
+        "部屋を掃除してあげましょうか。",
+        "車で連れていってあげましょうか。",
+        "私の友だちを紹介してあげましょうか。",
+        "天ぷらを作ってあげましょうか。"
+       ],
+       "correctIndex": 0,
+       "explanation": "部屋が汚いんです。"
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "What offer fits: バスに乗り遅れたんです。",
+       "options": [
+        "車で送ってあげましょうか。",
+        "天ぷらを作ってあげましょうか。",
+        "車で連れていってあげましょうか。",
+        "私の友だちを紹介してあげましょうか。"
+       ],
+       "correctIndex": 0,
+       "explanation": "バスに乗り遅れたんです。"
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "What offer fits: 美術館に行きたいけど、道がわからないんです。",
+       "options": [
+        "地図をかいてあげましょうか。",
+        "天ぷらを作ってあげましょうか。",
+        "車で連れていってあげましょうか。",
+        "私の友だちを紹介してあげましょうか。"
+       ],
+       "correctIndex": 0,
+       "explanation": "美術館に行きたいけど、道がわからないんです。"
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (1) お母さん／部屋を掃除する?",
+       "options": [
+        "お母さんが部屋を掃除してくれました。",
+        "お母さんがご飯を作ってくれました。、お母さんにご飯を作ってもらいました。",
+        "お母さんが洗濯してくれました。",
+        "お母さんがアイロンをかけてくれました。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(1) お母さん／部屋を掃除する"
+      },
+      {
+       "id": "e20",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (2) お母さん／洗濯する?",
+       "options": [
+        "お母さんがご飯を作ってくれました。、お母さんにご飯を作ってもらいました。",
+        "お母さんが部屋を掃除してくれました。",
+        "お母さんがアイロンをかけてくれました。",
+        "お母さんが洗濯してくれました。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(2) お母さん／洗濯する"
+      },
+      {
+       "id": "e21",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (3) お母さん／アイロンをかける?",
+       "options": [
+        "お母さんが部屋を掃除してくれました。",
+        "お母さんがアイロンをかけてくれました。",
+        "お母さんがご飯を作ってくれました。、お母さんにご飯を作ってもらいました。",
+        "お母さんが洗濯してくれました。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(3) お母さん／アイロンをかける"
+      },
+      {
+       "id": "e22",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (4) お母さん／迎えに来る?",
+       "options": [
+        "お母さんがご飯を作ってくれました。、お母さんにご飯を作ってもらいました。",
+        "お母さんが洗濯してくれました。",
+        "お母さんが迎えに来てくれました。",
+        "お母さんが部屋を掃除してくれました。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(4) お母さん／迎えに来る"
+      },
+      {
+       "id": "e23",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (5) 友だち／コーヒーをおごる?",
+       "options": [
+        "お母さんがご飯を作ってくれました。、お母さんにご飯を作ってもらいました。",
+        "お母さんが洗濯してくれました。",
+        "お母さんが部屋を掃除してくれました。",
+        "友だちがコーヒーをおごってくれました。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(5) 友だち／コーヒーをおごる"
+      },
+      {
+       "id": "e24",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (6) 友だち／京都に連れていく?",
+       "options": [
+        "お母さんが部屋を掃除してくれました。",
+        "お母さんが洗濯してくれました。",
+        "お母さんがご飯を作ってくれました。、お母さんにご飯を作ってもらいました。",
+        "友だちが京都に連れていってくれました。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(6) 友だち／京都に連れていく"
+      },
+      {
+       "id": "e25",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (7) 友だち／セーターを編む?",
+       "options": [
+        "お母さんが洗濯してくれました。",
+        "お母さんが部屋を掃除してくれました。",
+        "お母さんがご飯を作ってくれました。、お母さんにご飯を作ってもらいました。",
+        "友だちがセーターを編んでくれました。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(7) 友だち／セーターを編む"
+      },
+      {
+       "id": "e26",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (8) 友だち／家族の写真を見せる?",
+       "options": [
+        "お母さんがご飯を作ってくれました。、お母さんにご飯を作ってもらいました。",
+        "友だちが家族の写真を見せてくれました。",
+        "お母さんが洗濯してくれました。",
+        "お母さんが部屋を掃除してくれました。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(8) 友だち／家族の写真を見せる"
+      },
+      {
+       "id": "e27",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (9) 知らない人／案内する?",
+       "options": [
+        "お母さんが部屋を掃除してくれました。",
+        "お母さんがご飯を作ってくれました。、お母さんにご飯を作ってもらいました。",
+        "知らない人が案内してくれました。",
+        "お母さんが洗濯してくれました。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(9) 知らない人／案内する"
+      },
+      {
+       "id": "e28",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (10) 知らない人／道を教える?",
+       "options": [
+        "お母さんが部屋を掃除してくれました。",
+        "知らない人が道を教えてくれました。",
+        "お母さんがご飯を作ってくれました。、お母さんにご飯を作ってもらいました。",
+        "お母さんが洗濯してくれました。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(10) 知らない人／道を教える"
+      },
+      {
+       "id": "e29",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (11) 知らない人／荷物を持つ?",
+       "options": [
+        "お母さんが洗濯してくれました。",
+        "お母さんが部屋を掃除してくれました。",
+        "知らない人が荷物を持ってくれました。",
+        "お母さんがご飯を作ってくれました。、お母さんにご飯を作ってもらいました。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(11) 知らない人／荷物を持つ"
+      },
+      {
+       "id": "e30",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (12) 知らない人／百円貸す?",
+       "options": [
+        "お母さんが洗濯してくれました。",
+        "お母さんが部屋を掃除してくれました。",
+        "知らない人が百円貸してくれました。",
+        "お母さんがご飯を作ってくれました。、お母さんにご飯を作ってもらいました。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(12) 知らない人／百円貸す"
+      },
+      {
+       "id": "e31",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (1) お父さん／美術館に連れていく?",
+       "options": [
+        "お父さんが美術館に連れていってくれました。",
+        "お父さんが家族の写真を見せてくれました。",
+        "お母さんが晩ご飯を作ってくれました。",
+        "お父さんがアイスクリームを買ってくれました。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(1) お父さん／美術館に連れていく"
+      },
+      {
+       "id": "e32",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (2) お父さん／アイスクリームを買う?",
+       "options": [
+        "お父さんが美術館に連れていってくれました。",
+        "お父さんが家族の写真を見せてくれました。",
+        "お母さんが晩ご飯を作ってくれました。",
+        "お父さんがアイスクリームを買ってくれました。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(2) お父さん／アイスクリームを買う"
+      },
+      {
+       "id": "e33",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (3) お父さん／家族の写真を見せる?",
+       "options": [
+        "お父さんが家族の写真を見せてくれました。",
+        "お父さんがアイスクリームを買ってくれました。",
+        "お母さんが晩ご飯を作ってくれました。",
+        "お父さんが美術館に連れていってくれました。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(3) お父さん／家族の写真を見せる"
+      },
+      {
+       "id": "e34",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (4) お母さん／かさを貸す?",
+       "options": [
+        "お母さんがかさを貸してくれました。",
+        "お母さんが晩ご飯を作ってくれました。",
+        "お父さんが美術館に連れていってくれました。",
+        "お父さんがアイスクリームを買ってくれました。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(4) お母さん／かさを貸す"
+      },
+      {
+       "id": "e35",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (5) ゆみさん／英語を教える?",
+       "options": [
+        "私はゆみさんに英語を教えてあげました。",
+        "お母さんが晩ご飯を作ってくれました。",
+        "お父さんがアイスクリームを買ってくれました。",
+        "お父さんが美術館に連れていってくれました。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(5) ゆみさん／英語を教える"
+      },
+      {
+       "id": "e36",
+       "type": "multipleChoice",
+       "prompt": "What does 今度の母の日に何をしてあげようと思いますか。 mean?",
+       "options": [
+        "What did your family do for you as a child?",
+        "What do you want your family to do for you?",
+        "What do you want your boyfriend or girlfriend to do for you?",
+        "What do you plan to do for your mother on Mother’s Day?"
+       ],
+       "correctIndex": 3,
+       "explanation": "今度の母の日に何をしてあげようと思いますか。"
+      },
+      {
+       "id": "e37",
+       "type": "multipleChoice",
+       "prompt": "What does 子供の時、家族は何をしてくれましたか。 mean?",
+       "options": [
+        "What do you plan to do for your mother on Mother’s Day?",
+        "What do you want your family to do for you?",
+        "What do you want your boyfriend or girlfriend to do for you?",
+        "What did your family do for you as a child?"
+       ],
+       "correctIndex": 3,
+       "explanation": "子供の時、家族は何をしてくれましたか。"
+      },
+      {
+       "id": "e38",
+       "type": "multipleChoice",
+       "prompt": "What does 彼か彼女に何をしてもらいたいですか。 mean?",
+       "options": [
+        "What do you plan to do for your mother on Mother’s Day?",
+        "What did your family do for you as a child?",
+        "What do you want your family to do for you?",
+        "What do you want your boyfriend or girlfriend to do for you?"
+       ],
+       "correctIndex": 3,
+       "explanation": "彼か彼女に何をしてもらいたいですか。"
+      },
+      {
+       "id": "e39",
+       "type": "multipleChoice",
+       "prompt": "What does 家族に何をしてもらいたいですか。 mean?",
+       "options": [
+        "What do you plan to do for your mother on Mother’s Day?",
+        "What did your family do for you as a child?",
+        "What do you want your boyfriend or girlfriend to do for you?",
+        "What do you want your family to do for you?"
+       ],
+       "correctIndex": 3,
+       "explanation": "家族に何をしてもらいたいですか。"
+      },
+      {
+       "id": "e40",
+       "type": "multipleChoice",
+       "prompt": "What does 友だちが落ち込んでいます。何をしてあげますか。 mean?",
+       "options": [
+        "What do you want your boyfriend or girlfriend to do for you?",
+        "Your friend is depressed. What will you do for him or her?",
+        "What did your family do for you as a child?",
+        "What do you plan to do for your mother on Mother’s Day?"
+       ],
+       "correctIndex": 1,
+       "explanation": "友だちが落ち込んでいます。何をしてあげますか。"
+      },
+      {
+       "id": "e41",
+       "type": "multipleChoice",
+       "prompt": "What does 病気の時、友だちに何をしてもらいたいですか。 mean?",
+       "options": [
+        "What do you want your boyfriend or girlfriend to do for you?",
+        "What did your family do for you as a child?",
+        "When you are sick, what do you want your friends to do for you?",
+        "What do you plan to do for your mother on Mother’s Day?"
+       ],
+       "correctIndex": 2,
+       "explanation": "病気の時、友だちに何をしてもらいたいですか。"
+      },
+      {
+       "id": "e42",
+       "type": "fillBlank",
+       "prompt": "友だちに宿題を手伝って___ました。 (I got)",
+       "options": [
+        "くれ",
+        "いただけ",
+        "あげ",
+        "もらい"
+       ],
+       "correctIndex": 3,
+       "explanation": "手伝ってもらいました."
+      },
+      {
+       "id": "e43",
+       "type": "fillBlank",
+       "prompt": "お母さんがご飯を作って___ました。",
+       "options": [
+        "もらい",
+        "くれ",
+        "いただき",
+        "あげ"
+       ],
+       "correctIndex": 1,
+       "explanation": "作ってくれました."
+      },
+      {
+       "id": "e44",
+       "type": "fillBlank",
+       "prompt": "天ぷらを作って___ましょうか。 (shall I)",
+       "options": [
+        "あげ",
+        "いただき",
+        "くれ",
+        "もらい"
+       ],
+       "correctIndex": 0,
+       "explanation": "作ってあげましょうか."
+      },
+      {
+       "id": "e45",
+       "type": "fillBlank",
+       "prompt": "先生にメールを送って___ました。",
+       "options": [
+        "あげ",
+        "いただき",
+        "もらい",
+        "くれ"
+       ],
+       "correctIndex": 0,
+       "explanation": "送ってあげました."
+      }
+     ]
+    },
+    {
+     "id": "ja_190",
+     "title": "190. Practice 2: requests, ～といい, ～時, apologies, review",
+     "subtitle": "ゆっくり話してくれない？ · 手伝っていただけませんか · 早くよくなるといいですね · かぜをひいた時、病院に行きます · 遅くなってごめん",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "II. ゆっくり話していただけませんか: A. ask these people the favors",
+       "body": "The example is ゆっくり話す → (友だち) ゆっくり話してくれない？ (ホストファミリーのお母さん) ゆっくり話してくれませんか。 (先生) ゆっくり話していただけませんか。 The cues 1–4 are for a friend, 5–8 for the host family’s mother and 9–12 for the teacher. My answers:",
+       "tables": [
+        {
+         "headers": [
+          "Cue",
+          "Request"
+         ],
+         "rows": [
+          [
+           "(ex) ゆっくり話す（友だち／ホストファミリーのお母さん／先生）",
+           "ゆっくり話してくれない？、ゆっくり話してくれませんか。、ゆっくり話していただけませんか。"
+          ],
+          [
+           "(1) 友だち／ノートを貸す",
+           "ノートを貸してくれない？"
+          ],
+          [
+           "(2) 友だち／本を返す",
+           "本を返してくれない？"
+          ],
+          [
+           "(3) 友だち／友だちを紹介する",
+           "友だちを紹介してくれない？"
+          ],
+          [
+           "(4) 友だち／今晩電話する",
+           "今晩電話してくれない？"
+          ],
+          [
+           "(5) ホストファミリーのお母さん／六時に起こす",
+           "六時に起こしてくれませんか。"
+          ],
+          [
+           "(6) ホストファミリーのお母さん／駅に迎えに来る",
+           "駅に迎えに来てくれませんか。"
+          ],
+          [
+           "(7) ホストファミリーのお母さん／お弁当を作る",
+           "お弁当を作ってくれませんか。"
+          ],
+          [
+           "(8) ホストファミリーのお母さん／宿題を手伝う",
+           "宿題を手伝ってくれませんか。"
+          ],
+          [
+           "(9) 先生／文法を説明する",
+           "文法を説明していただけませんか。"
+          ],
+          [
+           "(10) 先生／推薦状を書く",
+           "推薦状を書いていただけませんか。"
+          ],
+          [
+           "(11) 先生／英語に訳す",
+           "英語に訳していただけませんか。"
+          ],
+          [
+           "(12) 先生／作文を直す",
+           "作文を直していただけませんか。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "II. B. Requests in different situations",
+       "body": "Practice request sentences in situations, changing the level (～てくれない？／てくれませんか／いただけませんか) by whom you ask. The book’s example: ドライブに連れていってくれない？ いいよ。どこに行きたい？ 海に行きたい。 My sample requests for the six situations:",
+       "tables": [
+        {
+         "headers": [
+          "Situation",
+          "Request"
+         ],
+         "rows": [
+          [
+           "お金がなくて困っています。（ホストマザーに）",
+           "少しお金を貸してくれませんか。"
+          ],
+          [
+           "宿題がまだ終わっていません。（先生に）",
+           "宿題をもう一日待っていただけませんか。"
+          ],
+          [
+           "お客さんが来るので、家の手伝いが必要です。（子供に）",
+           "部屋を掃除してくれない？"
+          ],
+          [
+           "ホストファザーの天ぷらが大好きです。（ホストファザーに）",
+           "また天ぷらを作ってくれませんか。"
+          ],
+          [
+           "もっと友だちがほしいです。（友だちに）",
+           "友だちを紹介してくれない？"
+          ],
+          [
+           "書いた手紙を直してほしいです。（上司に）",
+           "この手紙を直していただけませんか。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "ドライブに連れていってくれない？",
+         "translation": "Doraibu ni tsurete itte kurenai? — Will you take me for a drive? (the book’s example)"
+        },
+        {
+         "text": "いいよ。どこに行きたい？",
+         "translation": "Ii yo. Doko ni ikitai? — Sure. Where do you want to go? (the book’s example)"
+        },
+        {
+         "text": "海に行きたい。",
+         "translation": "Umi ni ikitai. — I want to go to the sea. (the book’s example)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "III. よくなるといいですね: A. what you hope for each person",
+       "body": "Read each person’s situation and express what you hope for him/her. The example is かぜをひいたんです。 (You get well soon.) → 早くよくなるといいですね。 My answers:",
+       "tables": [
+        {
+         "headers": [
+          "Person and wish",
+          "Sentence"
+         ],
+         "rows": [
+          [
+           "(ex) かぜをひいたんです。（you get well）",
+           "早くよくなるといいですね。"
+          ],
+          [
+           "(1) ロバート：あしたから旅行に行くんです。（good weather）",
+           "天気がいいといいですね。"
+          ],
+          [
+           "(2) ロバート（not cold）",
+           "寒くないといいですね。"
+          ],
+          [
+           "(3) ロバート（fun）",
+           "楽しいといいですね。"
+          ],
+          [
+           "(4) スー：日本の大学院に行きたいんです。（get into graduate school）",
+           "大学院に入れるといいですね。"
+          ],
+          [
+           "(5) スー（get a scholarship）",
+           "奨学金がもらえるといいですね。"
+          ],
+          [
+           "(6) スー（do good research）",
+           "いい研究ができるといいですね。"
+          ],
+          [
+           "(7) ジョン：宿題を忘れたんです。（teacher does not collect）",
+           "先生が宿題を集めないといいですね。"
+          ],
+          [
+           "(8) ジョン（teacher does not come）",
+           "先生が授業に来ないといいですね。"
+          ],
+          [
+           "(9) ジョン（typhoon, no class）",
+           "台風が来て、今日授業がないといいですね。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "III. B. Your own situation and hope",
+       "body": "Explain your situation and say what you hope for. The book’s example: 日本に住みたいんです。仕事が見つかるといいんですが。 My sample answers for the five situations:",
+       "tables": [
+        {
+         "headers": [
+          "Situation",
+          "My sentence"
+         ],
+         "rows": [
+          [
+           "あした試験があるんです。",
+           "試験がやさしいといいんですが。"
+          ],
+          [
+           "あした山に登るんです。",
+           "天気がいいといいんですが。"
+          ],
+          [
+           "結婚したいんです。",
+           "いい人が見つかるといいんですが。"
+          ],
+          [
+           "来週ホームステイが始まるんです。",
+           "ホストファミリーがやさしいといいんですが。"
+          ],
+          [
+           "留学するんです。",
+           "いい友だちができるといいんですが。"
+          ]
+         ],
+         "speakCols": [
+          0,
+          1
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "日本に住みたいんです。仕事が見つかるといいんですが。",
+         "translation": "Nihon ni sumitai n desu. Shigoto ga mitsukaru to ii n desu ga. — I want to live in Japan. I hope I can find a job. (the book’s example)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "III. C: pair work—dialogues expressing hopes",
+       "body": "One of you is in a situation, and the other expresses a hope for you. The book’s example for “B is going to Disneyland this weekend”: どうしたの。うれしそうだね。 週末、ディズニーランドに行くんだ。 そう。天気がいいといいね。 うん。ミッキーと写真が撮れるといいんだけど。 My versions of the six lines (the sixth is your own):",
+       "tables": [
+        {
+         "headers": [
+          "B says",
+          "A hopes"
+         ],
+         "rows": [
+          [
+           "週末、ディズニーランドに行くんだ。",
+           "うれしそうだね。天気がいいといいね。"
+          ],
+          [
+           "週末、スキーに行くんだ。",
+           "雪がたくさん降るといいね。"
+          ],
+          [
+           "あした期末試験があるんだ。",
+           "試験がやさしいといいね。"
+          ],
+          [
+           "今晩、デートなんだ。",
+           "すてきな人だといいね。"
+          ],
+          [
+           "財布をなくしたんだ。",
+           "見つかるといいね。"
+          ],
+          [
+           "かぜをひいたんだ。",
+           "早くよくなるといいね。"
+          ]
+         ],
+         "speakCols": [
+          0,
+          1
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "ミッキーと写真が撮れるといいんだけど。",
+         "translation": "Mikkii to shashin ga toreru to ii n da kedo. — I hope I can take a picture with Mickey. (the book’s example)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "IV. かぜをひいた時、病院に行きます: A. describe each situation using ～時",
+       "body": "The examples are 食べすぎました。→ 食べすぎた時、薬を飲みます。 and コーヒーを飲みます。→ コーヒーを飲む時、砂糖を入れます。 My answers for the eight pictures (my reading of the pictures):",
+       "tables": [
+        {
+         "headers": [
+          "Situation",
+          "Sentence"
+         ],
+         "rows": [
+          [
+           "(ex) 食べすぎた／薬を飲む",
+           "食べすぎた時、薬を飲みます。"
+          ],
+          [
+           "(ex) コーヒーを飲む／砂糖を入れる",
+           "コーヒーを飲む時、砂糖を入れます。"
+          ],
+          [
+           "(1) 眠い",
+           "眠い時、コーヒーを飲みます。"
+          ],
+          [
+           "(2) わからない",
+           "わからない時、先生に聞きます。"
+          ],
+          [
+           "(3) 日本語で手紙を書いた",
+           "日本語で手紙を書いた時、先生に見せます。"
+          ],
+          [
+           "(4) ホームシックです",
+           "ホームシックの時、友だちに電話します。"
+          ],
+          [
+           "(5) 友だちの家に行く",
+           "友だちの家に行く時、お土産を買います。"
+          ],
+          [
+           "(6) ひまです",
+           "ひまな時、テレビを見ます。"
+          ],
+          [
+           "(7) おいしいピザが食べたい",
+           "おいしいピザが食べたい時、このレストランに行きます。"
+          ],
+          [
+           "(8) 朝寝坊した",
+           "朝寝坊した時、タクシーに乗ります。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "IV. B. Connect the sentences using ～時",
+       "body": "Pay attention to the tense before 時. The example is 道に迷う／親切そうな人に道を聞く → 道に迷った時、親切そうな人に道を聞きます。 My answers:",
+       "tables": [
+        {
+         "headers": [
+          "Sentences",
+          "Combined"
+         ],
+         "rows": [
+          [
+           "道に迷う／親切そうな人に道を聞く",
+           "道に迷った時、親切そうな人に道を聞きます。"
+          ],
+          [
+           "友だちが来る／私の町を案内する",
+           "友だちが来る時、私の町を案内します。"
+          ],
+          [
+           "さびしい／友だちに電話をする",
+           "さびしい時、友だちに電話をします。"
+          ],
+          [
+           "電車に乗る／切符を買う",
+           "電車に乗る時、切符を買います。"
+          ],
+          [
+           "写真を撮る／「チーズ」と言う",
+           "写真を撮る時、「チーズ」と言います。"
+          ],
+          [
+           "ひまだ／料理をする",
+           "ひまな時、料理をします。"
+          ],
+          [
+           "ディズニーランドに行く／ミッキー・マウスのぬいぐるみを買った",
+           "ディズニーランドに行った時、ミッキー・マウスのぬいぐるみを買いました。"
+          ],
+          [
+           "ホームシックだ／泣く",
+           "ホームシックの時、泣きます。"
+          ],
+          [
+           "かぜをひく／病院に行く",
+           "かぜをひいた時、病院に行きます。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "IV. C and D: questions and sentence completion",
+       "body": "C: ask each other the six questions and answer with ～時 (example: どんな時薬を飲みますか。 頭が痛い時、薬を飲みます。). D: complete sentences such as ＿＿時、笑ってはいけません。 ＿＿時、パーティーをしましょう。 さびしい時、＿＿。 初めて日本語を習った時、＿＿。 友だちが＿＿時、＿＿てあげます。 ペットが死んだ時、＿＿。",
+       "tables": [
+        {
+         "headers": [
+          "Question",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "どんな時学校をサボりますか。",
+           "Q: When do you cut school? (example answer: 眠い時、サボります。)"
+          ],
+          [
+           "どんな時親に電話しますか。",
+           "Q: When do you call your parents?"
+          ],
+          [
+           "どんな時うれしくなりますか。",
+           "Q: When do you become happy?"
+          ],
+          [
+           "どんな時緊張しますか。",
+           "Q: When do you get nervous?"
+          ],
+          [
+           "どんな時泣きましたか。",
+           "Q: When did you cry?"
+          ],
+          [
+           "どんな時感動しましたか。",
+           "Q: When were you moved?"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "どんな時薬を飲みますか。",
+         "translation": "Donna toki kusuri o nomimasu ka. — When do you take medicine? (the book’s example)"
+        },
+        {
+         "text": "頭が痛い時、薬を飲みます。",
+         "translation": "Atama ga itai toki, kusuri o nomimasu. — I take medicine when I have a headache. (the book’s example)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "V. 来られなくてすみませんでした: A. apologies",
+       "body": "Make sentences apologizing using ～てすみませんでした or ～てごめん, depending on whom you are talking to. The examples are 授業に来られない → 授業に来られなくてすみませんでした。 and 遅くなる → 遅くなってごめん。 My answers:",
+       "tables": [
+        {
+         "headers": [
+          "Cue",
+          "Apology"
+         ],
+         "rows": [
+          [
+           "(ex) 授業に来られない",
+           "授業に来られなくてすみませんでした。"
+          ],
+          [
+           "(ex) 遅くなる",
+           "遅くなってごめん。"
+          ],
+          [
+           "(1) 授業中に話す（先生に）",
+           "授業中に話してすみませんでした。"
+          ],
+          [
+           "(2) 授業中に寝る（先生に）",
+           "授業中に寝てすみませんでした。"
+          ],
+          [
+           "(3) 遅刻する（先生に）",
+           "遅刻してすみませんでした。"
+          ],
+          [
+           "(4) 教科書を持ってこない（先生に）",
+           "教科書を持ってこなくてすみませんでした。"
+          ],
+          [
+           "(5) 夜遅く電話する（友だちに）",
+           "夜遅く電話してごめん。"
+          ],
+          [
+           "(6) 約束を守らない（友だちに）",
+           "約束を守らなくてごめん。"
+          ],
+          [
+           "(7) パーティーに行かない（友だちに）",
+           "パーティーに行かなくてごめん。"
+          ],
+          [
+           "(8) 迎えに行けない（友だちに）",
+           "迎えに行けなくてごめん。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "V. B: apologies with excuses",
+       "body": "Apologize for the following things and add excuses. The book’s example: 先生、遅くなってすみませんでした。 どうしたんですか。 朝寝坊したんです。 そうですか。これから気をつけてくださいね。 My sample apologies for the six situations:",
+       "tables": [
+        {
+         "headers": [
+          "Situation",
+          "My apology"
+         ],
+         "rows": [
+          [
+           "授業に来られませんでした。（先生に）",
+           "先生、授業に来られなくてすみませんでした。かぜをひいたんです。"
+          ],
+          [
+           "ルームメイトを起こしました。（ルームメイトに）",
+           "起こしてごめん。早く出かけなきゃいけなかったんだ。"
+          ],
+          [
+           "友だちの誕生日を忘れました。（友だちに）",
+           "誕生日を忘れてごめん。最近忙しかったんだ。"
+          ],
+          [
+           "友だちを笑いました。（友だちに）",
+           "笑ってごめん。ちょっとおもしろかったんだ。"
+          ],
+          [
+           "うそをつきました。（友だちに）",
+           "うそをついてごめん。本当のことが言えなかったんだ。"
+          ],
+          [
+           "ホストファザーに借りた本をなくしました。（ホストファザーに）",
+           "借りた本をなくしてすみませんでした。もう一度買ってきます。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "先生、遅くなってすみませんでした。",
+         "translation": "Sensee, osoku natte sumimasen deshita. — Professor, I am sorry I am late. (the book’s example)"
+        },
+        {
+         "text": "朝寝坊したんです。",
+         "translation": "Asaneboo shita n desu. — I overslept. (the book’s example)"
+        },
+        {
+         "text": "そうですか。これから気をつけてくださいね。",
+         "translation": "Soo desu ka. Kore kara ki o tsukete kudasai ne. — I see. Please be careful from now on. (the book’s example)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "VI. まとめの練習: A. a good experience",
+       "body": "Talk about a good experience you had recently. The book’s example:",
+       "tables": [],
+       "examples": [
+        {
+         "text": "この間、一人で京都にお寺を見に行った時、道に迷ったんです。",
+         "translation": "Kono aida, hitori de Kyooto ni otera o mi ni itta toki, michi ni mayotta n desu. — The other day, when I went to Kyoto alone to see temples, I lost my way."
+        },
+        {
+         "text": "その時、女の人に道を聞きました。",
+         "translation": "Sono toki, onna no hito ni michi o kikimashita. — At that time, I asked a woman for directions."
+        },
+        {
+         "text": "その人はとても親切で、お寺に連れていってくれました。",
+         "translation": "Sono hito wa totemo shinsetsu de, otera ni tsurete itte kuremashita. — She was very kind, and she took me to the temple."
+        },
+        {
+         "text": "そして、その人はほかのお寺も案内してくれました。",
+         "translation": "Soshite, sono hito wa hoka no otera mo annai shite kuremashita. — And she showed me around other temples, too."
+        },
+        {
+         "text": "とてもうれしかったです。",
+         "translation": "Totemo ureshikatta desu. — I was very happy."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "VI. B: role plays",
+       "body": "Make a skit based on the situations: (1) You were absent from class yesterday. Apologize to your teacher and explain why you were absent. (2) You forgot your date. Apologize to him or her, then tell him or her that you are too busy to have a date this week, and ask him or her to wait until next week.",
+       "tables": [],
+       "examples": [],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What is the request for (1) 友だち／ノートを貸す?",
+       "options": [
+        "ゆっくり話してくれない？、ゆっくり話してくれませんか。、ゆっくり話していただけませんか。",
+        "友だちを紹介してくれない？",
+        "ノートを貸してくれない？",
+        "本を返してくれない？"
+       ],
+       "correctIndex": 2,
+       "explanation": "(1) 友だち／ノートを貸す"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What is the request for (2) 友だち／本を返す?",
+       "options": [
+        "本を返してくれない？",
+        "ノートを貸してくれない？",
+        "ゆっくり話してくれない？、ゆっくり話してくれませんか。、ゆっくり話していただけませんか。",
+        "友だちを紹介してくれない？"
+       ],
+       "correctIndex": 0,
+       "explanation": "(2) 友だち／本を返す"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What is the request for (3) 友だち／友だちを紹介する?",
+       "options": [
+        "ゆっくり話してくれない？、ゆっくり話してくれませんか。、ゆっくり話していただけませんか。",
+        "本を返してくれない？",
+        "友だちを紹介してくれない？",
+        "ノートを貸してくれない？"
+       ],
+       "correctIndex": 2,
+       "explanation": "(3) 友だち／友だちを紹介する"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What is the request for (4) 友だち／今晩電話する?",
+       "options": [
+        "本を返してくれない？",
+        "ノートを貸してくれない？",
+        "今晩電話してくれない？",
+        "ゆっくり話してくれない？、ゆっくり話してくれませんか。、ゆっくり話していただけませんか。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(4) 友だち／今晩電話する"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What is the request for (5) ホストファミリーのお母さん／六時に起こす?",
+       "options": [
+        "六時に起こしてくれませんか。",
+        "本を返してくれない？",
+        "ゆっくり話してくれない？、ゆっくり話してくれませんか。、ゆっくり話していただけませんか。",
+        "ノートを貸してくれない？"
+       ],
+       "correctIndex": 0,
+       "explanation": "(5) ホストファミリーのお母さん／六時に起こす"
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What is the request for (6) ホストファミリーのお母さん／駅に迎えに来る?",
+       "options": [
+        "駅に迎えに来てくれませんか。",
+        "ゆっくり話してくれない？、ゆっくり話してくれませんか。、ゆっくり話していただけませんか。",
+        "本を返してくれない？",
+        "ノートを貸してくれない？"
+       ],
+       "correctIndex": 0,
+       "explanation": "(6) ホストファミリーのお母さん／駅に迎えに来る"
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What is the request for (7) ホストファミリーのお母さん／お弁当を作る?",
+       "options": [
+        "ノートを貸してくれない？",
+        "お弁当を作ってくれませんか。",
+        "ゆっくり話してくれない？、ゆっくり話してくれませんか。、ゆっくり話していただけませんか。",
+        "本を返してくれない？"
+       ],
+       "correctIndex": 1,
+       "explanation": "(7) ホストファミリーのお母さん／お弁当を作る"
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What is the request for (8) ホストファミリーのお母さん／宿題を手伝う?",
+       "options": [
+        "ゆっくり話してくれない？、ゆっくり話してくれませんか。、ゆっくり話していただけませんか。",
+        "本を返してくれない？",
+        "ノートを貸してくれない？",
+        "宿題を手伝ってくれませんか。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(8) ホストファミリーのお母さん／宿題を手伝う"
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "What is the request for (9) 先生／文法を説明する?",
+       "options": [
+        "文法を説明していただけませんか。",
+        "ノートを貸してくれない？",
+        "ゆっくり話してくれない？、ゆっくり話してくれませんか。、ゆっくり話していただけませんか。",
+        "本を返してくれない？"
+       ],
+       "correctIndex": 0,
+       "explanation": "(9) 先生／文法を説明する"
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What is the request for (10) 先生／推薦状を書く?",
+       "options": [
+        "本を返してくれない？",
+        "ノートを貸してくれない？",
+        "ゆっくり話してくれない？、ゆっくり話してくれませんか。、ゆっくり話していただけませんか。",
+        "推薦状を書いていただけませんか。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(10) 先生／推薦状を書く"
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What is the request for (11) 先生／英語に訳す?",
+       "options": [
+        "ゆっくり話してくれない？、ゆっくり話してくれませんか。、ゆっくり話していただけませんか。",
+        "ノートを貸してくれない？",
+        "本を返してくれない？",
+        "英語に訳していただけませんか。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(11) 先生／英語に訳す"
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "What is the request for (12) 先生／作文を直す?",
+       "options": [
+        "作文を直していただけませんか。",
+        "ノートを貸してくれない？",
+        "ゆっくり話してくれない？、ゆっくり話してくれませんか。、ゆっくり話していただけませんか。",
+        "本を返してくれない？"
+       ],
+       "correctIndex": 0,
+       "explanation": "(12) 先生／作文を直す"
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "What is a good request: お金がなくて困っています。（ホストマザーに）",
+       "options": [
+        "また天ぷらを作ってくれませんか。",
+        "少しお金を貸してくれませんか。",
+        "部屋を掃除してくれない？",
+        "宿題をもう一日待っていただけませんか。"
+       ],
+       "correctIndex": 1,
+       "explanation": "お金がなくて困っています。（ホストマザーに）"
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "What is a good request: 宿題がまだ終わっていません。（先生に）",
+       "options": [
+        "宿題をもう一日待っていただけませんか。",
+        "また天ぷらを作ってくれませんか。",
+        "部屋を掃除してくれない？",
+        "少しお金を貸してくれませんか。"
+       ],
+       "correctIndex": 0,
+       "explanation": "宿題がまだ終わっていません。（先生に）"
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "What is a good request: お客さんが来るので、家の手伝いが必要です。（子供に）",
+       "options": [
+        "宿題をもう一日待っていただけませんか。",
+        "部屋を掃除してくれない？",
+        "少しお金を貸してくれませんか。",
+        "また天ぷらを作ってくれませんか。"
+       ],
+       "correctIndex": 1,
+       "explanation": "お客さんが来るので、家の手伝いが必要です。（子供に）"
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "What is a good request: ホストファザーの天ぷらが大好きです。（ホストファザーに）",
+       "options": [
+        "部屋を掃除してくれない？",
+        "宿題をもう一日待っていただけませんか。",
+        "少しお金を貸してくれませんか。",
+        "また天ぷらを作ってくれませんか。"
+       ],
+       "correctIndex": 3,
+       "explanation": "ホストファザーの天ぷらが大好きです。（ホストファザーに）"
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "What is a good request: もっと友だちがほしいです。（友だちに）",
+       "options": [
+        "友だちを紹介してくれない？",
+        "少しお金を貸してくれませんか。",
+        "宿題をもう一日待っていただけませんか。",
+        "部屋を掃除してくれない？"
+       ],
+       "correctIndex": 0,
+       "explanation": "もっと友だちがほしいです。（友だちに）"
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "What is a good request: 書いた手紙を直してほしいです。（上司に）",
+       "options": [
+        "少しお金を貸してくれませんか。",
+        "この手紙を直していただけませんか。",
+        "部屋を掃除してくれない？",
+        "宿題をもう一日待っていただけませんか。"
+       ],
+       "correctIndex": 1,
+       "explanation": "書いた手紙を直してほしいです。（上司に）"
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "What do you hope for: (1) ロバート：あしたから旅行に行くんです。（good weather）",
+       "options": [
+        "寒くないといいですね。",
+        "楽しいといいですね。",
+        "天気がいいといいですね。",
+        "早くよくなるといいですね。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(1) ロバート：あしたから旅行に行くんです。（good weather）"
+      },
+      {
+       "id": "e20",
+       "type": "multipleChoice",
+       "prompt": "What do you hope for: (2) ロバート（not cold）",
+       "options": [
+        "寒くないといいですね。",
+        "楽しいといいですね。",
+        "早くよくなるといいですね。",
+        "天気がいいといいですね。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(2) ロバート（not cold）"
+      },
+      {
+       "id": "e21",
+       "type": "multipleChoice",
+       "prompt": "What do you hope for: (3) ロバート（fun）",
+       "options": [
+        "寒くないといいですね。",
+        "早くよくなるといいですね。",
+        "天気がいいといいですね。",
+        "楽しいといいですね。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(3) ロバート（fun）"
+      },
+      {
+       "id": "e22",
+       "type": "multipleChoice",
+       "prompt": "What do you hope for: (4) スー：日本の大学院に行きたいんです。（get into graduate school）",
+       "options": [
+        "寒くないといいですね。",
+        "大学院に入れるといいですね。",
+        "早くよくなるといいですね。",
+        "天気がいいといいですね。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(4) スー：日本の大学院に行きたいんです。（get into graduate school）"
+      },
+      {
+       "id": "e23",
+       "type": "multipleChoice",
+       "prompt": "What do you hope for: (5) スー（get a scholarship）",
+       "options": [
+        "寒くないといいですね。",
+        "天気がいいといいですね。",
+        "奨学金がもらえるといいですね。",
+        "早くよくなるといいですね。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(5) スー（get a scholarship）"
+      },
+      {
+       "id": "e24",
+       "type": "multipleChoice",
+       "prompt": "What do you hope for: (6) スー（do good research）",
+       "options": [
+        "天気がいいといいですね。",
+        "寒くないといいですね。",
+        "早くよくなるといいですね。",
+        "いい研究ができるといいですね。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(6) スー（do good research）"
+      },
+      {
+       "id": "e25",
+       "type": "multipleChoice",
+       "prompt": "What do you hope for: (7) ジョン：宿題を忘れたんです。（teacher does not collect）",
+       "options": [
+        "早くよくなるといいですね。",
+        "寒くないといいですね。",
+        "天気がいいといいですね。",
+        "先生が宿題を集めないといいですね。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(7) ジョン：宿題を忘れたんです。（teacher does not collect）"
+      },
+      {
+       "id": "e26",
+       "type": "multipleChoice",
+       "prompt": "What do you hope for: (8) ジョン（teacher does not come）",
+       "options": [
+        "早くよくなるといいですね。",
+        "天気がいいといいですね。",
+        "寒くないといいですね。",
+        "先生が授業に来ないといいですね。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(8) ジョン（teacher does not come）"
+      },
+      {
+       "id": "e27",
+       "type": "multipleChoice",
+       "prompt": "What do you hope for: (9) ジョン（typhoon, no class）",
+       "options": [
+        "早くよくなるといいですね。",
+        "台風が来て、今日授業がないといいですね。",
+        "寒くないといいですね。",
+        "天気がいいといいですね。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(9) ジョン（typhoon, no class）"
+      },
+      {
+       "id": "e28",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (1) 眠い?",
+       "options": [
+        "眠い時、コーヒーを飲みます。",
+        "食べすぎた時、薬を飲みます。",
+        "わからない時、先生に聞きます。",
+        "コーヒーを飲む時、砂糖を入れます。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(1) 眠い"
+      },
+      {
+       "id": "e29",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (2) わからない?",
+       "options": [
+        "わからない時、先生に聞きます。",
+        "食べすぎた時、薬を飲みます。",
+        "眠い時、コーヒーを飲みます。",
+        "コーヒーを飲む時、砂糖を入れます。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(2) わからない"
+      },
+      {
+       "id": "e30",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (3) 日本語で手紙を書いた?",
+       "options": [
+        "眠い時、コーヒーを飲みます。",
+        "日本語で手紙を書いた時、先生に見せます。",
+        "コーヒーを飲む時、砂糖を入れます。",
+        "食べすぎた時、薬を飲みます。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(3) 日本語で手紙を書いた"
+      },
+      {
+       "id": "e31",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (4) ホームシックです?",
+       "options": [
+        "ホームシックの時、友だちに電話します。",
+        "眠い時、コーヒーを飲みます。",
+        "コーヒーを飲む時、砂糖を入れます。",
+        "食べすぎた時、薬を飲みます。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(4) ホームシックです"
+      },
+      {
+       "id": "e32",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (5) 友だちの家に行く?",
+       "options": [
+        "食べすぎた時、薬を飲みます。",
+        "友だちの家に行く時、お土産を買います。",
+        "眠い時、コーヒーを飲みます。",
+        "コーヒーを飲む時、砂糖を入れます。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(5) 友だちの家に行く"
+      },
+      {
+       "id": "e33",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (6) ひまです?",
+       "options": [
+        "眠い時、コーヒーを飲みます。",
+        "コーヒーを飲む時、砂糖を入れます。",
+        "ひまな時、テレビを見ます。",
+        "食べすぎた時、薬を飲みます。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(6) ひまです"
+      },
+      {
+       "id": "e34",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (7) おいしいピザが食べたい?",
+       "options": [
+        "コーヒーを飲む時、砂糖を入れます。",
+        "おいしいピザが食べたい時、このレストランに行きます。",
+        "眠い時、コーヒーを飲みます。",
+        "食べすぎた時、薬を飲みます。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(7) おいしいピザが食べたい"
+      },
+      {
+       "id": "e35",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (8) 朝寝坊した?",
+       "options": [
+        "眠い時、コーヒーを飲みます。",
+        "朝寝坊した時、タクシーに乗ります。",
+        "コーヒーを飲む時、砂糖を入れます。",
+        "食べすぎた時、薬を飲みます。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(8) 朝寝坊した"
+      },
+      {
+       "id": "e36",
+       "type": "multipleChoice",
+       "prompt": "Combine: 道に迷う／親切そうな人に道を聞く",
+       "options": [
+        "友だちが来る時、私の町を案内します。",
+        "さびしい時、友だちに電話をします。",
+        "道に迷った時、親切そうな人に道を聞きます。",
+        "電車に乗る時、切符を買います。"
+       ],
+       "correctIndex": 2,
+       "explanation": "道に迷う／親切そうな人に道を聞く"
+      },
+      {
+       "id": "e37",
+       "type": "multipleChoice",
+       "prompt": "Combine: 友だちが来る／私の町を案内する",
+       "options": [
+        "さびしい時、友だちに電話をします。",
+        "道に迷った時、親切そうな人に道を聞きます。",
+        "電車に乗る時、切符を買います。",
+        "友だちが来る時、私の町を案内します。"
+       ],
+       "correctIndex": 3,
+       "explanation": "友だちが来る／私の町を案内する"
+      },
+      {
+       "id": "e38",
+       "type": "multipleChoice",
+       "prompt": "Combine: さびしい／友だちに電話をする",
+       "options": [
+        "道に迷った時、親切そうな人に道を聞きます。",
+        "さびしい時、友だちに電話をします。",
+        "友だちが来る時、私の町を案内します。",
+        "電車に乗る時、切符を買います。"
+       ],
+       "correctIndex": 1,
+       "explanation": "さびしい／友だちに電話をする"
+      },
+      {
+       "id": "e39",
+       "type": "multipleChoice",
+       "prompt": "Combine: 電車に乗る／切符を買う",
+       "options": [
+        "さびしい時、友だちに電話をします。",
+        "道に迷った時、親切そうな人に道を聞きます。",
+        "友だちが来る時、私の町を案内します。",
+        "電車に乗る時、切符を買います。"
+       ],
+       "correctIndex": 3,
+       "explanation": "電車に乗る／切符を買う"
+      },
+      {
+       "id": "e40",
+       "type": "multipleChoice",
+       "prompt": "Combine: 写真を撮る／「チーズ」と言う",
+       "options": [
+        "さびしい時、友だちに電話をします。",
+        "道に迷った時、親切そうな人に道を聞きます。",
+        "友だちが来る時、私の町を案内します。",
+        "写真を撮る時、「チーズ」と言います。"
+       ],
+       "correctIndex": 3,
+       "explanation": "写真を撮る／「チーズ」と言う"
+      },
+      {
+       "id": "e41",
+       "type": "multipleChoice",
+       "prompt": "Combine: ひまだ／料理をする",
+       "options": [
+        "友だちが来る時、私の町を案内します。",
+        "ひまな時、料理をします。",
+        "さびしい時、友だちに電話をします。",
+        "道に迷った時、親切そうな人に道を聞きます。"
+       ],
+       "correctIndex": 1,
+       "explanation": "ひまだ／料理をする"
+      },
+      {
+       "id": "e42",
+       "type": "multipleChoice",
+       "prompt": "Combine: ディズニーランドに行く／ミッキー・マウスのぬいぐるみを買った",
+       "options": [
+        "友だちが来る時、私の町を案内します。",
+        "さびしい時、友だちに電話をします。",
+        "ディズニーランドに行った時、ミッキー・マウスのぬいぐるみを買いました。",
+        "道に迷った時、親切そうな人に道を聞きます。"
+       ],
+       "correctIndex": 2,
+       "explanation": "ディズニーランドに行く／ミッキー・マウスのぬいぐるみを買った"
+      },
+      {
+       "id": "e43",
+       "type": "multipleChoice",
+       "prompt": "Combine: ホームシックだ／泣く",
+       "options": [
+        "道に迷った時、親切そうな人に道を聞きます。",
+        "友だちが来る時、私の町を案内します。",
+        "ホームシックの時、泣きます。",
+        "さびしい時、友だちに電話をします。"
+       ],
+       "correctIndex": 2,
+       "explanation": "ホームシックだ／泣く"
+      },
+      {
+       "id": "e44",
+       "type": "multipleChoice",
+       "prompt": "Combine: かぜをひく／病院に行く",
+       "options": [
+        "かぜをひいた時、病院に行きます。",
+        "友だちが来る時、私の町を案内します。",
+        "道に迷った時、親切そうな人に道を聞きます。",
+        "さびしい時、友だちに電話をします。"
+       ],
+       "correctIndex": 0,
+       "explanation": "かぜをひく／病院に行く"
+      },
+      {
+       "id": "e45",
+       "type": "multipleChoice",
+       "prompt": "What is the apology for (1) 授業中に話す（先生に）?",
+       "options": [
+        "授業中に話してすみませんでした。",
+        "授業に来られなくてすみませんでした。",
+        "遅くなってごめん。",
+        "授業中に寝てすみませんでした。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(1) 授業中に話す（先生に）"
+      },
+      {
+       "id": "e46",
+       "type": "multipleChoice",
+       "prompt": "What is the apology for (2) 授業中に寝る（先生に）?",
+       "options": [
+        "授業中に話してすみませんでした。",
+        "遅くなってごめん。",
+        "授業中に寝てすみませんでした。",
+        "授業に来られなくてすみませんでした。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(2) 授業中に寝る（先生に）"
+      },
+      {
+       "id": "e47",
+       "type": "multipleChoice",
+       "prompt": "What is the apology for (3) 遅刻する（先生に）?",
+       "options": [
+        "授業に来られなくてすみませんでした。",
+        "遅刻してすみませんでした。",
+        "授業中に話してすみませんでした。",
+        "遅くなってごめん。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(3) 遅刻する（先生に）"
+      },
+      {
+       "id": "e48",
+       "type": "multipleChoice",
+       "prompt": "What is the apology for (4) 教科書を持ってこない（先生に）?",
+       "options": [
+        "遅くなってごめん。",
+        "授業中に話してすみませんでした。",
+        "教科書を持ってこなくてすみませんでした。",
+        "授業に来られなくてすみませんでした。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(4) 教科書を持ってこない（先生に）"
+      },
+      {
+       "id": "e49",
+       "type": "multipleChoice",
+       "prompt": "What is the apology for (5) 夜遅く電話する（友だちに）?",
+       "options": [
+        "授業に来られなくてすみませんでした。",
+        "遅くなってごめん。",
+        "授業中に話してすみませんでした。",
+        "夜遅く電話してごめん。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(5) 夜遅く電話する（友だちに）"
+      },
+      {
+       "id": "e50",
+       "type": "multipleChoice",
+       "prompt": "What is the apology for (6) 約束を守らない（友だちに）?",
+       "options": [
+        "約束を守らなくてごめん。",
+        "授業に来られなくてすみませんでした。",
+        "遅くなってごめん。",
+        "授業中に話してすみませんでした。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(6) 約束を守らない（友だちに）"
+      },
+      {
+       "id": "e51",
+       "type": "multipleChoice",
+       "prompt": "What is the apology for (7) パーティーに行かない（友だちに）?",
+       "options": [
+        "授業に来られなくてすみませんでした。",
+        "パーティーに行かなくてごめん。",
+        "遅くなってごめん。",
+        "授業中に話してすみませんでした。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(7) パーティーに行かない（友だちに）"
+      },
+      {
+       "id": "e52",
+       "type": "multipleChoice",
+       "prompt": "What is the apology for (8) 迎えに行けない（友だちに）?",
+       "options": [
+        "授業に来られなくてすみませんでした。",
+        "遅くなってごめん。",
+        "迎えに行けなくてごめん。",
+        "授業中に話してすみませんでした。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(8) 迎えに行けない（友だちに）"
+      },
+      {
+       "id": "e53",
+       "type": "multipleChoice",
+       "prompt": "What does この間、一人で京都にお寺を見に行った時、道に迷ったんです。 mean?",
+       "options": [
+        "At that time, I asked a woman for directions.",
+        "The other day, when I went to Kyoto alone to see temples, I lost my way.",
+        "She was very kind, and she took me to the temple.",
+        "And she showed me around other temples, too."
+       ],
+       "correctIndex": 1,
+       "explanation": "この間、一人で京都にお寺を見に行った時、道に迷ったんです。"
+      },
+      {
+       "id": "e54",
+       "type": "multipleChoice",
+       "prompt": "What does その時、女の人に道を聞きました。 mean?",
+       "options": [
+        "She was very kind, and she took me to the temple.",
+        "The other day, when I went to Kyoto alone to see temples, I lost my way.",
+        "And she showed me around other temples, too.",
+        "At that time, I asked a woman for directions."
+       ],
+       "correctIndex": 3,
+       "explanation": "その時、女の人に道を聞きました。"
+      },
+      {
+       "id": "e55",
+       "type": "multipleChoice",
+       "prompt": "What does その人はとても親切で、お寺に連れていってくれました。 mean?",
+       "options": [
+        "At that time, I asked a woman for directions.",
+        "And she showed me around other temples, too.",
+        "The other day, when I went to Kyoto alone to see temples, I lost my way.",
+        "She was very kind, and she took me to the temple."
+       ],
+       "correctIndex": 3,
+       "explanation": "その人はとても親切で、お寺に連れていってくれました。"
+      },
+      {
+       "id": "e56",
+       "type": "multipleChoice",
+       "prompt": "What does そして、その人はほかのお寺も案内してくれました。 mean?",
+       "options": [
+        "At that time, I asked a woman for directions.",
+        "And she showed me around other temples, too.",
+        "The other day, when I went to Kyoto alone to see temples, I lost my way.",
+        "She was very kind, and she took me to the temple."
+       ],
+       "correctIndex": 1,
+       "explanation": "そして、その人はほかのお寺も案内してくれました。"
+      },
+      {
+       "id": "e57",
+       "type": "multipleChoice",
+       "prompt": "What does とてもうれしかったです。 mean?",
+       "options": [
+        "I was very happy.",
+        "The other day, when I went to Kyoto alone to see temples, I lost my way.",
+        "At that time, I asked a woman for directions.",
+        "She was very kind, and she took me to the temple."
+       ],
+       "correctIndex": 0,
+       "explanation": "とてもうれしかったです。"
+      },
+      {
+       "id": "e58",
+       "type": "fillBlank",
+       "prompt": "ゆっくり話して___ませんか。 (to your host mother)",
+       "options": [
+        "くれ",
+        "いただけ",
+        "あげ",
+        "もらい"
+       ],
+       "correctIndex": 0,
+       "explanation": "くれませんか."
+      },
+      {
+       "id": "e59",
+       "type": "fillBlank",
+       "prompt": "文法を説明して___ませんか。 (to a teacher)",
+       "options": [
+        "あげ",
+        "もらい",
+        "くれ",
+        "いただけ"
+       ],
+       "correctIndex": 3,
+       "explanation": "いただけませんか."
+      },
+      {
+       "id": "e60",
+       "type": "fillBlank",
+       "prompt": "早くよくなる___いいですね。",
+       "options": [
+        "が",
+        "に",
+        "を",
+        "と"
+       ],
+       "correctIndex": 3,
+       "explanation": "よくなるといい."
+      },
+      {
+       "id": "e61",
+       "type": "fillBlank",
+       "prompt": "ホームシック___時、友だちに電話します。",
+       "options": [
+        "の",
+        "に",
+        "い",
+        "な"
+       ],
+       "correctIndex": 0,
+       "explanation": "ホームシックの時."
+      },
+      {
+       "id": "e62",
+       "type": "fillBlank",
+       "prompt": "授業中に話し___すみませんでした。",
+       "options": [
+        "て",
+        "で",
+        "に",
+        "と"
+       ],
+       "correctIndex": 0,
+       "explanation": "話してすみませんでした."
+      }
+     ]
+    }
+   ]
   }
  ]
 }
