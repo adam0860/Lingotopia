@@ -97544,7 +97544,7 @@
         },
         {
          "text": "午前のをお願いします。クレジットカードで払ってもいいですか。",
-         "translation": "メアリー: Gozen no o onegai shimasu. Kurejittokaado de haratte mo ii desu ka. — The morning one, please. May I pay by credit card?"
+         "translation": "メアリー: Gozen no o onegai shimasu. Kurejitto kaado de haratte mo ii desu ka. — The morning one, please. May I pay by credit card?"
         },
         {
          "text": "はい。",
@@ -97576,7 +97576,7 @@
         },
         {
          "text": "クレジットカードで払ってもいいですか。",
-         "translation": "Kurejittokaado de haratte mo ii desu ka. — May I pay by credit card?"
+         "translation": "Kurejitto kaado de haratte mo ii desu ka. — May I pay by credit card?"
         }
        ],
        "kind": "note"
@@ -97883,7 +97883,7 @@
           [
            "クレジットカード",
            "",
-           "Kurejittokaado",
+           "Kurejitto kaado",
            "credit card"
           ],
           [
@@ -98419,7 +98419,7 @@
         "soccer"
        ],
        "correctIndex": 1,
-       "explanation": "クレジットカード (Kurejittokaado) means “credit card”."
+       "explanation": "クレジットカード (Kurejitto kaado) means “credit card”."
       },
       {
        "id": "e9",
@@ -98887,7 +98887,7 @@
         "サッカー"
        ],
        "correctIndex": 2,
-       "explanation": "credit card is クレジットカード (Kurejittokaado)."
+       "explanation": "credit card is クレジットカード (Kurejitto kaado)."
       },
       {
        "id": "e45",
@@ -179950,6 +179950,6907 @@
        ],
        "correctIndex": 1,
        "explanation": "一回も + negative."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "unit_28",
+   "title": "Genki II, Lesson 15: A Trip to Nagano",
+   "lessons": [
+    {
+     "id": "ja_173",
+     "title": "173. Dialogue: A trip to Nagano",
+     "subtitle": "今度の休み、予定ある？ · 行こうと思ってるんだけど · 調べておくよ · ちょっと観光しない？ · そばを食べようよ · 善光寺に行くバスはどれですか",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "Dialogue 1: Before the vacation",
+       "body": "Mary invites Takeshi to Michiko’s home in Nagano. Tap a line to hear it.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "たけしくん、今度の休み、予定ある？",
+         "translation": "メアリー: Takeshi-kun, kondo no yasumi, yotee aru? — Takeshi, do you have any plans for the holiday?"
+        },
+        {
+         "text": "ううん。別に。どうして？",
+         "translation": "たけし: Uun. Betsu ni. Dooshite? — Not really. Why?"
+        },
+        {
+         "text": "みちこさんの長野のうちに行こうと思ってるんだけど、一緒に行かない？",
+         "translation": "メアリー: Michiko-san no Nagano no uchi ni ikoo to omotteru n da kedo, issho ni ikanai? — I am thinking of going to Michiko’s home in Nagano. Do you want to go?"
+        },
+        {
+         "text": "いいの？",
+         "translation": "たけし: Ii no? — Is it okay?"
+        },
+        {
+         "text": "うん。みちこさんが、「たけしくんも誘って」と言ってたから。",
+         "translation": "メアリー: Un. Michiko-san ga, “Takeshi-kun mo sasotte” to itteta kara. — Yes, Michiko told me to invite you."
+        },
+        {
+         "text": "じゃあ、行く。電車の時間、調べておくよ。",
+         "translation": "たけし: Jaa, iku. Densha no jikan, shirabete oku yo. — Then, I will go. I will check the train schedule."
+        },
+        {
+         "text": "ありがとう。じゃあ、私、みちこさんに電話しておく。",
+         "translation": "メアリー: Arigatoo. Jaa, watashi, Michiko-san ni denwa shite oku. — Thanks. I will call Michiko."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Dialogue 2: At Nagano Station",
+       "body": "Mary and Takeshi arrive early and decide what to do.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "早く着いたから、ちょっと観光しない？",
+         "translation": "たけし: Hayaku tsuita kara, chotto kankoo shinai? — Since we got here early, do you want to do a little sightseeing?"
+        },
+        {
+         "text": "うん。どこに行く？",
+         "translation": "メアリー: Un. Doko ni iku? — Yes. Where shall we go?"
+        },
+        {
+         "text": "善光寺はどう？有名なお寺だよ。",
+         "translation": "たけし: Zenkooji wa doo? Yuumee na otera da yo. — How about Zenkoji Temple? It’s a famous temple."
+        },
+        {
+         "text": "そうだね。昼ご飯は何にする？",
+         "translation": "メアリー: Soo da ne. Hirugohan wa nan ni suru? — Sounds good. What shall we eat for lunch?"
+        },
+        {
+         "text": "長野はそばがおいしいから、そばを食べようよ。",
+         "translation": "たけし: Nagano wa soba ga oishii kara, soba o tabeyoo yo. — Soba noodles in Nagano are delicious, so let’s eat soba."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Dialogue 3: At the travel information office",
+       "body": "Takeshi asks about the bus to Zenkoji Temple. (The book shows a painting of a white horse in a forest by Higashiyama Kaii, 1972, at the Nagano Prefectural Shinano Art Museum.)",
+       "tables": [],
+       "examples": [
+        {
+         "text": "すみません、善光寺に行くバスはどれですか。",
+         "translation": "たけし: Sumimasen, Zenkooji ni iku basu wa dore desu ka. — Excuse me, which bus goes to Zenkoji Temple?"
+        },
+        {
+         "text": "善光寺なら、十一番のバスですよ。",
+         "translation": "案内所の人: Zenkooji nara, juuichiban no basu desu yo. — For Zenkoji, it’s bus number 11."
+        },
+        {
+         "text": "ありがとうございます。この地図、もらってもいいですか。",
+         "translation": "たけし: Arigatoo gozaimasu. Kono chizu, moratte mo ii desu ka. — Thank you very much. Can I have this map?"
+        },
+        {
+         "text": "ええ、どうぞ。それから、これ、美術館の割引券ですが、よかったらどうぞ。",
+         "translation": "案内所の人: Ee, doozo. Sorekara, kore, bijutsukan no waribikiken desu ga, yokattara doozo. — Yes. And these are discount tickets for the museum. Please take them, if you like."
+        },
+        {
+         "text": "これ、東山魁夷の絵がある美術館ですね。あした行く予定なんです。どうもありがとう。",
+         "translation": "メアリー: Kore, Higashiyama Kaii no e ga aru bijutsukan desu ne. Ashita iku yotee na n desu. Doomo arigatoo. — This is the museum that has paintings of Higashiyama Kaii, isn’t it? We are planning to go tomorrow. Thank you."
+        },
+        {
+         "text": "気をつけて。",
+         "translation": "案内所の人: Ki o tsukete. — Have a safe trip."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "What to notice",
+       "body": "This lesson’s grammar: the volitional form (行こう, 食べよう, 観光しない？), ～と思っています for plans, ～ておく (調べておく, 電話しておく) and sentences that describe a noun (善光寺に行くバス, 東山魁夷の絵がある美術館). The dialogues are in casual speech: 予定ある？ 思ってるんだけど, 言ってたから, 有名なお寺だよ.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "みちこさんの長野のうちに行こうと思ってるんだけど、一緒に行かない？",
+         "translation": "Michiko-san no Nagano no uchi ni ikoo to omotteru n da kedo, issho ni ikanai? — I am thinking of going to Michiko’s home in Nagano. Do you want to go with me?"
+        },
+        {
+         "text": "電車の時間、調べておくよ。",
+         "translation": "Densha no jikan, shirabete oku yo. — I will check the train schedule (in advance)."
+        },
+        {
+         "text": "善光寺に行くバスはどれですか。",
+         "translation": "Zenkooji ni iku basu wa dore desu ka. — Which bus goes to Zenkoji Temple?"
+        }
+       ],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "Where does Mary want to go?",
+       "options": [
+        "Michiko’s home in Nagano",
+        "Kyoto",
+        "Michiko’s school",
+        "Takeshi’s home"
+       ],
+       "correctIndex": 0,
+       "explanation": "みちこさんの長野のうちに行こうと思ってるんだけど。"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "Why does Mary invite Takeshi?",
+       "options": [
+        "Michiko is ill",
+        "Michiko told her to",
+        "Mary has no friends",
+        "Takeshi asked her"
+       ],
+       "correctIndex": 1,
+       "explanation": "「たけしくんも誘って」と言ってたから。"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What will Takeshi do in advance?",
+       "options": [
+        "check the train schedule",
+        "make a hotel reservation",
+        "buy tickets",
+        "call Michiko"
+       ],
+       "correctIndex": 0,
+       "explanation": "電車の時間、調べておくよ。"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What will Mary do in advance?",
+       "options": [
+        "cook",
+        "call Michiko",
+        "check the train schedule",
+        "buy a map"
+       ],
+       "correctIndex": 1,
+       "explanation": "みちこさんに電話しておく。"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What does Takeshi suggest at Nagano Station?",
+       "options": [
+        "see a movie",
+        "sleep",
+        "go home",
+        "do some sightseeing"
+       ],
+       "correctIndex": 3,
+       "explanation": "ちょっと観光しない？"
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "Which temple does Takeshi suggest?",
+       "options": [
+        "Horyuji",
+        "Zenkoji",
+        "Kinkakuji",
+        "Todaiji"
+       ],
+       "correctIndex": 1,
+       "explanation": "善光寺."
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What do they decide to eat for lunch?",
+       "options": [
+        "sushi",
+        "soba",
+        "curry",
+        "pizza"
+       ],
+       "correctIndex": 1,
+       "explanation": "そばを食べようよ。"
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "Why soba?",
+       "options": [
+        "Mary dislikes rice",
+        "Nagano soba is delicious",
+        "it is cheap",
+        "it is quick"
+       ],
+       "correctIndex": 1,
+       "explanation": "長野はそばがおいしいから。"
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "Which bus goes to Zenkoji?",
+       "options": [
+        "number ten",
+        "number one",
+        "number eleven",
+        "number twelve"
+       ],
+       "correctIndex": 2,
+       "explanation": "十一番のバス."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What does Takeshi ask for at the information office?",
+       "options": [
+        "a ticket",
+        "money",
+        "a map",
+        "a hotel"
+       ],
+       "correctIndex": 2,
+       "explanation": "この地図、もらってもいいですか。"
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What are the discount tickets for?",
+       "options": [
+        "a restaurant",
+        "a hotel",
+        "the bus",
+        "the museum"
+       ],
+       "correctIndex": 3,
+       "explanation": "美術館の割引券."
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "Whose paintings does the museum have?",
+       "options": [
+        "Hokusai’s",
+        "Picasso’s",
+        "Monet’s",
+        "Higashiyama Kaii’s"
+       ],
+       "correctIndex": 3,
+       "explanation": "東山魁夷の絵がある美術館."
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "What does 気をつけて mean?",
+       "options": [
+        "be careful; have a safe trip",
+        "welcome",
+        "thank you",
+        "excuse me"
+       ],
+       "correctIndex": 0,
+       "explanation": "気をつけて."
+      },
+      {
+       "id": "e14",
+       "type": "fillBlank",
+       "prompt": "長野の家に行こ___と思ってるんだけど。",
+       "options": [
+        "う",
+        "く",
+        "る",
+        "た"
+       ],
+       "correctIndex": 0,
+       "explanation": "行こう."
+      },
+      {
+       "id": "e15",
+       "type": "fillBlank",
+       "prompt": "そばを食べ___よ。 (let’s)",
+       "options": [
+        "よう",
+        "おう",
+        "よ",
+        "ない"
+       ],
+       "correctIndex": 0,
+       "explanation": "食べようよ."
+      },
+      {
+       "id": "e16",
+       "type": "fillBlank",
+       "prompt": "電車の時間、調べて___よ。 (in advance)",
+       "options": [
+        "おく",
+        "みる",
+        "ある",
+        "いる"
+       ],
+       "correctIndex": 0,
+       "explanation": "調べておくよ."
+      },
+      {
+       "id": "e17",
+       "type": "fillBlank",
+       "prompt": "みちこさんに電話して___。",
+       "options": [
+        "おく",
+        "みる",
+        "いる",
+        "ある"
+       ],
+       "correctIndex": 0,
+       "explanation": "電話しておく."
+      },
+      {
+       "id": "e18",
+       "type": "fillBlank",
+       "prompt": "善光寺に___バスはどれですか。 (goes)",
+       "options": [
+        "行って",
+        "行く",
+        "行き",
+        "行った"
+       ],
+       "correctIndex": 1,
+       "explanation": "short form + noun."
+      }
+     ]
+    },
+    {
+     "id": "ja_174",
+     "title": "174. Vocabulary: Lesson 15",
+     "subtitle": "インターネット · 絵 · 映画館 · 外国人 · 家具 · 経験 · 結婚式 · 地震 · 締め切り · 習慣 · 税金 · 卒業式 · 地図 · 電池 · 予定 · 旅館 · 割引券 · 探す · 誘う · 付き合う · 調べる · 観光する",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "Nouns",
+       "body": "The kana is spoken and shown with its kanji (where the book gives one). そば is soba, Japanese buckwheat noodles.",
+       "tables": [
+        {
+         "headers": [
+          "Japanese",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "インターネット",
+           "",
+           "Intaanetto",
+           "Internet"
+          ],
+          [
+           "え",
+           "絵",
+           "E",
+           "painting; picture; drawing"
+          ],
+          [
+           "えいがかん",
+           "映画館",
+           "Eegakan",
+           "movie theater"
+          ],
+          [
+           "がいこくじん",
+           "外国人",
+           "Gaikokujin",
+           "foreigner"
+          ],
+          [
+           "かぐ",
+           "家具",
+           "Kagu",
+           "furniture"
+          ],
+          [
+           "クラブ",
+           "",
+           "Kurabu",
+           "night club"
+          ],
+          [
+           "けいけん",
+           "経験",
+           "Keeken",
+           "experience"
+          ],
+          [
+           "けっこんしき",
+           "結婚式",
+           "Kekkonshiki",
+           "wedding"
+          ],
+          [
+           "じしん",
+           "地震",
+           "Jishin",
+           "earthquake"
+          ],
+          [
+           "しめきり",
+           "締め切り",
+           "Shimekiri",
+           "deadline"
+          ],
+          [
+           "ジャケット",
+           "",
+           "Jaketto",
+           "jacket"
+          ],
+          [
+           "しゅうかん",
+           "習慣",
+           "Shuukan",
+           "custom"
+          ],
+          [
+           "ぜいきん",
+           "税金",
+           "Zeikin",
+           "tax"
+          ],
+          [
+           "そつぎょうしき",
+           "卒業式",
+           "Sotsugyooshiki",
+           "graduation ceremony"
+          ],
+          [
+           "そば",
+           "",
+           "Soba",
+           "soba; Japanese buckwheat noodle"
+          ],
+          [
+           "ちず",
+           "地図",
+           "Chizu",
+           "map"
+          ],
+          [
+           "でんち",
+           "電池",
+           "Denchi",
+           "battery"
+          ],
+          [
+           "にわ",
+           "庭",
+           "Niwa",
+           "garden"
+          ],
+          [
+           "はっぴょう",
+           "発表",
+           "Happyoo",
+           "presentation"
+          ],
+          [
+           "ばんぐみ",
+           "番組",
+           "Bangumi",
+           "broadcast program"
+          ],
+          [
+           "プール",
+           "",
+           "Puuru",
+           "swimming pool"
+          ],
+          [
+           "ペット",
+           "",
+           "Petto",
+           "pet"
+          ],
+          [
+           "ほけん",
+           "保険",
+           "Hoken",
+           "insurance"
+          ],
+          [
+           "よてい",
+           "予定",
+           "Yotee",
+           "schedule; plan"
+          ],
+          [
+           "りょかん",
+           "旅館",
+           "Ryokan",
+           "Japanese inn"
+          ],
+          [
+           "わりびきけん",
+           "割引券",
+           "Waribikiken",
+           "discount coupon"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "い-adjective",
+       "body": "ひろい is used for a spacious room or house and also for wide roads.",
+       "tables": [
+        {
+         "headers": [
+          "Japanese",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "ひろい",
+           "広い",
+           "Hiroi",
+           "spacious; wide"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "U-verbs",
+       "body": "しゃべる is a u-verb even though it ends in べる. つきあう has two uses: 彼女と付き合う (to date) and 買い物に付き合う (to keep somebody company in doing something).",
+       "tables": [
+        {
+         "headers": [
+          "Japanese",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "うる",
+           "売る",
+           "Uru",
+           "to sell (を)"
+          ],
+          [
+           "おろす",
+           "下ろす",
+           "Orosu",
+           "to withdraw (money) (を)"
+          ],
+          [
+           "かく",
+           "描く",
+           "Kaku",
+           "to draw; to paint (を)"
+          ],
+          [
+           "さがす",
+           "探す",
+           "Sagasu",
+           "to look for (を)"
+          ],
+          [
+           "さそう",
+           "誘う",
+           "Sasoo",
+           "to invite (を)"
+          ],
+          [
+           "しゃべる",
+           "",
+           "Shaberu",
+           "to chat"
+          ],
+          [
+           "つきあう",
+           "付き合う",
+           "Tsukiau",
+           "(1) to date (someone) (person と); (2) to keep company (purpose に)"
+          ],
+          [
+           "つく",
+           "着く",
+           "Tsuku",
+           "to arrive (place に)"
+          ],
+          [
+           "ほけんにはいる",
+           "保険に入る",
+           "Hoken ni hairu",
+           "to buy insurance"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Ru-verbs",
+       "body": "見える is “to be visible”: 海が見える. 気をつける is used with に (車に気をつける).",
+       "tables": [
+        {
+         "headers": [
+          "Japanese",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "きをつける",
+           "気をつける",
+           "Ki o tsukeru",
+           "to be cautious; to be careful (に)"
+          ],
+          [
+           "しらべる",
+           "調べる",
+           "Shiraberu",
+           "to look into (a matter) (matter を)"
+          ],
+          [
+           "みえる",
+           "見える",
+           "Mieru",
+           "to be visible (が)"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Irregular verbs",
+       "body": "する can mean “to decide on” an item: 昼ご飯はそばにする. 卒業する takes を for the school: 大学を卒業する.",
+       "tables": [
+        {
+         "headers": [
+          "Japanese",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "かんこうする",
+           "観光する",
+           "Kankoo suru",
+           "to do sightseeing"
+          ],
+          [
+           "する",
+           "",
+           "Suru",
+           "to decide on (an item) (item に)"
+          ],
+          [
+           "そつぎょうする",
+           "卒業する",
+           "Sotsugyoo suru",
+           "to graduate (from …) (school を)"
+          ],
+          [
+           "よやくする",
+           "予約する",
+           "Yoyaku suru",
+           "to reserve (を)"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Adverbs and other expressions",
+       "body": "The 〜 marks the word that goes before or after (shown in the kanji column; the speaker says only the word itself). 〜番 is used in 十一番のバス, 〜目 in 一日目 (the first day).",
+       "tables": [
+        {
+         "headers": [
+          "Japanese",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "いちにちじゅう",
+           "一日中",
+           "Ichinichijuu",
+           "all day long"
+          ],
+          [
+           "けど",
+           "〜けど",
+           "Kedo",
+           "…, but; …, so"
+          ],
+          [
+           "さいきん",
+           "最近",
+           "Saikin",
+           "recently"
+          ],
+          [
+           "ばん",
+           "〜番",
+           "Ban",
+           "number …"
+          ],
+          [
+           "め",
+           "〜目",
+           "Me",
+           "-th"
+          ],
+          [
+           "もういちど",
+           "もう一度",
+           "Moo ichido",
+           "one more time"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does インターネット mean?",
+       "options": [
+        "painting; picture; drawing",
+        "Internet",
+        "movie theater",
+        "foreigner"
+       ],
+       "correctIndex": 1,
+       "explanation": "インターネット (Intaanetto) means “Internet”."
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What does え mean?",
+       "options": [
+        "movie theater",
+        "foreigner",
+        "furniture",
+        "painting; picture; drawing"
+       ],
+       "correctIndex": 3,
+       "explanation": "え (E) means “painting; picture; drawing”."
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What does えいがかん mean?",
+       "options": [
+        "movie theater",
+        "night club",
+        "furniture",
+        "foreigner"
+       ],
+       "correctIndex": 0,
+       "explanation": "えいがかん (Eegakan) means “movie theater”."
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does がいこくじん mean?",
+       "options": [
+        "furniture",
+        "foreigner",
+        "night club",
+        "experience"
+       ],
+       "correctIndex": 1,
+       "explanation": "がいこくじん (Gaikokujin) means “foreigner”."
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What does かぐ mean?",
+       "options": [
+        "furniture",
+        "night club",
+        "wedding",
+        "experience"
+       ],
+       "correctIndex": 0,
+       "explanation": "かぐ (Kagu) means “furniture”."
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What does クラブ mean?",
+       "options": [
+        "night club",
+        "wedding",
+        "earthquake",
+        "experience"
+       ],
+       "correctIndex": 0,
+       "explanation": "クラブ (Kurabu) means “night club”."
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What does けいけん mean?",
+       "options": [
+        "earthquake",
+        "experience",
+        "wedding",
+        "deadline"
+       ],
+       "correctIndex": 1,
+       "explanation": "けいけん (Keeken) means “experience”."
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What does けっこんしき mean?",
+       "options": [
+        "jacket",
+        "wedding",
+        "deadline",
+        "earthquake"
+       ],
+       "correctIndex": 1,
+       "explanation": "けっこんしき (Kekkonshiki) means “wedding”."
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "What does じしん mean?",
+       "options": [
+        "deadline",
+        "earthquake",
+        "custom",
+        "jacket"
+       ],
+       "correctIndex": 1,
+       "explanation": "じしん (Jishin) means “earthquake”."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What does しめきり mean?",
+       "options": [
+        "jacket",
+        "custom",
+        "deadline",
+        "tax"
+       ],
+       "correctIndex": 2,
+       "explanation": "しめきり (Shimekiri) means “deadline”."
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What does ジャケット mean?",
+       "options": [
+        "custom",
+        "graduation ceremony",
+        "jacket",
+        "tax"
+       ],
+       "correctIndex": 2,
+       "explanation": "ジャケット (Jaketto) means “jacket”."
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "What does しゅうかん mean?",
+       "options": [
+        "tax",
+        "graduation ceremony",
+        "soba; Japanese buckwheat noodle",
+        "custom"
+       ],
+       "correctIndex": 3,
+       "explanation": "しゅうかん (Shuukan) means “custom”."
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "What does ぜいきん mean?",
+       "options": [
+        "tax",
+        "graduation ceremony",
+        "soba; Japanese buckwheat noodle",
+        "map"
+       ],
+       "correctIndex": 0,
+       "explanation": "ぜいきん (Zeikin) means “tax”."
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "What does そつぎょうしき mean?",
+       "options": [
+        "battery",
+        "map",
+        "soba; Japanese buckwheat noodle",
+        "graduation ceremony"
+       ],
+       "correctIndex": 3,
+       "explanation": "そつぎょうしき (Sotsugyooshiki) means “graduation ceremony”."
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "What does そば mean?",
+       "options": [
+        "garden",
+        "map",
+        "soba; Japanese buckwheat noodle",
+        "battery"
+       ],
+       "correctIndex": 2,
+       "explanation": "そば (Soba) means “soba; Japanese buckwheat noodle”."
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "What does ちず mean?",
+       "options": [
+        "presentation",
+        "map",
+        "garden",
+        "battery"
+       ],
+       "correctIndex": 1,
+       "explanation": "ちず (Chizu) means “map”."
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "What does でんち mean?",
+       "options": [
+        "battery",
+        "garden",
+        "presentation",
+        "broadcast program"
+       ],
+       "correctIndex": 0,
+       "explanation": "でんち (Denchi) means “battery”."
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "What does にわ mean?",
+       "options": [
+        "swimming pool",
+        "presentation",
+        "garden",
+        "broadcast program"
+       ],
+       "correctIndex": 2,
+       "explanation": "にわ (Niwa) means “garden”."
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "What does はっぴょう mean?",
+       "options": [
+        "presentation",
+        "swimming pool",
+        "broadcast program",
+        "pet"
+       ],
+       "correctIndex": 0,
+       "explanation": "はっぴょう (Happyoo) means “presentation”."
+      },
+      {
+       "id": "e20",
+       "type": "multipleChoice",
+       "prompt": "What does ばんぐみ mean?",
+       "options": [
+        "swimming pool",
+        "broadcast program",
+        "insurance",
+        "pet"
+       ],
+       "correctIndex": 1,
+       "explanation": "ばんぐみ (Bangumi) means “broadcast program”."
+      },
+      {
+       "id": "e21",
+       "type": "multipleChoice",
+       "prompt": "What does プール mean?",
+       "options": [
+        "schedule; plan",
+        "pet",
+        "insurance",
+        "swimming pool"
+       ],
+       "correctIndex": 3,
+       "explanation": "プール (Puuru) means “swimming pool”."
+      },
+      {
+       "id": "e22",
+       "type": "multipleChoice",
+       "prompt": "What does ペット mean?",
+       "options": [
+        "schedule; plan",
+        "Japanese inn",
+        "insurance",
+        "pet"
+       ],
+       "correctIndex": 3,
+       "explanation": "ペット (Petto) means “pet”."
+      },
+      {
+       "id": "e23",
+       "type": "multipleChoice",
+       "prompt": "What does ほけん mean?",
+       "options": [
+        "schedule; plan",
+        "Japanese inn",
+        "discount coupon",
+        "insurance"
+       ],
+       "correctIndex": 3,
+       "explanation": "ほけん (Hoken) means “insurance”."
+      },
+      {
+       "id": "e24",
+       "type": "multipleChoice",
+       "prompt": "What does よてい mean?",
+       "options": [
+        "schedule; plan",
+        "discount coupon",
+        "Japanese inn",
+        "spacious; wide"
+       ],
+       "correctIndex": 0,
+       "explanation": "よてい (Yotee) means “schedule; plan”."
+      },
+      {
+       "id": "e25",
+       "type": "multipleChoice",
+       "prompt": "What does りょかん mean?",
+       "options": [
+        "Internet",
+        "discount coupon",
+        "Japanese inn",
+        "spacious; wide"
+       ],
+       "correctIndex": 2,
+       "explanation": "りょかん (Ryokan) means “Japanese inn”."
+      },
+      {
+       "id": "e26",
+       "type": "multipleChoice",
+       "prompt": "What does わりびきけん mean?",
+       "options": [
+        "Internet",
+        "spacious; wide",
+        "discount coupon",
+        "painting; picture; drawing"
+       ],
+       "correctIndex": 2,
+       "explanation": "わりびきけん (Waribikiken) means “discount coupon”."
+      },
+      {
+       "id": "e27",
+       "type": "multipleChoice",
+       "prompt": "What does ひろい mean?",
+       "options": [
+        "painting; picture; drawing",
+        "spacious; wide",
+        "movie theater",
+        "Internet"
+       ],
+       "correctIndex": 1,
+       "explanation": "ひろい (Hiroi) means “spacious; wide”."
+      },
+      {
+       "id": "e28",
+       "type": "multipleChoice",
+       "prompt": "How do you say “Internet” in Japanese?",
+       "options": [
+        "え",
+        "インターネット",
+        "がいこくじん",
+        "えいがかん"
+       ],
+       "correctIndex": 1,
+       "explanation": "Internet is インターネット (Intaanetto)."
+      },
+      {
+       "id": "e29",
+       "type": "multipleChoice",
+       "prompt": "How do you say “painting; picture; drawing” in Japanese?",
+       "options": [
+        "かぐ",
+        "がいこくじん",
+        "えいがかん",
+        "え"
+       ],
+       "correctIndex": 3,
+       "explanation": "painting; picture; drawing is え (E)."
+      },
+      {
+       "id": "e30",
+       "type": "multipleChoice",
+       "prompt": "How do you say “movie theater” in Japanese?",
+       "options": [
+        "えいがかん",
+        "がいこくじん",
+        "かぐ",
+        "クラブ"
+       ],
+       "correctIndex": 0,
+       "explanation": "movie theater is えいがかん (Eegakan)."
+      },
+      {
+       "id": "e31",
+       "type": "multipleChoice",
+       "prompt": "How do you say “foreigner” in Japanese?",
+       "options": [
+        "かぐ",
+        "けいけん",
+        "がいこくじん",
+        "クラブ"
+       ],
+       "correctIndex": 2,
+       "explanation": "foreigner is がいこくじん (Gaikokujin)."
+      },
+      {
+       "id": "e32",
+       "type": "multipleChoice",
+       "prompt": "How do you say “furniture” in Japanese?",
+       "options": [
+        "かぐ",
+        "クラブ",
+        "けっこんしき",
+        "けいけん"
+       ],
+       "correctIndex": 0,
+       "explanation": "furniture is かぐ (Kagu)."
+      },
+      {
+       "id": "e33",
+       "type": "multipleChoice",
+       "prompt": "How do you say “night club” in Japanese?",
+       "options": [
+        "じしん",
+        "けっこんしき",
+        "クラブ",
+        "けいけん"
+       ],
+       "correctIndex": 2,
+       "explanation": "night club is クラブ (Kurabu)."
+      },
+      {
+       "id": "e34",
+       "type": "multipleChoice",
+       "prompt": "How do you say “experience” in Japanese?",
+       "options": [
+        "じしん",
+        "しめきり",
+        "けっこんしき",
+        "けいけん"
+       ],
+       "correctIndex": 3,
+       "explanation": "experience is けいけん (Keeken)."
+      },
+      {
+       "id": "e35",
+       "type": "multipleChoice",
+       "prompt": "How do you say “wedding” in Japanese?",
+       "options": [
+        "けっこんしき",
+        "ジャケット",
+        "しめきり",
+        "じしん"
+       ],
+       "correctIndex": 0,
+       "explanation": "wedding is けっこんしき (Kekkonshiki)."
+      },
+      {
+       "id": "e36",
+       "type": "multipleChoice",
+       "prompt": "How do you say “earthquake” in Japanese?",
+       "options": [
+        "しゅうかん",
+        "ジャケット",
+        "しめきり",
+        "じしん"
+       ],
+       "correctIndex": 3,
+       "explanation": "earthquake is じしん (Jishin)."
+      },
+      {
+       "id": "e37",
+       "type": "multipleChoice",
+       "prompt": "How do you say “deadline” in Japanese?",
+       "options": [
+        "ジャケット",
+        "しめきり",
+        "しゅうかん",
+        "ぜいきん"
+       ],
+       "correctIndex": 1,
+       "explanation": "deadline is しめきり (Shimekiri)."
+      },
+      {
+       "id": "e38",
+       "type": "multipleChoice",
+       "prompt": "How do you say “jacket” in Japanese?",
+       "options": [
+        "しゅうかん",
+        "そつぎょうしき",
+        "ジャケット",
+        "ぜいきん"
+       ],
+       "correctIndex": 2,
+       "explanation": "jacket is ジャケット (Jaketto)."
+      },
+      {
+       "id": "e39",
+       "type": "multipleChoice",
+       "prompt": "How do you say “custom” in Japanese?",
+       "options": [
+        "ぜいきん",
+        "そば",
+        "しゅうかん",
+        "そつぎょうしき"
+       ],
+       "correctIndex": 2,
+       "explanation": "custom is しゅうかん (Shuukan)."
+      },
+      {
+       "id": "e40",
+       "type": "multipleChoice",
+       "prompt": "How do you say “tax” in Japanese?",
+       "options": [
+        "ちず",
+        "ぜいきん",
+        "そつぎょうしき",
+        "そば"
+       ],
+       "correctIndex": 1,
+       "explanation": "tax is ぜいきん (Zeikin)."
+      },
+      {
+       "id": "e41",
+       "type": "multipleChoice",
+       "prompt": "How do you say “graduation ceremony” in Japanese?",
+       "options": [
+        "ちず",
+        "そつぎょうしき",
+        "そば",
+        "でんち"
+       ],
+       "correctIndex": 1,
+       "explanation": "graduation ceremony is そつぎょうしき (Sotsugyooshiki)."
+      },
+      {
+       "id": "e42",
+       "type": "multipleChoice",
+       "prompt": "How do you say “soba; Japanese buckwheat noodle” in Japanese?",
+       "options": [
+        "にわ",
+        "そば",
+        "ちず",
+        "でんち"
+       ],
+       "correctIndex": 1,
+       "explanation": "soba; Japanese buckwheat noodle is そば (Soba)."
+      },
+      {
+       "id": "e43",
+       "type": "multipleChoice",
+       "prompt": "How do you say “map” in Japanese?",
+       "options": [
+        "でんち",
+        "ちず",
+        "はっぴょう",
+        "にわ"
+       ],
+       "correctIndex": 1,
+       "explanation": "map is ちず (Chizu)."
+      },
+      {
+       "id": "e44",
+       "type": "multipleChoice",
+       "prompt": "How do you say “battery” in Japanese?",
+       "options": [
+        "はっぴょう",
+        "にわ",
+        "でんち",
+        "ばんぐみ"
+       ],
+       "correctIndex": 2,
+       "explanation": "battery is でんち (Denchi)."
+      },
+      {
+       "id": "e45",
+       "type": "multipleChoice",
+       "prompt": "How do you say “garden” in Japanese?",
+       "options": [
+        "プール",
+        "はっぴょう",
+        "ばんぐみ",
+        "にわ"
+       ],
+       "correctIndex": 3,
+       "explanation": "garden is にわ (Niwa)."
+      },
+      {
+       "id": "e46",
+       "type": "multipleChoice",
+       "prompt": "How do you say “presentation” in Japanese?",
+       "options": [
+        "はっぴょう",
+        "プール",
+        "ペット",
+        "ばんぐみ"
+       ],
+       "correctIndex": 0,
+       "explanation": "presentation is はっぴょう (Happyoo)."
+      },
+      {
+       "id": "e47",
+       "type": "multipleChoice",
+       "prompt": "How do you say “broadcast program” in Japanese?",
+       "options": [
+        "ばんぐみ",
+        "ほけん",
+        "プール",
+        "ペット"
+       ],
+       "correctIndex": 0,
+       "explanation": "broadcast program is ばんぐみ (Bangumi)."
+      },
+      {
+       "id": "e48",
+       "type": "multipleChoice",
+       "prompt": "How do you say “swimming pool” in Japanese?",
+       "options": [
+        "よてい",
+        "プール",
+        "ペット",
+        "ほけん"
+       ],
+       "correctIndex": 1,
+       "explanation": "swimming pool is プール (Puuru)."
+      },
+      {
+       "id": "e49",
+       "type": "multipleChoice",
+       "prompt": "How do you say “pet” in Japanese?",
+       "options": [
+        "よてい",
+        "りょかん",
+        "ほけん",
+        "ペット"
+       ],
+       "correctIndex": 3,
+       "explanation": "pet is ペット (Petto)."
+      },
+      {
+       "id": "e50",
+       "type": "multipleChoice",
+       "prompt": "How do you say “insurance” in Japanese?",
+       "options": [
+        "わりびきけん",
+        "ほけん",
+        "よてい",
+        "りょかん"
+       ],
+       "correctIndex": 1,
+       "explanation": "insurance is ほけん (Hoken)."
+      },
+      {
+       "id": "e51",
+       "type": "multipleChoice",
+       "prompt": "How do you say “schedule; plan” in Japanese?",
+       "options": [
+        "ひろい",
+        "わりびきけん",
+        "りょかん",
+        "よてい"
+       ],
+       "correctIndex": 3,
+       "explanation": "schedule; plan is よてい (Yotee)."
+      },
+      {
+       "id": "e52",
+       "type": "multipleChoice",
+       "prompt": "How do you say “Japanese inn” in Japanese?",
+       "options": [
+        "インターネット",
+        "りょかん",
+        "ひろい",
+        "わりびきけん"
+       ],
+       "correctIndex": 1,
+       "explanation": "Japanese inn is りょかん (Ryokan)."
+      },
+      {
+       "id": "e53",
+       "type": "multipleChoice",
+       "prompt": "How do you say “discount coupon” in Japanese?",
+       "options": [
+        "え",
+        "ひろい",
+        "インターネット",
+        "わりびきけん"
+       ],
+       "correctIndex": 3,
+       "explanation": "discount coupon is わりびきけん (Waribikiken)."
+      },
+      {
+       "id": "e54",
+       "type": "multipleChoice",
+       "prompt": "How do you say “spacious; wide” in Japanese?",
+       "options": [
+        "えいがかん",
+        "インターネット",
+        "ひろい",
+        "え"
+       ],
+       "correctIndex": 2,
+       "explanation": "spacious; wide is ひろい (Hiroi)."
+      },
+      {
+       "id": "e55",
+       "type": "multipleChoice",
+       "prompt": "What does うる mean?",
+       "options": [
+        "to draw; to paint (を)",
+        "to look for (を)",
+        "to sell (を)",
+        "to withdraw (money) (を)"
+       ],
+       "correctIndex": 2,
+       "explanation": "うる (Uru) means “to sell (を)”."
+      },
+      {
+       "id": "e56",
+       "type": "multipleChoice",
+       "prompt": "What does おろす mean?",
+       "options": [
+        "to withdraw (money) (を)",
+        "to look for (を)",
+        "to invite (を)",
+        "to draw; to paint (を)"
+       ],
+       "correctIndex": 0,
+       "explanation": "おろす (Orosu) means “to withdraw (money) (を)”."
+      },
+      {
+       "id": "e57",
+       "type": "multipleChoice",
+       "prompt": "What does かく mean?",
+       "options": [
+        "to look for (を)",
+        "to draw; to paint (を)",
+        "to invite (を)",
+        "to chat"
+       ],
+       "correctIndex": 1,
+       "explanation": "かく (Kaku) means “to draw; to paint (を)”."
+      },
+      {
+       "id": "e58",
+       "type": "multipleChoice",
+       "prompt": "What does さがす mean?",
+       "options": [
+        "to chat",
+        "(1) to date (someone) (person と); (2) to keep company (purpose に)",
+        "to invite (を)",
+        "to look for (を)"
+       ],
+       "correctIndex": 3,
+       "explanation": "さがす (Sagasu) means “to look for (を)”."
+      },
+      {
+       "id": "e59",
+       "type": "multipleChoice",
+       "prompt": "What does さそう mean?",
+       "options": [
+        "to arrive (place に)",
+        "to invite (を)",
+        "to chat",
+        "(1) to date (someone) (person と); (2) to keep company (purpose に)"
+       ],
+       "correctIndex": 1,
+       "explanation": "さそう (Sasoo) means “to invite (を)”."
+      },
+      {
+       "id": "e60",
+       "type": "multipleChoice",
+       "prompt": "What does しゃべる mean?",
+       "options": [
+        "to chat",
+        "to arrive (place に)",
+        "to buy insurance",
+        "(1) to date (someone) (person と); (2) to keep company (purpose に)"
+       ],
+       "correctIndex": 0,
+       "explanation": "しゃべる (Shaberu) means “to chat”."
+      },
+      {
+       "id": "e61",
+       "type": "multipleChoice",
+       "prompt": "What does つきあう mean?",
+       "options": [
+        "to be cautious; to be careful (に)",
+        "(1) to date (someone) (person と); (2) to keep company (purpose に)",
+        "to arrive (place に)",
+        "to buy insurance"
+       ],
+       "correctIndex": 1,
+       "explanation": "つきあう (Tsukiau) means “(1) to date (someone) (person と); (2) to keep company (purpose に)”."
+      },
+      {
+       "id": "e62",
+       "type": "multipleChoice",
+       "prompt": "What does つく mean?",
+       "options": [
+        "to be cautious; to be careful (に)",
+        "to buy insurance",
+        "to look into (a matter) (matter を)",
+        "to arrive (place に)"
+       ],
+       "correctIndex": 3,
+       "explanation": "つく (Tsuku) means “to arrive (place に)”."
+      },
+      {
+       "id": "e63",
+       "type": "multipleChoice",
+       "prompt": "What does ほけんにはいる mean?",
+       "options": [
+        "to buy insurance",
+        "to be visible (が)",
+        "to look into (a matter) (matter を)",
+        "to be cautious; to be careful (に)"
+       ],
+       "correctIndex": 0,
+       "explanation": "ほけんにはいる (Hoken ni hairu) means “to buy insurance”."
+      },
+      {
+       "id": "e64",
+       "type": "multipleChoice",
+       "prompt": "What does きをつける mean?",
+       "options": [
+        "to be visible (が)",
+        "to be cautious; to be careful (に)",
+        "to look into (a matter) (matter を)",
+        "to do sightseeing"
+       ],
+       "correctIndex": 1,
+       "explanation": "きをつける (Ki o tsukeru) means “to be cautious; to be careful (に)”."
+      },
+      {
+       "id": "e65",
+       "type": "multipleChoice",
+       "prompt": "What does しらべる mean?",
+       "options": [
+        "to do sightseeing",
+        "to look into (a matter) (matter を)",
+        "to be visible (が)",
+        "to decide on (an item) (item に)"
+       ],
+       "correctIndex": 1,
+       "explanation": "しらべる (Shiraberu) means “to look into (a matter) (matter を)”."
+      },
+      {
+       "id": "e66",
+       "type": "multipleChoice",
+       "prompt": "What does みえる mean?",
+       "options": [
+        "to decide on (an item) (item に)",
+        "to graduate (from …) (school を)",
+        "to be visible (が)",
+        "to do sightseeing"
+       ],
+       "correctIndex": 2,
+       "explanation": "みえる (Mieru) means “to be visible (が)”."
+      },
+      {
+       "id": "e67",
+       "type": "multipleChoice",
+       "prompt": "What does かんこうする mean?",
+       "options": [
+        "to do sightseeing",
+        "to decide on (an item) (item に)",
+        "to graduate (from …) (school を)",
+        "to reserve (を)"
+       ],
+       "correctIndex": 0,
+       "explanation": "かんこうする (Kankoo suru) means “to do sightseeing”."
+      },
+      {
+       "id": "e68",
+       "type": "multipleChoice",
+       "prompt": "What does する mean?",
+       "options": [
+        "to reserve (を)",
+        "to graduate (from …) (school を)",
+        "to sell (を)",
+        "to decide on (an item) (item に)"
+       ],
+       "correctIndex": 3,
+       "explanation": "する (Suru) means “to decide on (an item) (item に)”."
+      },
+      {
+       "id": "e69",
+       "type": "multipleChoice",
+       "prompt": "What does そつぎょうする mean?",
+       "options": [
+        "to graduate (from …) (school を)",
+        "to reserve (を)",
+        "to sell (を)",
+        "to withdraw (money) (を)"
+       ],
+       "correctIndex": 0,
+       "explanation": "そつぎょうする (Sotsugyoo suru) means “to graduate (from …) (school を)”."
+      },
+      {
+       "id": "e70",
+       "type": "multipleChoice",
+       "prompt": "What does よやくする mean?",
+       "options": [
+        "to sell (を)",
+        "to draw; to paint (を)",
+        "to reserve (を)",
+        "to withdraw (money) (を)"
+       ],
+       "correctIndex": 2,
+       "explanation": "よやくする (Yoyaku suru) means “to reserve (を)”."
+      },
+      {
+       "id": "e71",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to sell (を)” in Japanese?",
+       "options": [
+        "かく",
+        "おろす",
+        "うる",
+        "さがす"
+       ],
+       "correctIndex": 2,
+       "explanation": "to sell (を) is うる (Uru)."
+      },
+      {
+       "id": "e72",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to withdraw (money) (を)” in Japanese?",
+       "options": [
+        "かく",
+        "さがす",
+        "さそう",
+        "おろす"
+       ],
+       "correctIndex": 3,
+       "explanation": "to withdraw (money) (を) is おろす (Orosu)."
+      },
+      {
+       "id": "e73",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to draw; to paint (を)” in Japanese?",
+       "options": [
+        "しゃべる",
+        "かく",
+        "さがす",
+        "さそう"
+       ],
+       "correctIndex": 1,
+       "explanation": "to draw; to paint (を) is かく (Kaku)."
+      },
+      {
+       "id": "e74",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to look for (を)” in Japanese?",
+       "options": [
+        "しゃべる",
+        "つきあう",
+        "さがす",
+        "さそう"
+       ],
+       "correctIndex": 2,
+       "explanation": "to look for (を) is さがす (Sagasu)."
+      },
+      {
+       "id": "e75",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to invite (を)” in Japanese?",
+       "options": [
+        "つきあう",
+        "さそう",
+        "しゃべる",
+        "つく"
+       ],
+       "correctIndex": 1,
+       "explanation": "to invite (を) is さそう (Sasoo)."
+      },
+      {
+       "id": "e76",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to chat” in Japanese?",
+       "options": [
+        "ほけんにはいる",
+        "しゃべる",
+        "つきあう",
+        "つく"
+       ],
+       "correctIndex": 1,
+       "explanation": "to chat is しゃべる (Shaberu)."
+      },
+      {
+       "id": "e77",
+       "type": "multipleChoice",
+       "prompt": "How do you say “(1) to date (someone) (person と); (2) to keep company (purpose に)” in Japanese?",
+       "options": [
+        "つきあう",
+        "ほけんにはいる",
+        "きをつける",
+        "つく"
+       ],
+       "correctIndex": 0,
+       "explanation": "(1) to date (someone) (person と); (2) to keep company (purpose に) is つきあう (Tsukiau)."
+      },
+      {
+       "id": "e78",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to arrive (place に)” in Japanese?",
+       "options": [
+        "きをつける",
+        "ほけんにはいる",
+        "しらべる",
+        "つく"
+       ],
+       "correctIndex": 3,
+       "explanation": "to arrive (place に) is つく (Tsuku)."
+      },
+      {
+       "id": "e79",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to buy insurance” in Japanese?",
+       "options": [
+        "きをつける",
+        "しらべる",
+        "ほけんにはいる",
+        "みえる"
+       ],
+       "correctIndex": 2,
+       "explanation": "to buy insurance is ほけんにはいる (Hoken ni hairu)."
+      },
+      {
+       "id": "e80",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to be cautious; to be careful (に)” in Japanese?",
+       "options": [
+        "かんこうする",
+        "きをつける",
+        "みえる",
+        "しらべる"
+       ],
+       "correctIndex": 1,
+       "explanation": "to be cautious; to be careful (に) is きをつける (Ki o tsukeru)."
+      },
+      {
+       "id": "e81",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to look into (a matter) (matter を)” in Japanese?",
+       "options": [
+        "みえる",
+        "かんこうする",
+        "する",
+        "しらべる"
+       ],
+       "correctIndex": 3,
+       "explanation": "to look into (a matter) (matter を) is しらべる (Shiraberu)."
+      },
+      {
+       "id": "e82",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to be visible (が)” in Japanese?",
+       "options": [
+        "そつぎょうする",
+        "みえる",
+        "かんこうする",
+        "する"
+       ],
+       "correctIndex": 1,
+       "explanation": "to be visible (が) is みえる (Mieru)."
+      },
+      {
+       "id": "e83",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to do sightseeing” in Japanese?",
+       "options": [
+        "する",
+        "かんこうする",
+        "よやくする",
+        "そつぎょうする"
+       ],
+       "correctIndex": 1,
+       "explanation": "to do sightseeing is かんこうする (Kankoo suru)."
+      },
+      {
+       "id": "e84",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to decide on (an item) (item に)” in Japanese?",
+       "options": [
+        "うる",
+        "する",
+        "そつぎょうする",
+        "よやくする"
+       ],
+       "correctIndex": 1,
+       "explanation": "to decide on (an item) (item に) is する (Suru)."
+      },
+      {
+       "id": "e85",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to graduate (from …) (school を)” in Japanese?",
+       "options": [
+        "そつぎょうする",
+        "よやくする",
+        "うる",
+        "おろす"
+       ],
+       "correctIndex": 0,
+       "explanation": "to graduate (from …) (school を) is そつぎょうする (Sotsugyoo suru)."
+      },
+      {
+       "id": "e86",
+       "type": "multipleChoice",
+       "prompt": "How do you say “to reserve (を)” in Japanese?",
+       "options": [
+        "うる",
+        "よやくする",
+        "おろす",
+        "かく"
+       ],
+       "correctIndex": 1,
+       "explanation": "to reserve (を) is よやくする (Yoyaku suru)."
+      },
+      {
+       "id": "e87",
+       "type": "multipleChoice",
+       "prompt": "What does いちにちじゅう mean?",
+       "options": [
+        "…, but; …, so",
+        "number …",
+        "recently",
+        "all day long"
+       ],
+       "correctIndex": 3,
+       "explanation": "いちにちじゅう (Ichinichijuu) means “all day long”."
+      },
+      {
+       "id": "e88",
+       "type": "multipleChoice",
+       "prompt": "What does けど mean?",
+       "options": [
+        "number …",
+        "-th",
+        "recently",
+        "…, but; …, so"
+       ],
+       "correctIndex": 3,
+       "explanation": "けど (Kedo) means “…, but; …, so”."
+      },
+      {
+       "id": "e89",
+       "type": "multipleChoice",
+       "prompt": "What does さいきん mean?",
+       "options": [
+        "recently",
+        "number …",
+        "one more time",
+        "-th"
+       ],
+       "correctIndex": 0,
+       "explanation": "さいきん (Saikin) means “recently”."
+      },
+      {
+       "id": "e90",
+       "type": "multipleChoice",
+       "prompt": "What does ばん mean?",
+       "options": [
+        "one more time",
+        "-th",
+        "all day long",
+        "number …"
+       ],
+       "correctIndex": 3,
+       "explanation": "ばん (Ban) means “number …”."
+      },
+      {
+       "id": "e91",
+       "type": "multipleChoice",
+       "prompt": "What does め mean?",
+       "options": [
+        "…, but; …, so",
+        "-th",
+        "all day long",
+        "one more time"
+       ],
+       "correctIndex": 1,
+       "explanation": "め (Me) means “-th”."
+      },
+      {
+       "id": "e92",
+       "type": "multipleChoice",
+       "prompt": "What does もういちど mean?",
+       "options": [
+        "recently",
+        "…, but; …, so",
+        "all day long",
+        "one more time"
+       ],
+       "correctIndex": 3,
+       "explanation": "もういちど (Moo ichido) means “one more time”."
+      },
+      {
+       "id": "e93",
+       "type": "multipleChoice",
+       "prompt": "How do you say “all day long” in Japanese?",
+       "options": [
+        "さいきん",
+        "ばん",
+        "けど",
+        "いちにちじゅう"
+       ],
+       "correctIndex": 3,
+       "explanation": "all day long is いちにちじゅう (Ichinichijuu)."
+      },
+      {
+       "id": "e94",
+       "type": "multipleChoice",
+       "prompt": "How do you say “…, but; …, so” in Japanese?",
+       "options": [
+        "さいきん",
+        "ばん",
+        "め",
+        "けど"
+       ],
+       "correctIndex": 3,
+       "explanation": "…, but; …, so is けど (Kedo)."
+      },
+      {
+       "id": "e95",
+       "type": "multipleChoice",
+       "prompt": "How do you say “recently” in Japanese?",
+       "options": [
+        "め",
+        "もういちど",
+        "さいきん",
+        "ばん"
+       ],
+       "correctIndex": 2,
+       "explanation": "recently is さいきん (Saikin)."
+      },
+      {
+       "id": "e96",
+       "type": "multipleChoice",
+       "prompt": "How do you say “number …” in Japanese?",
+       "options": [
+        "ばん",
+        "もういちど",
+        "め",
+        "いちにちじゅう"
+       ],
+       "correctIndex": 0,
+       "explanation": "number … is ばん (Ban)."
+      },
+      {
+       "id": "e97",
+       "type": "multipleChoice",
+       "prompt": "How do you say “-th” in Japanese?",
+       "options": [
+        "いちにちじゅう",
+        "けど",
+        "もういちど",
+        "め"
+       ],
+       "correctIndex": 3,
+       "explanation": "-th is め (Me)."
+      },
+      {
+       "id": "e98",
+       "type": "multipleChoice",
+       "prompt": "How do you say “one more time” in Japanese?",
+       "options": [
+        "いちにちじゅう",
+        "さいきん",
+        "けど",
+        "もういちど"
+       ],
+       "correctIndex": 3,
+       "explanation": "one more time is もういちど (Moo ichido)."
+      },
+      {
+       "id": "e99",
+       "type": "multipleChoice",
+       "prompt": "How do you read 絵?",
+       "options": [
+        "がいこくじん",
+        "かぐ",
+        "えいがかん",
+        "え"
+       ],
+       "correctIndex": 3,
+       "explanation": "絵 is read え (E)."
+      },
+      {
+       "id": "e100",
+       "type": "multipleChoice",
+       "prompt": "How do you read 映画館?",
+       "options": [
+        "えいがかん",
+        "がいこくじん",
+        "かぐ",
+        "けいけん"
+       ],
+       "correctIndex": 0,
+       "explanation": "映画館 is read えいがかん (Eegakan)."
+      },
+      {
+       "id": "e101",
+       "type": "multipleChoice",
+       "prompt": "How do you read 外国人?",
+       "options": [
+        "かぐ",
+        "がいこくじん",
+        "けっこんしき",
+        "けいけん"
+       ],
+       "correctIndex": 1,
+       "explanation": "外国人 is read がいこくじん (Gaikokujin)."
+      },
+      {
+       "id": "e102",
+       "type": "multipleChoice",
+       "prompt": "How do you read 家具?",
+       "options": [
+        "じしん",
+        "かぐ",
+        "けいけん",
+        "けっこんしき"
+       ],
+       "correctIndex": 1,
+       "explanation": "家具 is read かぐ (Kagu)."
+      },
+      {
+       "id": "e103",
+       "type": "multipleChoice",
+       "prompt": "How do you read 経験?",
+       "options": [
+        "けっこんしき",
+        "じしん",
+        "けいけん",
+        "しめきり"
+       ],
+       "correctIndex": 2,
+       "explanation": "経験 is read けいけん (Keeken)."
+      },
+      {
+       "id": "e104",
+       "type": "multipleChoice",
+       "prompt": "How do you read 結婚式?",
+       "options": [
+        "しめきり",
+        "じしん",
+        "しゅうかん",
+        "けっこんしき"
+       ],
+       "correctIndex": 3,
+       "explanation": "結婚式 is read けっこんしき (Kekkonshiki)."
+      },
+      {
+       "id": "e105",
+       "type": "multipleChoice",
+       "prompt": "How do you read 地震?",
+       "options": [
+        "じしん",
+        "しめきり",
+        "ぜいきん",
+        "しゅうかん"
+       ],
+       "correctIndex": 0,
+       "explanation": "地震 is read じしん (Jishin)."
+      },
+      {
+       "id": "e106",
+       "type": "multipleChoice",
+       "prompt": "How do you read 締め切り?",
+       "options": [
+        "そつぎょうしき",
+        "ぜいきん",
+        "しめきり",
+        "しゅうかん"
+       ],
+       "correctIndex": 2,
+       "explanation": "締め切り is read しめきり (Shimekiri)."
+      },
+      {
+       "id": "e107",
+       "type": "multipleChoice",
+       "prompt": "How do you read 習慣?",
+       "options": [
+        "ぜいきん",
+        "そつぎょうしき",
+        "しゅうかん",
+        "ちず"
+       ],
+       "correctIndex": 2,
+       "explanation": "習慣 is read しゅうかん (Shuukan)."
+      },
+      {
+       "id": "e108",
+       "type": "multipleChoice",
+       "prompt": "How do you read 税金?",
+       "options": [
+        "でんち",
+        "そつぎょうしき",
+        "ぜいきん",
+        "ちず"
+       ],
+       "correctIndex": 2,
+       "explanation": "税金 is read ぜいきん (Zeikin)."
+      },
+      {
+       "id": "e109",
+       "type": "multipleChoice",
+       "prompt": "How do you read 卒業式?",
+       "options": [
+        "でんち",
+        "そつぎょうしき",
+        "にわ",
+        "ちず"
+       ],
+       "correctIndex": 1,
+       "explanation": "卒業式 is read そつぎょうしき (Sotsugyooshiki)."
+      },
+      {
+       "id": "e110",
+       "type": "multipleChoice",
+       "prompt": "How do you read 地図?",
+       "options": [
+        "ちず",
+        "はっぴょう",
+        "にわ",
+        "でんち"
+       ],
+       "correctIndex": 0,
+       "explanation": "地図 is read ちず (Chizu)."
+      },
+      {
+       "id": "e111",
+       "type": "multipleChoice",
+       "prompt": "How do you read 電池?",
+       "options": [
+        "にわ",
+        "はっぴょう",
+        "ばんぐみ",
+        "でんち"
+       ],
+       "correctIndex": 3,
+       "explanation": "電池 is read でんち (Denchi)."
+      },
+      {
+       "id": "e112",
+       "type": "multipleChoice",
+       "prompt": "How do you read 庭?",
+       "options": [
+        "ばんぐみ",
+        "にわ",
+        "はっぴょう",
+        "ほけん"
+       ],
+       "correctIndex": 1,
+       "explanation": "庭 is read にわ (Niwa)."
+      },
+      {
+       "id": "e113",
+       "type": "multipleChoice",
+       "prompt": "How do you read 発表?",
+       "options": [
+        "ばんぐみ",
+        "はっぴょう",
+        "よてい",
+        "ほけん"
+       ],
+       "correctIndex": 1,
+       "explanation": "発表 is read はっぴょう (Happyoo)."
+      },
+      {
+       "id": "e114",
+       "type": "multipleChoice",
+       "prompt": "How do you read 番組?",
+       "options": [
+        "よてい",
+        "ほけん",
+        "ばんぐみ",
+        "りょかん"
+       ],
+       "correctIndex": 2,
+       "explanation": "番組 is read ばんぐみ (Bangumi)."
+      },
+      {
+       "id": "e115",
+       "type": "multipleChoice",
+       "prompt": "How do you read 保険?",
+       "options": [
+        "わりびきけん",
+        "ほけん",
+        "りょかん",
+        "よてい"
+       ],
+       "correctIndex": 1,
+       "explanation": "保険 is read ほけん (Hoken)."
+      },
+      {
+       "id": "e116",
+       "type": "multipleChoice",
+       "prompt": "How do you read 予定?",
+       "options": [
+        "りょかん",
+        "よてい",
+        "ひろい",
+        "わりびきけん"
+       ],
+       "correctIndex": 1,
+       "explanation": "予定 is read よてい (Yotee)."
+      },
+      {
+       "id": "e117",
+       "type": "multipleChoice",
+       "prompt": "How do you read 旅館?",
+       "options": [
+        "ひろい",
+        "りょかん",
+        "うる",
+        "わりびきけん"
+       ],
+       "correctIndex": 1,
+       "explanation": "旅館 is read りょかん (Ryokan)."
+      },
+      {
+       "id": "e118",
+       "type": "multipleChoice",
+       "prompt": "How do you read 割引券?",
+       "options": [
+        "ひろい",
+        "うる",
+        "わりびきけん",
+        "おろす"
+       ],
+       "correctIndex": 2,
+       "explanation": "割引券 is read わりびきけん (Waribikiken)."
+      },
+      {
+       "id": "e119",
+       "type": "multipleChoice",
+       "prompt": "How do you read 広い?",
+       "options": [
+        "うる",
+        "おろす",
+        "ひろい",
+        "かく"
+       ],
+       "correctIndex": 2,
+       "explanation": "広い is read ひろい (Hiroi)."
+      },
+      {
+       "id": "e120",
+       "type": "multipleChoice",
+       "prompt": "How do you read 売る?",
+       "options": [
+        "かく",
+        "うる",
+        "おろす",
+        "さがす"
+       ],
+       "correctIndex": 1,
+       "explanation": "売る is read うる (Uru)."
+      },
+      {
+       "id": "e121",
+       "type": "multipleChoice",
+       "prompt": "How do you read 下ろす?",
+       "options": [
+        "さそう",
+        "さがす",
+        "おろす",
+        "かく"
+       ],
+       "correctIndex": 2,
+       "explanation": "下ろす is read おろす (Orosu)."
+      },
+      {
+       "id": "e122",
+       "type": "multipleChoice",
+       "prompt": "How do you read 描く?",
+       "options": [
+        "さがす",
+        "つきあう",
+        "さそう",
+        "かく"
+       ],
+       "correctIndex": 3,
+       "explanation": "描く is read かく (Kaku)."
+      },
+      {
+       "id": "e123",
+       "type": "multipleChoice",
+       "prompt": "How do you read 探す?",
+       "options": [
+        "つく",
+        "さがす",
+        "さそう",
+        "つきあう"
+       ],
+       "correctIndex": 1,
+       "explanation": "探す is read さがす (Sagasu)."
+      },
+      {
+       "id": "e124",
+       "type": "multipleChoice",
+       "prompt": "How do you read 誘う?",
+       "options": [
+        "ほけんにはいる",
+        "さそう",
+        "つく",
+        "つきあう"
+       ],
+       "correctIndex": 1,
+       "explanation": "誘う is read さそう (Sasoo)."
+      },
+      {
+       "id": "e125",
+       "type": "multipleChoice",
+       "prompt": "How do you read 付き合う?",
+       "options": [
+        "ほけんにはいる",
+        "つく",
+        "きをつける",
+        "つきあう"
+       ],
+       "correctIndex": 3,
+       "explanation": "付き合う is read つきあう (Tsukiau)."
+      },
+      {
+       "id": "e126",
+       "type": "multipleChoice",
+       "prompt": "How do you read 着く?",
+       "options": [
+        "しらべる",
+        "つく",
+        "ほけんにはいる",
+        "きをつける"
+       ],
+       "correctIndex": 1,
+       "explanation": "着く is read つく (Tsuku)."
+      },
+      {
+       "id": "e127",
+       "type": "multipleChoice",
+       "prompt": "How do you read 保険に入る?",
+       "options": [
+        "きをつける",
+        "ほけんにはいる",
+        "みえる",
+        "しらべる"
+       ],
+       "correctIndex": 1,
+       "explanation": "保険に入る is read ほけんにはいる (Hoken ni hairu)."
+      },
+      {
+       "id": "e128",
+       "type": "multipleChoice",
+       "prompt": "How do you read 気をつける?",
+       "options": [
+        "かんこうする",
+        "しらべる",
+        "みえる",
+        "きをつける"
+       ],
+       "correctIndex": 3,
+       "explanation": "気をつける is read きをつける (Ki o tsukeru)."
+      },
+      {
+       "id": "e129",
+       "type": "multipleChoice",
+       "prompt": "How do you read 調べる?",
+       "options": [
+        "そつぎょうする",
+        "しらべる",
+        "みえる",
+        "かんこうする"
+       ],
+       "correctIndex": 1,
+       "explanation": "調べる is read しらべる (Shiraberu)."
+      },
+      {
+       "id": "e130",
+       "type": "multipleChoice",
+       "prompt": "How do you read 見える?",
+       "options": [
+        "そつぎょうする",
+        "みえる",
+        "よやくする",
+        "かんこうする"
+       ],
+       "correctIndex": 1,
+       "explanation": "見える is read みえる (Mieru)."
+      },
+      {
+       "id": "e131",
+       "type": "multipleChoice",
+       "prompt": "How do you read 観光する?",
+       "options": [
+        "いちにちじゅう",
+        "よやくする",
+        "かんこうする",
+        "そつぎょうする"
+       ],
+       "correctIndex": 2,
+       "explanation": "観光する is read かんこうする (Kankoo suru)."
+      },
+      {
+       "id": "e132",
+       "type": "multipleChoice",
+       "prompt": "How do you read 卒業する?",
+       "options": [
+        "いちにちじゅう",
+        "さいきん",
+        "よやくする",
+        "そつぎょうする"
+       ],
+       "correctIndex": 3,
+       "explanation": "卒業する is read そつぎょうする (Sotsugyoo suru)."
+      },
+      {
+       "id": "e133",
+       "type": "multipleChoice",
+       "prompt": "How do you read 予約する?",
+       "options": [
+        "よやくする",
+        "いちにちじゅう",
+        "さいきん",
+        "もういちど"
+       ],
+       "correctIndex": 0,
+       "explanation": "予約する is read よやくする (Yoyaku suru)."
+      },
+      {
+       "id": "e134",
+       "type": "multipleChoice",
+       "prompt": "How do you read 一日中?",
+       "options": [
+        "もういちど",
+        "さいきん",
+        "え",
+        "いちにちじゅう"
+       ],
+       "correctIndex": 3,
+       "explanation": "一日中 is read いちにちじゅう (Ichinichijuu)."
+      },
+      {
+       "id": "e135",
+       "type": "multipleChoice",
+       "prompt": "How do you read 最近?",
+       "options": [
+        "え",
+        "もういちど",
+        "さいきん",
+        "えいがかん"
+       ],
+       "correctIndex": 2,
+       "explanation": "最近 is read さいきん (Saikin)."
+      },
+      {
+       "id": "e136",
+       "type": "multipleChoice",
+       "prompt": "How do you read もう一度?",
+       "options": [
+        "もういちど",
+        "がいこくじん",
+        "え",
+        "えいがかん"
+       ],
+       "correctIndex": 0,
+       "explanation": "もう一度 is read もういちど (Moo ichido)."
+      },
+      {
+       "id": "e137",
+       "type": "multipleChoice",
+       "prompt": "Which word means “earthquake”?",
+       "options": [
+        "地図",
+        "地震",
+        "地球",
+        "地下"
+       ],
+       "correctIndex": 1,
+       "explanation": "地震 = earthquake."
+      },
+      {
+       "id": "e138",
+       "type": "multipleChoice",
+       "prompt": "Which word means “map”?",
+       "options": [
+        "地震",
+        "絵",
+        "予定",
+        "地図"
+       ],
+       "correctIndex": 3,
+       "explanation": "地図."
+      },
+      {
+       "id": "e139",
+       "type": "multipleChoice",
+       "prompt": "Which word means “Japanese inn”?",
+       "options": [
+        "映画館",
+        "旅館",
+        "美術館",
+        "図書館"
+       ],
+       "correctIndex": 1,
+       "explanation": "旅館."
+      },
+      {
+       "id": "e140",
+       "type": "multipleChoice",
+       "prompt": "Which word means “schedule; plan”?",
+       "options": [
+        "予約",
+        "予定",
+        "予習",
+        "予報"
+       ],
+       "correctIndex": 1,
+       "explanation": "予定."
+      },
+      {
+       "id": "e141",
+       "type": "multipleChoice",
+       "prompt": "Which verb means “to look for”?",
+       "options": [
+        "描く",
+        "売る",
+        "誘う",
+        "探す"
+       ],
+       "correctIndex": 3,
+       "explanation": "探す."
+      },
+      {
+       "id": "e142",
+       "type": "multipleChoice",
+       "prompt": "Which verb means “to invite”?",
+       "options": [
+        "描く",
+        "探す",
+        "誘う",
+        "売る"
+       ],
+       "correctIndex": 2,
+       "explanation": "誘う."
+      },
+      {
+       "id": "e143",
+       "type": "multipleChoice",
+       "prompt": "Which verb means “to sell”?",
+       "options": [
+        "買う",
+        "売る",
+        "売れる",
+        "描く"
+       ],
+       "correctIndex": 1,
+       "explanation": "売る."
+      },
+      {
+       "id": "e144",
+       "type": "multipleChoice",
+       "prompt": "Which verb means “to draw; to paint”?",
+       "options": [
+        "売る",
+        "描く",
+        "書く",
+        "探す"
+       ],
+       "correctIndex": 1,
+       "explanation": "描く."
+      },
+      {
+       "id": "e145",
+       "type": "multipleChoice",
+       "prompt": "What does 一日中 mean?",
+       "options": [
+        "every day",
+        "one day only",
+        "all day long",
+        "the first day"
+       ],
+       "correctIndex": 2,
+       "explanation": "一日中."
+      },
+      {
+       "id": "e146",
+       "type": "multipleChoice",
+       "prompt": "What does 最近 mean?",
+       "options": [
+        "often",
+        "tomorrow",
+        "recently",
+        "never"
+       ],
+       "correctIndex": 2,
+       "explanation": "最近."
+      },
+      {
+       "id": "e147",
+       "type": "multipleChoice",
+       "prompt": "What does もう一度 mean?",
+       "options": [
+        "never again",
+        "already",
+        "once only",
+        "one more time"
+       ],
+       "correctIndex": 3,
+       "explanation": "もう一度."
+      }
+     ]
+    },
+    {
+     "id": "ja_175",
+     "title": "175. Grammar 1: the volitional form (行こう, 食べよう)",
+     "subtitle": "食べよう · 行こう · 買おう · 結婚しようよ · 手伝おうか · 見ようか · 会おうか",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "What the volitional form does",
+       "body": "The volitional form of a verb is a less formal, more casual equivalent of ましょう. You can use it to suggest a plan to a close friend, for example: あしたは授業がないから、今晩、どこかに食べに行こう。 (We don’t have any classes tomorrow. Let’s go some place for dinner tonight.)",
+       "tables": [
+        {
+         "headers": [
+          "Group",
+          "Rule",
+          "Example"
+         ],
+         "rows": [
+          [
+           "ru-verbs",
+           "drop the final る and add よう",
+           "食べる → 食べよう"
+          ],
+          [
+           "u-verbs",
+           "change the final u-sound to the o-sound and add う",
+           "行く → 行こう"
+          ],
+          [
+           "くる",
+           "irregular",
+           "くる → こよう"
+          ],
+          [
+           "する",
+           "irregular",
+           "する → しよう"
+          ]
+         ],
+         "speakCols": []
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "The forms",
+       "body": "Ru-verbs: drop る, add よう. U-verbs: drop the final u and add o (そして う).",
+       "tables": [
+        {
+         "headers": [
+          "Dictionary form",
+          "Volitional",
+          "Meaning",
+          "Group"
+         ],
+         "rows": [
+          [
+           "食べる",
+           "食べよう",
+           "to eat",
+           "ru-verb"
+          ],
+          [
+           "行く",
+           "行こう",
+           "to go",
+           "u-verb"
+          ],
+          [
+           "話す",
+           "話そう",
+           "to speak",
+           "u-verb"
+          ],
+          [
+           "買う",
+           "買おう",
+           "to buy",
+           "u-verb"
+          ],
+          [
+           "泳ぐ",
+           "泳ごう",
+           "to swim",
+           "u-verb"
+          ],
+          [
+           "遊ぶ",
+           "遊ぼう",
+           "to play",
+           "u-verb"
+          ],
+          [
+           "待つ",
+           "待とう",
+           "to wait",
+           "u-verb"
+          ],
+          [
+           "読む",
+           "読もう",
+           "to read",
+           "u-verb"
+          ],
+          [
+           "死ぬ",
+           "死のう",
+           "to die",
+           "u-verb"
+          ],
+          [
+           "取る",
+           "取ろう",
+           "to take",
+           "u-verb"
+          ],
+          [
+           "くる",
+           "こよう",
+           "to come",
+           "irregular"
+          ],
+          [
+           "する",
+           "しよう",
+           "to do",
+           "irregular"
+          ]
+         ],
+         "speakCols": [
+          0,
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Examples",
+       "body": "Suggesting something to a friend. 結婚しようよ is a casual suggestion (the よ makes it a bit more insistent).",
+       "tables": [],
+       "examples": [
+        {
+         "text": "あしたは授業がないから、今晩、どこかに食べに行こう。",
+         "translation": "Ashita wa jugyoo ga nai kara, konban, doko ka ni tabe ni ikoo. — We don’t have any classes tomorrow. Let’s go some place for dinner tonight."
+        },
+        {
+         "text": "結婚しようよ。",
+         "translation": "Kekkon shiyoo yo. — Hey, let’s get married!"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Volitional + か: offers and suggestions",
+       "body": "You can use the volitional plus the question particle か to ask for an opinion in your offer or suggestion: “Shall I…?” or “Shall we…?”",
+       "tables": [],
+       "examples": [
+        {
+         "text": "手伝おうか。",
+         "translation": "Tetsudaoo ka. — Shall I lend you a hand?"
+        },
+        {
+         "text": "友だちがおもしろいと言っていたから、この映画を見ようか。",
+         "translation": "Tomodachi ga omoshiroi to itte ita kara, kono eega o miyooka. — Shall we see this film? My friends say it is good."
+        },
+        {
+         "text": "今度、いつ会おうか。",
+         "translation": "Kondo, itsu aoo ka. — When shall we meet again?"
+        }
+       ],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of 食べる?",
+       "options": [
+        "行こう",
+        "買おう",
+        "食べよう",
+        "話そう"
+       ],
+       "correctIndex": 2,
+       "explanation": "食べる → 食べよう."
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of 行く?",
+       "options": [
+        "行こう",
+        "話そう",
+        "食べよう",
+        "買おう"
+       ],
+       "correctIndex": 0,
+       "explanation": "行く → 行こう."
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of 話す?",
+       "options": [
+        "食べよう",
+        "話そう",
+        "買おう",
+        "行こう"
+       ],
+       "correctIndex": 1,
+       "explanation": "話す → 話そう."
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of 買う?",
+       "options": [
+        "買おう",
+        "話そう",
+        "行こう",
+        "食べよう"
+       ],
+       "correctIndex": 0,
+       "explanation": "買う → 買おう."
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of 泳ぐ?",
+       "options": [
+        "話そう",
+        "行こう",
+        "食べよう",
+        "泳ごう"
+       ],
+       "correctIndex": 3,
+       "explanation": "泳ぐ → 泳ごう."
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of 遊ぶ?",
+       "options": [
+        "食べよう",
+        "行こう",
+        "話そう",
+        "遊ぼう"
+       ],
+       "correctIndex": 3,
+       "explanation": "遊ぶ → 遊ぼう."
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of 待つ?",
+       "options": [
+        "話そう",
+        "行こう",
+        "待とう",
+        "食べよう"
+       ],
+       "correctIndex": 2,
+       "explanation": "待つ → 待とう."
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of 読む?",
+       "options": [
+        "行こう",
+        "食べよう",
+        "読もう",
+        "話そう"
+       ],
+       "correctIndex": 2,
+       "explanation": "読む → 読もう."
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of 死ぬ?",
+       "options": [
+        "話そう",
+        "死のう",
+        "食べよう",
+        "行こう"
+       ],
+       "correctIndex": 1,
+       "explanation": "死ぬ → 死のう."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of 取る?",
+       "options": [
+        "話そう",
+        "食べよう",
+        "取ろう",
+        "行こう"
+       ],
+       "correctIndex": 2,
+       "explanation": "取る → 取ろう."
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of くる?",
+       "options": [
+        "話そう",
+        "行こう",
+        "こよう",
+        "食べよう"
+       ],
+       "correctIndex": 2,
+       "explanation": "くる → こよう."
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of する?",
+       "options": [
+        "話そう",
+        "食べよう",
+        "しよう",
+        "行こう"
+       ],
+       "correctIndex": 2,
+       "explanation": "する → しよう."
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "What does あしたは授業がないから、今晩、どこかに食べに行こう。 mean?",
+       "options": [
+        "We don’t have any classes tomorrow. Let’s go some place for dinner tonight.",
+        "Shall we see this film? My friends say it is good.",
+        "Shall I lend you a hand?",
+        "Hey, let’s get married!"
+       ],
+       "correctIndex": 0,
+       "explanation": "あしたは授業がないから、今晩、どこかに食べに行こう。"
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "What does 結婚しようよ。 mean?",
+       "options": [
+        "Hey, let’s get married!",
+        "We don’t have any classes tomorrow. Let’s go some place for dinner tonight.",
+        "Shall we see this film? My friends say it is good.",
+        "Shall I lend you a hand?"
+       ],
+       "correctIndex": 0,
+       "explanation": "結婚しようよ。"
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "What does 手伝おうか。 mean?",
+       "options": [
+        "We don’t have any classes tomorrow. Let’s go some place for dinner tonight.",
+        "Shall I lend you a hand?",
+        "Shall we see this film? My friends say it is good.",
+        "Hey, let’s get married!"
+       ],
+       "correctIndex": 1,
+       "explanation": "手伝おうか。"
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "What does 友だちがおもしろいと言っていたから、この映画を見ようか。 mean?",
+       "options": [
+        "We don’t have any classes tomorrow. Let’s go some place for dinner tonight.",
+        "Shall we see this film? My friends say it is good.",
+        "Hey, let’s get married!",
+        "Shall I lend you a hand?"
+       ],
+       "correctIndex": 1,
+       "explanation": "友だちがおもしろいと言っていたから、この映画を見ようか。"
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "What does 今度、いつ会おうか。 mean?",
+       "options": [
+        "We don’t have any classes tomorrow. Let’s go some place for dinner tonight.",
+        "Hey, let’s get married!",
+        "Shall I lend you a hand?",
+        "When shall we meet again?"
+       ],
+       "correctIndex": 3,
+       "explanation": "今度、いつ会おうか。"
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "The volitional is a more casual equivalent of which form?",
+       "options": [
+        "ません",
+        "でしょう",
+        "ましょう",
+        "ました"
+       ],
+       "correctIndex": 2,
+       "explanation": "ましょう."
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "How do you form the volitional of a ru-verb?",
+       "options": [
+        "drop る and add よう",
+        "drop る and add ろう",
+        "add おう",
+        "add よう to the stem"
+       ],
+       "correctIndex": 0,
+       "explanation": "食べる → 食べよう."
+      },
+      {
+       "id": "e20",
+       "type": "multipleChoice",
+       "prompt": "How do you form the volitional of a u-verb?",
+       "options": [
+        "change the u-sound to the o-sound and add う",
+        "drop る and add よう",
+        "add よう",
+        "change to the e-sound"
+       ],
+       "correctIndex": 0,
+       "explanation": "行く → 行こう."
+      },
+      {
+       "id": "e21",
+       "type": "multipleChoice",
+       "prompt": "What does 手伝おうか mean?",
+       "options": [
+        "Please lend a hand.",
+        "I do not lend a hand.",
+        "Did you lend a hand?",
+        "Shall I lend you a hand?"
+       ],
+       "correctIndex": 3,
+       "explanation": "volitional + か."
+      },
+      {
+       "id": "e22",
+       "type": "multipleChoice",
+       "prompt": "What does 結婚しようよ mean?",
+       "options": [
+        "Are you married?",
+        "I got married.",
+        "I do not want to marry.",
+        "Let’s get married!"
+       ],
+       "correctIndex": 3,
+       "explanation": "しようよ."
+      },
+      {
+       "id": "e23",
+       "type": "fillBlank",
+       "prompt": "今晩、食べに行___。 (let’s go)",
+       "options": [
+        "く",
+        "った",
+        "こう",
+        "きます"
+       ],
+       "correctIndex": 2,
+       "explanation": "行こう."
+      },
+      {
+       "id": "e24",
+       "type": "fillBlank",
+       "prompt": "一緒に映画を見___。 (let’s watch)",
+       "options": [
+        "よう",
+        "こう",
+        "ろう",
+        "おう"
+       ],
+       "correctIndex": 0,
+       "explanation": "見よう."
+      },
+      {
+       "id": "e25",
+       "type": "fillBlank",
+       "prompt": "もっと勉強し___よ。",
+       "options": [
+        "おう",
+        "ろう",
+        "こう",
+        "よう"
+       ],
+       "correctIndex": 3,
+       "explanation": "しよう."
+      },
+      {
+       "id": "e26",
+       "type": "fillBlank",
+       "prompt": "いつ会___か。 (when shall we meet)",
+       "options": [
+        "ろう",
+        "こう",
+        "よう",
+        "おう"
+       ],
+       "correctIndex": 3,
+       "explanation": "会おう."
+      },
+      {
+       "id": "e27",
+       "type": "fillBlank",
+       "prompt": "手伝___か。 (shall I help)",
+       "options": [
+        "ろう",
+        "こう",
+        "よう",
+        "おう"
+       ],
+       "correctIndex": 3,
+       "explanation": "手伝おう."
+      },
+      {
+       "id": "e28",
+       "type": "fillBlank",
+       "prompt": "明日、早く起き___。",
+       "options": [
+        "こう",
+        "ろう",
+        "おう",
+        "よう"
+       ],
+       "correctIndex": 3,
+       "explanation": "起きよう."
+      },
+      {
+       "id": "e29",
+       "type": "fillBlank",
+       "prompt": "ここで待___。",
+       "options": [
+        "とう",
+        "ろう",
+        "こう",
+        "そう"
+       ],
+       "correctIndex": 0,
+       "explanation": "待とう."
+      },
+      {
+       "id": "e30",
+       "type": "fillBlank",
+       "prompt": "一緒に泳___。",
+       "options": [
+        "ごう",
+        "ぼう",
+        "ろう",
+        "こう"
+       ],
+       "correctIndex": 0,
+       "explanation": "泳ごう."
+      }
+     ]
+    },
+    {
+     "id": "ja_176",
+     "title": "176. Grammar 2: volitional + と思っています (what I plan to do)",
+     "subtitle": "勉強しようと思っています · 買おうと思います · 働こうと思います · 働くと思います",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "Talking about your determination",
+       "body": "We use the volitional form + と思っています to talk about our determinations or plans.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "毎日三時間日本語を勉強しようと思っています。",
+         "translation": "Mainichi sanjikan nihongo o benkyoo shiyoo to omotte imasu. — I’ve decided to/I’m going to study Japanese for three hours every day."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "と思います and と思っています",
+       "body": "You can also use the volitional + と思います, which suggests that the decision to perform the activity is being made on the spot, at the time of speaking. と思っています, in contrast, tends to suggest that you have already decided to do something. Here are two situations:",
+       "tables": [
+        {
+         "headers": [
+          "Situation",
+          "Sentence",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "1",
+           "漢字の辞書を買おうと思います。",
+           "decision made on the spot"
+          ],
+          [
+           "2",
+           "漢字の辞書を買おうと思っています。",
+           "decision already made"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "一万円あげましょう。何に使いますか。",
+         "translation": "Ichiman'en agemashoo. Nan ni tsukaimasu ka. — I will give you 10,000 yen. What will you use it for?"
+        },
+        {
+         "text": "漢字の辞書を買おうと思います。",
+         "translation": "Kanji no jisho o kaoo to omoimasu. — I will buy a kanji dictionary. (decision made on the spot)"
+        },
+        {
+         "text": "両親から一万円もらったんですか。何に使うんですか。",
+         "translation": "Ryooshin kara ichiman'en moratta n desu ka. Nan ni tsukau n desu ka. — You got 10,000 yen from your parents? What are you going to use it for?"
+        },
+        {
+         "text": "漢字の辞書を買おうと思っています。",
+         "translation": "Kanji no jisho o kaoo to omotte imasu. — I am going to buy a kanji dictionary. (decision already made)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Volitional vs. present tense",
+       "body": "Verbs in volitional forms and verbs in the present tense convey different ideas when they are used with と思います or と思っています. When you use volitionals, you are talking about your intention. When you use the present tense, you are talking about your prediction.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "日本の会社で働こうと思います。",
+         "translation": "Nihon no kaisha de hatarakoo to omoimasu. — I will/intend to work for a Japanese company."
+        },
+        {
+         "text": "日本の会社で働くと思います。",
+         "translation": "Nihon no kaisha de hataraku to omoimasu. — I think they/I will be working for a Japanese company."
+        }
+       ],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does 毎日三時間日本語を勉強しようと思っています。 mean?",
+       "options": [
+        "You got 10,000 yen from your parents? What are you going to use it for?",
+        "I’ve decided to/I’m going to study Japanese for three hours every day.",
+        "I will give you 10,000 yen. What will you use it for?",
+        "I will buy a kanji dictionary. (decision made on the spot)"
+       ],
+       "correctIndex": 1,
+       "explanation": "毎日三時間日本語を勉強しようと思っています。"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What does 一万円あげましょう。何に使いますか。 mean?",
+       "options": [
+        "I will give you 10,000 yen. What will you use it for?",
+        "I will buy a kanji dictionary. (decision made on the spot)",
+        "I’ve decided to/I’m going to study Japanese for three hours every day.",
+        "You got 10,000 yen from your parents? What are you going to use it for?"
+       ],
+       "correctIndex": 0,
+       "explanation": "一万円あげましょう。何に使いますか。"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What does 漢字の辞書を買おうと思います。 mean?",
+       "options": [
+        "You got 10,000 yen from your parents? What are you going to use it for?",
+        "I will give you 10,000 yen. What will you use it for?",
+        "I’ve decided to/I’m going to study Japanese for three hours every day.",
+        "I will buy a kanji dictionary. (decision made on the spot)"
+       ],
+       "correctIndex": 3,
+       "explanation": "漢字の辞書を買おうと思います。"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does 両親から一万円もらったんですか。何に使うんですか。 mean?",
+       "options": [
+        "I’ve decided to/I’m going to study Japanese for three hours every day.",
+        "I will buy a kanji dictionary. (decision made on the spot)",
+        "You got 10,000 yen from your parents? What are you going to use it for?",
+        "I will give you 10,000 yen. What will you use it for?"
+       ],
+       "correctIndex": 2,
+       "explanation": "両親から一万円もらったんですか。何に使うんですか。"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What does 漢字の辞書を買おうと思っています。 mean?",
+       "options": [
+        "I will give you 10,000 yen. What will you use it for?",
+        "I will buy a kanji dictionary. (decision made on the spot)",
+        "I’ve decided to/I’m going to study Japanese for three hours every day.",
+        "I am going to buy a kanji dictionary. (decision already made)"
+       ],
+       "correctIndex": 3,
+       "explanation": "漢字の辞書を買おうと思っています。"
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What does 日本の会社で働こうと思います。 mean?",
+       "options": [
+        "I will/intend to work for a Japanese company.",
+        "I will give you 10,000 yen. What will you use it for?",
+        "I’ve decided to/I’m going to study Japanese for three hours every day.",
+        "I will buy a kanji dictionary. (decision made on the spot)"
+       ],
+       "correctIndex": 0,
+       "explanation": "日本の会社で働こうと思います。"
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What does 日本の会社で働くと思います。 mean?",
+       "options": [
+        "I think they/I will be working for a Japanese company.",
+        "I will give you 10,000 yen. What will you use it for?",
+        "I will buy a kanji dictionary. (decision made on the spot)",
+        "I’ve decided to/I’m going to study Japanese for three hours every day."
+       ],
+       "correctIndex": 0,
+       "explanation": "日本の会社で働くと思います。"
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What does ～ようと思っています express?",
+       "options": [
+        "a guess about somebody’s past",
+        "an invitation",
+        "a request",
+        "a plan or intention that has already been decided"
+       ],
+       "correctIndex": 3,
+       "explanation": "plan."
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "What does ～ようと思います suggest?",
+       "options": [
+        "a decision made on the spot",
+        "a past experience",
+        "a habit",
+        "a decision made long ago"
+       ],
+       "correctIndex": 0,
+       "explanation": "on the spot."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What does 働くと思います express?",
+       "options": [
+        "a prediction",
+        "an intention",
+        "a request",
+        "a command"
+       ],
+       "correctIndex": 0,
+       "explanation": "present tense = prediction."
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What does 働こうと思います express?",
+       "options": [
+        "a habit",
+        "an intention",
+        "a prediction",
+        "a command"
+       ],
+       "correctIndex": 1,
+       "explanation": "volitional = intention."
+      },
+      {
+       "id": "e12",
+       "type": "fillBlank",
+       "prompt": "毎日三時間日本語を勉強しよう___思っています。",
+       "options": [
+        "に",
+        "と",
+        "を",
+        "で"
+       ],
+       "correctIndex": 1,
+       "explanation": "ようと思っています."
+      },
+      {
+       "id": "e13",
+       "type": "fillBlank",
+       "prompt": "漢字の辞書を買お___と思っています。",
+       "options": [
+        "る",
+        "た",
+        "く",
+        "う"
+       ],
+       "correctIndex": 3,
+       "explanation": "買おう."
+      },
+      {
+       "id": "e14",
+       "type": "fillBlank",
+       "prompt": "日本の会社で働こ___と思います。 (intend)",
+       "options": [
+        "く",
+        "う",
+        "る",
+        "た"
+       ],
+       "correctIndex": 1,
+       "explanation": "働こう."
+      },
+      {
+       "id": "e15",
+       "type": "fillBlank",
+       "prompt": "来年、日本に行こうと思って___。 (already decided)",
+       "options": [
+        "います",
+        "おきます",
+        "みます",
+        "しまいます"
+       ],
+       "correctIndex": 0,
+       "explanation": "と思っています."
+      },
+      {
+       "id": "e16",
+       "type": "fillBlank",
+       "prompt": "日本の会社で働く___思います。 (prediction)",
+       "options": [
+        "と",
+        "で",
+        "に",
+        "を"
+       ],
+       "correctIndex": 0,
+       "explanation": "働くと思います."
+      }
+     ]
+    },
+    {
+     "id": "ja_177",
+     "title": "177. Grammar 3: ～ておく (doing something in advance)",
+     "subtitle": "勉強しておきます · 掃除しておかなきゃいけません · 予約しとくね · 調べておくよ",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "～ておく: in preparation for something",
+       "body": "The て-form of a verb plus the helping verb おく describes an action performed in preparation for something. ておく is often shortened to とく in speech.",
+       "tables": [
+        {
+         "headers": [
+          "Form",
+          "Example"
+         ],
+         "rows": [
+          [
+           "て-form + おく",
+           "勉強しておきます"
+          ],
+          [
+           "negative",
+           "掃除しておかなきゃいけません"
+          ],
+          [
+           "casual contraction",
+           "予約しとく"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "あした試験があるので、今晩勉強しておきます。",
+         "translation": "Ashita shiken ga aru node, konban benkyoo shite okimasu. — Since there will be an exam tomorrow, I will study (for it) tonight."
+        },
+        {
+         "text": "友だちが来るから、部屋を掃除しておかなきゃいけません。",
+         "translation": "Tomodachi ga kuru kara, heya o sooji shite okanakya ikemasen. — I have to clean the room, because my friends are coming."
+        },
+        {
+         "text": "ホテルを予約しとくね。",
+         "translation": "Hoteru o yoyaku shitoku ne. — I will make a hotel reservation in advance."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Related patterns",
+       "body": "In the dialogues, ～ておく is used for plans between friends: 電車の時間、調べておくよ。 みちこさんに電話しておく。 The helping verb is normally written in hiragana: ておく.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "電車の時間、調べておくよ。",
+         "translation": "Densha no jikan, shirabete oku yo. — I’ll check the train schedule in advance."
+        },
+        {
+         "text": "みちこさんに電話しておく。",
+         "translation": "Michiko-san ni denwa shite oku. — I’ll call Michiko (beforehand)."
+        }
+       ],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does あした試験があるので、今晩勉強しておきます。 mean?",
+       "options": [
+        "I will make a hotel reservation in advance.",
+        "I have to clean the room, because my friends are coming.",
+        "Since there will be an exam tomorrow, I will study (for it) tonight."
+       ],
+       "correctIndex": 2,
+       "explanation": "あした試験があるので、今晩勉強しておきます。"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What does 友だちが来るから、部屋を掃除しておかなきゃいけません。 mean?",
+       "options": [
+        "I have to clean the room, because my friends are coming.",
+        "Since there will be an exam tomorrow, I will study (for it) tonight.",
+        "I will make a hotel reservation in advance."
+       ],
+       "correctIndex": 0,
+       "explanation": "友だちが来るから、部屋を掃除しておかなきゃいけません。"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What does ホテルを予約しとくね。 mean?",
+       "options": [
+        "I have to clean the room, because my friends are coming.",
+        "Since there will be an exam tomorrow, I will study (for it) tonight.",
+        "I will make a hotel reservation in advance."
+       ],
+       "correctIndex": 2,
+       "explanation": "ホテルを予約しとくね。"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does ～ておく describe?",
+       "options": [
+        "an action done once",
+        "an action done in preparation",
+        "a habit",
+        "an action that failed"
+       ],
+       "correctIndex": 1,
+       "explanation": "in preparation."
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What is ておく shortened to in speech?",
+       "options": [
+        "とく",
+        "てる",
+        "てく",
+        "でく"
+       ],
+       "correctIndex": 0,
+       "explanation": "ておく → とく."
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What is the casual of 予約しておく?",
+       "options": [
+        "予約してく",
+        "予約しれく",
+        "予約しいく",
+        "予約しとく"
+       ],
+       "correctIndex": 3,
+       "explanation": "しとく."
+      },
+      {
+       "id": "e7",
+       "type": "fillBlank",
+       "prompt": "あした試験があるので、今晩勉強して___。",
+       "options": [
+        "おきます",
+        "あげます",
+        "しまいます",
+        "みます"
+       ],
+       "correctIndex": 0,
+       "explanation": "しておきます."
+      },
+      {
+       "id": "e8",
+       "type": "fillBlank",
+       "prompt": "部屋を掃除して___なきゃいけません。",
+       "options": [
+        "おか",
+        "しまわ",
+        "み",
+        "あげ"
+       ],
+       "correctIndex": 0,
+       "explanation": "しておかなきゃ."
+      },
+      {
+       "id": "e9",
+       "type": "fillBlank",
+       "prompt": "ホテルを予約し___ね。 (casual)",
+       "options": [
+        "でく",
+        "とく",
+        "てる",
+        "てく"
+       ],
+       "correctIndex": 1,
+       "explanation": "しとく."
+      },
+      {
+       "id": "e10",
+       "type": "fillBlank",
+       "prompt": "電車の時間を調べ___よ。",
+       "options": [
+        "ておく",
+        "てある",
+        "てみる",
+        "ている"
+       ],
+       "correctIndex": 0,
+       "explanation": "調べておく."
+      },
+      {
+       "id": "e11",
+       "type": "fillBlank",
+       "prompt": "飲み物を買って___。 (in advance)",
+       "options": [
+        "みる",
+        "いる",
+        "おく",
+        "ある"
+       ],
+       "correctIndex": 2,
+       "explanation": "買っておく."
+      }
+     ]
+    },
+    {
+     "id": "ja_178",
+     "title": "178. Grammar 4: using sentences to qualify nouns",
+     "subtitle": "きのう買った本 · 彼がくれた本 · つくえの上にある本 · 日本で買えない本 · 私が一番感動した映画",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "Adjectives and sentences before a noun",
+       "body": "In the phrase おもしろい本, the い-adjective おもしろい qualifies the noun 本 and tells us what kind of book it is. You can also use sentences to qualify nouns. The sentences that are used as qualifiers of nouns are shown here:",
+       "tables": [
+        {
+         "headers": [
+          "Qualifier sentence + noun",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "きのう買った本",
+           "the book that I bought yesterday"
+          ],
+          [
+           "彼がくれた本",
+           "the book my boyfriend gave me"
+          ],
+          [
+           "つくえの上にある本",
+           "the book that is on the table"
+          ],
+          [
+           "日本で買えない本",
+           "the book that you can’t buy in Japan"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Rules",
+       "body": "Qualifier sentences tell us what kind of book we are talking about, just like adjectives. The verbs used in such qualifier sentences are in their short forms, either in the present (as in つくえの上にある本 and 日本で買えない本) or the past tense (きのう買った本, 彼がくれた本), and either in the affirmative (1 to 3) or in the negative (4). When the subject of the verb, that is to say, the person performing the activity, appears inside a qualifier sentence, as in 彼がくれた本, it is accompanied by the particle が, and not は.",
+       "tables": [],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Qualifier + noun is one big noun phrase",
+       "body": "You can use a noun with a qualifier sentence just like any other noun. In other words, a “qualifier sentence + noun” combination is just like one big noun phrase. You can put it anywhere in a sentence that has a noun. Compare the examples with their plain versions: これは本です。 → これは去年の誕生日に彼女がくれた本です。 / 父が本をくれました。 → 父が村上春樹が書いた本をくれました。 / 映画は「生きる」です。 → 私が一番感動した映画は「生きる」です。",
+       "tables": [],
+       "examples": [
+        {
+         "text": "これは去年の誕生日に彼女がくれた本です。",
+         "translation": "Kore wa kyonen no tanjoobi ni kanojo ga kureta hon desu. — This is a book that my girlfriend gave me on my birthday last year."
+        },
+        {
+         "text": "父が村上春樹が書いた本をくれました。",
+         "translation": "Chichi ga Murakami Haruki ga kaita hon o kuremashita. — My father gave me a book that Haruki Murakami wrote."
+        },
+        {
+         "text": "私が一番感動した映画は「生きる」です。",
+         "translation": "Watashi ga ichiban kandoo shita eega wa “ikiru” desu. — The movie I was touched by the most is “To Live”."
+        }
+       ],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does きのう買った本 mean?",
+       "options": [
+        "the book that you can’t buy in Japan",
+        "the book my boyfriend gave me",
+        "the book that is on the table",
+        "the book that I bought yesterday"
+       ],
+       "correctIndex": 3,
+       "explanation": "きのう買った本"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What does 彼がくれた本 mean?",
+       "options": [
+        "the book that I bought yesterday",
+        "the book that is on the table",
+        "the book my boyfriend gave me",
+        "the book that you can’t buy in Japan"
+       ],
+       "correctIndex": 2,
+       "explanation": "彼がくれた本"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What does つくえの上にある本 mean?",
+       "options": [
+        "the book that I bought yesterday",
+        "the book that you can’t buy in Japan",
+        "the book my boyfriend gave me",
+        "the book that is on the table"
+       ],
+       "correctIndex": 3,
+       "explanation": "つくえの上にある本"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does 日本で買えない本 mean?",
+       "options": [
+        "the book that you can’t buy in Japan",
+        "the book that I bought yesterday",
+        "the book that is on the table",
+        "the book my boyfriend gave me"
+       ],
+       "correctIndex": 0,
+       "explanation": "日本で買えない本"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What does これは去年の誕生日に彼女がくれた本です。 mean?",
+       "options": [
+        "the book my boyfriend gave me",
+        "the book that is on the table",
+        "This is a book that my girlfriend gave me on my birthday last year.",
+        "the book that I bought yesterday"
+       ],
+       "correctIndex": 2,
+       "explanation": "これは去年の誕生日に彼女がくれた本です。"
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What does 父が村上春樹が書いた本をくれました。 mean?",
+       "options": [
+        "the book that is on the table",
+        "the book my boyfriend gave me",
+        "the book that I bought yesterday",
+        "My father gave me a book that Haruki Murakami wrote."
+       ],
+       "correctIndex": 3,
+       "explanation": "父が村上春樹が書いた本をくれました。"
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What does 私が一番感動した映画は「生きる」です。 mean?",
+       "options": [
+        "the book that is on the table",
+        "The movie I was touched by the most is “To Live”.",
+        "the book that I bought yesterday",
+        "the book my boyfriend gave me"
+       ],
+       "correctIndex": 1,
+       "explanation": "私が一番感動した映画は「生きる」です。"
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What form do verbs take in a qualifier sentence?",
+       "options": [
+        "the volitional",
+        "the short form",
+        "the long form",
+        "the て-form"
+       ],
+       "correctIndex": 1,
+       "explanation": "short forms."
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "Which particle marks the subject inside a qualifier sentence?",
+       "options": [
+        "を",
+        "に",
+        "は",
+        "が"
+       ],
+       "correctIndex": 3,
+       "explanation": "彼がくれた本."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "Which is correct for “the book my boyfriend gave me”?",
+       "options": [
+        "彼がくれた本",
+        "彼がくれます本",
+        "彼がくれたの本",
+        "彼はくれた本"
+       ],
+       "correctIndex": 0,
+       "explanation": "が, not は."
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "Which is correct for “the book I bought yesterday”?",
+       "options": [
+        "きのうに買った本",
+        "きのう買いました本",
+        "きのう買うの本",
+        "きのう買った本"
+       ],
+       "correctIndex": 3,
+       "explanation": "short past."
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "Which is correct for “a book you can’t buy in Japan”?",
+       "options": [
+        "日本を買えない本",
+        "日本で買えない本",
+        "日本で買える本ない",
+        "日本で買えません本"
+       ],
+       "correctIndex": 1,
+       "explanation": "short negative."
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "Which is correct for “a friend who lives in Korea”?",
+       "options": [
+        "韓国に住んでいます友だち",
+        "韓国に住んでいる友だち",
+        "韓国は住んでいる友だち",
+        "韓国に住んでいるの友だち"
+       ],
+       "correctIndex": 1,
+       "explanation": "short form."
+      },
+      {
+       "id": "e14",
+       "type": "fillBlank",
+       "prompt": "きのう___本",
+       "options": [
+        "買い",
+        "買います",
+        "買った",
+        "買って"
+       ],
+       "correctIndex": 2,
+       "explanation": "short past."
+      },
+      {
+       "id": "e15",
+       "type": "fillBlank",
+       "prompt": "彼___くれた本",
+       "options": [
+        "を",
+        "は",
+        "に",
+        "が"
+       ],
+       "correctIndex": 3,
+       "explanation": "subject marker in qualifier."
+      },
+      {
+       "id": "e16",
+       "type": "fillBlank",
+       "prompt": "つくえの上に___本",
+       "options": [
+        "あります",
+        "ある",
+        "あり",
+        "あって"
+       ],
+       "correctIndex": 1,
+       "explanation": "short form."
+      },
+      {
+       "id": "e17",
+       "type": "fillBlank",
+       "prompt": "私が一番感動した映画は「生きる」___。",
+       "options": [
+        "です",
+        "ます",
+        "ない",
+        "だった"
+       ],
+       "correctIndex": 0,
+       "explanation": "です."
+      },
+      {
+       "id": "e18",
+       "type": "fillBlank",
+       "prompt": "日本で買え___本",
+       "options": [
+        "なかった",
+        "ず",
+        "ない",
+        "ません"
+       ],
+       "correctIndex": 2,
+       "explanation": "short negative."
+      }
+     ]
+    },
+    {
+     "id": "ja_179",
+     "title": "179. Culture and useful expressions: Japanese accommodations, at the hotel, expression notes",
+     "subtitle": "ホテル · 旅館 · 民宿 · ペンション · 浴衣 · 布団 · 一泊二食付 · 予定です · 見える · 聞こえる · 〜目",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "Culture note: 日本の宿 (Japanese accommodations)",
+       "body": "There are different types of accommodations in Japan, such as ホテル (hotels), 旅館 (Japanese-style inns), 民宿 (Japanese-style guest houses), and ペンション (Western-style guest houses). ホテル in Japan offer western-style facilities similar to those found in Europe and the United States. There are also inexpensive hotels called ビジネスホテル, which have only small rooms but suffice for those who just need a good night’s rest.",
+       "tables": [],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "旅館",
+       "body": "旅館, which offer Japanese-style rooms with a 畳 floor, are the best choice if you wish to experience the uniqueness of Japan: the architecture, lifestyle, traditions, and culture. Guests change into a 浴衣 (Japanese cotton robe) and sleep on a 布団 mattress. Most 旅館 have gender-separated communal baths, sometimes fed by an 温泉 (hot spring). Some even have a smaller bath that can be reserved for private use. The accommodation fee is charged per person for each night, and includes dinner and breakfast. Usually both meals are Japanese style and feature regional and seasonal specialties.",
+       "tables": [],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "民宿 and ペンション",
+       "body": "Your cheaper options are 民宿 and ペンション. These are usually owned and run by a family, and offer a homelike atmosphere. The overnight charge includes two meals. In 民宿, guests are expected to lay out their bedding (布団) at night. ペンション are furnished with beds.",
+       "tables": [],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Useful expressions: ホテルで (at the hotel)",
+       "body": "Useful vocabulary for the hotel. Tap a Japanese word to hear it.",
+       "tables": [
+        {
+         "headers": [
+          "Japanese",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "はく",
+           "〜泊",
+           "Haku",
+           "… nights (何泊, 一泊, 二泊, 三泊, 四泊)"
+          ],
+          [
+           "つき",
+           "〜付",
+           "Tsuki",
+           "with …"
+          ],
+          [
+           "しょくじつき",
+           "食事付",
+           "Shokujitsuki",
+           "with meals"
+          ],
+          [
+           "いっぱくにしょくつき",
+           "一泊二食付",
+           "Ippaku ni shokutsuki",
+           "one night with two meals"
+          ],
+          [
+           "チェックイン",
+           "",
+           "Chekkuin",
+           "checking in"
+          ],
+          [
+           "チェックアウト",
+           "",
+           "Chekkuauto",
+           "checking out"
+          ],
+          [
+           "シングル",
+           "",
+           "Shinguru",
+           "single room"
+          ],
+          [
+           "ダブル",
+           "",
+           "Daburu",
+           "double room"
+          ],
+          [
+           "ツイン",
+           "",
+           "Tsuin",
+           "twin room"
+          ],
+          [
+           "めい",
+           "〜名",
+           "Mee",
+           "… person(s)"
+          ],
+          [
+           "フロント",
+           "",
+           "Furonto",
+           "receptionist; front desk"
+          ],
+          [
+           "きんえんルーム",
+           "禁煙ルーム",
+           "Kin'en ruumu",
+           "non-smoking room"
+          ],
+          [
+           "きつえんルーム",
+           "喫煙ルーム",
+           "Kitsuen ruumu",
+           "smoking room"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Useful expressions: paying and luggage",
+       "body": "Two requests you may need.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "クレジットカードで払えますか。",
+         "translation": "Kurejitto kaado de haraemasu ka. — Can I pay by credit card?"
+        },
+        {
+         "text": "二時まで荷物を預かってくれませんか。",
+         "translation": "Niji made nimotsu o azukatte kuremasen ka. — Could you keep my luggage until 2 o’clock?"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "旅館の予約 (reserving a room at a ryokan)",
+       "body": "A model phone call: A is the guest, B the receptionist. Tap a line to hear it.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "一泊いくらですか。",
+         "translation": "A: Ippaku ikura desu ka. — How much is it for one night?"
+        },
+        {
+         "text": "何名様ですか。",
+         "translation": "B: Nanmee-sama desu ka. — How many people?"
+        },
+        {
+         "text": "三名です。",
+         "translation": "A: Sanmee desu. — Three."
+        },
+        {
+         "text": "一泊二食付でお一人様、一万二千円です。",
+         "translation": "B: Ippaku nishokutsuki de ohitori-sama, ichiman nisen'en desu. — For one night with two meals, 12,000 yen."
+        },
+        {
+         "text": "じゃあ、予約お願いします。",
+         "translation": "A: Jaa, yoyaku onegai shimasu. — Well, I would like to make a reservation."
+        },
+        {
+         "text": "何日から何泊のご予約ですか。",
+         "translation": "B: Nannichi kara nanhaku no goyoyaku desu ka. — How many nights, starting from what day?"
+        },
+        {
+         "text": "来週の金曜日から三泊です。",
+         "translation": "A: Raishuu no kin'yoobi kara sanhaku desu. — Three nights from next Friday."
+        },
+        {
+         "text": "はい。かしこまりました。お客様のお名前とお電話番号をお願いします。",
+         "translation": "B: Hai. Kashikomarimashita. Okyaku-sama no onamae to odenwa bangoo o onegai shimasu. — All right. Your name and phone number, please."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Expression notes 3: short forms in casual speech",
+       "body": "The use of short forms in casual speech. The verb ある calls for the particle が, and the particles は, が and を are frequently dropped in casual speech. Contractions such as 思ってる (思っている) and 言ってた (言っていた) drop the い of the helping verb いる; they occur in long-form speech too, but are more frequent in casual speech with short forms. だ is systematically dropped at the end of a sentence, but it is retained when followed by よ or ね. While sentences ending with だよ are quite common in the casual speech of women today, until very recently, women were “supposed to” drop だ when they end a sentence with よ.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "今度の休み、予定ある？",
+         "translation": "Kondo no yasumi, yotee aru? — Do you have any plans for the holiday? (ある calls for が: 予定がある; は, が and を are often dropped in casual speech, and the yes/no question particle か is dropped)"
+        },
+        {
+         "text": "思ってるんだけど。",
+         "translation": "Omotteru n da kedo. — I’m thinking… (思ってる is the contraction of 思っている: the い of いる is dropped)"
+        },
+        {
+         "text": "言ってたから。",
+         "translation": "Itteta kara. — Because (she) said… (言ってた is the contraction of 言っていた)"
+        },
+        {
+         "text": "有名なお寺だよ。",
+         "translation": "Yuumee na otera da yo. — It’s a famous temple. (だ is dropped at the end of a sentence, but it is kept before よ or ね)"
+        },
+        {
+         "text": "今日、何曜日？",
+         "translation": "Kyoo, nan'yoobi? — What day is it today?"
+        },
+        {
+         "text": "水曜日。",
+         "translation": "Suiyoobi. — Wednesday."
+        },
+        {
+         "text": "水曜日だよ。",
+         "translation": "Suiyoobi da yo. — It’s Wednesday."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Expression notes 3: ～けど and ～が",
+       "body": "You can use けど and が not only in the sense of “but” (contrasting two situations), but also to present the background to what you are about to say. In the Dialogue, 一緒に行かない？ alone would be too abrupt. By inserting けど, Mary indicates that she still has something to say at the end of the first sentence.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "みちこさんの長野のうちに行こうと思ってるんだけど、一緒に行かない？",
+         "translation": "Michiko-san no Nagano no uchi ni ikoo to omotteru n da kedo, issho ni ikanai? — I’m thinking of going to Michiko’s home in Nagano, and would you like to come along?"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Expression notes 3: short present + 予定です",
+       "body": "You can add 予定です to a verb in the present tense short form when you want to say that something is scheduled to take place. You can also use 予定です with verbs in the negative.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "私は今度の週末に韓国に行く予定です。",
+         "translation": "Watashi wa kondo no shuumatsu ni Kankoku ni iku yotee desu. — I am scheduled to go to Korea this coming weekend."
+        },
+        {
+         "text": "私の兄は九月に結婚する予定です。",
+         "translation": "Watashi no ani wa kugatsu ni kekkon suru yotee desu. — My big brother is scheduled to get married this September."
+        },
+        {
+         "text": "あしたは学校に来ない予定です。",
+         "translation": "Ashita wa gakkoo ni konai yotee desu. — I am not planning to come to school tomorrow."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Expression notes 3: 見える and 見られる; 聞こえる and 聞ける",
+       "body": "見える is different from 見られる, the regular potential form of 見る. 見える means “something or someone is spontaneously visible”; 見られる, on the other hand, means that the subject of the sentence can see something or someone actively rather than passively. The difference between 聞こえる and 聞ける is the same. 聞こえる means “something is spontaneously audible”; 聞ける, the potential form of 聞く, means that the subject can hear the sound actively.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "部屋の窓から海が見えます。",
+         "translation": "Heya no mado kara umi ga miemasu. — I can see the ocean from the window of the room."
+        },
+        {
+         "text": "どこであの映画が見られますか。",
+         "translation": "Doko de ano eega ga miraremasu ka. — Where can I see that movie?"
+        },
+        {
+         "text": "けさ、鳥の声が聞こえました。",
+         "translation": "Kesa, tori no koe ga kikoemashita. — This morning, I heard the voices of the birds."
+        },
+        {
+         "text": "インターネットで日本のラジオ番組が聞けます。",
+         "translation": "Intaanetto de Nihon no rajio bangumi ga kikemasu. — We can listen to Japanese radio programs on the Internet."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Expression notes 3: ～目",
+       "body": "The suffix 目 turns a number into a reference to a position in a series, like first, second, third and fourth.",
+       "tables": [
+        {
+         "headers": [
+          "Counter",
+          "first",
+          "second",
+          "third"
+         ],
+         "rows": [
+          [
+           "〜人目",
+           "一人目 ひとりめ (first person)",
+           "二人目 ふたりめ (second person)",
+           "三人目 さんにんめ (third person)"
+          ],
+          [
+           "〜枚目",
+           "一枚目 いちまいめ (first sheet)",
+           "二枚目 にまいめ (second sheet)",
+           "三枚目 さんまいめ (third sheet)"
+          ],
+          [
+           "〜年目",
+           "一年目 いちねんめ (first year)",
+           "二年目 にねんめ (second year)",
+           "三年目 さんねんめ (third year)"
+          ],
+          [
+           "〜日目",
+           "一日目 いちにちめ (first day)",
+           "二日目 ふつかめ (second day)",
+           "三日目 みっかめ (third day)"
+          ]
+         ],
+         "speakCols": []
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does 一泊いくらですか。 mean?",
+       "options": [
+        "For one night with two meals, 12,000 yen.",
+        "How many people?",
+        "How much is it for one night?",
+        "Three."
+       ],
+       "correctIndex": 2,
+       "explanation": "一泊いくらですか。"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What does 何名様ですか。 mean?",
+       "options": [
+        "How many people?",
+        "How much is it for one night?",
+        "For one night with two meals, 12,000 yen.",
+        "Three."
+       ],
+       "correctIndex": 0,
+       "explanation": "何名様ですか。"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What does 三名です。 mean?",
+       "options": [
+        "How many people?",
+        "How much is it for one night?",
+        "Three.",
+        "For one night with two meals, 12,000 yen."
+       ],
+       "correctIndex": 2,
+       "explanation": "三名です。"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does 一泊二食付でお一人様、一万二千円です。 mean?",
+       "options": [
+        "How many people?",
+        "For one night with two meals, 12,000 yen.",
+        "How much is it for one night?",
+        "Three."
+       ],
+       "correctIndex": 1,
+       "explanation": "一泊二食付でお一人様、一万二千円です。"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What does じゃあ、予約お願いします。 mean?",
+       "options": [
+        "How much is it for one night?",
+        "Well, I would like to make a reservation.",
+        "Three.",
+        "How many people?"
+       ],
+       "correctIndex": 1,
+       "explanation": "じゃあ、予約お願いします。"
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What does 何日から何泊のご予約ですか。 mean?",
+       "options": [
+        "How much is it for one night?",
+        "Three.",
+        "How many people?",
+        "How many nights, starting from what day?"
+       ],
+       "correctIndex": 3,
+       "explanation": "何日から何泊のご予約ですか。"
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What does 来週の金曜日から三泊です。 mean?",
+       "options": [
+        "How many people?",
+        "Three.",
+        "Three nights from next Friday.",
+        "How much is it for one night?"
+       ],
+       "correctIndex": 2,
+       "explanation": "来週の金曜日から三泊です。"
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What does はい。かしこまりました。お客様のお名前とお電話番号をお願いします。 mean?",
+       "options": [
+        "How many people?",
+        "All right. Your name and phone number, please.",
+        "How much is it for one night?",
+        "Three."
+       ],
+       "correctIndex": 1,
+       "explanation": "はい。かしこまりました。お客様のお名前とお電話番号をお願いします。"
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "What does クレジットカードで払えますか。 mean?",
+       "options": [
+        "How many people?",
+        "Can I pay by credit card?",
+        "How much is it for one night?",
+        "Three."
+       ],
+       "correctIndex": 1,
+       "explanation": "クレジットカードで払えますか。"
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What does 二時まで荷物を預かってくれませんか。 mean?",
+       "options": [
+        "How much is it for one night?",
+        "How many people?",
+        "Three.",
+        "Could you keep my luggage until 2 o’clock?"
+       ],
+       "correctIndex": 3,
+       "explanation": "二時まで荷物を預かってくれませんか。"
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What does 私は今度の週末に韓国に行く予定です。 mean?",
+       "options": [
+        "How much is it for one night?",
+        "How many people?",
+        "Three.",
+        "I am scheduled to go to Korea this coming weekend."
+       ],
+       "correctIndex": 3,
+       "explanation": "私は今度の週末に韓国に行く予定です。"
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "What does 私の兄は九月に結婚する予定です。 mean?",
+       "options": [
+        "My big brother is scheduled to get married this September.",
+        "How many people?",
+        "Three.",
+        "How much is it for one night?"
+       ],
+       "correctIndex": 0,
+       "explanation": "私の兄は九月に結婚する予定です。"
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "What does あしたは学校に来ない予定です。 mean?",
+       "options": [
+        "How many people?",
+        "How much is it for one night?",
+        "I am not planning to come to school tomorrow.",
+        "Three."
+       ],
+       "correctIndex": 2,
+       "explanation": "あしたは学校に来ない予定です。"
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "What does 部屋の窓から海が見えます。 mean?",
+       "options": [
+        "How much is it for one night?",
+        "I can see the ocean from the window of the room.",
+        "Three.",
+        "How many people?"
+       ],
+       "correctIndex": 1,
+       "explanation": "部屋の窓から海が見えます。"
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "What does どこであの映画が見られますか。 mean?",
+       "options": [
+        "How much is it for one night?",
+        "Three.",
+        "Where can I see that movie?",
+        "How many people?"
+       ],
+       "correctIndex": 2,
+       "explanation": "どこであの映画が見られますか。"
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "What does けさ、鳥の声が聞こえました。 mean?",
+       "options": [
+        "Three.",
+        "How much is it for one night?",
+        "This morning, I heard the voices of the birds.",
+        "How many people?"
+       ],
+       "correctIndex": 2,
+       "explanation": "けさ、鳥の声が聞こえました。"
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "What does インターネットで日本のラジオ番組が聞けます。 mean?",
+       "options": [
+        "How much is it for one night?",
+        "Three.",
+        "How many people?",
+        "We can listen to Japanese radio programs on the Internet."
+       ],
+       "correctIndex": 3,
+       "explanation": "インターネットで日本のラジオ番組が聞けます。"
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "Which kind of accommodation has a 畳 floor and communal baths?",
+       "options": [
+        "ホテル",
+        "ペンション",
+        "ビジネスホテル",
+        "旅館"
+       ],
+       "correctIndex": 3,
+       "explanation": "旅館."
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "What do guests wear at a 旅館?",
+       "options": [
+        "浴衣",
+        "制服",
+        "着物",
+        "スーツ"
+       ],
+       "correctIndex": 0,
+       "explanation": "浴衣."
+      },
+      {
+       "id": "e20",
+       "type": "multipleChoice",
+       "prompt": "What do guests sleep on in a 旅館 or 民宿?",
+       "options": [
+        "いす",
+        "畳の上のいす",
+        "ベッド",
+        "布団"
+       ],
+       "correctIndex": 3,
+       "explanation": "布団."
+      },
+      {
+       "id": "e21",
+       "type": "multipleChoice",
+       "prompt": "Which accommodation is furnished with beds?",
+       "options": [
+        "旅館",
+        "ペンション",
+        "民宿",
+        "温泉"
+       ],
+       "correctIndex": 1,
+       "explanation": "ペンション."
+      },
+      {
+       "id": "e22",
+       "type": "multipleChoice",
+       "prompt": "What does 一泊二食付 mean?",
+       "options": [
+        "two nights with one meal",
+        "two people, one meal",
+        "one night with two meals",
+        "one night without meals"
+       ],
+       "correctIndex": 2,
+       "explanation": "一泊二食付."
+      },
+      {
+       "id": "e23",
+       "type": "multipleChoice",
+       "prompt": "What does 〜泊 count?",
+       "options": [
+        "people",
+        "rooms",
+        "nights",
+        "days"
+       ],
+       "correctIndex": 2,
+       "explanation": "泊 = nights."
+      },
+      {
+       "id": "e24",
+       "type": "multipleChoice",
+       "prompt": "What does 〜名 count?",
+       "options": [
+        "people",
+        "rooms",
+        "nights",
+        "meals"
+       ],
+       "correctIndex": 0,
+       "explanation": "名 = people."
+      },
+      {
+       "id": "e25",
+       "type": "multipleChoice",
+       "prompt": "What does 禁煙ルーム mean?",
+       "options": [
+        "double room",
+        "smoking room",
+        "non-smoking room",
+        "single room"
+       ],
+       "correctIndex": 2,
+       "explanation": "禁煙."
+      },
+      {
+       "id": "e26",
+       "type": "multipleChoice",
+       "prompt": "How do you say “three nights”?",
+       "options": [
+        "さんぱ",
+        "さんはく",
+        "さんぱく",
+        "みっぱく"
+       ],
+       "correctIndex": 2,
+       "explanation": "三泊 = さんぱく."
+      },
+      {
+       "id": "e27",
+       "type": "multipleChoice",
+       "prompt": "How do you say “one night”?",
+       "options": [
+        "いちぱく",
+        "いっぱく",
+        "ひとぱく",
+        "いちはく"
+       ],
+       "correctIndex": 1,
+       "explanation": "一泊 = いっぱく."
+      },
+      {
+       "id": "e28",
+       "type": "multipleChoice",
+       "prompt": "Which means “something is spontaneously visible”?",
+       "options": [
+        "見る",
+        "見られる",
+        "見せる",
+        "見える"
+       ],
+       "correctIndex": 3,
+       "explanation": "見える."
+      },
+      {
+       "id": "e29",
+       "type": "multipleChoice",
+       "prompt": "Which means “can actively hear”?",
+       "options": [
+        "聞ける",
+        "聞こえる",
+        "聞く",
+        "聞かれる"
+       ],
+       "correctIndex": 0,
+       "explanation": "聞ける."
+      },
+      {
+       "id": "e30",
+       "type": "multipleChoice",
+       "prompt": "What does 予定です after a verb show?",
+       "options": [
+        "a guess",
+        "that something is scheduled",
+        "that it is finished",
+        "that you want to do it"
+       ],
+       "correctIndex": 1,
+       "explanation": "予定."
+      },
+      {
+       "id": "e31",
+       "type": "multipleChoice",
+       "prompt": "How do you say “the second day”?",
+       "options": [
+        "二日間",
+        "二日目",
+        "二日め間",
+        "第二日"
+       ],
+       "correctIndex": 1,
+       "explanation": "二日目."
+      },
+      {
+       "id": "e32",
+       "type": "multipleChoice",
+       "prompt": "What does けど add in 思ってるんだけど？",
+       "options": [
+        "a contrast",
+        "a question",
+        "background for what comes next",
+        "a command"
+       ],
+       "correctIndex": 2,
+       "explanation": "background."
+      },
+      {
+       "id": "e33",
+       "type": "fillBlank",
+       "prompt": "一泊二食___でお一人様、一万二千円です。",
+       "options": [
+        "名",
+        "付",
+        "目",
+        "泊"
+       ],
+       "correctIndex": 1,
+       "explanation": "二食付."
+      },
+      {
+       "id": "e34",
+       "type": "fillBlank",
+       "prompt": "来週の金曜日から三___です。 (nights)",
+       "options": [
+        "目",
+        "日",
+        "名",
+        "泊"
+       ],
+       "correctIndex": 3,
+       "explanation": "三泊."
+      },
+      {
+       "id": "e35",
+       "type": "fillBlank",
+       "prompt": "部屋の窓から海が___ます。 (is visible)",
+       "options": [
+        "見",
+        "見え",
+        "見せ",
+        "見られ"
+       ],
+       "correctIndex": 1,
+       "explanation": "見えます."
+      },
+      {
+       "id": "e36",
+       "type": "fillBlank",
+       "prompt": "けさ、鳥の声が___ました。 (was audible)",
+       "options": [
+        "聞か",
+        "聞け",
+        "聞こえ",
+        "聞き"
+       ],
+       "correctIndex": 2,
+       "explanation": "聞こえました."
+      },
+      {
+       "id": "e37",
+       "type": "fillBlank",
+       "prompt": "私は今度の週末に韓国に行く___です。",
+       "options": [
+        "計画は",
+        "約束",
+        "つもり",
+        "予定"
+       ],
+       "correctIndex": 3,
+       "explanation": "予定です."
+      }
+     ]
+    },
+    {
+     "id": "ja_180",
+     "title": "180. Practice 1: the volitional form and ～と思っています",
+     "subtitle": "コーヒーを飲もうか · 山に登ろう · 運動しようと思っています · うちでパーティーをしようと思っています",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "I. コーヒーを飲もうか: A. change the verbs into volitional forms",
+       "body": "The example is いく → いこう. The book gives the verbs in hiragana. My answers:",
+       "tables": [
+        {
+         "headers": [
+          "Dictionary form",
+          "Volitional form"
+         ],
+         "rows": [
+          [
+           "たべる",
+           "たべよう"
+          ],
+          [
+           "さそう",
+           "さそおう"
+          ],
+          [
+           "かりる",
+           "かりよう"
+          ],
+          [
+           "よむ",
+           "よもう"
+          ],
+          [
+           "くる",
+           "こよう"
+          ],
+          [
+           "まつ",
+           "まとう"
+          ],
+          [
+           "はいる",
+           "はいろう"
+          ],
+          [
+           "いそぐ",
+           "いそごう"
+          ],
+          [
+           "はなす",
+           "はなそう"
+          ],
+          [
+           "みる",
+           "みよう"
+          ],
+          [
+           "かく",
+           "かこう"
+          ],
+          [
+           "よやくする",
+           "よやくしよう"
+          ]
+         ],
+         "speakCols": [
+          0,
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "I. B. Suggest your plans using informal speech",
+       "body": "The example is 喫茶店でコーヒーを飲もう(か)。 → うん、そうしよう。／うーん、ちょっと。 The pictures show: drink coffee at a coffee shop, read magazines in the library, see a movie in town, take pictures at school, swim in a pool, buy hamburgers at McDonald’s, dance at a club, climb a mountain in Nagano, have a barbecue at a park. My answers:",
+       "tables": [
+        {
+         "headers": [
+          "Picture",
+          "Suggestion"
+         ],
+         "rows": [
+          [
+           "(ex) coffee shop: drink coffee",
+           "喫茶店でコーヒーを飲もう。"
+          ],
+          [
+           "(1) library: read magazines",
+           "図書館で雑誌を読もう。"
+          ],
+          [
+           "(2) town: see a movie",
+           "町で映画を見よう。"
+          ],
+          [
+           "(3) school: take pictures",
+           "学校で写真を撮ろう。"
+          ],
+          [
+           "(4) pool: swim",
+           "プールで泳ごう。"
+          ],
+          [
+           "(5) McDonald’s: buy hamburgers",
+           "マクドナルドでハンバーガーを買おう。"
+          ],
+          [
+           "(6) club: dance",
+           "クラブで踊ろう。"
+          ],
+          [
+           "(7) Nagano: climb a mountain",
+           "長野で山に登ろう。"
+          ],
+          [
+           "(8) park: have a barbecue",
+           "公園でバーベキューをしよう。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "I. C: pair work—planning a four-day trip",
+       "body": "You and your partner are going on a trip together for four days. Decide (1) where you are going and (2) what you are going to do each day (一日目, 二日目, 三日目, 四日目). The example from the book:",
+       "tables": [],
+       "examples": [
+        {
+         "text": "どこに行こうか。",
+         "translation": "Doko ni ikoo ka. — Where shall we go?"
+        },
+        {
+         "text": "九州に行こう。",
+         "translation": "Kyuushuu ni ikoo. — Let’s go to Kyushu."
+        },
+        {
+         "text": "うん。じゃあ、九州で何をしようか。",
+         "translation": "Un. Jaa, Kyuushuu de nani o shiyooka. — Yeah. Then what shall we do in Kyushu?"
+        },
+        {
+         "text": "いい温泉があるから、温泉に入ろう。",
+         "translation": "Ii onsen ga aru kara, onsen ni hairoo. — There are good hot springs, so let’s take a hot spring bath."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "I. D: a song",
+       "body": "The book prints the first verse of a well-known children’s song about clapping your hands when you are happy, and asks you to change the underlined action into other actions using the volitional form (not reproduced here). The book’s examples: 握手をする (shake hands) → 握手をしよう; ウインクする (wink) → ウインクしよう.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "握手をしよう。",
+         "translation": "Akushu o shiyoo. — Let’s shake hands. (the book’s example)"
+        },
+        {
+         "text": "ウインクしよう。",
+         "translation": "Uinku shiyoo. — Let’s wink. (the book’s example)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "II. 運動しようと思っています: A. describe each person’s plan",
+       "body": "The example is メアリー (have various experiences in Japan) → メアリーさんは日本でいろいろな経験をしようと思っています。 My answers:",
+       "tables": [
+        {
+         "headers": [
+          "Person and plan",
+          "Sentence"
+         ],
+         "rows": [
+          [
+           "きょうこ: 運動する",
+           "きょうこさんは運動しようと思っています。"
+          ],
+          [
+           "山下先生: たばこをやめる",
+           "山下先生はたばこをやめようと思っています。"
+          ],
+          [
+           "ともこ: ダイエットする",
+           "ともこさんはダイエットしようと思っています。"
+          ],
+          [
+           "ジョン: 朝早く起きる",
+           "ジョンさんは朝早く起きようと思っています。"
+          ],
+          [
+           "ロバート: 一日中日本語を練習する",
+           "ロバートさんは一日中日本語を練習しようと思っています。"
+          ],
+          [
+           "たけし: もっと野菜を食べる",
+           "たけしさんはもっと野菜を食べようと思っています。"
+          ],
+          [
+           "スー: 日本人の友だちをたくさん作る",
+           "スーさんは日本人の友だちをたくさん作ろうと思っています。"
+          ],
+          [
+           "けん: 仕事を探す",
+           "けんさんは仕事を探そうと思っています。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "メアリーさんは日本でいろいろな経験をしようと思っています。",
+         "translation": "Mearii-san wa Nihon de iroiro na keeken o shiyoo to omotte imasu. — Mary is planning to have various experiences in Japan. (the book’s example)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "II. B and C: weekend plans and special occasions",
+       "body": "B: ask three classmates what they are going to do this weekend (週末何をしようと思っていますか。 キャンプをしようと思っています。 いいですね。だれと行くんですか。 けんさんと行こうと思っています。) and fill in the chart (名前, 何を, どこで, だれと). C: practice the dialogue with the boxed part replaced by the other occasions (冬休み, 夏休み, 試験, レポートの締め切り, 卒業式, お正月, 先生の結婚式, 日本語のクラスの発表). The book’s model:",
+       "tables": [],
+       "examples": [
+        {
+         "text": "もうすぐ、二十一歳の誕生日ですね。",
+         "translation": "Moosugu, nijuuichisai no tanjoobi desu ne. — Your 21st birthday is coming soon, isn’t it?"
+        },
+        {
+         "text": "ええ、うちでパーティーをしようと思っています。",
+         "translation": "Ee, uchi de paatii o shiyoo to omotte imasu. — Yes, I’m planning to have a party at home."
+        },
+        {
+         "text": "そうですか。それは、いいですね。",
+         "translation": "Soo desu ka. Sore wa, ii desu ne. — I see. That sounds nice."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "II. C: my sample answers for the other occasions",
+       "body": "Not the book’s answers; just examples of the second line:",
+       "tables": [
+        {
+         "headers": [
+          "Occasion",
+          "Answer"
+         ],
+         "rows": [
+          [
+           "冬休み",
+           "冬休みは、旅行しようと思っています。"
+          ],
+          [
+           "夏休み",
+           "夏休みは、アルバイトをしようと思っています。"
+          ],
+          [
+           "試験",
+           "試験の前に、毎日図書館で勉強しようと思っています。"
+          ],
+          [
+           "レポートの締め切り",
+           "レポートの締め切りの前に、友だちに読んでもらおうと思っています。"
+          ],
+          [
+           "卒業式",
+           "卒業式には、着物を着ようと思っています。"
+          ],
+          [
+           "お正月",
+           "お正月には、うちで家族と過ごそうと思っています。"
+          ],
+          [
+           "先生の結婚式",
+           "先生の結婚式には、花をあげようと思っています。"
+          ],
+          [
+           "日本語のクラスの発表",
+           "日本語のクラスの発表の前に、よく練習しようと思っています。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of たべる?",
+       "options": [
+        "よもう",
+        "さそおう",
+        "かりよう",
+        "たべよう"
+       ],
+       "correctIndex": 3,
+       "explanation": "たべる → たべよう."
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of さそう?",
+       "options": [
+        "たべよう",
+        "かりよう",
+        "よもう",
+        "さそおう"
+       ],
+       "correctIndex": 3,
+       "explanation": "さそう → さそおう."
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of かりる?",
+       "options": [
+        "たべよう",
+        "かりよう",
+        "さそおう",
+        "よもう"
+       ],
+       "correctIndex": 1,
+       "explanation": "かりる → かりよう."
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of よむ?",
+       "options": [
+        "かりよう",
+        "たべよう",
+        "よもう",
+        "さそおう"
+       ],
+       "correctIndex": 2,
+       "explanation": "よむ → よもう."
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of くる?",
+       "options": [
+        "たべよう",
+        "かりよう",
+        "さそおう",
+        "こよう"
+       ],
+       "correctIndex": 3,
+       "explanation": "くる → こよう."
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of まつ?",
+       "options": [
+        "たべよう",
+        "かりよう",
+        "さそおう",
+        "まとう"
+       ],
+       "correctIndex": 3,
+       "explanation": "まつ → まとう."
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of はいる?",
+       "options": [
+        "さそおう",
+        "かりよう",
+        "はいろう",
+        "たべよう"
+       ],
+       "correctIndex": 2,
+       "explanation": "はいる → はいろう."
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of いそぐ?",
+       "options": [
+        "さそおう",
+        "かりよう",
+        "たべよう",
+        "いそごう"
+       ],
+       "correctIndex": 3,
+       "explanation": "いそぐ → いそごう."
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of はなす?",
+       "options": [
+        "かりよう",
+        "はなそう",
+        "さそおう",
+        "たべよう"
+       ],
+       "correctIndex": 1,
+       "explanation": "はなす → はなそう."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of みる?",
+       "options": [
+        "かりよう",
+        "みよう",
+        "さそおう",
+        "たべよう"
+       ],
+       "correctIndex": 1,
+       "explanation": "みる → みよう."
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of かく?",
+       "options": [
+        "かりよう",
+        "たべよう",
+        "かこう",
+        "さそおう"
+       ],
+       "correctIndex": 2,
+       "explanation": "かく → かこう."
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "What is the volitional form of よやくする?",
+       "options": [
+        "さそおう",
+        "たべよう",
+        "かりよう",
+        "よやくしよう"
+       ],
+       "correctIndex": 3,
+       "explanation": "よやくする → よやくしよう."
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "How do you say: (1) library: read magazines?",
+       "options": [
+        "学校で写真を撮ろう。",
+        "図書館で雑誌を読もう。",
+        "喫茶店でコーヒーを飲もう。",
+        "町で映画を見よう。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(1) library: read magazines"
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "How do you say: (2) town: see a movie?",
+       "options": [
+        "喫茶店でコーヒーを飲もう。",
+        "図書館で雑誌を読もう。",
+        "町で映画を見よう。",
+        "学校で写真を撮ろう。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(2) town: see a movie"
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "How do you say: (3) school: take pictures?",
+       "options": [
+        "喫茶店でコーヒーを飲もう。",
+        "町で映画を見よう。",
+        "図書館で雑誌を読もう。",
+        "学校で写真を撮ろう。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(3) school: take pictures"
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "How do you say: (4) pool: swim?",
+       "options": [
+        "喫茶店でコーヒーを飲もう。",
+        "プールで泳ごう。",
+        "図書館で雑誌を読もう。",
+        "町で映画を見よう。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(4) pool: swim"
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "How do you say: (5) McDonald’s: buy hamburgers?",
+       "options": [
+        "図書館で雑誌を読もう。",
+        "マクドナルドでハンバーガーを買おう。",
+        "喫茶店でコーヒーを飲もう。",
+        "町で映画を見よう。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(5) McDonald’s: buy hamburgers"
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "How do you say: (6) club: dance?",
+       "options": [
+        "図書館で雑誌を読もう。",
+        "町で映画を見よう。",
+        "喫茶店でコーヒーを飲もう。",
+        "クラブで踊ろう。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(6) club: dance"
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "How do you say: (7) Nagano: climb a mountain?",
+       "options": [
+        "長野で山に登ろう。",
+        "喫茶店でコーヒーを飲もう。",
+        "町で映画を見よう。",
+        "図書館で雑誌を読もう。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(7) Nagano: climb a mountain"
+      },
+      {
+       "id": "e20",
+       "type": "multipleChoice",
+       "prompt": "How do you say: (8) park: have a barbecue?",
+       "options": [
+        "公園でバーベキューをしよう。",
+        "図書館で雑誌を読もう。",
+        "喫茶店でコーヒーを飲もう。",
+        "町で映画を見よう。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(8) park: have a barbecue"
+      },
+      {
+       "id": "e21",
+       "type": "multipleChoice",
+       "prompt": "What is the plan for きょうこ?",
+       "options": [
+        "きょうこさんは運動しようと思っています。",
+        "ジョンさんは朝早く起きようと思っています。",
+        "ともこさんはダイエットしようと思っています。",
+        "山下先生はたばこをやめようと思っています。"
+       ],
+       "correctIndex": 0,
+       "explanation": "きょうこ: 運動する"
+      },
+      {
+       "id": "e22",
+       "type": "multipleChoice",
+       "prompt": "What is the plan for 山下先生?",
+       "options": [
+        "山下先生はたばこをやめようと思っています。",
+        "ジョンさんは朝早く起きようと思っています。",
+        "きょうこさんは運動しようと思っています。",
+        "ともこさんはダイエットしようと思っています。"
+       ],
+       "correctIndex": 0,
+       "explanation": "山下先生: たばこをやめる"
+      },
+      {
+       "id": "e23",
+       "type": "multipleChoice",
+       "prompt": "What is the plan for ともこ?",
+       "options": [
+        "ジョンさんは朝早く起きようと思っています。",
+        "きょうこさんは運動しようと思っています。",
+        "山下先生はたばこをやめようと思っています。",
+        "ともこさんはダイエットしようと思っています。"
+       ],
+       "correctIndex": 3,
+       "explanation": "ともこ: ダイエットする"
+      },
+      {
+       "id": "e24",
+       "type": "multipleChoice",
+       "prompt": "What is the plan for ジョン?",
+       "options": [
+        "山下先生はたばこをやめようと思っています。",
+        "きょうこさんは運動しようと思っています。",
+        "ともこさんはダイエットしようと思っています。",
+        "ジョンさんは朝早く起きようと思っています。"
+       ],
+       "correctIndex": 3,
+       "explanation": "ジョン: 朝早く起きる"
+      },
+      {
+       "id": "e25",
+       "type": "multipleChoice",
+       "prompt": "What is the plan for ロバート?",
+       "options": [
+        "ともこさんはダイエットしようと思っています。",
+        "きょうこさんは運動しようと思っています。",
+        "山下先生はたばこをやめようと思っています。",
+        "ロバートさんは一日中日本語を練習しようと思っています。"
+       ],
+       "correctIndex": 3,
+       "explanation": "ロバート: 一日中日本語を練習する"
+      },
+      {
+       "id": "e26",
+       "type": "multipleChoice",
+       "prompt": "What is the plan for たけし?",
+       "options": [
+        "きょうこさんは運動しようと思っています。",
+        "たけしさんはもっと野菜を食べようと思っています。",
+        "ともこさんはダイエットしようと思っています。",
+        "山下先生はたばこをやめようと思っています。"
+       ],
+       "correctIndex": 1,
+       "explanation": "たけし: もっと野菜を食べる"
+      },
+      {
+       "id": "e27",
+       "type": "multipleChoice",
+       "prompt": "What is the plan for スー?",
+       "options": [
+        "スーさんは日本人の友だちをたくさん作ろうと思っています。",
+        "ともこさんはダイエットしようと思っています。",
+        "きょうこさんは運動しようと思っています。",
+        "山下先生はたばこをやめようと思っています。"
+       ],
+       "correctIndex": 0,
+       "explanation": "スー: 日本人の友だちをたくさん作る"
+      },
+      {
+       "id": "e28",
+       "type": "multipleChoice",
+       "prompt": "What is the plan for けん?",
+       "options": [
+        "ともこさんはダイエットしようと思っています。",
+        "山下先生はたばこをやめようと思っています。",
+        "きょうこさんは運動しようと思っています。",
+        "けんさんは仕事を探そうと思っています。"
+       ],
+       "correctIndex": 3,
+       "explanation": "けん: 仕事を探す"
+      },
+      {
+       "id": "e29",
+       "type": "multipleChoice",
+       "prompt": "What does どこに行こうか。 mean?",
+       "options": [
+        "Yeah. Then what shall we do in Kyushu?",
+        "Let’s go to Kyushu.",
+        "Where shall we go?",
+        "There are good hot springs, so let’s take a hot spring bath."
+       ],
+       "correctIndex": 2,
+       "explanation": "どこに行こうか。"
+      },
+      {
+       "id": "e30",
+       "type": "multipleChoice",
+       "prompt": "What does 九州に行こう。 mean?",
+       "options": [
+        "Yeah. Then what shall we do in Kyushu?",
+        "There are good hot springs, so let’s take a hot spring bath.",
+        "Let’s go to Kyushu.",
+        "Where shall we go?"
+       ],
+       "correctIndex": 2,
+       "explanation": "九州に行こう。"
+      },
+      {
+       "id": "e31",
+       "type": "multipleChoice",
+       "prompt": "What does うん。じゃあ、九州で何をしようか。 mean?",
+       "options": [
+        "Let’s go to Kyushu.",
+        "There are good hot springs, so let’s take a hot spring bath.",
+        "Yeah. Then what shall we do in Kyushu?",
+        "Where shall we go?"
+       ],
+       "correctIndex": 2,
+       "explanation": "うん。じゃあ、九州で何をしようか。"
+      },
+      {
+       "id": "e32",
+       "type": "multipleChoice",
+       "prompt": "What does いい温泉があるから、温泉に入ろう。 mean?",
+       "options": [
+        "There are good hot springs, so let’s take a hot spring bath.",
+        "Where shall we go?",
+        "Let’s go to Kyushu.",
+        "Yeah. Then what shall we do in Kyushu?"
+       ],
+       "correctIndex": 0,
+       "explanation": "いい温泉があるから、温泉に入ろう。"
+      },
+      {
+       "id": "e33",
+       "type": "fillBlank",
+       "prompt": "喫茶店でコーヒーを飲も___か。",
+       "options": [
+        "く",
+        "た",
+        "う",
+        "る"
+       ],
+       "correctIndex": 2,
+       "explanation": "飲もう."
+      },
+      {
+       "id": "e34",
+       "type": "fillBlank",
+       "prompt": "プールで泳ご___。",
+       "options": [
+        "く",
+        "た",
+        "う",
+        "る"
+       ],
+       "correctIndex": 2,
+       "explanation": "泳ごう."
+      },
+      {
+       "id": "e35",
+       "type": "fillBlank",
+       "prompt": "山下先生はたばこをやめよう___思っています。",
+       "options": [
+        "を",
+        "に",
+        "で",
+        "と"
+       ],
+       "correctIndex": 3,
+       "explanation": "やめようと."
+      },
+      {
+       "id": "e36",
+       "type": "fillBlank",
+       "prompt": "ともこさんはダイエットしよ___と思っています。",
+       "options": [
+        "う",
+        "た",
+        "く",
+        "る"
+       ],
+       "correctIndex": 0,
+       "explanation": "しよう."
+      },
+      {
+       "id": "e37",
+       "type": "fillBlank",
+       "prompt": "ジョンさんは朝早く起き___と思っています。",
+       "options": [
+        "よう",
+        "こう",
+        "ろう",
+        "おう"
+       ],
+       "correctIndex": 0,
+       "explanation": "起きよう."
+      },
+      {
+       "id": "e38",
+       "type": "fillBlank",
+       "prompt": "スーさんは日本人の友だちをたくさん作ろ___と思っています。",
+       "options": [
+        "う",
+        "く",
+        "た",
+        "る"
+       ],
+       "correctIndex": 0,
+       "explanation": "作ろう."
+      },
+      {
+       "id": "e39",
+       "type": "fillBlank",
+       "prompt": "けんさんは仕事を探そ___と思っています。",
+       "options": [
+        "う",
+        "た",
+        "る",
+        "く"
+       ],
+       "correctIndex": 0,
+       "explanation": "探そう."
+      }
+     ]
+    },
+    {
+     "id": "ja_181",
+     "title": "181. Practice 2: ～ておく, noun-qualifying sentences, review",
+     "subtitle": "電池を買っておきます · ホテルを予約しておきます · 韓国に住んでいる友だち · ブルース・リーが使ったヌンチャク · 田中さんにもらったコーヒー",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "III. お金を借りておきます: A. what people do in advance",
+       "body": "A famous prophet said that there will be a big earthquake next week (来週、大きい地震があります). Tell what the people will do in advance. The example is みちこ（電池を買う）→ みちこさんは電池を買っておきます。 My answers:",
+       "tables": [
+        {
+         "headers": [
+          "Cue",
+          "Sentence"
+         ],
+         "rows": [
+          [
+           "(ex) みちこ（電池を買う）",
+           "みちこさんは電池を買っておきます。"
+          ],
+          [
+           "(1) メアリー（水と食べ物を買う）",
+           "メアリーさんは水と食べ物を買っておきます。"
+          ],
+          [
+           "(2) スー（お金をおろす）",
+           "スーさんはお金をおろしておきます。"
+          ],
+          [
+           "(3) ロバート（お金を借りる）",
+           "ロバートさんはお金を借りておきます。"
+          ],
+          [
+           "(4) 山下先生（うちを売る）",
+           "山下先生はうちを売っておきます。"
+          ],
+          [
+           "(5) たけしのお母さん（保険に入る）",
+           "たけしのお母さんは保険に入っておきます。"
+          ],
+          [
+           "(6) ともこ（大きい家具を捨てる）",
+           "ともこさんは大きい家具を捨てておきます。"
+          ],
+          [
+           "(7) たけし（たくさん食べる）",
+           "たけしさんはたくさん食べておきます。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "III. B: preparing for situations",
+       "body": "What do you need to do to prepare for the following situations? The book’s example is 週末、旅行します。 → インターネットで旅館を予約しておきます。 地図で調べておきます。 ビデオカメラを借りておきます。 My answers for the four situations:",
+       "tables": [
+        {
+         "headers": [
+          "Situation",
+          "Preparation"
+         ],
+         "rows": [
+          [
+           "来週ハワイに行きます。",
+           "ホテルを予約しておきます。ガイドブックを買っておきます。"
+          ],
+          [
+           "両親が来ます。",
+           "部屋を掃除しておきます。おいしいレストランを調べておきます。"
+          ],
+          [
+           "デートをします。",
+           "レストランを予約しておきます。映画の時間を調べておきます。"
+          ],
+          [
+           "パーティーをします。",
+           "飲み物を買っておきます。友だちにメールしておきます。"
+          ]
+         ],
+         "speakCols": [
+          0,
+          1
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "インターネットで旅館を予約しておきます。",
+         "translation": "Intaanetto de ryokan o yoyaku shite okimasu. — I will reserve a Japanese inn on the Internet. (the book’s example)"
+        },
+        {
+         "text": "地図で調べておきます。",
+         "translation": "Chizu de shirabete okimasu. — I will check the map. (the book’s example)"
+        },
+        {
+         "text": "ビデオカメラを借りておきます。",
+         "translation": "Bideokamera o karite okimasu. — I will borrow a camcorder. (the book’s example)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "III. C: pair work—preparing for events",
+       "body": "Talk with your partner about what you would need to do in preparation for the following events: 今度の休みに旅行する, 週末にキャンプをする, and your own. The book’s model for 土曜日にパーティーをする:",
+       "tables": [],
+       "examples": [
+        {
+         "text": "土曜日にパーティーをしようか。",
+         "translation": "Doyoobi ni paatii o shiyooka. — Shall we have a party on Saturday? (the book’s example)"
+        },
+        {
+         "text": "いいね。じゃあ、食べ物や飲み物を買っておかなきゃいけないね。",
+         "translation": "Ii ne. Jaa, tabemono ya nomimono o katte okanakya ikenai ne. — Good. Then we have to buy food and drinks in advance. (the book’s example)"
+        },
+        {
+         "text": "そうだね。それから、部屋を掃除しておいたほうがいいよ。",
+         "translation": "Soo da ne. Sorekara, heya o sooji shite oita hoo ga ii yo. — Right. And you had better clean the room in advance. (the book’s example)"
+        },
+        {
+         "text": "じゃあ、私は部屋を掃除しておく。",
+         "translation": "Jaa, watashi wa heya o sooji shite oku. — Then I’ll clean the room. (the book’s example)"
+        },
+        {
+         "text": "じゃあ、私は飲み物を買っておく。",
+         "translation": "Jaa, watashi wa nomimono o katte oku. — Then I’ll buy the drinks. (the book’s example)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "IV. 韓国に住んでいる友だち: A. make noun phrases",
+       "body": "Look at the pictures in the photo album and make noun phrases, as in the example (a friend who lives in Korea → 韓国に住んでいる友だち). The English captions are in the book; the Japanese is mine:",
+       "tables": [
+        {
+         "headers": [
+          "Cue",
+          "Noun phrase"
+         ],
+         "rows": [
+          [
+           "a friend who lives in Korea",
+           "韓国に住んでいる友だち"
+          ],
+          [
+           "a friend who can speak Spanish",
+           "スペイン語が話せる友だち"
+          ],
+          [
+           "a watch I got from my girlfriend",
+           "彼女にもらった時計"
+          ],
+          [
+           "a friend who went to China last year",
+           "去年中国に行った友だち"
+          ],
+          [
+           "a bag I use every day",
+           "毎日使っているかばん"
+          ],
+          [
+           "a coffee shop I sometimes go to",
+           "ときどき行く喫茶店"
+          ],
+          [
+           "a temple I saw last week",
+           "先週見たお寺"
+          ],
+          [
+           "a T-shirt I bought in Hawaii",
+           "ハワイで買ったティーシャツ"
+          ],
+          [
+           "the house I live in now",
+           "今住んでいる家"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "IV. B: you are a collector of items associated with world-famous figures",
+       "body": "Show your collection to your guest. The example is これはブルース・リーが使ったヌンチャクです。 My answers:",
+       "tables": [
+        {
+         "headers": [
+          "Item",
+          "Sentence"
+         ],
+         "rows": [
+          [
+           "a nunchaku Bruce Lee used (ブルース・リー)",
+           "これはブルース・リーが使ったヌンチャクです。"
+          ],
+          [
+           "a picture Picasso drew (ピカソ)",
+           "これはピカソが描いた絵です。"
+          ],
+          [
+           "a piano Beethoven played (ベートーベン)",
+           "これはベートーベンが弾いたピアノです。"
+          ],
+          [
+           "a jacket Michael Jackson wore (マイケル・ジャクソン)",
+           "これはマイケル・ジャクソンが着たジャケットです。"
+          ],
+          [
+           "a bike Che Guevara rode (チェ・ゲバラ)",
+           "これはチェ・ゲバラが乗ったバイクです。"
+          ],
+          [
+           "a letter Gandhi wrote (ガンジー)",
+           "これはガンジーが書いた手紙です。"
+          ],
+          [
+           "a movie Kurosawa made (黒澤)",
+           "これは黒澤が作った映画です。"
+          ],
+          [
+           "a telephone Bell made (ベル)",
+           "これはベルが作った電話です。"
+          ],
+          [
+           "a cap Mao Tse-tung wore (毛沢東)",
+           "これは毛沢東がかぶった帽子です。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "IV. C and D",
+       "body": "C: talk about something you have: これは父にもらった時計です。 いい時計ですね。 D: make two sentences into one. The example is コーヒーを飲んでみました。（田中さんにもらいました）→ 田中さんにもらったコーヒーを飲んでみました。 My answers:",
+       "tables": [
+        {
+         "headers": [
+          "Sentences",
+          "Combined"
+         ],
+         "rows": [
+          [
+           "(ex) コーヒーを飲んでみました。（田中さんにもらいました）",
+           "田中さんにもらったコーヒーを飲んでみました。"
+          ],
+          [
+           "(1) 料理はおいしくないです。（妹が作りました）",
+           "妹が作った料理はおいしくないです。"
+          ],
+          [
+           "(2) 旅館に泊まりたいです。（温泉があります）",
+           "温泉がある旅館に泊まりたいです。"
+          ],
+          [
+           "(3) 人と結婚したくないです。（料理ができません）",
+           "料理ができない人と結婚したくないです。"
+          ],
+          [
+           "(4) 学生を知っていますか。（アメリカで勉強したことがあります）",
+           "アメリカで勉強したことがある学生を知っていますか。"
+          ],
+          [
+           "(5) 外国人を探しています。（日本の習慣についてよく知っています）",
+           "日本の習慣についてよく知っている外国人を探しています。"
+          ],
+          [
+           "(6) 人にもう一度会いたいです。（去年の夏に会いました）",
+           "去年の夏に会った人にもう一度会いたいです。"
+          ],
+          [
+           "(7) 人とルームメイトになりたくないです。（よくしゃべります）",
+           "よくしゃべる人とルームメイトになりたくないです。"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "これは父にもらった時計です。",
+         "translation": "Kore wa chichi ni moratta tokee desu. — This is a watch I got from my father. (the book’s example)"
+        },
+        {
+         "text": "いい時計ですね。",
+         "translation": "Ii tokee desu ne. — It’s a nice watch, isn’t it? (the book’s example)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "IV. E: pair work—ask and report",
+       "body": "Ask your partner the six questions, then report in the pattern ビーさんが最近買った物は辞書です。 The book gives the questions in English; the Japanese is mine (the first is the book’s example):",
+       "tables": [
+        {
+         "headers": [
+          "Question",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "最近何を買いましたか。",
+           "What did you buy lately?"
+          ],
+          [
+           "最近どんな映画を見ましたか。",
+           "What movie did you see recently?"
+          ],
+          [
+           "最近何をもらいましたか。",
+           "What gift have you received lately?"
+          ],
+          [
+           "どの有名人に会いたいですか。",
+           "Which celebrity do you want to meet?"
+          ],
+          [
+           "どの国に行ったことがありますか。",
+           "What country have you been to?"
+          ],
+          [
+           "高校の時、どんな音楽を聞いていましたか。",
+           "What kind of music did you listen to when you were in high school?"
+          ],
+          [
+           "初めてのデートはどこでしましたか。",
+           "Where did you have your first date?"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [
+        {
+         "text": "ビーさんが最近買った物は辞書です。",
+         "translation": "Bii-san ga saikin katta mono wa jisho desu. — The thing Mr./Ms. B bought lately is a dictionary. (the book’s example)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "IV. F: pair work—which of the three do you like most",
+       "body": "Each question has three pictures with captions (a), (b) and (c), for example どのディーブイディーが見たいですか。 友だちがくれたディーブイディーが見たいです。 The captions (from the book’s English) and my answers:",
+       "tables": [
+        {
+         "headers": [
+          "Question",
+          "Sample answers (a / b / c)"
+         ],
+         "rows": [
+          [
+           "どのレストランに行きましょうか。",
+           "先週行ったレストランに行きましょう。／友だちがアルバイトをしているレストランに行きましょう。／行ったことがないレストランに行きましょう。"
+          ],
+          [
+           "どの人と付き合いたいですか。",
+           "東京大学を卒業した人と付き合いたいです。／ポルシェを持っている人と付き合いたいです。／ピアノが弾ける人と付き合いたいです。"
+          ],
+          [
+           "どんな町に住みたいですか。",
+           "映画館がある町に住みたいです。／おいしいレストランがある町に住みたいです。／税金が高くない町に住みたいです。"
+          ],
+          [
+           "どんな家に住みたいですか。",
+           "プールがある家に住みたいです。／庭が広い家に住みたいです。／海が見える家に住みたいです。"
+          ],
+          [
+           "ルームメイトを探しています。どの人がいいですか。",
+           "料理が好きな人がいいです。／たばこを吸わない人がいいです。／ペットを飼っている人がいいです。"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "V. まとめの練習: A. guessing game",
+       "body": "Write down what you do often in Column I, then what you think your partner does often in Column II, and ask each other to see if you guessed right. The seven topics, with my questions (the book’s example is よく食べる物は、ハンバーガーですか。 はい、そうです。／いいえ、私がよく食べる物は、そばです。):",
+       "tables": [
+        {
+         "headers": [
+          "Topic",
+          "Question"
+         ],
+         "rows": [
+          [
+           "よく食べる物",
+           "よく食べる物は、ハンバーガーですか。"
+          ],
+          [
+           "よく行く所",
+           "よく行く所は、図書館ですか。"
+          ],
+          [
+           "よく作る料理",
+           "よく作る料理は、カレーですか。"
+          ],
+          [
+           "よく聞く音楽",
+           "よく聞く音楽は、ジャズですか。"
+          ],
+          [
+           "よく見るテレビ番組",
+           "よく見るテレビ番組は、ニュースですか。"
+          ],
+          [
+           "よく読む雑誌",
+           "よく読む雑誌は、ファッション雑誌ですか。"
+          ],
+          [
+           "よくするスポーツ",
+           "よくするスポーツは、テニスですか。"
+          ]
+         ],
+         "speakCols": [
+          0,
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "V. B: class activity—find someone who…",
+       "body": "Find a classmate who fits each description, then report: 来週、発表がある人は＿＿さんです。 The seven descriptions and my report sentences:",
+       "tables": [
+        {
+         "headers": [
+          "Description",
+          "Report"
+         ],
+         "rows": [
+          [
+           "来週、発表があります。",
+           "来週、発表がある人は＿＿さんです。"
+          ],
+          [
+           "保険に入っていません。",
+           "保険に入っていない人は＿＿さんです。"
+          ],
+          [
+           "旅館に泊まったことがあります。",
+           "旅館に泊まったことがある人は＿＿さんです。"
+          ],
+          [
+           "週末、一日中寝ます。",
+           "週末、一日中寝る人は＿＿さんです。"
+          ],
+          [
+           "週末、大学に行かなきゃいけません。",
+           "週末、大学に行かなきゃいけない人は＿＿さんです。"
+          ],
+          [
+           "来年も日本語を勉強しようと思っています。",
+           "来年も日本語を勉強しようと思っている人は＿＿さんです。"
+          ],
+          [
+           "彼か彼女を探しています。",
+           "彼か彼女を探している人は＿＿さんです。"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "V. C and D",
+       "body": "C: tell the class about your New Year’s resolution (新年の抱負). The book’s example: 去年は遊びすぎたから、今年は、もっと勉強しようと思っています。それから、外国語を習いたいです。 D: suppose you and your partner have just arrived at your travel destination (you choose the place); using Dialogue II as a model, decide to do something together in informal speech.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "去年は遊びすぎたから、今年は、もっと勉強しようと思っています。",
+         "translation": "Kyonen wa asobisugita kara, kotoshi wa, motto benkyoo shiyoo to omotte imasu. — I played too much last year, so this year I plan to study more. (the book’s example)"
+        },
+        {
+         "text": "それから、外国語を習いたいです。",
+         "translation": "Sorekara, gaikokugo o naraitai desu. — And I want to learn a foreign language. (the book’s example)"
+        }
+       ],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (1) メアリー（水と食べ物を買う）?",
+       "options": [
+        "メアリーさんは水と食べ物を買っておきます。",
+        "ロバートさんはお金を借りておきます。",
+        "スーさんはお金をおろしておきます。",
+        "みちこさんは電池を買っておきます。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(1) メアリー（水と食べ物を買う）"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (2) スー（お金をおろす）?",
+       "options": [
+        "ロバートさんはお金を借りておきます。",
+        "スーさんはお金をおろしておきます。",
+        "メアリーさんは水と食べ物を買っておきます。",
+        "みちこさんは電池を買っておきます。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(2) スー（お金をおろす）"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (3) ロバート（お金を借りる）?",
+       "options": [
+        "スーさんはお金をおろしておきます。",
+        "メアリーさんは水と食べ物を買っておきます。",
+        "ロバートさんはお金を借りておきます。",
+        "みちこさんは電池を買っておきます。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(3) ロバート（お金を借りる）"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (4) 山下先生（うちを売る）?",
+       "options": [
+        "スーさんはお金をおろしておきます。",
+        "メアリーさんは水と食べ物を買っておきます。",
+        "みちこさんは電池を買っておきます。",
+        "山下先生はうちを売っておきます。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(4) 山下先生（うちを売る）"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (5) たけしのお母さん（保険に入る）?",
+       "options": [
+        "メアリーさんは水と食べ物を買っておきます。",
+        "スーさんはお金をおろしておきます。",
+        "たけしのお母さんは保険に入っておきます。",
+        "みちこさんは電池を買っておきます。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(5) たけしのお母さん（保険に入る）"
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (6) ともこ（大きい家具を捨てる）?",
+       "options": [
+        "スーさんはお金をおろしておきます。",
+        "みちこさんは電池を買っておきます。",
+        "ともこさんは大きい家具を捨てておきます。",
+        "メアリーさんは水と食べ物を買っておきます。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(6) ともこ（大きい家具を捨てる）"
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for (7) たけし（たくさん食べる）?",
+       "options": [
+        "たけしさんはたくさん食べておきます。",
+        "スーさんはお金をおろしておきます。",
+        "みちこさんは電池を買っておきます。",
+        "メアリーさんは水と食べ物を買っておきます。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(7) たけし（たくさん食べる）"
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "How do you say “a friend who lives in Korea”?",
+       "options": [
+        "friend who lives in Korea",
+        "韓国に住んでいる友だち",
+        "watch I got from my girlfriend",
+        "friend who can speak Spanish"
+       ],
+       "correctIndex": 1,
+       "explanation": "a friend who lives in Korea"
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "How do you say “a friend who can speak Spanish”?",
+       "options": [
+        "friend who lives in Korea",
+        "friend who can speak Spanish",
+        "watch I got from my girlfriend",
+        "スペイン語が話せる友だち"
+       ],
+       "correctIndex": 3,
+       "explanation": "a friend who can speak Spanish"
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "How do you say “a watch I got from my girlfriend”?",
+       "options": [
+        "friend who lives in Korea",
+        "watch I got from my girlfriend",
+        "彼女にもらった時計",
+        "friend who can speak Spanish"
+       ],
+       "correctIndex": 2,
+       "explanation": "a watch I got from my girlfriend"
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "How do you say “a friend who went to China last year”?",
+       "options": [
+        "watch I got from my girlfriend",
+        "friend who lives in Korea",
+        "friend who can speak Spanish",
+        "去年中国に行った友だち"
+       ],
+       "correctIndex": 3,
+       "explanation": "a friend who went to China last year"
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "How do you say “a bag I use every day”?",
+       "options": [
+        "friend who can speak Spanish",
+        "毎日使っているかばん",
+        "watch I got from my girlfriend",
+        "friend who lives in Korea"
+       ],
+       "correctIndex": 1,
+       "explanation": "a bag I use every day"
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "How do you say “a coffee shop I sometimes go to”?",
+       "options": [
+        "watch I got from my girlfriend",
+        "friend who can speak Spanish",
+        "friend who lives in Korea",
+        "ときどき行く喫茶店"
+       ],
+       "correctIndex": 3,
+       "explanation": "a coffee shop I sometimes go to"
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "How do you say “a temple I saw last week”?",
+       "options": [
+        "friend who can speak Spanish",
+        "先週見たお寺",
+        "friend who lives in Korea",
+        "watch I got from my girlfriend"
+       ],
+       "correctIndex": 1,
+       "explanation": "a temple I saw last week"
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "How do you say “a T-shirt I bought in Hawaii”?",
+       "options": [
+        "watch I got from my girlfriend",
+        "friend who lives in Korea",
+        "ハワイで買ったティーシャツ",
+        "friend who can speak Spanish"
+       ],
+       "correctIndex": 2,
+       "explanation": "a T-shirt I bought in Hawaii"
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "How do you say “the house I live in now”?",
+       "options": [
+        "friend who can speak Spanish",
+        "friend who lives in Korea",
+        "watch I got from my girlfriend",
+        "今住んでいる家"
+       ],
+       "correctIndex": 3,
+       "explanation": "the house I live in now"
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for a nunchaku Bruce Lee used?",
+       "options": [
+        "これはマイケル・ジャクソンが着たジャケットです。",
+        "これはピカソが描いた絵です。",
+        "これはベートーベンが弾いたピアノです。",
+        "これはブルース・リーが使ったヌンチャクです。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(ex) ブルース・リー"
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for a picture Picasso drew?",
+       "options": [
+        "これはブルース・リーが使ったヌンチャクです。",
+        "これはピカソが描いた絵です。",
+        "これはベートーベンが弾いたピアノです。",
+        "これはマイケル・ジャクソンが着たジャケットです。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(1) ピカソ"
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for a piano Beethoven played?",
+       "options": [
+        "これはブルース・リーが使ったヌンチャクです。",
+        "これはピカソが描いた絵です。",
+        "これはベートーベンが弾いたピアノです。",
+        "これはマイケル・ジャクソンが着たジャケットです。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(2) ベートーベン"
+      },
+      {
+       "id": "e20",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for a jacket Michael Jackson wore?",
+       "options": [
+        "これはピカソが描いた絵です。",
+        "これはブルース・リーが使ったヌンチャクです。",
+        "これはマイケル・ジャクソンが着たジャケットです。",
+        "これはベートーベンが弾いたピアノです。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(3) マイケル・ジャクソン"
+      },
+      {
+       "id": "e21",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for a bike Che Guevara rode?",
+       "options": [
+        "これはチェ・ゲバラが乗ったバイクです。",
+        "これはピカソが描いた絵です。",
+        "これはベートーベンが弾いたピアノです。",
+        "これはブルース・リーが使ったヌンチャクです。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(4) チェ・ゲバラ"
+      },
+      {
+       "id": "e22",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for a letter Gandhi wrote?",
+       "options": [
+        "これはブルース・リーが使ったヌンチャクです。",
+        "これはガンジーが書いた手紙です。",
+        "これはピカソが描いた絵です。",
+        "これはベートーベンが弾いたピアノです。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(5) ガンジー"
+      },
+      {
+       "id": "e23",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for a movie Kurosawa made?",
+       "options": [
+        "これはピカソが描いた絵です。",
+        "これは黒澤が作った映画です。",
+        "これはブルース・リーが使ったヌンチャクです。",
+        "これはベートーベンが弾いたピアノです。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(6) 黒澤"
+      },
+      {
+       "id": "e24",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for a telephone Bell made?",
+       "options": [
+        "これはブルース・リーが使ったヌンチャクです。",
+        "これはピカソが描いた絵です。",
+        "これはベートーベンが弾いたピアノです。",
+        "これはベルが作った電話です。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(7) ベル"
+      },
+      {
+       "id": "e25",
+       "type": "multipleChoice",
+       "prompt": "What is the sentence for a cap Mao Tse-tung wore?",
+       "options": [
+        "これはブルース・リーが使ったヌンチャクです。",
+        "これはベートーベンが弾いたピアノです。",
+        "これは毛沢東がかぶった帽子です。",
+        "これはピカソが描いた絵です。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(8) 毛沢東"
+      },
+      {
+       "id": "e26",
+       "type": "multipleChoice",
+       "prompt": "How do you combine: (ex) コーヒーを飲んでみました。（田中さんにもらいました）",
+       "options": [
+        "妹が作った料理はおいしくないです。",
+        "田中さんにもらったコーヒーを飲んでみました。",
+        "温泉がある旅館に泊まりたいです。",
+        "料理ができない人と結婚したくないです。"
+       ],
+       "correctIndex": 1,
+       "explanation": "(ex) コーヒーを飲んでみました。（田中さんにもらいました）"
+      },
+      {
+       "id": "e27",
+       "type": "multipleChoice",
+       "prompt": "How do you combine: (1) 料理はおいしくないです。（妹が作りました）",
+       "options": [
+        "温泉がある旅館に泊まりたいです。",
+        "田中さんにもらったコーヒーを飲んでみました。",
+        "妹が作った料理はおいしくないです。",
+        "料理ができない人と結婚したくないです。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(1) 料理はおいしくないです。（妹が作りました）"
+      },
+      {
+       "id": "e28",
+       "type": "multipleChoice",
+       "prompt": "How do you combine: (2) 旅館に泊まりたいです。（温泉があります）",
+       "options": [
+        "料理ができない人と結婚したくないです。",
+        "妹が作った料理はおいしくないです。",
+        "田中さんにもらったコーヒーを飲んでみました。",
+        "温泉がある旅館に泊まりたいです。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(2) 旅館に泊まりたいです。（温泉があります）"
+      },
+      {
+       "id": "e29",
+       "type": "multipleChoice",
+       "prompt": "How do you combine: (3) 人と結婚したくないです。（料理ができません）",
+       "options": [
+        "料理ができない人と結婚したくないです。",
+        "温泉がある旅館に泊まりたいです。",
+        "妹が作った料理はおいしくないです。",
+        "田中さんにもらったコーヒーを飲んでみました。"
+       ],
+       "correctIndex": 0,
+       "explanation": "(3) 人と結婚したくないです。（料理ができません）"
+      },
+      {
+       "id": "e30",
+       "type": "multipleChoice",
+       "prompt": "How do you combine: (4) 学生を知っていますか。（アメリカで勉強したことがあります）",
+       "options": [
+        "妹が作った料理はおいしくないです。",
+        "田中さんにもらったコーヒーを飲んでみました。",
+        "温泉がある旅館に泊まりたいです。",
+        "アメリカで勉強したことがある学生を知っていますか。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(4) 学生を知っていますか。（アメリカで勉強したことがあります）"
+      },
+      {
+       "id": "e31",
+       "type": "multipleChoice",
+       "prompt": "How do you combine: (5) 外国人を探しています。（日本の習慣についてよく知っています）",
+       "options": [
+        "妹が作った料理はおいしくないです。",
+        "温泉がある旅館に泊まりたいです。",
+        "田中さんにもらったコーヒーを飲んでみました。",
+        "日本の習慣についてよく知っている外国人を探しています。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(5) 外国人を探しています。（日本の習慣についてよく知っています）"
+      },
+      {
+       "id": "e32",
+       "type": "multipleChoice",
+       "prompt": "How do you combine: (6) 人にもう一度会いたいです。（去年の夏に会いました）",
+       "options": [
+        "温泉がある旅館に泊まりたいです。",
+        "妹が作った料理はおいしくないです。",
+        "去年の夏に会った人にもう一度会いたいです。",
+        "田中さんにもらったコーヒーを飲んでみました。"
+       ],
+       "correctIndex": 2,
+       "explanation": "(6) 人にもう一度会いたいです。（去年の夏に会いました）"
+      },
+      {
+       "id": "e33",
+       "type": "multipleChoice",
+       "prompt": "How do you combine: (7) 人とルームメイトになりたくないです。（よくしゃべります）",
+       "options": [
+        "田中さんにもらったコーヒーを飲んでみました。",
+        "温泉がある旅館に泊まりたいです。",
+        "妹が作った料理はおいしくないです。",
+        "よくしゃべる人とルームメイトになりたくないです。"
+       ],
+       "correctIndex": 3,
+       "explanation": "(7) 人とルームメイトになりたくないです。（よくしゃべります）"
+      },
+      {
+       "id": "e34",
+       "type": "multipleChoice",
+       "prompt": "What does 最近何を買いましたか。 mean?",
+       "options": [
+        "What gift have you received lately?",
+        "Which celebrity do you want to meet?",
+        "What did you buy lately?",
+        "What movie did you see recently?"
+       ],
+       "correctIndex": 2,
+       "explanation": "最近何を買いましたか。"
+      },
+      {
+       "id": "e35",
+       "type": "multipleChoice",
+       "prompt": "What does 最近どんな映画を見ましたか。 mean?",
+       "options": [
+        "What movie did you see recently?",
+        "Which celebrity do you want to meet?",
+        "What did you buy lately?",
+        "What gift have you received lately?"
+       ],
+       "correctIndex": 0,
+       "explanation": "最近どんな映画を見ましたか。"
+      },
+      {
+       "id": "e36",
+       "type": "multipleChoice",
+       "prompt": "What does 最近何をもらいましたか。 mean?",
+       "options": [
+        "What did you buy lately?",
+        "What movie did you see recently?",
+        "Which celebrity do you want to meet?",
+        "What gift have you received lately?"
+       ],
+       "correctIndex": 3,
+       "explanation": "最近何をもらいましたか。"
+      },
+      {
+       "id": "e37",
+       "type": "multipleChoice",
+       "prompt": "What does どの有名人に会いたいですか。 mean?",
+       "options": [
+        "Which celebrity do you want to meet?",
+        "What gift have you received lately?",
+        "What movie did you see recently?",
+        "What did you buy lately?"
+       ],
+       "correctIndex": 0,
+       "explanation": "どの有名人に会いたいですか。"
+      },
+      {
+       "id": "e38",
+       "type": "multipleChoice",
+       "prompt": "What does どの国に行ったことがありますか。 mean?",
+       "options": [
+        "What gift have you received lately?",
+        "What country have you been to?",
+        "What did you buy lately?",
+        "What movie did you see recently?"
+       ],
+       "correctIndex": 1,
+       "explanation": "どの国に行ったことがありますか。"
+      },
+      {
+       "id": "e39",
+       "type": "multipleChoice",
+       "prompt": "What does 高校の時、どんな音楽を聞いていましたか。 mean?",
+       "options": [
+        "What gift have you received lately?",
+        "What did you buy lately?",
+        "What movie did you see recently?",
+        "What kind of music did you listen to when you were in high school?"
+       ],
+       "correctIndex": 3,
+       "explanation": "高校の時、どんな音楽を聞いていましたか。"
+      },
+      {
+       "id": "e40",
+       "type": "multipleChoice",
+       "prompt": "What does 初めてのデートはどこでしましたか。 mean?",
+       "options": [
+        "What gift have you received lately?",
+        "Where did you have your first date?",
+        "What did you buy lately?",
+        "What movie did you see recently?"
+       ],
+       "correctIndex": 1,
+       "explanation": "初めてのデートはどこでしましたか。"
+      },
+      {
+       "id": "e41",
+       "type": "multipleChoice",
+       "prompt": "What does 土曜日にパーティーをしようか。 mean?",
+       "options": [
+        "Shall we have a party on Saturday? (the book’s example)",
+        "What movie did you see recently?",
+        "What gift have you received lately?",
+        "What did you buy lately?"
+       ],
+       "correctIndex": 0,
+       "explanation": "土曜日にパーティーをしようか。"
+      },
+      {
+       "id": "e42",
+       "type": "multipleChoice",
+       "prompt": "What does いいね。じゃあ、食べ物や飲み物を買っておかなきゃいけないね。 mean?",
+       "options": [
+        "What movie did you see recently?",
+        "What did you buy lately?",
+        "What gift have you received lately?",
+        "Good. Then we have to buy food and drinks in advance. (the book’s example)"
+       ],
+       "correctIndex": 3,
+       "explanation": "いいね。じゃあ、食べ物や飲み物を買っておかなきゃいけないね。"
+      },
+      {
+       "id": "e43",
+       "type": "multipleChoice",
+       "prompt": "What does そうだね。それから、部屋を掃除しておいたほうがいいよ。 mean?",
+       "options": [
+        "What movie did you see recently?",
+        "What did you buy lately?",
+        "What gift have you received lately?",
+        "Right. And you had better clean the room in advance. (the book’s example)"
+       ],
+       "correctIndex": 3,
+       "explanation": "そうだね。それから、部屋を掃除しておいたほうがいいよ。"
+      },
+      {
+       "id": "e44",
+       "type": "multipleChoice",
+       "prompt": "What does じゃあ、私は部屋を掃除しておく。 mean?",
+       "options": [
+        "What gift have you received lately?",
+        "What movie did you see recently?",
+        "What did you buy lately?",
+        "Then I’ll clean the room. (the book’s example)"
+       ],
+       "correctIndex": 3,
+       "explanation": "じゃあ、私は部屋を掃除しておく。"
+      },
+      {
+       "id": "e45",
+       "type": "multipleChoice",
+       "prompt": "What does じゃあ、私は飲み物を買っておく。 mean?",
+       "options": [
+        "What gift have you received lately?",
+        "What movie did you see recently?",
+        "What did you buy lately?",
+        "Then I’ll buy the drinks. (the book’s example)"
+       ],
+       "correctIndex": 3,
+       "explanation": "じゃあ、私は飲み物を買っておく。"
+      },
+      {
+       "id": "e46",
+       "type": "fillBlank",
+       "prompt": "みちこさんは電池を買って___。",
+       "options": [
+        "おきます",
+        "あげます",
+        "みます",
+        "しまいます"
+       ],
+       "correctIndex": 0,
+       "explanation": "ておきます."
+      },
+      {
+       "id": "e47",
+       "type": "fillBlank",
+       "prompt": "スーさんはお金を下ろして___。",
+       "options": [
+        "あげます",
+        "おきます",
+        "みます",
+        "しまいます"
+       ],
+       "correctIndex": 1,
+       "explanation": "ておきます."
+      },
+      {
+       "id": "e48",
+       "type": "fillBlank",
+       "prompt": "これはブルース・リー___使ったヌンチャクです。",
+       "options": [
+        "を",
+        "は",
+        "に",
+        "が"
+       ],
+       "correctIndex": 3,
+       "explanation": "が in qualifier."
+      },
+      {
+       "id": "e49",
+       "type": "fillBlank",
+       "prompt": "これはピカソが___絵です。 (drew)",
+       "options": [
+        "描く",
+        "描いた",
+        "描き",
+        "描いて"
+       ],
+       "correctIndex": 1,
+       "explanation": "描いた."
+      },
+      {
+       "id": "e50",
+       "type": "fillBlank",
+       "prompt": "田中さんに___コーヒーを飲んでみました。 (received)",
+       "options": [
+        "もらう",
+        "もらって",
+        "もらい",
+        "もらった"
+       ],
+       "correctIndex": 3,
+       "explanation": "もらった."
+      },
+      {
+       "id": "e51",
+       "type": "fillBlank",
+       "prompt": "妹が___料理はおいしくないです。 (made)",
+       "options": [
+        "作った",
+        "作り",
+        "作る",
+        "作って"
+       ],
+       "correctIndex": 0,
+       "explanation": "作った."
+      },
+      {
+       "id": "e52",
+       "type": "fillBlank",
+       "prompt": "料理が___人と結婚したくないです。 (can’t)",
+       "options": [
+        "できません",
+        "できる",
+        "できない",
+        "できなくて"
+       ],
+       "correctIndex": 2,
+       "explanation": "できない."
+      },
+      {
+       "id": "e53",
+       "type": "fillBlank",
+       "prompt": "ハワイで買っ___ティーシャツ",
+       "options": [
+        "た",
+        "て",
+        "ます",
+        "い"
+       ],
+       "correctIndex": 0,
+       "explanation": "買ったティーシャツ."
       }
      ]
     }
