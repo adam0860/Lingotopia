@@ -1373,6 +1373,7 @@ left out" card.
 | 12. Genki I, Lesson 9: Kabuki | 81-87 | dialogue, vocabulary (incl. the つ numbers), past tense short forms, qualifying nouns with verbs, まだ〜ていません, から, colours, Japanese traditional culture, fast-food menu, drills |
 | 13. Genki I, Lesson 10: Winter Vacation Plans | 88-95 | dialogues (home and travel agency), vocabulary, comparisons (のほうが … より, いちばん), の (one), つもり, なる, どこかに／どこにも, で (means), how long it takes, culture note on Japanese public transportation, at the station, drills |
 | 14. Genki I, Lesson 11: After the Vacation | 96-103 | dialogues, vocabulary (incl. occupations), たい and たがる, たり〜たりする, ことがある, や, は in negatives, だけ, に, ドライブ and 夢, the お正月 culture note, useful expressions in the Japanese class, drills |
+| 15. Genki I, Lesson 12: Feeling Ill | 104-112 | dialogues, vocabulary, ～んです, ～すぎる, ～ほうがいい, ～ので, ～なければいけません／なきゃいけません, ～でしょう, the Japanese climate culture note, health and illness expressions and clinic vocabulary, drills |
 
 No native speaker has reviewed these lessons. `test/japanese_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
 and that spoken cells and example lines are Japanese text. It has not been run (no Flutter SDK here); the Python build runs the same checks.
