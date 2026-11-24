@@ -1384,6 +1384,7 @@ left out" card.
 | 23. Genki I, Reading & Writing 10: The Folktale Kasajizo | 141-145 | the kanji 住 正 年 売 買 町 長 道 雪 立 自 夜 朝 持, opposites and blanks, the folktale かさじぞう with the book's vocabulary, picture order and true/false, and holiday writing practice |
 | 24. Genki I, Reading & Writing 11: Looking for Friends | 146-150 | the kanji 手 紙 好 近 明 病 院 映 画 歌 市 所 勉 強 有 旅, parts and compounds, the four 友だち募集 personal ads (who is it, questions) and Eva's reply letter with a sample ad |
 | 25. Genki I, Reading & Writing 12: Tanabata Festival | 151-155 | the kanji 昔 神 早 起 牛 使 働 連 別 度 赤 青 色 and 々, matching and components, the Tanabata story of Orihime and Hikoboshi with the book's vocabulary and questions, and the five-wishes writing practice |
+| 26. Genki II, Lesson 13: Looking for a Part-time Job | 156-163 | the three dialogues (phoning a restaurant, the interview, Professor Yamashita), vocabulary, potential verbs, ～し reasons, ～そうです, ～てみる, なら, how often (一週間に三回), the culture note on 年号 and 干支, banking expressions, instrument verbs, and two practice lessons |
 
 No native speaker has reviewed these lessons. `test/japanese_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
 and that spoken cells and example lines are Japanese text. It has not been run (no Flutter SDK here); the Python build runs the same checks.
