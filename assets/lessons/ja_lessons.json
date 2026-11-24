@@ -7140,7 +7140,7 @@
        "examples": [
         {
          "text": "たなか ゆうこです。 かいしゃいんです。",
-         "translation": "Tanaka Yuuko desu. Kaishai n desu. — Tanaka Yuuko: an office worker."
+         "translation": "Tanaka Yuuko desu. Kaishain desu. — Tanaka Yuuko: an office worker."
         },
         {
          "text": "はらだ りょうです。 だいがくせいです。 せんこうは れきしです。",
@@ -23912,7 +23912,7 @@
        "examples": [
         {
          "text": "おとうさんは かいしゃいんです。",
-         "translation": "Otoosan wa kaishai n desu. — Her father is an office worker."
+         "translation": "Otoosan wa kaishain desu. — Her father is an office worker."
         },
         {
          "text": "おとうさんは よんじゅうはっさいです。",
@@ -43608,7 +43608,7 @@
           [
            "二時間",
            "にじかん",
-           "Ni jikan"
+           "Nijikan"
           ],
           [
            "三時間",
@@ -90246,7 +90246,7 @@
            "読んだ",
            "よまなかった",
            "読まなかった",
-           "Yon da",
+           "Yonda",
            "to read"
           ],
           [
@@ -90276,7 +90276,7 @@
            "呼んだ",
            "よばなかった",
            "呼ばなかった",
-           "Yon da",
+           "Yonda",
            "to call"
           ],
           [
@@ -148070,6 +148070,8314 @@
        ],
        "correctIndex": 3,
        "explanation": "思いました."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "unit_22",
+   "title": "Genki I, Reading & Writing 9: Sue’s Diary",
+   "lessons": [
+    {
+     "id": "ja_136",
+     "title": "136. Kanji: 午 後 前 名 白 雨 書 友",
+     "subtitle": "午 · 後 · 前 · 名 · 白 · 雨 · 書 · 友 · morning and afternoon, names, rain, writing",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "Sue’s Diary: fifteen new kanji",
+       "body": "Lesson 9 of the Reading and Writing section (「スーさんの日記」, Sue’s Diary) teaches 午 後 前 名 白 雨 書 友 間 家 話 少 古 知 来. The reading practice is Sue’s diary about visiting Mary’s host family, and an e-mail she writes to thank them. The first eight kanji are here.",
+       "tables": [],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Kanji: 午 後 前",
+       "body": "▶ is the on-yomi (the reading borrowed from Chinese) and ▷ is the kun-yomi (the native Japanese reading). The reading of each word is spoken when you tap it.",
+       "tables": [
+        {
+         "headers": [
+          "Kanji",
+          "Meaning",
+          "On-yomi ▶",
+          "Kun-yomi ▷",
+          "Strokes"
+         ],
+         "rows": [
+          [
+           "午",
+           "noon",
+           "ご",
+           "-",
+           "4"
+          ],
+          [
+           "後",
+           "after",
+           "ご",
+           "あと・うし",
+           "9"
+          ],
+          [
+           "前",
+           "before",
+           "ぜん",
+           "まえ",
+           "9"
+          ]
+         ],
+         "speakCols": []
+        },
+        {
+         "headers": [
+          "Reading",
+          "Word",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "ごぜん",
+           "午前",
+           "Gozen",
+           "A.M."
+          ],
+          [
+           "ごぜんちゅう",
+           "午前中",
+           "Gozenchuu",
+           "in the morning"
+          ],
+          [
+           "しょうご",
+           "正午",
+           "Shoogo",
+           "noon"
+          ],
+          [
+           "ごご",
+           "午後",
+           "Gogo",
+           "P.M., in the afternoon"
+          ],
+          [
+           "のあと",
+           "～の後",
+           "No ato",
+           "after …"
+          ],
+          [
+           "あとで",
+           "後で",
+           "Ato de",
+           "later"
+          ],
+          [
+           "うしろ",
+           "後ろ",
+           "Ushiro",
+           "back, behind"
+          ],
+          [
+           "さいごに",
+           "最後に",
+           "Saigo ni",
+           "lastly"
+          ],
+          [
+           "まえ",
+           "前",
+           "Mae",
+           "before, front"
+          ],
+          [
+           "なまえ",
+           "名前",
+           "Namae",
+           "name"
+          ],
+          [
+           "まえうり",
+           "前売り",
+           "Maeuri",
+           "advance sale"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Kanji: 名 白 雨",
+       "body": "▶ is the on-yomi (the reading borrowed from Chinese) and ▷ is the kun-yomi (the native Japanese reading). The reading of each word is spoken when you tap it.",
+       "tables": [
+        {
+         "headers": [
+          "Kanji",
+          "Meaning",
+          "On-yomi ▶",
+          "Kun-yomi ▷",
+          "Strokes"
+         ],
+         "rows": [
+          [
+           "名",
+           "name",
+           "めい",
+           "な",
+           "6"
+          ],
+          [
+           "白",
+           "white",
+           "はく",
+           "しろ",
+           "5"
+          ],
+          [
+           "雨",
+           "rain",
+           "う",
+           "あめ",
+           "8"
+          ]
+         ],
+         "speakCols": []
+        },
+        {
+         "headers": [
+          "Reading",
+          "Word",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "ゆうめいな",
+           "有名な",
+           "Yuumee na",
+           "famous"
+          ],
+          [
+           "めいし",
+           "名刺",
+           "Meeshi",
+           "name card"
+          ],
+          [
+           "しめい",
+           "氏名",
+           "Shimei",
+           "full name"
+          ],
+          [
+           "ちめい",
+           "地名",
+           "Chimee",
+           "place name"
+          ],
+          [
+           "しろい",
+           "白い",
+           "Shiroi",
+           "white"
+          ],
+          [
+           "はくし",
+           "白紙",
+           "Hakushi",
+           "blank sheet"
+          ],
+          [
+           "しろ",
+           "白",
+           "Shiro",
+           "white color"
+          ],
+          [
+           "はくちょう",
+           "白鳥",
+           "Hakuchoo",
+           "swan"
+          ],
+          [
+           "あめ",
+           "雨",
+           "Ame",
+           "rain"
+          ],
+          [
+           "うき",
+           "雨期",
+           "Uki",
+           "rainy season"
+          ],
+          [
+           "つゆ",
+           "梅雨",
+           "Tsuyu",
+           "rainy season"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Kanji: 書 友",
+       "body": "▶ is the on-yomi (the reading borrowed from Chinese) and ▷ is the kun-yomi (the native Japanese reading). The reading of each word is spoken when you tap it.",
+       "tables": [
+        {
+         "headers": [
+          "Kanji",
+          "Meaning",
+          "On-yomi ▶",
+          "Kun-yomi ▷",
+          "Strokes"
+         ],
+         "rows": [
+          [
+           "書",
+           "to write",
+           "しょ",
+           "か",
+           "10"
+          ],
+          [
+           "友",
+           "friend",
+           "ゆう",
+           "とも",
+           "4"
+          ]
+         ],
+         "speakCols": []
+        },
+        {
+         "headers": [
+          "Reading",
+          "Word",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "かく",
+           "書く",
+           "Kaku",
+           "to write"
+          ],
+          [
+           "じしょ",
+           "辞書",
+           "Jisho",
+           "dictionary"
+          ],
+          [
+           "きょうかしょ",
+           "教科書",
+           "Kyookasho",
+           "textbook"
+          ],
+          [
+           "としょかん",
+           "図書館",
+           "Toshokan",
+           "library"
+          ],
+          [
+           "ともだち",
+           "友だち",
+           "Tomodachi",
+           "friend"
+          ],
+          [
+           "しんゆう",
+           "親友",
+           "Shin'yuu",
+           "best friend"
+          ],
+          [
+           "ゆうじん",
+           "友人",
+           "Yuujin",
+           "friend"
+          ],
+          [
+           "ゆうじょう",
+           "友情",
+           "Yuujoo",
+           "friendship"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "A.M., P.M. and time words",
+       "body": "午前 (ごぜん) is A.M. and 午後 (ごご) is P.M. The kanji 前 and 後 mean “before” and “after”. In time and place expressions: 前 (まえ) is “front; before” and 後 (うしろ) is “behind”, while ～の後 (のあと) is “after …”.",
+       "tables": [
+        {
+         "headers": [
+          "Reading",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "ごぜん",
+           "午前",
+           "Gozen",
+           "A.M."
+          ],
+          [
+           "ごご",
+           "午後",
+           "Gogo",
+           "P.M.; afternoon"
+          ],
+          [
+           "ごぜんちゅう",
+           "午前中",
+           "Gozenchuu",
+           "in the morning"
+          ],
+          [
+           "しょうご",
+           "正午",
+           "Shoogo",
+           "noon"
+          ],
+          [
+           "なまえ",
+           "名前",
+           "Namae",
+           "name"
+          ],
+          [
+           "しろい",
+           "白い",
+           "Shiroi",
+           "white"
+          ],
+          [
+           "あめ",
+           "雨",
+           "Ame",
+           "rain"
+          ],
+          [
+           "かく",
+           "書く",
+           "Kaku",
+           "to write"
+          ],
+          [
+           "ともだち",
+           "友だち",
+           "Tomodachi",
+           "friend"
+          ],
+          [
+           "あとで",
+           "後で",
+           "Ato de",
+           "later"
+          ],
+          [
+           "さいごに",
+           "最後に",
+           "Saigo ni",
+           "lastly"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does 午 mean?",
+       "options": [
+        "name",
+        "before",
+        "after",
+        "noon"
+       ],
+       "correctIndex": 3,
+       "explanation": "午 means “noon”."
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “noon”?",
+       "options": [
+        "名",
+        "前",
+        "午",
+        "後"
+       ],
+       "correctIndex": 2,
+       "explanation": "noon is 午."
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 午 have?",
+       "options": [
+        "4",
+        "6",
+        "5",
+        "3"
+       ],
+       "correctIndex": 0,
+       "explanation": "午 is written with 4 strokes."
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does 後 mean?",
+       "options": [
+        "before",
+        "white",
+        "name",
+        "after"
+       ],
+       "correctIndex": 3,
+       "explanation": "後 means “after”."
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “after”?",
+       "options": [
+        "前",
+        "白",
+        "名",
+        "後"
+       ],
+       "correctIndex": 3,
+       "explanation": "after is 後."
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 後 have?",
+       "options": [
+        "9",
+        "10",
+        "11",
+        "8"
+       ],
+       "correctIndex": 0,
+       "explanation": "後 is written with 9 strokes."
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What does 前 mean?",
+       "options": [
+        "name",
+        "before",
+        "white",
+        "rain"
+       ],
+       "correctIndex": 1,
+       "explanation": "前 means “before”."
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “before”?",
+       "options": [
+        "名",
+        "雨",
+        "前",
+        "白"
+       ],
+       "correctIndex": 2,
+       "explanation": "before is 前."
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 前 have?",
+       "options": [
+        "10",
+        "11",
+        "9",
+        "8"
+       ],
+       "correctIndex": 2,
+       "explanation": "前 is written with 9 strokes."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What does 名 mean?",
+       "options": [
+        "name",
+        "rain",
+        "white",
+        "to write"
+       ],
+       "correctIndex": 0,
+       "explanation": "名 means “name”."
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “name”?",
+       "options": [
+        "白",
+        "雨",
+        "名",
+        "書"
+       ],
+       "correctIndex": 2,
+       "explanation": "name is 名."
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 名 have?",
+       "options": [
+        "7",
+        "5",
+        "8",
+        "6"
+       ],
+       "correctIndex": 3,
+       "explanation": "名 is written with 6 strokes."
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "What does 白 mean?",
+       "options": [
+        "white",
+        "friend",
+        "rain",
+        "to write"
+       ],
+       "correctIndex": 0,
+       "explanation": "白 means “white”."
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “white”?",
+       "options": [
+        "友",
+        "白",
+        "書",
+        "雨"
+       ],
+       "correctIndex": 1,
+       "explanation": "white is 白."
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 白 have?",
+       "options": [
+        "7",
+        "4",
+        "5",
+        "6"
+       ],
+       "correctIndex": 2,
+       "explanation": "白 is written with 5 strokes."
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "What does 雨 mean?",
+       "options": [
+        "noon",
+        "rain",
+        "to write",
+        "friend"
+       ],
+       "correctIndex": 1,
+       "explanation": "雨 means “rain”."
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “rain”?",
+       "options": [
+        "雨",
+        "友",
+        "午",
+        "書"
+       ],
+       "correctIndex": 0,
+       "explanation": "rain is 雨."
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 雨 have?",
+       "options": [
+        "7",
+        "8",
+        "10",
+        "9"
+       ],
+       "correctIndex": 1,
+       "explanation": "雨 is written with 8 strokes."
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "What does 書 mean?",
+       "options": [
+        "noon",
+        "to write",
+        "after",
+        "friend"
+       ],
+       "correctIndex": 1,
+       "explanation": "書 means “to write”."
+      },
+      {
+       "id": "e20",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “to write”?",
+       "options": [
+        "午",
+        "後",
+        "友",
+        "書"
+       ],
+       "correctIndex": 3,
+       "explanation": "to write is 書."
+      },
+      {
+       "id": "e21",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 書 have?",
+       "options": [
+        "12",
+        "9",
+        "11",
+        "10"
+       ],
+       "correctIndex": 3,
+       "explanation": "書 is written with 10 strokes."
+      },
+      {
+       "id": "e22",
+       "type": "multipleChoice",
+       "prompt": "What does 友 mean?",
+       "options": [
+        "before",
+        "after",
+        "friend",
+        "noon"
+       ],
+       "correctIndex": 2,
+       "explanation": "友 means “friend”."
+      },
+      {
+       "id": "e23",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “friend”?",
+       "options": [
+        "友",
+        "午",
+        "前",
+        "後"
+       ],
+       "correctIndex": 0,
+       "explanation": "friend is 友."
+      },
+      {
+       "id": "e24",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 友 have?",
+       "options": [
+        "3",
+        "6",
+        "5",
+        "4"
+       ],
+       "correctIndex": 3,
+       "explanation": "友 is written with 4 strokes."
+      },
+      {
+       "id": "e25",
+       "type": "multipleChoice",
+       "prompt": "How do you read 午前?",
+       "options": [
+        "しょうご",
+        "ごご",
+        "ごぜんちゅう",
+        "ごぜん"
+       ],
+       "correctIndex": 3,
+       "explanation": "午前 is read ごぜん (Gozen): A.M.."
+      },
+      {
+       "id": "e26",
+       "type": "multipleChoice",
+       "prompt": "Which word means “A.M.”?",
+       "options": [
+        "午後",
+        "午前",
+        "午前中",
+        "正午"
+       ],
+       "correctIndex": 1,
+       "explanation": "A.M. is 午前 (ごぜん)."
+      },
+      {
+       "id": "e27",
+       "type": "multipleChoice",
+       "prompt": "How do you read 午前中?",
+       "options": [
+        "ごぜんちゅう",
+        "しょうご",
+        "のあと",
+        "ごご"
+       ],
+       "correctIndex": 0,
+       "explanation": "午前中 is read ごぜんちゅう (Gozenchuu): in the morning."
+      },
+      {
+       "id": "e28",
+       "type": "multipleChoice",
+       "prompt": "Which word means “in the morning”?",
+       "options": [
+        "～の後",
+        "午前中",
+        "午後",
+        "正午"
+       ],
+       "correctIndex": 1,
+       "explanation": "in the morning is 午前中 (ごぜんちゅう)."
+      },
+      {
+       "id": "e29",
+       "type": "multipleChoice",
+       "prompt": "How do you read 正午?",
+       "options": [
+        "ごご",
+        "のあと",
+        "しょうご",
+        "あとで"
+       ],
+       "correctIndex": 2,
+       "explanation": "正午 is read しょうご (Shoogo): noon."
+      },
+      {
+       "id": "e30",
+       "type": "multipleChoice",
+       "prompt": "Which word means “noon”?",
+       "options": [
+        "午後",
+        "後で",
+        "正午",
+        "～の後"
+       ],
+       "correctIndex": 2,
+       "explanation": "noon is 正午 (しょうご)."
+      },
+      {
+       "id": "e31",
+       "type": "multipleChoice",
+       "prompt": "How do you read 午後?",
+       "options": [
+        "あとで",
+        "うしろ",
+        "ごご",
+        "のあと"
+       ],
+       "correctIndex": 2,
+       "explanation": "午後 is read ごご (Gogo): P.M., in the afternoon."
+      },
+      {
+       "id": "e32",
+       "type": "multipleChoice",
+       "prompt": "Which word means “P.M., in the afternoon”?",
+       "options": [
+        "後ろ",
+        "午後",
+        "後で",
+        "～の後"
+       ],
+       "correctIndex": 1,
+       "explanation": "P.M., in the afternoon is 午後 (ごご)."
+      },
+      {
+       "id": "e33",
+       "type": "multipleChoice",
+       "prompt": "How do you read ～の後?",
+       "options": [
+        "さいごに",
+        "あとで",
+        "のあと",
+        "うしろ"
+       ],
+       "correctIndex": 2,
+       "explanation": "～の後 is read のあと (No ato): after …."
+      },
+      {
+       "id": "e34",
+       "type": "multipleChoice",
+       "prompt": "Which word means “after …”?",
+       "options": [
+        "後で",
+        "後ろ",
+        "最後に",
+        "～の後"
+       ],
+       "correctIndex": 3,
+       "explanation": "after … is ～の後 (のあと)."
+      },
+      {
+       "id": "e35",
+       "type": "multipleChoice",
+       "prompt": "How do you read 後で?",
+       "options": [
+        "うしろ",
+        "あとで",
+        "まえ",
+        "さいごに"
+       ],
+       "correctIndex": 1,
+       "explanation": "後で is read あとで (Ato de): later."
+      },
+      {
+       "id": "e36",
+       "type": "multipleChoice",
+       "prompt": "Which word means “later”?",
+       "options": [
+        "後で",
+        "最後に",
+        "前",
+        "後ろ"
+       ],
+       "correctIndex": 0,
+       "explanation": "later is 後で (あとで)."
+      },
+      {
+       "id": "e37",
+       "type": "multipleChoice",
+       "prompt": "How do you read 後ろ?",
+       "options": [
+        "まえ",
+        "なまえ",
+        "うしろ",
+        "さいごに"
+       ],
+       "correctIndex": 2,
+       "explanation": "後ろ is read うしろ (Ushiro): back, behind."
+      },
+      {
+       "id": "e38",
+       "type": "multipleChoice",
+       "prompt": "Which word means “back, behind”?",
+       "options": [
+        "名前",
+        "後ろ",
+        "最後に",
+        "前"
+       ],
+       "correctIndex": 1,
+       "explanation": "back, behind is 後ろ (うしろ)."
+      },
+      {
+       "id": "e39",
+       "type": "multipleChoice",
+       "prompt": "How do you read 最後に?",
+       "options": [
+        "まえうり",
+        "なまえ",
+        "さいごに",
+        "まえ"
+       ],
+       "correctIndex": 2,
+       "explanation": "最後に is read さいごに (Saigo ni): lastly."
+      },
+      {
+       "id": "e40",
+       "type": "multipleChoice",
+       "prompt": "Which word means “lastly”?",
+       "options": [
+        "最後に",
+        "前",
+        "前売り",
+        "名前"
+       ],
+       "correctIndex": 0,
+       "explanation": "lastly is 最後に (さいごに)."
+      },
+      {
+       "id": "e41",
+       "type": "multipleChoice",
+       "prompt": "How do you read 前?",
+       "options": [
+        "まえうり",
+        "なまえ",
+        "まえ",
+        "ゆうめいな"
+       ],
+       "correctIndex": 2,
+       "explanation": "前 is read まえ (Mae): before, front."
+      },
+      {
+       "id": "e42",
+       "type": "multipleChoice",
+       "prompt": "Which word means “before, front”?",
+       "options": [
+        "名前",
+        "前",
+        "有名な",
+        "前売り"
+       ],
+       "correctIndex": 1,
+       "explanation": "before, front is 前 (まえ)."
+      },
+      {
+       "id": "e43",
+       "type": "multipleChoice",
+       "prompt": "How do you read 名前?",
+       "options": [
+        "なまえ",
+        "まえうり",
+        "めいし",
+        "ゆうめいな"
+       ],
+       "correctIndex": 0,
+       "explanation": "名前 is read なまえ (Namae): name."
+      },
+      {
+       "id": "e44",
+       "type": "multipleChoice",
+       "prompt": "Which word means “name”?",
+       "options": [
+        "前売り",
+        "有名な",
+        "名刺",
+        "名前"
+       ],
+       "correctIndex": 3,
+       "explanation": "name is 名前 (なまえ)."
+      },
+      {
+       "id": "e45",
+       "type": "multipleChoice",
+       "prompt": "How do you read 前売り?",
+       "options": [
+        "ゆうめいな",
+        "まえうり",
+        "しめい",
+        "めいし"
+       ],
+       "correctIndex": 1,
+       "explanation": "前売り is read まえうり (Maeuri): advance sale."
+      },
+      {
+       "id": "e46",
+       "type": "multipleChoice",
+       "prompt": "Which word means “advance sale”?",
+       "options": [
+        "名刺",
+        "有名な",
+        "前売り",
+        "氏名"
+       ],
+       "correctIndex": 2,
+       "explanation": "advance sale is 前売り (まえうり)."
+      },
+      {
+       "id": "e47",
+       "type": "multipleChoice",
+       "prompt": "How do you read 有名な?",
+       "options": [
+        "ちめい",
+        "しめい",
+        "めいし",
+        "ゆうめいな"
+       ],
+       "correctIndex": 3,
+       "explanation": "有名な is read ゆうめいな (Yuumee na): famous."
+      },
+      {
+       "id": "e48",
+       "type": "multipleChoice",
+       "prompt": "Which word means “famous”?",
+       "options": [
+        "名刺",
+        "地名",
+        "氏名",
+        "有名な"
+       ],
+       "correctIndex": 3,
+       "explanation": "famous is 有名な (ゆうめいな)."
+      },
+      {
+       "id": "e49",
+       "type": "multipleChoice",
+       "prompt": "How do you read 名刺?",
+       "options": [
+        "しめい",
+        "ちめい",
+        "しろい",
+        "めいし"
+       ],
+       "correctIndex": 3,
+       "explanation": "名刺 is read めいし (Meeshi): name card."
+      },
+      {
+       "id": "e50",
+       "type": "multipleChoice",
+       "prompt": "Which word means “name card”?",
+       "options": [
+        "地名",
+        "白い",
+        "名刺",
+        "氏名"
+       ],
+       "correctIndex": 2,
+       "explanation": "name card is 名刺 (めいし)."
+      },
+      {
+       "id": "e51",
+       "type": "multipleChoice",
+       "prompt": "How do you read 氏名?",
+       "options": [
+        "ちめい",
+        "はくし",
+        "しめい",
+        "しろい"
+       ],
+       "correctIndex": 2,
+       "explanation": "氏名 is read しめい (Shimei): full name."
+      },
+      {
+       "id": "e52",
+       "type": "multipleChoice",
+       "prompt": "Which word means “full name”?",
+       "options": [
+        "氏名",
+        "白い",
+        "白紙",
+        "地名"
+       ],
+       "correctIndex": 0,
+       "explanation": "full name is 氏名 (しめい)."
+      },
+      {
+       "id": "e53",
+       "type": "multipleChoice",
+       "prompt": "How do you read 地名?",
+       "options": [
+        "ちめい",
+        "しろい",
+        "はくし",
+        "しろ"
+       ],
+       "correctIndex": 0,
+       "explanation": "地名 is read ちめい (Chimee): place name."
+      },
+      {
+       "id": "e54",
+       "type": "multipleChoice",
+       "prompt": "Which word means “place name”?",
+       "options": [
+        "白紙",
+        "白い",
+        "白",
+        "地名"
+       ],
+       "correctIndex": 3,
+       "explanation": "place name is 地名 (ちめい)."
+      },
+      {
+       "id": "e55",
+       "type": "multipleChoice",
+       "prompt": "How do you read 白い?",
+       "options": [
+        "はくし",
+        "はくちょう",
+        "しろい",
+        "しろ"
+       ],
+       "correctIndex": 2,
+       "explanation": "白い is read しろい (Shiroi): white."
+      },
+      {
+       "id": "e56",
+       "type": "multipleChoice",
+       "prompt": "Which word means “white”?",
+       "options": [
+        "白紙",
+        "白",
+        "白鳥",
+        "白い"
+       ],
+       "correctIndex": 3,
+       "explanation": "white is 白い (しろい)."
+      },
+      {
+       "id": "e57",
+       "type": "multipleChoice",
+       "prompt": "How do you read 白紙?",
+       "options": [
+        "はくちょう",
+        "あめ",
+        "はくし",
+        "しろ"
+       ],
+       "correctIndex": 2,
+       "explanation": "白紙 is read はくし (Hakushi): blank sheet."
+      },
+      {
+       "id": "e58",
+       "type": "multipleChoice",
+       "prompt": "Which word means “blank sheet”?",
+       "options": [
+        "雨",
+        "白",
+        "白鳥",
+        "白紙"
+       ],
+       "correctIndex": 3,
+       "explanation": "blank sheet is 白紙 (はくし)."
+      },
+      {
+       "id": "e59",
+       "type": "multipleChoice",
+       "prompt": "How do you read 白?",
+       "options": [
+        "はくちょう",
+        "しろ",
+        "うき",
+        "あめ"
+       ],
+       "correctIndex": 1,
+       "explanation": "白 is read しろ (Shiro): white color."
+      },
+      {
+       "id": "e60",
+       "type": "multipleChoice",
+       "prompt": "Which word means “white color”?",
+       "options": [
+        "白",
+        "雨",
+        "白鳥",
+        "雨期"
+       ],
+       "correctIndex": 0,
+       "explanation": "white color is 白 (しろ)."
+      },
+      {
+       "id": "e61",
+       "type": "multipleChoice",
+       "prompt": "How do you read 白鳥?",
+       "options": [
+        "うき",
+        "つゆ",
+        "はくちょう",
+        "あめ"
+       ],
+       "correctIndex": 2,
+       "explanation": "白鳥 is read はくちょう (Hakuchoo): swan."
+      },
+      {
+       "id": "e62",
+       "type": "multipleChoice",
+       "prompt": "Which word means “swan”?",
+       "options": [
+        "雨",
+        "白鳥",
+        "雨期",
+        "梅雨"
+       ],
+       "correctIndex": 1,
+       "explanation": "swan is 白鳥 (はくちょう)."
+      },
+      {
+       "id": "e63",
+       "type": "multipleChoice",
+       "prompt": "How do you read 雨?",
+       "options": [
+        "うき",
+        "つゆ",
+        "かく",
+        "あめ"
+       ],
+       "correctIndex": 3,
+       "explanation": "雨 is read あめ (Ame): rain."
+      },
+      {
+       "id": "e64",
+       "type": "multipleChoice",
+       "prompt": "Which word means “rain”?",
+       "options": [
+        "雨",
+        "書く",
+        "雨期",
+        "梅雨"
+       ],
+       "correctIndex": 0,
+       "explanation": "rain is 雨 (あめ)."
+      },
+      {
+       "id": "e65",
+       "type": "multipleChoice",
+       "prompt": "How do you read 雨期?",
+       "options": [
+        "じしょ",
+        "うき",
+        "かく",
+        "つゆ"
+       ],
+       "correctIndex": 1,
+       "explanation": "雨期 is read うき (Uki): rainy season."
+      },
+      {
+       "id": "e66",
+       "type": "multipleChoice",
+       "prompt": "How do you read 梅雨?",
+       "options": [
+        "きょうかしょ",
+        "かく",
+        "つゆ",
+        "じしょ"
+       ],
+       "correctIndex": 2,
+       "explanation": "梅雨 is read つゆ (Tsuyu): rainy season."
+      },
+      {
+       "id": "e67",
+       "type": "multipleChoice",
+       "prompt": "How do you read 書く?",
+       "options": [
+        "じしょ",
+        "かく",
+        "としょかん",
+        "きょうかしょ"
+       ],
+       "correctIndex": 1,
+       "explanation": "書く is read かく (Kaku): to write."
+      },
+      {
+       "id": "e68",
+       "type": "multipleChoice",
+       "prompt": "Which word means “to write”?",
+       "options": [
+        "書く",
+        "教科書",
+        "辞書",
+        "図書館"
+       ],
+       "correctIndex": 0,
+       "explanation": "to write is 書く (かく)."
+      },
+      {
+       "id": "e69",
+       "type": "multipleChoice",
+       "prompt": "How do you read 辞書?",
+       "options": [
+        "ともだち",
+        "じしょ",
+        "としょかん",
+        "きょうかしょ"
+       ],
+       "correctIndex": 1,
+       "explanation": "辞書 is read じしょ (Jisho): dictionary."
+      },
+      {
+       "id": "e70",
+       "type": "multipleChoice",
+       "prompt": "Which word means “dictionary”?",
+       "options": [
+        "教科書",
+        "辞書",
+        "図書館",
+        "友だち"
+       ],
+       "correctIndex": 1,
+       "explanation": "dictionary is 辞書 (じしょ)."
+      },
+      {
+       "id": "e71",
+       "type": "multipleChoice",
+       "prompt": "How do you read 教科書?",
+       "options": [
+        "きょうかしょ",
+        "しんゆう",
+        "ともだち",
+        "としょかん"
+       ],
+       "correctIndex": 0,
+       "explanation": "教科書 is read きょうかしょ (Kyookasho): textbook."
+      },
+      {
+       "id": "e72",
+       "type": "multipleChoice",
+       "prompt": "Which word means “textbook”?",
+       "options": [
+        "教科書",
+        "図書館",
+        "親友",
+        "友だち"
+       ],
+       "correctIndex": 0,
+       "explanation": "textbook is 教科書 (きょうかしょ)."
+      },
+      {
+       "id": "e73",
+       "type": "multipleChoice",
+       "prompt": "How do you read 図書館?",
+       "options": [
+        "ゆうじん",
+        "しんゆう",
+        "ともだち",
+        "としょかん"
+       ],
+       "correctIndex": 3,
+       "explanation": "図書館 is read としょかん (Toshokan): library."
+      },
+      {
+       "id": "e74",
+       "type": "multipleChoice",
+       "prompt": "Which word means “library”?",
+       "options": [
+        "友だち",
+        "親友",
+        "図書館",
+        "友人"
+       ],
+       "correctIndex": 2,
+       "explanation": "library is 図書館 (としょかん)."
+      },
+      {
+       "id": "e75",
+       "type": "multipleChoice",
+       "prompt": "How do you read 友だち?",
+       "options": [
+        "ゆうじん",
+        "しんゆう",
+        "ともだち",
+        "ゆうじょう"
+       ],
+       "correctIndex": 2,
+       "explanation": "友だち is read ともだち (Tomodachi): friend."
+      },
+      {
+       "id": "e76",
+       "type": "multipleChoice",
+       "prompt": "How do you read 親友?",
+       "options": [
+        "ゆうじょう",
+        "しんゆう",
+        "ごぜん",
+        "ゆうじん"
+       ],
+       "correctIndex": 1,
+       "explanation": "親友 is read しんゆう (Shin'yuu): best friend."
+      },
+      {
+       "id": "e77",
+       "type": "multipleChoice",
+       "prompt": "Which word means “best friend”?",
+       "options": [
+        "友人",
+        "友情",
+        "午前",
+        "親友"
+       ],
+       "correctIndex": 3,
+       "explanation": "best friend is 親友 (しんゆう)."
+      },
+      {
+       "id": "e78",
+       "type": "multipleChoice",
+       "prompt": "How do you read 友人?",
+       "options": [
+        "ゆうじょう",
+        "ごぜんちゅう",
+        "ごぜん",
+        "ゆうじん"
+       ],
+       "correctIndex": 3,
+       "explanation": "友人 is read ゆうじん (Yuujin): friend."
+      },
+      {
+       "id": "e79",
+       "type": "multipleChoice",
+       "prompt": "How do you read 友情?",
+       "options": [
+        "しょうご",
+        "ごぜんちゅう",
+        "ゆうじょう",
+        "ごぜん"
+       ],
+       "correctIndex": 2,
+       "explanation": "友情 is read ゆうじょう (Yuujoo): friendship."
+      },
+      {
+       "id": "e80",
+       "type": "multipleChoice",
+       "prompt": "Which word means “friendship”?",
+       "options": [
+        "友情",
+        "正午",
+        "午前中",
+        "午前"
+       ],
+       "correctIndex": 0,
+       "explanation": "friendship is 友情 (ゆうじょう)."
+      },
+      {
+       "id": "e81",
+       "type": "multipleChoice",
+       "prompt": "What does 名刺 mean?",
+       "options": [
+        "full name",
+        "name",
+        "name card",
+        "famous"
+       ],
+       "correctIndex": 2,
+       "explanation": "名刺 is めいし: a business card."
+      },
+      {
+       "id": "e82",
+       "type": "multipleChoice",
+       "prompt": "What does 白鳥 mean?",
+       "options": [
+        "swan",
+        "rain",
+        "blank sheet",
+        "white"
+       ],
+       "correctIndex": 0,
+       "explanation": "白鳥 is はくちょう: swan."
+      },
+      {
+       "id": "e83",
+       "type": "multipleChoice",
+       "prompt": "What does 前売り mean?",
+       "options": [
+        "morning",
+        "front",
+        "advance sale",
+        "name"
+       ],
+       "correctIndex": 2,
+       "explanation": "前売り is まえうり: advance sale."
+      }
+     ]
+    },
+    {
+     "id": "ja_137",
+     "title": "137. Kanji: 間 家 話 少 古 知 来",
+     "subtitle": "間 · 家 · 話 · 少 · 古 · 知 · 来 · time, house, speaking, little, old, know, come",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "Kanji: 間 家 話",
+       "body": "▶ is the on-yomi (the reading borrowed from Chinese) and ▷ is the kun-yomi (the native Japanese reading). The reading of each word is spoken when you tap it.",
+       "tables": [
+        {
+         "headers": [
+          "Kanji",
+          "Meaning",
+          "On-yomi ▶",
+          "Kun-yomi ▷",
+          "Strokes"
+         ],
+         "rows": [
+          [
+           "間",
+           "between",
+           "かん",
+           "あいだ",
+           "12"
+          ],
+          [
+           "家",
+           "house",
+           "か",
+           "いえ",
+           "10"
+          ],
+          [
+           "話",
+           "to speak",
+           "わ",
+           "はな・はなし",
+           "13"
+          ]
+         ],
+         "speakCols": []
+        },
+        {
+         "headers": [
+          "Reading",
+          "Word",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "じかん",
+           "時間",
+           "Jikan",
+           "time"
+          ],
+          [
+           "にじかん",
+           "二時間",
+           "Nijikan",
+           "two hours"
+          ],
+          [
+           "あいだ",
+           "間",
+           "Aida",
+           "between"
+          ],
+          [
+           "にんげん",
+           "人間",
+           "Ningen",
+           "human being"
+          ],
+          [
+           "いっしゅうかん",
+           "一週間",
+           "Isshuukan",
+           "one week"
+          ],
+          [
+           "いえ",
+           "家",
+           "Ie",
+           "house"
+          ],
+          [
+           "かぞく",
+           "家族",
+           "Kazoku",
+           "family"
+          ],
+          [
+           "かない",
+           "家内",
+           "Kanai",
+           "my wife"
+          ],
+          [
+           "さっか",
+           "作家",
+           "Sakka",
+           "author"
+          ],
+          [
+           "はなす",
+           "話す",
+           "Hanasu",
+           "to speak"
+          ],
+          [
+           "はなし",
+           "話",
+           "Hanashi",
+           "talk, story"
+          ],
+          [
+           "でんわ",
+           "電話",
+           "Denwa",
+           "telephone"
+          ],
+          [
+           "かいわ",
+           "会話",
+           "Kaiwa",
+           "conversation"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Kanji: 少 古 知",
+       "body": "▶ is the on-yomi (the reading borrowed from Chinese) and ▷ is the kun-yomi (the native Japanese reading). The reading of each word is spoken when you tap it.",
+       "tables": [
+        {
+         "headers": [
+          "Kanji",
+          "Meaning",
+          "On-yomi ▶",
+          "Kun-yomi ▷",
+          "Strokes"
+         ],
+         "rows": [
+          [
+           "少",
+           "little",
+           "しょう",
+           "すこ・すく",
+           "4"
+          ],
+          [
+           "古",
+           "old",
+           "こ",
+           "ふる",
+           "5"
+          ],
+          [
+           "知",
+           "to know",
+           "ち",
+           "し",
+           "8"
+          ]
+         ],
+         "speakCols": []
+        },
+        {
+         "headers": [
+          "Reading",
+          "Word",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "すこし",
+           "少し",
+           "Sukoshi",
+           "little"
+          ],
+          [
+           "すくない",
+           "少ない",
+           "Sukunai",
+           "few"
+          ],
+          [
+           "しょうしょう",
+           "少々",
+           "Shooshoo",
+           "a little"
+          ],
+          [
+           "しょうじょ",
+           "少女",
+           "Shoojo",
+           "girl"
+          ],
+          [
+           "しょうねん",
+           "少年",
+           "Shoonen",
+           "boy"
+          ],
+          [
+           "ふるい",
+           "古い",
+           "Furui",
+           "old (for things)"
+          ],
+          [
+           "ちゅうこ",
+           "中古",
+           "Chuuko",
+           "secondhand"
+          ],
+          [
+           "こだい",
+           "古代",
+           "Kodai",
+           "ancient times"
+          ],
+          [
+           "しる",
+           "知る",
+           "Shiru",
+           "to know"
+          ],
+          [
+           "ちじん",
+           "知人",
+           "Chijin",
+           "acquaintance"
+          ],
+          [
+           "しりあい",
+           "知り合い",
+           "Shiriai",
+           "acquaintance"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Kanji: 来",
+       "body": "▶ is the on-yomi (the reading borrowed from Chinese) and ▷ is the kun-yomi (the native Japanese reading). The reading of each word is spoken when you tap it.",
+       "tables": [
+        {
+         "headers": [
+          "Kanji",
+          "Meaning",
+          "On-yomi ▶",
+          "Kun-yomi ▷",
+          "Strokes"
+         ],
+         "rows": [
+          [
+           "来",
+           "to come",
+           "らい",
+           "く・き・こ",
+           "7"
+          ]
+         ],
+         "speakCols": []
+        },
+        {
+         "headers": [
+          "Reading",
+          "Word",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "くる",
+           "来る",
+           "Kuru",
+           "to come"
+          ],
+          [
+           "きます",
+           "来ます",
+           "Kimasu",
+           "to come (polite)"
+          ],
+          [
+           "こない",
+           "来ない",
+           "Konai",
+           "not to come"
+          ],
+          [
+           "らいしゅう",
+           "来週",
+           "Raishuu",
+           "next week"
+          ],
+          [
+           "らいにち",
+           "来日",
+           "Rainichi",
+           "visit to Japan"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "来る, the irregular verb",
+       "body": "来る (くる, to come) is written with one kanji but is read differently in each form: 来ます (きます), 来ない (こない), 来て (きて), 来た (きた). The kanji 来 has the readings く, き and こ. 来週 (らいしゅう) is “next week”.",
+       "tables": [
+        {
+         "headers": [
+          "Reading",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "くる",
+           "来る",
+           "Kuru",
+           "to come"
+          ],
+          [
+           "きます",
+           "来ます",
+           "Kimasu",
+           "to come (polite)"
+          ],
+          [
+           "こない",
+           "来ない",
+           "Konai",
+           "not to come"
+          ],
+          [
+           "きて",
+           "来て",
+           "Kite",
+           "come and …"
+          ],
+          [
+           "きた",
+           "来た",
+           "Kita",
+           "came"
+          ],
+          [
+           "らいしゅう",
+           "来週",
+           "Raishuu",
+           "next week"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Words you know in kanji",
+       "body": "間 is in 時間 (じかん, time) and in lengths of time: 一時間 (いちじかん, one hour), 二時間 (にじかん, two hours), 一週間 (いっしゅうかん, one week). 家 is read いえ or うち for “house; home” and か in 家族 (かぞく, family).",
+       "tables": [
+        {
+         "headers": [
+          "Reading",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "じかん",
+           "時間",
+           "Jikan",
+           "time"
+          ],
+          [
+           "いちじかん",
+           "一時間",
+           "Ichijikan",
+           "one hour"
+          ],
+          [
+           "にじかん",
+           "二時間",
+           "Nijikan",
+           "two hours"
+          ],
+          [
+           "いっしゅうかん",
+           "一週間",
+           "Isshuukan",
+           "one week"
+          ],
+          [
+           "かぞく",
+           "家族",
+           "Kazoku",
+           "family"
+          ],
+          [
+           "はなす",
+           "話す",
+           "Hanasu",
+           "to speak"
+          ],
+          [
+           "でんわ",
+           "電話",
+           "Denwa",
+           "telephone"
+          ],
+          [
+           "すこし",
+           "少し",
+           "Sukoshi",
+           "a little"
+          ],
+          [
+           "ふるい",
+           "古い",
+           "Furui",
+           "old (for things)"
+          ],
+          [
+           "しる",
+           "知る",
+           "Shiru",
+           "to know"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does 間 mean?",
+       "options": [
+        "between",
+        "little",
+        "house",
+        "to speak"
+       ],
+       "correctIndex": 0,
+       "explanation": "間 means “between”."
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “between”?",
+       "options": [
+        "話",
+        "家",
+        "間",
+        "少"
+       ],
+       "correctIndex": 2,
+       "explanation": "between is 間."
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 間 have?",
+       "options": [
+        "14",
+        "12",
+        "13",
+        "11"
+       ],
+       "correctIndex": 1,
+       "explanation": "間 is written with 12 strokes."
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does 家 mean?",
+       "options": [
+        "house",
+        "old",
+        "little",
+        "to speak"
+       ],
+       "correctIndex": 0,
+       "explanation": "家 means “house”."
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “house”?",
+       "options": [
+        "少",
+        "家",
+        "古",
+        "話"
+       ],
+       "correctIndex": 1,
+       "explanation": "house is 家."
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 家 have?",
+       "options": [
+        "12",
+        "10",
+        "9",
+        "11"
+       ],
+       "correctIndex": 1,
+       "explanation": "家 is written with 10 strokes."
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What does 話 mean?",
+       "options": [
+        "little",
+        "old",
+        "to speak",
+        "to know"
+       ],
+       "correctIndex": 2,
+       "explanation": "話 means “to speak”."
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “to speak”?",
+       "options": [
+        "話",
+        "古",
+        "知",
+        "少"
+       ],
+       "correctIndex": 0,
+       "explanation": "to speak is 話."
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 話 have?",
+       "options": [
+        "12",
+        "15",
+        "14",
+        "13"
+       ],
+       "correctIndex": 3,
+       "explanation": "話 is written with 13 strokes."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What does 少 mean?",
+       "options": [
+        "little",
+        "to come",
+        "to know",
+        "old"
+       ],
+       "correctIndex": 0,
+       "explanation": "少 means “little”."
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “little”?",
+       "options": [
+        "知",
+        "少",
+        "古",
+        "来"
+       ],
+       "correctIndex": 1,
+       "explanation": "little is 少."
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 少 have?",
+       "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+       ],
+       "correctIndex": 1,
+       "explanation": "少 is written with 4 strokes."
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "What does 古 mean?",
+       "options": [
+        "to know",
+        "old",
+        "to come",
+        "between"
+       ],
+       "correctIndex": 1,
+       "explanation": "古 means “old”."
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “old”?",
+       "options": [
+        "間",
+        "来",
+        "知",
+        "古"
+       ],
+       "correctIndex": 3,
+       "explanation": "old is 古."
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 古 have?",
+       "options": [
+        "5",
+        "4",
+        "6",
+        "7"
+       ],
+       "correctIndex": 0,
+       "explanation": "古 is written with 5 strokes."
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "What does 知 mean?",
+       "options": [
+        "to know",
+        "between",
+        "to come",
+        "house"
+       ],
+       "correctIndex": 0,
+       "explanation": "知 means “to know”."
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “to know”?",
+       "options": [
+        "来",
+        "間",
+        "家",
+        "知"
+       ],
+       "correctIndex": 3,
+       "explanation": "to know is 知."
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 知 have?",
+       "options": [
+        "8",
+        "10",
+        "7",
+        "9"
+       ],
+       "correctIndex": 0,
+       "explanation": "知 is written with 8 strokes."
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "What does 来 mean?",
+       "options": [
+        "between",
+        "to speak",
+        "to come",
+        "house"
+       ],
+       "correctIndex": 2,
+       "explanation": "来 means “to come”."
+      },
+      {
+       "id": "e20",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “to come”?",
+       "options": [
+        "話",
+        "間",
+        "来",
+        "家"
+       ],
+       "correctIndex": 2,
+       "explanation": "to come is 来."
+      },
+      {
+       "id": "e21",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 来 have?",
+       "options": [
+        "9",
+        "6",
+        "7",
+        "8"
+       ],
+       "correctIndex": 2,
+       "explanation": "来 is written with 7 strokes."
+      },
+      {
+       "id": "e22",
+       "type": "multipleChoice",
+       "prompt": "How do you read 時間?",
+       "options": [
+        "じかん",
+        "あいだ",
+        "にんげん",
+        "にじかん"
+       ],
+       "correctIndex": 0,
+       "explanation": "時間 is read じかん (Jikan): time."
+      },
+      {
+       "id": "e23",
+       "type": "multipleChoice",
+       "prompt": "Which word means “time”?",
+       "options": [
+        "人間",
+        "間",
+        "二時間",
+        "時間"
+       ],
+       "correctIndex": 3,
+       "explanation": "time is 時間 (じかん)."
+      },
+      {
+       "id": "e24",
+       "type": "multipleChoice",
+       "prompt": "How do you read 二時間?",
+       "options": [
+        "いっしゅうかん",
+        "にんげん",
+        "あいだ",
+        "にじかん"
+       ],
+       "correctIndex": 3,
+       "explanation": "二時間 is read にじかん (Nijikan): two hours."
+      },
+      {
+       "id": "e25",
+       "type": "multipleChoice",
+       "prompt": "Which word means “two hours”?",
+       "options": [
+        "一週間",
+        "二時間",
+        "間",
+        "人間"
+       ],
+       "correctIndex": 1,
+       "explanation": "two hours is 二時間 (にじかん)."
+      },
+      {
+       "id": "e26",
+       "type": "multipleChoice",
+       "prompt": "How do you read 間?",
+       "options": [
+        "にんげん",
+        "あいだ",
+        "いっしゅうかん",
+        "いえ"
+       ],
+       "correctIndex": 1,
+       "explanation": "間 is read あいだ (Aida): between."
+      },
+      {
+       "id": "e27",
+       "type": "multipleChoice",
+       "prompt": "Which word means “between”?",
+       "options": [
+        "一週間",
+        "人間",
+        "家",
+        "間"
+       ],
+       "correctIndex": 3,
+       "explanation": "between is 間 (あいだ)."
+      },
+      {
+       "id": "e28",
+       "type": "multipleChoice",
+       "prompt": "How do you read 人間?",
+       "options": [
+        "いえ",
+        "にんげん",
+        "いっしゅうかん",
+        "かぞく"
+       ],
+       "correctIndex": 1,
+       "explanation": "人間 is read にんげん (Ningen): human being."
+      },
+      {
+       "id": "e29",
+       "type": "multipleChoice",
+       "prompt": "Which word means “human being”?",
+       "options": [
+        "家",
+        "一週間",
+        "人間",
+        "家族"
+       ],
+       "correctIndex": 2,
+       "explanation": "human being is 人間 (にんげん)."
+      },
+      {
+       "id": "e30",
+       "type": "multipleChoice",
+       "prompt": "How do you read 一週間?",
+       "options": [
+        "かない",
+        "いえ",
+        "いっしゅうかん",
+        "かぞく"
+       ],
+       "correctIndex": 2,
+       "explanation": "一週間 is read いっしゅうかん (Isshuukan): one week."
+      },
+      {
+       "id": "e31",
+       "type": "multipleChoice",
+       "prompt": "Which word means “one week”?",
+       "options": [
+        "家",
+        "一週間",
+        "家族",
+        "家内"
+       ],
+       "correctIndex": 1,
+       "explanation": "one week is 一週間 (いっしゅうかん)."
+      },
+      {
+       "id": "e32",
+       "type": "multipleChoice",
+       "prompt": "How do you read 家?",
+       "options": [
+        "かぞく",
+        "さっか",
+        "かない",
+        "いえ"
+       ],
+       "correctIndex": 3,
+       "explanation": "家 is read いえ (Ie): house."
+      },
+      {
+       "id": "e33",
+       "type": "multipleChoice",
+       "prompt": "Which word means “house”?",
+       "options": [
+        "作家",
+        "家",
+        "家族",
+        "家内"
+       ],
+       "correctIndex": 1,
+       "explanation": "house is 家 (いえ)."
+      },
+      {
+       "id": "e34",
+       "type": "multipleChoice",
+       "prompt": "How do you read 家族?",
+       "options": [
+        "かない",
+        "かぞく",
+        "さっか",
+        "はなす"
+       ],
+       "correctIndex": 1,
+       "explanation": "家族 is read かぞく (Kazoku): family."
+      },
+      {
+       "id": "e35",
+       "type": "multipleChoice",
+       "prompt": "Which word means “family”?",
+       "options": [
+        "家内",
+        "作家",
+        "話す",
+        "家族"
+       ],
+       "correctIndex": 3,
+       "explanation": "family is 家族 (かぞく)."
+      },
+      {
+       "id": "e36",
+       "type": "multipleChoice",
+       "prompt": "How do you read 家内?",
+       "options": [
+        "さっか",
+        "はなし",
+        "かない",
+        "はなす"
+       ],
+       "correctIndex": 2,
+       "explanation": "家内 is read かない (Kanai): my wife."
+      },
+      {
+       "id": "e37",
+       "type": "multipleChoice",
+       "prompt": "Which word means “my wife”?",
+       "options": [
+        "話す",
+        "作家",
+        "話",
+        "家内"
+       ],
+       "correctIndex": 3,
+       "explanation": "my wife is 家内 (かない)."
+      },
+      {
+       "id": "e38",
+       "type": "multipleChoice",
+       "prompt": "How do you read 作家?",
+       "options": [
+        "はなし",
+        "はなす",
+        "でんわ",
+        "さっか"
+       ],
+       "correctIndex": 3,
+       "explanation": "作家 is read さっか (Sakka): author."
+      },
+      {
+       "id": "e39",
+       "type": "multipleChoice",
+       "prompt": "Which word means “author”?",
+       "options": [
+        "話",
+        "電話",
+        "話す",
+        "作家"
+       ],
+       "correctIndex": 3,
+       "explanation": "author is 作家 (さっか)."
+      },
+      {
+       "id": "e40",
+       "type": "multipleChoice",
+       "prompt": "How do you read 話す?",
+       "options": [
+        "はなし",
+        "はなす",
+        "でんわ",
+        "かいわ"
+       ],
+       "correctIndex": 1,
+       "explanation": "話す is read はなす (Hanasu): to speak."
+      },
+      {
+       "id": "e41",
+       "type": "multipleChoice",
+       "prompt": "Which word means “to speak”?",
+       "options": [
+        "会話",
+        "話",
+        "電話",
+        "話す"
+       ],
+       "correctIndex": 3,
+       "explanation": "to speak is 話す (はなす)."
+      },
+      {
+       "id": "e42",
+       "type": "multipleChoice",
+       "prompt": "How do you read 話?",
+       "options": [
+        "はなし",
+        "かいわ",
+        "すこし",
+        "でんわ"
+       ],
+       "correctIndex": 0,
+       "explanation": "話 is read はなし (Hanashi): talk, story."
+      },
+      {
+       "id": "e43",
+       "type": "multipleChoice",
+       "prompt": "Which word means “talk, story”?",
+       "options": [
+        "電話",
+        "会話",
+        "少し",
+        "話"
+       ],
+       "correctIndex": 3,
+       "explanation": "talk, story is 話 (はなし)."
+      },
+      {
+       "id": "e44",
+       "type": "multipleChoice",
+       "prompt": "How do you read 電話?",
+       "options": [
+        "すくない",
+        "でんわ",
+        "かいわ",
+        "すこし"
+       ],
+       "correctIndex": 1,
+       "explanation": "電話 is read でんわ (Denwa): telephone."
+      },
+      {
+       "id": "e45",
+       "type": "multipleChoice",
+       "prompt": "Which word means “telephone”?",
+       "options": [
+        "会話",
+        "少し",
+        "少ない",
+        "電話"
+       ],
+       "correctIndex": 3,
+       "explanation": "telephone is 電話 (でんわ)."
+      },
+      {
+       "id": "e46",
+       "type": "multipleChoice",
+       "prompt": "How do you read 会話?",
+       "options": [
+        "すくない",
+        "かいわ",
+        "すこし",
+        "しょうしょう"
+       ],
+       "correctIndex": 1,
+       "explanation": "会話 is read かいわ (Kaiwa): conversation."
+      },
+      {
+       "id": "e47",
+       "type": "multipleChoice",
+       "prompt": "Which word means “conversation”?",
+       "options": [
+        "少し",
+        "少々",
+        "少ない",
+        "会話"
+       ],
+       "correctIndex": 3,
+       "explanation": "conversation is 会話 (かいわ)."
+      },
+      {
+       "id": "e48",
+       "type": "multipleChoice",
+       "prompt": "How do you read 少し?",
+       "options": [
+        "しょうじょ",
+        "すこし",
+        "すくない",
+        "しょうしょう"
+       ],
+       "correctIndex": 1,
+       "explanation": "少し is read すこし (Sukoshi): little."
+      },
+      {
+       "id": "e49",
+       "type": "multipleChoice",
+       "prompt": "Which word means “little”?",
+       "options": [
+        "少ない",
+        "少々",
+        "少し",
+        "少女"
+       ],
+       "correctIndex": 2,
+       "explanation": "little is 少し (すこし)."
+      },
+      {
+       "id": "e50",
+       "type": "multipleChoice",
+       "prompt": "How do you read 少ない?",
+       "options": [
+        "しょうねん",
+        "しょうじょ",
+        "しょうしょう",
+        "すくない"
+       ],
+       "correctIndex": 3,
+       "explanation": "少ない is read すくない (Sukunai): few."
+      },
+      {
+       "id": "e51",
+       "type": "multipleChoice",
+       "prompt": "Which word means “few”?",
+       "options": [
+        "少女",
+        "少ない",
+        "少々",
+        "少年"
+       ],
+       "correctIndex": 1,
+       "explanation": "few is 少ない (すくない)."
+      },
+      {
+       "id": "e52",
+       "type": "multipleChoice",
+       "prompt": "How do you read 少々?",
+       "options": [
+        "ふるい",
+        "しょうじょ",
+        "しょうねん",
+        "しょうしょう"
+       ],
+       "correctIndex": 3,
+       "explanation": "少々 is read しょうしょう (Shooshoo): a little."
+      },
+      {
+       "id": "e53",
+       "type": "multipleChoice",
+       "prompt": "Which word means “a little”?",
+       "options": [
+        "少女",
+        "古い",
+        "少年",
+        "少々"
+       ],
+       "correctIndex": 3,
+       "explanation": "a little is 少々 (しょうしょう)."
+      },
+      {
+       "id": "e54",
+       "type": "multipleChoice",
+       "prompt": "How do you read 少女?",
+       "options": [
+        "しょうねん",
+        "ふるい",
+        "ちゅうこ",
+        "しょうじょ"
+       ],
+       "correctIndex": 3,
+       "explanation": "少女 is read しょうじょ (Shoojo): girl."
+      },
+      {
+       "id": "e55",
+       "type": "multipleChoice",
+       "prompt": "Which word means “girl”?",
+       "options": [
+        "古い",
+        "少年",
+        "中古",
+        "少女"
+       ],
+       "correctIndex": 3,
+       "explanation": "girl is 少女 (しょうじょ)."
+      },
+      {
+       "id": "e56",
+       "type": "multipleChoice",
+       "prompt": "How do you read 少年?",
+       "options": [
+        "こだい",
+        "しょうねん",
+        "ちゅうこ",
+        "ふるい"
+       ],
+       "correctIndex": 1,
+       "explanation": "少年 is read しょうねん (Shoonen): boy."
+      },
+      {
+       "id": "e57",
+       "type": "multipleChoice",
+       "prompt": "Which word means “boy”?",
+       "options": [
+        "中古",
+        "古い",
+        "少年",
+        "古代"
+       ],
+       "correctIndex": 2,
+       "explanation": "boy is 少年 (しょうねん)."
+      },
+      {
+       "id": "e58",
+       "type": "multipleChoice",
+       "prompt": "How do you read 古い?",
+       "options": [
+        "ふるい",
+        "こだい",
+        "しる",
+        "ちゅうこ"
+       ],
+       "correctIndex": 0,
+       "explanation": "古い is read ふるい (Furui): old (for things)."
+      },
+      {
+       "id": "e59",
+       "type": "multipleChoice",
+       "prompt": "Which word means “old (for things)”?",
+       "options": [
+        "古代",
+        "中古",
+        "古い",
+        "知る"
+       ],
+       "correctIndex": 2,
+       "explanation": "old (for things) is 古い (ふるい)."
+      },
+      {
+       "id": "e60",
+       "type": "multipleChoice",
+       "prompt": "How do you read 中古?",
+       "options": [
+        "ちゅうこ",
+        "こだい",
+        "ちじん",
+        "しる"
+       ],
+       "correctIndex": 0,
+       "explanation": "中古 is read ちゅうこ (Chuuko): secondhand."
+      },
+      {
+       "id": "e61",
+       "type": "multipleChoice",
+       "prompt": "Which word means “secondhand”?",
+       "options": [
+        "知る",
+        "古代",
+        "中古",
+        "知人"
+       ],
+       "correctIndex": 2,
+       "explanation": "secondhand is 中古 (ちゅうこ)."
+      },
+      {
+       "id": "e62",
+       "type": "multipleChoice",
+       "prompt": "How do you read 古代?",
+       "options": [
+        "ちじん",
+        "こだい",
+        "しりあい",
+        "しる"
+       ],
+       "correctIndex": 1,
+       "explanation": "古代 is read こだい (Kodai): ancient times."
+      },
+      {
+       "id": "e63",
+       "type": "multipleChoice",
+       "prompt": "Which word means “ancient times”?",
+       "options": [
+        "知る",
+        "知り合い",
+        "古代",
+        "知人"
+       ],
+       "correctIndex": 2,
+       "explanation": "ancient times is 古代 (こだい)."
+      },
+      {
+       "id": "e64",
+       "type": "multipleChoice",
+       "prompt": "How do you read 知る?",
+       "options": [
+        "しりあい",
+        "ちじん",
+        "くる",
+        "しる"
+       ],
+       "correctIndex": 3,
+       "explanation": "知る is read しる (Shiru): to know."
+      },
+      {
+       "id": "e65",
+       "type": "multipleChoice",
+       "prompt": "Which word means “to know”?",
+       "options": [
+        "知人",
+        "知る",
+        "来る",
+        "知り合い"
+       ],
+       "correctIndex": 1,
+       "explanation": "to know is 知る (しる)."
+      },
+      {
+       "id": "e66",
+       "type": "multipleChoice",
+       "prompt": "How do you read 知人?",
+       "options": [
+        "しりあい",
+        "くる",
+        "ちじん",
+        "きます"
+       ],
+       "correctIndex": 2,
+       "explanation": "知人 is read ちじん (Chijin): acquaintance."
+      },
+      {
+       "id": "e67",
+       "type": "multipleChoice",
+       "prompt": "How do you read 知り合い?",
+       "options": [
+        "くる",
+        "しりあい",
+        "こない",
+        "きます"
+       ],
+       "correctIndex": 1,
+       "explanation": "知り合い is read しりあい (Shiriai): acquaintance."
+      },
+      {
+       "id": "e68",
+       "type": "multipleChoice",
+       "prompt": "How do you read 来る?",
+       "options": [
+        "こない",
+        "らいしゅう",
+        "くる",
+        "きます"
+       ],
+       "correctIndex": 2,
+       "explanation": "来る is read くる (Kuru): to come."
+      },
+      {
+       "id": "e69",
+       "type": "multipleChoice",
+       "prompt": "Which word means “to come”?",
+       "options": [
+        "来ます",
+        "来週",
+        "来ない",
+        "来る"
+       ],
+       "correctIndex": 3,
+       "explanation": "to come is 来る (くる)."
+      },
+      {
+       "id": "e70",
+       "type": "multipleChoice",
+       "prompt": "How do you read 来ます?",
+       "options": [
+        "らいにち",
+        "こない",
+        "きます",
+        "らいしゅう"
+       ],
+       "correctIndex": 2,
+       "explanation": "来ます is read きます (Kimasu): to come (polite)."
+      },
+      {
+       "id": "e71",
+       "type": "multipleChoice",
+       "prompt": "Which word means “to come (polite)”?",
+       "options": [
+        "来ます",
+        "来週",
+        "来日",
+        "来ない"
+       ],
+       "correctIndex": 0,
+       "explanation": "to come (polite) is 来ます (きます)."
+      },
+      {
+       "id": "e72",
+       "type": "multipleChoice",
+       "prompt": "How do you read 来ない?",
+       "options": [
+        "こない",
+        "らいしゅう",
+        "じかん",
+        "らいにち"
+       ],
+       "correctIndex": 0,
+       "explanation": "来ない is read こない (Konai): not to come."
+      },
+      {
+       "id": "e73",
+       "type": "multipleChoice",
+       "prompt": "Which word means “not to come”?",
+       "options": [
+        "時間",
+        "来日",
+        "来ない",
+        "来週"
+       ],
+       "correctIndex": 2,
+       "explanation": "not to come is 来ない (こない)."
+      },
+      {
+       "id": "e74",
+       "type": "multipleChoice",
+       "prompt": "How do you read 来週?",
+       "options": [
+        "にじかん",
+        "らいしゅう",
+        "らいにち",
+        "じかん"
+       ],
+       "correctIndex": 1,
+       "explanation": "来週 is read らいしゅう (Raishuu): next week."
+      },
+      {
+       "id": "e75",
+       "type": "multipleChoice",
+       "prompt": "Which word means “next week”?",
+       "options": [
+        "時間",
+        "来週",
+        "来日",
+        "二時間"
+       ],
+       "correctIndex": 1,
+       "explanation": "next week is 来週 (らいしゅう)."
+      },
+      {
+       "id": "e76",
+       "type": "multipleChoice",
+       "prompt": "How do you read 来日?",
+       "options": [
+        "らいにち",
+        "にじかん",
+        "あいだ",
+        "じかん"
+       ],
+       "correctIndex": 0,
+       "explanation": "来日 is read らいにち (Rainichi): visit to Japan."
+      },
+      {
+       "id": "e77",
+       "type": "multipleChoice",
+       "prompt": "Which word means “visit to Japan”?",
+       "options": [
+        "二時間",
+        "来日",
+        "間",
+        "時間"
+       ],
+       "correctIndex": 1,
+       "explanation": "visit to Japan is 来日 (らいにち)."
+      },
+      {
+       "id": "e78",
+       "type": "multipleChoice",
+       "prompt": "How do you read 一時間?",
+       "options": [
+        "いちじあいだ",
+        "ひとときあいだ",
+        "いちじかん",
+        "いっときかん"
+       ],
+       "correctIndex": 2,
+       "explanation": "一時間 is いちじかん: one hour."
+      },
+      {
+       "id": "e79",
+       "type": "multipleChoice",
+       "prompt": "What does 家内 mean?",
+       "options": [
+        "house",
+        "family",
+        "my husband",
+        "my wife"
+       ],
+       "correctIndex": 3,
+       "explanation": "家内 is かない: my wife."
+      },
+      {
+       "id": "e80",
+       "type": "multipleChoice",
+       "prompt": "What does 少女 mean?",
+       "options": [
+        "woman",
+        "child",
+        "girl",
+        "boy"
+       ],
+       "correctIndex": 2,
+       "explanation": "少女 is しょうじょ: girl."
+      },
+      {
+       "id": "e81",
+       "type": "multipleChoice",
+       "prompt": "What does 少年 mean?",
+       "options": [
+        "man",
+        "child",
+        "girl",
+        "boy"
+       ],
+       "correctIndex": 3,
+       "explanation": "少年 is しょうねん: boy."
+      },
+      {
+       "id": "e82",
+       "type": "multipleChoice",
+       "prompt": "What does 人間 mean?",
+       "options": [
+        "friend",
+        "human being",
+        "family",
+        "time"
+       ],
+       "correctIndex": 1,
+       "explanation": "人間 is にんげん."
+      }
+     ]
+    },
+    {
+     "id": "ja_138",
+     "title": "138. Kanji practice: blanks and words",
+     "subtitle": "白い · 百円 · 小さい · 少し · 時間 · 聞く · 日本語 · 話す · 午前 · 名前",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "A. Fill in the blanks with the right kanji",
+       "body": "The book gives two kanji for each sentence (百 白, 小 少, 聞 間, 話 語). My answers:",
+       "tables": [],
+       "examples": [
+        {
+         "text": "この白いティーシャツは五百円でした。",
+         "translation": "Kono shiroi tiishatsu wa gohyaku en deshita. — This white T-shirt was 500 yen. (白 · 百)"
+        },
+        {
+         "text": "小さいケーキを少し食べました。",
+         "translation": "Chiisai keeki o sukoshi tabemashita. — I ate a little of a small cake. (小 · 少)"
+        },
+        {
+         "text": "一時間テープを聞きました。",
+         "translation": "Ichijikan teepu o kikimashita. — I listened to a tape for an hour. (間 · 聞)"
+        },
+        {
+         "text": "日本語を話します。",
+         "translation": "Nihongo o hanashimasu. — I speak Japanese. (語 · 話)"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "B. Choose the most appropriate word",
+       "body": "In each sentence the book gives the words to choose from. My answers:",
+       "tables": [
+        {
+         "headers": [
+          "Sentence",
+          "Answer",
+          "English"
+         ],
+         "rows": [
+          [
+           "はじめまして。私の___はキムです。",
+           "名前",
+           "My name is Kim."
+          ],
+          [
+           "毎日たいてい___七時ごろおきます。",
+           "午前",
+           "Every day I usually get up around seven in the morning."
+          ],
+          [
+           "このかさは古いから、___かさをかいます。",
+           "新しい",
+           "The umbrella is old, so I will buy a new one."
+          ],
+          [
+           "今日はいい___だった。",
+           "天気",
+           "It was good weather today."
+          ],
+          [
+           "でも、あしたは___がふると思う。",
+           "雨",
+           "But I think it will rain tomorrow."
+          ],
+          [
+           "メアリーのお父さんを___いますか。",
+           "知って",
+           "Do you know Mary’s father?"
+          ]
+         ],
+         "speakCols": []
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "fillBlank",
+       "prompt": "はじめまして。私の___はキムです。",
+       "options": [
+        "午後",
+        "名前",
+        "午前"
+       ],
+       "correctIndex": 1,
+       "explanation": "My name is Kim."
+      },
+      {
+       "id": "e2",
+       "type": "fillBlank",
+       "prompt": "毎日たいてい___七時ごろおきます。",
+       "options": [
+        "午後",
+        "午前",
+        "名前"
+       ],
+       "correctIndex": 1,
+       "explanation": "Every day I usually get up around seven in the morning."
+      },
+      {
+       "id": "e3",
+       "type": "fillBlank",
+       "prompt": "このかさは古いから、___かさをかいます。",
+       "options": [
+        "大きい",
+        "古い",
+        "新しい"
+       ],
+       "correctIndex": 2,
+       "explanation": "The umbrella is old, so I will buy a new one."
+      },
+      {
+       "id": "e4",
+       "type": "fillBlank",
+       "prompt": "今日はいい___だった。",
+       "options": [
+        "元気",
+        "白",
+        "天気"
+       ],
+       "correctIndex": 2,
+       "explanation": "It was good weather today."
+      },
+      {
+       "id": "e5",
+       "type": "fillBlank",
+       "prompt": "でも、あしたは___がふると思う。",
+       "options": [
+        "雨",
+        "元気",
+        "白"
+       ],
+       "correctIndex": 0,
+       "explanation": "But I think it will rain tomorrow."
+      },
+      {
+       "id": "e6",
+       "type": "fillBlank",
+       "prompt": "メアリーのお父さんを___いますか。",
+       "options": [
+        "来て",
+        "帰って",
+        "知って"
+       ],
+       "correctIndex": 2,
+       "explanation": "Do you know Mary’s father?"
+      },
+      {
+       "id": "e7",
+       "type": "fillBlank",
+       "prompt": "この___いTシャツは五百円でした。 (white)",
+       "options": [
+        "少",
+        "古",
+        "百",
+        "白"
+       ],
+       "correctIndex": 3,
+       "explanation": "白い means white."
+      },
+      {
+       "id": "e8",
+       "type": "fillBlank",
+       "prompt": "このしろいTシャツは五___円でした。 (hundred)",
+       "options": [
+        "万",
+        "百",
+        "白",
+        "千"
+       ],
+       "correctIndex": 1,
+       "explanation": "五百円 is 500 yen."
+      },
+      {
+       "id": "e9",
+       "type": "fillBlank",
+       "prompt": "___さいケーキ (small)",
+       "options": [
+        "古",
+        "小",
+        "大",
+        "少"
+       ],
+       "correctIndex": 1,
+       "explanation": "小さい is small."
+      },
+      {
+       "id": "e10",
+       "type": "fillBlank",
+       "prompt": "___し食べました。 (a little)",
+       "options": [
+        "古",
+        "少",
+        "大",
+        "小"
+       ],
+       "correctIndex": 1,
+       "explanation": "少し is a little."
+      },
+      {
+       "id": "e11",
+       "type": "fillBlank",
+       "prompt": "一時___ (an hour)",
+       "options": [
+        "間",
+        "問",
+        "聞",
+        "門"
+       ],
+       "correctIndex": 0,
+       "explanation": "一時間 is an hour."
+      },
+      {
+       "id": "e12",
+       "type": "fillBlank",
+       "prompt": "テープを___きました。 (listened)",
+       "options": [
+        "聞",
+        "間",
+        "書",
+        "来"
+       ],
+       "correctIndex": 0,
+       "explanation": "聞きました."
+      },
+      {
+       "id": "e13",
+       "type": "fillBlank",
+       "prompt": "日本___を話します。 (language)",
+       "options": [
+        "話",
+        "読",
+        "言",
+        "語"
+       ],
+       "correctIndex": 3,
+       "explanation": "日本語."
+      },
+      {
+       "id": "e14",
+       "type": "fillBlank",
+       "prompt": "日本語を___します。 (speak)",
+       "options": [
+        "語",
+        "話",
+        "読",
+        "言"
+       ],
+       "correctIndex": 1,
+       "explanation": "話します."
+      }
+     ]
+    },
+    {
+     "id": "ja_139",
+     "title": "139. Reading: スーさんの日記 (Sue’s Diary)",
+     "subtitle": "日記 · 雨がふっていた · ごちそう · 着物 · the plain form · order of events",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "The diary",
+       "body": "Sue wrote a diary about her visit to Mary’s host family. Words: 日記 (にっき, diary), 午前中 (in the morning), 昼 (ひる, noon), ホストファミリー (host family), ごちそう (excellent food), いろいろ(な) (various), 話をする (to have a talk), そして (and then), 着物 (きもの, kimono; Japanese traditional dress), 料理 (りょうり), 上手 (じょうず).",
+       "tables": [],
+       "examples": [
+        {
+         "text": "十一月二十五日 土曜日 雨",
+         "translation": "Juuichigatsu nijuugonichi doyoobi ame — Saturday, November 25. Rain."
+        },
+        {
+         "text": "今日は朝から雨がふっていた。",
+         "translation": "Kyoo wa asa kara ame ga futte ita. — Today it had been raining since morning."
+        },
+        {
+         "text": "午前中は友だちにメールを書いて、一時間ぐらい音楽を聞いた。",
+         "translation": "Gozenchuu wa tomodachi ni meeru o kaite, ichijikan gurai ongaku o kiita. — In the morning I wrote e-mail to friends and listened to music for about an hour."
+        },
+        {
+         "text": "昼ごろメアリーの家へ行った。",
+         "translation": "Hirugoro Mearii no ie e itta. — Around noon I went to Mary’s house."
+        },
+        {
+         "text": "白くて、大きい家だった。",
+         "translation": "Shirokute, ookii ie datta. — It was a big white house."
+        },
+        {
+         "text": "メアリーのホストファミリーの山本さんに会った。",
+         "translation": "Mearii no hosutofamirii no Yamamoto-san ni atta. — I met Mary’s host family, the Yamamotos."
+        },
+        {
+         "text": "お父さんはせが高くて、やせている人だった。",
+         "translation": "Otoosan wa se ga takakute, yasete iru hito datta. — Her father was a tall, thin man."
+        },
+        {
+         "text": "家で晩ご飯を食べた。",
+         "translation": "Ie de bangohan o tabeta. — We ate dinner at home."
+        },
+        {
+         "text": "お母さんは「何もありませんが」と言っていたが、たくさんごちそうがあった。",
+         "translation": "Okaasan wa “nani mo arimasen ga” to itte ita ga, takusan gochisoo ga atta. — Her mother said, “We have nothing special,” but there was a lot of good food."
+        },
+        {
+         "text": "晩ご飯はとてもおいしかった。",
+         "translation": "Bangohan wa totemo oishikatta. — Dinner was very delicious."
+        },
+        {
+         "text": "お母さんは料理がすごく上手だと思う。",
+         "translation": "Okaasan wa ryoori ga sugoku joozu da to omou. — I think her mother is a very good cook."
+        },
+        {
+         "text": "晩ご飯の後、いろいろな話をした。",
+         "translation": "Bangohan no ato, iroiro na hanashi o shita. — After dinner we talked about various things."
+        },
+        {
+         "text": "そして、きれいな着物をもらった。",
+         "translation": "Soshite, kiree na kimono o moratta. — And then I was given a beautiful kimono."
+        },
+        {
+         "text": "お母さんは少し古いと言っていたが、すごくきれいだ。",
+         "translation": "Okaasan wa sukoshi furui to itte ita ga, sugoku kiree da. — Her mother said it was a little old, but it is very beautiful."
+        },
+        {
+         "text": "メアリーのホストファミリーはとてもしんせつで楽しかった。",
+         "translation": "Mearii no hosutofamirii wa totemo shinsetsu de tanoshikatta. — Mary’s host family was very kind and it was fun."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "The plain form in a diary",
+       "body": "Notice that Sue does not use です and ます. A diary, an essay or a note to oneself is normally written in the plain form: 行った (went) instead of 行きました, おいしかった (was delicious) instead of おいしかったです, 古いと言っていた (said it was old) instead of 言っていました. When she quotes the mother’s words, the plain form is still used outside the quotation.",
+       "tables": [
+        {
+         "headers": [
+          "Polite form",
+          "Plain form in the diary"
+         ],
+         "rows": [
+          [
+           "雨がふっていました。",
+           "雨がふっていた。"
+          ],
+          [
+           "行きました。",
+           "行った。"
+          ],
+          [
+           "食べました。",
+           "食べた。"
+          ],
+          [
+           "おいしかったです。",
+           "おいしかった。"
+          ],
+          [
+           "大きい家でした。",
+           "大きい家だった。"
+          ],
+          [
+           "きれいです。",
+           "きれいだ。"
+          ]
+         ],
+         "speakCols": [
+          0,
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "A. Put the pictures in order",
+       "body": "The book gives five pictures: (a) the kimono, (b) writing e-mail at a computer, (c) dinner, (d) talking on the sofa, (e) listening to music. In the order of Sue’s day: (b) → (e) → (c) → (d) → (a). First she wrote e-mail, then listened to music, then went to Mary’s house for dinner, then talked, and last received the kimono.",
+       "tables": [],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "B. True or false?",
+       "body": "The book asks for ○ (true) or × (false). My answers:",
+       "tables": [
+        {
+         "headers": [
+          "Statement",
+          "Answer",
+          "Why"
+         ],
+         "rows": [
+          [
+           "スーさんは古い着物をもらった。 (Sue was given an old kimono.)",
+           "○",
+           "The mother said it was a little old, but it was beautiful."
+          ],
+          [
+           "お父さんはせがひくくて、やせている。 (Her father is short and thin.)",
+           "×",
+           "He is tall (せが高い) and thin."
+          ],
+          [
+           "晩ご飯は何もなかった。 (There was nothing for dinner.)",
+           "×",
+           "There was a lot of good food (ごちそう)."
+          ],
+          [
+           "スーさんはお母さんの料理が好きだ。 (Sue likes the mother’s cooking.)",
+           "○",
+           "She thought it was delicious and the mother is a very good cook."
+          ],
+          [
+           "天気がよくなかった。 (The weather was not good.)",
+           "○",
+           "It rained all day."
+          ],
+          [
+           "メアリーさんのホストファミリーの名前は山田だ。 (The host family’s name is Yamada.)",
+           "×",
+           "It is Yamamoto (山本)."
+          ]
+         ],
+         "speakCols": []
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What was the weather on November 25?",
+       "options": [
+        "cloudy",
+        "snow",
+        "rain",
+        "sunny"
+       ],
+       "correctIndex": 2,
+       "explanation": "雨がふっていた."
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What did Sue do in the morning?",
+       "options": [
+        "slept",
+        "went shopping",
+        "wrote e-mail and listened to music",
+        "played tennis"
+       ],
+       "correctIndex": 2,
+       "explanation": "メールを書いて…音楽を聞いた."
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "When did she go to Mary’s house?",
+       "options": [
+        "at night",
+        "around noon",
+        "in the morning",
+        "after dinner"
+       ],
+       "correctIndex": 1,
+       "explanation": "昼ごろ."
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What was Mary’s house like?",
+       "options": [
+        "big and red",
+        "small and white",
+        "small and old",
+        "big and white"
+       ],
+       "correctIndex": 3,
+       "explanation": "白くて、大きい家."
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What was Mary’s host father like?",
+       "options": [
+        "tall and thin",
+        "tall and heavy",
+        "short and heavy",
+        "short and thin"
+       ],
+       "correctIndex": 0,
+       "explanation": "せが高くて、やせている."
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "Where did they eat dinner?",
+       "options": [
+        "at home",
+        "outdoors",
+        "at a university",
+        "at a restaurant"
+       ],
+       "correctIndex": 0,
+       "explanation": "家で晩ご飯を食べた."
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What did the mother say about dinner?",
+       "options": [
+        "“We have nothing special”",
+        "“It is expensive”",
+        "“We have no rice”",
+        "“It is delicious”"
+       ],
+       "correctIndex": 0,
+       "explanation": "「何もありませんが」と言っていた."
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What did Sue think of the mother’s cooking?",
+       "options": [
+        "very good",
+        "so-so",
+        "too salty",
+        "bad"
+       ],
+       "correctIndex": 0,
+       "explanation": "料理がすごく上手だと思う."
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "What did they do after dinner?",
+       "options": [
+        "played games",
+        "watched TV",
+        "went shopping",
+        "talked about various things"
+       ],
+       "correctIndex": 3,
+       "explanation": "いろいろな話をした."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What did Sue receive?",
+       "options": [
+        "a hat",
+        "a kimono",
+        "a book",
+        "a bicycle"
+       ],
+       "correctIndex": 1,
+       "explanation": "きれいな着物をもらった."
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What did the mother say about the kimono?",
+       "options": [
+        "it was too big",
+        "it was a little old",
+        "it was cheap",
+        "it was new"
+       ],
+       "correctIndex": 1,
+       "explanation": "少し古いと言っていた."
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "What does そして mean?",
+       "options": [
+        "and then",
+        "because",
+        "but",
+        "so"
+       ],
+       "correctIndex": 0,
+       "explanation": "そして is “and then”."
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "What does ごちそう mean?",
+       "options": [
+        "a gift",
+        "a host family",
+        "excellent food",
+        "a kimono"
+       ],
+       "correctIndex": 2,
+       "explanation": "ごちそう is a fine meal."
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "What does 午前中 mean?",
+       "options": [
+        "all night",
+        "in the afternoon",
+        "in the morning",
+        "at noon"
+       ],
+       "correctIndex": 2,
+       "explanation": "午前中 is ごぜんちゅう."
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "What does 昼 mean?",
+       "options": [
+        "night",
+        "morning",
+        "noon",
+        "evening"
+       ],
+       "correctIndex": 2,
+       "explanation": "昼 is ひる: noon."
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "What does いろいろな mean?",
+       "options": [
+        "a little",
+        "old",
+        "new",
+        "various"
+       ],
+       "correctIndex": 3,
+       "explanation": "いろいろ means various."
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "What is the plain form of 行きました?",
+       "options": [
+        "行った",
+        "行く",
+        "行きます",
+        "行って"
+       ],
+       "correctIndex": 0,
+       "explanation": "行った is the plain past."
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "What is the plain form of おいしかったです?",
+       "options": [
+        "おいしかった",
+        "おいしくない",
+        "おいしくて",
+        "おいしい"
+       ],
+       "correctIndex": 0,
+       "explanation": "おいしかった is the plain past."
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "What is the plain form of きれいです?",
+       "options": [
+        "きれいだ",
+        "きれいだった",
+        "きれいです",
+        "きれいな"
+       ],
+       "correctIndex": 0,
+       "explanation": "きれいだ is the plain present."
+      },
+      {
+       "id": "e20",
+       "type": "multipleChoice",
+       "prompt": "What is the plain form of 大きい家でした?",
+       "options": [
+        "大きい家だ",
+        "大きい家です",
+        "大きい家だって",
+        "大きい家だった"
+       ],
+       "correctIndex": 3,
+       "explanation": "でした → だった."
+      },
+      {
+       "id": "e21",
+       "type": "fillBlank",
+       "prompt": "今日は朝から雨が___いた。 (was falling)",
+       "options": [
+        "ふり",
+        "ふる",
+        "ふって",
+        "ふれ"
+       ],
+       "correctIndex": 2,
+       "explanation": "ふっていた."
+      },
+      {
+       "id": "e22",
+       "type": "fillBlank",
+       "prompt": "お父さんはせが___くて、やせている人だった。 (tall)",
+       "options": [
+        "高",
+        "大",
+        "小",
+        "低"
+       ],
+       "correctIndex": 0,
+       "explanation": "せが高い is tall."
+      },
+      {
+       "id": "e23",
+       "type": "fillBlank",
+       "prompt": "晩ご飯の___、いろいろな話をした。 (after)",
+       "options": [
+        "上",
+        "中",
+        "後",
+        "前"
+       ],
+       "correctIndex": 2,
+       "explanation": "晩ご飯の後."
+      },
+      {
+       "id": "e24",
+       "type": "fillBlank",
+       "prompt": "きれいな着物を___。 (was given)",
+       "options": [
+        "もらった",
+        "つくった",
+        "あげた",
+        "かった"
+       ],
+       "correctIndex": 0,
+       "explanation": "もらった."
+      }
+     ]
+    },
+    {
+     "id": "ja_140",
+     "title": "140. Reading: the thank-you e-mail and useful expressions",
+     "subtitle": "山本さまへ · どうもありがとうございました · いろいろおせわになりました · おめでとうございます",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "Sue’s e-mail to the Yamamotos",
+       "body": "Sue wrote an e-mail to Mary’s host family. Words: りょう (dormitory), あんないする (to show someone around). The e-mail address in the book’s picture is not included here.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "山本さま",
+         "translation": "Yamamoto-sama — Dear Mr./Mrs. Yamamoto,"
+        },
+        {
+         "text": "きのうはどうもありがとうございました。",
+         "translation": "Kinoo wa doomo arigatoo gozaimashita. — Thank you very much for yesterday."
+        },
+        {
+         "text": "とてもたのしかったです。",
+         "translation": "Totemo tanoshikatta desu. — It was a lot of fun."
+        },
+        {
+         "text": "りょうではあまり日本のりょうりを食べませんが、お母さんのりょうりはとてもおいしかったです。",
+         "translation": "Ryoo de wa amari Nihon no ryoori o tabemasen ga, okaasan no ryoori wa totemo oishikatta desu. — In the dormitory I do not eat much Japanese food, but your cooking was very delicious."
+        },
+        {
+         "text": "それから、きものをありがとうございました。",
+         "translation": "Sorekara, kimono o arigatoo gozaimashita. — Also, thank you for the kimono."
+        },
+        {
+         "text": "とてもきれいなきものですね。",
+         "translation": "Totemo kiree na kimono desu ne. — It is a very beautiful kimono."
+        },
+        {
+         "text": "かんこくにもあそびに来てください。",
+         "translation": "Kankoku ni mo asobi ni kite kudasai. — Please come to visit Korea, too."
+        },
+        {
+         "text": "私はソウルのおもしろいところを知っていますから、あんないします。",
+         "translation": "Watashi wa Sooru no omoshiroi tokoro o shitte imasu kara, annai shimasu. — I know interesting places in Seoul, so I will show you around."
+        },
+        {
+         "text": "スー・キム",
+         "translation": "Suu Kimu — Sue Kim"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Useful expressions for a letter",
+       "body": "The book lists five expressions you can use in a thank-you letter. Tap a line to hear it.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "いろいろおせわになりました。",
+         "translation": "Iroiro osewa ni narimashita. — Thank you for everything. (lit. I was looked after in various ways.)"
+        },
+        {
+         "text": "体に気をつけてください。",
+         "translation": "Karada ni ki o tsukete kudasai. — Please take care of yourself."
+        },
+        {
+         "text": "お会いできるのを楽しみにしています。",
+         "translation": "Oai dekiru no o tanoshimi ni shite imasu. — I am looking forward to seeing you."
+        },
+        {
+         "text": "おめでとうございます。",
+         "translation": "Omedetoo gozaimasu. — Congratulations. (Say what for before it: ～おめでとうございます.)"
+        },
+        {
+         "text": "おたんじょうびおめでとう。",
+         "translation": "Otanjoobi omedetoo. — Happy Birthday."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Writing practice",
+       "body": "The book asks you to (A) write a journal about what you did yesterday, and (B) write a thank-you letter to someone. A sample journal entry of mine (not the book’s), in the plain form:",
+       "tables": [],
+       "examples": [
+        {
+         "text": "きのうは友だちと昼ご飯を食べた。",
+         "translation": "Kinoo wa tomodachi to hirugohan o tabeta. — Yesterday I ate lunch with a friend."
+        },
+        {
+         "text": "午後は図書館で本を読んだ。",
+         "translation": "Gogo wa toshokan de hon o yonda. — In the afternoon I read a book in the library."
+        },
+        {
+         "text": "晩ご飯の後、家族と話をした。",
+         "translation": "Bangohan no ato, kazoku to hanashi o shita. — After dinner I talked with my family."
+        },
+        {
+         "text": "とても楽しかった。",
+         "translation": "Totemo tanoshikatta. — It was very fun."
+        }
+       ],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does Sue thank the Yamamotos for?",
+       "options": [
+        "a ticket",
+        "a bicycle",
+        "yesterday and the kimono",
+        "an English lesson"
+       ],
+       "correctIndex": 2,
+       "explanation": "きのうはどうもありがとうございました…きものをありがとうございました."
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What does Sue say about the mother’s cooking?",
+       "options": [
+        "it was too much",
+        "it was expensive",
+        "it was very delicious",
+        "it was cold"
+       ],
+       "correctIndex": 2,
+       "explanation": "お母さんのりょうりはとてもおいしかったです."
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "Where does Sue live?",
+       "options": [
+        "a hotel",
+        "a dormitory",
+        "an apartment in Seoul",
+        "a house"
+       ],
+       "correctIndex": 1,
+       "explanation": "りょうでは…"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does Sue invite the family to do?",
+       "options": [
+        "eat dinner",
+        "visit Tokyo",
+        "see a film",
+        "visit Korea"
+       ],
+       "correctIndex": 3,
+       "explanation": "かんこくにもあそびに来てください."
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What does Sue promise?",
+       "options": [
+        "to send a kimono",
+        "to cook Korean food",
+        "to show them around Seoul",
+        "to buy tickets"
+       ],
+       "correctIndex": 2,
+       "explanation": "ソウルのおもしろいところを知っていますから、あんないします."
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What does いろいろおせわになりました mean?",
+       "options": [
+        "thank you for everything",
+        "happy birthday",
+        "please take care",
+        "congratulations"
+       ],
+       "correctIndex": 0,
+       "explanation": "いろいろおせわになりました."
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What does 体に気をつけてください mean?",
+       "options": [
+        "thank you for everything",
+        "congratulations",
+        "please take care of yourself",
+        "I am looking forward to it"
+       ],
+       "correctIndex": 2,
+       "explanation": "体に気をつけてください."
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What does お会いできるのを楽しみにしています mean?",
+       "options": [
+        "thank you for the meal",
+        "please come here",
+        "I am looking forward to seeing you",
+        "I am sorry"
+       ],
+       "correctIndex": 2,
+       "explanation": "お会いできるのを楽しみにしています."
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "What does おたんじょうびおめでとう mean?",
+       "options": [
+        "Good luck",
+        "Congratulations on graduating",
+        "Happy New Year",
+        "Happy Birthday"
+       ],
+       "correctIndex": 3,
+       "explanation": "おたんじょうびおめでとう."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What does あんないする mean?",
+       "options": [
+        "to show someone around",
+        "to leave",
+        "to meet",
+        "to invite"
+       ],
+       "correctIndex": 0,
+       "explanation": "あんないする is “to guide”."
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What does りょう mean?",
+       "options": [
+        "dormitory",
+        "castle",
+        "kimono",
+        "family"
+       ],
+       "correctIndex": 0,
+       "explanation": "りょう is a dormitory."
+      },
+      {
+       "id": "e12",
+       "type": "fillBlank",
+       "prompt": "きのうはどうも___ございました。 (thank you)",
+       "options": [
+        "ありがとう",
+        "おめでとう",
+        "いただき",
+        "すみません"
+       ],
+       "correctIndex": 0,
+       "explanation": "ありがとうございました."
+      },
+      {
+       "id": "e13",
+       "type": "fillBlank",
+       "prompt": "かんこくにもあそびに___ください。 (come)",
+       "options": [
+        "聞いて",
+        "帰って",
+        "行って",
+        "来て"
+       ],
+       "correctIndex": 3,
+       "explanation": "来てください."
+      },
+      {
+       "id": "e14",
+       "type": "fillBlank",
+       "prompt": "私はソウルのおもしろいところを___いますから、あんないします。 (know)",
+       "options": [
+        "話して",
+        "言って",
+        "書いて",
+        "知って"
+       ],
+       "correctIndex": 3,
+       "explanation": "知っています."
+      },
+      {
+       "id": "e15",
+       "type": "fillBlank",
+       "prompt": "お会いできるのを___にしています。 (looking forward)",
+       "options": [
+        "楽しみ",
+        "悲しみ",
+        "話し",
+        "休み"
+       ],
+       "correctIndex": 0,
+       "explanation": "楽しみにしています."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "unit_23",
+   "title": "Genki I, Reading & Writing 10: The Folktale Kasajizo",
+   "lessons": [
+    {
+     "id": "ja_141",
+     "title": "141. Kanji: 住 正 年 売 買 町 長",
+     "subtitle": "住 · 正 · 年 · 売 · 買 · 町 · 長 · living, New Year, selling and buying, town",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "The Folktale Kasajizo: fourteen new kanji",
+       "body": "Lesson 10 of the Reading and Writing section (「かさじぞう」, The Folktale Kasajizo) teaches 住 正 年 売 買 町 長 道 雪 立 自 夜 朝 持. The reading practice is the folktale “かさじぞう” (the hat Jizo), a famous Japanese story about an old couple and six statues in the snow. The first seven kanji are here.",
+       "tables": [],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Kanji: 住 正 年",
+       "body": "▶ is the on-yomi (the reading borrowed from Chinese) and ▷ is the kun-yomi (the native Japanese reading). The reading of each word is spoken when you tap it.",
+       "tables": [
+        {
+         "headers": [
+          "Kanji",
+          "Meaning",
+          "On-yomi ▶",
+          "Kun-yomi ▷",
+          "Strokes"
+         ],
+         "rows": [
+          [
+           "住",
+           "to live",
+           "じゅう",
+           "す",
+           "7"
+          ],
+          [
+           "正",
+           "right",
+           "しょう",
+           "ただ",
+           "5"
+          ],
+          [
+           "年",
+           "year",
+           "ねん",
+           "とし",
+           "6"
+          ]
+         ],
+         "speakCols": []
+        },
+        {
+         "headers": [
+          "Reading",
+          "Word",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "すむ",
+           "住む",
+           "Sumu",
+           "to live"
+          ],
+          [
+           "じゅうしょ",
+           "住所",
+           "Juusho",
+           "address"
+          ],
+          [
+           "いじゅうする",
+           "移住する",
+           "Ijuu suru",
+           "to immigrate"
+          ],
+          [
+           "おしょうがつ",
+           "お正月",
+           "Oshoogatsu",
+           "New Year"
+          ],
+          [
+           "ただしい",
+           "正しい",
+           "Tadashii",
+           "right, correct"
+          ],
+          [
+           "しょうご",
+           "正午",
+           "Shoogo",
+           "noon"
+          ],
+          [
+           "さんねんせい",
+           "三年生",
+           "Sannensee",
+           "third-year student"
+          ],
+          [
+           "らいねん",
+           "来年",
+           "Rainen",
+           "next year"
+          ],
+          [
+           "ことし",
+           "今年",
+           "Kotoshi",
+           "this year"
+          ],
+          [
+           "とし",
+           "年",
+           "Toshi",
+           "year"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Kanji: 売 買 町",
+       "body": "▶ is the on-yomi (the reading borrowed from Chinese) and ▷ is the kun-yomi (the native Japanese reading). The reading of each word is spoken when you tap it.",
+       "tables": [
+        {
+         "headers": [
+          "Kanji",
+          "Meaning",
+          "On-yomi ▶",
+          "Kun-yomi ▷",
+          "Strokes"
+         ],
+         "rows": [
+          [
+           "売",
+           "to sell",
+           "ばい",
+           "う",
+           "7"
+          ],
+          [
+           "買",
+           "to buy",
+           "ばい",
+           "か",
+           "12"
+          ],
+          [
+           "町",
+           "town",
+           "ちょう",
+           "まち",
+           "7"
+          ]
+         ],
+         "speakCols": []
+        },
+        {
+         "headers": [
+          "Reading",
+          "Word",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "うる",
+           "売る",
+           "Uru",
+           "to sell"
+          ],
+          [
+           "ばいてん",
+           "売店",
+           "Baiten",
+           "stand, stall"
+          ],
+          [
+           "じどうはんばいき",
+           "自動販売機",
+           "Jidoohanbaiki",
+           "vending machine"
+          ],
+          [
+           "かう",
+           "買う",
+           "Kau",
+           "to buy"
+          ],
+          [
+           "かいもの",
+           "買い物",
+           "Kaimono",
+           "shopping"
+          ],
+          [
+           "ばいばい",
+           "売買",
+           "Baibai",
+           "selling and buying"
+          ],
+          [
+           "まち",
+           "町",
+           "Machi",
+           "town"
+          ],
+          [
+           "きたやままち",
+           "北山町",
+           "Kitayamamachi",
+           "Kitayama town"
+          ],
+          [
+           "ちょうちょう",
+           "町長",
+           "Choochoo",
+           "mayor of a town"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Kanji: 長",
+       "body": "▶ is the on-yomi (the reading borrowed from Chinese) and ▷ is the kun-yomi (the native Japanese reading). The reading of each word is spoken when you tap it.",
+       "tables": [
+        {
+         "headers": [
+          "Kanji",
+          "Meaning",
+          "On-yomi ▶",
+          "Kun-yomi ▷",
+          "Strokes"
+         ],
+         "rows": [
+          [
+           "長",
+           "long",
+           "ちょう",
+           "なが",
+           "8"
+          ]
+         ],
+         "speakCols": []
+        },
+        {
+         "headers": [
+          "Reading",
+          "Word",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "ながい",
+           "長い",
+           "Nagai",
+           "long"
+          ],
+          [
+           "ちょうなん",
+           "長男",
+           "Choonan",
+           "the eldest son"
+          ],
+          [
+           "しゃちょう",
+           "社長",
+           "Shachoo",
+           "company president"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Selling and buying",
+       "body": "売 (う・る) and 買 (か・う) look alike and sound alike in compounds (both are ばい). 売 has 士 (a scholar) on top, 買 has 四 (four) on top with 貝 (shell, money) below. 買い物 (かいもの) is “shopping”, 売店 (ばいてん) is a stand or stall where things are sold.",
+       "tables": [
+        {
+         "headers": [
+          "Reading",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "うる",
+           "売る",
+           "Uru",
+           "to sell"
+          ],
+          [
+           "かう",
+           "買う",
+           "Kau",
+           "to buy"
+          ],
+          [
+           "かいもの",
+           "買い物",
+           "Kaimono",
+           "shopping"
+          ],
+          [
+           "ばいてん",
+           "売店",
+           "Baiten",
+           "stand, stall"
+          ],
+          [
+           "すむ",
+           "住む",
+           "Sumu",
+           "to live"
+          ],
+          [
+           "じゅうしょ",
+           "住所",
+           "Juusho",
+           "address"
+          ],
+          [
+           "おしょうがつ",
+           "お正月",
+           "Oshoogatsu",
+           "New Year"
+          ],
+          [
+           "ことし",
+           "今年",
+           "Kotoshi",
+           "this year"
+          ],
+          [
+           "らいねん",
+           "来年",
+           "Rainen",
+           "next year"
+          ],
+          [
+           "ながい",
+           "長い",
+           "Nagai",
+           "long"
+          ],
+          [
+           "しゃちょう",
+           "社長",
+           "Shachoo",
+           "company president"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does 住 mean?",
+       "options": [
+        "right",
+        "to live",
+        "year",
+        "to sell"
+       ],
+       "correctIndex": 1,
+       "explanation": "住 means “to live”."
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “to live”?",
+       "options": [
+        "年",
+        "正",
+        "住",
+        "売"
+       ],
+       "correctIndex": 2,
+       "explanation": "to live is 住."
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 住 have?",
+       "options": [
+        "9",
+        "7",
+        "8",
+        "6"
+       ],
+       "correctIndex": 1,
+       "explanation": "住 is written with 7 strokes."
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does 正 mean?",
+       "options": [
+        "to buy",
+        "to sell",
+        "right",
+        "year"
+       ],
+       "correctIndex": 2,
+       "explanation": "正 means “right”."
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “right”?",
+       "options": [
+        "年",
+        "買",
+        "売",
+        "正"
+       ],
+       "correctIndex": 3,
+       "explanation": "right is 正."
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 正 have?",
+       "options": [
+        "4",
+        "6",
+        "5",
+        "7"
+       ],
+       "correctIndex": 2,
+       "explanation": "正 is written with 5 strokes."
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What does 年 mean?",
+       "options": [
+        "to buy",
+        "town",
+        "to sell",
+        "year"
+       ],
+       "correctIndex": 3,
+       "explanation": "年 means “year”."
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “year”?",
+       "options": [
+        "年",
+        "買",
+        "町",
+        "売"
+       ],
+       "correctIndex": 0,
+       "explanation": "year is 年."
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 年 have?",
+       "options": [
+        "8",
+        "6",
+        "7",
+        "5"
+       ],
+       "correctIndex": 1,
+       "explanation": "年 is written with 6 strokes."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What does 売 mean?",
+       "options": [
+        "to sell",
+        "to buy",
+        "long",
+        "town"
+       ],
+       "correctIndex": 0,
+       "explanation": "売 means “to sell”."
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “to sell”?",
+       "options": [
+        "長",
+        "買",
+        "町",
+        "売"
+       ],
+       "correctIndex": 3,
+       "explanation": "to sell is 売."
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 売 have?",
+       "options": [
+        "9",
+        "7",
+        "6",
+        "8"
+       ],
+       "correctIndex": 1,
+       "explanation": "売 is written with 7 strokes."
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "What does 買 mean?",
+       "options": [
+        "to buy",
+        "to live",
+        "long",
+        "town"
+       ],
+       "correctIndex": 0,
+       "explanation": "買 means “to buy”."
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “to buy”?",
+       "options": [
+        "長",
+        "住",
+        "町",
+        "買"
+       ],
+       "correctIndex": 3,
+       "explanation": "to buy is 買."
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 買 have?",
+       "options": [
+        "11",
+        "12",
+        "14",
+        "13"
+       ],
+       "correctIndex": 1,
+       "explanation": "買 is written with 12 strokes."
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "What does 町 mean?",
+       "options": [
+        "town",
+        "to live",
+        "long",
+        "right"
+       ],
+       "correctIndex": 0,
+       "explanation": "町 means “town”."
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “town”?",
+       "options": [
+        "町",
+        "正",
+        "長",
+        "住"
+       ],
+       "correctIndex": 0,
+       "explanation": "town is 町."
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 町 have?",
+       "options": [
+        "8",
+        "7",
+        "6",
+        "9"
+       ],
+       "correctIndex": 1,
+       "explanation": "町 is written with 7 strokes."
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "What does 長 mean?",
+       "options": [
+        "right",
+        "long",
+        "year",
+        "to live"
+       ],
+       "correctIndex": 1,
+       "explanation": "長 means “long”."
+      },
+      {
+       "id": "e20",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “long”?",
+       "options": [
+        "年",
+        "長",
+        "住",
+        "正"
+       ],
+       "correctIndex": 1,
+       "explanation": "long is 長."
+      },
+      {
+       "id": "e21",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 長 have?",
+       "options": [
+        "10",
+        "7",
+        "8",
+        "9"
+       ],
+       "correctIndex": 2,
+       "explanation": "長 is written with 8 strokes."
+      },
+      {
+       "id": "e22",
+       "type": "multipleChoice",
+       "prompt": "How do you read 住む?",
+       "options": [
+        "おしょうがつ",
+        "すむ",
+        "じゅうしょ",
+        "いじゅうする"
+       ],
+       "correctIndex": 1,
+       "explanation": "住む is read すむ (Sumu): to live."
+      },
+      {
+       "id": "e23",
+       "type": "multipleChoice",
+       "prompt": "Which word means “to live”?",
+       "options": [
+        "住む",
+        "お正月",
+        "住所",
+        "移住する"
+       ],
+       "correctIndex": 0,
+       "explanation": "to live is 住む (すむ)."
+      },
+      {
+       "id": "e24",
+       "type": "multipleChoice",
+       "prompt": "How do you read 住所?",
+       "options": [
+        "いじゅうする",
+        "ただしい",
+        "じゅうしょ",
+        "おしょうがつ"
+       ],
+       "correctIndex": 2,
+       "explanation": "住所 is read じゅうしょ (Juusho): address."
+      },
+      {
+       "id": "e25",
+       "type": "multipleChoice",
+       "prompt": "Which word means “address”?",
+       "options": [
+        "正しい",
+        "住所",
+        "移住する",
+        "お正月"
+       ],
+       "correctIndex": 1,
+       "explanation": "address is 住所 (じゅうしょ)."
+      },
+      {
+       "id": "e26",
+       "type": "multipleChoice",
+       "prompt": "How do you read 移住する?",
+       "options": [
+        "おしょうがつ",
+        "ただしい",
+        "いじゅうする",
+        "しょうご"
+       ],
+       "correctIndex": 2,
+       "explanation": "移住する is read いじゅうする (Ijuu suru): to immigrate."
+      },
+      {
+       "id": "e27",
+       "type": "multipleChoice",
+       "prompt": "Which word means “to immigrate”?",
+       "options": [
+        "正しい",
+        "正午",
+        "お正月",
+        "移住する"
+       ],
+       "correctIndex": 3,
+       "explanation": "to immigrate is 移住する (いじゅうする)."
+      },
+      {
+       "id": "e28",
+       "type": "multipleChoice",
+       "prompt": "How do you read お正月?",
+       "options": [
+        "おしょうがつ",
+        "しょうご",
+        "ただしい",
+        "さんねんせい"
+       ],
+       "correctIndex": 0,
+       "explanation": "お正月 is read おしょうがつ (Oshoogatsu): New Year."
+      },
+      {
+       "id": "e29",
+       "type": "multipleChoice",
+       "prompt": "Which word means “New Year”?",
+       "options": [
+        "三年生",
+        "正午",
+        "お正月",
+        "正しい"
+       ],
+       "correctIndex": 2,
+       "explanation": "New Year is お正月 (おしょうがつ)."
+      },
+      {
+       "id": "e30",
+       "type": "multipleChoice",
+       "prompt": "How do you read 正しい?",
+       "options": [
+        "らいねん",
+        "さんねんせい",
+        "しょうご",
+        "ただしい"
+       ],
+       "correctIndex": 3,
+       "explanation": "正しい is read ただしい (Tadashii): right, correct."
+      },
+      {
+       "id": "e31",
+       "type": "multipleChoice",
+       "prompt": "Which word means “right, correct”?",
+       "options": [
+        "正午",
+        "来年",
+        "正しい",
+        "三年生"
+       ],
+       "correctIndex": 2,
+       "explanation": "right, correct is 正しい (ただしい)."
+      },
+      {
+       "id": "e32",
+       "type": "multipleChoice",
+       "prompt": "How do you read 正午?",
+       "options": [
+        "らいねん",
+        "しょうご",
+        "さんねんせい",
+        "ことし"
+       ],
+       "correctIndex": 1,
+       "explanation": "正午 is read しょうご (Shoogo): noon."
+      },
+      {
+       "id": "e33",
+       "type": "multipleChoice",
+       "prompt": "Which word means “noon”?",
+       "options": [
+        "三年生",
+        "正午",
+        "来年",
+        "今年"
+       ],
+       "correctIndex": 1,
+       "explanation": "noon is 正午 (しょうご)."
+      },
+      {
+       "id": "e34",
+       "type": "multipleChoice",
+       "prompt": "How do you read 三年生?",
+       "options": [
+        "ことし",
+        "らいねん",
+        "とし",
+        "さんねんせい"
+       ],
+       "correctIndex": 3,
+       "explanation": "三年生 is read さんねんせい (Sannensee): third-year student."
+      },
+      {
+       "id": "e35",
+       "type": "multipleChoice",
+       "prompt": "Which word means “third-year student”?",
+       "options": [
+        "年",
+        "今年",
+        "三年生",
+        "来年"
+       ],
+       "correctIndex": 2,
+       "explanation": "third-year student is 三年生 (さんねんせい)."
+      },
+      {
+       "id": "e36",
+       "type": "multipleChoice",
+       "prompt": "How do you read 来年?",
+       "options": [
+        "らいねん",
+        "とし",
+        "うる",
+        "ことし"
+       ],
+       "correctIndex": 0,
+       "explanation": "来年 is read らいねん (Rainen): next year."
+      },
+      {
+       "id": "e37",
+       "type": "multipleChoice",
+       "prompt": "Which word means “next year”?",
+       "options": [
+        "年",
+        "売る",
+        "今年",
+        "来年"
+       ],
+       "correctIndex": 3,
+       "explanation": "next year is 来年 (らいねん)."
+      },
+      {
+       "id": "e38",
+       "type": "multipleChoice",
+       "prompt": "How do you read 今年?",
+       "options": [
+        "とし",
+        "ことし",
+        "うる",
+        "ばいてん"
+       ],
+       "correctIndex": 1,
+       "explanation": "今年 is read ことし (Kotoshi): this year."
+      },
+      {
+       "id": "e39",
+       "type": "multipleChoice",
+       "prompt": "Which word means “this year”?",
+       "options": [
+        "売店",
+        "今年",
+        "年",
+        "売る"
+       ],
+       "correctIndex": 1,
+       "explanation": "this year is 今年 (ことし)."
+      },
+      {
+       "id": "e40",
+       "type": "multipleChoice",
+       "prompt": "How do you read 年?",
+       "options": [
+        "じどうはんばいき",
+        "ばいてん",
+        "とし",
+        "うる"
+       ],
+       "correctIndex": 2,
+       "explanation": "年 is read とし (Toshi): year."
+      },
+      {
+       "id": "e41",
+       "type": "multipleChoice",
+       "prompt": "Which word means “year”?",
+       "options": [
+        "年",
+        "売る",
+        "売店",
+        "自動販売機"
+       ],
+       "correctIndex": 0,
+       "explanation": "year is 年 (とし)."
+      },
+      {
+       "id": "e42",
+       "type": "multipleChoice",
+       "prompt": "How do you read 売る?",
+       "options": [
+        "うる",
+        "かう",
+        "ばいてん",
+        "じどうはんばいき"
+       ],
+       "correctIndex": 0,
+       "explanation": "売る is read うる (Uru): to sell."
+      },
+      {
+       "id": "e43",
+       "type": "multipleChoice",
+       "prompt": "Which word means “to sell”?",
+       "options": [
+        "売店",
+        "自動販売機",
+        "買う",
+        "売る"
+       ],
+       "correctIndex": 3,
+       "explanation": "to sell is 売る (うる)."
+      },
+      {
+       "id": "e44",
+       "type": "multipleChoice",
+       "prompt": "How do you read 売店?",
+       "options": [
+        "ばいてん",
+        "じどうはんばいき",
+        "かう",
+        "かいもの"
+       ],
+       "correctIndex": 0,
+       "explanation": "売店 is read ばいてん (Baiten): stand, stall."
+      },
+      {
+       "id": "e45",
+       "type": "multipleChoice",
+       "prompt": "Which word means “stand, stall”?",
+       "options": [
+        "売店",
+        "買い物",
+        "買う",
+        "自動販売機"
+       ],
+       "correctIndex": 0,
+       "explanation": "stand, stall is 売店 (ばいてん)."
+      },
+      {
+       "id": "e46",
+       "type": "multipleChoice",
+       "prompt": "How do you read 自動販売機?",
+       "options": [
+        "かいもの",
+        "じどうはんばいき",
+        "かう",
+        "ばいばい"
+       ],
+       "correctIndex": 1,
+       "explanation": "自動販売機 is read じどうはんばいき (Jidoohanbaiki): vending machine."
+      },
+      {
+       "id": "e47",
+       "type": "multipleChoice",
+       "prompt": "Which word means “vending machine”?",
+       "options": [
+        "売買",
+        "自動販売機",
+        "買う",
+        "買い物"
+       ],
+       "correctIndex": 1,
+       "explanation": "vending machine is 自動販売機 (じどうはんばいき)."
+      },
+      {
+       "id": "e48",
+       "type": "multipleChoice",
+       "prompt": "How do you read 買う?",
+       "options": [
+        "かいもの",
+        "まち",
+        "ばいばい",
+        "かう"
+       ],
+       "correctIndex": 3,
+       "explanation": "買う is read かう (Kau): to buy."
+      },
+      {
+       "id": "e49",
+       "type": "multipleChoice",
+       "prompt": "Which word means “to buy”?",
+       "options": [
+        "買い物",
+        "町",
+        "買う",
+        "売買"
+       ],
+       "correctIndex": 2,
+       "explanation": "to buy is 買う (かう)."
+      },
+      {
+       "id": "e50",
+       "type": "multipleChoice",
+       "prompt": "How do you read 買い物?",
+       "options": [
+        "きたやままち",
+        "かいもの",
+        "ばいばい",
+        "まち"
+       ],
+       "correctIndex": 1,
+       "explanation": "買い物 is read かいもの (Kaimono): shopping."
+      },
+      {
+       "id": "e51",
+       "type": "multipleChoice",
+       "prompt": "Which word means “shopping”?",
+       "options": [
+        "町",
+        "北山町",
+        "売買",
+        "買い物"
+       ],
+       "correctIndex": 3,
+       "explanation": "shopping is 買い物 (かいもの)."
+      },
+      {
+       "id": "e52",
+       "type": "multipleChoice",
+       "prompt": "How do you read 売買?",
+       "options": [
+        "きたやままち",
+        "まち",
+        "ちょうちょう",
+        "ばいばい"
+       ],
+       "correctIndex": 3,
+       "explanation": "売買 is read ばいばい (Baibai): selling and buying."
+      },
+      {
+       "id": "e53",
+       "type": "multipleChoice",
+       "prompt": "Which word means “selling and buying”?",
+       "options": [
+        "町長",
+        "売買",
+        "北山町",
+        "町"
+       ],
+       "correctIndex": 1,
+       "explanation": "selling and buying is 売買 (ばいばい)."
+      },
+      {
+       "id": "e54",
+       "type": "multipleChoice",
+       "prompt": "How do you read 町?",
+       "options": [
+        "ながい",
+        "ちょうちょう",
+        "きたやままち",
+        "まち"
+       ],
+       "correctIndex": 3,
+       "explanation": "町 is read まち (Machi): town."
+      },
+      {
+       "id": "e55",
+       "type": "multipleChoice",
+       "prompt": "Which word means “town”?",
+       "options": [
+        "北山町",
+        "町長",
+        "長い",
+        "町"
+       ],
+       "correctIndex": 3,
+       "explanation": "town is 町 (まち)."
+      },
+      {
+       "id": "e56",
+       "type": "multipleChoice",
+       "prompt": "How do you read 北山町?",
+       "options": [
+        "ながい",
+        "ちょうなん",
+        "ちょうちょう",
+        "きたやままち"
+       ],
+       "correctIndex": 3,
+       "explanation": "北山町 is read きたやままち (Kitayamamachi): Kitayama town."
+      },
+      {
+       "id": "e57",
+       "type": "multipleChoice",
+       "prompt": "Which word means “Kitayama town”?",
+       "options": [
+        "長男",
+        "長い",
+        "町長",
+        "北山町"
+       ],
+       "correctIndex": 3,
+       "explanation": "Kitayama town is 北山町 (きたやままち)."
+      },
+      {
+       "id": "e58",
+       "type": "multipleChoice",
+       "prompt": "How do you read 町長?",
+       "options": [
+        "しゃちょう",
+        "ちょうちょう",
+        "ながい",
+        "ちょうなん"
+       ],
+       "correctIndex": 1,
+       "explanation": "町長 is read ちょうちょう (Choochoo): mayor of a town."
+      },
+      {
+       "id": "e59",
+       "type": "multipleChoice",
+       "prompt": "Which word means “mayor of a town”?",
+       "options": [
+        "長い",
+        "長男",
+        "社長",
+        "町長"
+       ],
+       "correctIndex": 3,
+       "explanation": "mayor of a town is 町長 (ちょうちょう)."
+      },
+      {
+       "id": "e60",
+       "type": "multipleChoice",
+       "prompt": "How do you read 長い?",
+       "options": [
+        "ながい",
+        "しゃちょう",
+        "ちょうなん",
+        "すむ"
+       ],
+       "correctIndex": 0,
+       "explanation": "長い is read ながい (Nagai): long."
+      },
+      {
+       "id": "e61",
+       "type": "multipleChoice",
+       "prompt": "Which word means “long”?",
+       "options": [
+        "長男",
+        "社長",
+        "住む",
+        "長い"
+       ],
+       "correctIndex": 3,
+       "explanation": "long is 長い (ながい)."
+      },
+      {
+       "id": "e62",
+       "type": "multipleChoice",
+       "prompt": "How do you read 長男?",
+       "options": [
+        "すむ",
+        "じゅうしょ",
+        "しゃちょう",
+        "ちょうなん"
+       ],
+       "correctIndex": 3,
+       "explanation": "長男 is read ちょうなん (Choonan): the eldest son."
+      },
+      {
+       "id": "e63",
+       "type": "multipleChoice",
+       "prompt": "Which word means “the eldest son”?",
+       "options": [
+        "長男",
+        "住む",
+        "社長",
+        "住所"
+       ],
+       "correctIndex": 0,
+       "explanation": "the eldest son is 長男 (ちょうなん)."
+      },
+      {
+       "id": "e64",
+       "type": "multipleChoice",
+       "prompt": "How do you read 社長?",
+       "options": [
+        "すむ",
+        "じゅうしょ",
+        "しゃちょう",
+        "いじゅうする"
+       ],
+       "correctIndex": 2,
+       "explanation": "社長 is read しゃちょう (Shachoo): company president."
+      },
+      {
+       "id": "e65",
+       "type": "multipleChoice",
+       "prompt": "Which word means “company president”?",
+       "options": [
+        "住む",
+        "移住する",
+        "住所",
+        "社長"
+       ],
+       "correctIndex": 3,
+       "explanation": "company president is 社長 (しゃちょう)."
+      },
+      {
+       "id": "e66",
+       "type": "multipleChoice",
+       "prompt": "What does 自動販売機 mean?",
+       "options": [
+        "bicycle",
+        "post office",
+        "cash register",
+        "vending machine"
+       ],
+       "correctIndex": 3,
+       "explanation": "自動販売機 is じどうはんばいき."
+      },
+      {
+       "id": "e67",
+       "type": "multipleChoice",
+       "prompt": "What does 町長 mean?",
+       "options": [
+        "teacher",
+        "mayor of a town",
+        "company president",
+        "farmer"
+       ],
+       "correctIndex": 1,
+       "explanation": "町長 is ちょうちょう."
+      },
+      {
+       "id": "e68",
+       "type": "multipleChoice",
+       "prompt": "What does 移住する mean?",
+       "options": [
+        "to immigrate",
+        "to travel",
+        "to sell",
+        "to buy"
+       ],
+       "correctIndex": 0,
+       "explanation": "移住する is いじゅうする."
+      }
+     ]
+    },
+    {
+     "id": "ja_142",
+     "title": "142. Kanji: 道 雪 立 自 夜 朝 持",
+     "subtitle": "道 · 雪 · 立 · 自 · 夜 · 朝 · 持 · road, snow, stand, self, night, morning, hold",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "Kanji: 道 雪 立",
+       "body": "▶ is the on-yomi (the reading borrowed from Chinese) and ▷ is the kun-yomi (the native Japanese reading). The reading of each word is spoken when you tap it.",
+       "tables": [
+        {
+         "headers": [
+          "Kanji",
+          "Meaning",
+          "On-yomi ▶",
+          "Kun-yomi ▷",
+          "Strokes"
+         ],
+         "rows": [
+          [
+           "道",
+           "way",
+           "どう",
+           "みち",
+           "12"
+          ],
+          [
+           "雪",
+           "snow",
+           "せつ",
+           "ゆき",
+           "11"
+          ],
+          [
+           "立",
+           "to stand",
+           "りつ",
+           "た",
+           "5"
+          ]
+         ],
+         "speakCols": []
+        },
+        {
+         "headers": [
+          "Reading",
+          "Word",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "みち",
+           "道",
+           "Michi",
+           "way, road"
+          ],
+          [
+           "しょどう",
+           "書道",
+           "Shodoo",
+           "calligraphy"
+          ],
+          [
+           "じゅうどう",
+           "柔道",
+           "Juudoo",
+           "judo"
+          ],
+          [
+           "ほっかいどう",
+           "北海道",
+           "Hokkaidoo",
+           "Hokkaido"
+          ],
+          [
+           "ゆき",
+           "雪",
+           "Yuki",
+           "snow"
+          ],
+          [
+           "しんせつ",
+           "新雪",
+           "Shinsetsu",
+           "new snow"
+          ],
+          [
+           "ゆきだるま",
+           "雪だるま",
+           "Yukidaruma",
+           "snowman"
+          ],
+          [
+           "たつ",
+           "立つ",
+           "Tatsu",
+           "to stand"
+          ],
+          [
+           "こくりつだいがく",
+           "国立大学",
+           "Kokuritsu daigaku",
+           "national university"
+          ],
+          [
+           "しりつこうこう",
+           "私立高校",
+           "Shiritsu kookoo",
+           "private high school"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Kanji: 自 夜 朝",
+       "body": "▶ is the on-yomi (the reading borrowed from Chinese) and ▷ is the kun-yomi (the native Japanese reading). The reading of each word is spoken when you tap it.",
+       "tables": [
+        {
+         "headers": [
+          "Kanji",
+          "Meaning",
+          "On-yomi ▶",
+          "Kun-yomi ▷",
+          "Strokes"
+         ],
+         "rows": [
+          [
+           "自",
+           "self",
+           "じ",
+           "-",
+           "6"
+          ],
+          [
+           "夜",
+           "night",
+           "や",
+           "よる・よ",
+           "8"
+          ],
+          [
+           "朝",
+           "morning",
+           "ちょう",
+           "あさ",
+           "12"
+          ]
+         ],
+         "speakCols": []
+        },
+        {
+         "headers": [
+          "Reading",
+          "Word",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "じぶん",
+           "自分",
+           "Jibun",
+           "oneself"
+          ],
+          [
+           "じどうしゃ",
+           "自動車",
+           "Jidoosha",
+           "automobile"
+          ],
+          [
+           "じてんしゃ",
+           "自転車",
+           "Jitensha",
+           "bicycle"
+          ],
+          [
+           "じゆう",
+           "自由",
+           "Jiyuu",
+           "freedom"
+          ],
+          [
+           "よる",
+           "夜",
+           "Yoru",
+           "night"
+          ],
+          [
+           "よなか",
+           "夜中",
+           "Yonaka",
+           "midnight"
+          ],
+          [
+           "こんや",
+           "今夜",
+           "Kon'ya",
+           "tonight"
+          ],
+          [
+           "よあけ",
+           "夜明け",
+           "Yoake",
+           "dawn"
+          ],
+          [
+           "あさ",
+           "朝",
+           "Asa",
+           "morning"
+          ],
+          [
+           "けさ",
+           "今朝",
+           "Kesa",
+           "this morning"
+          ],
+          [
+           "ちょうしょく",
+           "朝食",
+           "Chooshoku",
+           "breakfast"
+          ],
+          [
+           "まいあさ",
+           "毎朝",
+           "Maiasa",
+           "every morning"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Kanji: 持",
+       "body": "▶ is the on-yomi (the reading borrowed from Chinese) and ▷ is the kun-yomi (the native Japanese reading). The reading of each word is spoken when you tap it.",
+       "tables": [
+        {
+         "headers": [
+          "Kanji",
+          "Meaning",
+          "On-yomi ▶",
+          "Kun-yomi ▷",
+          "Strokes"
+         ],
+         "rows": [
+          [
+           "持",
+           "to hold",
+           "じ",
+           "も",
+           "9"
+          ]
+         ],
+         "speakCols": []
+        },
+        {
+         "headers": [
+          "Reading",
+          "Word",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "もつ",
+           "持つ",
+           "Motsu",
+           "to hold"
+          ],
+          [
+           "もってくる",
+           "持ってくる",
+           "Motte kuru",
+           "to bring"
+          ],
+          [
+           "しょじひん",
+           "所持品",
+           "Shojihin",
+           "belongings"
+          ],
+          [
+           "きもち",
+           "気持ち",
+           "Kimochi",
+           "feeling"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "Pairs and look-alikes",
+       "body": "Opposites: 買う and 売る, 夜 (よる, night) and 朝 (あさ, morning), 立つ (to stand). Look-alikes to be careful about: 白 (white) and 自 (self) differ by one short stroke on top. 雨 (rain) is part of 雪 (snow). 自分 (じぶん) means “oneself”.",
+       "tables": [
+        {
+         "headers": [
+          "Reading",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "みち",
+           "道",
+           "Michi",
+           "way, road"
+          ],
+          [
+           "やまみち",
+           "山道",
+           "Yamamichi",
+           "mountain road"
+          ],
+          [
+           "ゆき",
+           "雪",
+           "Yuki",
+           "snow"
+          ],
+          [
+           "たつ",
+           "立つ",
+           "Tatsu",
+           "to stand"
+          ],
+          [
+           "じぶん",
+           "自分",
+           "Jibun",
+           "oneself"
+          ],
+          [
+           "じてんしゃ",
+           "自転車",
+           "Jitensha",
+           "bicycle"
+          ],
+          [
+           "よる",
+           "夜",
+           "Yoru",
+           "night"
+          ],
+          [
+           "こんや",
+           "今夜",
+           "Kon'ya",
+           "tonight"
+          ],
+          [
+           "あさ",
+           "朝",
+           "Asa",
+           "morning"
+          ],
+          [
+           "けさ",
+           "今朝",
+           "Kesa",
+           "this morning"
+          ],
+          [
+           "まいあさ",
+           "毎朝",
+           "Maiasa",
+           "every morning"
+          ],
+          [
+           "もつ",
+           "持つ",
+           "Motsu",
+           "to hold"
+          ],
+          [
+           "もってくる",
+           "持ってくる",
+           "Motte kuru",
+           "to bring"
+          ],
+          [
+           "きもち",
+           "気持ち",
+           "Kimochi",
+           "feeling"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does 道 mean?",
+       "options": [
+        "to stand",
+        "self",
+        "way",
+        "snow"
+       ],
+       "correctIndex": 2,
+       "explanation": "道 means “way”."
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “way”?",
+       "options": [
+        "自",
+        "道",
+        "雪",
+        "立"
+       ],
+       "correctIndex": 1,
+       "explanation": "way is 道."
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 道 have?",
+       "options": [
+        "11",
+        "12",
+        "14",
+        "13"
+       ],
+       "correctIndex": 1,
+       "explanation": "道 is written with 12 strokes."
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What does 雪 mean?",
+       "options": [
+        "night",
+        "to stand",
+        "snow",
+        "self"
+       ],
+       "correctIndex": 2,
+       "explanation": "雪 means “snow”."
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “snow”?",
+       "options": [
+        "自",
+        "立",
+        "夜",
+        "雪"
+       ],
+       "correctIndex": 3,
+       "explanation": "snow is 雪."
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 雪 have?",
+       "options": [
+        "11",
+        "13",
+        "12",
+        "10"
+       ],
+       "correctIndex": 0,
+       "explanation": "雪 is written with 11 strokes."
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What does 立 mean?",
+       "options": [
+        "morning",
+        "to stand",
+        "night",
+        "self"
+       ],
+       "correctIndex": 1,
+       "explanation": "立 means “to stand”."
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “to stand”?",
+       "options": [
+        "朝",
+        "自",
+        "夜",
+        "立"
+       ],
+       "correctIndex": 3,
+       "explanation": "to stand is 立."
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 立 have?",
+       "options": [
+        "7",
+        "4",
+        "6",
+        "5"
+       ],
+       "correctIndex": 3,
+       "explanation": "立 is written with 5 strokes."
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "What does 自 mean?",
+       "options": [
+        "self",
+        "morning",
+        "night",
+        "to hold"
+       ],
+       "correctIndex": 0,
+       "explanation": "自 means “self”."
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “self”?",
+       "options": [
+        "夜",
+        "自",
+        "朝",
+        "持"
+       ],
+       "correctIndex": 1,
+       "explanation": "self is 自."
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 自 have?",
+       "options": [
+        "7",
+        "6",
+        "5",
+        "8"
+       ],
+       "correctIndex": 1,
+       "explanation": "自 is written with 6 strokes."
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "What does 夜 mean?",
+       "options": [
+        "morning",
+        "to hold",
+        "way",
+        "night"
+       ],
+       "correctIndex": 3,
+       "explanation": "夜 means “night”."
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “night”?",
+       "options": [
+        "夜",
+        "持",
+        "道",
+        "朝"
+       ],
+       "correctIndex": 0,
+       "explanation": "night is 夜."
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 夜 have?",
+       "options": [
+        "8",
+        "10",
+        "7",
+        "9"
+       ],
+       "correctIndex": 0,
+       "explanation": "夜 is written with 8 strokes."
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "What does 朝 mean?",
+       "options": [
+        "snow",
+        "to hold",
+        "way",
+        "morning"
+       ],
+       "correctIndex": 3,
+       "explanation": "朝 means “morning”."
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “morning”?",
+       "options": [
+        "雪",
+        "持",
+        "道",
+        "朝"
+       ],
+       "correctIndex": 3,
+       "explanation": "morning is 朝."
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 朝 have?",
+       "options": [
+        "14",
+        "11",
+        "13",
+        "12"
+       ],
+       "correctIndex": 3,
+       "explanation": "朝 is written with 12 strokes."
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "What does 持 mean?",
+       "options": [
+        "to hold",
+        "snow",
+        "way",
+        "to stand"
+       ],
+       "correctIndex": 0,
+       "explanation": "持 means “to hold”."
+      },
+      {
+       "id": "e20",
+       "type": "multipleChoice",
+       "prompt": "Which kanji means “to hold”?",
+       "options": [
+        "持",
+        "立",
+        "雪",
+        "道"
+       ],
+       "correctIndex": 0,
+       "explanation": "to hold is 持."
+      },
+      {
+       "id": "e21",
+       "type": "multipleChoice",
+       "prompt": "How many strokes does 持 have?",
+       "options": [
+        "11",
+        "10",
+        "9",
+        "8"
+       ],
+       "correctIndex": 2,
+       "explanation": "持 is written with 9 strokes."
+      },
+      {
+       "id": "e22",
+       "type": "multipleChoice",
+       "prompt": "How do you read 道?",
+       "options": [
+        "しょどう",
+        "みち",
+        "ほっかいどう",
+        "じゅうどう"
+       ],
+       "correctIndex": 1,
+       "explanation": "道 is read みち (Michi): way, road."
+      },
+      {
+       "id": "e23",
+       "type": "multipleChoice",
+       "prompt": "Which word means “way, road”?",
+       "options": [
+        "道",
+        "柔道",
+        "北海道",
+        "書道"
+       ],
+       "correctIndex": 0,
+       "explanation": "way, road is 道 (みち)."
+      },
+      {
+       "id": "e24",
+       "type": "multipleChoice",
+       "prompt": "How do you read 書道?",
+       "options": [
+        "ほっかいどう",
+        "しょどう",
+        "じゅうどう",
+        "ゆき"
+       ],
+       "correctIndex": 1,
+       "explanation": "書道 is read しょどう (Shodoo): calligraphy."
+      },
+      {
+       "id": "e25",
+       "type": "multipleChoice",
+       "prompt": "Which word means “calligraphy”?",
+       "options": [
+        "柔道",
+        "雪",
+        "書道",
+        "北海道"
+       ],
+       "correctIndex": 2,
+       "explanation": "calligraphy is 書道 (しょどう)."
+      },
+      {
+       "id": "e26",
+       "type": "multipleChoice",
+       "prompt": "How do you read 柔道?",
+       "options": [
+        "しんせつ",
+        "ほっかいどう",
+        "じゅうどう",
+        "ゆき"
+       ],
+       "correctIndex": 2,
+       "explanation": "柔道 is read じゅうどう (Juudoo): judo."
+      },
+      {
+       "id": "e27",
+       "type": "multipleChoice",
+       "prompt": "Which word means “judo”?",
+       "options": [
+        "新雪",
+        "柔道",
+        "雪",
+        "北海道"
+       ],
+       "correctIndex": 1,
+       "explanation": "judo is 柔道 (じゅうどう)."
+      },
+      {
+       "id": "e28",
+       "type": "multipleChoice",
+       "prompt": "How do you read 北海道?",
+       "options": [
+        "ゆきだるま",
+        "ゆき",
+        "しんせつ",
+        "ほっかいどう"
+       ],
+       "correctIndex": 3,
+       "explanation": "北海道 is read ほっかいどう (Hokkaidoo): Hokkaido."
+      },
+      {
+       "id": "e29",
+       "type": "multipleChoice",
+       "prompt": "Which word means “Hokkaido”?",
+       "options": [
+        "新雪",
+        "雪だるま",
+        "雪",
+        "北海道"
+       ],
+       "correctIndex": 3,
+       "explanation": "Hokkaido is 北海道 (ほっかいどう)."
+      },
+      {
+       "id": "e30",
+       "type": "multipleChoice",
+       "prompt": "How do you read 雪?",
+       "options": [
+        "ゆきだるま",
+        "しんせつ",
+        "たつ",
+        "ゆき"
+       ],
+       "correctIndex": 3,
+       "explanation": "雪 is read ゆき (Yuki): snow."
+      },
+      {
+       "id": "e31",
+       "type": "multipleChoice",
+       "prompt": "Which word means “snow”?",
+       "options": [
+        "立つ",
+        "雪だるま",
+        "雪",
+        "新雪"
+       ],
+       "correctIndex": 2,
+       "explanation": "snow is 雪 (ゆき)."
+      },
+      {
+       "id": "e32",
+       "type": "multipleChoice",
+       "prompt": "How do you read 新雪?",
+       "options": [
+        "こくりつだいがく",
+        "しんせつ",
+        "たつ",
+        "ゆきだるま"
+       ],
+       "correctIndex": 1,
+       "explanation": "新雪 is read しんせつ (Shinsetsu): new snow."
+      },
+      {
+       "id": "e33",
+       "type": "multipleChoice",
+       "prompt": "Which word means “new snow”?",
+       "options": [
+        "国立大学",
+        "新雪",
+        "雪だるま",
+        "立つ"
+       ],
+       "correctIndex": 1,
+       "explanation": "new snow is 新雪 (しんせつ)."
+      },
+      {
+       "id": "e34",
+       "type": "multipleChoice",
+       "prompt": "How do you read 雪だるま?",
+       "options": [
+        "たつ",
+        "しりつこうこう",
+        "ゆきだるま",
+        "こくりつだいがく"
+       ],
+       "correctIndex": 2,
+       "explanation": "雪だるま is read ゆきだるま (Yukidaruma): snowman."
+      },
+      {
+       "id": "e35",
+       "type": "multipleChoice",
+       "prompt": "Which word means “snowman”?",
+       "options": [
+        "国立大学",
+        "立つ",
+        "私立高校",
+        "雪だるま"
+       ],
+       "correctIndex": 3,
+       "explanation": "snowman is 雪だるま (ゆきだるま)."
+      },
+      {
+       "id": "e36",
+       "type": "multipleChoice",
+       "prompt": "How do you read 立つ?",
+       "options": [
+        "こくりつだいがく",
+        "しりつこうこう",
+        "じぶん",
+        "たつ"
+       ],
+       "correctIndex": 3,
+       "explanation": "立つ is read たつ (Tatsu): to stand."
+      },
+      {
+       "id": "e37",
+       "type": "multipleChoice",
+       "prompt": "Which word means “to stand”?",
+       "options": [
+        "自分",
+        "国立大学",
+        "私立高校",
+        "立つ"
+       ],
+       "correctIndex": 3,
+       "explanation": "to stand is 立つ (たつ)."
+      },
+      {
+       "id": "e38",
+       "type": "multipleChoice",
+       "prompt": "How do you read 国立大学?",
+       "options": [
+        "じぶん",
+        "しりつこうこう",
+        "こくりつだいがく",
+        "じどうしゃ"
+       ],
+       "correctIndex": 2,
+       "explanation": "国立大学 is read こくりつだいがく (Kokuritsu daigaku): national university."
+      },
+      {
+       "id": "e39",
+       "type": "multipleChoice",
+       "prompt": "Which word means “national university”?",
+       "options": [
+        "自分",
+        "自動車",
+        "国立大学",
+        "私立高校"
+       ],
+       "correctIndex": 2,
+       "explanation": "national university is 国立大学 (こくりつだいがく)."
+      },
+      {
+       "id": "e40",
+       "type": "multipleChoice",
+       "prompt": "How do you read 私立高校?",
+       "options": [
+        "しりつこうこう",
+        "じてんしゃ",
+        "じぶん",
+        "じどうしゃ"
+       ],
+       "correctIndex": 0,
+       "explanation": "私立高校 is read しりつこうこう (Shiritsu kookoo): private high school."
+      },
+      {
+       "id": "e41",
+       "type": "multipleChoice",
+       "prompt": "Which word means “private high school”?",
+       "options": [
+        "私立高校",
+        "自動車",
+        "自転車",
+        "自分"
+       ],
+       "correctIndex": 0,
+       "explanation": "private high school is 私立高校 (しりつこうこう)."
+      },
+      {
+       "id": "e42",
+       "type": "multipleChoice",
+       "prompt": "How do you read 自分?",
+       "options": [
+        "じてんしゃ",
+        "じゆう",
+        "じぶん",
+        "じどうしゃ"
+       ],
+       "correctIndex": 2,
+       "explanation": "自分 is read じぶん (Jibun): oneself."
+      },
+      {
+       "id": "e43",
+       "type": "multipleChoice",
+       "prompt": "Which word means “oneself”?",
+       "options": [
+        "自動車",
+        "自転車",
+        "自由",
+        "自分"
+       ],
+       "correctIndex": 3,
+       "explanation": "oneself is 自分 (じぶん)."
+      },
+      {
+       "id": "e44",
+       "type": "multipleChoice",
+       "prompt": "How do you read 自動車?",
+       "options": [
+        "じどうしゃ",
+        "よる",
+        "じゆう",
+        "じてんしゃ"
+       ],
+       "correctIndex": 0,
+       "explanation": "自動車 is read じどうしゃ (Jidoosha): automobile."
+      },
+      {
+       "id": "e45",
+       "type": "multipleChoice",
+       "prompt": "Which word means “automobile”?",
+       "options": [
+        "夜",
+        "自動車",
+        "自転車",
+        "自由"
+       ],
+       "correctIndex": 1,
+       "explanation": "automobile is 自動車 (じどうしゃ)."
+      },
+      {
+       "id": "e46",
+       "type": "multipleChoice",
+       "prompt": "How do you read 自転車?",
+       "options": [
+        "よなか",
+        "よる",
+        "じゆう",
+        "じてんしゃ"
+       ],
+       "correctIndex": 3,
+       "explanation": "自転車 is read じてんしゃ (Jitensha): bicycle."
+      },
+      {
+       "id": "e47",
+       "type": "multipleChoice",
+       "prompt": "Which word means “bicycle”?",
+       "options": [
+        "夜",
+        "自転車",
+        "自由",
+        "夜中"
+       ],
+       "correctIndex": 1,
+       "explanation": "bicycle is 自転車 (じてんしゃ)."
+      },
+      {
+       "id": "e48",
+       "type": "multipleChoice",
+       "prompt": "How do you read 自由?",
+       "options": [
+        "よる",
+        "よなか",
+        "じゆう",
+        "こんや"
+       ],
+       "correctIndex": 2,
+       "explanation": "自由 is read じゆう (Jiyuu): freedom."
+      },
+      {
+       "id": "e49",
+       "type": "multipleChoice",
+       "prompt": "Which word means “freedom”?",
+       "options": [
+        "自由",
+        "今夜",
+        "夜",
+        "夜中"
+       ],
+       "correctIndex": 0,
+       "explanation": "freedom is 自由 (じゆう)."
+      },
+      {
+       "id": "e50",
+       "type": "multipleChoice",
+       "prompt": "How do you read 夜?",
+       "options": [
+        "よる",
+        "こんや",
+        "よあけ",
+        "よなか"
+       ],
+       "correctIndex": 0,
+       "explanation": "夜 is read よる (Yoru): night."
+      },
+      {
+       "id": "e51",
+       "type": "multipleChoice",
+       "prompt": "Which word means “night”?",
+       "options": [
+        "夜中",
+        "夜",
+        "夜明け",
+        "今夜"
+       ],
+       "correctIndex": 1,
+       "explanation": "night is 夜 (よる)."
+      },
+      {
+       "id": "e52",
+       "type": "multipleChoice",
+       "prompt": "How do you read 夜中?",
+       "options": [
+        "こんや",
+        "よあけ",
+        "よなか",
+        "あさ"
+       ],
+       "correctIndex": 2,
+       "explanation": "夜中 is read よなか (Yonaka): midnight."
+      },
+      {
+       "id": "e53",
+       "type": "multipleChoice",
+       "prompt": "Which word means “midnight”?",
+       "options": [
+        "今夜",
+        "夜明け",
+        "朝",
+        "夜中"
+       ],
+       "correctIndex": 3,
+       "explanation": "midnight is 夜中 (よなか)."
+      },
+      {
+       "id": "e54",
+       "type": "multipleChoice",
+       "prompt": "How do you read 今夜?",
+       "options": [
+        "けさ",
+        "こんや",
+        "よあけ",
+        "あさ"
+       ],
+       "correctIndex": 1,
+       "explanation": "今夜 is read こんや (Kon'ya): tonight."
+      },
+      {
+       "id": "e55",
+       "type": "multipleChoice",
+       "prompt": "Which word means “tonight”?",
+       "options": [
+        "今朝",
+        "夜明け",
+        "今夜",
+        "朝"
+       ],
+       "correctIndex": 2,
+       "explanation": "tonight is 今夜 (こんや)."
+      },
+      {
+       "id": "e56",
+       "type": "multipleChoice",
+       "prompt": "How do you read 夜明け?",
+       "options": [
+        "けさ",
+        "よあけ",
+        "あさ",
+        "ちょうしょく"
+       ],
+       "correctIndex": 1,
+       "explanation": "夜明け is read よあけ (Yoake): dawn."
+      },
+      {
+       "id": "e57",
+       "type": "multipleChoice",
+       "prompt": "Which word means “dawn”?",
+       "options": [
+        "夜明け",
+        "今朝",
+        "朝食",
+        "朝"
+       ],
+       "correctIndex": 0,
+       "explanation": "dawn is 夜明け (よあけ)."
+      },
+      {
+       "id": "e58",
+       "type": "multipleChoice",
+       "prompt": "How do you read 朝?",
+       "options": [
+        "あさ",
+        "けさ",
+        "ちょうしょく",
+        "まいあさ"
+       ],
+       "correctIndex": 0,
+       "explanation": "朝 is read あさ (Asa): morning."
+      },
+      {
+       "id": "e59",
+       "type": "multipleChoice",
+       "prompt": "Which word means “morning”?",
+       "options": [
+        "朝食",
+        "毎朝",
+        "今朝",
+        "朝"
+       ],
+       "correctIndex": 3,
+       "explanation": "morning is 朝 (あさ)."
+      },
+      {
+       "id": "e60",
+       "type": "multipleChoice",
+       "prompt": "How do you read 今朝?",
+       "options": [
+        "けさ",
+        "もつ",
+        "ちょうしょく",
+        "まいあさ"
+       ],
+       "correctIndex": 0,
+       "explanation": "今朝 is read けさ (Kesa): this morning."
+      },
+      {
+       "id": "e61",
+       "type": "multipleChoice",
+       "prompt": "Which word means “this morning”?",
+       "options": [
+        "今朝",
+        "毎朝",
+        "持つ",
+        "朝食"
+       ],
+       "correctIndex": 0,
+       "explanation": "this morning is 今朝 (けさ)."
+      },
+      {
+       "id": "e62",
+       "type": "multipleChoice",
+       "prompt": "How do you read 朝食?",
+       "options": [
+        "まいあさ",
+        "もってくる",
+        "ちょうしょく",
+        "もつ"
+       ],
+       "correctIndex": 2,
+       "explanation": "朝食 is read ちょうしょく (Chooshoku): breakfast."
+      },
+      {
+       "id": "e63",
+       "type": "multipleChoice",
+       "prompt": "Which word means “breakfast”?",
+       "options": [
+        "朝食",
+        "毎朝",
+        "持ってくる",
+        "持つ"
+       ],
+       "correctIndex": 0,
+       "explanation": "breakfast is 朝食 (ちょうしょく)."
+      },
+      {
+       "id": "e64",
+       "type": "multipleChoice",
+       "prompt": "How do you read 毎朝?",
+       "options": [
+        "しょじひん",
+        "もってくる",
+        "まいあさ",
+        "もつ"
+       ],
+       "correctIndex": 2,
+       "explanation": "毎朝 is read まいあさ (Maiasa): every morning."
+      },
+      {
+       "id": "e65",
+       "type": "multipleChoice",
+       "prompt": "Which word means “every morning”?",
+       "options": [
+        "毎朝",
+        "持つ",
+        "所持品",
+        "持ってくる"
+       ],
+       "correctIndex": 0,
+       "explanation": "every morning is 毎朝 (まいあさ)."
+      },
+      {
+       "id": "e66",
+       "type": "multipleChoice",
+       "prompt": "How do you read 持つ?",
+       "options": [
+        "しょじひん",
+        "きもち",
+        "もつ",
+        "もってくる"
+       ],
+       "correctIndex": 2,
+       "explanation": "持つ is read もつ (Motsu): to hold."
+      },
+      {
+       "id": "e67",
+       "type": "multipleChoice",
+       "prompt": "Which word means “to hold”?",
+       "options": [
+        "気持ち",
+        "持ってくる",
+        "所持品",
+        "持つ"
+       ],
+       "correctIndex": 3,
+       "explanation": "to hold is 持つ (もつ)."
+      },
+      {
+       "id": "e68",
+       "type": "multipleChoice",
+       "prompt": "How do you read 持ってくる?",
+       "options": [
+        "みち",
+        "しょじひん",
+        "きもち",
+        "もってくる"
+       ],
+       "correctIndex": 3,
+       "explanation": "持ってくる is read もってくる (Motte kuru): to bring."
+      },
+      {
+       "id": "e69",
+       "type": "multipleChoice",
+       "prompt": "Which word means “to bring”?",
+       "options": [
+        "所持品",
+        "道",
+        "気持ち",
+        "持ってくる"
+       ],
+       "correctIndex": 3,
+       "explanation": "to bring is 持ってくる (もってくる)."
+      },
+      {
+       "id": "e70",
+       "type": "multipleChoice",
+       "prompt": "How do you read 所持品?",
+       "options": [
+        "きもち",
+        "みち",
+        "しょどう",
+        "しょじひん"
+       ],
+       "correctIndex": 3,
+       "explanation": "所持品 is read しょじひん (Shojihin): belongings."
+      },
+      {
+       "id": "e71",
+       "type": "multipleChoice",
+       "prompt": "Which word means “belongings”?",
+       "options": [
+        "書道",
+        "所持品",
+        "気持ち",
+        "道"
+       ],
+       "correctIndex": 1,
+       "explanation": "belongings is 所持品 (しょじひん)."
+      },
+      {
+       "id": "e72",
+       "type": "multipleChoice",
+       "prompt": "How do you read 気持ち?",
+       "options": [
+        "みち",
+        "しょどう",
+        "じゅうどう",
+        "きもち"
+       ],
+       "correctIndex": 3,
+       "explanation": "気持ち is read きもち (Kimochi): feeling."
+      },
+      {
+       "id": "e73",
+       "type": "multipleChoice",
+       "prompt": "Which word means “feeling”?",
+       "options": [
+        "書道",
+        "道",
+        "気持ち",
+        "柔道"
+       ],
+       "correctIndex": 2,
+       "explanation": "feeling is 気持ち (きもち)."
+      },
+      {
+       "id": "e74",
+       "type": "multipleChoice",
+       "prompt": "How do you read 山道?",
+       "options": [
+        "やまどう",
+        "やまみち",
+        "やまじ",
+        "さんどう"
+       ],
+       "correctIndex": 1,
+       "explanation": "山道 is やまみち: mountain road."
+      },
+      {
+       "id": "e75",
+       "type": "multipleChoice",
+       "prompt": "What does 雪だるま mean?",
+       "options": [
+        "rain",
+        "ice cream",
+        "snowball",
+        "snowman"
+       ],
+       "correctIndex": 3,
+       "explanation": "雪だるま is ゆきだるま."
+      },
+      {
+       "id": "e76",
+       "type": "multipleChoice",
+       "prompt": "What does 朝食 mean?",
+       "options": [
+        "supper snack",
+        "lunch",
+        "breakfast",
+        "dinner"
+       ],
+       "correctIndex": 2,
+       "explanation": "朝食 is ちょうしょく: breakfast."
+      },
+      {
+       "id": "e77",
+       "type": "multipleChoice",
+       "prompt": "What does 国立大学 mean?",
+       "options": [
+        "national university",
+        "foreign university",
+        "private university",
+        "junior college"
+       ],
+       "correctIndex": 0,
+       "explanation": "国立大学 is こくりつだいがく."
+      },
+      {
+       "id": "e78",
+       "type": "multipleChoice",
+       "prompt": "What does 私立高校 mean?",
+       "options": [
+        "public elementary school",
+        "private high school",
+        "national high school",
+        "private university"
+       ],
+       "correctIndex": 1,
+       "explanation": "私立高校 is しりつこうこう."
+      }
+     ]
+    },
+    {
+     "id": "ja_143",
+     "title": "143. Kanji practice: opposites and blanks",
+     "subtitle": "買う ⇔ 売る · すわる ⇔ 立つ · みじかい ⇔ 長い · 夜 ⇔ 朝 · 買い物 · 住んでいます",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "A. Adding strokes",
+       "body": "The book first asks you to add strokes to given kanji to make a different kanji you have learned. This is a handwriting task, so it is left out. For the idea: 白 (white) with one stroke added at the top becomes 自 (self).",
+       "tables": [],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "B. Opposites",
+       "body": "The book asks you to write the opposite of each word in kanji. My answers:",
+       "tables": [
+        {
+         "headers": [
+          "Word",
+          "Opposite",
+          "English"
+         ],
+         "rows": [
+          [
+           "買う",
+           "売る",
+           "to buy / to sell"
+          ],
+          [
+           "すわる",
+           "立つ",
+           "to sit / to stand"
+          ],
+          [
+           "みじかい",
+           "長い",
+           "short / long"
+          ],
+          [
+           "夜",
+           "朝",
+           "night / morning"
+          ]
+         ],
+         "speakCols": [
+          0,
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "C. Fill in the blanks",
+       "body": "The book gives the kanji 売 雪 住 買 長 立 持 to put in the blanks. My answers:",
+       "tables": [],
+       "examples": [
+        {
+         "text": "町で買い物をしました。",
+         "translation": "Machi de kaimono o shimashita. — I did some shopping in town. (買)"
+        },
+        {
+         "text": "かさを持っていますか。",
+         "translation": "Kasa o motte imasu ka. — Do you have an umbrella? (持)"
+        },
+        {
+         "text": "本屋では本を売っています。",
+         "translation": "Honya de wa hon o utte imasu. — A bookstore sells books. (売)"
+        },
+        {
+         "text": "よく雪がふります。",
+         "translation": "Yoku yuki ga furimasu. — It snows often. (雪)"
+        },
+        {
+         "text": "おじいさんの話は長かった。",
+         "translation": "Ojiisan no hanashi wa nagakatta. — Grandfather’s story was long. (長)"
+        },
+        {
+         "text": "アパートに住んでいます。",
+         "translation": "Apaato ni sunde imasu. — I live in an apartment. (住)"
+        },
+        {
+         "text": "私の後ろに女の人が立っていました。",
+         "translation": "Watashi no ushiro ni onna no hito ga tatte imashita. — A woman was standing behind me. (立)"
+        }
+       ],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What is the opposite of 買う?",
+       "options": [
+        "長い",
+        "朝",
+        "売る",
+        "立つ"
+       ],
+       "correctIndex": 2,
+       "explanation": "買う ⇔ 売る."
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What is the opposite of すわる?",
+       "options": [
+        "立つ",
+        "長い",
+        "朝",
+        "売る"
+       ],
+       "correctIndex": 0,
+       "explanation": "すわる ⇔ 立つ."
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "What is the opposite of みじかい?",
+       "options": [
+        "朝",
+        "売る",
+        "立つ",
+        "長い"
+       ],
+       "correctIndex": 3,
+       "explanation": "みじかい ⇔ 長い."
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What is the opposite of 夜?",
+       "options": [
+        "立つ",
+        "朝",
+        "売る",
+        "長い"
+       ],
+       "correctIndex": 1,
+       "explanation": "夜 ⇔ 朝."
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "What is the opposite of 売る?",
+       "options": [
+        "夜",
+        "すわる",
+        "買う",
+        "みじかい"
+       ],
+       "correctIndex": 2,
+       "explanation": "売る ⇔ 買う."
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What is the opposite of 立つ?",
+       "options": [
+        "買う",
+        "みじかい",
+        "夜",
+        "すわる"
+       ],
+       "correctIndex": 3,
+       "explanation": "立つ ⇔ すわる."
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "What is the opposite of 長い?",
+       "options": [
+        "夜",
+        "すわる",
+        "みじかい",
+        "買う"
+       ],
+       "correctIndex": 2,
+       "explanation": "長い ⇔ みじかい."
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What is the opposite of 朝?",
+       "options": [
+        "買う",
+        "すわる",
+        "夜",
+        "みじかい"
+       ],
+       "correctIndex": 2,
+       "explanation": "朝 ⇔ 夜."
+      },
+      {
+       "id": "e9",
+       "type": "fillBlank",
+       "prompt": "町で___い物をしました。",
+       "options": [
+        "持",
+        "売",
+        "立",
+        "買"
+       ],
+       "correctIndex": 3,
+       "explanation": "I did some shopping in town. (買)"
+      },
+      {
+       "id": "e10",
+       "type": "fillBlank",
+       "prompt": "かさを___っていますか。",
+       "options": [
+        "立",
+        "持",
+        "売",
+        "買"
+       ],
+       "correctIndex": 1,
+       "explanation": "Do you have an umbrella? (持)"
+      },
+      {
+       "id": "e11",
+       "type": "fillBlank",
+       "prompt": "本屋では本を___っています。",
+       "options": [
+        "持",
+        "売",
+        "買",
+        "住"
+       ],
+       "correctIndex": 1,
+       "explanation": "A bookstore sells books. (売)"
+      },
+      {
+       "id": "e12",
+       "type": "fillBlank",
+       "prompt": "よく___がふります。",
+       "options": [
+        "雪",
+        "年",
+        "町",
+        "長"
+       ],
+       "correctIndex": 0,
+       "explanation": "It snows often. (雪)"
+      },
+      {
+       "id": "e13",
+       "type": "fillBlank",
+       "prompt": "おじいさんの話は___かった。",
+       "options": [
+        "立",
+        "町",
+        "年",
+        "長"
+       ],
+       "correctIndex": 3,
+       "explanation": "Grandfather’s story was long. (長)"
+      },
+      {
+       "id": "e14",
+       "type": "fillBlank",
+       "prompt": "アパートに___んでいます。",
+       "options": [
+        "住",
+        "立",
+        "持",
+        "売"
+       ],
+       "correctIndex": 0,
+       "explanation": "I live in an apartment. (住)"
+      },
+      {
+       "id": "e15",
+       "type": "fillBlank",
+       "prompt": "私の後ろに女の人が___っていました。",
+       "options": [
+        "持",
+        "立",
+        "住",
+        "売"
+       ],
+       "correctIndex": 1,
+       "explanation": "A woman was standing behind me. (立)"
+      },
+      {
+       "id": "e16",
+       "type": "fillBlank",
+       "prompt": "おじいさんは長い山___を歩いて帰りました。 (road)",
+       "options": [
+        "正",
+        "町",
+        "雪",
+        "道"
+       ],
+       "correctIndex": 3,
+       "explanation": "山道 is a mountain road."
+      },
+      {
+       "id": "e17",
+       "type": "fillBlank",
+       "prompt": "おじいさんはかさを持って、___に売りに行きました。 (town)",
+       "options": [
+        "年",
+        "雪",
+        "町",
+        "道"
+       ],
+       "correctIndex": 2,
+       "explanation": "町に売りに行きました。"
+      },
+      {
+       "id": "e18",
+       "type": "fillBlank",
+       "prompt": "新しい___がはじまります。 (year)",
+       "options": [
+        "雪",
+        "町",
+        "長",
+        "年"
+       ],
+       "correctIndex": 3,
+       "explanation": "新しい年がはじまります。"
+      },
+      {
+       "id": "e19",
+       "type": "fillBlank",
+       "prompt": "お___月 (New Year)",
+       "options": [
+        "立",
+        "売",
+        "正",
+        "住"
+       ],
+       "correctIndex": 2,
+       "explanation": "お正月 is New Year."
+      },
+      {
+       "id": "e20",
+       "type": "fillBlank",
+       "prompt": "おじいさんは___分のかさをとりました。 (own)",
+       "options": [
+        "目",
+        "自",
+        "白",
+        "百"
+       ],
+       "correctIndex": 1,
+       "explanation": "自分 is oneself."
+      },
+      {
+       "id": "e21",
+       "type": "fillBlank",
+       "prompt": "その___おそく、声を聞きました。 (night)",
+       "options": [
+        "町",
+        "朝",
+        "雪",
+        "夜"
+       ],
+       "correctIndex": 3,
+       "explanation": "その夜おそく."
+      },
+      {
+       "id": "e22",
+       "type": "fillBlank",
+       "prompt": "お正月の___になりました。 (morning)",
+       "options": [
+        "夜",
+        "雪",
+        "朝",
+        "町"
+       ],
+       "correctIndex": 2,
+       "explanation": "お正月の朝."
+      }
+     ]
+    },
+    {
+     "id": "ja_144",
+     "title": "144. Reading: かさじぞう (The Folktale Kasajizo)",
+     "subtitle": "むかしむかし · かさ · おじぞうさん · 雪 · おもち · つもり · かぶせる · しあわせ",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "A. Before reading",
+       "body": "The book asks you to think about three questions before you read. Your own answers are up to you, so only the questions are here. Tap a line to hear it.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "日本ではお正月に何をすると思いますか。",
+         "translation": "Nihon de wa oshoogatsu ni nani o suru to omoimasu ka. — What do you think people do at New Year in Japan?"
+        },
+        {
+         "text": "これはおじぞうさんです。何だと思いますか。",
+         "translation": "Kore wa ojizoo-san desu. Nan da to omoimasu ka. — These are Jizo statues. What do you think they are?"
+        },
+        {
+         "text": "このおじいさんとおばあさんがこの話の主人公です。どんな人だと思いますか。どんな生活をしていると思いますか。",
+         "translation": "Kono ojiisan to obaasan ga kono hanashi no shujinkoo desu. Donna hito da to omoimasu ka. Donna seekatsu o shite iru to omoimasu ka. — This old man and old woman are the main characters of the story. What kind of people do you think they are? What kind of life do you think they live?"
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Words for the story",
+       "body": "The book’s vocabulary list for the folktale.",
+       "tables": [
+        {
+         "headers": [
+          "Reading",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "むかしむかし",
+           "むかしむかし",
+           "Mukashimukashi",
+           "once upon a time"
+          ],
+          [
+           "かさ",
+           "かさ",
+           "Kasa",
+           "bamboo hat"
+          ],
+          [
+           "おしょうがつ",
+           "お正月",
+           "Oshoogatsu",
+           "New Year’s"
+          ],
+          [
+           "とし",
+           "年",
+           "Toshi",
+           "year"
+          ],
+          [
+           "おもち",
+           "おもち",
+           "Omochi",
+           "rice cake"
+          ],
+          [
+           "うる",
+           "売る",
+           "Uru",
+           "to sell"
+          ],
+          [
+           "かなしい",
+           "かなしい",
+           "Kanashii",
+           "sad"
+          ],
+          [
+           "やまみち",
+           "山道",
+           "Yamamichi",
+           "mountain road"
+          ],
+          [
+           "じぞう・おじぞうさん",
+           "じぞう・おじぞうさん",
+           "Jizoo ojizoo-san",
+           "guardian deity of children"
+          ],
+          [
+           "ゆき",
+           "雪",
+           "Yuki",
+           "snow"
+          ],
+          [
+           "かぶせる",
+           "かぶせる",
+           "Kabuseru",
+           "to put (a hat) on a person’s head (person に a hat を)"
+          ],
+          [
+           "じぶん",
+           "自分",
+           "Jibun",
+           "oneself"
+          ],
+          [
+           "とる",
+           "とる",
+           "Toru",
+           "to take off"
+          ],
+          [
+           "いいこと",
+           "いいこと",
+           "Ii koto",
+           "good deed"
+          ],
+          [
+           "こえ",
+           "声",
+           "Koe",
+           "voice"
+          ],
+          [
+           "と",
+           "戸",
+           "To",
+           "door"
+          ],
+          [
+           "びっくりする",
+           "びっくりする",
+           "Bikkuri suru",
+           "to be surprised"
+          ],
+          [
+           "しあわせ",
+           "しあわせ(な)",
+           "Shiawase",
+           "happy"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "B. The folktale: かさじぞう",
+       "body": "This is the story the book asks you to read (it is printed vertically in the book). Tap a line to hear it.",
+       "tables": [],
+       "examples": [
+        {
+         "text": "むかしむかし、山の中におじいさんとおばあさんが住んでいました。",
+         "translation": "Mukashimukashi, yama no naka ni ojiisan to obaasan ga sunde imashita. — Once upon a time, an old man and an old woman lived in the mountains."
+        },
+        {
+         "text": "おじいさんとおばあさんはうちでかさを作っていました。",
+         "translation": "Ojiisan to obaasan wa uchi de kasa o tsukutte imashita. — The old man and the old woman were making bamboo hats at home."
+        },
+        {
+         "text": "あしたはお正月です。新しい年がはじまります。",
+         "translation": "Ashita wa oshoogatsu desu. Atarashii toshi ga hajimarimasu. — Tomorrow is New Year. A new year begins."
+        },
+        {
+         "text": "でも、おじいさんとおばあさんはお金がなかったから、お正月のおもちもありませんでした。",
+         "translation": "Demo, ojiisan to obaasan wa okane ga nakatta kara, oshoogatsu no omochi mo arimasen deshita. — But since the old man and the old woman had no money, they did not even have rice cakes for New Year."
+        },
+        {
+         "text": "二人はかさを売って、おもちを買うつもりでした。",
+         "translation": "Futari wa kasa o utte, omochi o kau tsumori deshita. — They planned to sell the hats and buy rice cakes."
+        },
+        {
+         "text": "おじいさんはかさを持って、町に売りに行きました。",
+         "translation": "Ojiisan wa kasa o motte, machi ni uri ni ikimashita. — The old man took the hats and went to town to sell them."
+        },
+        {
+         "text": "でも、だれもかさを買いませんでした。",
+         "translation": "Demo, dare mo kasa o kaimasen deshita. — But nobody bought a hat."
+        },
+        {
+         "text": "おじいさんはかなしくなりました。",
+         "translation": "Ojiisan wa kanashiku narimashita. — The old man became sad."
+        },
+        {
+         "text": "おじいさんは長い山道を歩いて帰りました。",
+         "translation": "Ojiisan wa nagai yamamichi o aruite kaerimashita. — The old man walked home along the long mountain road."
+        },
+        {
+         "text": "雪がたくさんふっていました。",
+         "translation": "Yuki ga takusan futte imashita. — A lot of snow was falling."
+        },
+        {
+         "text": "「あっ！　おじぞうさんだ！」",
+         "translation": "“A! Ojizoo-san da!” — “Oh! Jizo statues!”"
+        },
+        {
+         "text": "雪の中におじぞうさんが六つ立っていました。",
+         "translation": "Yuki no naka ni ojizoo-san ga muttsu tatte imashita. — Six Jizo statues were standing in the snow."
+        },
+        {
+         "text": "おじいさんは「おじぞうさん、さむくないですか。」と聞きました。",
+         "translation": "Ojiisan wa “ojizoo-san, samukunai desu ka.” to kikimashita. — The old man asked, “Jizo, aren’t you cold?”"
+        },
+        {
+         "text": "おじぞうさんは何も言いませんでした。",
+         "translation": "Ojizoo-san wa nani mo iimasen deshita. — The Jizo said nothing."
+        },
+        {
+         "text": "「どうぞかさを使ってください。」",
+         "translation": "“Doozo kasa o tsukatte kudasai.” — “Please use these hats.”"
+        },
+        {
+         "text": "おじいさんはおじぞうさんのあたまの上にかさをかぶせました。",
+         "translation": "Ojiisan wa ojizoo-san no atama no ue ni kasa o kabusemashita. — The old man put hats on top of the Jizo’s heads."
+        },
+        {
+         "text": "「一つ、二つ、三つ、四つ、五つ。」",
+         "translation": "“Hitotsu, futatsu, mittsu, yottsu, itsutsu.” — “One, two, three, four, five.”"
+        },
+        {
+         "text": "かさは五つでした。一人のおじぞうさんはかさがありませんでした。",
+         "translation": "Kasa wa itsutsu deshita. Hitori no ojizoo-san wa kasa ga arimasen deshita. — There were five hats. One Jizo had no hat."
+        },
+        {
+         "text": "おじいさんは自分のかさをとりました。「このかさは古いですが、どうぞ。」と言って、おじぞうさんにかぶせました。",
+         "translation": "Ojiisan wa jibun no kasa o torimashita. “kono kasa wa furui desu ga, doozo.” to itte, ojizoo-san ni kabusemashita. — The old man took off his own hat. Saying, “This hat is old, but please have it,” he put it on the Jizo."
+        },
+        {
+         "text": "うちに帰って、おじいさんはおばあさんにおじぞうさんの話をしました。",
+         "translation": "Uchi ni kaette, ojiisan wa obaasan ni ojizoo-san no hanashi o shimashita. — He went home and told the old woman about the Jizo."
+        },
+        {
+         "text": "おばあさんは「おじいさん、いいことをしましたね。」と言いました。",
+         "translation": "Obaasan wa “ojiisan, ii koto o shimashita ne.” to iimashita. — The old woman said, “You did a good deed, old man.”"
+        },
+        {
+         "text": "その夜おそく、おじいさんはだれかの声を聞きました。",
+         "translation": "Sono yoru osoku, ojiisan wa dare ka no koe o kikimashita. — Late that night, the old man heard someone’s voice."
+        },
+        {
+         "text": "「おじいさん、おじいさん。」",
+         "translation": "“Ojiisan, ojiisan.” — “Old man, old man.”"
+        },
+        {
+         "text": "おじいさんは戸を開けて、びっくりしました。六人のおじぞうさんが立っていました。",
+         "translation": "Ojiisan wa to o akete, bikkuri shimashita. Rokunin no ojizoo-san ga tatte imashita. — The old man opened the door and was surprised. Six Jizo were standing there."
+        },
+        {
+         "text": "おじぞうさんはお正月のおもちをたくさん持っていました。",
+         "translation": "Ojizoo-san wa oshoogatsu no omochi o takusan motte imashita. — The Jizo had lots of rice cakes for New Year."
+        },
+        {
+         "text": "お正月の朝になりました。",
+         "translation": "Oshoogatsu no asa ni narimashita. — New Year’s morning came."
+        },
+        {
+         "text": "おじいさんとおばあさんはおもちをたくさん食べました。二人はとてもしあわせでした。",
+         "translation": "Ojiisan to obaasan wa omochi o takusan tabemashita. Futari wa totemo shiawase deshita. — The old man and the old woman ate lots of rice cakes. The two of them were very happy."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Grammar in the story",
+       "body": "Several patterns you know appear here. ～つもり: かさを売って、おもちを買うつもりでした (they planned to sell the hats and buy rice cakes). ～くなる: かなしくなりました (became sad). ～ませんでした with だれも: だれもかさを買いませんでした (nobody bought one). Because of ～から, お金がなかったから gives the reason. Giving something to someone’s head: A に B をかぶせる.",
+       "tables": [
+        {
+         "headers": [
+          "Pattern",
+          "From the story",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "verb (plain) + つもり",
+           "売って、買うつもりでした",
+           "planned to sell and buy"
+          ],
+          [
+           "adj + くなる",
+           "かなしくなりました",
+           "became sad"
+          ],
+          [
+           "だれも + negative",
+           "だれもかさを買いませんでした",
+           "nobody bought a hat"
+          ],
+          [
+           "noun + に + noun + をかぶせる",
+           "おじぞうさんにかさをかぶせました",
+           "put a hat on the Jizo"
+          ],
+          [
+           "verb + て + くる",
+           "おもちを持ってきた",
+           "brought rice cakes"
+          ]
+         ],
+         "speakCols": [
+          1
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "C. Put the pictures in order",
+       "body": "The book gives six pictures: (a) the old man in bed hearing a voice, (b) the couple making hats, (c) six Jizo in the snow with hats on, (d) the old man in town where nobody buys, (e) the old man covering the Jizo with hats in the snow, (f) the couple eating rice cakes. In the order of the story (my reading of the pictures): (b) → (d) → (e) → (c) → (a) → (f).",
+       "tables": [],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "D. True or false?",
+       "body": "The book gives eight statements to mark ○ or ×. My answers:",
+       "tables": [
+        {
+         "headers": [
+          "Statement",
+          "Answer",
+          "Why"
+         ],
+         "rows": [
+          [
+           "おじいさんとおばあさんはお金持ちだった。 (The old man and woman were rich.)",
+           "×",
+           "They had no money (お金がなかった)."
+          ],
+          [
+           "だれもおじいさんのかさを買わなかった。 (Nobody bought the old man’s hats.)",
+           "○",
+           "だれもかさを買いませんでした。"
+          ],
+          [
+           "おじいさんはおじぞうさんにかさを売った。 (The old man sold hats to the Jizo.)",
+           "×",
+           "He put them on the Jizo as a gift. He did not sell them."
+          ],
+          [
+           "雪の中でおじいさんはおじぞうさんを六つ見た。 (In the snow the old man saw six Jizo.)",
+           "○",
+           "雪の中におじぞうさんが六つ立っていました。"
+          ],
+          [
+           "おじいさんは新しいかさを六つ持っていた。 (The old man had six new hats.)",
+           "×",
+           "The hats were five (かさは五つでした). The sixth was his own old one."
+          ],
+          [
+           "おばあさんはおじいさんの話を聞いて、かなしくなった。 (The old woman heard his story and became sad.)",
+           "×",
+           "She said he had done a good deed (いいことをしましたね)."
+          ],
+          [
+           "おじぞうさんはお金をたくさん持ってきた。 (The Jizo brought lots of money.)",
+           "×",
+           "They brought rice cakes for New Year (お正月のおもち)."
+          ],
+          [
+           "おじいさんとおばあさんのお正月はとてもよかった。 (The old man and woman’s New Year was very good.)",
+           "○",
+           "二人はとてもしあわせでした。"
+          ]
+         ],
+         "speakCols": []
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "Where did the old couple live?",
+       "options": [
+        "by the sea",
+        "in a town",
+        "in the mountains",
+        "in a castle"
+       ],
+       "correctIndex": 2,
+       "explanation": "山の中に住んでいました。"
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What did the old couple make?",
+       "options": [
+        "rice cakes",
+        "bamboo hats",
+        "shoes",
+        "umbrellas made of paper"
+       ],
+       "correctIndex": 1,
+       "explanation": "かさを作っていました。"
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "Why did they not have rice cakes for New Year?",
+       "options": [
+        "the town was closed",
+        "it was snowing",
+        "they had no money",
+        "they did not like them"
+       ],
+       "correctIndex": 2,
+       "explanation": "お金がなかったから。"
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "What was the old man planning to do?",
+       "options": [
+        "sell hats and buy rice cakes",
+        "visit the Jizo",
+        "buy a house",
+        "make rice cakes"
+       ],
+       "correctIndex": 0,
+       "explanation": "かさを売って、おもちを買うつもりでした。"
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "Where did he go to sell the hats?",
+       "options": [
+        "to his house",
+        "to a temple",
+        "to the mountain",
+        "to town"
+       ],
+       "correctIndex": 3,
+       "explanation": "町に売りに行きました。"
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "What happened in town?",
+       "options": [
+        "he sold all of them",
+        "he lost them",
+        "nobody bought a hat",
+        "he bought rice cakes"
+       ],
+       "correctIndex": 2,
+       "explanation": "だれもかさを買いませんでした。"
+      },
+      {
+       "id": "e7",
+       "type": "multipleChoice",
+       "prompt": "How did the old man feel after nobody bought a hat?",
+       "options": [
+        "surprised",
+        "sad",
+        "angry",
+        "happy"
+       ],
+       "correctIndex": 1,
+       "explanation": "かなしくなりました。"
+      },
+      {
+       "id": "e8",
+       "type": "multipleChoice",
+       "prompt": "What did he see on the mountain road?",
+       "options": [
+        "six Jizo in the snow",
+        "a house",
+        "his wife",
+        "a river"
+       ],
+       "correctIndex": 0,
+       "explanation": "雪の中におじぞうさんが六つ立っていました。"
+      },
+      {
+       "id": "e9",
+       "type": "multipleChoice",
+       "prompt": "What did the old man ask the Jizo?",
+       "options": [
+        "if they were not cold",
+        "what they wanted",
+        "who they were",
+        "where they lived"
+       ],
+       "correctIndex": 0,
+       "explanation": "さむくないですか。"
+      },
+      {
+       "id": "e10",
+       "type": "multipleChoice",
+       "prompt": "How many hats did he have?",
+       "options": [
+        "three",
+        "five",
+        "six",
+        "four"
+       ],
+       "correctIndex": 1,
+       "explanation": "かさは五つでした。"
+      },
+      {
+       "id": "e11",
+       "type": "multipleChoice",
+       "prompt": "What did he do for the sixth Jizo?",
+       "options": [
+        "bought a hat",
+        "carried it home",
+        "gave a coat",
+        "gave his own hat"
+       ],
+       "correctIndex": 3,
+       "explanation": "自分のかさをとって、かぶせました。"
+      },
+      {
+       "id": "e12",
+       "type": "multipleChoice",
+       "prompt": "What did the old woman say?",
+       "options": [
+        "I am hungry",
+        "we are rich",
+        "you are late",
+        "you did a good deed"
+       ],
+       "correctIndex": 3,
+       "explanation": "いいことをしましたね。"
+      },
+      {
+       "id": "e13",
+       "type": "multipleChoice",
+       "prompt": "What did the old man hear late that night?",
+       "options": [
+        "someone’s voice",
+        "a bell",
+        "music",
+        "a dog"
+       ],
+       "correctIndex": 0,
+       "explanation": "だれかの声を聞きました。"
+      },
+      {
+       "id": "e14",
+       "type": "multipleChoice",
+       "prompt": "What was outside the door?",
+       "options": [
+        "five children",
+        "six Jizo",
+        "a thief",
+        "a monk"
+       ],
+       "correctIndex": 1,
+       "explanation": "六人のおじぞうさんが立っていました。"
+      },
+      {
+       "id": "e15",
+       "type": "multipleChoice",
+       "prompt": "What did the Jizo bring?",
+       "options": [
+        "shoes",
+        "rice cakes for New Year",
+        "hats",
+        "money"
+       ],
+       "correctIndex": 1,
+       "explanation": "お正月のおもちをたくさん持っていました。"
+      },
+      {
+       "id": "e16",
+       "type": "multipleChoice",
+       "prompt": "How did the old couple feel at the end?",
+       "options": [
+        "very happy",
+        "sad",
+        "tired",
+        "angry"
+       ],
+       "correctIndex": 0,
+       "explanation": "二人はとてもしあわせでした。"
+      },
+      {
+       "id": "e17",
+       "type": "multipleChoice",
+       "prompt": "What does むかしむかし mean?",
+       "options": [
+        "once upon a time",
+        "next time",
+        "tomorrow",
+        "every year"
+       ],
+       "correctIndex": 0,
+       "explanation": "むかしむかし starts a folktale."
+      },
+      {
+       "id": "e18",
+       "type": "multipleChoice",
+       "prompt": "What does かさ mean in this story?",
+       "options": [
+        "umbrella of cloth",
+        "coat",
+        "bamboo hat",
+        "scarf"
+       ],
+       "correctIndex": 2,
+       "explanation": "In the folktale かさ is a hat of woven bamboo."
+      },
+      {
+       "id": "e19",
+       "type": "multipleChoice",
+       "prompt": "What does かぶせる mean?",
+       "options": [
+        "to take off a hat",
+        "to sell a hat",
+        "to make a hat",
+        "to put a hat on someone’s head"
+       ],
+       "correctIndex": 3,
+       "explanation": "かぶせる: to put something on a person’s head."
+      },
+      {
+       "id": "e20",
+       "type": "multipleChoice",
+       "prompt": "What does びっくりする mean?",
+       "options": [
+        "to be happy",
+        "to be surprised",
+        "to be sad",
+        "to be afraid"
+       ],
+       "correctIndex": 1,
+       "explanation": "びっくりする: to be surprised."
+      },
+      {
+       "id": "e21",
+       "type": "multipleChoice",
+       "prompt": "What does 山道 mean?",
+       "options": [
+        "mountain village",
+        "station",
+        "mountain road",
+        "mountain top"
+       ],
+       "correctIndex": 2,
+       "explanation": "山道 is やまみち."
+      },
+      {
+       "id": "e22",
+       "type": "multipleChoice",
+       "prompt": "What does いいこと mean?",
+       "options": [
+        "good friend",
+        "bad luck",
+        "good deed",
+        "good news"
+       ],
+       "correctIndex": 2,
+       "explanation": "いいことをする: to do a good deed."
+      },
+      {
+       "id": "e23",
+       "type": "multipleChoice",
+       "prompt": "What does 声 mean?",
+       "options": [
+        "door",
+        "snow",
+        "hat",
+        "voice"
+       ],
+       "correctIndex": 3,
+       "explanation": "声 is こえ: voice."
+      },
+      {
+       "id": "e24",
+       "type": "multipleChoice",
+       "prompt": "What does 戸 mean?",
+       "options": [
+        "window",
+        "door",
+        "roof",
+        "voice"
+       ],
+       "correctIndex": 1,
+       "explanation": "戸 is と: door."
+      },
+      {
+       "id": "e25",
+       "type": "fillBlank",
+       "prompt": "おじいさんは長い山___を歩いて帰りました。 (road)",
+       "options": [
+        "年",
+        "道",
+        "町",
+        "雪"
+       ],
+       "correctIndex": 1,
+       "explanation": "山道."
+      },
+      {
+       "id": "e26",
+       "type": "fillBlank",
+       "prompt": "二人はかさを売って、おもちを買う___でした。 (planned to)",
+       "options": [
+        "つもり",
+        "ところ",
+        "ため",
+        "こと"
+       ],
+       "correctIndex": 0,
+       "explanation": "つもり: plan."
+      },
+      {
+       "id": "e27",
+       "type": "fillBlank",
+       "prompt": "おじいさんは___くなりました。 (sad)",
+       "options": [
+        "かなし",
+        "かなしい",
+        "かなしかった",
+        "かなしく"
+       ],
+       "correctIndex": 0,
+       "explanation": "かなしくなりました。"
+      },
+      {
+       "id": "e28",
+       "type": "fillBlank",
+       "prompt": "おじぞうさんのあたまの上にかさを___ました。 (put on)",
+       "options": [
+        "つかい",
+        "かぶせ",
+        "うり",
+        "とり"
+       ],
+       "correctIndex": 1,
+       "explanation": "かぶせました。"
+      },
+      {
+       "id": "e29",
+       "type": "fillBlank",
+       "prompt": "おじいさんは戸を___て、びっくりしました。 (opened)",
+       "options": [
+        "閉め",
+        "立て",
+        "売り",
+        "開け"
+       ],
+       "correctIndex": 3,
+       "explanation": "戸を開けて。"
+      },
+      {
+       "id": "e30",
+       "type": "fillBlank",
+       "prompt": "お正月の___になりました。 (morning)",
+       "options": [
+        "夜",
+        "雪",
+        "朝",
+        "町"
+       ],
+       "correctIndex": 2,
+       "explanation": "お正月の朝。"
+      },
+      {
+       "id": "e31",
+       "type": "multipleChoice",
+       "prompt": "True or false: 「おじいさんとおばあさんはお金持ちだった。」",
+       "options": [
+        "false",
+        "true"
+       ],
+       "correctIndex": 0,
+       "explanation": "They had no money (お金がなかった)."
+      },
+      {
+       "id": "e32",
+       "type": "multipleChoice",
+       "prompt": "True or false: 「だれもおじいさんのかさを買わなかった。」",
+       "options": [
+        "false",
+        "true"
+       ],
+       "correctIndex": 1,
+       "explanation": "だれもかさを買いませんでした。"
+      },
+      {
+       "id": "e33",
+       "type": "multipleChoice",
+       "prompt": "True or false: 「おじいさんはおじぞうさんにかさを売った。」",
+       "options": [
+        "false",
+        "true"
+       ],
+       "correctIndex": 0,
+       "explanation": "He put them on the Jizo as a gift. He did not sell them."
+      },
+      {
+       "id": "e34",
+       "type": "multipleChoice",
+       "prompt": "True or false: 「雪の中でおじいさんはおじぞうさんを六つ見た。」",
+       "options": [
+        "true",
+        "false"
+       ],
+       "correctIndex": 0,
+       "explanation": "雪の中におじぞうさんが六つ立っていました。"
+      },
+      {
+       "id": "e35",
+       "type": "multipleChoice",
+       "prompt": "True or false: 「おじいさんは新しいかさを六つ持っていた。」",
+       "options": [
+        "true",
+        "false"
+       ],
+       "correctIndex": 1,
+       "explanation": "The hats were five (かさは五つでした). The sixth was his own old one."
+      },
+      {
+       "id": "e36",
+       "type": "multipleChoice",
+       "prompt": "True or false: 「おばあさんはおじいさんの話を聞いて、かなしくなった。」",
+       "options": [
+        "true",
+        "false"
+       ],
+       "correctIndex": 1,
+       "explanation": "She said he had done a good deed (いいことをしましたね)."
+      },
+      {
+       "id": "e37",
+       "type": "multipleChoice",
+       "prompt": "True or false: 「おじぞうさんはお金をたくさん持ってきた。」",
+       "options": [
+        "false",
+        "true"
+       ],
+       "correctIndex": 0,
+       "explanation": "They brought rice cakes for New Year (お正月のおもち)."
+      },
+      {
+       "id": "e38",
+       "type": "multipleChoice",
+       "prompt": "True or false: 「おじいさんとおばあさんのお正月はとてもよかった。」",
+       "options": [
+        "true",
+        "false"
+       ],
+       "correctIndex": 0,
+       "explanation": "二人はとてもしあわせでした。"
+      }
+     ]
+    },
+    {
+     "id": "ja_145",
+     "title": "145. Writing practice: holidays",
+     "subtitle": "お正月 · クリスマス · ハロウィーン · 誕生日 · バレンタインデー · ラマダン · ハヌカー · ディーワーリー",
+     "requiredLemmas": [],
+     "unlockThreshold": 0.6,
+     "explanations": [
+      {
+       "title": "Writing practice",
+       "body": "In the book’s writing practice you choose one topic from a list and write what you do or did on that day. The list: お正月, クリスマス, ハロウィーン, 誕生日, バレンタインデー, ラマダン, ハヌカー, ディーワーリー, or another holiday of your own. Your own writing is up to you.",
+       "tables": [],
+       "examples": [],
+       "kind": "note"
+      },
+      {
+       "title": "A sample of mine (not the book’s)",
+       "body": "A short model about New Year (お正月), using the new kanji and the plain form:",
+       "tables": [],
+       "examples": [
+        {
+         "text": "お正月には、毎年、家族と日本の町へ行く。",
+         "translation": "Oshoogatsu ni wa, maitoshi, kazoku to Nihon no machi e iku. — At New Year I go to a Japanese town with my family every year."
+        },
+        {
+         "text": "朝、おもちを食べて、神社へ行った。",
+         "translation": "Asa, omochi o tabete, jinja e itta. — In the morning we eat rice cakes and go to a shrine."
+        },
+        {
+         "text": "夜は友だちと会って、長い話をした。",
+         "translation": "Yoru wa tomodachi to atte, nagai hanashi o shita. — In the evening I met a friend and had a long talk."
+        },
+        {
+         "text": "雪がふっていたが、とても楽しかった。",
+         "translation": "Yuki ga futte ita ga, totemo tanoshikatta. — Snow was falling, but it was a lot of fun."
+        }
+       ],
+       "kind": "note"
+      },
+      {
+       "title": "Useful words for the holidays",
+       "body": "Words from the list, with the kanji you have learned.",
+       "tables": [
+        {
+         "headers": [
+          "Reading",
+          "Kanji",
+          "Romaji",
+          "Meaning"
+         ],
+         "rows": [
+          [
+           "おしょうがつ",
+           "お正月",
+           "Oshoogatsu",
+           "New Year"
+          ],
+          [
+           "たんじょうび",
+           "誕生日",
+           "Tanjoobi",
+           "birthday"
+          ],
+          [
+           "クリスマス",
+           "クリスマス",
+           "Kurisumasu",
+           "Christmas"
+          ],
+          [
+           "ハロウィーン",
+           "ハロウィーン",
+           "Harowiin",
+           "Halloween"
+          ],
+          [
+           "バレンタインデー",
+           "バレンタインデー",
+           "Barentaindee",
+           "Valentine’s Day"
+          ],
+          [
+           "ラマダン",
+           "ラマダン",
+           "Ramadan",
+           "Ramadan"
+          ],
+          [
+           "ハヌカー",
+           "ハヌカー",
+           "Hanukaa",
+           "Hanukkah"
+          ],
+          [
+           "ディーワーリー",
+           "ディーワーリー",
+           "Diiwaarii",
+           "Diwali"
+          ]
+         ],
+         "speakCols": [
+          0
+         ]
+        }
+       ],
+       "examples": [],
+       "kind": "note"
+      }
+     ],
+     "exercises": [
+      {
+       "id": "e1",
+       "type": "multipleChoice",
+       "prompt": "What does お正月 mean?",
+       "options": [
+        "New Year",
+        "summer holiday",
+        "birthday",
+        "Christmas"
+       ],
+       "correctIndex": 0,
+       "explanation": "お正月 is New Year."
+      },
+      {
+       "id": "e2",
+       "type": "multipleChoice",
+       "prompt": "What does 誕生日 mean?",
+       "options": [
+        "holiday",
+        "birthday",
+        "New Year",
+        "festival"
+       ],
+       "correctIndex": 1,
+       "explanation": "誕生日 is たんじょうび."
+      },
+      {
+       "id": "e3",
+       "type": "multipleChoice",
+       "prompt": "How do you read 誕生日?",
+       "options": [
+        "たんしょうにち",
+        "たんじょうび",
+        "たんじょうにち",
+        "うまれび"
+       ],
+       "correctIndex": 1,
+       "explanation": "誕生日 is たんじょうび."
+      },
+      {
+       "id": "e4",
+       "type": "multipleChoice",
+       "prompt": "How do you say Christmas in Japanese?",
+       "options": [
+        "ラマダン",
+        "ハヌカー",
+        "クリスマス",
+        "ハロウィーン"
+       ],
+       "correctIndex": 2,
+       "explanation": "クリスマス."
+      },
+      {
+       "id": "e5",
+       "type": "multipleChoice",
+       "prompt": "How do you say Halloween in Japanese?",
+       "options": [
+        "クリスマス",
+        "ハロウィーン",
+        "ハヌカー",
+        "ディーワーリー"
+       ],
+       "correctIndex": 1,
+       "explanation": "ハロウィーン."
+      },
+      {
+       "id": "e6",
+       "type": "multipleChoice",
+       "prompt": "How do you say Valentine’s Day in Japanese?",
+       "options": [
+        "ラマダン",
+        "クリスマス",
+        "バレンタインデー",
+        "ハロウィーン"
+       ],
+       "correctIndex": 2,
+       "explanation": "バレンタインデー."
+      },
+      {
+       "id": "e7",
+       "type": "fillBlank",
+       "prompt": "お正月には、毎年、おもちを___。 (eat)",
+       "options": [
+        "住む",
+        "売る",
+        "立つ",
+        "食べる"
+       ],
+       "correctIndex": 3,
+       "explanation": "おもちを食べる。"
+      },
+      {
+       "id": "e8",
+       "type": "fillBlank",
+       "prompt": "雪が___ていたが、とても楽しかった。 (was falling)",
+       "options": [
+        "買い",
+        "売り",
+        "住み",
+        "ふっ"
+       ],
+       "correctIndex": 3,
+       "explanation": "雪がふっていた。"
+      },
+      {
+       "id": "e9",
+       "type": "fillBlank",
+       "prompt": "朝、おもちを食べて、___へ行った。 (shrine)",
+       "options": [
+        "朝食",
+        "雪",
+        "神社",
+        "町長"
+       ],
+       "correctIndex": 2,
+       "explanation": "神社 is a Shinto shrine."
+      },
+      {
+       "id": "e10",
+       "type": "fillBlank",
+       "prompt": "お正月の___は、毎年、早くおきる。 (morning)",
+       "options": [
+        "雪",
+        "夜",
+        "朝",
+        "町"
+       ],
+       "correctIndex": 2,
+       "explanation": "お正月の朝。"
       }
      ]
     }

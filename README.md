@@ -1380,6 +1380,8 @@ left out" card.
 | 19. Genki I, Reading & Writing 6: My Favorite Restaurant | 124-127 | the kanji 東 西 南 北 口 出 右 左 分 先 生 大 学 外 国, station exits and directions, compound words, the map and bulletin-board exercises, the restaurant essay |
 | 20. Genki I, Reading & Writing 7: Mary's Letter | 128-131 | the kanji 京 子 小 会 社 父 母 高 校 毎 語 文 帰 入, father and mother words, blanks and word-search practice, Mary's letter to Kyoko with a summary of each topic |
 | 21. Genki I, Reading & Writing 8: Japanese Office Workers | 132-135 | the kanji 員 新 聞 作 仕 事 電 車 休 言 読 思 次 何, phrase-and-verb matching, the questionnaire and Uday's report on Japanese office workers |
+| 22. Genki I, Reading & Writing 9: Sue's Diary | 136-140 | the kanji 午 後 前 名 白 雨 書 友 間 家 話 少 古 知 来, blanks and word choices, Sue's diary in the plain form (picture order, true/false) and her thank-you e-mail with useful letter expressions |
+| 23. Genki I, Reading & Writing 10: The Folktale Kasajizo | 141-145 | the kanji 住 正 年 売 買 町 長 道 雪 立 自 夜 朝 持, opposites and blanks, the folktale かさじぞう with the book's vocabulary, picture order and true/false, and holiday writing practice |
 
 No native speaker has reviewed these lessons. `test/japanese_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
 and that spoken cells and example lines are Japanese text. It has not been run (no Flutter SDK here); the Python build runs the same checks.
