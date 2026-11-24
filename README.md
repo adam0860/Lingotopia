@@ -1377,6 +1377,9 @@ left out" card.
 | 16. Genki I, Reading & Writing 3: Daily Life | 113-116 | the kanji 一 to 十, 百 千 万 円 時 with their on-yomi, kun-yomi and the book's example words, sound changes with big numbers, reading and writing prices in kanji, the daily-routine reading passage |
 | 17. Genki I, Reading & Writing 4: Mary's Weekend | 117-119 | the kanji 日 本 人 月 火 水 木 金 土 曜 上 下 中 半, the days of the week and the months, the book's matching and position drills, the memo to Mom and the weekend reading passage |
 | 18. Genki I, Reading & Writing 5: Travel | 120-123 | the kanji 山 川 元 気 天 私 今 田 女 男 見 行 食 飲, dates 一日 to 二十日, the picture-matching sentences, the katakana vocabulary, the Vienna and Okinawa postcards and Japanese addresses |
+| 19. Genki I, Reading & Writing 6: My Favorite Restaurant | 124-127 | the kanji 東 西 南 北 口 出 右 左 分 先 生 大 学 外 国, station exits and directions, compound words, the map and bulletin-board exercises, the restaurant essay |
+| 20. Genki I, Reading & Writing 7: Mary's Letter | 128-131 | the kanji 京 子 小 会 社 父 母 高 校 毎 語 文 帰 入, father and mother words, blanks and word-search practice, Mary's letter to Kyoko with a summary of each topic |
+| 21. Genki I, Reading & Writing 8: Japanese Office Workers | 132-135 | the kanji 員 新 聞 作 仕 事 電 車 休 言 読 思 次 何, phrase-and-verb matching, the questionnaire and Uday's report on Japanese office workers |
 
 No native speaker has reviewed these lessons. `test/japanese_lessons_test.dart` checks ids, exercise counts, answer validity, leftover markup
 and that spoken cells and example lines are Japanese text. It has not been run (no Flutter SDK here); the Python build runs the same checks.
