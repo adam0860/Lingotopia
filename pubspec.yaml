@@ -1,7 +1,7 @@
 name: lingotopia
 description: Lingotopia — explore, learn, play. A cross-platform language learning app.
 publish_to: "none"
-version: 2.13.0+136
+version: 2.14.0+137
 
 environment:
   sdk: ">=3.6.0 <4.0.0"
