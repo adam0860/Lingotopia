@@ -6,7 +6,7 @@ A cross-platform language learning app: a spaced-repetition engine, thirteen
 vocabulary decks of up to 10,000 words each with tappable in-context sentences, lessons, four games, a
 text-to-speech layer built around cached neural voices, and an experience
 system (XP, levels, daily goal, streak with freezes, 75 trophies) that ties
-them together. Japanese and Chinese also have stroke-order writing practice, and
+them together. Japanese, Chinese and Korean also have stroke-order writing practice, and
 the app opens with a short animated intro.
 
 ---
@@ -1810,10 +1810,10 @@ Limits specific to Arabic:
 - Tapping a sentence's speaker in the read passage uses the same voice as the cards (Azure neural if a key is set, otherwise the device voice). A device with no Russian voice shows a message and the listen test cannot be played.
 - A passage's colours are read when you open it, so words you review while it is open keep their old colour until you reopen it.
 
-## Writing practice (Japanese and Chinese)
+## Writing practice (Japanese, Chinese and Korean)
 
 Learn the stroke order of a character, then draw it with a finger, a stylus or the
-mouse. It appears on the Learn tab for the Japanese and Chinese decks.
+mouse. It appears on the Learn tab for the Japanese, Chinese and Korean decks.
 
 - **Characters.** Japanese: 2,239 characters (every kanji in the deck, plus hiragana and katakana, on a Kana tab). Chinese: 2,686 characters (every character in the deck). They are listed in the order the deck teaches them, with a stroke-count filter and a box to jump to any character.
 - **Three modes per character.** *Watch* draws the strokes in order with numbered badges. *Trace* shows faint guide strokes and a ring where the next stroke starts. *Write* is an empty square; a hint appears only after slips or when asked. A new character opens in Watch, one already traced opens in Trace, one with stars opens in Write.
