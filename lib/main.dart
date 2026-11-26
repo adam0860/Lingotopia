@@ -89,7 +89,7 @@ Future<void> main() async {
   await reading.init('assets/readings/es_readings.json');
   await reading.init('assets/readings/ar_readings.json');
 
-  // Stroke-order data for Japanese, Chinese and Korean writing practice. Loaded the
+  // Stroke-order data for Japanese, Chinese, Korean, Russian and Arabic writing practice. Loaded the
   // first time the screen is opened; only the progress is read now.
   final prefs = await SharedPreferences.getInstance();
   final writing = WritingRepository(prefs);

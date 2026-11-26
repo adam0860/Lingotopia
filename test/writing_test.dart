@@ -96,6 +96,8 @@ void main() {
     final ja = load('ja');
     final zh = load('zh');
     final ko = load('ko');
+    final ru = load('ru');
+    final ar = load('ar');
 
     test('known stroke counts', () {
       expect(ja['人']!.strokeCount, 2);
@@ -113,6 +115,20 @@ void main() {
       expect(ko['가']!.strokeCount, 1 + 2);
       expect(ko['한']!.strokeCount, 3 + 2 + 1);
       expect(ko['밖']!.strokeCount, 4 + 2 + 2);
+    });
+
+    test('Russian has 33 capitals then 33 small letters; Arabic has its letters', () {
+      expect(ru.order.length, 66);
+      expect(ru.order.take(33).every((c) => ru[c]!.isCapital), isTrue);
+      expect(ru.order.skip(33).any((c) => ru[c]!.isCapital), isFalse);
+      expect(ru['А']!.strokeCount, 3);
+      expect(ru['Ш']!.strokeCount, 4);
+      expect(ru['о']!.strokeCount, 1);
+      expect(ru['Ё']!.strokeCount, 6); // Е and its two dots
+      expect(ar.order.length, 32);
+      expect(ar['ا']!.strokeCount, 1);
+      expect(ar['ب']!.strokeCount, 2); // the body, then the dot
+      expect(ar['ث']!.strokeCount, 4); // the body, then three dots
     });
 
     test('Korean letters come first, then syllables', () {
@@ -133,7 +149,7 @@ void main() {
     });
 
     test('every point is on the grid and every stroke can be drawn', () {
-      for (final set in [ja, zh, ko]) {
+      for (final set in [ja, zh, ko, ru, ar]) {
         for (final ch in set.chars.values) {
           expect(ch.strokes, isNotEmpty, reason: ch.char);
           for (final s in ch.strokes) {
@@ -148,7 +164,7 @@ void main() {
     });
 
     test('each model stroke matches itself', () {
-      for (final set in [ja, zh, ko]) {
+      for (final set in [ja, zh, ko, ru, ar]) {
         for (final ch in set.chars.values.take(300)) {
           for (final s in ch.strokes) {
             expect(StrokeMatcher.match(user: s, target: s).ok, isTrue,
@@ -181,11 +197,14 @@ void main() {
       expect(again.progressOf('ja', '人').stars, 3);
     });
 
-    test('only Japanese, Chinese and Korean have stroke data', () {
+    test('only Japanese, Chinese, Korean, Russian and Arabic have stroke data', () {
       expect(WritingRepository.supports('ja'), isTrue);
       expect(WritingRepository.supports('zh'), isTrue);
       expect(WritingRepository.supports('ko'), isTrue);
-      expect(WritingRepository.supports('ru'), isFalse);
+      expect(WritingRepository.supports('ru'), isTrue);
+      expect(WritingRepository.supports('ar'), isTrue);
+      expect(WritingRepository.supports('arz'), isTrue);
+      expect(WritingRepository.supports('es'), isFalse);
     });
   });
 
@@ -321,6 +340,47 @@ void main() {
       expect(const KanjiReading(sounds: ['rén']).primary, 'rén');
       expect(writingLocale('ko').languageCode, 'ko');
       expect(writingLocale('zh').countryCode, 'CN');
+    });
+  });
+
+  group('Russian and Arabic letters', () {
+    final ruR = KanjiReading.parse(File('assets/writing/ru_readings.json').readAsStringSync());
+    final arR = KanjiReading.parse(File('assets/writing/ar_readings.json').readAsStringSync());
+
+    test('every letter has a sound chip and a name chip, each with something to say', () {
+      for (final lang in ['ru', 'ar']) {
+        final set = load(lang);
+        final readings = lang == 'ru' ? ruR : arR;
+        for (final ch in set.order) {
+          final r = readings[ch];
+          expect(r, isNotNull, reason: ch);
+          expect(r!.sounds.length, 2, reason: ch);
+          expect(r.says.length, 2, reason: ch);
+          expect(r.says.every((x) => x.isNotEmpty), isTrue, reason: ch);
+        }
+      }
+    });
+
+    test('a Russian consonant is said with an a, a vowel as itself, and capitals match small letters', () {
+      expect(ruR['б']!.heard('б'), 'ба');
+      expect(ruR['Б']!.heard('Б'), 'ба');
+      expect(ruR['а']!.heard('а'), 'а');
+      expect(ruR['ш']!.sounds.first, 'sh');
+      expect(ruR['Щ']!.sounds.first, 'shch');
+      expect(ruR['Д']!.says[1], 'дэ'); // the letter name
+    });
+
+    test('an Arabic letter is said with a short vowel, and by name on the second chip', () {
+      expect(arR['ب']!.sounds.first, 'b');
+      expect(arR['ب']!.says, ['بَ', 'باء']);
+      expect(arR['ش']!.sounds.first, 'sh');
+      expect(arR['ع']!.sounds.first, 'a (throat)');
+    });
+
+    test('Russian is written with the Russian font locale and Arabic with the Arabic one', () {
+      expect(writingLocale('ru').languageCode, 'ru');
+      expect(writingLocale('ar').languageCode, 'ar');
+      expect(writingLocale('arz').countryCode, 'EG');
     });
   });
 }

@@ -2,14 +2,18 @@ import 'dart:convert';
 import 'dart:ui' show Locale, Offset;
 
 /// Which stroke set a deck uses. Japanese also offers kana and Korean
-/// offers its letters (jamo) beside the syllable blocks.
-enum WritingScript { kanji, kana, hanzi, hangul }
+/// offers its letters (jamo) beside the syllable blocks; Russian and Arabic
+/// are alphabets.
+enum WritingScript { kanji, kana, hanzi, hangul, cyrillic, arabic }
 
 /// The font locale to draw a language's characters with, so a Chinese hanzi
 /// is not shown in its Japanese form and the other way round.
 Locale writingLocale(String language) => switch (language) {
       'zh' => const Locale('zh', 'CN'),
       'ko' => const Locale('ko', 'KR'),
+      'ru' => const Locale('ru', 'RU'),
+      'ar' => const Locale('ar'),
+      'arz' => const Locale('ar', 'EG'),
       _ => const Locale('ja', 'JP'),
     };
 
@@ -27,6 +31,13 @@ class StrokeChar {
 
   /// A Hangul letter on its own (a consonant or vowel), not a syllable block.
   bool get isJamo => isJamoChar(char);
+
+  /// A capital Cyrillic letter.
+  bool get isCapital {
+    if (char.isEmpty) return false;
+    final u = char.runes.first;
+    return (u >= 0x0410 && u <= 0x042F) || u == 0x0401;
+  }
 
   static bool isJamoChar(String ch) {
     if (ch.isEmpty) return false;
@@ -113,6 +124,7 @@ class KanjiReading {
     this.on = const [],
     this.kun = const [],
     this.sounds = const [],
+    this.says = const [],
     this.say,
     this.meanings = const [],
   });
@@ -120,6 +132,11 @@ class KanjiReading {
   final List<String> on;
   final List<String> kun;
   final List<String> sounds;
+
+  /// What the voice says for each of [sounds], when that is not the text
+  /// itself (a Russian consonant is said with an a after it, so it can be
+  /// pronounced; an Arabic letter with a short vowel).
+  final List<String> says;
   final String? say;
   final List<String> meanings;
 
@@ -160,6 +177,7 @@ class KanjiReading {
           on: strings((e.value as Map)['on']),
           kun: strings((e.value as Map)['kun']),
           sounds: strings((e.value as Map)['r']),
+          says: strings((e.value as Map)['says']),
           say: (e.value as Map)['say'] as String?,
           meanings: strings((e.value as Map)['m']),
         ),

@@ -52,7 +52,7 @@ class _WritingHomeScreenState extends State<WritingHomeScreen> {
   @override
   void initState() {
     super.initState();
-    _basic = _isKo; // Korean learners start with the letters
+    _basic = _isKo || _isRu; // Korean starts on the letters, Russian on the capitals
     context.read<WritingRepository>().readingsFor(widget.deck.language).then((r) {
       if (mounted) setState(() => _readings = r);
     });
@@ -60,13 +60,20 @@ class _WritingHomeScreenState extends State<WritingHomeScreen> {
 
   bool get _isJa => widget.deck.language == 'ja';
   bool get _isKo => widget.deck.language == 'ko';
+  bool get _isRu => widget.deck.language == 'ru';
+  bool get _isArabic => const {'ar', 'arz'}.contains(widget.deck.language);
 
-  /// Japanese and Korean split into a basic set (kana, letters) and the rest.
-  bool get _grouped => _isJa || _isKo;
+  /// Japanese, Korean and Russian split into two sets: kana and kanji, letters
+  /// and syllables, capital and small letters.
+  bool get _grouped => _isJa || _isKo || _isRu;
+
+  /// Stroke-count bands help with thousands of characters, not with an alphabet.
+  bool get _banded => !(_isRu || _isArabic) && (!_grouped || !_basic);
   Locale get _locale => writingLocale(widget.deck.language);
 
-  bool _inBasic(StrokeSet set, String ch) =>
-      _isKo ? set[ch]!.isJamo : set[ch]!.isKana;
+  bool _inBasic(StrokeSet set, String ch) => _isRu
+      ? set[ch]!.isCapital
+      : (_isKo ? set[ch]!.isJamo : set[ch]!.isKana);
 
   @override
   void dispose() {
@@ -78,7 +85,7 @@ class _WritingHomeScreenState extends State<WritingHomeScreen> {
     return [
       for (final ch in set.order)
         if (!_grouped || _inBasic(set, ch) == _basic)
-          if (_basic || _band.admits(set[ch]!.strokeCount)) ch
+          if (!_banded || _band.admits(set[ch]!.strokeCount)) ch
     ];
   }
 
@@ -169,6 +176,14 @@ class _WritingHomeScreenState extends State<WritingHomeScreen> {
                                         'hiragana for the kun reading, katakana for '
                                         'the on reading. Press and hold a character '
                                         'to hear it.',
+                                    'ru' => 'The sound is shown above each letter. '
+                                        'Tap the speaker on the practice screen for '
+                                        'the sound and the letter name; press and '
+                                        'hold a tile to hear the sound.',
+                                    'ar' || 'arz' => 'The sound is shown above each '
+                                        'letter. Arabic is written from right to '
+                                        'left, and the dots come last. Press and '
+                                        'hold a tile to hear the sound.',
                                     'ko' => 'The romanization is shown above each '
                                         'letter and syllable. Learn the letters '
                                         'first, then the syllable blocks the deck '
@@ -202,10 +217,14 @@ class _WritingHomeScreenState extends State<WritingHomeScreen> {
                               segments: [
                                 ButtonSegment(
                                     value: false,
-                                    label: Text(_isKo ? 'Syllables' : 'Kanji')),
+                                    label: Text(_isKo
+                                        ? 'Syllables'
+                                        : (_isRu ? 'Small' : 'Kanji'))),
                                 ButtonSegment(
                                     value: true,
-                                    label: Text(_isKo ? 'Letters' : 'Kana')),
+                                    label: Text(_isKo
+                                        ? 'Letters'
+                                        : (_isRu ? 'Capital' : 'Kana'))),
                               ],
                               selected: {_basic},
                               onSelectionChanged: (s) =>
@@ -231,7 +250,7 @@ class _WritingHomeScreenState extends State<WritingHomeScreen> {
                                   borderRadius: BorderRadius.circular(14)),
                             ),
                           ),
-                          if (!_grouped || !_basic) ...[
+                          if (_banded) ...[
                             const SizedBox(height: 10),
                             SizedBox(
                               height: 40,

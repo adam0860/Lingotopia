@@ -111,7 +111,7 @@ def finger(stroke, rnd, wobble=28.0, shift=45.0):
 
 def main():
     rnd = random.Random(7)
-    for lang in ("ja", "zh", "ko"):
+    for lang in ("ja", "zh", "ko", "ru", "ar"):
         data = json.load(open(ROOT / "assets" / "writing" / ("%s_strokes.json" % lang)))["chars"]
         chars = list(data.items())
         rnd.shuffle(chars)

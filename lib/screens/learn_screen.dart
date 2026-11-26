@@ -191,6 +191,10 @@ class _LearnBody extends StatelessWidget {
                           'Stroke order for kanji, hiragana and katakana, with readings and sound. Draw with a finger or stylus.',
                         'ko' =>
                           'Stroke order for Hangul letters and syllables, with romanization and sound. Draw with a finger or stylus.',
+                        'ru' =>
+                          'Draw the Cyrillic letters, capital and small, and hear their sounds and names.',
+                        'ar' || 'arz' =>
+                          'Draw the Arabic letters right to left, and hear their sounds and names.',
                         _ =>
                           'Stroke order for Chinese characters, with pinyin and sound. Draw with a finger or stylus.',
                       },

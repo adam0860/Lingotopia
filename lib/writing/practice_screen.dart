@@ -104,10 +104,21 @@ class _WritingPracticeScreenState extends State<WritingPracticeScreen>
     final mode = p.runs == 0
         ? PracticeMode.watch
         : (p.stars == 0 ? PracticeMode.trace : PracticeMode.write);
-    _examples = [
+    // Alphabets (Russian, Arabic) match any case and put the words that start
+    // with the letter first; Arabic letter forms are drawn from the isolated one.
+    final isAlphabet = _lang == 'ru' || _lang == 'ar' || _lang == 'arz';
+    final key = _lang == 'ru' ? _ch.toLowerCase() : _ch;
+    bool has(VocabCard c) => (_lang == 'ru' ? c.lemma.toLowerCase() : c.lemma).contains(key);
+    bool starts(VocabCard c) => (_lang == 'ru' ? c.lemma.toLowerCase() : c.lemma).startsWith(key);
+    var found = [
       for (final c in widget.deck.cards)
-        if (c.lemma.contains(_ch)) c
-    ].take(4).toList();
+        if (has(c)) c
+    ];
+    if (isAlphabet) {
+      // not sort(): it is not stable, and the deck order matters
+      found = [...found.where(starts), ...found.where((c) => !starts(c))];
+    }
+    _examples = found.take(4).toList();
     _setMode(mode);
   }
 
@@ -153,7 +164,9 @@ class _WritingPracticeScreenState extends State<WritingPracticeScreen>
   /// What to say for one pinyin or romanization [r] of the character.
   /// A voice only reads a lone hanzi its usual way, so a second pinyin is
   /// played through a deck word that uses it; null when there is none.
-  String? _soundToSay(String r, {required bool first}) {
+  String? _soundToSay(String r, {required bool first, required int index}) {
+    final says = _reading?.says ?? const <String>[];
+    if (index < says.length) return says[index];
     if (_lang != 'zh') return _heard;
     for (final w in _examples) {
       final tokens = (w.reading ?? '').trim().split(RegExp(r'\s+'));
@@ -166,8 +179,9 @@ class _WritingPracticeScreenState extends State<WritingPracticeScreen>
   }
 
   /// A pinyin or romanization chip; tappable when the voice can say it.
-  Widget _soundChip(LingoColors c, TextTheme text, String r, {required bool first}) {
-    final say = _soundToSay(r, first: first);
+  Widget _soundChip(LingoColors c, TextTheme text, String r,
+      {required bool first, required int index}) {
+    final say = _soundToSay(r, first: first, index: index);
     final label = Text(r, locale: _locale, style: text.titleMedium);
     if (say == null) {
       return Chip(label: label, visualDensity: VisualDensity.compact);
@@ -195,7 +209,7 @@ class _WritingPracticeScreenState extends State<WritingPracticeScreen>
           for (final k in r.kun) _readingChip(c, text, k, 'kun'),
           for (final o in r.on) _readingChip(c, text, o, 'on'),
           for (var i = 0; i < r.sounds.length; i++)
-            _soundChip(c, text, r.sounds[i], first: i == 0),
+            _soundChip(c, text, r.sounds[i], first: i == 0, index: i),
         ],
       ),
     );

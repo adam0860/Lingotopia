@@ -21,14 +21,21 @@ class WritingRepository extends ChangeNotifier {
     'ja': 'assets/writing/ja_strokes.json',
     'zh': 'assets/writing/zh_strokes.json',
     'ko': 'assets/writing/ko_strokes.json',
+    'ru': 'assets/writing/ru_strokes.json',
+    'ar': 'assets/writing/ar_strokes.json',
+    'arz': 'assets/writing/ar_strokes.json', // Egyptian Arabic: the same letters
   };
 
   /// What is shown above each character: kanji readings (Japanese), pinyin
-  /// (Chinese) and romanization with letter names (Korean).
+  /// (Chinese), romanization with letter names (Korean) and the sound and
+  /// name of each letter (Russian, Arabic).
   static const _readingAssets = {
     'ja': 'assets/writing/ja_readings.json',
     'zh': 'assets/writing/zh_readings.json',
     'ko': 'assets/writing/ko_readings.json',
+    'ru': 'assets/writing/ru_readings.json',
+    'ar': 'assets/writing/ar_readings.json',
+    'arz': 'assets/writing/ar_readings.json',
   };
 
   final Map<String, Map<String, KanjiReading>> _readings = {};

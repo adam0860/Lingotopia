@@ -40,3 +40,14 @@ assets/writing/ko_strokes.json, ko_readings.json  (Hangul writing practice)
   hangeul-stroke-order diagrams (https://github.com/MagisterAdamus/hangeul-stroke-order,
   Creative Commons Attribution-ShareAlike 4.0); no artwork from that set is included.
   Romanization follows the Revised Romanization of Korean for the syllable on its own.
+
+assets/writing/ru_strokes.json, ru_readings.json  (Russian alphabet practice)
+  Authored for Lingotopia (tools/build_cyrillic_strokes.py): printed Cyrillic letters as stroke
+  centerlines. Letter names and sounds written for Lingotopia.
+
+assets/writing/ar_strokes.json, ar_readings.json  (Arabic alphabet practice)
+  The stroke lines were traced from the skeletons of glyphs of the DejaVu Sans font
+  (tools/build_arabic_strokes.py). DejaVu Sans is based on Bitstream Vera, Copyright (c) 2003
+  Bitstream, Inc., with changes that are in the public domain; its licence
+  (https://dejavu-fonts.github.io/License.html) allows use, copying and modification. No font
+  file is shipped, only the derived stroke lines. Letter names and sounds written for Lingotopia.
