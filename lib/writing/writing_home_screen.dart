@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
+import '../audio/tts_service.dart';
 import '../data/models.dart';
 import '../theme/app_theme.dart';
 import '../ui/app_card.dart';
@@ -42,10 +43,19 @@ class WritingHomeScreen extends StatefulWidget {
 class _WritingHomeScreenState extends State<WritingHomeScreen> {
   late final Future<StrokeSet?> _future =
       context.read<WritingRepository>().setFor(widget.deck.language);
+  Map<String, KanjiReading> _readings = const {};
   final _find = TextEditingController();
   bool _kana = false;
   _Band _band = _Band.all;
   String? _notFound;
+
+  @override
+  void initState() {
+    super.initState();
+    context.read<WritingRepository>().readingsFor(widget.deck.language).then((r) {
+      if (mounted) setState(() => _readings = r);
+    });
+  }
 
   bool get _isJa => widget.deck.language == 'ja';
   Locale get _locale => _isJa ? const Locale('ja', 'JP') : const Locale('zh', 'CN');
@@ -71,6 +81,7 @@ class _WritingHomeScreenState extends State<WritingHomeScreen> {
         strokeSet: set,
         chars: list,
         index: index,
+        readings: _readings,
       ),
     ));
   }
@@ -143,6 +154,16 @@ class _WritingHomeScreenState extends State<WritingHomeScreen> {
                                   'finish with Write for stars.',
                                   style: text.bodyMedium,
                                 ),
+                                if (_isJa) ...[
+                                  const SizedBox(height: 8),
+                                  Text(
+                                    'The reading is shown above each kanji: '
+                                    'hiragana for the kun reading, katakana for '
+                                    'the on reading. Press and hold a character '
+                                    'to hear it.',
+                                    style: text.bodySmall,
+                                  ),
+                                ],
                                 const SizedBox(height: 12),
                                 ClipRRect(
                                   borderRadius: BorderRadius.circular(8),
@@ -235,9 +256,18 @@ class _WritingHomeScreenState extends State<WritingHomeScreen> {
                           final tint = p.stars > 0
                               ? c.success
                               : (p.runs > 0 ? c.caution : c.hairline);
+                          final reading = _isJa ? _readings[ch] : null;
+                          final primary = reading?.primary;
+                          final onlyOn = reading != null && reading.kun.isEmpty;
                           return InkWell(
                             borderRadius: BorderRadius.circular(14),
                             onTap: () => _open(set, list, i),
+                            onLongPress: _isJa
+                                ? () => context.read<TtsService>().speak(
+                                    primary != null
+                                        ? KanjiReading.spoken(primary)
+                                        : ch)
+                                : null,
                             child: Ink(
                               decoration: BoxDecoration(
                                 color: c.raised,
@@ -246,10 +276,32 @@ class _WritingHomeScreenState extends State<WritingHomeScreen> {
                               ),
                               child: Stack(
                                 children: [
-                                  Center(
-                                    child: Text(ch,
+                                  if (primary != null)
+                                    Positioned(
+                                      left: 3,
+                                      right: 3,
+                                      top: 4,
+                                      child: Text(
+                                        KanjiReading.shown(primary),
                                         locale: _locale,
-                                        style: const TextStyle(fontSize: 30)),
+                                        maxLines: 1,
+                                        overflow: TextOverflow.ellipsis,
+                                        textAlign: TextAlign.center,
+                                        style: text.labelSmall?.copyWith(
+                                            color: onlyOn
+                                                ? c.accent
+                                                : c.inkMuted,
+                                            fontSize: 10),
+                                      ),
+                                    ),
+                                  Center(
+                                    child: Padding(
+                                      padding: EdgeInsets.only(
+                                          top: primary != null ? 8 : 0),
+                                      child: Text(ch,
+                                          locale: _locale,
+                                          style: const TextStyle(fontSize: 30)),
+                                    ),
                                   ),
                                   Positioned(
                                     right: 6,

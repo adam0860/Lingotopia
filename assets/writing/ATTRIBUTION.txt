@@ -17,3 +17,11 @@ assets/writing/zh_strokes.json  (Chinese characters)
   Licensed under the Arphic Public License; see ARPHICPL.txt.
   Changes: stroke median lines converted to a 1000 x 1000 grid, y down
   (tools/build_writing_data.py).
+
+assets/writing/ja_readings.json  (kanji readings for the Japanese writing practice)
+  Derived from KANJIDIC2, Copyright (C) the Electronic Dictionary Research and Development Group
+  (https://www.edrdg.org/wiki/index.php/KANJIDIC_Project), as bundled in the jamdict-data package.
+  Licensed under Creative Commons Attribution-ShareAlike 4.0
+  https://creativecommons.org/licenses/by-sa/4.0/
+  Changes: on and kun readings and English meanings only; suffix forms and duplicates removed
+  (tools/build_writing_readings.py).

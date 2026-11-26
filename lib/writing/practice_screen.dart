@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 
+import '../audio/tts_service.dart';
 import '../data/models.dart';
 import '../progress/progress_models.dart';
 import '../progress/progress_service.dart';
@@ -29,6 +30,7 @@ class WritingPracticeScreen extends StatefulWidget {
     required this.strokeSet,
     required this.chars,
     required this.index,
+    this.readings = const {},
   });
 
   final Deck deck;
@@ -37,6 +39,9 @@ class WritingPracticeScreen extends StatefulWidget {
   /// The list the learner is moving through (previous / next).
   final List<String> chars;
   final int index;
+
+  /// On and kun readings of each kanji (Japanese only); empty otherwise.
+  final Map<String, KanjiReading> readings;
 
   @override
   State<WritingPracticeScreen> createState() => _WritingPracticeScreenState();
@@ -68,6 +73,7 @@ class _WritingPracticeScreenState extends State<WritingPracticeScreen>
   int _xp = 0;
 
   String get _ch => widget.chars[_index];
+  KanjiReading? get _reading => widget.readings[_ch];
   StrokeChar get _char => widget.strokeSet[_ch]!;
   String get _lang => widget.deck.language;
   Locale get _locale =>
@@ -122,6 +128,42 @@ class _WritingPracticeScreenState extends State<WritingPracticeScreen>
       _xp = 0;
     });
     if (m == PracticeMode.watch) _playWatch();
+  }
+
+  /// Says [text] aloud with the deck's voice.
+  void _say(String text) => context.read<TtsService>().speak(text);
+
+  /// A tappable reading: a small speaker and the kana. Hiragana is the kun
+  /// reading and katakana the on reading, so the script tells them apart.
+  Widget _readingChip(LingoColors c, TextTheme text, String r, String label) {
+    return Tooltip(
+      message: 'Hear $label reading',
+      child: ActionChip(
+        avatar: Icon(Icons.volume_up_rounded, size: 18, color: c.accent),
+        label: Text(KanjiReading.shown(r),
+            locale: _locale, style: text.titleMedium),
+        visualDensity: VisualDensity.compact,
+        onPressed: () => _say(KanjiReading.spoken(r)),
+      ),
+    );
+  }
+
+  /// The readings above the big kanji, each one tappable to hear it.
+  Widget _readingsBlock(LingoColors c, TextTheme text) {
+    final r = _reading;
+    if (r == null || r.isEmpty) return const SizedBox.shrink();
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 8),
+      child: Wrap(
+        spacing: 8,
+        runSpacing: 0,
+        crossAxisAlignment: WrapCrossAlignment.center,
+        children: [
+          for (final k in r.kun) _readingChip(c, text, k, 'kun'),
+          for (final o in r.on) _readingChip(c, text, o, 'on'),
+        ],
+      ),
+    );
   }
 
   void _playWatch() {
@@ -368,12 +410,29 @@ class _WritingPracticeScreenState extends State<WritingPracticeScreen>
                   : const ClampingScrollPhysics(),
               padding: const EdgeInsets.fromLTRB(20, 4, 20, 28),
               children: [
+                _readingsBlock(c, text),
                 Row(
                   children: [
-                    Text(_ch,
-                        locale: _locale,
-                        style: text.displayMedium?.copyWith(height: 1.1)),
-                    const SizedBox(width: 14),
+                    InkWell(
+                      borderRadius: BorderRadius.circular(12),
+                      onTap: _lang == 'ja'
+                          ? () => _say(_reading?.primary != null
+                              ? KanjiReading.spoken(_reading!.primary!)
+                              : _ch)
+                          : null,
+                      child: Text(_ch,
+                          locale: _locale,
+                          style: text.displayMedium?.copyWith(height: 1.1)),
+                    ),
+                    if (_lang == 'ja')
+                      IconButton(
+                        tooltip: 'Hear it',
+                        onPressed: () => _say(_reading?.primary != null
+                            ? KanjiReading.spoken(_reading!.primary!)
+                            : _ch),
+                        icon: Icon(Icons.volume_up_rounded, color: c.accent),
+                      ),
+                    const SizedBox(width: 6),
                     Expanded(
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
@@ -382,6 +441,14 @@ class _WritingPracticeScreenState extends State<WritingPracticeScreen>
                             '${_char.strokeCount} stroke${_char.strokeCount == 1 ? '' : 's'}',
                             style: text.titleMedium,
                           ),
+                          if (_reading != null && _reading!.meanings.isNotEmpty)
+                            Padding(
+                              padding: const EdgeInsets.only(top: 2),
+                              child: Text(_reading!.meanings.join(', '),
+                                  maxLines: 2,
+                                  overflow: TextOverflow.ellipsis,
+                                  style: text.bodySmall),
+                            ),
                           const SizedBox(height: 2),
                           Row(
                             children: [
@@ -472,15 +539,33 @@ class _WritingPracticeScreenState extends State<WritingPracticeScreen>
                       child: AppCard(
                         padding: const EdgeInsets.symmetric(
                             horizontal: 14, vertical: 10),
+                        onTap: _lang == 'ja'
+                            ? () => _say((w.reading ?? '').isNotEmpty
+                                ? w.reading!
+                                : w.lemma)
+                            : null,
                         child: Row(
                           children: [
-                            Text(w.lemma,
-                                locale: _locale, style: text.titleMedium),
+                            Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              mainAxisSize: MainAxisSize.min,
+                              children: [
+                                if (_lang == 'ja' && (w.reading ?? '').isNotEmpty)
+                                  Text(w.reading!,
+                                      locale: _locale,
+                                      style: text.labelSmall
+                                          ?.copyWith(color: c.accent)),
+                                Text(w.lemma,
+                                    locale: _locale, style: text.titleMedium),
+                              ],
+                            ),
                             const SizedBox(width: 12),
                             Expanded(
                               child: Text(
                                 [
-                                  if ((w.reading ?? '').isNotEmpty) w.reading!,
+                                  if (_lang != 'ja' &&
+                                      (w.reading ?? '').isNotEmpty)
+                                    w.reading!,
                                   w.gloss,
                                 ].join('  ·  '),
                                 maxLines: 2,
@@ -488,6 +573,9 @@ class _WritingPracticeScreenState extends State<WritingPracticeScreen>
                                 style: text.bodySmall,
                               ),
                             ),
+                            if (_lang == 'ja')
+                              Icon(Icons.volume_up_rounded,
+                                  size: 20, color: c.accent),
                           ],
                         ),
                       ),

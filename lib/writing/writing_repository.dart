@@ -22,6 +22,10 @@ class WritingRepository extends ChangeNotifier {
     'zh': 'assets/writing/zh_strokes.json',
   };
 
+  /// Kanji readings (on and kun) exist for Japanese only.
+  static const _readingAssets = {'ja': 'assets/writing/ja_readings.json'};
+
+  final Map<String, Map<String, KanjiReading>> _readings = {};
   final Map<String, StrokeSet> _sets = {};
   final Map<String, Future<StrokeSet?>> _loading = {};
   final Map<String, Map<String, CharProgress>> _progress = {};
@@ -47,6 +51,22 @@ class WritingRepository extends ChangeNotifier {
         return null;
       }
     }();
+  }
+
+  /// The kanji readings for [language], or an empty map when there are none
+  /// (or the file cannot be read: the screens then simply show no readings).
+  Future<Map<String, KanjiReading>> readingsFor(String language) async {
+    final cached = _readings[language];
+    if (cached != null) return cached;
+    final path = _readingAssets[language];
+    if (path == null) return const {};
+    try {
+      final text = await _load(path);
+      return _readings[language] = KanjiReading.parse(text);
+    } catch (e, s) {
+      debugPrint('WritingRepository: could not load $path: $e\n$s');
+      return const {};
+    }
   }
 
   String _key(String language) => 'writing_progress_$language';

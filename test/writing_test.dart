@@ -226,4 +226,41 @@ void main() {
       expect(again.increments.containsKey('characters_learned'), isFalse);
     });
   });
+
+  group('KanjiReading', () {
+    final readings = KanjiReading.parse(File('assets/writing/ja_readings.json').readAsStringSync());
+
+    test('the common kanji have on and kun readings', () {
+      expect(readings['人']!.on, contains('ジン'));
+      expect(readings['人']!.kun, contains('ひと'));
+      expect(readings['生']!.kun.first, 'い.きる');
+    });
+
+    test('every kanji with strokes has a reading', () {
+      final set = load('ja');
+      final missing = [
+        for (final ch in set.order)
+          if (!set[ch]!.isKana && (readings[ch]?.isEmpty ?? true)) ch
+      ];
+      expect(missing, isEmpty);
+    });
+
+    test('readings are kana only and the voice text has no markup', () {
+      final kana = RegExp(r'^[\u3041-\u3096\u30A1-\u30FA\u30FC.]+$');
+      for (final e in readings.entries) {
+        for (final r in [...e.value.on, ...e.value.kun]) {
+          expect(kana.hasMatch(r), isTrue, reason: '${e.key} $r');
+          expect(KanjiReading.spoken(r).contains('.'), isFalse);
+        }
+      }
+      expect(KanjiReading.shown('い.きる'), 'い\u30FBきる');
+      expect(KanjiReading.spoken('い.きる'), 'いきる');
+    });
+
+    test('the primary reading is the first kun, else the first on', () {
+      expect(readings['人']!.primary, 'ひと');
+      expect(const KanjiReading(on: ['ニチ']).primary, 'ニチ');
+      expect(const KanjiReading().primary, isNull);
+    });
+  });
 }

@@ -82,3 +82,39 @@ class CharProgress {
     return const CharProgress();
   }
 }
+
+/// The readings of one kanji from KANJIDIC: on-yomi (katakana) and kun-yomi
+/// (hiragana, with a dot before the okurigana, e.g. `い.きる`).
+class KanjiReading {
+  const KanjiReading({this.on = const [], this.kun = const [], this.meanings = const []});
+
+  final List<String> on;
+  final List<String> kun;
+  final List<String> meanings;
+
+  bool get isEmpty => on.isEmpty && kun.isEmpty;
+
+  /// The reading shown first: kun-yomi when there is one, else on-yomi.
+  String? get primary => kun.isNotEmpty ? kun.first : (on.isNotEmpty ? on.first : null);
+
+  /// What the voice should say for [reading]: no dot, no dashes.
+  static String spoken(String reading) => reading.replaceAll(RegExp(r'[.\-]'), '');
+
+  /// What is shown for [reading]: a dot between the stem and the okurigana
+  /// becomes a middle dot, `い.きる` -> `い・きる`.
+  static String shown(String reading) => reading.replaceAll('.', '\u30FB').replaceAll('-', '');
+
+  static Map<String, KanjiReading> parse(String jsonText) {
+    final root = jsonDecode(jsonText) as Map<String, dynamic>;
+    final raw = root['kanji'] as Map<String, dynamic>;
+    List<String> strings(Object? v) => v is List ? v.cast<String>() : const [];
+    return {
+      for (final e in raw.entries)
+        e.key: KanjiReading(
+          on: strings((e.value as Map)['on']),
+          kun: strings((e.value as Map)['kun']),
+          meanings: strings((e.value as Map)['m']),
+        ),
+    };
+  }
+}
