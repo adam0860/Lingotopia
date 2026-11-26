@@ -25,3 +25,18 @@ assets/writing/ja_readings.json  (kanji readings for the Japanese writing practi
   https://creativecommons.org/licenses/by-sa/4.0/
   Changes: on and kun readings and English meanings only; suffix forms and duplicates removed
   (tools/build_writing_readings.py).
+
+assets/writing/zh_readings.json  (pinyin and meanings for the Chinese writing practice)
+  Pinyin from pypinyin (MIT licence) cross-checked with CC-CEDICT, Copyright (C) MDBG
+  (https://cc-cedict.org), as bundled in the hanzipy package.
+  Licensed under Creative Commons Attribution-ShareAlike 4.0
+  https://creativecommons.org/licenses/by-sa/4.0/
+  Changes: tone-marked pinyin (up to 3 readings) and up to 3 short English glosses per character
+  (tools/build_writing_readings_zh.py).
+
+assets/writing/ko_strokes.json, ko_readings.json  (Hangul writing practice)
+  Authored for Lingotopia: the stroke lines of each Hangul letter are composed into syllable blocks
+  (tools/build_hangul_strokes.py). The stroke order of each letter was checked against the open
+  hangeul-stroke-order diagrams (https://github.com/MagisterAdamus/hangeul-stroke-order,
+  Creative Commons Attribution-ShareAlike 4.0); no artwork from that set is included.
+  Romanization follows the Revised Romanization of Korean for the syllable on its own.

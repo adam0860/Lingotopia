@@ -45,20 +45,28 @@ class _WritingHomeScreenState extends State<WritingHomeScreen> {
       context.read<WritingRepository>().setFor(widget.deck.language);
   Map<String, KanjiReading> _readings = const {};
   final _find = TextEditingController();
-  bool _kana = false;
+  bool _basic = false; // kana (Japanese) or letters (Korean) instead of kanji or syllables
   _Band _band = _Band.all;
   String? _notFound;
 
   @override
   void initState() {
     super.initState();
+    _basic = _isKo; // Korean learners start with the letters
     context.read<WritingRepository>().readingsFor(widget.deck.language).then((r) {
       if (mounted) setState(() => _readings = r);
     });
   }
 
   bool get _isJa => widget.deck.language == 'ja';
-  Locale get _locale => _isJa ? const Locale('ja', 'JP') : const Locale('zh', 'CN');
+  bool get _isKo => widget.deck.language == 'ko';
+
+  /// Japanese and Korean split into a basic set (kana, letters) and the rest.
+  bool get _grouped => _isJa || _isKo;
+  Locale get _locale => writingLocale(widget.deck.language);
+
+  bool _inBasic(StrokeSet set, String ch) =>
+      _isKo ? set[ch]!.isJamo : set[ch]!.isKana;
 
   @override
   void dispose() {
@@ -69,8 +77,8 @@ class _WritingHomeScreenState extends State<WritingHomeScreen> {
   List<String> _visible(StrokeSet set) {
     return [
       for (final ch in set.order)
-        if (!_isJa || set[ch]!.isKana == _kana)
-          if (_kana || _band.admits(set[ch]!.strokeCount)) ch
+        if (!_grouped || _inBasic(set, ch) == _basic)
+          if (_basic || _band.admits(set[ch]!.strokeCount)) ch
     ];
   }
 
@@ -126,12 +134,12 @@ class _WritingHomeScreenState extends State<WritingHomeScreen> {
             final repo = context.watch<WritingRepository>();
             final lang = widget.deck.language;
             final list = _visible(set);
-            final total = _isJa
-                ? set.order.where((x) => set[x]!.isKana == _kana).length
+            final total = _grouped
+                ? set.order.where((x) => _inBasic(set, x) == _basic).length
                 : set.order.length;
             final done = repo.mastered(lang,
-                among: _isJa
-                    ? set.order.where((x) => set[x]!.isKana == _kana)
+                among: _grouped
+                    ? set.order.where((x) => _inBasic(set, x) == _basic)
                     : set.order);
 
             return Center(
@@ -154,16 +162,22 @@ class _WritingHomeScreenState extends State<WritingHomeScreen> {
                                   'finish with Write for stars.',
                                   style: text.bodyMedium,
                                 ),
-                                if (_isJa) ...[
-                                  const SizedBox(height: 8),
-                                  Text(
-                                    'The reading is shown above each kanji: '
-                                    'hiragana for the kun reading, katakana for '
-                                    'the on reading. Press and hold a character '
-                                    'to hear it.',
-                                    style: text.bodySmall,
-                                  ),
-                                ],
+                                const SizedBox(height: 8),
+                                Text(
+                                  switch (widget.deck.language) {
+                                    'ja' => 'The reading is shown above each kanji: '
+                                        'hiragana for the kun reading, katakana for '
+                                        'the on reading. Press and hold a character '
+                                        'to hear it.',
+                                    'ko' => 'The romanization is shown above each '
+                                        'letter and syllable. Learn the letters '
+                                        'first, then the syllable blocks the deck '
+                                        'uses. Press and hold a character to hear it.',
+                                    _ => 'The pinyin is shown above each character. '
+                                        'Press and hold a character to hear it.',
+                                  },
+                                  style: text.bodySmall,
+                                ),
                                 const SizedBox(height: 12),
                                 ClipRRect(
                                   borderRadius: BorderRadius.circular(8),
@@ -182,16 +196,20 @@ class _WritingHomeScreenState extends State<WritingHomeScreen> {
                             ),
                           ),
                           const SizedBox(height: 14),
-                          if (_isJa) ...[
+                          if (_grouped) ...[
                             SegmentedButton<bool>(
                               showSelectedIcon: false,
-                              segments: const [
-                                ButtonSegment(value: false, label: Text('Kanji')),
-                                ButtonSegment(value: true, label: Text('Kana')),
+                              segments: [
+                                ButtonSegment(
+                                    value: false,
+                                    label: Text(_isKo ? 'Syllables' : 'Kanji')),
+                                ButtonSegment(
+                                    value: true,
+                                    label: Text(_isKo ? 'Letters' : 'Kana')),
                               ],
-                              selected: {_kana},
+                              selected: {_basic},
                               onSelectionChanged: (s) =>
-                                  setState(() => _kana = s.first),
+                                  setState(() => _basic = s.first),
                             ),
                             const SizedBox(height: 12),
                           ],
@@ -213,7 +231,7 @@ class _WritingHomeScreenState extends State<WritingHomeScreen> {
                                   borderRadius: BorderRadius.circular(14)),
                             ),
                           ),
-                          if (!_isJa || !_kana) ...[
+                          if (!_grouped || !_basic) ...[
                             const SizedBox(height: 10),
                             SizedBox(
                               height: 40,
@@ -256,18 +274,17 @@ class _WritingHomeScreenState extends State<WritingHomeScreen> {
                           final tint = p.stars > 0
                               ? c.success
                               : (p.runs > 0 ? c.caution : c.hairline);
-                          final reading = _isJa ? _readings[ch] : null;
+                          final reading = _readings[ch];
                           final primary = reading?.primary;
-                          final onlyOn = reading != null && reading.kun.isEmpty;
+                          final onlyOn = reading != null &&
+                              reading.kun.isEmpty &&
+                              reading.on.isNotEmpty;
                           return InkWell(
                             borderRadius: BorderRadius.circular(14),
                             onTap: () => _open(set, list, i),
-                            onLongPress: _isJa
-                                ? () => context.read<TtsService>().speak(
-                                    primary != null
-                                        ? KanjiReading.spoken(primary)
-                                        : ch)
-                                : null,
+                            onLongPress: () => context
+                                .read<TtsService>()
+                                .speak(reading?.heard(ch) ?? ch),
                             child: Ink(
                               decoration: BoxDecoration(
                                 color: c.raised,

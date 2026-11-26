@@ -20,10 +20,16 @@ class WritingRepository extends ChangeNotifier {
   static const _assets = {
     'ja': 'assets/writing/ja_strokes.json',
     'zh': 'assets/writing/zh_strokes.json',
+    'ko': 'assets/writing/ko_strokes.json',
   };
 
-  /// Kanji readings (on and kun) exist for Japanese only.
-  static const _readingAssets = {'ja': 'assets/writing/ja_readings.json'};
+  /// What is shown above each character: kanji readings (Japanese), pinyin
+  /// (Chinese) and romanization with letter names (Korean).
+  static const _readingAssets = {
+    'ja': 'assets/writing/ja_readings.json',
+    'zh': 'assets/writing/zh_readings.json',
+    'ko': 'assets/writing/ko_readings.json',
+  };
 
   final Map<String, Map<String, KanjiReading>> _readings = {};
   final Map<String, StrokeSet> _sets = {};

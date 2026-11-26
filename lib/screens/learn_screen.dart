@@ -186,9 +186,14 @@ class _LearnBody extends StatelessWidget {
                     ActionTile(
                       icon: Icons.draw_outlined,
                       title: 'Writing practice',
-                      subtitle: deck.language == 'ja'
-                          ? 'Stroke order for kanji, hiragana and katakana. Draw with a finger or stylus.'
-                          : 'Stroke order for Chinese characters. Draw with a finger or stylus.',
+                      subtitle: switch (deck.language) {
+                        'ja' =>
+                          'Stroke order for kanji, hiragana and katakana, with readings and sound. Draw with a finger or stylus.',
+                        'ko' =>
+                          'Stroke order for Hangul letters and syllables, with romanization and sound. Draw with a finger or stylus.',
+                        _ =>
+                          'Stroke order for Chinese characters, with pinyin and sound. Draw with a finger or stylus.',
+                      },
                       color: c.success,
                       onTap: () => Navigator.of(context).push(
                         MaterialPageRoute(

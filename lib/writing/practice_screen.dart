@@ -76,8 +76,10 @@ class _WritingPracticeScreenState extends State<WritingPracticeScreen>
   KanjiReading? get _reading => widget.readings[_ch];
   StrokeChar get _char => widget.strokeSet[_ch]!;
   String get _lang => widget.deck.language;
-  Locale get _locale =>
-      _lang == 'zh' ? const Locale('zh', 'CN') : const Locale('ja', 'JP');
+  Locale get _locale => writingLocale(_lang);
+
+  /// What the voice says for the whole character on screen.
+  String get _heard => _reading?.heard(_ch) ?? _ch;
 
   @override
   void initState() {
@@ -148,6 +150,37 @@ class _WritingPracticeScreenState extends State<WritingPracticeScreen>
     );
   }
 
+  /// What to say for one pinyin or romanization [r] of the character.
+  /// A voice only reads a lone hanzi its usual way, so a second pinyin is
+  /// played through a deck word that uses it; null when there is none.
+  String? _soundToSay(String r, {required bool first}) {
+    if (_lang != 'zh') return _heard;
+    for (final w in _examples) {
+      final tokens = (w.reading ?? '').trim().split(RegExp(r'\s+'));
+      final at = w.lemma.indexOf(_ch);
+      if (at >= 0 && tokens.length == w.lemma.runes.length && tokens[at] == r) {
+        return w.lemma;
+      }
+    }
+    return first ? _ch : null;
+  }
+
+  /// A pinyin or romanization chip; tappable when the voice can say it.
+  Widget _soundChip(LingoColors c, TextTheme text, String r, {required bool first}) {
+    final say = _soundToSay(r, first: first);
+    final label = Text(r, locale: _locale, style: text.titleMedium);
+    if (say == null) {
+      return Chip(label: label, visualDensity: VisualDensity.compact);
+    }
+    return ActionChip(
+      avatar: Icon(Icons.volume_up_rounded, size: 18, color: c.accent),
+      label: label,
+      visualDensity: VisualDensity.compact,
+      tooltip: 'Hear it',
+      onPressed: () => _say(say),
+    );
+  }
+
   /// The readings above the big kanji, each one tappable to hear it.
   Widget _readingsBlock(LingoColors c, TextTheme text) {
     final r = _reading;
@@ -161,6 +194,8 @@ class _WritingPracticeScreenState extends State<WritingPracticeScreen>
         children: [
           for (final k in r.kun) _readingChip(c, text, k, 'kun'),
           for (final o in r.on) _readingChip(c, text, o, 'on'),
+          for (var i = 0; i < r.sounds.length; i++)
+            _soundChip(c, text, r.sounds[i], first: i == 0),
         ],
       ),
     );
@@ -415,23 +450,16 @@ class _WritingPracticeScreenState extends State<WritingPracticeScreen>
                   children: [
                     InkWell(
                       borderRadius: BorderRadius.circular(12),
-                      onTap: _lang == 'ja'
-                          ? () => _say(_reading?.primary != null
-                              ? KanjiReading.spoken(_reading!.primary!)
-                              : _ch)
-                          : null,
+                      onTap: () => _say(_heard),
                       child: Text(_ch,
                           locale: _locale,
                           style: text.displayMedium?.copyWith(height: 1.1)),
                     ),
-                    if (_lang == 'ja')
-                      IconButton(
-                        tooltip: 'Hear it',
-                        onPressed: () => _say(_reading?.primary != null
-                            ? KanjiReading.spoken(_reading!.primary!)
-                            : _ch),
-                        icon: Icon(Icons.volume_up_rounded, color: c.accent),
-                      ),
+                    IconButton(
+                      tooltip: 'Hear it',
+                      onPressed: () => _say(_heard),
+                      icon: Icon(Icons.volume_up_rounded, color: c.accent),
+                    ),
                     const SizedBox(width: 6),
                     Expanded(
                       child: Column(
@@ -539,18 +567,18 @@ class _WritingPracticeScreenState extends State<WritingPracticeScreen>
                       child: AppCard(
                         padding: const EdgeInsets.symmetric(
                             horizontal: 14, vertical: 10),
-                        onTap: _lang == 'ja'
-                            ? () => _say((w.reading ?? '').isNotEmpty
+                        // Japanese is said from its kana, the others from the word.
+                        onTap: () => _say(
+                            _lang == 'ja' && (w.reading ?? '').isNotEmpty
                                 ? w.reading!
-                                : w.lemma)
-                            : null,
+                                : w.lemma),
                         child: Row(
                           children: [
                             Column(
                               crossAxisAlignment: CrossAxisAlignment.start,
                               mainAxisSize: MainAxisSize.min,
                               children: [
-                                if (_lang == 'ja' && (w.reading ?? '').isNotEmpty)
+                                if ((w.reading ?? '').isNotEmpty)
                                   Text(w.reading!,
                                       locale: _locale,
                                       style: text.labelSmall
@@ -562,20 +590,14 @@ class _WritingPracticeScreenState extends State<WritingPracticeScreen>
                             const SizedBox(width: 12),
                             Expanded(
                               child: Text(
-                                [
-                                  if (_lang != 'ja' &&
-                                      (w.reading ?? '').isNotEmpty)
-                                    w.reading!,
-                                  w.gloss,
-                                ].join('  ·  '),
+                                w.gloss,
                                 maxLines: 2,
                                 overflow: TextOverflow.ellipsis,
                                 style: text.bodySmall,
                               ),
                             ),
-                            if (_lang == 'ja')
-                              Icon(Icons.volume_up_rounded,
-                                  size: 20, color: c.accent),
+                            Icon(Icons.volume_up_rounded,
+                                size: 20, color: c.accent),
                           ],
                         ),
                       ),

@@ -95,6 +95,7 @@ void main() {
   group('stroke files', () {
     final ja = load('ja');
     final zh = load('zh');
+    final ko = load('ko');
 
     test('known stroke counts', () {
       expect(ja['人']!.strokeCount, 2);
@@ -104,6 +105,23 @@ void main() {
       expect(ja['あ']!.strokeCount, 3);
       expect(zh['你']!.strokeCount, 7);
       expect(zh['好']!.strokeCount, 6);
+      // Hangul: a letter's own strokes, and a block is initial + vowel + final.
+      expect(ko['ㄱ']!.strokeCount, 1);
+      expect(ko['ㅂ']!.strokeCount, 4);
+      expect(ko['ㅎ']!.strokeCount, 3);
+      expect(ko['ㅘ']!.strokeCount, 4);
+      expect(ko['가']!.strokeCount, 1 + 2);
+      expect(ko['한']!.strokeCount, 3 + 2 + 1);
+      expect(ko['밖']!.strokeCount, 4 + 2 + 2);
+    });
+
+    test('Korean letters come first, then syllables', () {
+      final order = ko.order;
+      expect(order.take(40).every(StrokeChar.isJamoChar), isTrue);
+      expect(order.skip(40).any(StrokeChar.isJamoChar), isFalse);
+      expect(order.length, greaterThan(1000));
+      expect(ko['ㄱ']!.isJamo, isTrue);
+      expect(ko['가']!.isJamo, isFalse);
     });
 
     test('kana come first in Japanese, kanji after', () {
@@ -115,7 +133,7 @@ void main() {
     });
 
     test('every point is on the grid and every stroke can be drawn', () {
-      for (final set in [ja, zh]) {
+      for (final set in [ja, zh, ko]) {
         for (final ch in set.chars.values) {
           expect(ch.strokes, isNotEmpty, reason: ch.char);
           for (final s in ch.strokes) {
@@ -130,7 +148,7 @@ void main() {
     });
 
     test('each model stroke matches itself', () {
-      for (final set in [ja, zh]) {
+      for (final set in [ja, zh, ko]) {
         for (final ch in set.chars.values.take(300)) {
           for (final s in ch.strokes) {
             expect(StrokeMatcher.match(user: s, target: s).ok, isTrue,
@@ -163,9 +181,10 @@ void main() {
       expect(again.progressOf('ja', '人').stars, 3);
     });
 
-    test('only Japanese and Chinese have stroke data', () {
+    test('only Japanese, Chinese and Korean have stroke data', () {
       expect(WritingRepository.supports('ja'), isTrue);
       expect(WritingRepository.supports('zh'), isTrue);
+      expect(WritingRepository.supports('ko'), isTrue);
       expect(WritingRepository.supports('ru'), isFalse);
     });
   });
@@ -261,6 +280,47 @@ void main() {
       expect(readings['人']!.primary, 'ひと');
       expect(const KanjiReading(on: ['ニチ']).primary, 'ニチ');
       expect(const KanjiReading().primary, isNull);
+    });
+  });
+
+  group('Chinese and Korean readings', () {
+    final zhR = KanjiReading.parse(File('assets/writing/zh_readings.json').readAsStringSync());
+    final koR = KanjiReading.parse(File('assets/writing/ko_readings.json').readAsStringSync());
+
+    test('every hanzi with strokes has tone-marked pinyin', () {
+      final set = load('zh');
+      final missing = [
+        for (final ch in set.order)
+          if (zhR[ch]?.sounds.isEmpty ?? true) ch
+      ];
+      expect(missing, isEmpty);
+      expect(zhR['你']!.sounds, contains('nǐ'));
+      expect(zhR['好']!.primary, 'hǎo');
+      expect(zhR['长']!.sounds, containsAll(['cháng', 'zhǎng']));
+      expect(zhR['人']!.heard('人'), '人'); // the voice reads the hanzi itself
+    });
+
+    test('every Korean letter and syllable has a romanization', () {
+      final set = load('ko');
+      for (final ch in set.order) {
+        expect(koR[ch]?.sounds, isNotEmpty, reason: ch);
+      }
+      expect(koR['가']!.primary, 'ga');
+      expect(koR['한']!.primary, 'han');
+      expect(koR['없']!.primary, 'eop');
+      expect(koR['있']!.primary, 'it');
+      expect(koR['ㄱ']!.primary, 'g / k');
+      // letters are spoken by name, syllables as themselves
+      expect(koR['ㄱ']!.heard('ㄱ'), '기역');
+      expect(koR['ㅏ']!.heard('ㅏ'), '아');
+      expect(koR['한']!.heard('한'), '한');
+    });
+
+    test('a readings file without a given reading is simply empty', () {
+      expect(const KanjiReading(sounds: ['rén']).isEmpty, isFalse);
+      expect(const KanjiReading(sounds: ['rén']).primary, 'rén');
+      expect(writingLocale('ko').languageCode, 'ko');
+      expect(writingLocale('zh').countryCode, 'CN');
     });
   });
 }
